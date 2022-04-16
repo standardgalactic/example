@@ -1,1 +1,1 @@
-# example
+# example autohotkey scripts
