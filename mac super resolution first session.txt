@@ -1,0 +1,2010 @@
+Microsoft Windows [Version 10.0.19042.1237]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Mechachleopteryx>mymac
+'mymac' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Mechachleopteryx>ssh mecha@192.168.2.73
+Password:
+Last login: Wed Sep 29 19:59:27 2021 from 192.168.2.40
+(base) mecha@Mac ~ % lspci | grep -i nvidia
+zsh: command not found: lspci
+(base) mecha@Mac ~ % ls
+Desktop                 MLJ_tour                Public                  blender-git             mactree.txt
+Documents               MLJtest                 Quant                   build_darwin            mozart2
+Downloads               Model-code              Untitled.ipynb          cmake-make              myplot.png
+Experiments             Movies                  Untitled1.ipynb         experiment              spacemacs
+Julia-exp               Music                   Workshop                file_test               stats_experiments.jl
+Library                 Pictures                blender-build           lib
+(base) mecha@Mac ~ % cd projects
+cd: no such file or directory: projects
+(base) mecha@Mac ~ % mkdir projects
+(base) mecha@Mac ~ % ls
+Desktop                 MLJ_tour                Public                  blender-git             mactree.txt
+Documents               MLJtest                 Quant                   build_darwin            mozart2
+Downloads               Model-code              Untitled.ipynb          cmake-make              myplot.png
+Experiments             Movies                  Untitled1.ipynb         experiment              projects
+Julia-exp               Music                   Workshop                file_test               spacemacs
+Library                 Pictures                blender-build           lib                     stats_experiments.jl
+(base) mecha@Mac ~ % cd projects
+(base) mecha@Mac projects % git clone https://github.com/pytorch/examples
+Cloning into 'examples'...
+remote: Enumerating objects: 2876, done.
+remote: Counting objects: 100% (13/13), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 2876 (delta 3), reused 6 (delta 1), pack-reused 2863
+Receiving objects: 100% (2876/2876), 39.18 MiB | 14.68 MiB/s, done.
+Resolving deltas: 100% (1439/1439), done.
+(base) mecha@Mac projects % cd examples
+(base) mecha@Mac examples % ls
+LICENSE                         fx                              run_python_examples.sh
+README.md                       imagenet                        snli
+cpp                             mnist                           super_resolution
+dcgan                           mnist_hogwild                   time_sequence_prediction
+distributed                     regression                      vae
+fast_neural_style               reinforcement_learning          word_language_model
+(base) mecha@Mac examples % cd super_resolution
+(base) mecha@Mac super_resolution % ls
+README.md               dataset.py              model.py
+data.py                 main.py                 super_resolve.py
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'
+(base) mecha@Mac super_resolution % pip install torch
+Collecting torch
+  Downloading torch-1.9.1-cp38-none-macosx_10_9_x86_64.whl (218.8 MB)
+     |████████████████████████████████| 218.8 MB 69 kB/s
+Requirement already satisfied: typing-extensions in /opt/anaconda3/lib/python3.8/site-packages (from torch) (3.7.4.3)
+Installing collected packages: torch
+Successfully installed torch-1.9.1
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    from data import get_training_set, get_test_set
+  File "/Users/mecha/projects/examples/super_resolution/data.py", line 5, in <module>
+    from torchvision.transforms import Compose, CenterCrop, ToTensor, Resize
+ModuleNotFoundError: No module named 'torchvision'
+(base) mecha@Mac super_resolution % pip install torchvision
+Collecting torchvision
+  Downloading torchvision-0.10.1-cp38-cp38-macosx_10_9_x86_64.whl (14.3 MB)
+     |████████████████████████████████| 14.3 MB 1.7 MB/s
+Requirement already satisfied: pillow>=5.3.0 in /opt/anaconda3/lib/python3.8/site-packages (from torchvision) (8.2.0)
+Requirement already satisfied: torch==1.9.1 in /opt/anaconda3/lib/python3.8/site-packages (from torchvision) (1.9.1)
+Requirement already satisfied: numpy in /opt/anaconda3/lib/python3.8/site-packages (from torchvision) (1.20.1)
+Requirement already satisfied: typing-extensions in /opt/anaconda3/lib/python3.8/site-packages (from torch==1.9.1->torchvision) (3.7.4.3)
+Installing collected packages: torchvision
+Successfully installed torchvision-0.10.1
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=4, upscale_factor=3)
+===> Loading datasets
+downloading url  http://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/BSDS300-images.tgz
+Extracting data
+===> Building model
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=4, upscale_factor=3)
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=4, upscale_factor=3)
+===> Loading datasets
+===> Loading datasets
+===> Building model
+===> Building model
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=4, upscale_factor=3)
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=4, upscale_factor=3)
+===> Loading datasets
+===> Loading datasets
+===> Building model
+===> Building model
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 1, in <module>
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+    prepare(preparation_data)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+    main_content = runpy.run_path(main_path,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 265, in run_path
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 265, in run_path
+    return _run_module_code(code, init_globals, run_name,
+    return _run_module_code(code, init_globals, run_name,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 97, in _run_module_code
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 97, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+    _run_code(code, mod_globals, init_globals,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+    exec(code, run_globals)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 81, in <module>
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 81, in <module>
+    train(epoch)
+    train(epoch)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 48, in train
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 48, in train
+    for iteration, batch in enumerate(training_data_loader, 1):
+    for iteration, batch in enumerate(training_data_loader, 1):
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 359, in __iter__
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 359, in __iter__
+    return self._get_iterator()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 305, in _get_iterator
+    return self._get_iterator()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 305, in _get_iterator
+    return _MultiProcessingDataLoaderIter(self)
+    return _MultiProcessingDataLoaderIter(self)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 918, in __init__
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 918, in __init__
+    w.start()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/process.py", line 121, in start
+    w.start()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 224, in _Popen
+    self._popen = self._Popen(self)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 284, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 284, in _Popen
+    return Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    return Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 19, in __init__
+    super().__init__(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    self._launch(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 154, in get_preparation_data
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 154, in get_preparation_data
+    _check_not_importing_main()
+    _check_not_importing_main()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+    raise RuntimeError('''
+RuntimeError:
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.RuntimeError:
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+
+      The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "<string>", line 1, in <module>
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 116, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+    exitcode = _main(fd, parent_sentinel)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 125, in _main
+    prepare(preparation_data)
+    prepare(preparation_data)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 236, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 287, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+    main_content = runpy.run_path(main_path,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 265, in run_path
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 265, in run_path
+    return _run_module_code(code, init_globals, run_name,
+    return _run_module_code(code, init_globals, run_name,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 97, in _run_module_code
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 97, in _run_module_code
+    _run_code(code, mod_globals, init_globals,
+    _run_code(code, mod_globals, init_globals,
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+  File "/opt/anaconda3/lib/python3.8/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 81, in <module>
+    train(epoch)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 48, in train
+    for iteration, batch in enumerate(training_data_loader, 1):
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 359, in __iter__
+    exec(code, run_globals)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 81, in <module>
+    train(epoch)
+  File "/Users/mecha/projects/examples/super_resolution/main.py", line 48, in train
+    return self._get_iterator()
+    for iteration, batch in enumerate(training_data_loader, 1):
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 305, in _get_iterator
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 359, in __iter__
+    return _MultiProcessingDataLoaderIter(self)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 918, in __init__
+    return self._get_iterator()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 305, in _get_iterator
+    return _MultiProcessingDataLoaderIter(self)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 918, in __init__
+    w.start()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 224, in _Popen
+    w.start()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/process.py", line 121, in start
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 284, in _Popen
+    self._popen = self._Popen(self)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 224, in _Popen
+    return Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/context.py", line 284, in _Popen
+    super().__init__(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 19, in __init__
+    return Popen(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    self._launch(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    super().__init__(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_fork.py", line 19, in __init__
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 154, in get_preparation_data
+    self._launch(process_obj)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/popen_spawn_posix.py", line 42, in _launch
+    _check_not_importing_main()
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    prep_data = spawn.get_preparation_data(process_obj._name)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 154, in get_preparation_data
+    raise RuntimeError('''
+RuntimeError:
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.    _check_not_importing_main()
+
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/spawn.py", line 134, in _check_not_importing_main
+    raise RuntimeError('''
+RuntimeError:
+        An attempt has been made to start a new process before the
+        current process has finished its bootstrapping phase.
+
+        This probably means that you are not using fork to start your
+        child processes and you have forgotten to use the proper idiom
+        in the main module:
+
+            if __name__ == '__main__':
+                freeze_support()
+                ...
+
+        The "freeze_support()" line can be omitted if the program
+        is not going to be frozen to produce an executable.
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 990, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/queues.py", line 107, in get
+    if not self._poll(timeout):
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/connection.py", line 257, in poll
+    return self._poll(timeout)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/connection.py", line 424, in _poll
+    r = wait([self], timeout)
+  File "/opt/anaconda3/lib/python3.8/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/opt/anaconda3/lib/python3.8/selectors.py", line 415, in select
+    fd_event_list = self._selector.poll(timeout)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/_utils/signal_handling.py", line 66, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 69815) exited unexpectedly with exit code 1. Details are lost due to multiprocessing. Rerunning with num_workers=0 may give better error trace.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 81, in <module>
+    train(epoch)
+  File "main.py", line 48, in train
+    for iteration, batch in enumerate(training_data_loader, 1):
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 521, in __next__
+    data = self._next_data()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 1186, in _next_data
+    idx, data = self._get_data()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 1152, in _get_data
+    success, data = self._try_get_data()
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/utils/data/dataloader.py", line 1003, in _try_get_data
+    raise RuntimeError('DataLoader worker (pid(s) {}) exited unexpectedly'.format(pids_str)) from e
+RuntimeError: DataLoader worker (pid(s) 69815, 69816, 69817, 69818) exited unexpectedly
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001 --num_workers 0
+usage: main.py [-h] --upscale_factor UPSCALE_FACTOR [--batchSize BATCHSIZE] [--testBatchSize TESTBATCHSIZE]
+               [--nEpochs NEPOCHS] [--lr LR] [--cuda] [--threads THREADS] [--seed SEED]
+main.py: error: unrecognized arguments: --num_workers 0
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001 num_workers=0
+usage: main.py [-h] --upscale_factor UPSCALE_FACTOR [--batchSize BATCHSIZE] [--testBatchSize TESTBATCHSIZE]
+               [--nEpochs NEPOCHS] [--lr LR] [--cuda] [--threads THREADS] [--seed SEED]
+main.py: error: unrecognized arguments: num_workers=0
+(base) mecha@Mac super_resolution % ls
+README.md               data.py                 dataset.py              model.py
+__pycache__             dataset                 main.py                 super_resolve.py
+(base) mecha@Mac super_resolution % vim super_resolve.py
+(base) mecha@Mac super_resolution % vim main.py
+(base) mecha@Mac super_resolution % python main.py --upscale_factor 3 --batchSize 4 --testBatchSize 100 --nEpochs 30 --lr 0.001
+Namespace(batchSize=4, cuda=False, lr=0.001, nEpochs=30, seed=123, testBatchSize=100, threads=0, upscale_factor=3)
+===> Loading datasets
+===> Building model
+===> Epoch[1](1/50): Loss: 0.4537
+===> Epoch[1](2/50): Loss: 0.1446
+===> Epoch[1](3/50): Loss: 0.0546
+===> Epoch[1](4/50): Loss: 0.0567
+===> Epoch[1](5/50): Loss: 0.0571
+===> Epoch[1](6/50): Loss: 0.0476
+===> Epoch[1](7/50): Loss: 0.0417
+===> Epoch[1](8/50): Loss: 0.0294
+===> Epoch[1](9/50): Loss: 0.0245
+===> Epoch[1](10/50): Loss: 0.0297
+===> Epoch[1](11/50): Loss: 0.0159
+===> Epoch[1](12/50): Loss: 0.0226
+===> Epoch[1](13/50): Loss: 0.0315
+===> Epoch[1](14/50): Loss: 0.0220
+===> Epoch[1](15/50): Loss: 0.0197
+===> Epoch[1](16/50): Loss: 0.0263
+===> Epoch[1](17/50): Loss: 0.0172
+===> Epoch[1](18/50): Loss: 0.0115
+===> Epoch[1](19/50): Loss: 0.0132
+===> Epoch[1](20/50): Loss: 0.0228
+===> Epoch[1](21/50): Loss: 0.0184
+===> Epoch[1](22/50): Loss: 0.0165
+===> Epoch[1](23/50): Loss: 0.0199
+===> Epoch[1](24/50): Loss: 0.0185
+===> Epoch[1](25/50): Loss: 0.0135
+===> Epoch[1](26/50): Loss: 0.0125
+===> Epoch[1](27/50): Loss: 0.0096
+===> Epoch[1](28/50): Loss: 0.0110
+===> Epoch[1](29/50): Loss: 0.0189
+===> Epoch[1](30/50): Loss: 0.0096
+===> Epoch[1](31/50): Loss: 0.0102
+===> Epoch[1](32/50): Loss: 0.0079
+===> Epoch[1](33/50): Loss: 0.0089
+===> Epoch[1](34/50): Loss: 0.0118
+===> Epoch[1](35/50): Loss: 0.0111
+===> Epoch[1](36/50): Loss: 0.0093
+===> Epoch[1](37/50): Loss: 0.0073
+===> Epoch[1](38/50): Loss: 0.0044
+===> Epoch[1](39/50): Loss: 0.0100
+===> Epoch[1](40/50): Loss: 0.0069
+===> Epoch[1](41/50): Loss: 0.0122
+===> Epoch[1](42/50): Loss: 0.0091
+===> Epoch[1](43/50): Loss: 0.0087
+===> Epoch[1](44/50): Loss: 0.0072
+===> Epoch[1](45/50): Loss: 0.0117
+===> Epoch[1](46/50): Loss: 0.0071
+===> Epoch[1](47/50): Loss: 0.0063
+===> Epoch[1](48/50): Loss: 0.0076
+===> Epoch[1](49/50): Loss: 0.0109
+===> Epoch[1](50/50): Loss: 0.0087
+===> Epoch 1 Complete: Avg. Loss: 0.0294
+===> Avg. PSNR: 20.6577 dB
+Checkpoint saved to model_epoch_1.pth
+===> Epoch[2](1/50): Loss: 0.0054
+===> Epoch[2](2/50): Loss: 0.0055
+===> Epoch[2](3/50): Loss: 0.0076
+===> Epoch[2](4/50): Loss: 0.0076
+===> Epoch[2](5/50): Loss: 0.0074
+===> Epoch[2](6/50): Loss: 0.0068
+===> Epoch[2](7/50): Loss: 0.0062
+===> Epoch[2](8/50): Loss: 0.0057
+===> Epoch[2](9/50): Loss: 0.0105
+===> Epoch[2](10/50): Loss: 0.0068
+===> Epoch[2](11/50): Loss: 0.0074
+===> Epoch[2](12/50): Loss: 0.0103
+===> Epoch[2](13/50): Loss: 0.0066
+===> Epoch[2](14/50): Loss: 0.0119
+===> Epoch[2](15/50): Loss: 0.0072
+===> Epoch[2](16/50): Loss: 0.0098
+===> Epoch[2](17/50): Loss: 0.0043
+===> Epoch[2](18/50): Loss: 0.0075
+===> Epoch[2](19/50): Loss: 0.0041
+===> Epoch[2](20/50): Loss: 0.0048
+===> Epoch[2](21/50): Loss: 0.0072
+===> Epoch[2](22/50): Loss: 0.0068
+===> Epoch[2](23/50): Loss: 0.0068
+===> Epoch[2](24/50): Loss: 0.0065
+===> Epoch[2](25/50): Loss: 0.0033
+===> Epoch[2](26/50): Loss: 0.0041
+===> Epoch[2](27/50): Loss: 0.0044
+===> Epoch[2](28/50): Loss: 0.0048
+===> Epoch[2](29/50): Loss: 0.0063
+===> Epoch[2](30/50): Loss: 0.0091
+===> Epoch[2](31/50): Loss: 0.0029
+===> Epoch[2](32/50): Loss: 0.0040
+===> Epoch[2](33/50): Loss: 0.0074
+===> Epoch[2](34/50): Loss: 0.0047
+===> Epoch[2](35/50): Loss: 0.0075
+===> Epoch[2](36/50): Loss: 0.0105
+===> Epoch[2](37/50): Loss: 0.0067
+===> Epoch[2](38/50): Loss: 0.0037
+===> Epoch[2](39/50): Loss: 0.0049
+===> Epoch[2](40/50): Loss: 0.0059
+===> Epoch[2](41/50): Loss: 0.0040
+===> Epoch[2](42/50): Loss: 0.0050
+===> Epoch[2](43/50): Loss: 0.0057
+===> Epoch[2](44/50): Loss: 0.0042
+===> Epoch[2](45/50): Loss: 0.0046
+===> Epoch[2](46/50): Loss: 0.0053
+===> Epoch[2](47/50): Loss: 0.0047
+===> Epoch[2](48/50): Loss: 0.0043
+===> Epoch[2](49/50): Loss: 0.0059
+===> Epoch[2](50/50): Loss: 0.0094
+===> Epoch 2 Complete: Avg. Loss: 0.0063
+===> Avg. PSNR: 22.5815 dB
+Checkpoint saved to model_epoch_2.pth
+===> Epoch[3](1/50): Loss: 0.0042
+===> Epoch[3](2/50): Loss: 0.0043
+===> Epoch[3](3/50): Loss: 0.0073
+===> Epoch[3](4/50): Loss: 0.0039
+===> Epoch[3](5/50): Loss: 0.0034
+===> Epoch[3](6/50): Loss: 0.0039
+===> Epoch[3](7/50): Loss: 0.0048
+===> Epoch[3](8/50): Loss: 0.0051
+===> Epoch[3](9/50): Loss: 0.0027
+===> Epoch[3](10/50): Loss: 0.0053
+===> Epoch[3](11/50): Loss: 0.0067
+===> Epoch[3](12/50): Loss: 0.0043
+===> Epoch[3](13/50): Loss: 0.0056
+===> Epoch[3](14/50): Loss: 0.0063
+===> Epoch[3](15/50): Loss: 0.0064
+===> Epoch[3](16/50): Loss: 0.0035
+===> Epoch[3](17/50): Loss: 0.0042
+===> Epoch[3](18/50): Loss: 0.0055
+===> Epoch[3](19/50): Loss: 0.0029
+===> Epoch[3](20/50): Loss: 0.0052
+===> Epoch[3](21/50): Loss: 0.0046
+===> Epoch[3](22/50): Loss: 0.0043
+===> Epoch[3](23/50): Loss: 0.0049
+===> Epoch[3](24/50): Loss: 0.0029
+===> Epoch[3](25/50): Loss: 0.0043
+===> Epoch[3](26/50): Loss: 0.0033
+===> Epoch[3](27/50): Loss: 0.0050
+===> Epoch[3](28/50): Loss: 0.0064
+===> Epoch[3](29/50): Loss: 0.0029
+===> Epoch[3](30/50): Loss: 0.0045
+===> Epoch[3](31/50): Loss: 0.0039
+===> Epoch[3](32/50): Loss: 0.0032
+===> Epoch[3](33/50): Loss: 0.0056
+===> Epoch[3](34/50): Loss: 0.0032
+===> Epoch[3](35/50): Loss: 0.0039
+===> Epoch[3](36/50): Loss: 0.0048
+===> Epoch[3](37/50): Loss: 0.0046
+===> Epoch[3](38/50): Loss: 0.0062
+===> Epoch[3](39/50): Loss: 0.0061
+===> Epoch[3](40/50): Loss: 0.0033
+===> Epoch[3](41/50): Loss: 0.0045
+===> Epoch[3](42/50): Loss: 0.0042
+===> Epoch[3](43/50): Loss: 0.0012
+===> Epoch[3](44/50): Loss: 0.0044
+===> Epoch[3](45/50): Loss: 0.0070
+===> Epoch[3](46/50): Loss: 0.0055
+===> Epoch[3](47/50): Loss: 0.0067
+===> Epoch[3](48/50): Loss: 0.0037
+===> Epoch[3](49/50): Loss: 0.0022
+===> Epoch[3](50/50): Loss: 0.0052
+===> Epoch 3 Complete: Avg. Loss: 0.0046
+===> Avg. PSNR: 23.4011 dB
+Checkpoint saved to model_epoch_3.pth
+===> Epoch[4](1/50): Loss: 0.0031
+===> Epoch[4](2/50): Loss: 0.0031
+===> Epoch[4](3/50): Loss: 0.0041
+===> Epoch[4](4/50): Loss: 0.0057
+===> Epoch[4](5/50): Loss: 0.0026
+===> Epoch[4](6/50): Loss: 0.0032
+===> Epoch[4](7/50): Loss: 0.0043
+===> Epoch[4](8/50): Loss: 0.0023
+===> Epoch[4](9/50): Loss: 0.0045
+===> Epoch[4](10/50): Loss: 0.0051
+===> Epoch[4](11/50): Loss: 0.0032
+===> Epoch[4](12/50): Loss: 0.0031
+===> Epoch[4](13/50): Loss: 0.0030
+===> Epoch[4](14/50): Loss: 0.0027
+===> Epoch[4](15/50): Loss: 0.0037
+===> Epoch[4](16/50): Loss: 0.0045
+===> Epoch[4](17/50): Loss: 0.0041
+===> Epoch[4](18/50): Loss: 0.0036
+===> Epoch[4](19/50): Loss: 0.0040
+===> Epoch[4](20/50): Loss: 0.0017
+===> Epoch[4](21/50): Loss: 0.0061
+===> Epoch[4](22/50): Loss: 0.0010
+===> Epoch[4](23/50): Loss: 0.0023
+===> Epoch[4](24/50): Loss: 0.0045
+===> Epoch[4](25/50): Loss: 0.0049
+===> Epoch[4](26/50): Loss: 0.0034
+===> Epoch[4](27/50): Loss: 0.0045
+===> Epoch[4](28/50): Loss: 0.0057
+===> Epoch[4](29/50): Loss: 0.0058
+===> Epoch[4](30/50): Loss: 0.0042
+===> Epoch[4](31/50): Loss: 0.0035
+===> Epoch[4](32/50): Loss: 0.0057
+===> Epoch[4](33/50): Loss: 0.0065
+===> Epoch[4](34/50): Loss: 0.0054
+===> Epoch[4](35/50): Loss: 0.0060
+===> Epoch[4](36/50): Loss: 0.0049
+===> Epoch[4](37/50): Loss: 0.0034
+===> Epoch[4](38/50): Loss: 0.0033
+===> Epoch[4](39/50): Loss: 0.0038
+===> Epoch[4](40/50): Loss: 0.0016
+===> Epoch[4](41/50): Loss: 0.0033
+===> Epoch[4](42/50): Loss: 0.0052
+===> Epoch[4](43/50): Loss: 0.0028
+===> Epoch[4](44/50): Loss: 0.0056
+===> Epoch[4](45/50): Loss: 0.0034
+===> Epoch[4](46/50): Loss: 0.0031
+===> Epoch[4](47/50): Loss: 0.0042
+===> Epoch[4](48/50): Loss: 0.0058
+===> Epoch[4](49/50): Loss: 0.0036
+===> Epoch[4](50/50): Loss: 0.0038
+===> Epoch 4 Complete: Avg. Loss: 0.0040
+===> Avg. PSNR: 23.4592 dB
+Checkpoint saved to model_epoch_4.pth
+===> Epoch[5](1/50): Loss: 0.0031
+===> Epoch[5](2/50): Loss: 0.0019
+===> Epoch[5](3/50): Loss: 0.0034
+===> Epoch[5](4/50): Loss: 0.0035
+===> Epoch[5](5/50): Loss: 0.0054
+===> Epoch[5](6/50): Loss: 0.0016
+===> Epoch[5](7/50): Loss: 0.0036
+===> Epoch[5](8/50): Loss: 0.0050
+===> Epoch[5](9/50): Loss: 0.0043
+===> Epoch[5](10/50): Loss: 0.0041
+===> Epoch[5](11/50): Loss: 0.0072
+===> Epoch[5](12/50): Loss: 0.0038
+===> Epoch[5](13/50): Loss: 0.0026
+===> Epoch[5](14/50): Loss: 0.0028
+===> Epoch[5](15/50): Loss: 0.0035
+===> Epoch[5](16/50): Loss: 0.0038
+===> Epoch[5](17/50): Loss: 0.0030
+===> Epoch[5](18/50): Loss: 0.0041
+===> Epoch[5](19/50): Loss: 0.0038
+===> Epoch[5](20/50): Loss: 0.0031
+===> Epoch[5](21/50): Loss: 0.0042
+===> Epoch[5](22/50): Loss: 0.0050
+===> Epoch[5](23/50): Loss: 0.0035
+===> Epoch[5](24/50): Loss: 0.0044
+===> Epoch[5](25/50): Loss: 0.0047
+===> Epoch[5](26/50): Loss: 0.0042
+===> Epoch[5](27/50): Loss: 0.0032
+===> Epoch[5](28/50): Loss: 0.0023
+===> Epoch[5](29/50): Loss: 0.0035
+===> Epoch[5](30/50): Loss: 0.0063
+===> Epoch[5](31/50): Loss: 0.0056
+===> Epoch[5](32/50): Loss: 0.0083
+===> Epoch[5](33/50): Loss: 0.0020
+===> Epoch[5](34/50): Loss: 0.0075
+===> Epoch[5](35/50): Loss: 0.0029
+===> Epoch[5](36/50): Loss: 0.0035
+===> Epoch[5](37/50): Loss: 0.0037
+===> Epoch[5](38/50): Loss: 0.0036
+===> Epoch[5](39/50): Loss: 0.0050
+===> Epoch[5](40/50): Loss: 0.0034
+===> Epoch[5](41/50): Loss: 0.0038
+===> Epoch[5](42/50): Loss: 0.0038
+===> Epoch[5](43/50): Loss: 0.0019
+===> Epoch[5](44/50): Loss: 0.0041
+===> Epoch[5](45/50): Loss: 0.0043
+===> Epoch[5](46/50): Loss: 0.0085
+===> Epoch[5](47/50): Loss: 0.0056
+===> Epoch[5](48/50): Loss: 0.0035
+===> Epoch[5](49/50): Loss: 0.0028
+===> Epoch[5](50/50): Loss: 0.0048
+===> Epoch 5 Complete: Avg. Loss: 0.0041
+===> Avg. PSNR: 23.9073 dB
+Checkpoint saved to model_epoch_5.pth
+===> Epoch[6](1/50): Loss: 0.0059
+===> Epoch[6](2/50): Loss: 0.0061
+===> Epoch[6](3/50): Loss: 0.0030
+===> Epoch[6](4/50): Loss: 0.0046
+===> Epoch[6](5/50): Loss: 0.0054
+===> Epoch[6](6/50): Loss: 0.0033
+===> Epoch[6](7/50): Loss: 0.0047
+===> Epoch[6](8/50): Loss: 0.0062
+===> Epoch[6](9/50): Loss: 0.0019
+===> Epoch[6](10/50): Loss: 0.0034
+===> Epoch[6](11/50): Loss: 0.0043
+===> Epoch[6](12/50): Loss: 0.0040
+===> Epoch[6](13/50): Loss: 0.0025
+===> Epoch[6](14/50): Loss: 0.0009
+===> Epoch[6](15/50): Loss: 0.0038
+===> Epoch[6](16/50): Loss: 0.0049
+===> Epoch[6](17/50): Loss: 0.0044
+===> Epoch[6](18/50): Loss: 0.0017
+===> Epoch[6](19/50): Loss: 0.0023
+===> Epoch[6](20/50): Loss: 0.0030
+===> Epoch[6](21/50): Loss: 0.0024
+===> Epoch[6](22/50): Loss: 0.0038
+===> Epoch[6](23/50): Loss: 0.0028
+===> Epoch[6](24/50): Loss: 0.0054
+===> Epoch[6](25/50): Loss: 0.0030
+===> Epoch[6](26/50): Loss: 0.0051
+===> Epoch[6](27/50): Loss: 0.0045
+===> Epoch[6](28/50): Loss: 0.0025
+===> Epoch[6](29/50): Loss: 0.0032
+===> Epoch[6](30/50): Loss: 0.0030
+===> Epoch[6](31/50): Loss: 0.0047
+===> Epoch[6](32/50): Loss: 0.0036
+===> Epoch[6](33/50): Loss: 0.0025
+===> Epoch[6](34/50): Loss: 0.0037
+===> Epoch[6](35/50): Loss: 0.0027
+===> Epoch[6](36/50): Loss: 0.0065
+===> Epoch[6](37/50): Loss: 0.0044
+===> Epoch[6](38/50): Loss: 0.0026
+===> Epoch[6](39/50): Loss: 0.0031
+===> Epoch[6](40/50): Loss: 0.0016
+===> Epoch[6](41/50): Loss: 0.0033
+===> Epoch[6](42/50): Loss: 0.0044
+===> Epoch[6](43/50): Loss: 0.0032
+===> Epoch[6](44/50): Loss: 0.0030
+===> Epoch[6](45/50): Loss: 0.0035
+===> Epoch[6](46/50): Loss: 0.0016
+===> Epoch[6](47/50): Loss: 0.0056
+===> Epoch[6](48/50): Loss: 0.0028
+===> Epoch[6](49/50): Loss: 0.0044
+===> Epoch[6](50/50): Loss: 0.0034
+===> Epoch 6 Complete: Avg. Loss: 0.0037
+===> Avg. PSNR: 24.0242 dB
+Checkpoint saved to model_epoch_6.pth
+===> Epoch[7](1/50): Loss: 0.0032
+===> Epoch[7](2/50): Loss: 0.0034
+===> Epoch[7](3/50): Loss: 0.0019
+===> Epoch[7](4/50): Loss: 0.0057
+===> Epoch[7](5/50): Loss: 0.0018
+===> Epoch[7](6/50): Loss: 0.0025
+===> Epoch[7](7/50): Loss: 0.0027
+===> Epoch[7](8/50): Loss: 0.0020
+===> Epoch[7](9/50): Loss: 0.0041
+===> Epoch[7](10/50): Loss: 0.0046
+===> Epoch[7](11/50): Loss: 0.0015
+===> Epoch[7](12/50): Loss: 0.0043
+===> Epoch[7](13/50): Loss: 0.0044
+===> Epoch[7](14/50): Loss: 0.0048
+===> Epoch[7](15/50): Loss: 0.0053
+===> Epoch[7](16/50): Loss: 0.0038
+===> Epoch[7](17/50): Loss: 0.0044
+===> Epoch[7](18/50): Loss: 0.0030
+===> Epoch[7](19/50): Loss: 0.0038
+===> Epoch[7](20/50): Loss: 0.0037
+===> Epoch[7](21/50): Loss: 0.0045
+===> Epoch[7](22/50): Loss: 0.0056
+===> Epoch[7](23/50): Loss: 0.0022
+===> Epoch[7](24/50): Loss: 0.0050
+===> Epoch[7](25/50): Loss: 0.0020
+===> Epoch[7](26/50): Loss: 0.0017
+===> Epoch[7](27/50): Loss: 0.0060
+===> Epoch[7](28/50): Loss: 0.0028
+===> Epoch[7](29/50): Loss: 0.0038
+===> Epoch[7](30/50): Loss: 0.0027
+===> Epoch[7](31/50): Loss: 0.0034
+===> Epoch[7](32/50): Loss: 0.0024
+===> Epoch[7](33/50): Loss: 0.0033
+===> Epoch[7](34/50): Loss: 0.0031
+===> Epoch[7](35/50): Loss: 0.0029
+===> Epoch[7](36/50): Loss: 0.0028
+===> Epoch[7](37/50): Loss: 0.0055
+===> Epoch[7](38/50): Loss: 0.0023
+===> Epoch[7](39/50): Loss: 0.0055
+===> Epoch[7](40/50): Loss: 0.0023
+===> Epoch[7](41/50): Loss: 0.0009
+===> Epoch[7](42/50): Loss: 0.0043
+===> Epoch[7](43/50): Loss: 0.0057
+===> Epoch[7](44/50): Loss: 0.0034
+===> Epoch[7](45/50): Loss: 0.0054
+===> Epoch[7](46/50): Loss: 0.0035
+===> Epoch[7](47/50): Loss: 0.0065
+===> Epoch[7](48/50): Loss: 0.0031
+===> Epoch[7](49/50): Loss: 0.0023
+===> Epoch[7](50/50): Loss: 0.0029
+===> Epoch 7 Complete: Avg. Loss: 0.0036
+===> Avg. PSNR: 24.1055 dB
+Checkpoint saved to model_epoch_7.pth
+===> Epoch[8](1/50): Loss: 0.0035
+===> Epoch[8](2/50): Loss: 0.0042
+===> Epoch[8](3/50): Loss: 0.0038
+===> Epoch[8](4/50): Loss: 0.0038
+===> Epoch[8](5/50): Loss: 0.0032
+===> Epoch[8](6/50): Loss: 0.0060
+===> Epoch[8](7/50): Loss: 0.0014
+===> Epoch[8](8/50): Loss: 0.0024
+===> Epoch[8](9/50): Loss: 0.0035
+===> Epoch[8](10/50): Loss: 0.0032
+===> Epoch[8](11/50): Loss: 0.0021
+===> Epoch[8](12/50): Loss: 0.0033
+===> Epoch[8](13/50): Loss: 0.0025
+===> Epoch[8](14/50): Loss: 0.0023
+===> Epoch[8](15/50): Loss: 0.0020
+===> Epoch[8](16/50): Loss: 0.0038
+===> Epoch[8](17/50): Loss: 0.0054
+===> Epoch[8](18/50): Loss: 0.0038
+===> Epoch[8](19/50): Loss: 0.0023
+===> Epoch[8](20/50): Loss: 0.0046
+===> Epoch[8](21/50): Loss: 0.0022
+===> Epoch[8](22/50): Loss: 0.0047
+===> Epoch[8](23/50): Loss: 0.0053
+===> Epoch[8](24/50): Loss: 0.0026
+===> Epoch[8](25/50): Loss: 0.0041
+===> Epoch[8](26/50): Loss: 0.0020
+===> Epoch[8](27/50): Loss: 0.0057
+===> Epoch[8](28/50): Loss: 0.0029
+===> Epoch[8](29/50): Loss: 0.0073
+===> Epoch[8](30/50): Loss: 0.0053
+===> Epoch[8](31/50): Loss: 0.0038
+===> Epoch[8](32/50): Loss: 0.0039
+===> Epoch[8](33/50): Loss: 0.0039
+===> Epoch[8](34/50): Loss: 0.0028
+===> Epoch[8](35/50): Loss: 0.0017
+===> Epoch[8](36/50): Loss: 0.0012
+===> Epoch[8](37/50): Loss: 0.0057
+===> Epoch[8](38/50): Loss: 0.0025
+===> Epoch[8](39/50): Loss: 0.0029
+===> Epoch[8](40/50): Loss: 0.0040
+===> Epoch[8](41/50): Loss: 0.0031
+===> Epoch[8](42/50): Loss: 0.0028
+===> Epoch[8](43/50): Loss: 0.0021
+===> Epoch[8](44/50): Loss: 0.0040
+===> Epoch[8](45/50): Loss: 0.0032
+===> Epoch[8](46/50): Loss: 0.0051
+===> Epoch[8](47/50): Loss: 0.0029
+===> Epoch[8](48/50): Loss: 0.0028
+===> Epoch[8](49/50): Loss: 0.0032
+===> Epoch[8](50/50): Loss: 0.0050
+===> Epoch 8 Complete: Avg. Loss: 0.0035
+===> Avg. PSNR: 24.1663 dB
+Checkpoint saved to model_epoch_8.pth
+===> Epoch[9](1/50): Loss: 0.0029
+===> Epoch[9](2/50): Loss: 0.0030
+===> Epoch[9](3/50): Loss: 0.0044
+===> Epoch[9](4/50): Loss: 0.0026
+===> Epoch[9](5/50): Loss: 0.0020
+===> Epoch[9](6/50): Loss: 0.0027
+===> Epoch[9](7/50): Loss: 0.0052
+===> Epoch[9](8/50): Loss: 0.0040
+===> Epoch[9](9/50): Loss: 0.0043
+===> Epoch[9](10/50): Loss: 0.0031
+===> Epoch[9](11/50): Loss: 0.0040
+===> Epoch[9](12/50): Loss: 0.0048
+===> Epoch[9](13/50): Loss: 0.0051
+===> Epoch[9](14/50): Loss: 0.0013
+===> Epoch[9](15/50): Loss: 0.0038
+===> Epoch[9](16/50): Loss: 0.0029
+===> Epoch[9](17/50): Loss: 0.0041
+===> Epoch[9](18/50): Loss: 0.0037
+===> Epoch[9](19/50): Loss: 0.0042
+===> Epoch[9](20/50): Loss: 0.0041
+===> Epoch[9](21/50): Loss: 0.0030
+===> Epoch[9](22/50): Loss: 0.0019
+===> Epoch[9](23/50): Loss: 0.0023
+===> Epoch[9](24/50): Loss: 0.0036
+===> Epoch[9](25/50): Loss: 0.0009
+===> Epoch[9](26/50): Loss: 0.0062
+===> Epoch[9](27/50): Loss: 0.0038
+===> Epoch[9](28/50): Loss: 0.0044
+===> Epoch[9](29/50): Loss: 0.0026
+===> Epoch[9](30/50): Loss: 0.0042
+===> Epoch[9](31/50): Loss: 0.0027
+===> Epoch[9](32/50): Loss: 0.0050
+===> Epoch[9](33/50): Loss: 0.0020
+===> Epoch[9](34/50): Loss: 0.0053
+===> Epoch[9](35/50): Loss: 0.0024
+===> Epoch[9](36/50): Loss: 0.0044
+===> Epoch[9](37/50): Loss: 0.0051
+===> Epoch[9](38/50): Loss: 0.0041
+===> Epoch[9](39/50): Loss: 0.0011
+===> Epoch[9](40/50): Loss: 0.0033
+===> Epoch[9](41/50): Loss: 0.0039
+===> Epoch[9](42/50): Loss: 0.0027
+===> Epoch[9](43/50): Loss: 0.0015
+===> Epoch[9](44/50): Loss: 0.0034
+===> Epoch[9](45/50): Loss: 0.0020
+===> Epoch[9](46/50): Loss: 0.0034
+===> Epoch[9](47/50): Loss: 0.0053
+===> Epoch[9](48/50): Loss: 0.0041
+===> Epoch[9](49/50): Loss: 0.0031
+===> Epoch[9](50/50): Loss: 0.0032
+===> Epoch 9 Complete: Avg. Loss: 0.0035
+===> Avg. PSNR: 24.2257 dB
+Checkpoint saved to model_epoch_9.pth
+===> Epoch[10](1/50): Loss: 0.0025
+===> Epoch[10](2/50): Loss: 0.0040
+===> Epoch[10](3/50): Loss: 0.0023
+===> Epoch[10](4/50): Loss: 0.0048
+===> Epoch[10](5/50): Loss: 0.0016
+===> Epoch[10](6/50): Loss: 0.0026
+===> Epoch[10](7/50): Loss: 0.0026
+===> Epoch[10](8/50): Loss: 0.0045
+===> Epoch[10](9/50): Loss: 0.0039
+===> Epoch[10](10/50): Loss: 0.0031
+===> Epoch[10](11/50): Loss: 0.0029
+===> Epoch[10](12/50): Loss: 0.0035
+===> Epoch[10](13/50): Loss: 0.0042
+===> Epoch[10](14/50): Loss: 0.0042
+===> Epoch[10](15/50): Loss: 0.0052
+===> Epoch[10](16/50): Loss: 0.0021
+===> Epoch[10](17/50): Loss: 0.0046
+===> Epoch[10](18/50): Loss: 0.0055
+===> Epoch[10](19/50): Loss: 0.0026
+===> Epoch[10](20/50): Loss: 0.0022
+===> Epoch[10](21/50): Loss: 0.0056
+===> Epoch[10](22/50): Loss: 0.0015
+===> Epoch[10](23/50): Loss: 0.0023
+===> Epoch[10](24/50): Loss: 0.0023
+===> Epoch[10](25/50): Loss: 0.0050
+===> Epoch[10](26/50): Loss: 0.0040
+===> Epoch[10](27/50): Loss: 0.0049
+===> Epoch[10](28/50): Loss: 0.0026
+===> Epoch[10](29/50): Loss: 0.0028
+===> Epoch[10](30/50): Loss: 0.0037
+===> Epoch[10](31/50): Loss: 0.0030
+===> Epoch[10](32/50): Loss: 0.0022
+===> Epoch[10](33/50): Loss: 0.0045
+===> Epoch[10](34/50): Loss: 0.0014
+===> Epoch[10](35/50): Loss: 0.0033
+===> Epoch[10](36/50): Loss: 0.0045
+===> Epoch[10](37/50): Loss: 0.0060
+===> Epoch[10](38/50): Loss: 0.0052
+===> Epoch[10](39/50): Loss: 0.0024
+===> Epoch[10](40/50): Loss: 0.0021
+===> Epoch[10](41/50): Loss: 0.0037
+===> Epoch[10](42/50): Loss: 0.0062
+===> Epoch[10](43/50): Loss: 0.0038
+===> Epoch[10](44/50): Loss: 0.0017
+===> Epoch[10](45/50): Loss: 0.0018
+===> Epoch[10](46/50): Loss: 0.0021
+===> Epoch[10](47/50): Loss: 0.0037
+===> Epoch[10](48/50): Loss: 0.0031
+===> Epoch[10](49/50): Loss: 0.0047
+===> Epoch[10](50/50): Loss: 0.0027
+===> Epoch 10 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.2682 dB
+Checkpoint saved to model_epoch_10.pth
+===> Epoch[11](1/50): Loss: 0.0026
+===> Epoch[11](2/50): Loss: 0.0064
+===> Epoch[11](3/50): Loss: 0.0017
+===> Epoch[11](4/50): Loss: 0.0024
+===> Epoch[11](5/50): Loss: 0.0029
+===> Epoch[11](6/50): Loss: 0.0025
+===> Epoch[11](7/50): Loss: 0.0046
+===> Epoch[11](8/50): Loss: 0.0033
+===> Epoch[11](9/50): Loss: 0.0023
+===> Epoch[11](10/50): Loss: 0.0039
+===> Epoch[11](11/50): Loss: 0.0031
+===> Epoch[11](12/50): Loss: 0.0017
+===> Epoch[11](13/50): Loss: 0.0024
+===> Epoch[11](14/50): Loss: 0.0031
+===> Epoch[11](15/50): Loss: 0.0039
+===> Epoch[11](16/50): Loss: 0.0031
+===> Epoch[11](17/50): Loss: 0.0020
+===> Epoch[11](18/50): Loss: 0.0032
+===> Epoch[11](19/50): Loss: 0.0040
+===> Epoch[11](20/50): Loss: 0.0029
+===> Epoch[11](21/50): Loss: 0.0044
+===> Epoch[11](22/50): Loss: 0.0028
+===> Epoch[11](23/50): Loss: 0.0040
+===> Epoch[11](24/50): Loss: 0.0022
+===> Epoch[11](25/50): Loss: 0.0039
+===> Epoch[11](26/50): Loss: 0.0033
+===> Epoch[11](27/50): Loss: 0.0032
+===> Epoch[11](28/50): Loss: 0.0066
+===> Epoch[11](29/50): Loss: 0.0023
+===> Epoch[11](30/50): Loss: 0.0032
+===> Epoch[11](31/50): Loss: 0.0027
+===> Epoch[11](32/50): Loss: 0.0057
+===> Epoch[11](33/50): Loss: 0.0039
+===> Epoch[11](34/50): Loss: 0.0028
+===> Epoch[11](35/50): Loss: 0.0016
+===> Epoch[11](36/50): Loss: 0.0025
+===> Epoch[11](37/50): Loss: 0.0040
+===> Epoch[11](38/50): Loss: 0.0033
+===> Epoch[11](39/50): Loss: 0.0052
+===> Epoch[11](40/50): Loss: 0.0035
+===> Epoch[11](41/50): Loss: 0.0038
+===> Epoch[11](42/50): Loss: 0.0044
+===> Epoch[11](43/50): Loss: 0.0045
+===> Epoch[11](44/50): Loss: 0.0034
+===> Epoch[11](45/50): Loss: 0.0019
+===> Epoch[11](46/50): Loss: 0.0030
+===> Epoch[11](47/50): Loss: 0.0027
+===> Epoch[11](48/50): Loss: 0.0054
+===> Epoch[11](49/50): Loss: 0.0029
+===> Epoch[11](50/50): Loss: 0.0055
+===> Epoch 11 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.2683 dB
+Checkpoint saved to model_epoch_11.pth
+===> Epoch[12](1/50): Loss: 0.0041
+===> Epoch[12](2/50): Loss: 0.0060
+===> Epoch[12](3/50): Loss: 0.0042
+===> Epoch[12](4/50): Loss: 0.0019
+===> Epoch[12](5/50): Loss: 0.0034
+===> Epoch[12](6/50): Loss: 0.0039
+===> Epoch[12](7/50): Loss: 0.0027
+===> Epoch[12](8/50): Loss: 0.0052
+===> Epoch[12](9/50): Loss: 0.0018
+===> Epoch[12](10/50): Loss: 0.0026
+===> Epoch[12](11/50): Loss: 0.0025
+===> Epoch[12](12/50): Loss: 0.0019
+===> Epoch[12](13/50): Loss: 0.0025
+===> Epoch[12](14/50): Loss: 0.0033
+===> Epoch[12](15/50): Loss: 0.0043
+===> Epoch[12](16/50): Loss: 0.0041
+===> Epoch[12](17/50): Loss: 0.0064
+===> Epoch[12](18/50): Loss: 0.0024
+===> Epoch[12](19/50): Loss: 0.0036
+===> Epoch[12](20/50): Loss: 0.0029
+===> Epoch[12](21/50): Loss: 0.0023
+===> Epoch[12](22/50): Loss: 0.0023
+===> Epoch[12](23/50): Loss: 0.0023
+===> Epoch[12](24/50): Loss: 0.0032
+===> Epoch[12](25/50): Loss: 0.0041
+===> Epoch[12](26/50): Loss: 0.0034
+===> Epoch[12](27/50): Loss: 0.0043
+===> Epoch[12](28/50): Loss: 0.0027
+===> Epoch[12](29/50): Loss: 0.0024
+===> Epoch[12](30/50): Loss: 0.0044
+===> Epoch[12](31/50): Loss: 0.0020
+===> Epoch[12](32/50): Loss: 0.0039
+===> Epoch[12](33/50): Loss: 0.0033
+===> Epoch[12](34/50): Loss: 0.0036
+===> Epoch[12](35/50): Loss: 0.0051
+===> Epoch[12](36/50): Loss: 0.0035
+===> Epoch[12](37/50): Loss: 0.0032
+===> Epoch[12](38/50): Loss: 0.0029
+===> Epoch[12](39/50): Loss: 0.0044
+===> Epoch[12](40/50): Loss: 0.0048
+===> Epoch[12](41/50): Loss: 0.0047
+===> Epoch[12](42/50): Loss: 0.0042
+===> Epoch[12](43/50): Loss: 0.0034
+===> Epoch[12](44/50): Loss: 0.0029
+===> Epoch[12](45/50): Loss: 0.0033
+===> Epoch[12](46/50): Loss: 0.0073
+===> Epoch[12](47/50): Loss: 0.0025
+===> Epoch[12](48/50): Loss: 0.0034
+===> Epoch[12](49/50): Loss: 0.0026
+===> Epoch[12](50/50): Loss: 0.0042
+===> Epoch 12 Complete: Avg. Loss: 0.0035
+===> Avg. PSNR: 23.8940 dB
+Checkpoint saved to model_epoch_12.pth
+===> Epoch[13](1/50): Loss: 0.0022
+===> Epoch[13](2/50): Loss: 0.0034
+===> Epoch[13](3/50): Loss: 0.0024
+===> Epoch[13](4/50): Loss: 0.0013
+===> Epoch[13](5/50): Loss: 0.0027
+===> Epoch[13](6/50): Loss: 0.0036
+===> Epoch[13](7/50): Loss: 0.0025
+===> Epoch[13](8/50): Loss: 0.0029
+===> Epoch[13](9/50): Loss: 0.0026
+===> Epoch[13](10/50): Loss: 0.0057
+===> Epoch[13](11/50): Loss: 0.0042
+===> Epoch[13](12/50): Loss: 0.0035
+===> Epoch[13](13/50): Loss: 0.0029
+===> Epoch[13](14/50): Loss: 0.0052
+===> Epoch[13](15/50): Loss: 0.0051
+===> Epoch[13](16/50): Loss: 0.0031
+===> Epoch[13](17/50): Loss: 0.0036
+===> Epoch[13](18/50): Loss: 0.0053
+===> Epoch[13](19/50): Loss: 0.0020
+===> Epoch[13](20/50): Loss: 0.0029
+===> Epoch[13](21/50): Loss: 0.0022
+===> Epoch[13](22/50): Loss: 0.0041
+===> Epoch[13](23/50): Loss: 0.0034
+===> Epoch[13](24/50): Loss: 0.0027
+===> Epoch[13](25/50): Loss: 0.0051
+===> Epoch[13](26/50): Loss: 0.0049
+===> Epoch[13](27/50): Loss: 0.0047
+===> Epoch[13](28/50): Loss: 0.0027
+===> Epoch[13](29/50): Loss: 0.0040
+===> Epoch[13](30/50): Loss: 0.0029
+===> Epoch[13](31/50): Loss: 0.0025
+===> Epoch[13](32/50): Loss: 0.0041
+===> Epoch[13](33/50): Loss: 0.0042
+===> Epoch[13](34/50): Loss: 0.0032
+===> Epoch[13](35/50): Loss: 0.0040
+===> Epoch[13](36/50): Loss: 0.0046
+===> Epoch[13](37/50): Loss: 0.0022
+===> Epoch[13](38/50): Loss: 0.0020
+===> Epoch[13](39/50): Loss: 0.0024
+===> Epoch[13](40/50): Loss: 0.0044
+===> Epoch[13](41/50): Loss: 0.0034
+===> Epoch[13](42/50): Loss: 0.0038
+===> Epoch[13](43/50): Loss: 0.0026
+===> Epoch[13](44/50): Loss: 0.0041
+===> Epoch[13](45/50): Loss: 0.0017
+===> Epoch[13](46/50): Loss: 0.0031
+===> Epoch[13](47/50): Loss: 0.0021
+===> Epoch[13](48/50): Loss: 0.0042
+===> Epoch[13](49/50): Loss: 0.0025
+===> Epoch[13](50/50): Loss: 0.0065
+===> Epoch 13 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.2254 dB
+Checkpoint saved to model_epoch_13.pth
+===> Epoch[14](1/50): Loss: 0.0028
+===> Epoch[14](2/50): Loss: 0.0038
+===> Epoch[14](3/50): Loss: 0.0053
+===> Epoch[14](4/50): Loss: 0.0052
+===> Epoch[14](5/50): Loss: 0.0028
+===> Epoch[14](6/50): Loss: 0.0029
+===> Epoch[14](7/50): Loss: 0.0034
+===> Epoch[14](8/50): Loss: 0.0034
+===> Epoch[14](9/50): Loss: 0.0027
+===> Epoch[14](10/50): Loss: 0.0031
+===> Epoch[14](11/50): Loss: 0.0026
+===> Epoch[14](12/50): Loss: 0.0037
+===> Epoch[14](13/50): Loss: 0.0020
+===> Epoch[14](14/50): Loss: 0.0036
+===> Epoch[14](15/50): Loss: 0.0032
+===> Epoch[14](16/50): Loss: 0.0048
+===> Epoch[14](17/50): Loss: 0.0040
+===> Epoch[14](18/50): Loss: 0.0039
+===> Epoch[14](19/50): Loss: 0.0024
+===> Epoch[14](20/50): Loss: 0.0020
+===> Epoch[14](21/50): Loss: 0.0038
+===> Epoch[14](22/50): Loss: 0.0059
+===> Epoch[14](23/50): Loss: 0.0037
+===> Epoch[14](24/50): Loss: 0.0057
+===> Epoch[14](25/50): Loss: 0.0018
+===> Epoch[14](26/50): Loss: 0.0033
+===> Epoch[14](27/50): Loss: 0.0034
+===> Epoch[14](28/50): Loss: 0.0021
+===> Epoch[14](29/50): Loss: 0.0023
+===> Epoch[14](30/50): Loss: 0.0016
+===> Epoch[14](31/50): Loss: 0.0019
+===> Epoch[14](32/50): Loss: 0.0026
+===> Epoch[14](33/50): Loss: 0.0021
+===> Epoch[14](34/50): Loss: 0.0068
+===> Epoch[14](35/50): Loss: 0.0021
+===> Epoch[14](36/50): Loss: 0.0020
+===> Epoch[14](37/50): Loss: 0.0049
+===> Epoch[14](38/50): Loss: 0.0041
+===> Epoch[14](39/50): Loss: 0.0050
+===> Epoch[14](40/50): Loss: 0.0045
+===> Epoch[14](41/50): Loss: 0.0030
+===> Epoch[14](42/50): Loss: 0.0034
+===> Epoch[14](43/50): Loss: 0.0043
+===> Epoch[14](44/50): Loss: 0.0015
+===> Epoch[14](45/50): Loss: 0.0033
+===> Epoch[14](46/50): Loss: 0.0043
+===> Epoch[14](47/50): Loss: 0.0026
+===> Epoch[14](48/50): Loss: 0.0019
+===> Epoch[14](49/50): Loss: 0.0046
+===> Epoch[14](50/50): Loss: 0.0026
+===> Epoch 14 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.3618 dB
+Checkpoint saved to model_epoch_14.pth
+===> Epoch[15](1/50): Loss: 0.0030
+===> Epoch[15](2/50): Loss: 0.0031
+===> Epoch[15](3/50): Loss: 0.0028
+===> Epoch[15](4/50): Loss: 0.0034
+===> Epoch[15](5/50): Loss: 0.0026
+===> Epoch[15](6/50): Loss: 0.0033
+===> Epoch[15](7/50): Loss: 0.0024
+===> Epoch[15](8/50): Loss: 0.0045
+===> Epoch[15](9/50): Loss: 0.0036
+===> Epoch[15](10/50): Loss: 0.0031
+===> Epoch[15](11/50): Loss: 0.0053
+===> Epoch[15](12/50): Loss: 0.0035
+===> Epoch[15](13/50): Loss: 0.0038
+===> Epoch[15](14/50): Loss: 0.0028
+===> Epoch[15](15/50): Loss: 0.0031
+===> Epoch[15](16/50): Loss: 0.0038
+===> Epoch[15](17/50): Loss: 0.0033
+===> Epoch[15](18/50): Loss: 0.0048
+===> Epoch[15](19/50): Loss: 0.0071
+===> Epoch[15](20/50): Loss: 0.0024
+===> Epoch[15](21/50): Loss: 0.0021
+===> Epoch[15](22/50): Loss: 0.0020
+===> Epoch[15](23/50): Loss: 0.0035
+===> Epoch[15](24/50): Loss: 0.0040
+===> Epoch[15](25/50): Loss: 0.0053
+===> Epoch[15](26/50): Loss: 0.0032
+===> Epoch[15](27/50): Loss: 0.0015
+===> Epoch[15](28/50): Loss: 0.0025
+===> Epoch[15](29/50): Loss: 0.0042
+===> Epoch[15](30/50): Loss: 0.0015
+===> Epoch[15](31/50): Loss: 0.0026
+===> Epoch[15](32/50): Loss: 0.0018
+===> Epoch[15](33/50): Loss: 0.0027
+===> Epoch[15](34/50): Loss: 0.0014
+===> Epoch[15](35/50): Loss: 0.0037
+===> Epoch[15](36/50): Loss: 0.0031
+===> Epoch[15](37/50): Loss: 0.0029
+===> Epoch[15](38/50): Loss: 0.0020
+===> Epoch[15](39/50): Loss: 0.0037
+===> Epoch[15](40/50): Loss: 0.0033
+===> Epoch[15](41/50): Loss: 0.0050
+===> Epoch[15](42/50): Loss: 0.0046
+===> Epoch[15](43/50): Loss: 0.0025
+===> Epoch[15](44/50): Loss: 0.0028
+===> Epoch[15](45/50): Loss: 0.0031
+===> Epoch[15](46/50): Loss: 0.0041
+===> Epoch[15](47/50): Loss: 0.0019
+===> Epoch[15](48/50): Loss: 0.0043
+===> Epoch[15](49/50): Loss: 0.0064
+===> Epoch[15](50/50): Loss: 0.0028
+===> Epoch 15 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.3826 dB
+Checkpoint saved to model_epoch_15.pth
+===> Epoch[16](1/50): Loss: 0.0033
+===> Epoch[16](2/50): Loss: 0.0023
+===> Epoch[16](3/50): Loss: 0.0054
+===> Epoch[16](4/50): Loss: 0.0029
+===> Epoch[16](5/50): Loss: 0.0035
+===> Epoch[16](6/50): Loss: 0.0019
+===> Epoch[16](7/50): Loss: 0.0035
+===> Epoch[16](8/50): Loss: 0.0029
+===> Epoch[16](9/50): Loss: 0.0028
+===> Epoch[16](10/50): Loss: 0.0027
+===> Epoch[16](11/50): Loss: 0.0031
+===> Epoch[16](12/50): Loss: 0.0030
+===> Epoch[16](13/50): Loss: 0.0028
+===> Epoch[16](14/50): Loss: 0.0042
+===> Epoch[16](15/50): Loss: 0.0038
+===> Epoch[16](16/50): Loss: 0.0024
+===> Epoch[16](17/50): Loss: 0.0019
+===> Epoch[16](18/50): Loss: 0.0037
+===> Epoch[16](19/50): Loss: 0.0030
+===> Epoch[16](20/50): Loss: 0.0037
+===> Epoch[16](21/50): Loss: 0.0043
+===> Epoch[16](22/50): Loss: 0.0043
+===> Epoch[16](23/50): Loss: 0.0043
+===> Epoch[16](24/50): Loss: 0.0036
+===> Epoch[16](25/50): Loss: 0.0033
+===> Epoch[16](26/50): Loss: 0.0029
+===> Epoch[16](27/50): Loss: 0.0045
+===> Epoch[16](28/50): Loss: 0.0036
+===> Epoch[16](29/50): Loss: 0.0027
+===> Epoch[16](30/50): Loss: 0.0029
+===> Epoch[16](31/50): Loss: 0.0035
+===> Epoch[16](32/50): Loss: 0.0084
+===> Epoch[16](33/50): Loss: 0.0025
+===> Epoch[16](34/50): Loss: 0.0052
+===> Epoch[16](35/50): Loss: 0.0028
+===> Epoch[16](36/50): Loss: 0.0025
+===> Epoch[16](37/50): Loss: 0.0026
+===> Epoch[16](38/50): Loss: 0.0035
+===> Epoch[16](39/50): Loss: 0.0022
+===> Epoch[16](40/50): Loss: 0.0020
+===> Epoch[16](41/50): Loss: 0.0020
+===> Epoch[16](42/50): Loss: 0.0022
+===> Epoch[16](43/50): Loss: 0.0019
+===> Epoch[16](44/50): Loss: 0.0017
+===> Epoch[16](45/50): Loss: 0.0068
+===> Epoch[16](46/50): Loss: 0.0053
+===> Epoch[16](47/50): Loss: 0.0042
+===> Epoch[16](48/50): Loss: 0.0025
+===> Epoch[16](49/50): Loss: 0.0035
+===> Epoch[16](50/50): Loss: 0.0017
+===> Epoch 16 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.3618 dB
+Checkpoint saved to model_epoch_16.pth
+===> Epoch[17](1/50): Loss: 0.0022
+===> Epoch[17](2/50): Loss: 0.0035
+===> Epoch[17](3/50): Loss: 0.0034
+===> Epoch[17](4/50): Loss: 0.0029
+===> Epoch[17](5/50): Loss: 0.0035
+===> Epoch[17](6/50): Loss: 0.0038
+===> Epoch[17](7/50): Loss: 0.0018
+===> Epoch[17](8/50): Loss: 0.0035
+===> Epoch[17](9/50): Loss: 0.0031
+===> Epoch[17](10/50): Loss: 0.0041
+===> Epoch[17](11/50): Loss: 0.0028
+===> Epoch[17](12/50): Loss: 0.0040
+===> Epoch[17](13/50): Loss: 0.0048
+===> Epoch[17](14/50): Loss: 0.0033
+===> Epoch[17](15/50): Loss: 0.0023
+===> Epoch[17](16/50): Loss: 0.0025
+===> Epoch[17](17/50): Loss: 0.0030
+===> Epoch[17](18/50): Loss: 0.0020
+===> Epoch[17](19/50): Loss: 0.0035
+===> Epoch[17](20/50): Loss: 0.0039
+===> Epoch[17](21/50): Loss: 0.0030
+===> Epoch[17](22/50): Loss: 0.0030
+===> Epoch[17](23/50): Loss: 0.0068
+===> Epoch[17](24/50): Loss: 0.0030
+===> Epoch[17](25/50): Loss: 0.0046
+===> Epoch[17](26/50): Loss: 0.0023
+===> Epoch[17](27/50): Loss: 0.0050
+===> Epoch[17](28/50): Loss: 0.0020
+===> Epoch[17](29/50): Loss: 0.0042
+===> Epoch[17](30/50): Loss: 0.0020
+===> Epoch[17](31/50): Loss: 0.0020
+===> Epoch[17](32/50): Loss: 0.0020
+===> Epoch[17](33/50): Loss: 0.0035
+===> Epoch[17](34/50): Loss: 0.0027
+===> Epoch[17](35/50): Loss: 0.0024
+===> Epoch[17](36/50): Loss: 0.0023
+===> Epoch[17](37/50): Loss: 0.0026
+===> Epoch[17](38/50): Loss: 0.0042
+===> Epoch[17](39/50): Loss: 0.0040
+===> Epoch[17](40/50): Loss: 0.0038
+===> Epoch[17](41/50): Loss: 0.0037
+===> Epoch[17](42/50): Loss: 0.0035
+===> Epoch[17](43/50): Loss: 0.0026
+===> Epoch[17](44/50): Loss: 0.0041
+===> Epoch[17](45/50): Loss: 0.0039
+===> Epoch[17](46/50): Loss: 0.0030
+===> Epoch[17](47/50): Loss: 0.0037
+===> Epoch[17](48/50): Loss: 0.0034
+===> Epoch[17](49/50): Loss: 0.0045
+===> Epoch[17](50/50): Loss: 0.0034
+===> Epoch 17 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.4024 dB
+Checkpoint saved to model_epoch_17.pth
+===> Epoch[18](1/50): Loss: 0.0031
+===> Epoch[18](2/50): Loss: 0.0017
+===> Epoch[18](3/50): Loss: 0.0028
+===> Epoch[18](4/50): Loss: 0.0016
+===> Epoch[18](5/50): Loss: 0.0033
+===> Epoch[18](6/50): Loss: 0.0042
+===> Epoch[18](7/50): Loss: 0.0054
+===> Epoch[18](8/50): Loss: 0.0035
+===> Epoch[18](9/50): Loss: 0.0029
+===> Epoch[18](10/50): Loss: 0.0033
+===> Epoch[18](11/50): Loss: 0.0039
+===> Epoch[18](12/50): Loss: 0.0045
+===> Epoch[18](13/50): Loss: 0.0032
+===> Epoch[18](14/50): Loss: 0.0026
+===> Epoch[18](15/50): Loss: 0.0052
+===> Epoch[18](16/50): Loss: 0.0037
+===> Epoch[18](17/50): Loss: 0.0024
+===> Epoch[18](18/50): Loss: 0.0027
+===> Epoch[18](19/50): Loss: 0.0029
+===> Epoch[18](20/50): Loss: 0.0011
+===> Epoch[18](21/50): Loss: 0.0041
+===> Epoch[18](22/50): Loss: 0.0028
+===> Epoch[18](23/50): Loss: 0.0055
+===> Epoch[18](24/50): Loss: 0.0027
+===> Epoch[18](25/50): Loss: 0.0039
+===> Epoch[18](26/50): Loss: 0.0052
+===> Epoch[18](27/50): Loss: 0.0020
+===> Epoch[18](28/50): Loss: 0.0047
+===> Epoch[18](29/50): Loss: 0.0017
+===> Epoch[18](30/50): Loss: 0.0042
+===> Epoch[18](31/50): Loss: 0.0018
+===> Epoch[18](32/50): Loss: 0.0030
+===> Epoch[18](33/50): Loss: 0.0033
+===> Epoch[18](34/50): Loss: 0.0035
+===> Epoch[18](35/50): Loss: 0.0016
+===> Epoch[18](36/50): Loss: 0.0064
+===> Epoch[18](37/50): Loss: 0.0030
+===> Epoch[18](38/50): Loss: 0.0052
+===> Epoch[18](39/50): Loss: 0.0053
+===> Epoch[18](40/50): Loss: 0.0026
+===> Epoch[18](41/50): Loss: 0.0047
+===> Epoch[18](42/50): Loss: 0.0025
+===> Epoch[18](43/50): Loss: 0.0030
+===> Epoch[18](44/50): Loss: 0.0019
+===> Epoch[18](45/50): Loss: 0.0030
+===> Epoch[18](46/50): Loss: 0.0032
+===> Epoch[18](47/50): Loss: 0.0016
+===> Epoch[18](48/50): Loss: 0.0039
+===> Epoch[18](49/50): Loss: 0.0024
+===> Epoch[18](50/50): Loss: 0.0034
+===> Epoch 18 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.4174 dB
+Checkpoint saved to model_epoch_18.pth
+===> Epoch[19](1/50): Loss: 0.0022
+===> Epoch[19](2/50): Loss: 0.0035
+===> Epoch[19](3/50): Loss: 0.0055
+===> Epoch[19](4/50): Loss: 0.0020
+===> Epoch[19](5/50): Loss: 0.0038
+===> Epoch[19](6/50): Loss: 0.0036
+===> Epoch[19](7/50): Loss: 0.0014
+===> Epoch[19](8/50): Loss: 0.0036
+===> Epoch[19](9/50): Loss: 0.0041
+===> Epoch[19](10/50): Loss: 0.0048
+===> Epoch[19](11/50): Loss: 0.0030
+===> Epoch[19](12/50): Loss: 0.0024
+===> Epoch[19](13/50): Loss: 0.0037
+===> Epoch[19](14/50): Loss: 0.0017
+===> Epoch[19](15/50): Loss: 0.0053
+===> Epoch[19](16/50): Loss: 0.0027
+===> Epoch[19](17/50): Loss: 0.0059
+===> Epoch[19](18/50): Loss: 0.0042
+===> Epoch[19](19/50): Loss: 0.0033
+===> Epoch[19](20/50): Loss: 0.0021
+===> Epoch[19](21/50): Loss: 0.0017
+===> Epoch[19](22/50): Loss: 0.0024
+===> Epoch[19](23/50): Loss: 0.0022
+===> Epoch[19](24/50): Loss: 0.0017
+===> Epoch[19](25/50): Loss: 0.0044
+===> Epoch[19](26/50): Loss: 0.0050
+===> Epoch[19](27/50): Loss: 0.0037
+===> Epoch[19](28/50): Loss: 0.0050
+===> Epoch[19](29/50): Loss: 0.0033
+===> Epoch[19](30/50): Loss: 0.0019
+===> Epoch[19](31/50): Loss: 0.0035
+===> Epoch[19](32/50): Loss: 0.0048
+===> Epoch[19](33/50): Loss: 0.0027
+===> Epoch[19](34/50): Loss: 0.0026
+===> Epoch[19](35/50): Loss: 0.0024
+===> Epoch[19](36/50): Loss: 0.0027
+===> Epoch[19](37/50): Loss: 0.0047
+===> Epoch[19](38/50): Loss: 0.0017
+===> Epoch[19](39/50): Loss: 0.0043
+===> Epoch[19](40/50): Loss: 0.0037
+===> Epoch[19](41/50): Loss: 0.0042
+===> Epoch[19](42/50): Loss: 0.0039
+===> Epoch[19](43/50): Loss: 0.0020
+===> Epoch[19](44/50): Loss: 0.0026
+===> Epoch[19](45/50): Loss: 0.0042
+===> Epoch[19](46/50): Loss: 0.0036
+===> Epoch[19](47/50): Loss: 0.0025
+===> Epoch[19](48/50): Loss: 0.0023
+===> Epoch[19](49/50): Loss: 0.0024
+===> Epoch[19](50/50): Loss: 0.0036
+===> Epoch 19 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.4225 dB
+Checkpoint saved to model_epoch_19.pth
+===> Epoch[20](1/50): Loss: 0.0018
+===> Epoch[20](2/50): Loss: 0.0014
+===> Epoch[20](3/50): Loss: 0.0036
+===> Epoch[20](4/50): Loss: 0.0039
+===> Epoch[20](5/50): Loss: 0.0037
+===> Epoch[20](6/50): Loss: 0.0028
+===> Epoch[20](7/50): Loss: 0.0026
+===> Epoch[20](8/50): Loss: 0.0025
+===> Epoch[20](9/50): Loss: 0.0033
+===> Epoch[20](10/50): Loss: 0.0034
+===> Epoch[20](11/50): Loss: 0.0026
+===> Epoch[20](12/50): Loss: 0.0025
+===> Epoch[20](13/50): Loss: 0.0054
+===> Epoch[20](14/50): Loss: 0.0065
+===> Epoch[20](15/50): Loss: 0.0031
+===> Epoch[20](16/50): Loss: 0.0045
+===> Epoch[20](17/50): Loss: 0.0031
+===> Epoch[20](18/50): Loss: 0.0023
+===> Epoch[20](19/50): Loss: 0.0032
+===> Epoch[20](20/50): Loss: 0.0045
+===> Epoch[20](21/50): Loss: 0.0045
+===> Epoch[20](22/50): Loss: 0.0041
+===> Epoch[20](23/50): Loss: 0.0029
+===> Epoch[20](24/50): Loss: 0.0024
+===> Epoch[20](25/50): Loss: 0.0030
+===> Epoch[20](26/50): Loss: 0.0028
+===> Epoch[20](27/50): Loss: 0.0030
+===> Epoch[20](28/50): Loss: 0.0048
+===> Epoch[20](29/50): Loss: 0.0035
+===> Epoch[20](30/50): Loss: 0.0026
+===> Epoch[20](31/50): Loss: 0.0022
+===> Epoch[20](32/50): Loss: 0.0046
+===> Epoch[20](33/50): Loss: 0.0042
+===> Epoch[20](34/50): Loss: 0.0038
+===> Epoch[20](35/50): Loss: 0.0027
+===> Epoch[20](36/50): Loss: 0.0039
+===> Epoch[20](37/50): Loss: 0.0043
+===> Epoch[20](38/50): Loss: 0.0029
+===> Epoch[20](39/50): Loss: 0.0043
+===> Epoch[20](40/50): Loss: 0.0024
+===> Epoch[20](41/50): Loss: 0.0032
+===> Epoch[20](42/50): Loss: 0.0050
+===> Epoch[20](43/50): Loss: 0.0048
+===> Epoch[20](44/50): Loss: 0.0024
+===> Epoch[20](45/50): Loss: 0.0014
+===> Epoch[20](46/50): Loss: 0.0057
+===> Epoch[20](47/50): Loss: 0.0023
+===> Epoch[20](48/50): Loss: 0.0025
+===> Epoch[20](49/50): Loss: 0.0029
+===> Epoch[20](50/50): Loss: 0.0017
+===> Epoch 20 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.3589 dB
+Checkpoint saved to model_epoch_20.pth
+===> Epoch[21](1/50): Loss: 0.0040
+===> Epoch[21](2/50): Loss: 0.0051
+===> Epoch[21](3/50): Loss: 0.0026
+===> Epoch[21](4/50): Loss: 0.0040
+===> Epoch[21](5/50): Loss: 0.0033
+===> Epoch[21](6/50): Loss: 0.0027
+===> Epoch[21](7/50): Loss: 0.0047
+===> Epoch[21](8/50): Loss: 0.0032
+===> Epoch[21](9/50): Loss: 0.0051
+===> Epoch[21](10/50): Loss: 0.0031
+===> Epoch[21](11/50): Loss: 0.0041
+===> Epoch[21](12/50): Loss: 0.0028
+===> Epoch[21](13/50): Loss: 0.0029
+===> Epoch[21](14/50): Loss: 0.0060
+===> Epoch[21](15/50): Loss: 0.0039
+===> Epoch[21](16/50): Loss: 0.0042
+===> Epoch[21](17/50): Loss: 0.0027
+===> Epoch[21](18/50): Loss: 0.0025
+===> Epoch[21](19/50): Loss: 0.0027
+===> Epoch[21](20/50): Loss: 0.0031
+===> Epoch[21](21/50): Loss: 0.0038
+===> Epoch[21](22/50): Loss: 0.0025
+===> Epoch[21](23/50): Loss: 0.0023
+===> Epoch[21](24/50): Loss: 0.0046
+===> Epoch[21](25/50): Loss: 0.0024
+===> Epoch[21](26/50): Loss: 0.0053
+===> Epoch[21](27/50): Loss: 0.0026
+===> Epoch[21](28/50): Loss: 0.0028
+===> Epoch[21](29/50): Loss: 0.0055
+===> Epoch[21](30/50): Loss: 0.0024
+===> Epoch[21](31/50): Loss: 0.0027
+===> Epoch[21](32/50): Loss: 0.0022
+===> Epoch[21](33/50): Loss: 0.0033
+===> Epoch[21](34/50): Loss: 0.0030
+===> Epoch[21](35/50): Loss: 0.0027
+===> Epoch[21](36/50): Loss: 0.0030
+===> Epoch[21](37/50): Loss: 0.0037
+===> Epoch[21](38/50): Loss: 0.0037
+===> Epoch[21](39/50): Loss: 0.0021
+===> Epoch[21](40/50): Loss: 0.0027
+===> Epoch[21](41/50): Loss: 0.0047
+===> Epoch[21](42/50): Loss: 0.0026
+===> Epoch[21](43/50): Loss: 0.0040
+===> Epoch[21](44/50): Loss: 0.0056
+===> Epoch[21](45/50): Loss: 0.0018
+===> Epoch[21](46/50): Loss: 0.0037
+===> Epoch[21](47/50): Loss: 0.0032
+===> Epoch[21](48/50): Loss: 0.0029
+===> Epoch[21](49/50): Loss: 0.0037
+===> Epoch[21](50/50): Loss: 0.0044
+===> Epoch 21 Complete: Avg. Loss: 0.0035
+===> Avg. PSNR: 23.7661 dB
+Checkpoint saved to model_epoch_21.pth
+===> Epoch[22](1/50): Loss: 0.0059
+===> Epoch[22](2/50): Loss: 0.0028
+===> Epoch[22](3/50): Loss: 0.0021
+===> Epoch[22](4/50): Loss: 0.0029
+===> Epoch[22](5/50): Loss: 0.0044
+===> Epoch[22](6/50): Loss: 0.0034
+===> Epoch[22](7/50): Loss: 0.0037
+===> Epoch[22](8/50): Loss: 0.0035
+===> Epoch[22](9/50): Loss: 0.0024
+===> Epoch[22](10/50): Loss: 0.0053
+===> Epoch[22](11/50): Loss: 0.0049
+===> Epoch[22](12/50): Loss: 0.0029
+===> Epoch[22](13/50): Loss: 0.0035
+===> Epoch[22](14/50): Loss: 0.0034
+===> Epoch[22](15/50): Loss: 0.0028
+===> Epoch[22](16/50): Loss: 0.0039
+===> Epoch[22](17/50): Loss: 0.0036
+===> Epoch[22](18/50): Loss: 0.0041
+===> Epoch[22](19/50): Loss: 0.0028
+===> Epoch[22](20/50): Loss: 0.0051
+===> Epoch[22](21/50): Loss: 0.0040
+===> Epoch[22](22/50): Loss: 0.0022
+===> Epoch[22](23/50): Loss: 0.0040
+===> Epoch[22](24/50): Loss: 0.0038
+===> Epoch[22](25/50): Loss: 0.0018
+===> Epoch[22](26/50): Loss: 0.0028
+===> Epoch[22](27/50): Loss: 0.0034
+===> Epoch[22](28/50): Loss: 0.0020
+===> Epoch[22](29/50): Loss: 0.0043
+===> Epoch[22](30/50): Loss: 0.0031
+===> Epoch[22](31/50): Loss: 0.0033
+===> Epoch[22](32/50): Loss: 0.0036
+===> Epoch[22](33/50): Loss: 0.0024
+===> Epoch[22](34/50): Loss: 0.0014
+===> Epoch[22](35/50): Loss: 0.0040
+===> Epoch[22](36/50): Loss: 0.0022
+===> Epoch[22](37/50): Loss: 0.0034
+===> Epoch[22](38/50): Loss: 0.0043
+===> Epoch[22](39/50): Loss: 0.0014
+===> Epoch[22](40/50): Loss: 0.0035
+===> Epoch[22](41/50): Loss: 0.0037
+===> Epoch[22](42/50): Loss: 0.0034
+===> Epoch[22](43/50): Loss: 0.0020
+===> Epoch[22](44/50): Loss: 0.0035
+===> Epoch[22](45/50): Loss: 0.0025
+===> Epoch[22](46/50): Loss: 0.0074
+===> Epoch[22](47/50): Loss: 0.0053
+===> Epoch[22](48/50): Loss: 0.0036
+===> Epoch[22](49/50): Loss: 0.0007
+===> Epoch[22](50/50): Loss: 0.0027
+===> Epoch 22 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.4466 dB
+Checkpoint saved to model_epoch_22.pth
+===> Epoch[23](1/50): Loss: 0.0020
+===> Epoch[23](2/50): Loss: 0.0038
+===> Epoch[23](3/50): Loss: 0.0017
+===> Epoch[23](4/50): Loss: 0.0024
+===> Epoch[23](5/50): Loss: 0.0017
+===> Epoch[23](6/50): Loss: 0.0035
+===> Epoch[23](7/50): Loss: 0.0027
+===> Epoch[23](8/50): Loss: 0.0053
+===> Epoch[23](9/50): Loss: 0.0038
+===> Epoch[23](10/50): Loss: 0.0050
+===> Epoch[23](11/50): Loss: 0.0027
+===> Epoch[23](12/50): Loss: 0.0023
+===> Epoch[23](13/50): Loss: 0.0027
+===> Epoch[23](14/50): Loss: 0.0013
+===> Epoch[23](15/50): Loss: 0.0051
+===> Epoch[23](16/50): Loss: 0.0040
+===> Epoch[23](17/50): Loss: 0.0041
+===> Epoch[23](18/50): Loss: 0.0032
+===> Epoch[23](19/50): Loss: 0.0030
+===> Epoch[23](20/50): Loss: 0.0018
+===> Epoch[23](21/50): Loss: 0.0041
+===> Epoch[23](22/50): Loss: 0.0020
+===> Epoch[23](23/50): Loss: 0.0038
+===> Epoch[23](24/50): Loss: 0.0028
+===> Epoch[23](25/50): Loss: 0.0059
+===> Epoch[23](26/50): Loss: 0.0035
+===> Epoch[23](27/50): Loss: 0.0029
+===> Epoch[23](28/50): Loss: 0.0052
+===> Epoch[23](29/50): Loss: 0.0036
+===> Epoch[23](30/50): Loss: 0.0037
+===> Epoch[23](31/50): Loss: 0.0031
+===> Epoch[23](32/50): Loss: 0.0017
+===> Epoch[23](33/50): Loss: 0.0012
+===> Epoch[23](34/50): Loss: 0.0035
+===> Epoch[23](35/50): Loss: 0.0026
+===> Epoch[23](36/50): Loss: 0.0033
+===> Epoch[23](37/50): Loss: 0.0034
+===> Epoch[23](38/50): Loss: 0.0031
+===> Epoch[23](39/50): Loss: 0.0026
+===> Epoch[23](40/50): Loss: 0.0026
+===> Epoch[23](41/50): Loss: 0.0041
+===> Epoch[23](42/50): Loss: 0.0032
+===> Epoch[23](43/50): Loss: 0.0032
+===> Epoch[23](44/50): Loss: 0.0038
+===> Epoch[23](45/50): Loss: 0.0036
+===> Epoch[23](46/50): Loss: 0.0048
+===> Epoch[23](47/50): Loss: 0.0039
+===> Epoch[23](48/50): Loss: 0.0023
+===> Epoch[23](49/50): Loss: 0.0041
+===> Epoch[23](50/50): Loss: 0.0028
+===> Epoch 23 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.4672 dB
+Checkpoint saved to model_epoch_23.pth
+===> Epoch[24](1/50): Loss: 0.0026
+===> Epoch[24](2/50): Loss: 0.0027
+===> Epoch[24](3/50): Loss: 0.0023
+===> Epoch[24](4/50): Loss: 0.0021
+===> Epoch[24](5/50): Loss: 0.0052
+===> Epoch[24](6/50): Loss: 0.0025
+===> Epoch[24](7/50): Loss: 0.0020
+===> Epoch[24](8/50): Loss: 0.0031
+===> Epoch[24](9/50): Loss: 0.0022
+===> Epoch[24](10/50): Loss: 0.0042
+===> Epoch[24](11/50): Loss: 0.0019
+===> Epoch[24](12/50): Loss: 0.0053
+===> Epoch[24](13/50): Loss: 0.0016
+===> Epoch[24](14/50): Loss: 0.0027
+===> Epoch[24](15/50): Loss: 0.0050
+===> Epoch[24](16/50): Loss: 0.0019
+===> Epoch[24](17/50): Loss: 0.0027
+===> Epoch[24](18/50): Loss: 0.0028
+===> Epoch[24](19/50): Loss: 0.0024
+===> Epoch[24](20/50): Loss: 0.0015
+===> Epoch[24](21/50): Loss: 0.0022
+===> Epoch[24](22/50): Loss: 0.0012
+===> Epoch[24](23/50): Loss: 0.0043
+===> Epoch[24](24/50): Loss: 0.0061
+===> Epoch[24](25/50): Loss: 0.0056
+===> Epoch[24](26/50): Loss: 0.0032
+===> Epoch[24](27/50): Loss: 0.0030
+===> Epoch[24](28/50): Loss: 0.0031
+===> Epoch[24](29/50): Loss: 0.0020
+===> Epoch[24](30/50): Loss: 0.0041
+===> Epoch[24](31/50): Loss: 0.0053
+===> Epoch[24](32/50): Loss: 0.0027
+===> Epoch[24](33/50): Loss: 0.0060
+===> Epoch[24](34/50): Loss: 0.0034
+===> Epoch[24](35/50): Loss: 0.0021
+===> Epoch[24](36/50): Loss: 0.0031
+===> Epoch[24](37/50): Loss: 0.0036
+===> Epoch[24](38/50): Loss: 0.0036
+===> Epoch[24](39/50): Loss: 0.0036
+===> Epoch[24](40/50): Loss: 0.0031
+===> Epoch[24](41/50): Loss: 0.0029
+===> Epoch[24](42/50): Loss: 0.0042
+===> Epoch[24](43/50): Loss: 0.0043
+===> Epoch[24](44/50): Loss: 0.0018
+===> Epoch[24](45/50): Loss: 0.0045
+===> Epoch[24](46/50): Loss: 0.0020
+===> Epoch[24](47/50): Loss: 0.0024
+===> Epoch[24](48/50): Loss: 0.0047
+===> Epoch[24](49/50): Loss: 0.0049
+===> Epoch[24](50/50): Loss: 0.0022
+===> Epoch 24 Complete: Avg. Loss: 0.0032
+===> Avg. PSNR: 24.4640 dB
+Checkpoint saved to model_epoch_24.pth
+===> Epoch[25](1/50): Loss: 0.0014
+===> Epoch[25](2/50): Loss: 0.0042
+===> Epoch[25](3/50): Loss: 0.0049
+===> Epoch[25](4/50): Loss: 0.0036
+===> Epoch[25](5/50): Loss: 0.0021
+===> Epoch[25](6/50): Loss: 0.0029
+===> Epoch[25](7/50): Loss: 0.0008
+===> Epoch[25](8/50): Loss: 0.0015
+===> Epoch[25](9/50): Loss: 0.0039
+===> Epoch[25](10/50): Loss: 0.0025
+===> Epoch[25](11/50): Loss: 0.0014
+===> Epoch[25](12/50): Loss: 0.0064
+===> Epoch[25](13/50): Loss: 0.0039
+===> Epoch[25](14/50): Loss: 0.0041
+===> Epoch[25](15/50): Loss: 0.0027
+===> Epoch[25](16/50): Loss: 0.0023
+===> Epoch[25](17/50): Loss: 0.0024
+===> Epoch[25](18/50): Loss: 0.0034
+===> Epoch[25](19/50): Loss: 0.0036
+===> Epoch[25](20/50): Loss: 0.0020
+===> Epoch[25](21/50): Loss: 0.0042
+===> Epoch[25](22/50): Loss: 0.0030
+===> Epoch[25](23/50): Loss: 0.0034
+===> Epoch[25](24/50): Loss: 0.0033
+===> Epoch[25](25/50): Loss: 0.0023
+===> Epoch[25](26/50): Loss: 0.0031
+===> Epoch[25](27/50): Loss: 0.0034
+===> Epoch[25](28/50): Loss: 0.0027
+===> Epoch[25](29/50): Loss: 0.0020
+===> Epoch[25](30/50): Loss: 0.0015
+===> Epoch[25](31/50): Loss: 0.0022
+===> Epoch[25](32/50): Loss: 0.0029
+===> Epoch[25](33/50): Loss: 0.0030
+===> Epoch[25](34/50): Loss: 0.0027
+===> Epoch[25](35/50): Loss: 0.0024
+===> Epoch[25](36/50): Loss: 0.0051
+===> Epoch[25](37/50): Loss: 0.0052
+===> Epoch[25](38/50): Loss: 0.0068
+===> Epoch[25](39/50): Loss: 0.0023
+===> Epoch[25](40/50): Loss: 0.0053
+===> Epoch[25](41/50): Loss: 0.0044
+===> Epoch[25](42/50): Loss: 0.0042
+===> Epoch[25](43/50): Loss: 0.0046
+===> Epoch[25](44/50): Loss: 0.0025
+===> Epoch[25](45/50): Loss: 0.0043
+===> Epoch[25](46/50): Loss: 0.0062
+===> Epoch[25](47/50): Loss: 0.0033
+===> Epoch[25](48/50): Loss: 0.0012
+===> Epoch[25](49/50): Loss: 0.0022
+===> Epoch[25](50/50): Loss: 0.0021
+===> Epoch 25 Complete: Avg. Loss: 0.0032
+===> Avg. PSNR: 24.4879 dB
+Checkpoint saved to model_epoch_25.pth
+===> Epoch[26](1/50): Loss: 0.0015
+===> Epoch[26](2/50): Loss: 0.0025
+===> Epoch[26](3/50): Loss: 0.0026
+===> Epoch[26](4/50): Loss: 0.0014
+===> Epoch[26](5/50): Loss: 0.0041
+===> Epoch[26](6/50): Loss: 0.0026
+===> Epoch[26](7/50): Loss: 0.0040
+===> Epoch[26](8/50): Loss: 0.0018
+===> Epoch[26](9/50): Loss: 0.0063
+===> Epoch[26](10/50): Loss: 0.0044
+===> Epoch[26](11/50): Loss: 0.0026
+===> Epoch[26](12/50): Loss: 0.0020
+===> Epoch[26](13/50): Loss: 0.0031
+===> Epoch[26](14/50): Loss: 0.0021
+===> Epoch[26](15/50): Loss: 0.0030
+===> Epoch[26](16/50): Loss: 0.0059
+===> Epoch[26](17/50): Loss: 0.0023
+===> Epoch[26](18/50): Loss: 0.0035
+===> Epoch[26](19/50): Loss: 0.0037
+===> Epoch[26](20/50): Loss: 0.0075
+===> Epoch[26](21/50): Loss: 0.0066
+===> Epoch[26](22/50): Loss: 0.0026
+===> Epoch[26](23/50): Loss: 0.0014
+===> Epoch[26](24/50): Loss: 0.0034
+===> Epoch[26](25/50): Loss: 0.0027
+===> Epoch[26](26/50): Loss: 0.0042
+===> Epoch[26](27/50): Loss: 0.0028
+===> Epoch[26](28/50): Loss: 0.0027
+===> Epoch[26](29/50): Loss: 0.0032
+===> Epoch[26](30/50): Loss: 0.0063
+===> Epoch[26](31/50): Loss: 0.0023
+===> Epoch[26](32/50): Loss: 0.0038
+===> Epoch[26](33/50): Loss: 0.0055
+===> Epoch[26](34/50): Loss: 0.0028
+===> Epoch[26](35/50): Loss: 0.0048
+===> Epoch[26](36/50): Loss: 0.0021
+===> Epoch[26](37/50): Loss: 0.0026
+===> Epoch[26](38/50): Loss: 0.0028
+===> Epoch[26](39/50): Loss: 0.0026
+===> Epoch[26](40/50): Loss: 0.0043
+===> Epoch[26](41/50): Loss: 0.0026
+===> Epoch[26](42/50): Loss: 0.0020
+===> Epoch[26](43/50): Loss: 0.0027
+===> Epoch[26](44/50): Loss: 0.0025
+===> Epoch[26](45/50): Loss: 0.0027
+===> Epoch[26](46/50): Loss: 0.0025
+===> Epoch[26](47/50): Loss: 0.0035
+===> Epoch[26](48/50): Loss: 0.0014
+===> Epoch[26](49/50): Loss: 0.0033
+===> Epoch[26](50/50): Loss: 0.0030
+===> Epoch 26 Complete: Avg. Loss: 0.0032
+===> Avg. PSNR: 24.4842 dB
+Checkpoint saved to model_epoch_26.pth
+===> Epoch[27](1/50): Loss: 0.0052
+===> Epoch[27](2/50): Loss: 0.0021
+===> Epoch[27](3/50): Loss: 0.0018
+===> Epoch[27](4/50): Loss: 0.0053
+===> Epoch[27](5/50): Loss: 0.0033
+===> Epoch[27](6/50): Loss: 0.0037
+===> Epoch[27](7/50): Loss: 0.0037
+===> Epoch[27](8/50): Loss: 0.0060
+===> Epoch[27](9/50): Loss: 0.0024
+===> Epoch[27](10/50): Loss: 0.0024
+===> Epoch[27](11/50): Loss: 0.0013
+===> Epoch[27](12/50): Loss: 0.0034
+===> Epoch[27](13/50): Loss: 0.0063
+===> Epoch[27](14/50): Loss: 0.0025
+===> Epoch[27](15/50): Loss: 0.0024
+===> Epoch[27](16/50): Loss: 0.0039
+===> Epoch[27](17/50): Loss: 0.0034
+===> Epoch[27](18/50): Loss: 0.0032
+===> Epoch[27](19/50): Loss: 0.0020
+===> Epoch[27](20/50): Loss: 0.0019
+===> Epoch[27](21/50): Loss: 0.0033
+===> Epoch[27](22/50): Loss: 0.0021
+===> Epoch[27](23/50): Loss: 0.0016
+===> Epoch[27](24/50): Loss: 0.0037
+===> Epoch[27](25/50): Loss: 0.0025
+===> Epoch[27](26/50): Loss: 0.0051
+===> Epoch[27](27/50): Loss: 0.0016
+===> Epoch[27](28/50): Loss: 0.0024
+===> Epoch[27](29/50): Loss: 0.0036
+===> Epoch[27](30/50): Loss: 0.0016
+===> Epoch[27](31/50): Loss: 0.0047
+===> Epoch[27](32/50): Loss: 0.0047
+===> Epoch[27](33/50): Loss: 0.0028
+===> Epoch[27](34/50): Loss: 0.0025
+===> Epoch[27](35/50): Loss: 0.0036
+===> Epoch[27](36/50): Loss: 0.0029
+===> Epoch[27](37/50): Loss: 0.0040
+===> Epoch[27](38/50): Loss: 0.0040
+===> Epoch[27](39/50): Loss: 0.0032
+===> Epoch[27](40/50): Loss: 0.0008
+===> Epoch[27](41/50): Loss: 0.0050
+===> Epoch[27](42/50): Loss: 0.0011
+===> Epoch[27](43/50): Loss: 0.0032
+===> Epoch[27](44/50): Loss: 0.0025
+===> Epoch[27](45/50): Loss: 0.0027
+===> Epoch[27](46/50): Loss: 0.0073
+===> Epoch[27](47/50): Loss: 0.0043
+===> Epoch[27](48/50): Loss: 0.0030
+===> Epoch[27](49/50): Loss: 0.0035
+===> Epoch[27](50/50): Loss: 0.0019
+===> Epoch 27 Complete: Avg. Loss: 0.0032
+===> Avg. PSNR: 24.4949 dB
+Checkpoint saved to model_epoch_27.pth
+===> Epoch[28](1/50): Loss: 0.0032
+===> Epoch[28](2/50): Loss: 0.0042
+===> Epoch[28](3/50): Loss: 0.0039
+===> Epoch[28](4/50): Loss: 0.0042
+===> Epoch[28](5/50): Loss: 0.0020
+===> Epoch[28](6/50): Loss: 0.0014
+===> Epoch[28](7/50): Loss: 0.0022
+===> Epoch[28](8/50): Loss: 0.0032
+===> Epoch[28](9/50): Loss: 0.0027
+===> Epoch[28](10/50): Loss: 0.0017
+===> Epoch[28](11/50): Loss: 0.0057
+===> Epoch[28](12/50): Loss: 0.0022
+===> Epoch[28](13/50): Loss: 0.0026
+===> Epoch[28](14/50): Loss: 0.0024
+===> Epoch[28](15/50): Loss: 0.0036
+===> Epoch[28](16/50): Loss: 0.0028
+===> Epoch[28](17/50): Loss: 0.0046
+===> Epoch[28](18/50): Loss: 0.0033
+===> Epoch[28](19/50): Loss: 0.0011
+===> Epoch[28](20/50): Loss: 0.0029
+===> Epoch[28](21/50): Loss: 0.0022
+===> Epoch[28](22/50): Loss: 0.0035
+===> Epoch[28](23/50): Loss: 0.0055
+===> Epoch[28](24/50): Loss: 0.0054
+===> Epoch[28](25/50): Loss: 0.0033
+===> Epoch[28](26/50): Loss: 0.0061
+===> Epoch[28](27/50): Loss: 0.0025
+===> Epoch[28](28/50): Loss: 0.0024
+===> Epoch[28](29/50): Loss: 0.0023
+===> Epoch[28](30/50): Loss: 0.0032
+===> Epoch[28](31/50): Loss: 0.0025
+===> Epoch[28](32/50): Loss: 0.0035
+===> Epoch[28](33/50): Loss: 0.0019
+===> Epoch[28](34/50): Loss: 0.0043
+===> Epoch[28](35/50): Loss: 0.0029
+===> Epoch[28](36/50): Loss: 0.0033
+===> Epoch[28](37/50): Loss: 0.0023
+===> Epoch[28](38/50): Loss: 0.0044
+===> Epoch[28](39/50): Loss: 0.0029
+===> Epoch[28](40/50): Loss: 0.0031
+===> Epoch[28](41/50): Loss: 0.0018
+===> Epoch[28](42/50): Loss: 0.0042
+===> Epoch[28](43/50): Loss: 0.0040
+===> Epoch[28](44/50): Loss: 0.0058
+===> Epoch[28](45/50): Loss: 0.0048
+===> Epoch[28](46/50): Loss: 0.0016
+===> Epoch[28](47/50): Loss: 0.0020
+===> Epoch[28](48/50): Loss: 0.0038
+===> Epoch[28](49/50): Loss: 0.0028
+===> Epoch[28](50/50): Loss: 0.0024
+===> Epoch 28 Complete: Avg. Loss: 0.0032
+===> Avg. PSNR: 24.5074 dB
+Checkpoint saved to model_epoch_28.pth
+===> Epoch[29](1/50): Loss: 0.0039
+===> Epoch[29](2/50): Loss: 0.0037
+===> Epoch[29](3/50): Loss: 0.0033
+===> Epoch[29](4/50): Loss: 0.0056
+===> Epoch[29](5/50): Loss: 0.0023
+===> Epoch[29](6/50): Loss: 0.0039
+===> Epoch[29](7/50): Loss: 0.0029
+===> Epoch[29](8/50): Loss: 0.0031
+===> Epoch[29](9/50): Loss: 0.0019
+===> Epoch[29](10/50): Loss: 0.0018
+===> Epoch[29](11/50): Loss: 0.0048
+===> Epoch[29](12/50): Loss: 0.0024
+===> Epoch[29](13/50): Loss: 0.0031
+===> Epoch[29](14/50): Loss: 0.0041
+===> Epoch[29](15/50): Loss: 0.0029
+===> Epoch[29](16/50): Loss: 0.0030
+===> Epoch[29](17/50): Loss: 0.0020
+===> Epoch[29](18/50): Loss: 0.0018
+===> Epoch[29](19/50): Loss: 0.0032
+===> Epoch[29](20/50): Loss: 0.0014
+===> Epoch[29](21/50): Loss: 0.0033
+===> Epoch[29](22/50): Loss: 0.0036
+===> Epoch[29](23/50): Loss: 0.0035
+===> Epoch[29](24/50): Loss: 0.0047
+===> Epoch[29](25/50): Loss: 0.0016
+===> Epoch[29](26/50): Loss: 0.0031
+===> Epoch[29](27/50): Loss: 0.0047
+===> Epoch[29](28/50): Loss: 0.0026
+===> Epoch[29](29/50): Loss: 0.0035
+===> Epoch[29](30/50): Loss: 0.0030
+===> Epoch[29](31/50): Loss: 0.0022
+===> Epoch[29](32/50): Loss: 0.0032
+===> Epoch[29](33/50): Loss: 0.0033
+===> Epoch[29](34/50): Loss: 0.0060
+===> Epoch[29](35/50): Loss: 0.0049
+===> Epoch[29](36/50): Loss: 0.0056
+===> Epoch[29](37/50): Loss: 0.0041
+===> Epoch[29](38/50): Loss: 0.0018
+===> Epoch[29](39/50): Loss: 0.0046
+===> Epoch[29](40/50): Loss: 0.0036
+===> Epoch[29](41/50): Loss: 0.0045
+===> Epoch[29](42/50): Loss: 0.0014
+===> Epoch[29](43/50): Loss: 0.0026
+===> Epoch[29](44/50): Loss: 0.0048
+===> Epoch[29](45/50): Loss: 0.0026
+===> Epoch[29](46/50): Loss: 0.0043
+===> Epoch[29](47/50): Loss: 0.0024
+===> Epoch[29](48/50): Loss: 0.0019
+===> Epoch[29](49/50): Loss: 0.0028
+===> Epoch[29](50/50): Loss: 0.0024
+===> Epoch 29 Complete: Avg. Loss: 0.0033
+===> Avg. PSNR: 24.4735 dB
+Checkpoint saved to model_epoch_29.pth
+===> Epoch[30](1/50): Loss: 0.0039
+===> Epoch[30](2/50): Loss: 0.0039
+===> Epoch[30](3/50): Loss: 0.0066
+===> Epoch[30](4/50): Loss: 0.0022
+===> Epoch[30](5/50): Loss: 0.0037
+===> Epoch[30](6/50): Loss: 0.0034
+===> Epoch[30](7/50): Loss: 0.0052
+===> Epoch[30](8/50): Loss: 0.0023
+===> Epoch[30](9/50): Loss: 0.0032
+===> Epoch[30](10/50): Loss: 0.0041
+===> Epoch[30](11/50): Loss: 0.0027
+===> Epoch[30](12/50): Loss: 0.0028
+===> Epoch[30](13/50): Loss: 0.0010
+===> Epoch[30](14/50): Loss: 0.0033
+===> Epoch[30](15/50): Loss: 0.0045
+===> Epoch[30](16/50): Loss: 0.0018
+===> Epoch[30](17/50): Loss: 0.0046
+===> Epoch[30](18/50): Loss: 0.0020
+===> Epoch[30](19/50): Loss: 0.0039
+===> Epoch[30](20/50): Loss: 0.0049
+===> Epoch[30](21/50): Loss: 0.0041
+===> Epoch[30](22/50): Loss: 0.0049
+===> Epoch[30](23/50): Loss: 0.0055
+===> Epoch[30](24/50): Loss: 0.0038
+===> Epoch[30](25/50): Loss: 0.0041
+===> Epoch[30](26/50): Loss: 0.0042
+===> Epoch[30](27/50): Loss: 0.0052
+===> Epoch[30](28/50): Loss: 0.0048
+===> Epoch[30](29/50): Loss: 0.0019
+===> Epoch[30](30/50): Loss: 0.0017
+===> Epoch[30](31/50): Loss: 0.0020
+===> Epoch[30](32/50): Loss: 0.0036
+===> Epoch[30](33/50): Loss: 0.0019
+===> Epoch[30](34/50): Loss: 0.0017
+===> Epoch[30](35/50): Loss: 0.0050
+===> Epoch[30](36/50): Loss: 0.0023
+===> Epoch[30](37/50): Loss: 0.0033
+===> Epoch[30](38/50): Loss: 0.0044
+===> Epoch[30](39/50): Loss: 0.0020
+===> Epoch[30](40/50): Loss: 0.0041
+===> Epoch[30](41/50): Loss: 0.0044
+===> Epoch[30](42/50): Loss: 0.0023
+===> Epoch[30](43/50): Loss: 0.0032
+===> Epoch[30](44/50): Loss: 0.0033
+===> Epoch[30](45/50): Loss: 0.0016
+===> Epoch[30](46/50): Loss: 0.0029
+===> Epoch[30](47/50): Loss: 0.0031
+===> Epoch[30](48/50): Loss: 0.0021
+===> Epoch[30](49/50): Loss: 0.0025
+===> Epoch[30](50/50): Loss: 0.0031
+===> Epoch 30 Complete: Avg. Loss: 0.0034
+===> Avg. PSNR: 24.5017 dB
+Checkpoint saved to model_epoch_30.pth
+(base) mecha@Mac super_resolution % python super_resolve.py --input_image dataset/BSDS300/images/test/16077.jpg --model model_epoch_500.pth --output_filename out.png
+Namespace(cuda=False, input_image='dataset/BSDS300/images/test/16077.jpg', model='model_epoch_500.pth', output_filename='out.png')
+Traceback (most recent call last):
+  File "super_resolve.py", line 21, in <module>
+    model = torch.load(opt.model)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/serialization.py", line 594, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/opt/anaconda3/lib/python3.8/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: 'model_epoch_500.pth'
+(base) mecha@Mac super_resolution % python super_resolve.py --input_image dataset/BSDS300/images/test/16077.jpg --model model_epoch_30.pth --output_filename out.png
+Namespace(cuda=False, input_image='dataset/BSDS300/images/test/16077.jpg', model='model_epoch_30.pth', output_filename='out.png')
+output image saved to  out.png
+(base) mecha@Mac super_resolution % scp out.png Mechachleopteryx@192.168.2.40:Projects
+Mechachleopteryx@192.168.2.40's password:
+out.png                                                                               100% 1933KB  19.8MB/s   00:00
+(base) mecha@Mac super_resolution % scp  dataset/BSDS300/images/test/16077.jpg  Mechachleopteryx@192.168.2.40:Projects
+Mechachleopteryx@192.168.2.40's password:
+16077.jpg                                                                             100%   80KB   6.1MB/s   00:00
+(base) mecha@Mac super_resolution % scp Mechachleopteryx@192.168.2.40:Projects/crappy.jpg crappy.jpg
+Mechachleopteryx@192.168.2.40's password:
+crappy.jpg                                                                            100%   28KB   2.6MB/s   00:00
+(base) mecha@Mac super_resolution % scp Mechachleopteryx@192.168.2.40:Projects/slightly_less_crappy.jpg slightly_less_crappy.jpg
+Mechachleopteryx@192.168.2.40's password:
+scp: Projects/slightly_less_crappy.jpg: No such file or directory
+(base) mecha@Mac super_resolution % scp Mechachleopteryx@192.168.2.40:Projects/slightly_less_crappy.jpg crappy2.jpg
+Mechachleopteryx@192.168.2.40's password:
+scp: Projects/slightly_less_crappy.jpg: No such file or directory
+(base) mecha@Mac super_resolution % scp Mechachleopteryx@192.168.2.40:Projects/slightly_less_crappy.jpg crappy2.jpg
+Mechachleopteryx@192.168.2.40's password:
+slightly_less_crappy.jpg                                                              100%   56KB   3.5MB/s   00:00
+(base) mecha@Mac super_resolution % python super_resolve.py --input_image crappy.jpg --model model_epoch_30.pth --output_filename crappy_altered.png
+Namespace(cuda=False, input_image='crappy.jpg', model='model_epoch_30.pth', output_filename='crappy_altered.png')
+output image saved to  crappy_altered.png
+(base) mecha@Mac super_resolution % python super_resolve.py --input_image crappy2.jpg --model model_epoch_30.pth --output_filename crappy2_altered.png
+Namespace(cuda=False, input_image='crappy2.jpg', model='model_epoch_30.pth', output_filename='crappy2_altered.png')
+output image saved to  crappy2_altered.png
+(base) mecha@Mac super_resolution % scp  crappy_altered.png  Mechachleopteryx@192.168.2.40:Projects
+Mechachleopteryx@192.168.2.40's password:
+crappy_altered.png                                                                    100% 1529KB  21.0MB/s   00:00
+(base) mecha@Mac super_resolution % scp  crappy_altered2.png  Mechachleopteryx@192.168.2.40:Projects
+Mechachleopteryx@192.168.2.40's password:
+crappy_altered2.png: No such file or directory
+(base) mecha@Mac super_resolution % scp  crappy2_altered.png  Mechachleopteryx@192.168.2.40:Projects
+Mechachleopteryx@192.168.2.40's password:
+crappy2_altered.png                                                                   100% 3318KB  23.3MB/s   00:00
+(base) mecha@Mac super_resolution %

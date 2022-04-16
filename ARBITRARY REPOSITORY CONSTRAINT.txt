@@ -1,0 +1,6 @@
+Deleted Repositories:
+
+None so far...
+
+But want to maintain a limit of 10,795 repositories,
+in order to reduce cognitive load.

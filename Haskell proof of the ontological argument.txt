@@ -1,0 +1,461 @@
+ Commands available from the prompt:
+
+   <statement>                 evaluate/run <statement>
+   :                           repeat last command
+   :{\n ..lines.. \n:}\n       multiline command
+   :add [*]<module> ...        add module(s) to the current target set
+   :browse[!] [[*]<mod>]       display the names defined by module <mod>
+                               (!: more details; *: all top-level names)
+   :cd <dir>                   change directory to <dir>
+   :cmd <expr>                 run the commands returned by <expr>::IO String
+   :complete <dom> [<rng>] <s> list completions for partial input string
+   :ctags[!] [<file>]          create tags file <file> for Vi (default: "tags")
+                               (!: use regex instead of line number)
+   :def[!] <cmd> <expr>        define command :<cmd> (later defined command has
+                               precedence, ::<cmd> is always a builtin command)
+                               (!: redefine an existing command name)
+   :doc <name>                 display docs for the given name (experimental)
+   :edit <file>                edit file
+   :edit                       edit last module
+   :etags [<file>]             create tags file <file> for Emacs (default: "TAGS")
+   :help, :?                   display this list of commands
+   :info[!] [<name> ...]       display information about the given names
+                               (!: do not filter instances)
+   :instances <type>           display the class instances available for <type>
+   :issafe [<mod>]             display safe haskell information of module <mod>
+   :kind[!] <type>             show the kind of <type>
+                               (!: also print the normalised type)
+   :load[!] [*]<module> ...    load module(s) and their dependents
+                               (!: defer type errors)
+   :main [<arguments> ...]     run the main function with the given arguments
+   :module [+/-] [*]<mod> ...  set the context for expression evaluation
+   :quit                       exit GHCi
+   :reload[!]                  reload the current module set
+                               (!: defer type errors)
+   :run function [<arguments> ...] run the function with the given arguments
+   :script <file>              run the script <file>
+   :type <expr>                show the type of <expr>
+   :type +d <expr>             show the type of <expr>, defaulting type variables
+   :type +v <expr>             show the type of <expr>, with its specified tyvars
+   :unadd <module> ...         remove module(s) from the current target set
+   :undef <cmd>                undefine user-defined command :<cmd>
+   ::<cmd>                     run the builtin command
+   :!<command>                 run the shell command <command>
+
+ -- Commands for debugging:
+
+   :abandon                    at a breakpoint, abandon current computation
+   :back [<n>]                 go back in the history N steps (after :trace)
+   :break [<mod>] <l> [<col>]  set a breakpoint at the specified location
+   :break <name>               set a breakpoint on the specified function
+   :continue [<count>]         resume after a breakpoint [and set break ignore count]
+   :delete <number> ...        delete the specified breakpoints
+   :delete *                   delete all breakpoints
+   :disable <number> ...       disable the specified breakpoints
+   :disable *                  disable all breakpoints
+   :enable <number> ...        enable the specified breakpoints
+   :enable *                   enable all breakpoints
+   :force <expr>               print <expr>, forcing unevaluated parts
+   :forward [<n>]              go forward in the history N step s(after :back)
+   :history [<n>]              after :trace, show the execution history
+   :ignore <breaknum> <count>  for break <breaknum> set break ignore <count>
+   :list                       show the source code around current breakpoint
+   :list <identifier>          show the source code for <identifier>
+   :list [<module>] <line>     show the source code around line number <line>
+   :print [<name> ...]         show a value without forcing its computation
+   :sprint [<name> ...]        simplified version of :print
+   :step                       single-step after stopping at a breakpoint
+   :step <expr>                single-step into <expr>
+   :steplocal                  single-step within the current top-level binding
+   :stepmodule                 single-step restricted to the current module
+   :trace                      trace after stopping at a breakpoint
+   :trace <expr>               evaluate <expr> with tracing on (see :history)
+
+ -- Commands for changing settings:
+
+   :set <option> ...           set options
+   :seti <option> ...          set options for interactive evaluation only
+   :set local-config { source | ignore }
+                               set whether to source .ghci in current dir
+                               (loading untrusted config is a security issue)
+   :set args <arg> ...         set the arguments returned by System.getArgs
+   :set prog <progname>        set the value returned by System.getProgName
+   :set prompt <prompt>        set the prompt used in GHCi
+   :set prompt-cont <prompt>   set the continuation prompt used in GHCi
+   :set prompt-function <expr> set the function to handle the prompt
+   :set prompt-cont-function <expr>
+                               set the function to handle the continuation prompt
+   :set editor <cmd>           set the command used for :edit
+   :set stop [<n>] <cmd>       set the command to run when a breakpoint is hit
+   :unset <option> ...         unset options
+
+  Options for ':set' and ':unset':
+
+    +m            allow multiline commands
+    +r            revert top-level expressions after each evaluation
+    +s            print timing/memory stats after each evaluation
+    +t            print type after evaluation
+    +c            collect type/location info after loading modules
+    -<flags>      most GHC command line flags can also be set here
+                         (eg. -v2, -XFlexibleInstances, etc.)
+                    for GHCi-specific flags, see User's Guide,
+                    Flag reference, Interactive-mode options
+
+ -- Commands for displaying information:
+
+   :show bindings              show the current bindings made at the prompt
+   :show breaks                show the active breakpoints
+   :show context               show the breakpoint context
+   :show imports               show the current imports
+   :show linker                show current linker state
+   :show modules               show the currently loaded modules
+   :show packages              show the currently active package flags
+   :show paths                 show the currently active search paths
+   :show language              show the currently active language flags
+   :show targets               show the current set of targets
+   :show <setting>             show value of <setting>, which is one of
+                                  [args, prog, editor, stop]
+   :showi language             show language flags for interactive evaluation
+
+ The User's Guide has more information. An online copy can be found here:
+
+   https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html
+
+3.6. GHCi commands
+GHCi commands all begin with ‘:’ and consist of a single command name followed by zero or more parameters. The command name may be abbreviated, as long as the abbreviation is not ambiguous. All of the builtin commands, with the exception of :unset and :undef, may be abbreviated to a single letter.
+
+:add module ...
+Add module(s) to the current target set, and perform a reload.
+
+:browse [*]module ...
+Displays the identifiers defined by the module module, which must be either loaded into GHCi or be a member of a package. If the * symbol is placed before the module name, then all the identifiers defined in module are shown; otherwise the list is limited to the exports of module. The *-form is only available for modules which are interpreted; for compiled modules (including modules from packages) only the non-* form of :browse is available.
+
+:cd dir
+Changes the current working directory to dir. A ‘˜’ symbol at the beginning of dir will be replaced by the contents of the environment variable HOME.
+
+:def name expr
+The command :def name expr defines a new GHCi command :name, implemented by the Haskell expression expr, which must have type String -> IO String. When :name args is typed at the prompt, GHCi will run the expression (name args), take the resulting String, and feed it back into GHCi as a new sequence of commands. Separate commands in the result must be separated by ‘\n’.
+
+That's all a little confusing, so here's a few examples. To start with, here's a new GHCi command which doesn't take any arguments or produce any results, it just outputs the current date & time:
+
+Prelude> let date _ = Time.getClockTime >>= print >> return ""
+Prelude> :def date date
+Prelude> :date
+Fri Mar 23 15:16:40 GMT 2001
+Here's an example of a command that takes an argument. It's a re-implementation of :cd:
+
+Prelude> let mycd d = Directory.setCurrentDirectory d >> return ""
+Prelude> :def mycd mycd
+Prelude> :mycd ..
+Or I could define a simple way to invoke “ghc ––make Main” in the current directory:
+
+Prelude> :def make (\_ -> return ":! ghc ––make Main")
+:help, :?
+Displays a list of the available commands.
+
+:info name ...
+Displays information about the given name(s). For example, if name is a class, then the class methods and their types will be printed; if name is a type constructor, then its definition will be printed; if name is a function, then its type will be printed. If name has been loaded from a source file, then GHCi will also display the location of its definition in the source.
+
+:load module ...
+Recursively loads the specified modules, and all the modules they depend on. Here, each module must be a module name or filename, but may not be the name of a module in a package.
+
+All previously loaded modules, except package modules, are forgotten. The new set of modules is known as the target set. Note that :load can be used without any arguments to unload all the currently loaded modules and bindings.
+
+After a :load command, the current context is set to:
+
+module, if it was loaded successfully, or
+
+the most recently successfully loaded module, if any other modules were loaded as a result of the current :load, or
+
+Prelude otherwise.
+
+:module [+|-] [*]mod1 ... [*]modn
+Sets or modifies the current context for statements typed at the prompt. See Section 3.4.1 for more details.
+
+:quit
+Quits GHCi. You can also quit by typing a control-D at the prompt.
+
+:reload
+Attempts to reload the current target set (see :load) if any of the modules in the set, or any dependent module, has changed. Note that this may entail loading new modules, or dropping modules which are no longer indirectly required by the target.
+
+:set [option...]
+Sets various options. See Section 3.7 for a list of available options. The :set command by itself shows which options are currently set.
+
+:set args arg ...
+Sets the list of arguments which are returned when the program calls System.getArgs.
+
+:set prog prog
+Sets the string to be returned when the program calls System.getProgName.
+
+:show bindings
+Show the bindings made at the prompt and their types.
+
+:show modules
+Show the list of modules currently load.
+
+:type expression
+Infers and prints the type of expression, including explicit forall quantifiers for polymorphic types. The monomorphism restriction is not applied to the expression during type inference.
+
+:undef name
+Undefines the user-defined command name (see :def above).
+
+:unset option...
+Unsets certain options. See Section 3.7 for a list of available options.
+
+:! command...
+Executes the shell command command.
+
+Proof of the existence of God:
+
+ghci> let anselmsAssumption = True > False
+
+ghci> a
+abs                all                any                asin               atan2
+acos               and                appendFile         asinh              atanh
+acosh              anselmsAssumption  asTypeOf           atan
+
+ghci> anselmsAssumption
+True
+
+ghci> break
+
+<interactive>:8:1: error:
+    * No instance for (Show ((a0 -> Bool) -> [a0] -> ([a0], [a0])))
+        arising from a use of `print'
+        (maybe you haven't applied a function to enough arguments?)
+    * In a stmt of an interactive GHCi command: print it
+ghci> c
+ceiling    compare    concat     concatMap  const      cos        cosh       curry      cycle
+ghci> d
+decodeFloat  div          divMod       drop         dropWhile
+ghci> e
+
+<interactive>:9:1: error: Variable not in scope: e
+ghci> e
+either                  enumFrom                enumFromTo              even
+elem                    enumFromThen            error                   exp
+encodeFloat             enumFromThenTo          errorWithoutStackTrace  exponent
+ghci> f
+fail          floatDigits   floor         foldl         foldr1        fromIntegral
+filter        floatRadix    fmap          foldl1        fromEnum      fromRational
+flip          floatRange    foldMap       foldr         fromInteger   fst
+ghci> g
+gcd          getChar      getContents  getLine
+ghci> head
+
+<interactive>:10:1: error:
+    * No instance for (Show ([a0] -> a0)) arising from a use of `print'
+        (maybe you haven't applied a function to enough arguments?)
+    * In a stmt of an interactive GHCi command: print it
+ghci> i
+id              interact        isDenormalized  isInfinite      isNegativeZero  iterate
+init            ioError         isIEEE          isNaN           it
+ghci> j
+
+<interactive>:11:1: error: Variable not in scope: j
+ghci> k
+
+<interactive>:12:1: error: Variable not in scope: k
+ghci> l
+last     lcm      length   lex      lines    log      logBase  lookup
+ghci> l
+
+<interactive>:13:1: error: Variable not in scope: l
+ghci> m
+map       mapM_     max       maximum   mconcat   min       minimum
+mapM      mappend   maxBound  maybe     mempty    minBound  mod
+ghci> n
+negate   not      notElem  null
+ghci> o
+odd        or         otherwise
+ghci> p
+pi              print           properFraction  putChar         putStrLn
+pred            product         pure            putStr
+ghci> quot
+
+<interactive>:14:1: error:
+    * No instance for (Show (Integer -> Integer -> Integer))
+        arising from a use of `print'
+        (maybe you haven't applied a function to enough arguments?)
+    * In a stmt of an interactive GHCi command: print it
+ghci> r
+read        readIO      readLn      reads       realToFrac  rem         replicate   reverse
+readFile    readList    readParen   readsPrec   recip       repeat      return      round
+ghci> s
+scaleFloat   scanr        sequence     show         showParen    showsPrec    sin          span         subtract
+scanl        scanr1       sequenceA    showChar     showString   significand  sinh         splitAt      succ
+scanl1       seq          sequence_    showList     shows        signum       snd          sqrt         sum
+ghci> t
+tail        take        takeWhile   tan         tanh        toEnum      toInteger   toRational  traverse    truncate
+ghci> u
+uncurry    undefined  unlines    until      unwords    unzip      unzip3     userError
+ghci> v
+
+<interactive>:15:1: error: Variable not in scope: v
+ghci> w
+words      writeFile
+ghci> x
+
+<interactive>:16:1: error: Variable not in scope: x
+ghci> y
+
+<interactive>:17:1: error: Variable not in scope: y
+ghci> z
+
+<interactive>:18:1: error: Variable not in scope: z
+ghci> zip
+
+<interactive>:19:1: error:
+    * No instance for (Show ([a0] -> [b0] -> [(a0, b0)]))
+        arising from a use of `print'
+        (maybe you haven't applied a function to enough arguments?)
+    * In a stmt of an interactive GHCi command: print it
+ghci>
+
+Commands:
+Display all 529 possibilities? (y or n)
+!!                              Prelude.Real                    Prelude.readsPrec               fromRational
+$                               Prelude.RealFloat               Prelude.realToFrac              fst
+$!                              Prelude.RealFrac                Prelude.recip                   g
+&&                              Prelude.Right                   Prelude.rem                     gcd
+*                               Prelude.Semigroup               Prelude.repeat                  getChar
+**                              Prelude.Show                    Prelude.replicate               getContents
+*>                              Prelude.ShowS                   Prelude.return                  getLine
++                               Prelude.String                  Prelude.reverse                 head
+++                              Prelude.Traversable             Prelude.round                   id
+-                               Prelude.True                    Prelude.scaleFloat              init
+.                               Prelude.Word                    Prelude.scanl                   interact
+/                               Prelude.^                       Prelude.scanl1                  ioError
+/=                              Prelude.^^                      Prelude.scanr                   isDenormalized
+<                               Prelude.abs                     Prelude.scanr1                  isIEEE
+<$                              Prelude.acos                    Prelude.seq                     isInfinite
+<$>                             Prelude.acosh                   Prelude.sequence                isNaN
+<*                              Prelude.all                     Prelude.sequenceA               isNegativeZero
+<*>                             Prelude.and                     Prelude.sequence_               it
+<=                              Prelude.any                     Prelude.show                    iterate
+<>                              Prelude.appendFile              Prelude.showChar                last
+=<<                             Prelude.asTypeOf                Prelude.showList                lcm
+==                              Prelude.asin                    Prelude.showParen               length
+>                               Prelude.asinh                   Prelude.showString              lex
+>=                              Prelude.atan                    Prelude.shows                   lines
+>>                              Prelude.atan2                   Prelude.showsPrec               log
+>>=                             Prelude.atanh                   Prelude.significand             logBase
+Applicative                     Prelude.break                   Prelude.signum                  lookup
+Bool                            Prelude.ceiling                 Prelude.sin                     map
+Bounded                         Prelude.compare                 Prelude.sinh                    mapM
+Char                            Prelude.concat                  Prelude.snd                     mapM_
+Double                          Prelude.concatMap               Prelude.span                    mappend
+EQ                              Prelude.const                   Prelude.splitAt                 max
+Either                          Prelude.cos                     Prelude.sqrt                    maxBound
+Enum                            Prelude.cosh                    Prelude.subtract                maximum
+Eq                              Prelude.curry                   Prelude.succ                    maybe
+False                           Prelude.cycle                   Prelude.sum                     mconcat
+FilePath                        Prelude.decodeFloat             Prelude.tail                    mempty
+Float                           Prelude.div                     Prelude.take                    min
+Floating                        Prelude.divMod                  Prelude.takeWhile               minBound
+Foldable                        Prelude.drop                    Prelude.tan                     minimum
+Fractional                      Prelude.dropWhile               Prelude.tanh                    mod
+Functor                         Prelude.either                  Prelude.toEnum                  negate
+GT                              Prelude.elem                    Prelude.toInteger               not
+Ghci10.y                        Prelude.encodeFloat             Prelude.toRational              notElem
+Ghci12.it                       Prelude.enumFrom                Prelude.traverse                null
+Ghci13.it                       Prelude.enumFromThen            Prelude.truncate                odd
+Ghci2.it                        Prelude.enumFromThenTo          Prelude.uncurry                 or
+Ghci3.it                        Prelude.enumFromTo              Prelude.undefined               otherwise
+Ghci4.x                         Prelude.error                   Prelude.unlines                 pi
+Ghci4.xs                        Prelude.errorWithoutStackTrace  Prelude.until                   pred
+Ghci5.x                         Prelude.even                    Prelude.unwords                 print
+Ghci6.it                        Prelude.exp                     Prelude.unzip                   product
+Ghci7.it                        Prelude.exponent                Prelude.unzip3                  properFraction
+Ghci8.x                         Prelude.fail                    Prelude.userError               pure
+Ghci9.it                        Prelude.filter                  Prelude.words                   putChar
+IO                              Prelude.flip                    Prelude.writeFile               putStr
+IOError                         Prelude.floatDigits             Prelude.zip                     putStrLn
+Int                             Prelude.floatRadix              Prelude.zip3                    quot
+Integer                         Prelude.floatRange              Prelude.zipWith                 quotRem
+Integral                        Prelude.floor                   Prelude.zipWith3                read
+Just                            Prelude.fmap                    Prelude.||                      readFile
+LT                              Prelude.foldMap                 Rational                        readIO
+Left                            Prelude.foldl                   Read                            readList
+Maybe                           Prelude.foldl1                  ReadS                           readLn
+Monad                           Prelude.foldr                   Real                            readParen
+MonadFail                       Prelude.foldr1                  RealFloat                       reads
+Monoid                          Prelude.fromEnum                RealFrac                        readsPrec
+Nothing                         Prelude.fromInteger             Right                           realToFrac
+Num                             Prelude.fromIntegral            Semigroup                       recip
+Ord                             Prelude.fromRational            Show                            rem
+Ordering                        Prelude.fst                     ShowS                           repeat
+Prelude.!!                      Prelude.gcd                     String                          replicate
+Prelude.$                       Prelude.getChar                 Traversable                     return
+Prelude.$!                      Prelude.getContents             True                            reverse
+Prelude.&&                      Prelude.getLine                 Word                            round
+Prelude.*                       Prelude.head                    ^                               scaleFloat
+Prelude.**                      Prelude.id                      ^^                              scanl
+Prelude.*>                      Prelude.init                    abs                             scanl1
+Prelude.+                       Prelude.interact                acos                            scanr
+Prelude.++                      Prelude.ioError                 acosh                           scanr1
+Prelude.-                       Prelude.isDenormalized          all                             seq
+Prelude..                       Prelude.isIEEE                  and                             sequence
+Prelude./                       Prelude.isInfinite              any                             sequenceA
+Prelude./=                      Prelude.isNaN                   appendFile                      sequence_
+Prelude.<                       Prelude.isNegativeZero          asTypeOf                        show
+Prelude.<$                      Prelude.iterate                 asin                            showChar
+Prelude.<$>                     Prelude.last                    asinh                           showList
+Prelude.<*                      Prelude.lcm                     atan                            showParen
+Prelude.<*>                     Prelude.length                  atan2                           showString
+Prelude.<=                      Prelude.lex                     atanh                           shows
+Prelude.<>                      Prelude.lines                   break                           showsPrec
+Prelude.=<<                     Prelude.log                     ceiling                         significand
+Prelude.==                      Prelude.logBase                 compare                         signum
+Prelude.>                       Prelude.lookup                  concat                          sin
+Prelude.>=                      Prelude.map                     concatMap                       sinh
+Prelude.>>                      Prelude.mapM                    const                           snd
+Prelude.>>=                     Prelude.mapM_                   cos                             span
+Prelude.Applicative             Prelude.mappend                 cosh                            splitAt
+Prelude.Bool                    Prelude.max                     curry                           sqrt
+Prelude.Bounded                 Prelude.maxBound                cycle                           subtract
+Prelude.Char                    Prelude.maximum                 decodeFloat                     succ
+Prelude.Double                  Prelude.maybe                   div                             sum
+Prelude.EQ                      Prelude.mconcat                 divMod                          tail
+Prelude.Either                  Prelude.mempty                  drop                            take
+Prelude.Enum                    Prelude.min                     dropWhile                       takeWhile
+Prelude.Eq                      Prelude.minBound                either                          tan
+Prelude.False                   Prelude.minimum                 elem                            tanh
+Prelude.FilePath                Prelude.mod                     encodeFloat                     toEnum
+Prelude.Float                   Prelude.negate                  enumFrom                        toInteger
+Prelude.Floating                Prelude.not                     enumFromThen                    toRational
+Prelude.Foldable                Prelude.notElem                 enumFromThenTo                  traverse
+Prelude.Fractional              Prelude.null                    enumFromTo                      truncate
+Prelude.Functor                 Prelude.odd                     error                           uncurry
+Prelude.GT                      Prelude.or                      errorWithoutStackTrace          undefined
+Prelude.IO                      Prelude.otherwise               even                            unlines
+Prelude.IOError                 Prelude.pi                      exp                             until
+Prelude.Int                     Prelude.pred                    exponent                        unwords
+Prelude.Integer                 Prelude.print                   fail                            unzip
+Prelude.Integral                Prelude.product                 filter                          unzip3
+Prelude.Just                    Prelude.properFraction          flip                            userError
+Prelude.LT                      Prelude.pure                    floatDigits                     words
+Prelude.Left                    Prelude.putChar                 floatRadix                      writeFile
+Prelude.Maybe                   Prelude.putStr                  floatRange                      x
+Prelude.Monad                   Prelude.putStrLn                floor                           xs
+Prelude.MonadFail               Prelude.quot                    fmap                            y
+Prelude.Monoid                  Prelude.quotRem                 foldMap                         zip
+Prelude.Nothing                 Prelude.read                    foldl                           zip3
+Prelude.Num                     Prelude.readFile                foldl1                          zipWith
+Prelude.Ord                     Prelude.readIO                  foldr                           zipWith3
+Prelude.Ordering                Prelude.readList                foldr1                          ||
+Prelude.Rational                Prelude.readLn                  fromEnum
+Prelude.Read                    Prelude.readParen               fromInteger
+Prelude.ReadS                   Prelude.reads                   fromIntegral
+ghci> :
+:?           :cd          :def!        :force       :instances   :main        :script      :steplocal   :where
+:abandon     :check       :delete      :forward     :issafe      :module      :set         :stepmodule
+:add         :cmd         :disable     :help        :kind        :print       :seti        :trace
+:back        :continue    :doc         :history     :kind!       :quit        :show        :type
+:break       :ctags       :edit        :ignore      :list        :reload      :showi       :unadd
+:browse      :ctags!      :enable      :info        :load        :reload!     :sprint      :undef
+:browse!     :def         :etags       :info!       :load!       :run         :step        :unset
+ghci> :
+Ok, no modules loaded.
+ghci> :q
+Leaving GHCi.
