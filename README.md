@@ -1,3 +1,4 @@
-# example autohotkey scripts
+# example
 
-Spaghetti Code
+## SAUCE
+Spaghetti Autohotkey User Code Examples
