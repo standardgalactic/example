@@ -8,11 +8,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoCorrect.ahk
 #Include RandomNameGenerator.ahk
 
-;; control alt g 
-
-#Include mygithub.ahk ;; open github standardgalactic page ^!g
-
-
 ;;#Include Gdp_All.ahk
 ;;#Include tosga.ahk ;; Alt + home to toggle, may be inconvenient
 ;#Include vim-scripts.ahk ;; toggle with windows+v ;; wow that was annoying
@@ -893,8 +888,8 @@ return
 
 ::remindme::function workspace();atexit() do; run(``$(Base.julia_cmd())``);end;exit();end
 
-
-
+;; egsample example examplesh
+::eg::example
 
 ;;  Julia # recipe
 ::add jump::add JuMP
@@ -1011,40 +1006,40 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
-::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
-::archeo::ssh archeo@192.168.2.57 
-::mixo::ssh mixo@192.168.2.94
-::kodak::ssh kodak@192.168.2.97
+::phonehome::Mechachleopteryx@<ip address>:projects
+::phonemy::ssh Mechachleopteryx@<ip address> ;windows, choco
+::archeo::ssh archeo@<ip address> 
+::mixo::ssh mixo@<ip address>
+::kodak::ssh kodak@<ip address>
 
-::phewf::ssh phewf@192.168.2.110
+::phewf::ssh phewf@<ip address>
 
 ;; chess monkey
-::ches::ssh good@192.168.2.112
-::monke::ssh monkey@192.168.2.111
+::ches::ssh good@<ip address>
+::monke::ssh monkey@<ip address>
 
 
 ;; start openssh server
 ::startssh::sudo systemctl start ssh
 
 ;;  Laptops
-::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
-::astro::ssh aardvark@192.168.2.73
-::moontop::ssh moon@192.168.2.55 ; ubuntu
-::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.30
+::mymac::ssh mecha@<ip address> ;os/10 shell zsh, brew
+::astro::ssh aardvark@<ip address>
+::moontop::ssh moon@<ip address> ; ubuntu
+::myoldlaptop::ssh eccehomo@<ip address> ;;; now ubuntu 
+::eccehomo::ssh eccehomo@<ip address> ;;; now ubuntu 
+::eh::ssh eccehomo@<ip address>
 
-::shorthand::ssh shorthand@192.168.2.99  ;; shorthand@Optiplex
-::multitech::ssh entity@192.168.2.113 ;; entity@Multitech
+::shorthand::ssh shorthand@<ip address>  ;; shorthand@Optiplex
+::multitech::ssh entity@<ip address> ;; entity@Multitech
 
 
 ;; Smartphones
-::myphone::ssh u0_a330@192.168.2.72 -p 8022 ;linux ubuntu
-::myoldphone::ssh u0_a502@192.168.2.10 -p 8022 ;linux ubuntu
+::myphone::ssh u0_a330@<ip address> -p 8022 ;linux ubuntu
+::myoldphone::ssh u0_a502@<ip address> -p 8022 ;linux ubuntu
 
 ;; Tablet(s)
-::mytablet::ssh u0_a285@192.168.2.82 -p 8022
+::mytablet::ssh u0_a285@<ip address> -p 8022
 
 
 ;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
