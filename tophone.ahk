@@ -31,10 +31,13 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; Phoenician ;;
 
+
 ;; alf, bet, gaml,delt, he
 ;;wau, zai,het,tet,yod
 ;; kaf, lamd, mem, nun, semk
-;; ain, pe,qof
+;; ain, pe, tsadik, qof, rosh, shin, tau
+
+
 :*:a::𐤀
 :*:b::𐤁
 :*:c::𐤂
