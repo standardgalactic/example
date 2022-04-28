@@ -29,7 +29,7 @@ other help manuals, or just to obfuscate code.
 ;; fast typing ;;
 
 ;; you might have to deactivate the keys to_ and quo
-;; in order to get this to work, probably
+;; in order to get this to work
 
 ;; ::tq::The quick brown fox jumps over the lazy dog.
 
