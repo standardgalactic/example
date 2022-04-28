@@ -16,7 +16,7 @@ so with this application I could just type "/a, /b, /c, ..." to read the manual.
 
 I realized that in many ways this was a similar problem to mapping one alphabet to another, and
 so I ended up creating the "I use Arch Linux btw" alphabet, it can be adapted to read other help
-manuals, or just 
+manuals, or just to obfuscate code.
 
 */
 
