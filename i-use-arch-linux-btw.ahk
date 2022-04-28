@@ -7,6 +7,9 @@ abs, abs2, angle, arg, as_json, conj,
   inspect, magnitude, numerator, phase, polar, quo, rationalize, real,
   real?, rect, rectangular, to_c, to_f, to_i, to_json, to_r, to_s helphelphelp
 
+;; you will have to remove the above lines or comment them out in order to get this to work,
+;; and also have Autohotkey installed on your system, which means windows as well, I guess.
+
 /*
 Context:
 Originally, I created this in order to read a Ruby manual. 
