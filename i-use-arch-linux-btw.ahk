@@ -82,6 +82,7 @@ abs, abs2, angle, arg, as_json, conj,
 
 
 ;; may interfere with Alt+x to convert unicode in libreoffice.
+;; this no longer applies, I just changed to to alt-j instead.
 
 !j::Suspend ; Press Alt+j to suspend, and Alt+j again to resume 
 
