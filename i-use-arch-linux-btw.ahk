@@ -25,13 +25,13 @@ abs, abs2, angle, arg, as_json, conj,
 :*:a::angle
 :*:b::rationalize
 :*:c::imaginary
-:*:d::as_json
+:*:d::delete
 :*:e::inspect
-:*:f::finite?
+:*:f::finite
 :*:g::denominator
 :*:h::fdiv
-:*:i::infinite?
-:*:j::to_json
+:*:i::infinite
+:*:j::json
 :*:k::inspect
 :*:l::real
 :*:m::magnitude
@@ -40,12 +40,12 @@ abs, abs2, angle, arg, as_json, conj,
 :*:p::polar
 :*:q::quo
 :*:r::rationalize
-:*:s::real?
-:*:t::rectangular
+:*:s::system
+:*:t::to_
 :*:u::number
 :*:v::complex
-:*:w::I use Arch Linux, BTW
-:*:x::phase/
+:*:w::I use Arch Linux btw
+:*:x::example
 :*:y::abs
 :*:z::arg
 */
