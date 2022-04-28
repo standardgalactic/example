@@ -9,7 +9,7 @@ abs, abs2, angle, arg, as_json, conj,
 
 /*
 Context:
-Originally, I created this as to read a Ruby manual. 
+Originally, I created this in order to read a Ruby manual. 
 
 The command to check the next entry, was help abs, help abs2, help angle, and so on,
 and so with this application I could just type "/a, /b, /c, ..." to read the manual.
@@ -17,8 +17,8 @@ and so with this application I could just type "/a, /b, /c, ..." to read the man
 I realized that in many ways this was a similar problem to mapping one alphabet to another,
 and so I ended up creating the "I use Arch Linux btw" alphabet, it can be adapted to read
 other help manuals, or just to obfuscate code.
-
 */
+
 
 ;; forward slash to help ;;
 :*:/::help
