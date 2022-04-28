@@ -12,6 +12,7 @@ abs, abs2, angle, arg, as_json, conj,
 ;; forward slash to help ;;
 :*:/::help
 
+/*
 ::test::
 (
 abs, abs2, angle, arg, as_json, conj,
@@ -19,8 +20,8 @@ abs, abs2, angle, arg, as_json, conj,
   inspect, magnitude, numerator, phase, polar, quo, rationalize, real,
   real?, rect, rectangular, to_c, to_f, to_i, to_json, to_r, to_s
 )
+*/
 
-/*
 ;; Sga ;;
 :*:a::angle
 :*:b::rationalize
@@ -48,7 +49,7 @@ abs, abs2, angle, arg, as_json, conj,
 :*:x::example
 :*:y::abs
 :*:z::arg
-*/
+
 
 
 ;; cistercian ;;
