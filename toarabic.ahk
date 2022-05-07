@@ -4,7 +4,6 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance force
 
-
 ;; Arabic ;;
 ;abtejHo dDrzsxS cTC Agf qklm nhuy pi 
 ; ابتثجحخ دذرزسشص ضطظ عغف قكلم نهوي لأء
@@ -40,9 +39,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :c*:T::ط
 :*:u::و
 :*:v::آ
-:*:w::ؤ
+:c*:w::ؤ
+:c*:W::ئ
 :*:x::ش
-:*:y::ي
+:c*:y::ي
+:c*:Y::ى
 :*:z::ز
 
 
