@@ -86,8 +86,11 @@ RandomName(MinLength=5, MaxLength=0)
 
 
 
+;; was control-q (^q) but changed it to alt-q (!q)
+;; because apparently ^s and ^q start and stop
+;; the terminal stream
 
-^q::
+!q::
 	Random, OutputVar, 1, 100000
  	rn := RandomName(4,0) ;"-" OutputVar
 	Sleep, 500
