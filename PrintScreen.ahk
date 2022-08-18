@@ -3,7 +3,6 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-
 #Include RandomFunctions.ahk 
 #Include AutoCorrect.ahk
 #Include RandomNameGenerator.ahk
@@ -21,6 +20,63 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+
+;; Code to write code: Autohotkey script. ;; best command ever - alt-bash (alt-b)  <newline> !b::Send, {!}{!}bash`n ;; 
+;; best command ever (control-b or alt-b)
+
+;; For more information, see: 
+;; Beginner Boost, Day 37: Prefer Shell Scripts Over Plugins in Vim [20210706230535]
+;; https://youtube.com/clip/Ugkxbqw7ZVfcBAxm8bG81oi3A5BdnDqmw0Py
+
+::instal::install
+
+;; for vim ;;
+
+^b::Send, {!}{!}bash`n
+!b::Send, {!}{!}bash`n
+
+;; from insert mode
+:*:ruun::
+Send, {Esc}
+Send, {!}{!}bash`n
+Return
+
+;; womb matrix mind ;; what i want to think about ;; i will "accidentally" stumble
+;; upon more ;; write it on the doorposts ;; theory of loose parts ;;
+
+;; maybe extremely inconvenient maybesh maybsh ;;
+:*:maybe::Contiguous Rolling Context Mixed Initiative Dialog 
+
+;; repeat after me book (ramb) ;; ramb sonnet ;; rambsh ;;
+
+::mayb::Contiguous Rolling Context Mixed Initiative Dialog
+::ramb::Contiguous Rolling Context Mixed Initiative Dialog
+::rmb::Contiguous Rolling Context Mixed Initiative Dialog
+::crc::Contiguous Rolling Context Mixed Initiative Dialog
+::mixd::Contiguous Rolling Context Mixed Initiative Dialog
+::minx::Contiguous Rolling Context Mixed Initiative Dialog
+::mxnd::Contiguous Rolling Context Mixed Initiative Dialog
+::mxid::Contiguous Rolling Context Mixed Initiative Dialog
+::noo::Contiguous Rolling Context Mixed Initiative Dialog
+::corc::Contiguous Rolling Context Mixed Initiative Dialog
+::conc::Contiguous Rolling Context Mixed Initiative Dialog
+::crd::Contiguous Rolling Context Mixed Initiative Dialog
+::cr::Contiguous Rolling Context Mixed Initiative Dialog
+::md::Contiguous Rolling Context Mixed Initiative Dialog
+
+;; not a counter countersh ;;
+
+:*:....::(1,2,3,4,5)
+
+;; gimp ;; gimpsh ;;
+ 
+::getgimp::sudo apt-get install gimp
+
+
+;; speed  speedsh ;;
+::fasle::false
+::INt::int
+
 /*
 ;; test for above ;;
 
@@ -30,8 +86,66 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;;
 */ 
 
+NumpadEnter::Send, Bullshit
 
 
+;; workspace ;;
+
+;; ::workspace::
+
+::lg::ls | grep
+
+/*
+;; logic ;; logicsh ;; logicssh
+
+;; proofs ;; proofsh ;; proofssh
+
+::pc::coq
+::ch::Check
+::sd::Section Declaration.
+::va::Variable
+::hy::Hypothesis
+::pp::Prop
+::pr::Print
+::de::Definition
+::se::Search
+::lo::Locate
+::fi::Fixpoint
+::fa::factorial
+::co::Compute
+::req::Require
+::ex::Extraction
+::im::Import
+::op::Open
+::cl::Close
+::sc::Scope
+::nn::None
+::so::Some
+::ty::Type
+::li::List
+::st::String
+::rec::Record
+::le::Lemma
+::qed::Qed.
+::qd::Qed.
+::qe::Qed.
+
+::des::destruct
+::prf::Proof.
+
+::bbb::Send, negb
+::rfl::reflexivity
+
+
+::qs::Q_scope
+
+::oc::OCaml
+::sm::StandardML
+
+::ind::Inductive
+*/
+
+::logick::coqtop
 
 ;; authentication
 !o::
@@ -94,12 +208,23 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 
 
 ;; considered harmful ;;
-::goto::go to
+;; ::goto::go to  ;; need it to program basic
 
 ;; ahk experiments ;;
 
-;; eXecute
-:X:mib::MsgBox
+;; ConsoleWindowClass ;; open wsl terminal
+;; type cwc space, or alt + w 
+
+  ;; eXecute
+  ; :X:mib::MsgBox  ;; just accidentally triggered this 2022-04-24
+
+:X:cwc::run, C:\Windows\System32\wsl.exe, C:\Windows\System32  ;; let's see what happens
+!w::run, C:\Windows\System32\wsl.exe, C:\Windows\System32  ;; let's see what happens
+
+
+; :*:testtttttttttttttttttttttttt::testtttttttttttttttttttttttt    w  o   r   k  i   n  g  !!   tttttttttttttttttt
+; ::test?::working!  
+
 
 
 ::mereo::
@@ -149,13 +274,30 @@ MAILTO=paul
 
 
 
-;; xonsh ;; python-like shell
+;; xonsh ;; xonshs ;; xonshsh ;; python-like shell
+
+:*:;l::lambda
+:*:l;::λ
+
+;; control-c to advance to the next image
+
+;; my cool program
+
+
+::test::you are an idiot!
+::loook::
+(
+for file in gp``*.*``:
+    if file.exists():
+        display @(file)`n`n    
+)
 
 ::echolo::echo "hello" | @(lambda a, s=None: s.read().strip() + " world\n")
 ::makesome::for i in range(20):`n$[touch @('file%02d' % i)]`n`n
 ::helloworlds::eg = 'hello'; echo path/to/@(['hello', 'world]'])
 ::dosomething::echo @(['a', 'b']):@('x', 'y')
 ::border of the absurd::$[@$(which @($(echo ls).strip())) @('-' + $(printf 'l'))] ;; long listing
+
 
 ;; cprogramming c programming ;;
 ::rsrvd::
@@ -258,21 +400,37 @@ while
 xor
 xor_eq
 )
+;; asahi -- asahish ;;
+
+::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
+
+::sup::sudo pacman -Syu
 
 ;; linux -- linuxsh;;
 
+::gimme::for i in ``seq 1 10``; do   let result="$RANDOM % 300 + 200";   echo "A number: $result"; done
 
+::addme::adduser -m flyxion
+::undome::userdel -r flyxion
 
-::gt::sudo apt-get install
+::gita::git config --global user.name "standardgalactic"
+::gitb::git config --global user.email "standardgalactic@protonmail.com"
+
+;;lynxspace;;
+::builda::godistbuild
+
+::gtt::sudo apt-get install
 ::upd::sudo apt-get update
 ::upg::sudo apt-get upgrade
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::ll::echo $?`n
 
+::sa::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
 ; a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
 ; ,,,,,,,,,,,,,,,,,,,,,,,,,
+
 ::2sga::a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z = symbols(',,,,,,,,,,,,,,,,,,,,,,,,,')
 
 ;; remove by node (inode) ;;
@@ -281,19 +439,35 @@ xor_eq
 ::blox::lsblk
 
 ::start ssh::sudo systemctl start sshd
+::startssh::/etc/init.d/ssh start
 
 ::konfig::tmux new-session -d 'vi ~/.tmux.conf' \; split-window -d \; attach
 
-
 ;; install docker ;;
+
+;; elm elmsh ;;
+::?elm::# get, unzip, bop, move
+
+;; install elm ;; 
+::getit::curl -L -o elm.gz https://github.com/elm/compiler/releases/download/0.19.1/binary-for-linux-64-bit.gz
+::unzipit::gunzip elm.gz
+;; bopit
+::moveit::sudo mv elm /usr/local/bin
+
+
 
 ::getsteps::# getup, getready, getkey, getrepo, getup (again), getdocker
 
-::getup::sudo apt-get update
-::getready::sudo apt-get install ca-certificates curl gnupg lsb-release
-::getkey::curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-::getrepo::echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-::getdocker::sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+
+::getup::apt-get update
+::getready::apt-get install ca-certificates curl gnupg lsb-release
+::getkey::curl -fsSL https://download.docker.com/linux/ubuntu/gpg |  gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+::getrepo::echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | tee /etc/apt/sources.list.d/docker.list > /dev/null
+::getdocker::apt-get install docker-ce docker-ce-cli containerd.io
+
+::didntwork::curl -fsSL test.docker.com -o get-docker.sh && sh get-docker.sh
+
 
 ;; update node.js ;;
 ::nodesteps::# update node; clearcache, andthen, andthenn
@@ -310,31 +484,61 @@ xor_eq
 
 ::archjulia::wget https://julialang-s3.julialang.org/bin/linux/aarch64/1.6/julia-1.6.0-linux-aarch64.tar.gz
 
+;; unison language ;; unisonsh ;;
+
+::howtu::# mu, getu, untu, gu
+
+::mul::mkdir unisonlanguage
+::getu::curl -L https://github.com/unisonweb/unison/releases/download/release%2FM3/ucm-linux.tar.gz --output unisonlanguage/ucm.tar.gz
+::untu::tar -xzf unisonlanguage/ucm.tar.gz -C unisonlanguage
+::gu::./unisonlanguage/ucm
+
+
+;; installing ubuntu on termux
+
+::instructshions::
+(
+Update termux: apt-get update && apt-get upgrade -y
+Install wget: apt-get install wget -y
+Install proot: apt-get install proot -y
+Install git: apt-get install git -y
+Go to HOME folder: cd ~
+Download script: git clone https://github.com/MFDGaming/ubuntu-in-termux.git
+Go to script folder: cd ubuntu-in-termux
+Give execution permission: chmod +x ubuntu.sh
+Run the script: ./ubuntu.sh -y
+Now just start ubuntu: ./startubuntu.sh
+)
+
+
 ;; thefuck
 
 ::addalias::eval $(thefuck --alias)
 
 ::into bashrc::>> ~/.bashrc
 
-::rename all::rename 's/$/\.tsv/' *
+::rn::rename 's/$/\.tsv/' *
 
 ::pastebin::cat "filename" | curl -F 'f:1=<-' ix.io
-::getback::curl http://ix.io/
+:o:getback::curl http://ix.io/
 ::getix::curl http://ix.io/2F1r > /tmp/ix
 ::moveit::sudo mv /tmp/ix /bin
-::bopit::sudo chmod +x ix
+::bopit::sudo chmod +x
 
 ;; ls with most recent last ;;
 ::aa::ls -latr
 
 
 ;; note
-; bonobo@Memex-wsl:hsandbox(master)$ ls -l ~/.bashrc
 ; -rwxr-xr-x 1 root root 7.9K Feb 21 18:42 /home/bonobo/.bashrc
 ::please let me::sudo chmod +w ~/.bashrc
 
-::addtobash::sudo echo "export PATH=$PWD:\$PATH" >> ~/.bashrc
-::addtopath::export PATH=$PWD:\$PATH
+::addtobash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
+::addtopath::export PATH=$PATH:$(pwd)
+
+;; workspace ;;
+::wrk::cd /home/Lynxspace/.local/bin/scripts/
+
 
 
 ::ubunturoot::ubuntu config --default-user root  ;;from powershell
@@ -347,7 +551,10 @@ xor_eq
 ::vr::vim README.md
 ::reme::README.md
 
+;; chromesh ;;
+
 ::installchrome::wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb;sudo apt install ./google-chrome-stable_current_amd64.deb
+
 ::polly::sudo su - pollinate -s /bin/bash
 ::showpath::echo -e ${PATH//:/'\n'}
 ::lookhere::export PATH=".:$PATH"
@@ -363,7 +570,7 @@ xor_eq
 
 !k::Send,㉿ ;; sends a double tab in kali linux
 return
-!l::Send,kubectl ;; sends a double tab in kali linux
+^l::Send,kubectl ;; sends a double tab in kali linux
 return
 
 
@@ -415,6 +622,11 @@ return
 ::llrr::alias r=R
 ::littler::alias r=R
 ::wow::cowsay "I can't believe that actually worked."
+
+;; audiobook ; audiobooks
+
+::doit::say -o monicaspills.aiff -f mpills.txt
+::thenn::lame -m m monicaspills.aiff pills.mp3
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
 ;; antihotstrings antihotkeys ;;
@@ -481,7 +693,10 @@ Searching()
 ::threes::        +       +      + =   
 ::3s::3000 + 300 + 30 + 3  = 3,333
 
+::tq::The quick brown fox jumps over the lazy dog.
+
 ;; program ;;
+
 
 ;;  sga ;;
 ::sga example::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< 'The quick brown fox jumps over the lazy dog.'
@@ -534,7 +749,11 @@ print(joe.pop, " ") while joe.size > 0
 print "\n"
 )
 
+;; rust ;; rustsh ;;
 
+::getbuild::sudo apt-get install build-essential
+
+::getrust::sudo curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 
 
 ;; docker -- dockersh ;;
@@ -583,15 +802,19 @@ print "\n"
 ::hap::haplopraxis
 
 :o:gala::Galactromeda
-:o:ph::phewf
+:o:phf::phewf
 
 :o:listmy::# sg, pf, gala, mt, s11e, hap, ph
 :o:listmyfull::# standardgalactic, Playfloor, Galactromeda, mysterytrader, strategyguide, phewf
 
-;; chorded keyboard ;;
+::pps::import pioupiou as pp
 
+::dri::docker imager rm
+::dockter::docker
+::decer::docker
+::dcr::docker
 ::dockr::docker
-::dcker::docker
+:r:dcker::docker
 ::dckr::docker
 ::dkr::docker
 ::dkcr::docker
@@ -695,7 +918,13 @@ Return
 ;; superupdate ;;
 ::useforce::softwareupdate --all --install --force
 
-::test voices::say -v '?' | awk '{print $1}' | while read voice; do printf "using $voice...\n"; say -v $voice "hello, this is me using the $voice voice"; sleep 1; done
+;; TODO ;; experiment with speed and pitch, if possible ;;
+
+;; voices ;; voicesh ;; voicessh ;;
+
+::testvoices::say -v '?' | awk '{print $1}' | while read voice; do printf "using $voice...\n"; say -v $voice "hello, this is me using the $voice voice"; sleep 1; done
+
+::slimvoices::say -v '?' | awk '{print $1}' | while read voice; do printf "using $voice...\n"; say -v $voice " Hi, my name is   Slim Shady"; sleep 1; done
 
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
@@ -704,14 +933,14 @@ Return
 ::askme::/Users/mecha/age_check
 
 ;; Pluto ;;
-::powerlevel::@bind power_level html"<input type='range'>"
+::powlevel::@bind power_level html"<input type='range'>"
 
 
 ;; docker ;;
 
 ::rwx::
 {
-Send, sudo docker start -i confident_euler`n
+Send, sudo docker start -i confident_euler
 Return
 }
 
@@ -719,7 +948,7 @@ Return
 ::getjs::go get github.com/go-goodies/go_jsoncfg
 
 ::getsand::git clone http://github.com/niemeyer/hsandbox.git
-::please::sudo chmod +x hsandbox
+::pleese::sudo chmod +x hsandbox
 ::g0::./hsandbox go -c
 
 ::xyloid::sudo docker start -i suspicious_shirley
@@ -776,8 +1005,10 @@ Return  ;; now you have to edit and hit enter.
 
 ;;didn't work
 
+
 ;; golang go gosh ;;
-::goprog::
+
+::pk::
 (
 package main
 
@@ -786,10 +1017,6 @@ import `(
 `)
 
 func main() {
-        add := func(x, y int) int {
-               return x + y
-        }
-        fmt.Println(add(1,1))
 }
 )
 
@@ -809,7 +1036,7 @@ ghhihh
 ------
 )
 
-::grey#::highlight LineNr ctermfg=grey
+::greyy::highlight LineNr ctermfg=grey
 
 ::rmga::g/\v^(a|g)/:d  ;; remove lines starting with g or a ; global delete ;
 ::rm3:::g/\w$/normal $3X
@@ -819,8 +1046,8 @@ ghhihh
 ::makebox::!mkdir ~/sandbox
 ::addpath::set path+=~/sandbox 
 
-
-::deleteblanks::g/^\s*$/d
+::no spaces::%s/^\s*//g
+::no blanks::g/^\s*$/d
 ::nonotes::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
 ::notags:::%s#\[\d*\:\d*\:\d*\]##g
 ::vim in title::ls -l | grep -i vim
@@ -837,10 +1064,11 @@ ghhihh
 ;;sample program;;
 ;; python3 -c 'import os,sys;os.makedirs(sys.argv[1])' /test2/test_3
 
-;;	::create dirs::python3 -c 'import os,sys;os.makedirs(sys.argv[1]){^q} / {^q} / {^q} {Enter}
-;;	This is the alphabet.Swngeden 880the first  letters are abc.
+::mktest::
+Send, python3 -c 'import os,sys;os.makedirs(sys.argv[1])' test; cd test;
 
-;;:*:alpha::
+;;
+:*:alpha::
 ;;Send, This is the alphabet.
 ;;Send, ^q
 ;;Send, The first letters are abc.
@@ -851,25 +1079,25 @@ ghhihh
 ::pyy::python3
 ::getall::from sympy import *
 
-:*:create dirs::
-Send, python3 -c "import os,sys;os.makedirs(sys.argv[1])"
+:*:mkdirs::
+Send, python3 -c 'import os,sys;os.makedirs(sys.argv[1])'
 Send {Space}
 Sleep 1000
-Send, ^{q}
+Send, !{q}
 Sleep 1000
 Send, /
 Sleep 1000
-Send, ^{q}
+Send, !{q}
 Sleep 1000
 Send, /
 Sleep 1000
-Send, ^{q}
+Send, !{q}
 Sleep 1000
 Send, /
 Sleep 500
-Send, ^{q}
+Send, !{q}
 Sleep 500
-Send, {Enter}
+Send, `n
 return
 
 ;; awk ;;
@@ -948,7 +1176,7 @@ return
 ::macprompt::PS1="%n@%m %1~ %# "
 
 ::normal prompt::PS1="\[\e[38;5;202m\]$(byobu_prompt_status)\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\]$(byobu_prompt_symbol) "
-::np::PS1="\[\e[38;5;202m\]\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\] "
+::norp::PS1="\[\e[38;5;202m\]\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\] "
 ::weird prompt::PS1="It is recommended not to use a '>' in your PS1 Command Prompt as if copy/pasted by accident that can cause a redirection and file overwrite. "
 
 ::howto::curl https://ss64.com/bash/syntax-prompt.html
@@ -1000,46 +1228,51 @@ Return
 
   And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand. Now the parable is this... The seed is the word of God... Those by the wayside are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved... They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away... And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection... But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience."
 
+:*:normap::normal promp
+
 ;;  Programming Shortcuts
 ::Haplo::Haplopraxis
 ::clonemy::git clone https://github.com/standardgalactic/Haplopraxis
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@<ip address>:projects
-::phonemy::ssh Mechachleopteryx@<ip address> ;windows, choco
-::archeo::ssh archeo@<ip address> 
-::mixo::ssh mixo@<ip address>
-::kodak::ssh kodak@<ip address>
+::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
+::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
+::archeo::ssh archeo@192.168.2.126 
+::mixo::ssh mixo@192.168.2.93
+::kodak::ssh kodak@192.168.2.142
 
-::phewf::ssh phewf@<ip address>
+::phewf::ssh phewf@192.168.2.128
 
 ;; chess monkey
-::ches::ssh good@<ip address>
-::monke::ssh monkey@<ip address>
+::ches::ssh good@192.168.2.123
+::monke::ssh monkey@192.168.2.124
 
 
 ;; start openssh server
 ::startssh::sudo systemctl start ssh
 
 ;;  Laptops
-::mymac::ssh mecha@<ip address> ;os/10 shell zsh, brew
-::astro::ssh aardvark@<ip address>
-::moontop::ssh moon@<ip address> ; ubuntu
-::myoldlaptop::ssh eccehomo@<ip address> ;;; now ubuntu 
-::eccehomo::ssh eccehomo@<ip address> ;;; now ubuntu 
-::eh::ssh eccehomo@<ip address>
+::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
+::astro::ssh aardvark@192.168.2.73
+::moontop::ssh moontop@192.168.2.113 ; ubuntu
+::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
+::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
+::eh::ssh eccehomo@192.168.2.30
 
-::shorthand::ssh shorthand@<ip address>  ;; shorthand@Optiplex
-::multitech::ssh entity@<ip address> ;; entity@Multitech
-
+::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
+::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
 
 ;; Smartphones
-::myphone::ssh u0_a330@<ip address> -p 8022 ;linux ubuntu
-::myoldphone::ssh u0_a502@<ip address> -p 8022 ;linux ubuntu
+::myphone::ssh u0_a330@192.168.2.72 -p 8022 ;linux ubuntu
+::myoldphone::ssh u0_a502@192.168.2.10 -p 8022 ;linux ubuntu
+
+::s9::ssh admin@192.168.2.108 -p 2222
+::ss::ssh admin@192.168.2.72 -p 2222
 
 ;; Tablet(s)
-::mytablet::ssh u0_a285@<ip address> -p 8022
+
+::mytab::ssh u0_a368@192.168.2.82 -p 8022
 
 
 ;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
@@ -1080,6 +1313,9 @@ Return
 
 ;; interferes with Biomenace in windows 3.1 ;;
 
+
+
+
 /*
 ;;volume control;;;
 ^Up:: ;ctrl plus up arrow
@@ -1092,9 +1328,6 @@ sleep, 200
 Send {Volume_Down}
 Return
 */
-
-
-
 
 ::linugist::linguist
 
@@ -1424,7 +1657,6 @@ LogFile := "MyLog.txt"
 FileAppend,    ``n, %LogFile%  ;     ````. (Note %% because it's expecting an unquoted string)
 )
 
-::finishup::I don't know why that didn't work.
 
 ;; Source for easy peasy
 ; added this from the command line, source -- internet -- A few functions comes out of the box to help us with Lists:head returns the first element and last the last one (be careful, it is not tail, tail will give you the whole list minus the first element). Then length  returns the number of elements in the list. Easy peasy.
@@ -1447,3 +1679,4 @@ FileAppend,    ``n, %LogFile%  ; �
 ::exti::exit
 ::godda::got to
 ::hh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
+::specail::special
