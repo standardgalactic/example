@@ -283,8 +283,6 @@ MAILTO=paul
 
 ;; my cool program
 
-
-::test::you are an idiot!
 ::loook::
 (
 for file in gp``*.*``:
