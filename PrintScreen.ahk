@@ -44,6 +44,35 @@ Return
 ;; womb matrix mind ;; what i want to think about ;; i will "accidentally" stumble
 ;; upon more ;; write it on the doorposts ;; theory of loose parts ;;
 
+;; math mathsh ;;
+
+;; odd square numbers or centered octogonal numbers ;;
+::oddsquare::function square { for i in {1..200000}; do echo $(( ($i*2 +1) **2 )); done; }
+
+
+;; prolog prologsh ;;
+
+::searchpath::findall([X,Y],file_search_path(X,Y),Bag).
+
+:o:az::assertz
+:o:ra::retractall
+
+::goo::vim mortal.pl
+
+::ismortal::
+(
+man(socrates).
+mortal(X) :- man(X).
+)
+
+::soo::swipl mortal.pl
+
+::welll::mortal(socrates).
+
+
+::hw::write('Hello, World'),nl,write('Welcome to Prolog'),nl.
+::st::statistics.
+
 ;; maybe extremely inconvenient maybesh maybsh ;;
 :*:maybe::Contiguous Rolling Context Mixed Initiative Dialog 
 
@@ -1256,7 +1285,7 @@ Return
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.30
+::eh::ssh eccehomo@192.168.2.149
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
