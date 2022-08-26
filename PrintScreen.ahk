@@ -560,8 +560,8 @@ Now just start ubuntu: ./startubuntu.sh
 ; -rwxr-xr-x 1 root root 7.9K Feb 21 18:42 /home/bonobo/.bashrc
 ::please let me::sudo chmod +w ~/.bashrc
 
-::addtobash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
-::addtopath::export PATH=$PATH:$(pwd)
+::add2bash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
+::add2path::export PATH=$PATH:$(pwd)
 
 ;; workspace ;;
 ::wrk::cd /home/Lynxspace/.local/bin/scripts/
@@ -621,9 +621,16 @@ return
 ;; swap capslock key caps lock CapsLock with escape Esc ;;
 ::swapmy::echo '/usr/bin/setxkbmap -option "caps:swapescape"' >> ~/.bashrc
 
-::sourcemy::source ~/.bashrc
+::ee::export EDITOR=vi
+
+::sourcemy::exec bash -l  ;; according to rwxrob
+::sm::exec bash -l
+
 ::bashrc::~/.bashrc
 ::editmy::vim ~/.bashrc
+
+
+
 
 ;; within vim ;;
 ::myvim::e $MYVIMRC
@@ -787,6 +794,97 @@ print "\n"
 ::fixdisplay::export DISPLAY=172.17.0.1:0.0
 
 ;; export DISPLAY=172.21.176.1:0.0
+
+;; java javash ;;
+
+::xanadu::/set mode xanadu normal -command
+
+::setupp::/set prompt xanadu "\nxanadu$ " "   continue$ "
+::sf::/set feedback xanadu
+
+;; scheme schemesh ;;
+
+::make square::(define (square x) (* x x) )
+
+::sum of squares::
+(
+(define (sum-of-squares x y)
+  (+ (square x) (square y) ) )
+)
+
+::f of a::
+(
+(define (f a)
+   (sum-of-squares (+ a 1) (* a 2 )))
+)
+
+::define abs::
+(
+(define (abs x)
+  (cond ((> x 0) x)
+        ((= x 0) 0)
+        ((< x 0) (- x))))
+)
+
+::define relu::
+(
+(define (relu x)
+  (cond ((> x 0) x)
+        ((= x 0) 0)
+        ((< x 0) 0)))
+)
+
+
+
+::how do i install scheme::
+(
+Installing
+
+Debian or Ubuntu or other derived distros:
+
+sudo apt-get install chicken-bin
+
+Fedora / RHEL / CentOS:
+
+sudo yum install chicken-bin
+
+Arch Linux:
+
+sudo pacman -S chicken
+
+Gentoo:
+
+sudo emerge -av dev-scheme/chicken
+
+OS X with Homebrew:
+
+brew install chicken
+
+OpenBSD
+
+doas pkg_add -vi chicken
+
+Microsoft Windows
+
+     * Install MSYS2
+     * Run the MSYS2 MinGW-w64 Shell
+     * Install some prerequesites by running:
+pacman -S mingw-w64-cross-toolchain base-devel mingw-w64-x86_64-gcc winpty wget
+
+     * Download the latest release tarball by typing:
+wget https://code.call-cc.org/releases/current/chicken.tar.gz
+
+     * Extract the tarball by running tar xvf chicken.tar.gz
+     * Enter the extracted directory, for example by typing cd chicken-4.11.0
+     * Run make PLATFORM=mingw-msys install
+
+   If you have trouble running csi , try instead running winpty csi
+)
+
+::chickenn::sudo apt-get install chicken-bin
+
+
+::circ::circumference
 
 ::langwages::
 (
@@ -1707,3 +1805,4 @@ FileAppend,    ``n, %LogFile%  ; �
 ::godda::got to
 ::hh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
 ::specail::special
+::claer::clear
