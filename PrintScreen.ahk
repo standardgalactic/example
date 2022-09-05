@@ -20,9 +20,31 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; ok? ok?sh ok oksh ;;
+
+::add ok::alias ok="go run ~/projects/OK/ok/main.go"
+
+
+;; unchanged
+;; a >= b	a >= b
+
+::refresher::a >= b, a <= b, a > b, a < b, a == b, a != b
+
+;; fixer upper ;;
+:*:a <= b::b >= a
+:*:a > b::!(b >= a)
+:*:a < b::!(a >= b)
+:*:a == b::let x = a >= b; let y = b >= a; x && y
+:*:a != b::let x = !(a >= b); let y = !(b >= a); x || y
+
+;; Send a right click
+;; paste in powershell terminal
+
+#c::Click, right
 
 ;; Code to write code: Autohotkey script. ;; best command ever - alt-bash (alt-b)  <newline> !b::Send, {!}{!}bash`n ;; 
 ;; best command ever (control-b or alt-b)
+
 
 ;; For more information, see: 
 ;; Beginner Boost, Day 37: Prefer Shell Scripts Over Plugins in Vim [20210706230535]
