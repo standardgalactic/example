@@ -20,11 +20,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
-;; forth forthsh ;;
-
-:*:+0::0
-
-
 ;; ok? ok?sh ok oksh ;;
 
 ::add ok::alias ok="go run ~/projects/OK/ok/main.go"
@@ -68,10 +63,6 @@ Send, {Esc}
 Send, {!}{!}bash`n
 Return
 
-
-;; fix linefeeds ;;
-::no^m::sudo sed -i -e 's/\r$//'
-::
 ;; womb matrix mind ;; what i want to think about ;; i will "accidentally" stumble
 ;; upon more ;; write it on the doorposts ;; theory of loose parts ;;
 
@@ -121,7 +112,7 @@ mortal(X) :- man(X).
 ::corc::Contiguous Rolling Context Mixed Initiative Dialog
 ::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
-::croll::Contiguous Rolling Context Mixed Initiative Dialog
+::cr::Contiguous Rolling Context Mixed Initiative Dialog
 ::md::Contiguous Rolling Context Mixed Initiative Dialog
 
 ;; not a counter countersh ;;
@@ -146,16 +137,7 @@ mortal(X) :- man(X).
 ;;
 */ 
 
-;; this is annoying
-/*
 NumpadEnter::Send, Bullshit
-*/
-;; this on the other hand ... ;;
-NumpadEnter::Send, cr . cr {Enter}
-
-;; is very useful (in forth)
-
-;;test;; cr . cr 
 
 
 ;; workspace ;;
@@ -637,7 +619,7 @@ Now just start ubuntu: ./startubuntu.sh
 
 !k::Send,㉿ ;; sends a double tab in kali linux
 return
-^k::Send,kubectl ;; sends a double tab in kali linux
+^l::Send,kubectl ;; sends a double tab in kali linux
 return
 
 
@@ -1531,7 +1513,7 @@ Return
 
 :?:|*::⋅		; "dot operator" (&sdot;), for multiplication, dot product
 
-; sdot   ⋅ U+22C5 HTML symbol dot operator ('dot operator' is NOT the same character as U+00B7 'middle dot'.)
+; sdot   ⋅ U+22C5 HTMLsymbol dot operator ('dot operator' is NOT the same character as U+00B7 'middle dot'.)
 
 ; Experimental: Multiply by
 :?:1x::1×
@@ -1695,55 +1677,6 @@ Return
 ;------------------------------------------------------------------------------
 ; HTML shortcuts
 ;------------------------------------------------------------------------------
-
-;; htmlsh ;;
-
-:*:sw::<a href="
-:*:ws::
-Send, "> </a>
-Send, {Esc}
-Send, 4h
-Return
-
-::htm plate::
-(
-<html>
-    <head>
-        <title>Go, Forth, and Multiply</title>
-    </head>
-    <body>
-        <ul>
-            <li>
-                <a href="#">http://wiki.laptop.org/go/Forth_Lessons</a>
-            </li>
-        </ul>
-    </body>
-</html>
-)
-
-::exsample::
-(
-<html>
-    <head>
-        <title>Site Map</title>
-    </head>
-    <body>
-        <ul>
-            <li>
-                <a href="index.html">Home</a>
-            </li>
-<li>
-                <a href="products/index.html">Products</a>
-            </li>
-<li>
-                <a href="about.html">About</a>
-            </li>
-        </ul>
-    </body>
-</html>
-)
-
-
 :*b0:|bq::{bs 3}<blockquote></blockquote>{left 13}
 ; :*:|bq::<blockquote>
 :*:|/bq::</blockquote>
