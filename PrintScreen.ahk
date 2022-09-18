@@ -149,11 +149,12 @@ mortal(X) :- man(X).
 ;; this is annoying
 /*
 NumpadEnter::Send, Bullshit
-*/
-;; this on the other hand ... ;;
+
+;; forth newline ;;
 NumpadEnter::Send, cr . cr {Enter}
 
-;; is very useful (in forth)
+;; 
+*/
 
 ;;test;; cr . cr 
 
@@ -635,10 +636,31 @@ Now just start ubuntu: ./startubuntu.sh
 :*:@k::㉿ ;; sends a double tab in kali linux
 ::eqwals::====================================
 
+/*
 !k::Send,㉿ ;; sends a double tab in kali linux
 return
 ^k::Send,kubectl ;; sends a double tab in kali linux
 return
+*/
+
+;; arrows to homerow ;;
+
+^h::Send, {Left}
+^j::Send, {Down}
+^k::Send, {Up}
+^l::Send, {Right}
+
+
+;; hard h, hard home, alternative h, honorary backspace ;;
+;; alt jump 
+;; send o (k) (don't have to stretch the pinky so far)
+;; leap by letter, letter separator    
+
+
+!h::Send, {Backspace}
+!j::Send, {Enter}
+!k::Send, {Enter}
+!l::Send, {Space}  
 
 
 ::emacs sucks::set -o vi
@@ -1533,6 +1555,7 @@ Return
 
 ; sdot   ⋅ U+22C5 HTML symbol dot operator ('dot operator' is NOT the same character as U+00B7 'middle dot'.)
 
+/*
 ; Experimental: Multiply by
 :?:1x::1×
 :?:2x::2×
@@ -1543,6 +1566,7 @@ Return
 :?:7x::7×
 :?:8x::8×
 :?:9x::9×
+*/
 
 ; "Unicode also includes a handful of vulgar fractions as compatibility characters, but discourages their use."
 ::|1/2::½
@@ -1698,12 +1722,14 @@ Return
 
 ;; htmlsh ;;
 
+/*
 :*:sw::<a href="
 :*:ws::
 Send, "> </a>
 Send, {Esc}
 Send, 4h
 Return
+*/
 
 ::htm plate::
 (
