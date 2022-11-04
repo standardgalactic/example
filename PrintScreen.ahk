@@ -20,12 +20,43 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; remap calculator key  to backspace;;
+SC121::BS
+
+;; windows zed -> printscreen ;; ctrl windows zed - select printscreen
+#z::Send, #{Vk2CSc137}
+^#z::Send, {Vk2CSc137}
+
+;; cognate cognatesh cognac cognacsh ;;
+
+::runall::for FILE in *; do cognac $FILE -run ; done
+
+
+::latest!::git checkout $(git describe --tags $(git rev-list --tags --max-count=1))
+
 ;; forth forthsh ;;
 
 :*:+0::0
 
 
+::ghistory::vim ~/.gforth-history
+
+;; generate random ;;
+
+::gr::
+(
+VARIABLE (RND)
+2463534242 (rnd) ! \ seed
+
+: rnd ( -- n ) (rnd) @ dup 13 lshift xor dup 17 rshift xor dup dup 5 lshift xor (rnd) ! ;
+)
+
+
+::basicc::vintbas
+
 ;; ok? ok?sh ok oksh ;;
+
+/*
 
 ::add ok::alias ok="go run ~/projects/OK/ok/main.go"
 
@@ -42,14 +73,18 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:a == b::let x = a >= b; let y = b >= a; x && y
 :*:a != b::let x = !(a >= b); let y = !(b >= a); x || y
 
+*/
+
 ;; Send a right click
 ;; paste in powershell terminal
 
 #c::Click, right
 
+
+/*
 ;; Code to write code: Autohotkey script. ;; best command ever - alt-bash (alt-b)  <newline> !b::Send, {!}{!}bash`n ;; 
 ;; best command ever (control-b or alt-b)
-
+*/
 
 ;; For more information, see: 
 ;; Beginner Boost, Day 37: Prefer Shell Scripts Over Plugins in Vim [20210706230535]
@@ -59,8 +94,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; for vim ;;
 
+/*
 ^b::Send, {!}{!}bash`n
 !b::Send, {!}{!}bash`n
+*/
 
 ;; from insert mode
 :*:ruun::
@@ -96,13 +133,13 @@ man(socrates).
 mortal(X) :- man(X).
 )
 
-::soo::swipl mortal.pl
+::soo::
 
 ::welll::mortal(socrates).
 
 
 ::hw::write('Hello, World'),nl,write('Welcome to Prolog'),nl.
-::st::statistics.
+::stat::statistics.
 
 ;; maybe extremely inconvenient maybesh maybsh ;;
 :*:maybe::Contiguous Rolling Context Mixed Initiative Dialog 
@@ -235,16 +272,16 @@ Return
 
 ::getmy::
 (
-alias ='alias'
 alias ='cd'
 alias ='less'
 alias ='ls'
 alias ='mkdir'
 alias ='echo $(moontop)'    
 alias ='touch'   
-alias ='vim'`n
-alias f_ck='fuck'
-
+alias ='vim'
+alias ='alias'
+ ='rm'
+ ='cat'`n
 )
 
 ::concho::
@@ -346,7 +383,7 @@ MAILTO=paul
 
 ;; xonsh ;; xonshs ;; xonshsh ;; python-like shell
 
-:*:;l::lambda
+:*:lm::lambda
 :*:l;::λ
 
 ;; control-c to advance to the next image
@@ -501,6 +538,10 @@ xor_eq
 
 ::2sga::a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z = symbols(',,,,,,,,,,,,,,,,,,,,,,,,,')
 
+;; bash bashsh ;;
+
+::lasthour::find . -mmin -60 -print -exec tail -n 2 \{\} \;
+
 ;; remove by node (inode) ;;
 ::rmbyn::find . -inum 524769 -exec rm -i {} \;
 
@@ -564,12 +605,13 @@ xor_eq
 
 ;; installing ubuntu on termux
 
+/*
 ::instructshions::
 (
 Update termux: apt-get update && apt-get upgrade -y
-Install wget: apt-get install wget -y
-Install proot: apt-get install proot -y
-Install git: apt-get install git -y
+Install wget:: apt-get install wget -y
+Install proot:: apt-get install proot -y
+Install git:: apt-get install git -y
 Go to HOME folder: cd ~
 Download script: git clone https://github.com/MFDGaming/ubuntu-in-termux.git
 Go to script folder: cd ubuntu-in-termux
@@ -577,11 +619,11 @@ Give execution permission: chmod +x ubuntu.sh
 Run the script: ./ubuntu.sh -y
 Now just start ubuntu: ./startubuntu.sh
 )
+*/
 
+;; ubuntu in termux ;;
 
-;; thefuck
-
-::addalias::eval $(thefuck --alias)
+::get termux::git clone https://github.com/MFDGaming/ubuntu-in-termux.git
 
 ::into bashrc::>> ~/.bashrc
 
@@ -855,14 +897,22 @@ print "\n"
 ;; docker -- dockersh ;;
 ::fixdisplay::export DISPLAY=172.17.0.1:0.0
 
-;; export DISPLAY=172.21.176.1:0.0
 
 ;; java javash ;;
+
+:o:sp::System`.out`.println(
+
+:*:jsell::jshell
+
+::kill jshell::kill -9 $(ps -a | grep "jshell" | awk '{print $1}')
+
+::pv::public void
+::pf::public final class
 
 ::xanadu::/set mode xanadu normal -command
 
 ::setupp::/set prompt xanadu "\nxanadu$ " "   continue$ "
-::sf::/set feedback xanadu
+::setfeed::/set feedback xanadu
 
 ;; scheme schemesh ;;
 
@@ -974,17 +1024,16 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 
 :o:neander::Neanderthal
 
-;; Github ;;
+;; Github githubsh ;;
+
+::get repos::gh repo list --limit 20000 > repo-list
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
 :o:sg::standardgalactic
 
-:o:pf::Playfloor
+:o:ppff::Playfloor
 :o:mt::mysterytrader
-:o:s11e::strategyguide ;; s_eleven_letters_e
-:o:s11g::strategy
-:o:s1g::guide
 
 ::hap::haplopraxis
 
@@ -1210,6 +1259,16 @@ func main() {
 
 ;; vim -- vimsh ;;
 
+
+::add line numbers::%s/^/\=printf('%-4d', line('.'))
+
+;; move Control-a (increment) to Control-s (C-x to decrement) ;;
+
+::move inc::nnoremap <C-s> <C-a>h
+
+::fix it::%s/L/\//g
+
+
 ::numb::set relativenumber
 
 ::sampletext::
@@ -1222,6 +1281,8 @@ deefee
 ghhihh
 ------
 )
+
+;; vim show linenumbers if the color is too faint ;;
 
 ::greyy::highlight LineNr ctermfg=grey
 
@@ -1296,6 +1357,24 @@ return
 
 ;; julia code -- juliash ;;
 
+:o:pl::println
+
+
+;; mildly annoying, to say the least ;;
+
+:o:ne::nextind
+:o:pre::prevind
+:o:fi::firstindex
+:o:li::lastindex
+:o:ei::eachindex
+:o:ti::thisind
+
+:*:thisindex::thisind
+:*:nextindex::nextind
+:*:previndex::prevind
+:*:previousindex::prevind
+
+
 ::ordinaryleast::ols = lm(@formula(Y ~ X), t) ;; using GLM (I think)
 ::allbinary::foreach(s -> Base.isbinaryoperator(Symbol(Char(s))) && print(Char(s)), 0x20:0x2fff)
 ::addtj::add https://github.com/benlauwens/ThinkJulia.jl
@@ -1363,7 +1442,8 @@ return
 ::macprompt::PS1="%n@%m %1~ %# "
 
 ::normal prompt::PS1="\[\e[38;5;202m\]$(byobu_prompt_status)\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\]$(byobu_prompt_symbol) "
-::norp::PS1="\[\e[38;5;202m\]\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\] "
+::mac prompt::PS1="%F{yellow}%n@%F{blue}%m %1~ %#"
+
 ::weird prompt::PS1="It is recommended not to use a '>' in your PS1 Command Prompt as if copy/pasted by accident that can cause a redirection and file overwrite. "
 
 ::howto::curl https://ss64.com/bash/syntax-prompt.html
@@ -1426,7 +1506,7 @@ Return
 ::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
 ::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
 ::archeo::ssh archeo@192.168.2.126 
-::mixo::ssh mixo@192.168.2.93
+::mixo::ssh mixo@192.168.2.81
 ::kodak::ssh kodak@192.168.2.142
 
 ::phewf::ssh phewf@192.168.2.128
@@ -1445,7 +1525,7 @@ Return
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.149
+::eh::ssh eccehomo@192.168.2.213
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
@@ -1723,12 +1803,14 @@ Return
 ;; htmlsh ;;
 
 /*
+;;
 :*:sw::<a href="
 :*:ws::
 Send, "> </a>
 Send, {Esc}
 Send, 4h
 Return
+;;
 */
 
 ::htm plate::
@@ -1902,7 +1984,7 @@ FileAppend,    ``n, %LogFile%  ; �
 ; added this from the command line, source -- internet -- A few functions comes out of the box to help us with Lists:head returns the first element and last the last one (be careful, it is not tail, tail will give you the whole list minus the first element). Then length  returns the number of elements in the list. Easy peasy.
 
 ;; enyay spanish ;;
-:*:~n::ñ
+:o:n~::ñ
 
 ::Anything below h::Anything below this point was added to the script by the user via the Win+H hotkey.
 ::catually::actually
