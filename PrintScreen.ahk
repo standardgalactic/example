@@ -75,11 +75,15 @@ VARIABLE (RND)
 
 */
 
+;; Mouse clicks
+
 ;; Send a right click
-;; paste in powershell terminal
 
-#c::Click, right
+#c::Click, left
 
+;; cut / paste in powershell terminal
+
+#v::Click, right
 
 /*
 ;; Code to write code: Autohotkey script. ;; best command ever - alt-bash (alt-b)  <newline> !b::Send, {!}{!}bash`n ;; 
@@ -636,7 +640,7 @@ Now just start ubuntu: ./startubuntu.sh
 ::bopit::sudo chmod +x
 
 ;; ls with most recent last ;;
-::aa::ls -latr
+; ::aa::ls -latr
 
 
 ;; note
@@ -691,6 +695,7 @@ return
 ^j::Send, {Down}
 ^k::Send, {Up}
 ^l::Send, {Right}
+^;::Send, {Enter}  ;; like control+m
 
 
 ;; hard h, hard home, alternative h, honorary backspace ;;
