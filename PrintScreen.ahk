@@ -27,6 +27,48 @@ SC121::BS
 #z::Send, #{Vk2CSc137}
 ^#z::Send, {Vk2CSc137}
 
+
+!e::
+Loop 10,
+{
+Send, !q
+Sleep, 2000
+Send, `n
+}
+
+;; TODO December 2022;;
+/*
+Make above function interruptable
+maybe !r to stop
+
+You can use Break and a variable to totally Terminate a Loop when you press a hotkey (or when something else changes the variable):
+
+stop = 0
+Loop
+{
+  If stop = 1
+      Break
+  ToolTip, %A_Index%
+  Sleep, 500
+}
+
+^q::
+If stop = 0
+  {
+   stop = 1
+   return
+  }
+If stop = 1
+  {
+    stop = 0
+    return
+  }
+
+from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
+
+*/
+
+
 ;; cognate cognatesh cognac cognacsh ;;
 
 ::runall::for FILE in *; do cognac $FILE -run ; done
@@ -383,6 +425,8 @@ MAILTO=paul
 0 10 * * *  $HOME/bin/program | DISPLAY=:0 notify-send "Program run" "$(cat)"
 )
 
+;; em dash ;;
+::--::—
 
 
 ;; xonsh ;; xonshs ;; xonshsh ;; python-like shell
@@ -764,7 +808,7 @@ return
 ::lnx::su Lynxspace
 ::llrr::alias r=R
 ::littler::alias r=R
-::wow::cowsay "I can't believe that actually worked."
+;; ::wow::cowsay "I can't believe that actually worked."
 
 ;; audiobook ; audiobooks
 
@@ -1000,6 +1044,24 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 
 ::chickenn::sudo apt-get install chicken-bin
 
+:*:SEnd::Send
+
+;; clojure clojuresh ;;
+
+::clo::clojure
+
+:*:lf::
+Send, load-file " "
+Send, {Left 2}
+Return
+
+;; bracket (bubble) ;;
+^b::
+Send, ( )
+Send, {Left 2}
+Return
+
+;; end clojure ;;
 
 ::circ::circumference
 
@@ -1158,8 +1220,6 @@ Return
 
 ;; superupdate ;;
 ::useforce::softwareupdate --all --install --force
-
-;; TODO ;; experiment with speed and pitch, if possible ;;
 
 ;; voices ;; voicesh ;; voicessh ;;
 
@@ -1321,7 +1381,7 @@ ghhihh
 Send, python3 -c 'import os,sys;os.makedirs(sys.argv[1])' test; cd test;
 
 ;;
-:*:alpha::
+
 ;;Send, This is the alphabet.
 ;;Send, ^q
 ;;Send, The first letters are abc.
@@ -1367,12 +1427,14 @@ return
 
 ;; mildly annoying, to say the least ;;
 
+/*
 :o:ne::nextind
 :o:pre::prevind
 :o:fi::firstindex
 :o:li::lastindex
 :o:ei::eachindex
 :o:ti::thisind
+*/
 
 :*:thisindex::thisind
 :*:nextindex::nextind
@@ -1418,7 +1480,7 @@ return
 ;; Bash shortcuts
 ::listfilenames::ls -l | awk '{print$9}'
 ::lsfilenames::ls -l | awk '{print$9}'
-::lf::ls -l | awk '{print$9}'
+
 ::suod::sudo
 ::sdo::su -
 ::eixt::exit
@@ -1979,7 +2041,7 @@ MouseGetPos, xpos, ypos  ;Save initial position of mouse
 WinGet, SavedWinId, ID, A     ;Save our current active window
 
 ;Set Up a Log File:
-SetWorkingDir, %A_ScriptDir%  ;Set default directory to where this script file is located. (Note %% because it's expecting and unquoted string)
+SetWorkingDir, %A_ScriptDir%  ;Set default directory to where this script file is located. (Note %% because it's expecting an unquoted string)
 LogFile := "MyLog.txt"
 FileAppend,    ``n, %LogFile%  ;     ````. (Note %% because it's expecting an unquoted string)
 )
