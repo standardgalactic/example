@@ -64,7 +64,7 @@ This is what my theory of cognetics, that is, eggs within eggs, nested Russian d
 
 It's the ability to slide up and down these multi-scale interfaces. You learn it when you count, when you start to learn decimal, and then maybe a decade or two later you realize you've learned a very complex system without even thinking about it.
 
-And this happens over and over again while you can make 10,000 symbols with one glyph using Cistercian technology from 11th century.
+And this happens over and over again, it's why you can make 10,000 symbols with one glyph using Cistercian technology from the 11th century.
 
 This will show that we're using way too much Unicode. The Chinese need the most help with their language, you could probably bring it down to like 40 or 50 glyphs.
 
