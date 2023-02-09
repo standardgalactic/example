@@ -76,7 +76,7 @@ Yes, that's correct. Selena Gomez is also a famous singer and actress who was on
 
 ** Ok so who are other possible answers to this question? **
 
-There are many famous singers and actresses who were once in popular movies. Some further examples include  Hilary Duff, Raven-Symone, and Demi Lovato.
+There are many famous singers and actresses who were once in popular movies. Some further examples include Hilary Duff, Raven-Symone, and Demi Lovato.
 
 ** Ok I am not sure if we got off track or not. Could you give me a list of all the topics and themes of this conversation, as an outline with just headings and no description? **
 
@@ -155,6 +155,7 @@ They present a method called "chain-of-thought prompting," where a series of int
 The authors found that their method achieved state-of-the-art performance on a benchmark of math word problems, surpassing even fine-tuned models.
 
 ** Gave it Language Models Perform Reasoning via Chain of Thought
+
 WEDNESDAY, MAY 11, 2022
 By Jason Wei and Denny Zhou, Research Scientists, Google Research, Brain team **
 
@@ -216,7 +217,9 @@ The book provides a comprehensive overview of the importance of iterative prompt
 
 Sure! Here are some potential outlines and subheadings for sections 5 and 6 of your article "Humans As Large Language Models":
 
+
 Section 5: The Role of Experience and Training in Shaping Human Language Models
+
 
 Introduction: Defining Experience and Training in the Context of Human Language Models
 
@@ -226,7 +229,9 @@ The Role of Education and Training in Shaping Our Ability to Communicate: Exampl
 
 The Interplay of Personal Experience and Cultural Background: How It Shapes Our Communication and Understanding of the World
 
+
 Section 6: How Humans Use Models to Enhance Their Communication
+
 
 Introduction: Defining Models and Their Role in Human Communication
 
@@ -235,6 +240,7 @@ The Use of Mental Models: How We Simplify Complex Reality to Enhance Understandi
 The Use of Models in Art, Literature, and Film: How They Convey Ideas and Emotions
 
 The Use of Models in Science and Engineering: How They Enable Problem-Solving and Innovation
+
 
 ** Could I have the outline for section 7? **
 
@@ -278,7 +284,9 @@ Summarize the importance of oblique methods for enhancing communication and prob
 
 Discuss the potential for continued exploration and development in this area.
 
-** Ok nice. Now section 8, is called Extra Animals, which gives some more model free methods. As a bonus. **
+
+** Ok nice. Now section 8 is called Extra Animals, which gives some more model-free methods. As a bonus. **
+
 
 Section 8: Extra Animals: More Model-Free Methods
 
@@ -326,6 +334,7 @@ XI. Concept Mapping
 
 Definition: A method that involves creating a visual representation of the relationships between concepts in order to better understand a problem.
 
+
 ** Ok very good. Could I get some examples of using Absurdities to generate and test ideas? **
 
 Sure, here are a few examples of using absurdities to generate and test ideas:
@@ -344,7 +353,9 @@ These methods of using absurdities are just a few examples of how this approach 
 
 By embracing the absurd and unconventional, we can often uncover new solutions and ways of thinking that might not have been considered otherwise.
 
+
 ** What about Random Stimulation? I suspect some good ideas might be to take a walk, read a book, watch a movie, play a game, as a way to keep on working on the problem subconsciously and indirectly. **
+
 
 Yes, random stimulation can definitely be a way to generate new ideas and connections, as you've pointed out. 
 
