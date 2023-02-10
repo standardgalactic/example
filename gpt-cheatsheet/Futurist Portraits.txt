@@ -285,7 +285,7 @@ Summarize the importance of oblique methods for enhancing communication and prob
 Discuss the potential for continued exploration and development in this area.
 
 
-** Ok nice. Now section 8 is called Extra Animals, which gives some more model-free methods. As a bonus. **
+** Ok nice. Now, section 8 is called Extra Animals, which gives some more model-free methods. As a bonus. **
 
 
 Section 8: Extra Animals: More Model-Free Methods
