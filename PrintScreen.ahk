@@ -27,6 +27,16 @@ SC121::BS
 #z::Send, #{Vk2CSc137}
 ^#z::Send, {Vk2CSc137}
 
+;; gpt ;;
+::gptchat::chatgpt
+::ccc::chatgpt
+
+;; dinkus ;;
+
+:*:zzz::`n`n* * *`n`n
+
+::whats::chatgpt what is
+::hh::chatgpt
 
 !e::
 Loop 10,
@@ -117,6 +127,17 @@ VARIABLE (RND)
 
 */
 
+;; windows tricks ;;
+::blam::for i in {1..5}; do touch file$((i)); done
+::blip::for i in {1..100}; do touch file$((i)); done
+::blop::for i in {1..1000}; do touch file$((i)); done
+
+/*
+;; temporary please deactivate immediately after use ;;
+
+::no::rm *
+*/
+
 ;; Mouse clicks
 
 ;; Send a right click
@@ -188,7 +209,7 @@ mortal(X) :- man(X).
 ::stat::statistics.
 
 ;; maybe extremely inconvenient maybesh maybsh ;;
-:*:maybe::Contiguous Rolling Context Mixed Initiative Dialog 
+:*:maybee::Contiguous Rolling Context Mixed Initiative Dialog 
 
 ;; repeat after me book (ramb) ;; ramb sonnet ;; rambsh ;;
 
@@ -577,7 +598,7 @@ xor_eq
 ::upg::sudo apt-get upgrade
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
-::ll::echo $?`n
+::lastcommand::echo $?`n
 
 ::sa::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
@@ -958,7 +979,7 @@ print "\n"
 ::pv::public void
 ::pf::public final class
 
-::xanadu::/set mode xanadu normal -command
+::xanadumode::/set mode xanadu normal -command
 
 ::setupp::/set prompt xanadu "\nxanadu$ " "   continue$ "
 ::setfeed::/set feedback xanadu
@@ -1139,8 +1160,8 @@ Return
 
 ::bybobu::byobu
 ::byo::byobu
-::bybu::byobu
-::bubu::byobu
+::ubu::ubuntu
+
 
 ;; powershell ;;
 ::ignorepaste::set $global:multiLinePasteWarning=false,;; don't think this works
@@ -1361,8 +1382,9 @@ ghhihh
 
 ::no spaces::%s/^\s*//g
 ::no blanks::g/^\s*$/d
-::nonotes::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
-::notags:::%s#\[\d*\:\d*\:\d*\]##g
+::nonotes::%s#\[.*]##g 
+::nonums::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
+::notags::%s#\[\d*\:\d*\:\d*\]##g
 ::vim in title::ls -l | grep -i vim
 ::into100::split -d -l 100
 ::next4::0,4!column -t -s "|" 
@@ -1456,7 +1478,7 @@ return
 ::add jump::add JuMP
 ::add egg::add GLPK
 
-::ve::activate . ;; virtual environment
+::activeate::activate . ;; virtual environment
 ::use jump::using JuMP
 ::use egg::using GLPK
 ::makemodel::model = Model(GLPK.Optimizer)
@@ -1592,7 +1614,7 @@ Return
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.213
+::eh::ssh eccehomo@192.168.2.219
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
@@ -2067,6 +2089,6 @@ FileAppend,    ``n, %LogFile%  ; �
 ::exitt::exit
 ::exti::exit
 ::godda::got to
-::hh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
+::hotsh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
 ::specail::special
 ::claer::clear
