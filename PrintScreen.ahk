@@ -23,6 +23,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;; remap calculator key  to backspace;;
 SC121::BS
 
+
+
+
+
 ;; windows zed -> printscreen ;; ctrl windows zed - select printscreen
 #z::Send, #{Vk2CSc137}
 ^#z::Send, {Vk2CSc137}
@@ -30,6 +34,10 @@ SC121::BS
 ;; gpt ;;
 ::gptchat::chatgpt
 ::ccc::chatgpt
+
+::summ::A summary of the themes and topics of this conversation.
+
+::resu::Un resumen de los temas y tópicos de esta conversación.
 
 ;; dinkus ;;
 
@@ -590,8 +598,12 @@ xor_eq
 ::gita::git config --global user.name "standardgalactic"
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
+::goto::git checkout main
+::re set::git reset --hard c6e0f5035225e8c452d9f2df4e4049a7012ce826
+::do ne::git push --force origin main
+
+
 ;;lynxspace;;
-::builda::godistbuild
 
 ::gtt::sudo apt-get install
 ::upd::sudo apt-get update
@@ -705,12 +717,9 @@ Now just start ubuntu: ./startubuntu.sh
 ::bopit::sudo chmod +x
 
 ;; ls with most recent last ;;
-; ::aa::ls -latr
+::ls now::ls -latr
 
-
-;; note
-; -rwxr-xr-x 1 root root 7.9K Feb 21 18:42 /home/bonobo/.bashrc
-::please let me::sudo chmod +w ~/.bashrc
+::usevi::sudo echo "export EDITOR=vim" >> ~/.bashrc
 
 ::add2bash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
 ::add2path::export PATH=$PATH:$(pwd)
@@ -931,9 +940,8 @@ Searching()
 
 
 :*:
-;; name ;; myname ;; fill form
-:o:ff::Mechachleopteryx
-:o:myname::mechachleopteryx
+;;  fill form
+:o:ff::mechachleopteryx
 :o:mm::mechachleopteryx
 
 ;; ruby ;; rubysh
@@ -966,6 +974,13 @@ print "\n"
 
 ;; docker -- dockersh ;;
 ::fixdisplay::export DISPLAY=172.17.0.1:0.0
+
+;; openai - openaish ;;
+
+:o:okey::export OPENAI_API_KEY="
+::gp::chatgpt
+
+::stor::cd ~/.local/share/chatgpt-wrapper/profiles/default/
 
 
 ;; java javash ;;
@@ -1352,7 +1367,7 @@ func main() {
 
 ::move inc::nnoremap <C-s> <C-a>h
 
-::fix it::%s/L/\//g
+::fixit::%s/L/\//g
 
 
 ::numb::set relativenumber
@@ -1519,7 +1534,11 @@ return
 ::prodjects::C:\Users\Mechachleopteryx\projects\
 
 ;;Linux shortcuts
+
+::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
+
 ::winhome::/mnt/c/Users/Mechachleopteryx/Projects
+
 ::nopass::ssh-copy-id -i ~/.ssh/id_rsa.pub ;;server;;
 
 ::whatnow?::echo $PS1
@@ -1614,7 +1633,7 @@ Return
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.219
+::eh::ssh eccehomo@192.168.2.223
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
