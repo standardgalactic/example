@@ -2050,6 +2050,35 @@ return
 ;}
 ;return
 
+#MaxThreadsPerHotkey 2 ; Allows the hotkey to be interruptible.
+
+#g::  ; Press Win+G to show the current settings of the window under the mouse.
+If (ToolTipActive = 1)  ; If a tooltip is currently showing...
+{
+    SetTimer, RemoveToolTip, Off  ; Stop the timer.
+    ToolTipActive := 0  ; Reset the state.
+    ToolTip  ; Remove the tooltip.
+    return
+}
+MouseGetPos,,, MouseWin
+WinGet, Transparent, Transparent, ahk_id %MouseWin%
+WinGet, TransColor, TransColor, ahk_id %MouseWin%
+WinGet, ProcessName, ProcessName, ahk_id %MouseWin%
+WinGet, ProcessName, ProcessName, ahk_id %MouseWin%
+WinGet, ControlList, ControlListHwnd, ahk_id %MouseWin%
+
+ToolTip Translucency:`t%Transparent%`nTransColor:`t%TransColor% `nProcessName:`t%ProcessName%`nControlList:`t%ControlList%
+
+ToolTipActive := 1  ; Signal that a tooltip is currently showing.
+SetTimer, RemoveToolTip, -2500  ; Set a one-shot timer to remove the tooltip after 2.5 seconds.
+return
+
+RemoveToolTip:
+ToolTip  ; Remove the tooltip.
+ToolTipActive := 0  ; Reset the state.
+return
+
+
 
 ;; notes on hotstring helper ;; hostringsh
 
