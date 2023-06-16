@@ -24,7 +24,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 SC121::BS
 
 
+::setfont::edge://settings/fonts
 
+;; vim convert to unicode ;;
+
+:*:utff::set fileencoding=utf8
 
 
 ;; windows zed -> printscreen ;; ctrl windows zed - select printscreen
@@ -32,6 +36,10 @@ SC121::BS
 ^#z::Send, {Vk2CSc137}
 
 ;; gpt ;;
+
+:*:afaf::A list of everything we've talked about so far.
+
+
 ::gptchat::chatgpt
 ::ccc::chatgpt
 
@@ -1086,7 +1094,7 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 
 ::clo::clojure
 
-:*:lf::
+:*:lode::
 Send, load-file " "
 Send, {Left 2}
 Return
@@ -1395,6 +1403,11 @@ ghhihh
 ::makebox::!mkdir ~/sandbox
 ::addpath::set path+=~/sandbox 
 
+;; no page numbers ;;
+
+::npn:::g/^\d\+$/d
+
+
 ::no spaces::%s/^\s*//g
 ::no blanks::g/^\s*$/d
 ::nonotes::%s#\[.*]##g 
@@ -1459,7 +1472,7 @@ return
 
 ;; julia code -- juliash ;;
 
-:o:pl::println
+::gf::gforth
 
 
 ;; mildly annoying, to say the least ;;
