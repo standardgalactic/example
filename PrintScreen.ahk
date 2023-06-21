@@ -21,10 +21,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
 ;; remap calculator key  to backspace;;
+
 SC121::BS
 
 
 ::setfont::edge://settings/fonts
+
+::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
+
 
 ;; vim convert to unicode ;;
 
@@ -38,7 +42,7 @@ SC121::BS
 ;; gpt ;;
 
 :*:afaf::A list of everything we've talked about so far.
-
+:*:afs:A final summary.
 
 ::gptchat::chatgpt
 ::ccc::chatgpt
@@ -178,7 +182,7 @@ VARIABLE (RND)
 ;; for vim ;;
 
 /*
-^b::Send, {!}{!}bash`n
+;^b::Send, {!}{!}bash`n
 !b::Send, {!}{!}bash`n
 */
 
@@ -848,10 +852,37 @@ return
 ::littler::alias r=R
 ;; ::wow::cowsay "I can't believe that actually worked."
 
+
+;; Spanish Punctuation
+
+:*:/?::¿
+:*:^?::¿
+:*:?``::¿
+
+:*:/!::¡
+:*:^!::¡
+:*:!``::¡
+
+:*:a``::á
+:*:e``::é
+:*:i``::í
+:*:u``::ú
+:*::u::ü
+
+
 ;; audiobook ; audiobooks
 
 ::doit::say -o monicaspills.aiff -f mpills.txt
 ::thenn::lame -m m monicaspills.aiff pills.mp3
+
+::supersplit::awk '{print > ("output/en_" sprintf("%05d.txt", NR)); close("output/en_" sprintf("%05d.txt", NR))}' english.txt
+
+::foreach::for file in * `; do say -o "${file%.*}.aiff" -f "$file"`; done
+
+::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
+
+::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
 ;; antihotstrings antihotkeys ;;
