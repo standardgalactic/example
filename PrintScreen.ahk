@@ -41,8 +41,13 @@ SC121::BS
 
 ;; gpt ;;
 
-:*:afaf::A list of everything we've talked about so far.
-:*:afs:A final summary.
+:*:afaf::
+(
+A list of everything we've talked about so far.
+)
+return
+
+:*:afs::A final summary.
 
 ::gptchat::chatgpt
 ::ccc::chatgpt
