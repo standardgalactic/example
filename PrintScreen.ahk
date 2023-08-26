@@ -27,6 +27,9 @@ SC121::BS
 
 ::setfont::edge://settings/fonts
 
+
+::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
+
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
 
@@ -43,11 +46,15 @@ SC121::BS
 
 :*:afaf::
 (
-A list of everything we've talked about so far.
+A list of everything we've talked about so far.`n
 )
 return
 
-:*:afs::A final summary.
+!S::Send, Summarize:
+:*:afs::A final summary.`n
+:*:cbt::Connections between the topics.`n
+
+::tchat::sudo docker run -it lwe_llm-workflow-engine /bin/bash
 
 ::gptchat::chatgpt
 ::ccc::chatgpt
@@ -354,6 +361,7 @@ Send {Space}
 Send `$
 Return
 
+::fixssh::ssh-keyscan -H (ip address) >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
 ;; spanish spanishsh
 
@@ -398,7 +406,7 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 )
 
 
-::dockrun::sudo docker run -ip 127.0.0.1:3000:3000 mechachleopteryx/devenv
+::dockrun::sudo docker run -ip (ip address):3000:3000 mechachleopteryx/devenv
 
 ;; lua -- luash ;;
 ::luarr:: --[[ and       break     do        else      elseif    end       false     for       function  if    in        local     nil       not       or    repeat    return    then      true      until    while --]]
@@ -474,6 +482,9 @@ MAILTO=paul
 ;; em dash ;;
 ::--::—
 
+::getpip::sudo apt install python3-pip
+
+::getgpt::pip install git+https://github.com/llm-workflow-engine/llm-workflow-engine
 
 ;; xonsh ;; xonshs ;; xonshsh ;; python-like shell
 
@@ -1020,7 +1031,7 @@ print "\n"
 
 
 ;; docker -- dockersh ;;
-::fixdisplay::export DISPLAY=172.17.0.1:0.0
+::fixdisplay::export DISPLAY=(ip address):0.0
 
 ;; openai - openaish ;;
 
@@ -1246,6 +1257,10 @@ Send, dv103
 Sleep 100
 Send, {Enter}
 Return
+
+;; In vim
+::findip::\d\{1,3}\.\d\{1,3}\.\d\{1,3}\.\d\{1,3}
+
 
 ;; Blender shortcuts ;; If WinActive("Blender") don't know/remember how to do this
 ;:*:cd::
@@ -1664,42 +1679,42 @@ Return
 
 ;;  Desktops
 ::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
-::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
-::archeo::ssh archeo@192.168.2.126 
-::mixo::ssh mixo@192.168.2.81
-::kodak::ssh kodak@192.168.2.142
+::phonemy::ssh Mechachleopteryx@(ip address) ;windows, choco
+::archeo::ssh archeo@(ip address) 
+::mixo::ssh mixo@(ip address)
+::kodak::ssh kodak@(ip address)
 
-::phewf::ssh phewf@192.168.2.128
+::phewf::ssh phewf@(ip address)
 
 ;; chess monkey
-::ches::ssh good@192.168.2.123
-::monke::ssh monkey@192.168.2.124
+::ches::ssh good@(ip address)
+::monke::ssh monkey@(ip address)
 
 
 ;; start openssh server
 ::startssh::sudo systemctl start ssh
 
 ;;  Laptops
-::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
-::astro::ssh aardvark@192.168.2.73
-::moontop::ssh moontop@192.168.2.113 ; ubuntu
-::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.223
+::mymac::ssh mecha@(ip address) ;os/10 shell zsh, brew
+::astro::ssh aardvark@(ip address)
+::moontop::ssh moontop@(ip address) ; ubuntu
+::myoldlaptop::ssh eccehomo@(ip address) ;;; now ubuntu 
+::eccehomo::ssh eccehomo@(ip address) ;;; now ubuntu 
+::eh::ssh eccehomo@(ip address)
 
-::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
-::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
+::shorthand::ssh shorthand@(ip address)  ;; shorthand@Optiplex
+::multitech::ssh mixo@(ip address) ;; mixo@lydian
 
 ;; Smartphones
-::myphone::ssh u0_a330@192.168.2.72 -p 8022 ;linux ubuntu
-::myoldphone::ssh u0_a502@192.168.2.10 -p 8022 ;linux ubuntu
+::myphone::ssh u0_a330@(ip address) -p 8022 ;linux ubuntu
+::myoldphone::ssh u0_a502@(ip address) -p 8022 ;linux ubuntu
 
-::s9::ssh admin@192.168.2.108 -p 2222
-::ss::ssh admin@192.168.2.72 -p 2222
+::s9::ssh admin@(ip address) -p 2222
+::ss::ssh admin@(ip address) -p 2222
 
 ;; Tablet(s)
 
-::mytab::ssh u0_a368@192.168.2.82 -p 8022
+::mytab::ssh u0_a368@(ip address) -p 8022
 
 
 ;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
@@ -2167,7 +2182,27 @@ SetWorkingDir, %A_ScriptDir%  ;Set default directory to where this script file i
 LogFile := "MyLog.txt"
 FileAppend,    ``n, %LogFile%  ;     ````. (Note %% because it's expecting an unquoted string)
 )
+;; Printscreen to random name ;;
 
+/*
+PrintScreen::
+    Send, #{Vk2CSc137}
+    Sleep, 100
+    Run, mspaint
+    WinWait, Untitled - Paint
+    WinActivate
+    Sleep, 500
+    Send, ^v
+    Send, ^q
+    Sleep, 500
+    Send, ^s
+    Sleep, 1000
+    Send, ^v
+    Sleep, 500
+    Send, {Enter}
+    WinClose
+    return
+*/
 
 ;; Source for easy peasy
 ; added this from the command line, source -- internet -- A few functions comes out of the box to help us with Lists:head returns the first element and last the last one (be careful, it is not tail, tail will give you the whole list minus the first element). Then length  returns the number of elements in the list. Easy peasy.
