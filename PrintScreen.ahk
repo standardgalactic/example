@@ -1678,7 +1678,7 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
+::phonehome::Mechachleopteryx(ip address):projects
 ::phonemy::ssh Mechachleopteryx@(ip address) ;windows, choco
 ::archeo::ssh archeo@(ip address) 
 ::mixo::ssh mixo@(ip address)
