@@ -1473,6 +1473,8 @@ ghhihh
 ::setfont::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
 
+::re verse::g/^/m 0
+
 ::noscroll::set scrolloff=9999
 ::scrolloff::set scrolloff=9999
 ::scrollon::set scrolloff=0 ;;seems to work
