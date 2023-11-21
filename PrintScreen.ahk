@@ -30,8 +30,14 @@ SC121::BS
 
 ::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
 
+;; no quotes, ls without quotes, from https://unix.stackexchange.com/questions/258679/why-is-ls-suddenly-wrapping-items-with-spaces-in-single-quotes;;
+
+::noq::ls() {`n# only way I can stop ls from escaping with backslashes`n    if [ -t 1 ]; then`n/bin/ls -C $@ |cat`n    else`n/bin/ls $@ |cat`n    fi`n}
+
+
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
+::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
 
 ;; vim convert to unicode ;;
 
@@ -50,6 +56,26 @@ A list of everything we've talked about so far.`n
 )
 return
 
+::whatp::
+(
+What is the purpose of a propagating null wave front in Null Convention Logic?
+)
+return
+
+::nonew::
+(
+for file in new_*.png; do mv "$file" "${file/new_/}"; done
+)
+
+::invrt::mogrify -negate *.png
+
+::darkmode::
+(
+for file in *.png; do
+    convert "$file" -fill "#0D1019" -draw "color 0,0 replace" "new_$file"
+done
+)
+
 !S::Send, Summarize:
 :*:afs::A final summary.`n
 :*:cbt::Connections between the topics.`n
@@ -63,10 +89,11 @@ return
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
+/*
 ;; dinkus ;;
 
 :*:zzz::`n`n* * *`n`n
-
+*/
 ::whats::chatgpt what is
 ::hh::chatgpt
 
@@ -361,7 +388,7 @@ Send {Space}
 Send `$
 Return
 
-::fixssh::ssh-keyscan -H (ip address) >> /c/Users/Mechachleopteryx/.ssh/known_hosts
+::fixssh::ssh-keyscan -H ###.###.###.### >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
 ;; spanish spanishsh
 
@@ -406,7 +433,7 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 )
 
 
-::dockrun::sudo docker run -ip (ip address):3000:3000 mechachleopteryx/devenv
+::dockrun::sudo docker run -ip ###.###.###.###:3000:3000 mechachleopteryx/devenv
 
 ;; lua -- luash ;;
 ::luarr:: --[[ and       break     do        else      elseif    end       false     for       function  if    in        local     nil       not       or    repeat    return    then      true      until    while --]]
@@ -416,6 +443,14 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 
 ;; considered harmful ;;
 ;; ::goto::go to  ;; need it to program basic
+
+;; hide ip addresses ;;
+
+::hideip::
+(
+sed -E 's/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/###.###.###.###/g' -i
+)
+return 
 
 ;; ahk experiments ;;
 
@@ -480,7 +515,7 @@ MAILTO=paul
 )
 
 ;; em dash ;;
-::--::—
+::---::—
 
 ::getpip::sudo apt install python3-pip
 
@@ -614,7 +649,15 @@ xor_eq
 
 ::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
 
-::sup::sudo pacman -Syu
+;; batch loop for bash ;;
+
+::forsay::for i in {00..99} `;do say -o supersition$i.aiff -f x$i`;done
+
+::fordo::for i in {00..99} `;do lame -m m supersition$i.aiff superstition$i.mp3 `; done
+
+
+
+::superpac::sudo pacman -Syu
 
 ;; linux -- linuxsh;;
 
@@ -627,7 +670,7 @@ xor_eq
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
 ::goto::git checkout main
-::re set::git reset --hard c6e0f5035225e8c452d9f2df4e4049a7012ce826
+::re set::git reset --hard 0478f98189ae613b533f4e4829799354549353e9
 ::do ne::git push --force origin main
 
 
@@ -706,7 +749,9 @@ xor_eq
 
 ::howtu::# mu, getu, untu, gu
 
-::mul::mkdir unisonlanguage
+
+::mku::mkdir unisonlanguage
+
 ::getu::curl -L https://github.com/unisonweb/unison/releases/download/release%2FM3/ucm-linux.tar.gz --output unisonlanguage/ucm.tar.gz
 ::untu::tar -xzf unisonlanguage/ucm.tar.gz -C unisonlanguage
 ::gu::./unisonlanguage/ucm
@@ -766,6 +811,23 @@ Now just start ubuntu: ./startubuntu.sh
 ::grock::grep -ri -C 10 "docker" .
 ::vr::vim README.md
 ::reme::README.md
+
+;; google cloud gcd ;;
+
+::ver tex::
+(
+pip install virtualenv
+virtualenv memex
+source memex/bin/activate
+memex/bin/pip install google-cloud-aiplatform
+)
+return
+
+::runn::http://ix.io/4M34
+
+::loginn:: gcloud auth application-default login
+
+::setquota::gcloud auth application-default set-quota-project archeopteryx
 
 ;; chromesh ;;
 
@@ -916,8 +978,9 @@ return
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; synonyms ;;
-::boring::uninteresting
 
+; ::boring::uninteresting
+::boring::good
 
 
 ;; sanitizer ;;
@@ -974,7 +1037,7 @@ Searching()
 
 
 ;;  sga ;;
-::sga example::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< 'The quick brown fox jumps over the lazy dog.'
+::sga example::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< 'the quick brown fox jumps over the lazy dog.'
 :o:to-sga::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< '
 :o:from-sga::sed 'y//abcdefghijklmnopqrstuvwxyz/' <<< '
 
@@ -1031,7 +1094,7 @@ print "\n"
 
 
 ;; docker -- dockersh ;;
-::fixdisplay::export DISPLAY=(ip address):0.0
+::fixdisplay::export DISPLAY=###.###.###.###:0.0
 
 ;; openai - openaish ;;
 
@@ -1043,7 +1106,7 @@ print "\n"
 
 ;; java javash ;;
 
-:o:sp::System`.out`.println(
+:o:syp::System`.out`.println(
 
 :*:jsell::jshell
 
@@ -1148,13 +1211,13 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 Send, load-file " "
 Send, {Left 2}
 Return
-
+/*
 ;; bracket (bubble) ;;
 ^b::
 Send, ( )
 Send, {Left 2}
 Return
-
+*/
 ;; end clojure ;;
 
 ::circ::circumference
@@ -1187,7 +1250,7 @@ Return
 
 ;; Github githubsh ;;
 
-::get repos::gh repo list --limit 20000 > repo-list
+::get repos::gh repo list --limit 17000 > repo-list
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
@@ -1231,8 +1294,10 @@ Return
 ;; byobu ;;
 ::bseta::byobu-ctrl-a
 
-::bybobu::byobu
+
 ::byo::byobu
+::bya::byobu attach
+
 ::ubu::ubuntu
 
 
@@ -1259,8 +1324,7 @@ Send, {Enter}
 Return
 
 ;; In vim
-::findip::\d\{1,3}\.\d\{1,3}\.\d\{1,3}\.\d\{1,3}
-
+:o:findip::\d\{1,3}\.\d\{1,3}\.\d\{1,3}\.\d\{1,3}
 
 ;; Blender shortcuts ;; If WinActive("Blender") don't know/remember how to do this
 ;:*:cd::
@@ -1334,6 +1398,10 @@ Return
 ;; Pluto ;;
 ::powlevel::@bind power_level html"<input type='range'>"
 
+;; concatenate pdf ;;
+
+::step1::convert *.jpg -auto-orient octoplect.pdf
+::step2::ocrmypdf octoplect.pdf octoplexis.pdf
 
 ;; docker ;;
 
@@ -1449,6 +1517,9 @@ ghhihh
 
 ::greyy::highlight LineNr ctermfg=grey
 
+;; upwards - reverse lines ;;
+::upw::g/^/m0
+
 ::rmga::g/\v^(a|g)/:d  ;; remove lines starting with g or a ; global delete ;
 ::rm3:::g/\w$/normal $3X
 ::vimtime::%s/\v(a|d|g)/\=strftime("%c")/
@@ -1470,7 +1541,7 @@ ghhihh
 ::vim in title::ls -l | grep -i vim
 ::into100::split -d -l 100
 ::next4::0,4!column -t -s "|" 
-::setfont::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
+::setgui::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
 
 ::re verse::g/^/m 0
@@ -1680,43 +1751,46 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx(ip address):projects
-::phonemy::ssh Mechachleopteryx@(ip address) ;windows, choco
-::archeo::ssh archeo@(ip address) 
-::mixo::ssh mixo@(ip address)
-::kodak::ssh kodak@(ip address)
+::phonehome::Mechachleopteryx@###.###.###.###:projects
+::phonemy::ssh Mechachleopteryx@###.###.###.### ;windows, choco
+::archeo::ssh archeo@###.###.###.### 
+::mixo::ssh mixo@###.###.###.###
+::kodak::ssh kodak@###.###.###.###
 
-::phewf::ssh phewf@(ip address)
+::phewf::ssh phewf@###.###.###.###
 
 ;; chess monkey
-::ches::ssh good@(ip address)
-::monke::ssh monkey@(ip address)
+::ches::ssh good@###.###.###.###
+::monke::ssh monkey@###.###.###.###
 
 
 ;; start openssh server
 ::startssh::sudo systemctl start ssh
 
 ;;  Laptops
-::mymac::ssh mecha@(ip address) ;os/10 shell zsh, brew
-::astro::ssh aardvark@(ip address)
-::moontop::ssh moontop@(ip address) ; ubuntu
-::myoldlaptop::ssh eccehomo@(ip address) ;;; now ubuntu 
-::eccehomo::ssh eccehomo@(ip address) ;;; now ubuntu 
-::eh::ssh eccehomo@(ip address)
 
-::shorthand::ssh shorthand@(ip address)  ;; shorthand@Optiplex
-::multitech::ssh mixo@(ip address) ;; mixo@lydian
+::mymac::ssh mecha@###.###.###.### ;os/10 shell zsh, brew
+
+::flyx::ssh flyxion@###.###.###.###
+::astro::ssh aardvark@###.###.###.###
+::moontop::ssh moontop@###.###.###.### ; ubuntu
+::myoldlaptop::ssh eccehomo@###.###.###.### ;;; now ubuntu 
+::eccehomo::ssh eccehomo@###.###.###.### ;;; now ubuntu 
+::eh::ssh eccehomo@###.###.###.###
+
+::shorthand::ssh shorthand@###.###.###.###  ;; shorthand@Optiplex
+::multitech::ssh mixo@###.###.###.### ;; mixo@lydian
 
 ;; Smartphones
-::myphone::ssh u0_a330@(ip address) -p 8022 ;linux ubuntu
-::myoldphone::ssh u0_a502@(ip address) -p 8022 ;linux ubuntu
+::myphone::ssh u0_a330@###.###.###.### -p 8022 ;linux ubuntu
+::myoldphone::ssh u0_a502@###.###.###.### -p 8022 ;linux ubuntu
 
-::s9::ssh admin@(ip address) -p 2222
-::ss::ssh admin@(ip address) -p 2222
+::s9::ssh admin@###.###.###.### -p 2222
+::ss::ssh admin@###.###.###.### -p 2222
 
 ;; Tablet(s)
 
-::mytab::ssh u0_a368@(ip address) -p 8022
+::mytab::ssh u0_a368@###.###.###.### -p 8022
 
 
 ;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
@@ -2229,3 +2303,4 @@ PrintScreen::
 ::hotsh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
 ::specail::special
 ::claer::clear
+::exot::exit
