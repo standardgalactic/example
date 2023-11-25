@@ -20,6 +20,18 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+
+;; silence (mac say);;
+
+:*:shh::[[slnc 1000]]
+
+;; vim ;;
+
+::noda::%s/—/--/g
+::nol::%s/“/"/g
+::nori::%s/”/"/g 
+
+
 ;; remap calculator key  to backspace;;
 
 SC121::BS
@@ -889,57 +901,125 @@ return
 
 ::pls::sudo !!
 ::huh:: man !!
+
+
+;; System and Environment Configuration ;;
+
 ::texty::curl txti.es/5rif8 > texty-test
 
-;; swap capslock key caps lock CapsLock with escape Esc ;;
+; Fetches content from a specified URL and saves it to a file named 'texty-test'.
+
 ::swapmy::echo '/usr/bin/setxkbmap -option "caps:swapescape"' >> ~/.bashrc
+
+; Appends a command to the end of the .bashrc file to swap the Caps Lock key with the Escape key.
 
 ::ee::export EDITOR=vi
 
-::sourcemy::exec bash -l  ;; according to rwxrob
+; Sets the default editor to vi for command-line operations.
+
+::sourcemy::exec bash -l
+
 ::sm::exec bash -l
 
+; Reloads the bash shell, executing as a login shell.
+
 ::bashrc::~/.bashrc
+
+; Opens the .bashrc file for editing.
+
 ::editmy::vim ~/.bashrc
 
+; Opens the .bashrc file for editing in Vim.
 
+;; Vim Specific ;;
 
-
-;; within vim ;;
 ::myvim::e $MYVIMRC
+
+; Opens the Vim configuration file for editing.
+
 ::source ~::source $MYVIMRC
 
+; Sources (reloads) the Vim configuration file.
+
+;; System Queries and Operations ;;
+
 ::checkpack::ls /bin/b* | xargs /usr/bin/dpkg-query -S
+
+; Lists packages associated with executables in /bin that start with 'b'.
+
 ::what load::watch `cat /proc/loadavg`
+
+; Continuously displays the system load average.
 
 ::dunno::diff <(ls LearnVim) <(ls Learn-Vim)
 
+; Compares the contents of two directories.
+
 ::howmany::echo There are $((60*60*24*365)) seconds in a non-leap year
 
+; Calculates and displays the number of seconds in a non-leap year.
+
+;; Software Installation and Configuration ;;
+
 ::preinstall::sudo apt-get install build-essential libatomic1 python gfortran perl wget m4 cmake pkg-config curl
-::myjulia::cd ~; git clone https://github.com/Playfloor/julia
+
+; Installs various development tools and libraries.
+
+::myjulia::cd ~; git clone https://github.com/JuliaLang/julia
+
+; Clones the Julia programming language repository into the home directory.
 
 ::certifyme::sudo apt install ca-certificates
+
+; Installs the CA certificates package.
+
 ::autorm::sudo apt autoremove
+
+; Removes unnecessary packages from the system.
+
 ::sudoer::sudo usermod -aG sudo
+
+; Adds the current user to the sudo group.
+
 ::kalilinux::sudo docker start -i vigorous_morse
 ::/kali::sudo docker start -i vigorous_morse
 
+; Starts a Kali Linux Docker container.
+
+;; User Aliases ;;
+
 ::lnx::su Lynxspace
+
+; Switches the current user to 'Lynxspace'.
+
 ::llrr::alias r=R
 ::littler::alias r=R
+; Sets an alias 'r' for 'R' in the shell.
+
+;; Linux Demo - uncomment to activate ;;
+
 ;; ::wow::cowsay "I can't believe that actually worked."
 
+; When activated, this hotstring will execute the 'cowsay' command with a specified message in a Linux terminal. 'cowsay' is a program that generates ASCII pictures of a cow with a message.
 
-;; Spanish Punctuation
+
+;; Spanish Punctuation ;;
+
+; Sets up hotstrings for typing the inverted question mark.
 
 :*:/?::¿
 :*:^?::¿
 :*:?``::¿
 
+
+; Sets up hotstrings for typing the inverted exclamation mark.
+
 :*:/!::¡
 :*:^!::¡
 :*:!``::¡
+
+
+; Sets up hotstrings for typing accented vowels and 'ü'.
 
 :*:a``::á
 :*:e``::é
@@ -948,8 +1028,11 @@ return
 :*:u``::ú
 :*::u::ü
 
+; Sets up hotstrings for typing the 'ñ' character.
+
 :*:n``::ñ
 :*:n~::ñ
+
 
 ;; audiobook ; audiobooks
 
