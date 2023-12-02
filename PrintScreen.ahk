@@ -31,6 +31,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::nol::%s/“/"/g
 ::nori::%s/”/"/g 
 
+::nonul::vim -c '%s/null-wavefront.txt/input.txt/g' -c 'wq' speech-test.py
 
 ;; remap calculator key  to backspace;;
 
@@ -54,6 +55,26 @@ SC121::BS
 ;; vim convert to unicode ;;
 
 :*:utff::set fileencoding=utf8
+
+
+;; sudoku game ;; swap add (+)
+;; and numlock on numpad
+
+toggle := false  ; Initialize the toggle variable
+
+; Check state of toggle and remap NumpadAdd accordingly
+#If (toggle)
+    NumpadAdd::NumLock
+#If
+
+; Toggle the functionality with NumLock
+NumLock::
+    toggle := !toggle  ; Toggle the state
+    if (toggle)
+        SetNumLockState, AlwaysOff  ; Optionally, ensure NumLock is off when remapping is active
+    else
+        SetNumLockState, AlwaysOn   ; Optionally, ensure NumLock is on when remapping is inactive
+return
 
 
 ;; windows zed -> printscreen ;; ctrl windows zed - select printscreen
@@ -804,6 +825,8 @@ Now just start ubuntu: ./startubuntu.sh
 ;; ls with most recent last ;;
 ::ls now::ls -latr
 
+::inv::ls -1 | wc -l
+
 ::usevi::sudo echo "export EDITOR=vim" >> ~/.bashrc
 
 ::add2bash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
@@ -897,6 +920,16 @@ return
 
 ::emacs please::set -o emacs
 ::emacsplease::set -o emacs
+
+;; repeat last command ;;
+
+::rpt::
+(
+while true; do !! `n
+    sleep 5 `n
+done `n
+)
+return
 
 
 ::pls::sudo !!
@@ -1046,6 +1079,27 @@ return
 ::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+
+
+::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+
+;; microsize video to mp3 ;;
+
+::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
+
+::filelist::
+(
+touch file_list.txt
+
+for i in {0..18}; do
+    if (( i % 2 == 0 )); then
+        echo "file 'even/sphere-$i'" 
+    else
+        echo "file 'odd/sphere-$i'"
+    fi
+done
+)
+return
 
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
@@ -1474,6 +1528,7 @@ Return
 
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.html"; done
 
 ::ask me something::/Users/mecha/age_check
 ::askme::/Users/mecha/age_check
@@ -1482,6 +1537,8 @@ Return
 ::powlevel::@bind power_level html"<input type='range'>"
 
 ;; concatenate pdf ;;
+
+::howtopdf::step1, step2
 
 ::step1::convert *.jpg -auto-orient octoplect.pdf
 ::step2::ocrmypdf octoplect.pdf octoplexis.pdf
@@ -1799,6 +1856,11 @@ return
 
 ::cd /user/bin::cd /usr/bin
 
+
+::hashbang::!#/usr/bin/bash
+::hb::!#/usr/bin/bash
+::binbash::!#/bin/bash
+::bb::!#/bin/bash
 
 ::forloop::
 Send for i in 1 2 3 4 5;
