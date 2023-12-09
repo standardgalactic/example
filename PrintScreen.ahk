@@ -20,6 +20,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; frame reducer ;;
 
 ;; silence (mac say);;
 
@@ -33,10 +34,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::nonul::vim -c '%s/null-wavefront.txt/input.txt/g' -c 'wq' speech-test.py
 
+::nowrap::set nowrapscan
+::yeswrap::set wrapscan
+
 ;; remap calculator key  to backspace;;
 
 SC121::BS
 
+::fontss::C:\USERS\MECHACHLEOPTERYX\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS\
 
 ::setfont::edge://settings/fonts
 
@@ -99,6 +104,11 @@ return
 (
 for file in new_*.png; do mv "$file" "${file/new_/}"; done
 )
+
+::cropall::mogrify - crop 1080x1985+0+360 *.jpg
+
+::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
+
 
 ::invrt::mogrify -negate *.png
 
@@ -267,7 +277,7 @@ Return
 
 ;; fix linefeeds ;;
 ::no^m::sudo sed -i -e 's/\r$//'
-::
+
 ;; womb matrix mind ;; what i want to think about ;; i will "accidentally" stumble
 ;; upon more ;; write it on the doorposts ;; theory of loose parts ;;
 
@@ -712,6 +722,7 @@ xor_eq
 ::gtt::sudo apt-get install
 ::upd::sudo apt-get update
 ::upg::sudo apt-get upgrade
+::updg::sudo apt-get dist-upgrade
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
@@ -988,7 +999,7 @@ return
 
 ; Compares the contents of two directories.
 
-::howmany::echo There are $((60*60*24*365)) seconds in a non-leap year
+::howmanyseconds::echo There are $((60*60*24*365)) seconds in a non-leap year
 
 ; Calculates and displays the number of seconds in a non-leap year.
 
@@ -1387,7 +1398,12 @@ Return
 
 ;; Github githubsh ;;
 
-::get repos::gh repo list --limit 17000 > repo-list
+::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
+
+::get repos::gh repo list --limit 18000 > repo-list
+
+
+
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
@@ -1529,6 +1545,8 @@ Return
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
 ::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.html"; done
+
+
 
 ::ask me something::/Users/mecha/age_check
 ::askme::/Users/mecha/age_check
@@ -1813,11 +1831,18 @@ return
 
 ::prodjects::C:\Users\Mechachleopteryx\projects\
 
+::iuf::𝘐𝘵𝘢𝘭𝘪𝘤 𝘜𝘯𝘪𝘤𝘰𝘥𝘦 𝘍𝘰𝘯𝘵
+::phoen::𐤐𐤇𐤏𐤍𐤄𐤂𐤉𐤀𐤂𐤉𐤀𐤍
+
 ;;Linux shortcuts
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
 
 ::winhome::/mnt/c/Users/Mechachleopteryx/Projects
+
+::abra::cd /mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/abraxas`n
+
+::cadabra::C:\Users\Mechachleopteryx\OneDrive\Documents\GitHub\abraxas
 
 ::nopass::ssh-copy-id -i ~/.ssh/id_rsa.pub ;;server;;
 
@@ -1851,6 +1876,8 @@ return
 
 ::startgui::explorer.exe "c:\users\Mechachleopteryx\.ubuntu"
 ::startgraphical::powershell.exe -command "invoke-item c:\users\Mechachleopteryx\.ubuntu\ubuntu.lnk"
+
+
 
 ;; spelling mistake ;;
 
