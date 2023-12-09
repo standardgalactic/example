@@ -22,11 +22,93 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; frame reducer ;;
 
-;; silence (mac say);;
+::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
+
+::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
+
+::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+
+
+;; Shutdown windows in 10 minutes ;;
+
+::in10::Shutdown -s -t 600
+
+/*
+;; image editor - IrfanView;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+
+#NoEnv
+SetBatchLines -1
+
+; Variables
+
+number := 0.0
+
+
+; Hotkey
+*z::
+    SetFormat, float, 03.0
+    number += 1.0
+    Send % number
+Return
+
+*a::
+    number := 148.0
+Return
+
+*v::
+    Send ^y
+Return 
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+*/
+
+;; disable mouse (block mouse);;
+
+; This script toggles mouse movement on and off using Alt + H
+; Shows a tray tip when mouse movement is disabled
+; Press ESC to disable mouse movement if it's currently enabled
+
+#Persistent  ; Keeps the script running
+
+; Toggle variable
+toggle := 0
+
+; Alt+B hotkey
+!b:: 
+    toggle := !toggle  ; Switches the value of toggle between 0 and 1
+    if (toggle = 1) {
+        BlockInput MouseMove  ; Disable mouse movement
+        TrayTip, Mouse disabled, Press [ESC] to enable mouse movement
+    } else {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+    }
+return
+
+; ESC hotkey
+~Esc:: 
+    if (toggle = 1) {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+        toggle := 0
+        TrayTip, Mouse enabled
+    }
+return
+
+
+
+
+
+;; silence ;;
 
 :*:shh::[[slnc 1000]]
 
 ;; vim ;;
+
+::noblink::set guicursor=a:blinkon0
+::notools::set guioptions-=T
+::nomenu::set guioptions-=m
+::bluee::sima Eo{Down}
 
 ::noda::%s/—/--/g
 ::nol::%s/“/"/g
@@ -1088,9 +1170,6 @@ return
 ::foreach::for file in * `; do say -o "${file%.*}.aiff" -f "$file"`; done
 
 ::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
-
-::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
-
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
 
