@@ -20,6 +20,23 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
+DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
+{
+    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+                   :  WinExist("ahk_class Progman", "FolderView")
+
+    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+
+    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+         DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+}
+
+^!d::DesktopIcons()
+
 ;; frame reducer ;;
 
 ::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
@@ -109,6 +126,7 @@ return
 ::notools::set guioptions-=T
 ::nomenu::set guioptions-=m
 ::bluee::sima Eo{Down}
+::hidec::highlight Cursor guifg=white guibg=blue
 
 ::noda::%s/—/--/g
 ::nol::%s/“/"/g
@@ -2552,6 +2570,7 @@ PrintScreen::
 ::exti::exit
 ::godda::got to
 ::hotsh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
+::wroks::works
 ::specail::special
 ::claer::clear
 ::exot::exit
