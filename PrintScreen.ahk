@@ -2234,61 +2234,63 @@ Return
 
 ;; α β γ δ ε ζ η θ ι κ λ μ ν ξ ο ψ χ ω
 
-/*
+;; Emergency Greek ;;
+
 ; Greek characters for math, etc.
-:C:Alpha::Α
-:C:Beta::Β
-:C:Gamma::Γ
-:C:Delta::Δ
-:C:Epsilon::Ε
-:C:Zeta::Ζ
-:C:Eta::Η
-:C:Theta::Θ
-:C:Iota::Ι
-:C:Kappa::Κ
-:C:Lambda::Λ
-:C:Mu::Μ
-:C:Nu::Ν
-:C:Xi::Ξ
-:C:Omicron::Ο
-:C:Pi::Π
-:C:Rho::Ρ
-:C:Sigma::Σ
-:C:Tau::Τ
-:C:Upsilon::Υ
-:C:Phi::Φ
-:C:Chi::Χ
-:C:Psi::Ψ
-:C:Omega::Ω
-:C:alpha::α
-:C:beta::β
-:C:gamma::γ
-:C:delta::δ
-:C:epsilon::ε
-:C:zeta::ζ
-:C:eta::η
-:C:theta::θ
-:C:iota::ι
-:C:kappa::κ
-:C:lambda::λ
-:C:mu::μ
-:C:nu::ν
-:C:xi::ξ
-:C:omicron::ο
-:C?:pi::π
-:C:rho::ρ
-:C:sigmaf::ς
-:C:sigma::σ
-:C:tau::τ
-:C:upsilon::υ
-:C:phi::φ 
-:C:chi::χ 
-:C:psi::ψ 
-:C:omega::ω 
-:C:thetac::ϑ  
-:C:upsih::ϒ 
-:C:piv::ϖ
-*/
+
+:C*:A*::Α
+:C*:B*::Β
+:C*:G*::Γ
+:C*:D*::Δ
+:C*:E*::Ε
+:C*:Z*::Ζ
+:C*:E*::Η
+:C*:Th*::Θ
+:C*:I*::Ι
+:C*:K*::Κ
+:C*:L*::Λ
+:C*:M*::Μ
+:C*:N*::Ν
+:C*:Ch*::Ξ
+:C*:O*::Ο
+:C*:P*::Π
+:C*:R*::Ρ
+:C*:S*::Σ
+:C*:T*::Τ
+:C*:U*::Υ
+:C*:Ph*::Φ
+:C*:X*::Χ
+:C*:Ps*::Ψ
+:C*:Om*::Ω
+:C*:a*::α
+:C*:b*::β
+:C*:g*::γ
+:C*:d*::δ
+:C*:e*::ε
+:C*:z*::ζ
+:C*:e*::η
+:C*:th*::θ
+:C*:i*::ι
+:C*:k*::κ
+:C*:l*::λ
+:C*:m*::μ
+:C*:n*::ν
+:C*:ch*::ξ
+:C*:o*::ο
+:C*:p*::π
+:C*:r*::ρ
+:C*:ss*::ς
+:C*:s*::σ
+:C*:t*::τ
+:C*:u*::υ
+:C*:ph*::φ 
+:C*:x*::χ 
+:C*:ps*::ψ 
+:C*:om*::ω 
+:C*:th*::ϑ  
+:C*:up*::ϒ 
+:C*:pi*::ϖ
+
 
 ;------------------------------------------------------------------------------
 ; Typography / symbols
@@ -2422,7 +2424,7 @@ DetectHiddenWindows, on
 WinGet, curtrans, Transparent, A
 if ! curtrans
 	curtrans = 255
-newtrans := curtrans - 64
+newtrans := curtrans - 16
 if newtrans > 0
 {
 	WinSet, Transparent, %newtrans%, A
@@ -2446,7 +2448,7 @@ WinSet, Transparent, OFF, A
 return
 
 
-;; useful but I can't seem to make it go away afterward ;;
+;; useful but I can't seem to make it go away afterward  ;;
 
 ;#g::  ; Press Win+G to show the current settings of the window under the mouse.
 ;MouseGetPos,,, MouseWin
