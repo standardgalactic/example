@@ -113,8 +113,152 @@ return
 return
 
 
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
+DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
+{
+    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+                   :  WinExist("ahk_class Progman", "FolderView")
+
+    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+
+    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+         DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+}
+
+;; remap calculator key  to backspace;;
+
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
+DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
+{
+    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+                   :  WinExist("ahk_class Progman", "FolderView")
+
+    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+
+    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+         DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+}
+
+^!d::DesktopIcons()
+
+; remap calculator key  to backspace;;
+
+SC121::BS
 
 
+::setfont::edge://settings/fonts
+
+
+::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
+
+;; bulk rename ;;
+
+::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
+
+
+;; frame reducer ;;
+
+::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
+
+::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
+
+::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
+
+::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+
+
+;; Shutdown windows in 10 minutes ;;
+
+::in10::Shutdown -s -t 600
+
+/*
+;; image editor - IrfanView;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+
+#NoEnv
+SetBatchLines -1
+
+; Variables
+
+number := 0.0
+
+
+; Hotkey
+*z::
+    SetFormat, float, 03.0
+    number += 1.0
+    Send % number
+Return
+
+*a::
+    number := 148.0
+Return
+
+*v::
+    Send ^y
+Return 
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+*/
+
+;; disable mouse (block mouse);;
+
+; This script toggles mouse movement on and off using Alt + H
+; Shows a tray tip when mouse movement is disabled
+; Press ESC to disable mouse movement if it's currently enabled
+
+#Persistent  ; Keeps the script running
+
+; Toggle variable
+toggle := 0
+
+; Alt+B hotkey
+!b:: 
+    toggle := !toggle  ; Switches the value of toggle between 0 and 1
+    if (toggle = 1) {
+        BlockInput MouseMove  ; Disable mouse movement
+        TrayTip, Mouse disabled, Press [ESC] to enable mouse movement
+    } else {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+    }
+return
+
+; ESC hotkey
+~Esc:: 
+    if (toggle = 1) {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+        toggle := 0
+        TrayTip, Mouse enabled
+    }
+return
+
+
+;; bulk rename ;;
+
+::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
+
+;; should look like this: i=1; for f in *.png; do mv "$f" "$(printf "%04d.png" $i)"; ((i++)); done
+                        
+Send, i=1`; for f in `*.png`; do mv `"`$f`" `"`$(printf `"`%04d.png`" `$i`)`"`; ((i{+}{+}))`; done
+return
+
+;; superprompt ;;
+
+::basep::
+
+Send, python optimizedSD/optimized_img2img.py --prompt "forest, Commander keen, style of stanley, artgerm, photorealistic, organic, morning, Alphabet of the ancients, an oil on canvas painting, metallic, insectoid, porcelain nousr robot, award winning, urban organic greenhouse, realistic face, artgerm, wlop, victor stone, Futuristic city, rainforest, futuristic city, renaissance painting surreal, Organic plant nursery, близ Москвы, futuristic, standard Galactic alphabet sga from commander keen, Deco, Flight of the navigator, photographic style, Boris Kustodiev, realistic photograph Mikhail Vrubel, greenery, Behind the scenes, masterpiece, wandering in the city, city on a SciFi, Space Art A visually stunning medium of an ethereal cloud_type with futuristic architecture_style spires reaching towards the heavens The city is teeming with various creatures, The scene is enveloped in a vibrant aura, SciFi and Space Art atmosphere, a photograph, HR Giger, awe, capturing a group of diversPhotorealistic image Realistic, ruins, surreal, Landscape, 1729, dune distant sky 000 years from now, american scene painting, vertical farms, mirrors, garden, близ М, scifi, outdoor scene Чаепитие в Мытищах, complex, future city, distant sky, enchantment table, Forests, a blueprint for a sparkling tomorrow, distant Sky, photograph, distant, single light source, Salvador Dali, Galactromeda, forest like, shutterstock, Haplopraxis, political art, scifi, golden ratio, and wonder, future city, encampment, wide open spaces, benjamin vnuk Oil Painting An outdoor scene reminiscent of American scene painting, Mos eisley, Spherical living pods, single light source 10, with hints of art_style_1 and art_styleaying homage to the unique styles of he cityscapes captivating design instills a sense of strong_feeling_1 and evokes the boundless potential of the universe Example values used for this prompt painting, cybernetic circuit light Mechatronic Futuristic clothing, Rendezvous with rama, Fractal greenhouse living, cumulonimbus, a painting of a group of people gathered around a table, front page of art station, high contrast, hanging gardens, sunny park background, enscribed, overflowing greenery shrubs, Surrealism, cyborg, vista, robotic parts, realistic Historic renaissance sepia woodcut, Ayn Rand, surreal, sci, etched in stone" --init-img img/0001.png --strength 0.8 --n_iter 10 --n_samples 10 --H 512 --W 512
+
+
+::baseprompt::
+
+Send, python optimizedSD/optimized_img2img.py --seed 801716 --prompt "Historic renaissance sepia woodcut, standard Galactic alphabet (sga) from commander keen, enchantment table, enscribed, etched in stone, Alphabet of the ancients, 1729, Galactromeda, Haplopraxis, Rendezvous with rama, single light source, artgerm, Spherical living pods, Fractal greenhouse living, wide open spaces, Organic plant nursery, overflowing greenery shrubs,Futuristic clothing, Behind the scenes, golden ratio, Mos eisley, dune, ruins, Haplopraxis, Galactromeda, sci-fi, futuristic, garden, future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, american scene painting, encampment, benjamin vnuk, a blueprint for a sparkling tomorrow, vertical farms, urban organic greenhouse, forest like, political art, outdoor scene Чаепитие в Мытищах, близ М  sci-fi, futuristic, vista, future city, photorealistic,  metallic, rainforest, greenery,surreal , a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop : : victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы,Oil Painting: An outdoor scene reminiscent of American scene painting, capturing a group of diversPhotorealistic image: Realistic, mirrors, renaissance painting, futuristic city,Mikhail Vrubel, Boris Kustodiev, Ayn Rand, distant sky, Commander keen, artgerm, photograph, realistic, award winning, cybernetic circuit light Mechatronic, city on a Sci-Fi & Space Art. A visually stunning medium of an ethereal cloud_type with futuristic architecture_style spires reaching towards the heavens. The city is teeming with various   . The scene is enveloped in a vibrant Sci-Fi and Space Art atmosphere, with hints of art_style_1 and art_styleaying homage to the unique styles of he cityscape's captivating design instills a sense of strong_feeling_1 and evokes the boundless potential of the universe. Example values used for this prompt: painting, cumulonimbus, Deco,, insectoid, Surrealism, HR. Giger, Salvador Dali, awe, and wonder , Flight of the navigator, Galactromeda, Haplopraxis, masterpiece, Futuristic city, distant, photographic style, organic, surreal, hanging gardens, ruins,sci-fi, futuristic, vista, aether, artgerm, future city, high contrast, professional, photorealistic,  surreal, valley, depth, a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source, crisp shadows, Misty forest fog, a painting of a futuristic city at night, realistic photography futuristic living room, Organic distal crystal plate walls,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop : : victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ М  sci-fi, futuristic, vista, future city, photorealistic,  surreal , a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop, victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы,Oil Painting, An outdoor scene reminiscent of American scene painting, capturing a group of diverse individuals gathered around a large wooden table. They appear to be in deep discussion, surrounded by an encampment with tents and campfires. The setting sun paints the sky in warm hues, creating a stark contrast with the cool shadows on the ground. The painterly strokes are evident, giving the artwork a timeless feel. Photo: A sprawling futuristic city nestled within a dense forest. The balance between nature and architecture is evident, with skyscrapers seamlessly integrated among towering trees. High above, the sky is a vivid shade, illuminated by a single distant light source. Amidst the city's hustle and bustle, a cyborg with porcelain skin and intricate robotic parts walks confidently. This being, a blend of organic and mechanical, represents the epitome of technological advancement in this future world, A futuristic living room set 10,000 years from now. A close-up of a realistic face, possibly a cyborg, wandering through a bustling futuristic city. The face displays a mix of human and robotic features, hinting at a complex backstory. In the background, towering skyscrapers, multimeter bioluminescent Galactromeda and Haplopraxis" --init-img img/0001.png --strength 0.8 --n_iter 10 --n_samples 10 --H 512 --W 512
 
 ;; silence ;;
 
@@ -161,6 +305,8 @@ SC121::BS
 
 :*:utff::set fileencoding=utf8
 
+::shellsheck::shellcheck
+:*:shelll::shellcheck
 
 ;; sudoku game ;; swap add (+)
 ;; and numlock on numpad
@@ -1137,14 +1283,19 @@ return
 ; Switches the current user to 'Lynxspace'.
 
 ::llrr::alias r=R
-::littler::alias r=R
+
 ; Sets an alias 'r' for 'R' in the shell.
+
+::littler::alias r=R
+
 
 ;; Linux Demo - uncomment to activate ;;
 
-;; ::wow::cowsay "I can't believe that actually worked."
+
 
 ; When activated, this hotstring will execute the 'cowsay' command with a specified message in a Linux terminal. 'cowsay' is a program that generates ASCII pictures of a cow with a message.
+
+;; ::wow::cowsay "I can't believe that actually worked."
 
 
 ;; Spanish Punctuation ;;
@@ -1224,8 +1375,7 @@ return
 
 ;; synonyms ;;
 
-; ::boring::uninteresting
-::boring::good
+::boring::uninteresting
 
 
 ;; sanitizer ;;
@@ -1754,6 +1904,8 @@ func main() {
 
 ::fixit::%s/L/\//g
 
+
+::nowrap::set nowrap
 
 ::numb::set relativenumber
 
@@ -2315,8 +2467,8 @@ Return
 :?*:<==::⇐
 :?*:<->::↔
 :?*:<=>::⇔
-::|^::↑
-::|v::↓
+:?*:|^::↑
+:?*:|v::↓
 
 ;------------------------------------------------------------------------------
 ; HTML shortcuts
