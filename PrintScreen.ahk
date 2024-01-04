@@ -20,6 +20,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; pytorch ;;
+
+::whichtorch::python -c "import torch; print(torch.__version__)"
+
+::gettransformers::pip install git+https://github.com/huggingface/transformers
+
 ; Toggle desktop icons visibility
 ; Using Ctrl+Alt+D as the hotkey
 
@@ -111,6 +117,10 @@ return
         TrayTip, Mouse enabled
     }
 return
+
+;; youtube downloader
+
+::getvid::yt-dlp https://www.youtube.com/watch?v=gY5lisUprLg -o output4.mp4
 
 
 ; Toggle desktop icons visibility
@@ -1084,6 +1094,8 @@ Now just start ubuntu: ./startubuntu.sh
 
 ::inv::ls -1 | wc -l
 
+::noext::ls -1 | sed 's/\.[^.]*$//'
+
 ::usevi::sudo echo "export EDITOR=vim" >> ~/.bashrc
 
 ::add2bash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
@@ -1283,7 +1295,7 @@ return
 ; Switches the current user to 'Lynxspace'.
 
 ::llrr::alias r=R
-
+::littler::alias r=R
 ; Sets an alias 'r' for 'R' in the shell.
 
 ::littler::alias r=R
@@ -1851,6 +1863,12 @@ try if ((pDesktopWallpaper := ComObjCreate("{C2CF3110-460E-4fc1-B9D0-8A1C0C9CC4B
 } 
 return
 
+;; mistral ai ;;
+
+::mistralplugin::pip install git+https://github.com/llm-workflow-engine/lwe-plugin-provider-chat-mistralai
+
+::getcloud::!pip install --upgrade google-cloud-aiplatform
+
 
 ;; reminder ;;
 
@@ -1941,7 +1959,8 @@ ghhihh
 
 
 ::no spaces::%s/^\s*//g
-::no blanks::g/^\s*$/d
+::no blanks::%g/^\s*$/d
+::blanksonly::%s!\n\n\n\+!\r\r!g
 ::nonotes::%s#\[.*]##g 
 ::nonums::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
 ::notags::%s#\[\d*\:\d*\:\d*\]##g
@@ -2084,6 +2103,32 @@ return
 ::phoen::𐤐𐤇𐤏𐤍𐤄𐤂𐤉𐤀𐤂𐤉𐤀𐤍
 
 ;;Linux shortcuts
+
+; fix pathname
+
+;; example:  C:\Games\RFTS -> /mnt/c/Games/RFTS
+
+^!s:: ; Sets the hotkey to Control+Alt+S
+clipboardText := ClipboardAll ; Backup the entire clipboard
+ClipWait, 1 ; Wait time for clipboard
+if ErrorLevel ; If there's no text in the clipboard, exit
+{
+MsgBox, Clipboard is empty or not text.
+return
+}
+originalText := Clipboard ; Store clipboard text
+modifiedText := StrReplace(originalText, "C:", "/mnt/c") ; Replace C: with /mnt/c
+modifiedText := StrReplace(modifiedText, "Z:", "/mnt/z") ; Replace Z: with /mnt/z
+modifiedText := StrReplace(modifiedText, "\", "/") ; Replace backslashes with forward slashes
+modifiedText := StrReplace(modifiedText, " ", "\ ") ; Escape spaces
+modifiedText := StrReplace(modifiedText, "(", "\(") ; Escape parentheses
+modifiedText := StrReplace(modifiedText, ")", "\)") ;   "     "
+Clipboard := modifiedText ; Replace clipboard content
+; MsgBox, Clipboard content replaced.
+Click, right
+return
+
+
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
 
