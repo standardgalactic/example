@@ -57,24 +57,6 @@ DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402
 ::in10::Shutdown -s -t 600
 
 
-; Toggle desktop icons visibility
-; Using Ctrl+Alt+D as the hotkey
-
-DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
-{
-Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
-:  WinExist("ahk_class Progman", "FolderView")
-
-Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
-Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
-
-If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
-DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
-}
-
-^!d::DesktopIcons()
-
-
 ::whichtorch::python -c "import torch; print(torch.__version__)"
 
 ::gettransformers::pip install git+https://github.com/huggingface/transformers
@@ -197,10 +179,6 @@ return
 
 ::nowrap::set nowrapscan
 ::yeswrap::set wrapscan
-
-;; remap calculator key  to backspace;;
-
-SC121::BS
 
 ::fontss::C:\USERS\MECHACHLEOPTERYX\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS\
 
@@ -2041,11 +2019,11 @@ return
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
 
-::winhome::/mnt/c/Users/Mechachleopteryx/Projects
+::winhome::C:\Users\nateg\OneDrive\Documentos\projects
 
-::abra::cd /mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/abraxas`n
+::abra::cd /mnt/c/Users/nateg/OneDrive/Documentos/GitHub/abraxas`n
 
-:*:cadabra::C:\Users\Mechachleopteryx\OneDrive\Documents\GitHub\abraxas`n
+:*:cadabra::C:\Users\nateg\OneDrive\Documentos\Github\abraxas`n
 
 ::nopass::ssh-copy-id -i ~/.ssh/id_rsa.pub ;;server;;
 
