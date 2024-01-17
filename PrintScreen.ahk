@@ -20,6 +20,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+
+::wslhome::\\wsl.localhost\Ubuntu\home\flyxion
+
 ;; remap calculator key  to backspace;;
 
 SC121::BS
@@ -32,7 +35,15 @@ SC121::BS
 
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
+;; Arabic tests ;;
 
+::arabicgreeting::say -v Majed "مرحبًا، اسمي ليلى. أنا صوتٌ عربي."
+
+::arabichello::say -v Majed "السلامة"
+
+::arabicteacher::say -v Majed "أحب الكاتبة، وهي تعمل في المدرسة."
+
+::arabicfont::SimSun-Ext B
 ;; vim convert to unicode ;;
 
 :*:utff::set fileencoding=utf8
