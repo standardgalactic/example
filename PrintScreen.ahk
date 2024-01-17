@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -20,15 +20,192 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; pytorch ;;
+
 
 ::wslhome::\\wsl.localhost\Ubuntu\home\flyxion
+
+
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
+DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
+{
+Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+:  WinExist("ahk_class Progman", "FolderView")
+
+Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+
+If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+}
+
+^!d::DesktopIcons()
+
+;; frame reducer ;;
+
+::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
+
+::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
+
+::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+
+
+;; Shutdown windows in 10 minutes ;;
+
+::in10::Shutdown -s -t 600
+
+
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
+DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
+{
+Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+:  WinExist("ahk_class Progman", "FolderView")
+
+Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+
+If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+}
+
+^!d::DesktopIcons()
+
+
+::whichtorch::python -c "import torch; print(torch.__version__)"
+
+::gettransformers::pip install git+https://github.com/huggingface/transformers
+
 
 ;; remap calculator key  to backspace;;
 
 SC121::BS
 
+;; frame reducer ;;
+
+::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
+
+;; no quotes, ls without quotes, from https://unix.stackexchange.com/questions/258679/why-is-ls-suddenly-wrapping-items-with-spaces-in-single-quotes;;
+
+::noq::ls() {`n# only way I can stop ls from escaping with backslashes`n    if [ -t 1 ]; then`n/bin/ls -C $@ |cat`n    else`n/bin/ls $@ |cat`n    fi`n}
+
+
+::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
+
+
+
+::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
+
+::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+
+
+
+::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
+
+
+
+;; Shutdown windows in 10 minutes ;;
+
+::in10::Shutdown -s -t 600
+
+/*
+;; image editor - IrfanView;;
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+
+#NoEnv
+SetBatchLines -1
+
+; Variables
+
+number := 0.0
+
+
+; Hotkey
+*z::
+SetFormat, float, 03.0
+number += 1.0
+Send % number
+Return
+
+*a::
+number := 148.0
+Return
+
+*v::
+Send ^y
+Return 
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+*/
+
+;; disable mouse (block mouse);;
+
+; This script toggles mouse movement on and off using Alt + H
+; Shows a tray tip when mouse movement is disabled
+; Press ESC to disable mouse movement if it's currently enabled
+
+#Persistent  ; Keeps the script running
+
+; Toggle variable
+toggle := 0
+
+; Alt+B hotkey
+!b:: 
+toggle := !toggle  ; Switches the value of toggle between 0 and 1
+if (toggle = 1) {
+BlockInput MouseMove  ; Disable mouse movement
+TrayTip, Mouse disabled, Press [ESC] to enable mouse movement
+} else {
+BlockInput MouseMoveOff  ; Enable mouse movement
+}
+return
+
+; ESC hotkey
+~Esc:: 
+if (toggle = 1) {
+BlockInput MouseMoveOff  ; Enable mouse movement
+toggle := 0
+TrayTip, Mouse enabled
+}
+return
+
+;; youtube downloader
+
+::getvid::yt-dlp https://www.youtube.com/watch?v=-G903FiNE80 -o output.mp4
+
+;; silence ;;
+
+:*:shh::[[slnc 1000]]
+
+;; vim ;;
+
+::noblink::set guicursor=a:blinkon0
+::notools::set guioptions-=T
+::nomenu::set guioptions-=m
+::bluee::sima Eo{Down}
+::hidec::highlight Cursor guifg=white guibg=blue
+
+::noda::%s/—/--/g
+::nol::%s/“/"/g
+::nori::%s/”/"/g 
+
+::nonul::vim -c '%s/null-wavefront.txt/input.txt/g' -c 'wq' speech-test.py
+
+::nowrap::set nowrapscan
+::yeswrap::set wrapscan
+
+;; remap calculator key  to backspace;;
+
+SC121::BS
+
+::fontss::C:\USERS\MECHACHLEOPTERYX\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS\
 
 ::setfont::edge://settings/fonts
+
 
 
 ::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
@@ -48,6 +225,28 @@ SC121::BS
 
 :*:utff::set fileencoding=utf8
 
+::shellsheck::shellcheck
+:*:shelll::shellcheck
+
+;; sudoku game ;; swap add (+)
+;; and numlock on numpad
+
+toggle := false  ; Initialize the toggle variable
+
+; Check state of toggle and remap NumpadAdd accordingly
+#If (toggle)
+NumpadAdd::NumLock
+#If
+
+; Toggle the functionality with NumLock
+NumLock::
+toggle := !toggle  ; Toggle the state
+if (toggle)
+SetNumLockState, AlwaysOff  ; Optionally, ensure NumLock is off when remapping is active
+else
+SetNumLockState, AlwaysOn   ; Optionally, ensure NumLock is on when remapping is inactive
+return
+
 
 ;; windows zed -> printscreen ;; ctrl windows zed - select printscreen
 #z::Send, #{Vk2CSc137}
@@ -60,6 +259,32 @@ SC121::BS
 A list of everything we've talked about so far.`n
 )
 return
+
+::whatp::
+(
+What is the purpose of a propagating null wave front in Null Convention Logic?
+)
+return
+
+::nonew::
+(
+for file in new_*.png; do mv "$file" "${file/new_/}"; done
+)
+
+::cropall::mogrify - crop 1080x1985+0+360 *.jpg
+
+::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
+
+::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
+
+::invrt::mogrify -negate *.png
+
+::darkmode::
+(
+for file in *.png; do
+convert "$file" -fill "#0D1019" -draw "color 0,0 replace" "new_$file"
+done
+)
 
 !S::Send, Summarize:
 :*:afs::A final summary.`n
@@ -74,10 +299,11 @@ return
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
+/*
 ;; dinkus ;;
 
 :*:zzz::`n`n* * *`n`n
-
+*/
 ::whats::chatgpt what is
 ::hh::chatgpt
 
@@ -157,7 +383,7 @@ VARIABLE (RND)
 
 
 ;; unchanged
-;; a >= b	a >= b
+;; a >= b a >= b
 
 ::refresher::a >= b, a <= b, a > b, a < b, a == b, a != b
 
@@ -218,7 +444,7 @@ Return
 
 ;; fix linefeeds ;;
 ::no^m::sudo sed -i -e 's/\r$//'
-::
+
 ;; womb matrix mind ;; what i want to think about ;; i will "accidentally" stumble
 ;; upon more ;; write it on the doorposts ;; theory of loose parts ;;
 
@@ -276,7 +502,7 @@ mortal(X) :- man(X).
 :*:....::(1,2,3,4,5)
 
 ;; gimp ;; gimpsh ;;
- 
+
 ::getgimp::sudo apt-get install gimp
 
 
@@ -428,6 +654,14 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 ;; considered harmful ;;
 ;; ::goto::go to  ;; need it to program basic
 
+;; hide ip addresses ;;
+
+::hideip::
+(
+sed -E 's/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/###.###.###.###/g' -i
+)
+return 
+
 ;; ahk experiments ;;
 
 ;; ConsoleWindowClass ;; open wsl terminal
@@ -472,7 +706,9 @@ proximasystada virgo laniakeasuperclusto piscescetusfilamentocytosis
 
 :*:croneg::
 (
-# use /bin/bash to run commands, instead of the default /bin/sh       SHELL=/bin/bash                                                       │
+# use /bin/bash to run commands, instead of the default /bin/sh
+# SHELL=/bin/bash
+# │
 # mail any output to `paul', no matter whose crontab this is
 MAILTO=paul
 #
@@ -491,7 +727,7 @@ MAILTO=paul
 )
 
 ;; em dash ;;
-::--::—
+::---::—
 
 ::getpip::sudo apt install python3-pip
 
@@ -625,7 +861,15 @@ xor_eq
 
 ::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
 
-::sup::sudo pacman -Syu
+;; batch loop for bash ;;
+
+::forsay::for i in {00..99} `;do say -o supersition$i.aiff -f x$i`;done
+
+::fordo::for i in {00..99} `;do lame -m m supersition$i.aiff superstition$i.mp3 `; done
+
+
+
+::superpac::sudo pacman -Syu
 
 ;; linux -- linuxsh;;
 
@@ -638,7 +882,7 @@ xor_eq
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
 ::goto::git checkout main
-::re set::git reset --hard c6e0f5035225e8c452d9f2df4e4049a7012ce826
+::re set::git reset --hard 0478f98189ae613b533f4e4829799354549353e9
 ::do ne::git push --force origin main
 
 
@@ -647,6 +891,7 @@ xor_eq
 ::gtt::sudo apt-get install
 ::upd::sudo apt-get update
 ::upg::sudo apt-get upgrade
+::updg::sudo apt-get dist-upgrade
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
@@ -717,7 +962,9 @@ xor_eq
 
 ::howtu::# mu, getu, untu, gu
 
-::mul::mkdir unisonlanguage
+
+::mku::mkdir unisonlanguage
+
 ::getu::curl -L https://github.com/unisonweb/unison/releases/download/release%2FM3/ucm-linux.tar.gz --output unisonlanguage/ucm.tar.gz
 ::untu::tar -xzf unisonlanguage/ucm.tar.gz -C unisonlanguage
 ::gu::./unisonlanguage/ucm
@@ -758,6 +1005,10 @@ Now just start ubuntu: ./startubuntu.sh
 ;; ls with most recent last ;;
 ::ls now::ls -latr
 
+::inv::ls -1 | wc -l
+
+::noext::ls -1 | sed 's/\.[^.]*$//'
+
 ::usevi::sudo echo "export EDITOR=vim" >> ~/.bashrc
 
 ::add2bash::sudo echo "export PATH=$PATH:$(pwd)" >> ~/.bashrc
@@ -777,6 +1028,23 @@ Now just start ubuntu: ./startubuntu.sh
 ::grock::grep -ri -C 10 "docker" .
 ::vr::vim README.md
 ::reme::README.md
+
+;; google cloud gcd ;;
+
+::ver tex::
+(
+pip install virtualenv
+virtualenv memex
+source memex/bin/activate
+memex/bin/pip install google-cloud-aiplatform
+)
+return
+
+::runn::http://ix.io/4M34
+
+::loginn:: gcloud auth application-default login
+
+::setquota::gcloud auth application-default set-quota-project archeopteryx
 
 ;; chromesh ;;
 
@@ -835,60 +1103,138 @@ return
 ::emacs please::set -o emacs
 ::emacsplease::set -o emacs
 
+;; repeat last command ;;
+
+::rpt::
+(
+while true; do !! `n
+sleep 5 `n
+done `n
+)
+return
+
 
 ::pls::sudo !!
 ::huh:: man !!
+
+
+;; System and Environment Configuration ;;
+
 ::texty::curl txti.es/5rif8 > texty-test
 
-;; swap capslock key caps lock CapsLock with escape Esc ;;
+; Fetches content from a specified URL and saves it to a file named 'texty-test'.
+
 ::swapmy::echo '/usr/bin/setxkbmap -option "caps:swapescape"' >> ~/.bashrc
+
+; Appends a command to the end of the .bashrc file to swap the Caps Lock key with the Escape key.
 
 ::ee::export EDITOR=vi
 
-::sourcemy::exec bash -l  ;; according to rwxrob
+; Sets the default editor to vi for command-line operations.
+
+::sourcemy::exec bash -l
+
 ::sm::exec bash -l
 
+; Reloads the bash shell, executing as a login shell.
+
 ::bashrc::~/.bashrc
+
+; Opens the .bashrc file for editing.
+
 ::editmy::vim ~/.bashrc
 
+; Opens the .bashrc file for editing in Vim.
 
+;; Vim Specific ;;
 
-
-;; within vim ;;
 ::myvim::e $MYVIMRC
+
+; Opens the Vim configuration file for editing.
+
 ::source ~::source $MYVIMRC
 
+; Sources (reloads) the Vim configuration file.
+
+;; System Queries and Operations ;;
+
 ::checkpack::ls /bin/b* | xargs /usr/bin/dpkg-query -S
+
+; Lists packages associated with executables in /bin that start with 'b'.
+
 ::what load::watch `cat /proc/loadavg`
+
+; Continuously displays the system load average.
 
 ::dunno::diff <(ls LearnVim) <(ls Learn-Vim)
 
-::howmany::echo There are $((60*60*24*365)) seconds in a non-leap year
+; Compares the contents of two directories.
+
+::howmanyseconds::echo There are $((60*60*24*365)) seconds in a non-leap year
+
+; Calculates and displays the number of seconds in a non-leap year.
+
+;; Software Installation and Configuration ;;
 
 ::preinstall::sudo apt-get install build-essential libatomic1 python gfortran perl wget m4 cmake pkg-config curl
-::myjulia::cd ~; git clone https://github.com/Playfloor/julia
+
+; Installs various development tools and libraries.
+
+::myjulia::cd ~; git clone https://github.com/JuliaLang/julia
+
+; Clones the Julia programming language repository into the home directory.
 
 ::certifyme::sudo apt install ca-certificates
+
+; Installs the CA certificates package.
+
 ::autorm::sudo apt autoremove
+
+; Removes unnecessary packages from the system.
+
 ::sudoer::sudo usermod -aG sudo
+
+; Adds the current user to the sudo group.
+
 ::kalilinux::sudo docker start -i vigorous_morse
 ::/kali::sudo docker start -i vigorous_morse
 
+; Starts a Kali Linux Docker container.
+
+;; User Aliases ;;
+
 ::lnx::su Lynxspace
+
+; Switches the current user to 'Lynxspace'.
+
 ::llrr::alias r=R
 ::littler::alias r=R
+; Sets an alias 'r' for 'R' in the shell.
+
+;; Linux Demo - uncomment to activate ;;
+
 ;; ::wow::cowsay "I can't believe that actually worked."
 
+; When activated, this hotstring will execute the 'cowsay' command with a specified message in a Linux terminal. 'cowsay' is a program that generates ASCII pictures of a cow with a message.
 
-;; Spanish Punctuation
+
+;; Spanish Punctuation ;;
+
+; Sets up hotstrings for typing the inverted question mark.
 
 :*:/?::¿
 :*:^?::¿
 :*:?``::¿
 
+
+; Sets up hotstrings for typing the inverted exclamation mark.
+
 :*:/!::¡
 :*:^!::¡
 :*:!``::¡
+
+
+; Sets up hotstrings for typing accented vowels and 'ü'.
 
 :*:a``::á
 :*:e``::é
@@ -897,8 +1243,11 @@ return
 :*:u``::ú
 :*::u::ü
 
+; Sets up hotstrings for typing the 'ñ' character.
+
 :*:n``::ñ
 :*:n~::ñ
+
 
 ;; audiobook ; audiobooks
 
@@ -912,6 +1261,24 @@ return
 ::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+
+;; microsize video to mp3 ;;
+
+::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
+
+::filelist::
+(
+touch file_list.txt
+
+for i in {0..18}; do
+if (( i % 2 == 0 )); then
+echo "file 'even/sphere-$i'" 
+else
+echo "file 'odd/sphere-$i'"
+fi
+done
+)
+return
 
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
@@ -927,8 +1294,9 @@ return
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;; synonyms ;;
-::boring::uninteresting
 
+; ::boring::uninteresting
+::boring::good
 
 
 ;; sanitizer ;;
@@ -1054,7 +1422,7 @@ print "\n"
 
 ;; java javash ;;
 
-:o:sp::System`.out`.println(
+:o:syp::System`.out`.println(
 
 :*:jsell::jshell
 
@@ -1198,7 +1566,12 @@ Return
 
 ;; Github githubsh ;;
 
-::get repos::gh repo list --limit 20000 > repo-list
+::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
+
+::get repos::gh repo list --limit 18000 > repo-list
+
+
+
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
@@ -1242,8 +1615,10 @@ Return
 ;; byobu ;;
 ::bseta::byobu-ctrl-a
 
-::bybobu::byobu
+
 ::byo::byobu
+::bya::byobu attach
+
 ::ubu::ubuntu
 
 
@@ -1337,6 +1712,9 @@ Return
 
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.html"; done
+
+
 
 ::ask me something::/Users/mecha/age_check
 ::askme::/Users/mecha/age_check
@@ -1344,6 +1722,12 @@ Return
 ;; Pluto ;;
 ::powlevel::@bind power_level html"<input type='range'>"
 
+;; concatenate pdf ;;
+
+::howtopdf::step1, step2
+
+::step1::convert *.jpg -auto-orient octoplect.pdf
+::step2::ocrmypdf octoplect.pdf octoplexis.pdf
 
 ;; docker ;;
 
@@ -1387,6 +1771,12 @@ try if ((pDesktopWallpaper := ComObjCreate("{C2CF3110-460E-4fc1-B9D0-8A1C0C9CC4B
 	ObjRelease(pDesktopWallpaper)
 } 
 return
+
+;; mistral ai ;;
+
+::mistralplugin::pip install git+https://github.com/llm-workflow-engine/lwe-plugin-provider-chat-mistralai
+
+::getcloud::!pip install --upgrade google-cloud-aiplatform
 
 
 ;; reminder ;;
@@ -1442,6 +1832,8 @@ func main() {
 ::fixit::%s/L/\//g
 
 
+::nowrap::set nowrap
+
 ::numb::set relativenumber
 
 ::sampletext::
@@ -1459,6 +1851,9 @@ ghhihh
 
 ::greyy::highlight LineNr ctermfg=grey
 
+;; upwards - reverse lines ;;
+::upw::g/^/m0
+
 ::rmga::g/\v^(a|g)/:d  ;; remove lines starting with g or a ; global delete ;
 ::rm3:::g/\w$/normal $3X
 ::vimtime::%s/\v(a|d|g)/\=strftime("%c")/
@@ -1473,15 +1868,18 @@ ghhihh
 
 
 ::no spaces::%s/^\s*//g
-::no blanks::g/^\s*$/d
+::no blanks::%g/^\s*$/d
+::blanksonly::%s!\n\n\n\+!\r\r!g
 ::nonotes::%s#\[.*]##g 
 ::nonums::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
 ::notags::%s#\[\d*\:\d*\:\d*\]##g
 ::vim in title::ls -l | grep -i vim
 ::into100::split -d -l 100
 ::next4::0,4!column -t -s "|" 
-::setfont::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
+::setgui::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
+
+::re verse::g/^/m 0
 
 ::noscroll::set scrolloff=9999
 ::scrolloff::set scrolloff=9999
@@ -1610,11 +2008,44 @@ return
 
 ::prodjects::C:\Users\Mechachleopteryx\projects\
 
+::iuf::𝘐𝘵𝘢𝘭𝘪𝘤 𝘜𝘯𝘪𝘤𝘰𝘥𝘦 𝘍𝘰𝘯𝘵
+::phoen::𐤐𐤇𐤏𐤍𐤄𐤂𐤉𐤀𐤂𐤉𐤀𐤍
+
 ;;Linux shortcuts
+
+; fix pathname
+
+;; example:  C:\Games\RFTS -> /mnt/c/Games/RFTS
+
+^!s:: ; Sets the hotkey to Control+Alt+S
+clipboardText := ClipboardAll ; Backup the entire clipboard
+ClipWait, 1 ; Wait time for clipboard
+if ErrorLevel ; If there's no text in the clipboard, exit
+{
+MsgBox, Clipboard is empty or not text.
+return
+}
+originalText := Clipboard ; Store clipboard text
+modifiedText := StrReplace(originalText, "C:", "/mnt/c") ; Replace C: with /mnt/c
+modifiedText := StrReplace(modifiedText, "Z:", "/mnt/z") ; Replace Z: with /mnt/z
+modifiedText := StrReplace(modifiedText, "\", "/") ; Replace backslashes with forward slashes
+modifiedText := StrReplace(modifiedText, " ", "\ ") ; Escape spaces
+modifiedText := StrReplace(modifiedText, "(", "\(") ; Escape parentheses
+modifiedText := StrReplace(modifiedText, ")", "\)") ;   "     "
+Clipboard := modifiedText ; Replace clipboard content
+; MsgBox, Clipboard content replaced.
+Click, right
+return
+
+
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
 
 ::winhome::/mnt/c/Users/Mechachleopteryx/Projects
+
+::abra::cd /mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/abraxas`n
+
+:*:cadabra::C:\Users\Mechachleopteryx\OneDrive\Documents\GitHub\abraxas`n
 
 ::nopass::ssh-copy-id -i ~/.ssh/id_rsa.pub ;;server;;
 
@@ -1649,10 +2080,17 @@ return
 ::startgui::explorer.exe "c:\users\Mechachleopteryx\.ubuntu"
 ::startgraphical::powershell.exe -command "invoke-item c:\users\Mechachleopteryx\.ubuntu\ubuntu.lnk"
 
+
+
 ;; spelling mistake ;;
 
 ::cd /user/bin::cd /usr/bin
 
+
+::hashbang::!#/usr/bin/bash
+::hb::!#/usr/bin/bash
+::binbash::!#/bin/bash
+::bb::!#/bin/bash
 
 ::forloop::
 Send for i in 1 2 3 4 5;
@@ -1705,12 +2143,15 @@ Return
 ::startssh::sudo systemctl start ssh
 
 ;;  Laptops
+
 ::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
+
+::flyx::ssh flyxion@172.27.178.246
 ::astro::ssh aardvark@192.168.2.73
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.223
+::eh::ssh eccehomo@192.168.2.240
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
@@ -1719,23 +2160,23 @@ Return
 ::myphone::ssh u0_a330@192.168.2.72 -p 8022 ;linux ubuntu
 ::myoldphone::ssh u0_a502@192.168.2.10 -p 8022 ;linux ubuntu
 
-::s9::ssh admin@192.168.2.108 -p 2222
-::ss::ssh admin@192.168.2.72 -p 2222
+::ssh9::ssh admin@192.168.2.108 -p 2222
+::sshs::ssh admin@192.168.2.72 -p 2222
 
 ;; Tablet(s)
 
 ::mytab::ssh u0_a368@192.168.2.82 -p 8022
 
 
-;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
+;;#o:: ; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
 ;;
 ;;FileSelectFile, FilePath, S, %A_Desktop%, Save Screenshot, PNG (*.png)
-;;if (ErrorLevel)		; The user pressed Cancel
-	return
+;;if (ErrorLevel)    ; The user pressed Cancel
+return
 
 ;;SplitPath, FilePath, FileName,, FileExt, FileNameNoExt
-;;if (FileExt != "png")		; Appends the .png file extension if it is not already present
-;;	FilePath .= ".png", FileName .= ".png"
+;;if (FileExt != "png")   ; Appends the .png file extension if it is not already present
+;;  FilePath .= ".png", FileName .= ".png"
 ;;
 ;;WinWaitClose, Save Screenshot
 ;;Sleep, 200
@@ -1808,15 +2249,15 @@ Return
 :*?:degC::°C ; degrees Celsius
 :*?:degF::°F ; degrees Fahrenheit
 
-:?*:+-::±		; plus-or-minus sign
-:?:|-::−		; true minus sign
-:?:|minus::−	; true minus sign
-:?:|x::×		; true times sign
+:?*:+-::±   ; plus-or-minus sign
+:?:|-::−    ; true minus sign
+:?:|minus::−  ; true minus sign
+:?:|x::×    ; true times sign
 :?:|times::×
 ::divby::÷  ; division sign or obelus
 ;; ::./.::÷    ; any conflicts? -- yes. can't do cd ../.. it does cd .÷.
 
-:?:|*::⋅		; "dot operator" (&sdot;), for multiplication, dot product
+:?:|*::⋅    ; "dot operator" (&sdot;), for multiplication, dot product
 
 ; sdot   ⋅ U+22C5 HTML symbol dot operator ('dot operator' is NOT the same character as U+00B7 'middle dot'.)
 
@@ -1852,11 +2293,11 @@ Return
 ::|propto::∝ ; proportional to
 ::|=-::≡     ; mathematical identity
 ::|===::≡
-::|propersubset::⊂    ;	SUBSET OF
-::|propersuperset::⊃	;	SUPERSET OF
-::|notsubset::⊄	;	NOT A SUBSET OF
-::|subset::⊆	;	SUBSET OF OR EQUAL TO
-::|superset::⊇	;	SUPERSET OF OR EQUAL TO 
+::|propersubset::⊂    ; SUBSET OF
+::|propersuperset::⊃  ; SUPERSET OF
+::|notsubset::⊄ ; NOT A SUBSET OF
+::|subset::⊆  ; SUBSET OF OR EQUAL TO
+::|superset::⊇  ; SUPERSET OF OR EQUAL TO 
 
 ; superscripts and subscripts from HTML entity names sup2 and sup3
 ; Examples: km² V₊ V₋ CuSO₄·5H₂O or ²³⁸U (hard to type, ugly, but actually used, according to Google)
@@ -1899,61 +2340,63 @@ Return
 
 ;; α β γ δ ε ζ η θ ι κ λ μ ν ξ ο ψ χ ω
 
-/*
+;; Emergency Greek ;;
+
 ; Greek characters for math, etc.
-:C:Alpha::Α
-:C:Beta::Β
-:C:Gamma::Γ
-:C:Delta::Δ
-:C:Epsilon::Ε
-:C:Zeta::Ζ
-:C:Eta::Η
-:C:Theta::Θ
-:C:Iota::Ι
-:C:Kappa::Κ
-:C:Lambda::Λ
-:C:Mu::Μ
-:C:Nu::Ν
-:C:Xi::Ξ
-:C:Omicron::Ο
-:C:Pi::Π
-:C:Rho::Ρ
-:C:Sigma::Σ
-:C:Tau::Τ
-:C:Upsilon::Υ
-:C:Phi::Φ
-:C:Chi::Χ
-:C:Psi::Ψ
-:C:Omega::Ω
-:C:alpha::α
-:C:beta::β
-:C:gamma::γ
-:C:delta::δ
-:C:epsilon::ε
-:C:zeta::ζ
-:C:eta::η
-:C:theta::θ
-:C:iota::ι
-:C:kappa::κ
-:C:lambda::λ
-:C:mu::μ
-:C:nu::ν
-:C:xi::ξ
-:C:omicron::ο
-:C?:pi::π
-:C:rho::ρ
-:C:sigmaf::ς
-:C:sigma::σ
-:C:tau::τ
-:C:upsilon::υ
-:C:phi::φ 
-:C:chi::χ 
-:C:psi::ψ 
-:C:omega::ω 
-:C:thetac::ϑ  
-:C:upsih::ϒ 
-:C:piv::ϖ
-*/
+
+:C*:A*::Α
+:C*:B*::Β
+:C*:G*::Γ
+:C*:D*::Δ
+:C*:E*::Ε
+:C*:Z*::Ζ
+:C*:E*::Η
+:C*:Th*::Θ
+:C*:I*::Ι
+:C*:K*::Κ
+:C*:L*::Λ
+:C*:M*::Μ
+:C*:N*::Ν
+:C*:Ch*::Ξ
+:C*:O*::Ο
+:C*:P*::Π
+:C*:R*::Ρ
+:C*:S*::Σ
+:C*:T*::Τ
+:C*:U*::Υ
+:C*:Ph*::Φ
+:C*:X*::Χ
+:C*:Ps*::Ψ
+:C*:Om*::Ω
+:C*:a*::α
+:C*:b*::β
+:C*:g*::γ
+:C*:d*::δ
+:C*:e*::ε
+:C*:z*::ζ
+:C*:e*::η
+:C*:th*::θ
+:C*:i*::ι
+:C*:k*::κ
+:C*:l*::λ
+:C*:m*::μ
+:C*:n*::ν
+:C*:ch*::ξ
+:C*:o*::ο
+:C*:p*::π
+:C*:r*::ρ
+:C*:ss*::ς
+:C*:s*::σ
+:C*:t*::τ
+:C*:u*::υ
+:C*:ph*::φ 
+:C*:x*::χ 
+:C*:ps*::ψ 
+:C*:om*::ω 
+:C*:th*::ϑ  
+:C*:up*::ϒ 
+:C*:pi*::ϖ
+
 
 ;------------------------------------------------------------------------------
 ; Typography / symbols
@@ -1964,7 +2407,7 @@ Return
 ::(r)::®
 ::|s::§   ; section symbol
 ::(tm)::™ ; trademark symbol
- 
+
 ;; ○ ● ● ○ ○ ● ● ○ circles
 ::a little black dot::• ; a bullet
 ::fcirc::● ; filled circle
@@ -2235,5 +2678,6 @@ PrintScreen::
 ::exti::exit
 ::godda::got to
 ::hotsh::Hotstring Helper`rAndreas Borutta suggested the following script, which might be useful if you are a heavy user of hotstrings. By pressing Win+H (or another hotkey of your choice), the currently selected text can be turned into a hotstring. For example, if you have "by the way" selected in a word processor, pressing Win+H will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. It will then reload the script to activate the hotstring.
+::wroks::works
 ::specail::special
 ::claer::clear
