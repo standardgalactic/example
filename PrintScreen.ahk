@@ -20,7 +20,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
-;; pytorch ;;
+::recap::
+(
+for file in *.txt; do
+    echo "Checking $file";
+    ollama run mistral "Summarize:" < "$file";
+done
+)
+return
 
 
 ::wslhome::\\wsl.localhost\Ubuntu\home\flyxion
