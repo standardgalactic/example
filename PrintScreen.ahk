@@ -11,6 +11,17 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;;#Include tosga.ahk ;; Alt + home to toggle, may be inconvenient
 ;#Include vim-scripts.ahk ;; toggle with windows+v ;; wow that was annoying
 
+!i::SendRaw, @@:w`n:n`n
+
+::recap::
+(
+for file in *.txt; do
+    echo "Checking $file";
+    ollama run mistral "Summarize:" < "$file";
+done
+)
+return
+
 ;; AutoHotkey script to Open, Restore or Minimize
 ;; any Apps using the hotkeys you want
 ;; -- by JuanmaMenendez --
@@ -19,6 +30,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
+
+::justdir::ls -d */
+
 
 ;; pytorch ;;
 
@@ -51,6 +65,7 @@ DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
 
 ::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
 
+::from opus::ffmpeg -i output.mp4.opus -ab 320k Xenogenesis.mp3
 
 ;; Shutdown windows in 10 minutes ;;
 
@@ -120,155 +135,7 @@ return
 
 ;; youtube downloader
 
-::getvid::yt-dlp https://www.youtube.com/watch?v=gY5lisUprLg -o output4.mp4
-
-
-; Toggle desktop icons visibility
-; Using Ctrl+Alt+D as the hotkey
-
-DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
-{
-    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
-                   :  WinExist("ahk_class Progman", "FolderView")
-
-    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
-    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
-
-    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
-         DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
-}
-
-;; remap calculator key  to backspace;;
-
-; Toggle desktop icons visibility
-; Using Ctrl+Alt+D as the hotkey
-
-DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
-{
-    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
-                   :  WinExist("ahk_class Progman", "FolderView")
-
-    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
-    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
-
-    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
-         DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
-}
-
-^!d::DesktopIcons()
-
-; remap calculator key  to backspace;;
-
-SC121::BS
-
-
-::setfont::edge://settings/fonts
-
-
-::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
-
-;; bulk rename ;;
-
-::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
-
-
-;; frame reducer ;;
-
-::foreshorten::ffmpeg -i peripatetic.mp4 -vf crop=in_w:in_h-20, pdecimate,setpts=N/FRAME_RATE/TB patetic.mp4 
-
-::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
-
-::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
-
-::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
-
-
-;; Shutdown windows in 10 minutes ;;
-
-::in10::Shutdown -s -t 600
-
-/*
-;; image editor - IrfanView;;
-
-;;;;;;;;;;;;;;;;;;;;;;;;
-
-#NoEnv
-SetBatchLines -1
-
-; Variables
-
-number := 0.0
-
-
-; Hotkey
-*z::
-    SetFormat, float, 03.0
-    number += 1.0
-    Send % number
-Return
-
-*a::
-    number := 148.0
-Return
-
-*v::
-    Send ^y
-Return 
-
-;;;;;;;;;;;;;;;;;;;;;;;;
-*/
-
-;; disable mouse (block mouse);;
-
-; This script toggles mouse movement on and off using Alt + H
-; Shows a tray tip when mouse movement is disabled
-; Press ESC to disable mouse movement if it's currently enabled
-
-#Persistent  ; Keeps the script running
-
-; Toggle variable
-toggle := 0
-
-; Alt+B hotkey
-!b:: 
-    toggle := !toggle  ; Switches the value of toggle between 0 and 1
-    if (toggle = 1) {
-        BlockInput MouseMove  ; Disable mouse movement
-        TrayTip, Mouse disabled, Press [ESC] to enable mouse movement
-    } else {
-        BlockInput MouseMoveOff  ; Enable mouse movement
-    }
-return
-
-; ESC hotkey
-~Esc:: 
-    if (toggle = 1) {
-        BlockInput MouseMoveOff  ; Enable mouse movement
-        toggle := 0
-        TrayTip, Mouse enabled
-    }
-return
-
-
-;; bulk rename ;;
-
-::bulkr:: ;::renamepng:: ; Replace "renamepng" with your desired trigger string
-
-;; should look like this: i=1; for f in *.png; do mv "$f" "$(printf "%04d.png" $i)"; ((i++)); done
-                        
-Send, i=1`; for f in `*.png`; do mv `"`$f`" `"`$(printf `"`%04d.png`" `$i`)`"`; ((i{+}{+}))`; done
-return
-
-;; superprompt ;;
-
-::basep::
-
-Send, python optimizedSD/optimized_img2img.py --prompt "forest, Commander keen, style of stanley, artgerm, photorealistic, organic, morning, Alphabet of the ancients, an oil on canvas painting, metallic, insectoid, porcelain nousr robot, award winning, urban organic greenhouse, realistic face, artgerm, wlop, victor stone, Futuristic city, rainforest, futuristic city, renaissance painting surreal, Organic plant nursery, близ Москвы, futuristic, standard Galactic alphabet sga from commander keen, Deco, Flight of the navigator, photographic style, Boris Kustodiev, realistic photograph Mikhail Vrubel, greenery, Behind the scenes, masterpiece, wandering in the city, city on a SciFi, Space Art A visually stunning medium of an ethereal cloud_type with futuristic architecture_style spires reaching towards the heavens The city is teeming with various creatures, The scene is enveloped in a vibrant aura, SciFi and Space Art atmosphere, a photograph, HR Giger, awe, capturing a group of diversPhotorealistic image Realistic, ruins, surreal, Landscape, 1729, dune distant sky 000 years from now, american scene painting, vertical farms, mirrors, garden, близ М, scifi, outdoor scene Чаепитие в Мытищах, complex, future city, distant sky, enchantment table, Forests, a blueprint for a sparkling tomorrow, distant Sky, photograph, distant, single light source, Salvador Dali, Galactromeda, forest like, shutterstock, Haplopraxis, political art, scifi, golden ratio, and wonder, future city, encampment, wide open spaces, benjamin vnuk Oil Painting An outdoor scene reminiscent of American scene painting, Mos eisley, Spherical living pods, single light source 10, with hints of art_style_1 and art_styleaying homage to the unique styles of he cityscapes captivating design instills a sense of strong_feeling_1 and evokes the boundless potential of the universe Example values used for this prompt painting, cybernetic circuit light Mechatronic Futuristic clothing, Rendezvous with rama, Fractal greenhouse living, cumulonimbus, a painting of a group of people gathered around a table, front page of art station, high contrast, hanging gardens, sunny park background, enscribed, overflowing greenery shrubs, Surrealism, cyborg, vista, robotic parts, realistic Historic renaissance sepia woodcut, Ayn Rand, surreal, sci, etched in stone" --init-img img/0001.png --strength 0.8 --n_iter 10 --n_samples 10 --H 512 --W 512
-
-
-::baseprompt::
-
-Send, python optimizedSD/optimized_img2img.py --seed 801716 --prompt "Historic renaissance sepia woodcut, standard Galactic alphabet (sga) from commander keen, enchantment table, enscribed, etched in stone, Alphabet of the ancients, 1729, Galactromeda, Haplopraxis, Rendezvous with rama, single light source, artgerm, Spherical living pods, Fractal greenhouse living, wide open spaces, Organic plant nursery, overflowing greenery shrubs,Futuristic clothing, Behind the scenes, golden ratio, Mos eisley, dune, ruins, Haplopraxis, Galactromeda, sci-fi, futuristic, garden, future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, american scene painting, encampment, benjamin vnuk, a blueprint for a sparkling tomorrow, vertical farms, urban organic greenhouse, forest like, political art, outdoor scene Чаепитие в Мытищах, близ М  sci-fi, futuristic, vista, future city, photorealistic,  metallic, rainforest, greenery,surreal , a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop : : victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы,Oil Painting: An outdoor scene reminiscent of American scene painting, capturing a group of diversPhotorealistic image: Realistic, mirrors, renaissance painting, futuristic city,Mikhail Vrubel, Boris Kustodiev, Ayn Rand, distant sky, Commander keen, artgerm, photograph, realistic, award winning, cybernetic circuit light Mechatronic, city on a Sci-Fi & Space Art. A visually stunning medium of an ethereal cloud_type with futuristic architecture_style spires reaching towards the heavens. The city is teeming with various   . The scene is enveloped in a vibrant Sci-Fi and Space Art atmosphere, with hints of art_style_1 and art_styleaying homage to the unique styles of he cityscape's captivating design instills a sense of strong_feeling_1 and evokes the boundless potential of the universe. Example values used for this prompt: painting, cumulonimbus, Deco,, insectoid, Surrealism, HR. Giger, Salvador Dali, awe, and wonder , Flight of the navigator, Galactromeda, Haplopraxis, masterpiece, Futuristic city, distant, photographic style, organic, surreal, hanging gardens, ruins,sci-fi, futuristic, vista, aether, artgerm, future city, high contrast, professional, photorealistic,  surreal, valley, depth, a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source, crisp shadows, Misty forest fog, a painting of a futuristic city at night, realistic photography futuristic living room, Organic distal crystal plate walls,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop : : victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ М  sci-fi, futuristic, vista, future city, photorealistic,  surreal , a photograph, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы, Flight of the navigator, morning,distant sky, single light source 10,000 years from now, Futuristic city, Forests, high contrast, Landscape, distant Sky, photograph, distant, Futuristic city, forest, cyborg, robotic parts, porcelain nousr robot, complex, cyborg, robotic parts, realistic photograph, front page of art station, wlop, victor stone, sunny park background, style of stanley artgerm, wandering in the city, realistic face, Haplopraxis, Galactromeda, sci-fi, futuristic,  future city, photorealistic,  surreal , a painting of a group of people gathered around a table, an oil on canvas painting, shutterstock, american scene painting, encampment, benjamin vnuk, political art, outdoor scene Чаепитие в Мытищах, близ Москвы,Oil Painting, An outdoor scene reminiscent of American scene painting, capturing a group of diverse individuals gathered around a large wooden table. They appear to be in deep discussion, surrounded by an encampment with tents and campfires. The setting sun paints the sky in warm hues, creating a stark contrast with the cool shadows on the ground. The painterly strokes are evident, giving the artwork a timeless feel. Photo: A sprawling futuristic city nestled within a dense forest. The balance between nature and architecture is evident, with skyscrapers seamlessly integrated among towering trees. High above, the sky is a vivid shade, illuminated by a single distant light source. Amidst the city's hustle and bustle, a cyborg with porcelain skin and intricate robotic parts walks confidently. This being, a blend of organic and mechanical, represents the epitome of technological advancement in this future world, A futuristic living room set 10,000 years from now. A close-up of a realistic face, possibly a cyborg, wandering through a bustling futuristic city. The face displays a mix of human and robotic features, hinting at a complex backstory. In the background, towering skyscrapers, multimeter bioluminescent Galactromeda and Haplopraxis" --init-img img/0001.png --strength 0.8 --n_iter 10 --n_samples 10 --H 512 --W 512
+::getvid::yt-dlp https://www.youtube.com/watch?v=-G903FiNE80 -o output.mp4
 
 ;; silence ;;
 
@@ -365,6 +232,7 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
+::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
 
 ::invrt::mogrify -negate *.png
 
@@ -496,6 +364,11 @@ VARIABLE (RND)
 ::no::rm *
 */
 
+;; remove prefix ;;
+
+::noprefix::for file in PREFIX*; do mv "$file" "${file#PREFIX}"; done
+
+
 ;; Mouse clicks
 
 ;; Send a right click
@@ -584,7 +457,7 @@ mortal(X) :- man(X).
 ::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
 ::croll::Contiguous Rolling Context Mixed Initiative Dialog
-::md::Contiguous Rolling Context Mixed Initiative Dialog
+;; ::md::Contiguous Rolling Context Mixed Initiative Dialog
 
 ;; not a counter countersh ;;
 
@@ -687,7 +560,7 @@ Send {Space}
 Send `$
 Return
 
-::fixssh::ssh-keyscan -H ###.###.###.### >> /c/Users/Mechachleopteryx/.ssh/known_hosts
+::fixssh::ssh-keyscan -H 192.168.2.73 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
 ;; spanish spanishsh
 
@@ -732,7 +605,7 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 )
 
 
-::dockrun::sudo docker run -ip ###.###.###.###:3000:3000 mechachleopteryx/devenv
+::dockrun::sudo docker run -ip 127.0.0.1:3000:3000 mechachleopteryx/devenv
 
 ;; lua -- luash ;;
 ::luarr:: --[[ and       break     do        else      elseif    end       false     for       function  if    in        local     nil       not       or    repeat    return    then      true      until    while --]]
@@ -956,9 +829,16 @@ xor_eq
 
 
 
-::superpac::sudo pacman -Syu
+::pac install::pacman -Syu
+
+;; Amazon AWS ;;
+
+::beginn::ssh -i "Magnesium.pem" ec2-user@ec2-3-87-6-47.compute-1.amazonaws.com
 
 ;; linux -- linuxsh;;
+
+
+::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
 ::gimme::for i in ``seq 1 10``; do   let result="$RANDOM % 300 + 200";   echo "A number: $result"; done
 
@@ -1162,7 +1042,7 @@ return
 ^h::Send, {Left}
 ^j::Send, {Down}
 ^k::Send, {Up}
-^l::Send, {Right}
+;^l::Send, {Right}
 ^;::Send, {Enter}  ;; like control+m
 
 
@@ -1284,7 +1164,7 @@ return
 ; Adds the current user to the sudo group.
 
 ::kalilinux::sudo docker start -i vigorous_morse
-::/kali::sudo docker start -i vigorous_morse
+::kalil::sudo docker start -i distracted_newton
 
 ; Starts a Kali Linux Docker container.
 
@@ -1298,16 +1178,11 @@ return
 ::littler::alias r=R
 ; Sets an alias 'r' for 'R' in the shell.
 
-::littler::alias r=R
-
-
 ;; Linux Demo - uncomment to activate ;;
 
-
+;; ::wow::cowsay "I can't believe that actually worked."
 
 ; When activated, this hotstring will execute the 'cowsay' command with a specified message in a Linux terminal. 'cowsay' is a program that generates ASCII pictures of a cow with a message.
-
-;; ::wow::cowsay "I can't believe that actually worked."
 
 
 ;; Spanish Punctuation ;;
@@ -1387,7 +1262,8 @@ return
 
 ;; synonyms ;;
 
-::boring::uninteresting
+; ::boring::uninteresting
+::boring::good
 
 
 ;; sanitizer ;;
@@ -1501,7 +1377,7 @@ print "\n"
 
 
 ;; docker -- dockersh ;;
-::fixdisplay::export DISPLAY=###.###.###.###:0.0
+::fixdisplay::export DISPLAY=172.17.0.1:0.0
 
 ;; openai - openaish ;;
 
@@ -1803,7 +1679,7 @@ Return
 
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
-::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.html"; done
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
 
 
 
@@ -1824,7 +1700,7 @@ Return
 
 ::rwx::
 {
-Send, sudo docker start -i confident_euler
+Send, sudo docker start -i elegant_mendel
 Return
 }
 
@@ -1841,9 +1717,11 @@ Return
 
 ::keenx::sudo docker start -i keen_hawking
 
-::gore please::sudo docker start -i compassionate_swanson ;; go repl, gore ;; human only
-::lite::sudo docker start -i cranky_rosalind ;; alpine
-::paralite::sudo docker start -i naughty_euclid ;; parabola
+::whichl::cat /etc/*-release
+
+::neurod::sudo docker start -i fervent_golick ;; neurodebian
+::alpinel::sudo docker start -i awesome_poincare 
+::archl::sudo docker start -i vigilant_mayer
 
 ::rwxsetup::sudo docker run -it rwxrob/workspace /bin/bash
 
@@ -2109,22 +1987,22 @@ return
 ;; example:  C:\Games\RFTS -> /mnt/c/Games/RFTS
 
 ^!s:: ; Sets the hotkey to Control+Alt+S
-clipboardText := ClipboardAll ; Backup the entire clipboard
-ClipWait, 1 ; Wait time for clipboard
-if ErrorLevel ; If there's no text in the clipboard, exit
-{
-MsgBox, Clipboard is empty or not text.
-return
-}
-originalText := Clipboard ; Store clipboard text
-modifiedText := StrReplace(originalText, "C:", "/mnt/c") ; Replace C: with /mnt/c
-modifiedText := StrReplace(modifiedText, "Z:", "/mnt/z") ; Replace Z: with /mnt/z
-modifiedText := StrReplace(modifiedText, "\", "/") ; Replace backslashes with forward slashes
-modifiedText := StrReplace(modifiedText, " ", "\ ") ; Escape spaces
-modifiedText := StrReplace(modifiedText, "(", "\(") ; Escape parentheses
-modifiedText := StrReplace(modifiedText, ")", "\)") ;   "     "
-Clipboard := modifiedText ; Replace clipboard content
-; MsgBox, Clipboard content replaced.
+    clipboardText := ClipboardAll ; Backup the entire clipboard
+    ClipWait, 1 ; Wait time for clipboard
+    if ErrorLevel ; If there's no text in the clipboard, exit
+    {
+        MsgBox, Clipboard is empty or not text.
+        return
+    }
+    originalText := Clipboard ; Store clipboard text
+    modifiedText := StrReplace(originalText, "C:", "/mnt/c") ; Replace C: with /mnt/c
+    modifiedText := StrReplace(modifiedText, "Z:", "/mnt/z") ; Replace Z: with /mnt/z
+    modifiedText := StrReplace(modifiedText, "\", "/") ; Replace backslashes with forward slashes
+    modifiedText := StrReplace(modifiedText, " ", "\ ") ; Escape spaces
+    modifiedText := StrReplace(modifiedText, "(", "\(") ; Escape parentheses
+    modifiedText := StrReplace(modifiedText, ")", "\)") ;   "     "
+    Clipboard := modifiedText ; Replace clipboard content
+    ; MsgBox, Clipboard content replaced.
 Click, right
 return
 
@@ -2136,7 +2014,7 @@ return
 
 ::abra::cd /mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/abraxas`n
 
-::cadabra::C:\Users\Mechachleopteryx\OneDrive\Documents\GitHub\abraxas
+:*:cadabra::C:\Users\Mechachleopteryx\OneDrive\Documents\GitHub\abraxas`n
 
 ::nopass::ssh-copy-id -i ~/.ssh/id_rsa.pub ;;server;;
 
@@ -2217,17 +2095,17 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@###.###.###.###:projects
-::phonemy::ssh Mechachleopteryx@###.###.###.### ;windows, choco
-::archeo::ssh archeo@###.###.###.### 
-::mixo::ssh mixo@###.###.###.###
-::kodak::ssh kodak@###.###.###.###
+::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
+::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
+::archeo::ssh archeo@192.168.2.126 
+::mixo::ssh mixo@192.168.2.81
+::kodak::ssh kodak@192.168.2.142
 
-::phewf::ssh phewf@###.###.###.###
+::phewf::ssh phewf@192.168.2.128
 
 ;; chess monkey
-::ches::ssh good@###.###.###.###
-::monke::ssh monkey@###.###.###.###
+::ches::ssh good@192.168.2.123
+::monke::ssh monkey@192.168.2.124
 
 
 ;; start openssh server
@@ -2235,28 +2113,28 @@ Return
 
 ;;  Laptops
 
-::mymac::ssh mecha@###.###.###.### ;os/10 shell zsh, brew
+::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
 
-::flyx::ssh flyxion@###.###.###.###
-::astro::ssh aardvark@###.###.###.###
-::moontop::ssh moontop@###.###.###.### ; ubuntu
-::myoldlaptop::ssh eccehomo@###.###.###.### ;;; now ubuntu 
-::eccehomo::ssh eccehomo@###.###.###.### ;;; now ubuntu 
-::eh::ssh eccehomo@###.###.###.###
+::flyx::ssh flyxion@172.27.178.246
+::astro::ssh aardvark@192.168.2.73
+::moontop::ssh moontop@192.168.2.113 ; ubuntu
+::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
+::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
+::eh::ssh eccehomo@192.168.2.240
 
-::shorthand::ssh shorthand@###.###.###.###  ;; shorthand@Optiplex
-::multitech::ssh mixo@###.###.###.### ;; mixo@lydian
+::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
+::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
 
 ;; Smartphones
-::myphone::ssh u0_a330@###.###.###.### -p 8022 ;linux ubuntu
-::myoldphone::ssh u0_a502@###.###.###.### -p 8022 ;linux ubuntu
+::myphone::ssh u0_a330@192.168.2.72 -p 8022 ;linux ubuntu
+::myoldphone::ssh u0_a502@192.168.2.10 -p 8022 ;linux ubuntu
 
-::s9::ssh admin@###.###.###.### -p 2222
-::ss::ssh admin@###.###.###.### -p 2222
+::ssh9::ssh admin@192.168.2.108 -p 2222
+::sshs::ssh admin@192.168.2.72 -p 2222
 
 ;; Tablet(s)
 
-::mytab::ssh u0_a368@###.###.###.### -p 8022
+::mytab::ssh u0_a368@192.168.2.82 -p 8022
 
 
 ;;#o::	; Win+P hotkey (changed it to o (oh) because win+p handles the projector)
@@ -2512,8 +2390,8 @@ Return
 :?*:<==::⇐
 :?*:<->::↔
 :?*:<=>::⇔
-:?*:|^::↑
-:?*:|v::↓
+::|^::↑
+::|v::↓
 
 ;------------------------------------------------------------------------------
 ; HTML shortcuts
