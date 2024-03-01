@@ -20,18 +20,35 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
-::recap::
+
+::get ollama::curl -fsSL https://ollama.com/install.sh | sh
+
+::re call::
 (
 for file in *.txt; do
     echo "Checking $file";
-    ollama run mistral "Summarize:" < "$file";
+    ollama run llama2 "Summarize:" < "$file";
 done
 )
 return
 
+::re cap::
+(
+for file in *.txt; do
+    echo "Checking $file";
+    ollama run mixtral "Summarize and criticize:" < "$file";
+done
+)
+return
+
+::whichl::cat /etc/os-release
 
 ::wslhome::\\wsl.localhost\Ubuntu\home\flyxion
 
+::ragdata::C:\Users\nateg\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main\dataset
+::embedings::C:/Users/nateg/OneDrive/Documentos/Github/academizer_vector_embedding
+
+::get perma::git clone https://git.bleu255.com/repos/permacomputing.git
 
 ; Toggle desktop icons visibility
 ; Using Ctrl+Alt+D as the hotkey
@@ -68,6 +85,9 @@ DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402
 
 ::gettransformers::pip install git+https://github.com/huggingface/transformers
 
+
+
+::whatdiverse::What does the phrase diverse intelligence mean?
 
 ;; remap calculator key  to backspace;;
 
@@ -881,7 +901,7 @@ xor_eq
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
 
-::sa::{,,,,,,,,,,,,,,,,,,,,,,,,,}
+::s a::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
 ; a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
 ; ,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1991,7 +2011,10 @@ return
 ::jprompt::set PROMPT=$P$G How can I help you?` ` 
 ::rprompt::set PROMPT=$P$G` `
 
-::prodjects::C:\Users\Mechachleopteryx\projects\
+::prodjects::C`:\Users\nateg\OneDrive\Documentos\projects\
+
+::projectz::/mnt/c/Users/nateg/OneDrive/Documentos/projects
+::projext::/mnt/c/Users/nateg/projects
 
 ::iuf::𝘐𝘵𝘢𝘭𝘪𝘤 𝘜𝘯𝘪𝘤𝘰𝘥𝘦 𝘍𝘰𝘯𝘵
 ::phoen::𐤐𐤇𐤏𐤍𐤄𐤂𐤉𐤀𐤂𐤉𐤀𐤍
