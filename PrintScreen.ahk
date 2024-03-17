@@ -21,6 +21,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
 
+;; 
+::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
+
+
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
 ::re call::
