@@ -13,6 +13,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 !i::SendRaw, @@:w`n:n`n
 
+::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
+
 ::recap::
 (
 for file in *.txt; do
@@ -33,6 +35,9 @@ return
 
 ::justdir::ls -d */
 
+;; remove pages
+
+::rmpages::qpdf input.pdf --pages input.pdf 5-19 -- output.pdf
 
 ;; pytorch ;;
 
@@ -232,6 +237,9 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
+::compresspdf::convert vorticon-invasion-cropped.pdf -compress jpeg -quality 20 vorticon-compressed.pdf
+
+
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
 
 ::invrt::mogrify -negate *.png
@@ -242,6 +250,19 @@ for file in *.png; do
     convert "$file" -fill "#0D1019" -draw "color 0,0 replace" "new_$file"
 done
 )
+
+::loadd::
+(
+program = client.messages.create(
+    model="claude-3-opus-20240229",
+    max_tokens=2000,
+    temperature=0.3,
+    messages=[
+         {"role": "user", "content": prompt}
+    ])
+)
+return
+
 
 !S::Send, Summarize:
 :*:afs::A final summary.`n
@@ -639,7 +660,11 @@ return
 ; :*:testtttttttttttttttttttttttt::testtttttttttttttttttttttttt    w  o   r   k  i   n  g  !!   tttttttttttttttttt
 ; ::test?::working!  
 
+;;flipper;;
 
+LAlt & n::AltTab
+LAlt & m::ShiftAltTab
+LAlt & b::Send, ^a
 
 ::mereo::
 (
@@ -845,6 +870,14 @@ xor_eq
 ::addme::adduser -m flyxion
 ::undome::userdel -r flyxion
 
+
+:o:keyg::ssh-keygen -t rsa -b 4096 -C "standardgalactic@protonmail.com"
+
+:o:getpid::eval "$(ssh-agent -s)"
+
+:o:add2::ssh-add . ~/.ssh/id_rsa
+
+
 ::gita::git config --global user.name "standardgalactic"
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
@@ -859,6 +892,7 @@ xor_eq
 ::upd::sudo apt-get update
 ::upg::sudo apt-get upgrade
 ::updg::sudo apt-get dist-upgrade
+::upr::sudo apt-get auto-remove
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
@@ -970,7 +1004,7 @@ Now just start ubuntu: ./startubuntu.sh
 ::bopit::sudo chmod +x
 
 ;; ls with most recent last ;;
-::ls now::ls -latr
+::ls now::ls -latrh
 
 ::inv::ls -1 | wc -l
 
@@ -1042,7 +1076,7 @@ return
 ^h::Send, {Left}
 ^j::Send, {Down}
 ^k::Send, {Up}
-;^l::Send, {Right}
+^l::Send, {Right}
 ^;::Send, {Enter}  ;; like control+m
 
 
@@ -1197,7 +1231,7 @@ return
 ; Sets up hotstrings for typing the inverted exclamation mark.
 
 :*:/!::¡
-:*:^!::¡
+:*:~!::¡
 :*:!``::¡
 
 
@@ -1229,9 +1263,15 @@ return
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
 
+::joinn::pdftk *.pdf cat output economy-of-algorithms.pdf
+
+::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
+
 ;; microsize video to mp3 ;;
 
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
+
+::mush::ffmpeg -i economy-of-algorithms.mp3 -vn -ab 16k economy-of-algorithms-small.mp3
 
 ::filelist::
 (
@@ -1537,10 +1577,12 @@ Return
 
 ::get repos::gh repo list --limit 18000 > repo-list
 
+;; what limit ;;
 
+::whatl::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit
 
-
-:o:gitname::standardgalactic
+:o:tok::TOKEN=
+:o:gat::USERNAME=standardgalactic
 :o:git name::standardgalactic
 :o:sg::standardgalactic
 
@@ -1730,6 +1772,11 @@ Return
 
 ::qwer::docker start -i kind_boyd
 ::hask::docker start -i kind_boyd
+
+;; docker hub ;;
+
+::whathub::docker search mechachleopteryx
+
 
 ::inspectr::sudo docker inspect -f "{{ .NetworkSettings.IPAddress }}" confident_euler
 
@@ -2095,7 +2142,7 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
+:o:phonehome::Mechachleopteryx@192`.168`.2`.40:projects
 ::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
 ::archeo::ssh archeo@192.168.2.126 
 ::mixo::ssh mixo@192.168.2.81
@@ -2448,6 +2495,7 @@ Return
 </html>
 )
 
+::restor::gsutil cp gs://ford-prefect/on-the-beach.srt
 
 :*b0:|bq::{bs 3}<blockquote></blockquote>{left 13}
 ; :*:|bq::<blockquote>
