@@ -38,10 +38,21 @@ return
 
 ::re cap::
 (
-for file in *.txt; do
+for file in *; do
     echo "Checking $file";
-    ollama run mixtral "Summarize and criticize:" < "$file";
+    ollama run mixtral "Summarize:" < "$file";
 done
+)
+return
+
+;; zoological xenoglossia comparison and verification
+
+:*:zxcv::
+(
+for file in *; do
+    echo "Checking $file";
+    ollama run mistral "Summarize:" < "$file";
+done`n
 )
 return
 
@@ -304,7 +315,7 @@ done
 ::gptchat::chatgpt
 ::ccc::chatgpt
 
-::summ::A summary of the themes and topics of this conversation.
+:*:tnt::A summary of the themes and topics of this conversation.`n
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
@@ -2049,7 +2060,7 @@ Clipboard := modifiedText ; Replace clipboard content
 Click, right
 return
 
-
+::what hub::docker search mechachleopteryx
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
 
