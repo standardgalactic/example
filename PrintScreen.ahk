@@ -15,9 +15,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
 
-::recap::
+::re cap::
 (
-for file in *.txt; do
+for file in * ; do
     echo "Checking $file";
     ollama run mistral "Summarize:" < "$file";
 done
@@ -142,6 +142,8 @@ return
 
 ::getvid::yt-dlp https://www.youtube.com/watch?v=-G903FiNE80 -o output.mp4
 
+::getvids::youtube-dl -f best https://www.youtube.com/@hume_ai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
 ;; silence ;;
 
 :*:shh::[[slnc 1000]]
@@ -227,6 +229,8 @@ return
 What is the purpose of a propagating null wave front in Null Convention Logic?
 )
 return
+
+::add txt::for file in *; do if [[ -f "$file" && ! "$file" =~ \. ]]`; then mv "$file" "$file.txt"`; fi`; done
 
 ::nonew::
 (
@@ -1227,7 +1231,6 @@ return
 :*:^?::¿
 :*:?``::¿
 
-
 ; Sets up hotstrings for typing the inverted exclamation mark.
 
 :*:/!::¡
@@ -1250,20 +1253,68 @@ return
 :*:n~::ñ
 
 
+;; maclike ;;
+:*:a1::à
+:*:a2::á
+:*:a3::â
+:*:a4::ä
+:*:a5::ă
+:*:a6::æ
+:*:a7::ã
+:*:a8::å
+:*:a9::ā
+
+:*:e1::è
+:*:e2::é
+:*:e3::ê
+:*:e4::ë
+:*:e5::ě
+:*:e6::ĕ
+:*:e7::ė
+:*:e8::ę
+:*:e9::ē
+
+:*:i1::ì
+:*:i2::í
+:*:i3::î
+:*:i4::ï
+:*:i5::ǐ
+:*:i6::ĭ
+:*:i7::į
+:*:i8::ı
+:*:i9::ī
+
+:*:o1::ò
+:*:o2::ó
+:*:o3::ô
+:*:o4::ö
+:*:o5::ǒ
+:*:o6::ŏ
+:*:o7::õ
+:*:o8::ø
+:*:o9::ō
+
+:*:u1::ù
+:*:u2::ú
+:*:u3::û
+:*:u4::ü
+:*:u5::ǔ
+:*:u6::ŭ
+:*:u7::ů
+:*:u8::ű
+:*:u9::ū
+
+
+
 ;; audiobook ; audiobooks
 
 ::doit::say -o monicaspills.aiff -f mpills.txt
 ::thenn::lame -m m monicaspills.aiff pills.mp3
 
-::supersplit::awk '{print > ("output/en_" sprintf("%05d.txt", NR)); close("output/en_" sprintf("%05d.txt", NR))}' english.txt
 
-::foreach::for file in * `; do say -o "${file%.*}.aiff" -f "$file"`; done
-
-::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
+::tomp3::for file in *.aiff `; do lame -m m "$file" "${file%.*}.mp3"`; done
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
-
-::joinn::pdftk *.pdf cat output economy-of-algorithms.pdf
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
 
@@ -1272,6 +1323,12 @@ return
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
 
 ::mush::ffmpeg -i economy-of-algorithms.mp3 -vn -ab 16k economy-of-algorithms-small.mp3
+
+::getaudio::for file in *.wmv; do ffmpeg -i "$file" -vn -ab 32k "${file%.wmv}.mp3"; done
+
+::addzero::for file in *; do mv "$file" "0$file"; done
+
+::joinn::pdftk *.pdf cat output economy-of-algorithms.pdf
 
 ::filelist::
 (
@@ -1286,6 +1343,10 @@ for i in {0..18}; do
 done
 )
 return
+
+::supersplit::awk '{print > ("output/en_" sprintf("%05d.txt", NR)); close("output/en_" sprintf("%05d.txt", NR))}' english.txt
+
+::foreach::for file in * `; do say -o "${file%.*}.aiff" -f "$file"`; done
 
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
@@ -1723,6 +1784,7 @@ Return
 
 ::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
 
+::notext::for file in *.txt; do mv "$file" "${file%.txt}"; done
 
 
 ::ask me something::/Users/mecha/age_check
