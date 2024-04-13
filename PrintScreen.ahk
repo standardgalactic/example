@@ -606,6 +606,12 @@ alias ='vim'
 alias ='alias'
  ='rm'
  ='cat'`n
+ ='git add .`;git commit -m "" '
+ ='git push'
+ ='git status'
+ ='git log'
+ ='git rebase -i HEAD`~2'
+ ='git push --force origin main'
 )
 
 ::concho::
