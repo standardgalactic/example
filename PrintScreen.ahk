@@ -140,9 +140,11 @@ return
 
 ;; youtube downloader
 
-::getvid::yt-dlp https://www.youtube.com/watch?v=-G903FiNE80 -o output.mp4
+;; https://www.youtube.com/@rmcelreath
 
-::getvids::youtube-dl -f best https://www.youtube.com/@hume_ai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getvids::yt-dlp -f best https://www.youtube.com/@hume_ai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; silence ;;
 
@@ -236,6 +238,8 @@ return
 (
 for file in new_*.png; do mv "$file" "${file/new_/}"; done
 )
+::nosmall::for file in *-small*; do mv "$file" "${file%-small*}.${file##*.}"; done
+
 
 ::cropall::mogrify - crop 1080x1985+0+360 *.jpg
 
@@ -1330,6 +1334,8 @@ return
 
 ::mush::ffmpeg -i economy-of-algorithms.mp3 -vn -ab 16k economy-of-algorithms-small.mp3
 
+::compressall::for file in *.mp3; do  ffmpeg -i "$file" -vn -ab 16k "${file%.mp3}-small.mp3"; done
+
 ::getaudio::for file in *.wmv; do ffmpeg -i "$file" -vn -ab 32k "${file%.wmv}.mp3"; done
 
 ::addzero::for file in *; do mv "$file" "0$file"; done
@@ -2121,6 +2127,7 @@ return
 Click, right
 return
 
+::listt::print -raC16 {" "..~}
 
 
 ::skil::podman run -it --hostname skilstak --name skilstak -v shared://shared ghcr.io/rwxrob/ws-skilstak
