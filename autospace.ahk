@@ -47,7 +47,7 @@ Loop {
     exitApp
     Send {Space}
  ;; MsgBox Hello
-  Sleep 1100 
+  Sleep 5500 
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 /*
