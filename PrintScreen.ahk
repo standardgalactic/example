@@ -15,6 +15,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
 
+::appple::
+(
+Say "A sower went out to sow some seed: and as he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. 
+)
+
+
+
+
 ::re cap::
 (
 for file in * ; do
@@ -245,7 +253,7 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
-::compresspdf::convert vorticon-invasion-cropped.pdf -compress jpeg -quality 20 vorticon-compressed.pdf
+::compresspdf::convert childrens-drawing-large.pdf -compress jpeg -quality 20 childrens-drawing.pdf
 
 
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
@@ -1041,7 +1049,7 @@ Now just start ubuntu: ./startubuntu.sh
 ::mynumber::cat /etc/issue
 ::upgrayde::sudo apt-get update && sudo apt-get dist-upgrade
 ::grock::grep -ri -C 10 "docker" .
-::vr::vim README.md
+::editt::vim README.md
 ::reme::README.md
 
 ;; google cloud gcd ;;
@@ -1332,7 +1340,10 @@ return
 
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
 
-::mush::ffmpeg -i economy-of-algorithms.mp3 -vn -ab 16k economy-of-algorithms-small.mp3
+::mush::ffmpeg -i economy-of-algorithms.mp4 -b 800k atrahasis.mp4
+
+::togif::ffmpeg -i clock-prototype.mkv -vf "fps=10,scale=320:-1:flags=lanczos" -ss 00:00:10 -to 00:00:20 dactyl.gif
+
 
 ::compressall::for file in *.mp3; do  ffmpeg -i "$file" -vn -ab 16k "${file%.mp3}-small.mp3"; done
 
@@ -1798,6 +1809,9 @@ Return
 
 ::notext::for file in *.txt; do mv "$file" "${file%.txt}"; done
 
+;; github allow mixed file endings (turn off auto-convert) ;;
+
+::allowmixed::git config --global core.autocrlf false
 
 ::ask me something::/Users/mecha/age_check
 ::askme::/Users/mecha/age_check
