@@ -1332,13 +1332,13 @@ return
 
 ::tomp3::for file in *.aiff `; do lame -m m "$file" "${file%.*}.mp3"`; done
 
-::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp3
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
 
 ;; microsize video to mp3 ;;
 
-::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
+::musize::ffmpeg -i input.mp3 -vn -ab 32k studio-5.mp3
 
 ::mush::ffmpeg -i economy-of-algorithms.mp4 -b 800k atrahasis.mp4
 
@@ -1625,6 +1625,11 @@ Send, ( )
 Send, {Left 2}
 Return
 */
+
+;; open current directory in folder
+
+^e::Send, explorer.exe .`n
+
 ;; end clojure ;;
 
 ::circ::circumference
