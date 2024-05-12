@@ -1448,6 +1448,11 @@ Searching()
 :o:to-sga::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< '
 :o:from-sga::sed 'y//abcdefghijklmnopqrstuvwxyz/' <<< '
 
+::upc::ABCDEFGHIJKLMNOPQRSTUVWXYZ
+::lowc::abcdefghijklmnopqrstuvwxy
+
+;; Source this script ;;
+
 !p::Run, notepad.exe "C:\Users\Mechachleopteryx\OneDrive\Desktop\Blank\Examples\PrintScreen.ahk" ; press Alt+p to open this file. (if OpenShowApps is running
 ; hit F8 to source this script.) ;; implemented in AutoHotkey-script-Open-Show-Apps.ahk-
 
@@ -2515,7 +2520,8 @@ Return
 ::(c)::©
 ::|r::®   ; registered symbol
 ::(r)::®
-::|s::§   ; section symbol
+::|s::§   ; section symbol (paperclip, silcrow)
+::|p::¶   ; paragraph symbol (pilcrow)
 ::(tm)::™ ; trademark symbol
  
 ;; ○ ● ● ○ ○ ● ● ○ circles
