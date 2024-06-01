@@ -43,6 +43,11 @@ return
 
 ::justdir::ls -d */
 
+::prettylog::git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+
+
+::oneline::git log --oneline --decorate --graph --all
+
 ;; remove pages
 
 ::rmpages::qpdf input.pdf --pages input.pdf 5-19 -- output.pdf
@@ -152,11 +157,15 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getvids::yt-dlp -f best https://www.youtube.com/@hume_ai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+;; https://www.youtube.com/@hume_ai
+
+
+::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; silence ;;
 
-:*:shh::[[slnc 1000]]
+:*:shhh::[[slnc 1000]]
 
 ;; vim ;;
 
@@ -508,6 +517,7 @@ mortal(X) :- man(X).
 ;; speed  speedsh ;;
 ::fasle::false
 ::INt::int
+::Wq::wq
 
 /*
 ;; test for above ;;
@@ -688,7 +698,7 @@ LAlt & n::AltTab
 LAlt & m::ShiftAltTab
 LAlt & b::Send, ^a
 
-::mereo::
+::mso36::
 (
 Ocularomonoturnolamphrolamphrodyno
 gravitoquarko electrolepto
@@ -1342,7 +1352,7 @@ return
 
 ::mush::ffmpeg -i economy-of-algorithms.mp4 -b 800k atrahasis.mp4
 
-::togif::ffmpeg -i clock-prototype.mkv -vf "fps=10,scale=320:-1:flags=lanczos" -ss 00:00:10 -to 00:00:20 dactyl.gif
+::togif::ffmpeg -i clock-prototype.mkv -vf "fps=10,scale=320:-1:flags=lanczos" -ss 00:00:10 -to 00:00:20 dactyl-clock.gif
 
 
 ::compressall::for file in *.mp3; do  ffmpeg -i "$file" -vn -ab 16k "${file%.mp3}-small.mp3"; done
@@ -1681,7 +1691,7 @@ Return
 :o:sg::standardgalactic
 
 :o:ppff::Playfloor
-:o:mt::mysterytrader
+:o:myt::mysterytrader
 
 ::hap::haplopraxis
 
@@ -1990,7 +2000,11 @@ ghhihh
 ::vim in title::ls -l | grep -i vim
 ::into100::split -d -l 100
 ::next4::0,4!column -t -s "|" 
-::setgui::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
+;; ::setgui::set guifont=Fira_Mono_for_Powerline:h26  
+::setgui::set guifont=Systada:h42 
+
+
+;;gvim
 ::changefont::set guifont=*   ;; gvim
 
 ::re verse::g/^/m 0
@@ -2205,7 +2219,7 @@ return
 ::hashbang::!#/usr/bin/bash
 ::hb::!#/usr/bin/bash
 ::binbash::!#/bin/bash
-::bb::!#/bin/bash
+::bib::!#/bin/bash
 
 ::forloop::
 Send for i in 1 2 3 4 5;
@@ -2788,7 +2802,7 @@ PrintScreen::
 ::ep::Easy peasy. 
 ::owrks::works
 ::exit90::exit()
-::xx::exit()
+:*:exit  ::exit()
 ::exiut::exit
 ::pygrame::pygame
 ::exitt::exit
