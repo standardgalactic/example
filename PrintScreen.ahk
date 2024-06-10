@@ -21,7 +21,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
 
-;; 
+;; Autohotkey shortcut - get subtitles
+
 ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
 
 
@@ -41,6 +42,17 @@ return
 for file in *.txt; do
     echo "Checking $file";
     ollama run mistral "Summarize:" < "$file";
+done
+)
+return
+
+::re caps::
+(
+find . -type f -name "*.txt" | while IFS= read -r file
+do
+    echo "Checking $file"
+    # Run the ollama command on the file and output the results to the terminal
+    ollama run mistral "Summarize:" < "$file"
 done
 )
 return
@@ -68,16 +80,22 @@ return
 ; Toggle desktop icons visibility
 ; Using Ctrl+Alt+D as the hotkey
 
+; Toggle desktop icons visibility
+; Using Ctrl+Alt+D as the hotkey
+
 DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
 {
-Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
-:  WinExist("ahk_class Progman", "FolderView")
+    ; Identify the desktop window
+    Local hProgman := WinExist("ahk_class WorkerW", "FolderView") ? WinExist()
+    :  WinExist("ahk_class Progman", "FolderView")
 
-Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
-Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
+    ; Get the handle for ShellDefView and SysListView windows
+    Local hShellDefView := DllCall("user32.dll\GetWindow", "ptr",hProgman,      "int",5, "ptr")
+    Local hSysListView  := DllCall("user32.dll\GetWindow", "ptr",hShellDefView, "int",5, "ptr")
 
-If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
-DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
+    ; Check if the SysListView window is visible and toggle visibility
+    If ( DllCall("user32.dll\IsWindowVisible", "ptr",hSysListView) != Show )
+        DllCall("user32.dll\SendMessage", "ptr",hShellDefView, "ptr",0x111, "ptr",0x7402, "ptr",0)
 }
 
 ^!d::DesktopIcons()
@@ -1102,25 +1120,23 @@ return
 return
 */
 
-;; arrows to homerow ;;
+;------------------------------------------------------------------------------
+; Control + Home Row for Arrow Keys
+;------------------------------------------------------------------------------
+^h::Send, {Left}       ; Ctrl + H -> Left Arrow
+^j::Send, {Down}       ; Ctrl + J -> Down Arrow
+^k::Send, {Up}         ; Ctrl + K -> Up Arrow
+^l::Send, {Right}      ; Ctrl + L -> Right Arrow
+^;::Send, {Enter}      ; Ctrl + ; -> Enter
 
-^h::Send, {Left}
-^j::Send, {Down}
-^k::Send, {Up}
-^l::Send, {Right}
-^;::Send, {Enter}  ;; like control+m
+;------------------------------------------------------------------------------
+; Alt + Home Row for Special Functions
+;------------------------------------------------------------------------------
+!h::Send, {Backspace}  ; Alt + H -> Backspace
+!j::Send, {Enter}      ; Alt + J -> Enter
+!k::Send, {Enter}      ; Alt + K -> Enter
+!l::Send, {Space}      ; Alt + L -> Space
 
-
-;; hard h, hard home, alternative h, honorary backspace ;;
-;; alt jump 
-;; send o (k) (don't have to stretch the pinky so far)
-;; leap by letter, letter separator    
-
-
-!h::Send, {Backspace}
-!j::Send, {Enter}
-!k::Send, {Enter}
-!l::Send, {Space}  
 
 
 ::emacs sucks::set -o vi
@@ -1293,6 +1309,8 @@ return
 ::tomp3::for file in * `; do lame -m m ${file%.*}.aiff ${file%.*}.mp3 `; done
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
+
+::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
 ;; microsize video to mp3 ;;
 
@@ -2563,30 +2581,33 @@ return
 #T::
 DetectHiddenWindows, on
 WinGet, curtrans, Transparent, A
-if ! curtrans
-	curtrans = 255
+if !curtrans
+	curtrans := 255
 newtrans := curtrans - 64
-if newtrans > 0
-{
+if (newtrans > 0) {
 	WinSet, Transparent, %newtrans%, A
-
-}
-else
-{
+} else {
 	WinSet, Transparent, 255, A
 	WinSet, Transparent, OFF, A
 }
 return
 
-#w:: ;; darken ??
+;------------------------------------------------------------------------------
+; Darken window
+;------------------------------------------------------------------------------
+#W::
 DetectHiddenWindows, on
 WinSet, TransColor, Black 128, A
 return
 
-#o:: ;; or control+0 with glas2k
+;------------------------------------------------------------------------------
+; Reset transparency
+;------------------------------------------------------------------------------
+#O::
 WinSet, Transparent, 255, A
 WinSet, Transparent, OFF, A
 return
+
 
 
 ;; useful but I can't seem to make it go away afterward ;;
