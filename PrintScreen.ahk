@@ -517,7 +517,6 @@ mortal(X) :- man(X).
 ;; speed  speedsh ;;
 ::fasle::false
 ::INt::int
-::Wq::wq
 
 /*
 ;; test for above ;;
@@ -2275,7 +2274,7 @@ Return
 
 ::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
 
-::flyx::ssh flyxion@172.27.178.246
+::flyx::ssh flyxion@172.23.111.255
 ::astro::ssh aardvark@192.168.2.73
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
@@ -2813,3 +2812,4 @@ PrintScreen::
 ::specail::special
 ::claer::clear
 ::exot::exit
+::exut::exit
