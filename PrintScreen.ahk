@@ -20,6 +20,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+;; open current directory
+
+^e::Send, explorer.exe .`n
 
 ;; Autohotkey shortcut - get subtitles
 
@@ -57,6 +60,10 @@ done
 )
 return
 
+
+::onlytext::find . -type f ! -name '*.txt' -exec rm -f {} +
+
+
 ;; zoological xenoglossia comparison and verification
 
 :*:zxcv::
@@ -64,6 +71,44 @@ return
 for file in *; do
     echo "Checking $file";
     ollama run mistral "Summarize:" < "$file";
+done`n
+)
+return
+
+::get summaries::
+(
+summary_file="summary.txt"
+progress_file="progress.log"
+
+main_dir=$(pwd)
+
+# Function to check if a file is already processed
+is_processed() {
+    grep -Fxq "$1" "$main_dir/$progress_file"
+}
+
+# Create progress file if it doesn't exist
+touch "$main_dir/$progress_file"
+
+for dir in */; do
+    cd "$dir" || continue
+    for subdir in */; do
+        cd "$subdir" || continue
+        for file in *.txt; do
+            if [ -f "$file" ]; then
+                file_path=$(pwd)/"$file"
+                if ! is_processed "$file_path"; then
+                    output="Checking $file in $subdir"
+                    echo "$output"
+                    echo "$output" >> "$main_dir/$summary_file"
+                    ollama run mistral "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+                    echo "$file_path" >> "$main_dir/$progress_file"
+                fi
+            fi
+        done
+        cd ..
+    done
+    cd ..
 done`n
 )
 return
