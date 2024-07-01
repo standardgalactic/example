@@ -249,6 +249,9 @@ What is the purpose of a propagating null wave front in Null Convention Logic?
 )
 return
 
+::spectro::ffmpeg -i architect-or-bee.mp3 -filter_complex "[0:a]showspectrum=s=854x480:mode=combined:slide=scroll:color=intensity:saturation=0.2:scale=log,format=yuv420p[v]" -map "[v]" -map 0:a -b:v 700k -b:a 360k architect-or-be.mp4
+
+
 ::add txt::for file in *; do if [[ -f "$file" && ! "$file" =~ \. ]]`; then mv "$file" "$file.txt"`; fi`; done
 
 ::nonew::
@@ -1341,7 +1344,7 @@ return
 
 ::tomp3::for file in *.aiff `; do lame -m m "$file" "${file%.*}.mp3"`; done
 
-::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy output.mp3
+::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy "Music of Hedonia.mp4"
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
 
@@ -1677,6 +1680,10 @@ Return
 ;; Github githubsh ;;
 
 ::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
+
+::justsources::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | "\(.name): \(.description)"'
+
+::justnames::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | .name'
 
 ::get repos::gh repo list --limit 18000 > repo-list
 
