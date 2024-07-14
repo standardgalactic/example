@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.       c                
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -157,6 +157,7 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
+::gethh::yt-dlp -f best https://www.youtube.com/playlist?list=PLMo1nH11Md33LzSJXJPVcQNrH5vGAmaN4  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; https://www.youtube.com/@hume_ai
 
@@ -265,10 +266,10 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
-::compresspdf::convert childrens-drawing-large.pdf -compress jpeg -quality 20 childrens-drawing.pdf
+::compresspdf::convert wandering.pdf -compress jpeg -quality 40 wandering-creativity.pdf
 
 
-::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
+::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 randomizer.gif
 
 ::invrt::mogrify -negate *.png
 
