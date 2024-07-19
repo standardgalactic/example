@@ -15,6 +15,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
 
+::getadvice::wget -r --no-parent https://books.danielhofstetter.com/
+
 ::appple::
 (
 Say "A sower went out to sow some seed: and as he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. 
@@ -1012,7 +1014,7 @@ xor_eq
 ::instructshions::
 (
 Update termux: apt-get update && apt-get upgrade -y
-Install wget:: apt-get install wget -y
+Install x:: apt-get install wget -y
 Install proot:: apt-get install proot -y
 Install git:: apt-get install git -y
 Go to HOME folder: cd ~
