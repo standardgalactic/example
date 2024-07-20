@@ -75,9 +75,9 @@ done`n
 )
 return
 
-::get summaries::
+::getsum::
 (
-summary_file="summary.txt"
+summary_file="overview.txt"
 progress_file="progress.log"
 
 main_dir=$(pwd)
@@ -90,25 +90,18 @@ is_processed() {
 # Create progress file if it doesn't exist
 touch "$main_dir/$progress_file"
 
-for dir in */; do
-    cd "$dir" || continue
-    for subdir in */; do
-        cd "$subdir" || continue
-        for file in *.txt; do
-            if [ -f "$file" ]; then
-                file_path=$(pwd)/"$file"
-                if ! is_processed "$file_path"; then
-                    output="Checking $file in $subdir"
-                    echo "$output"
-                    echo "$output" >> "$main_dir/$summary_file"
-                    ollama run mistral "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
-                    echo "$file_path" >> "$main_dir/$progress_file"
-                fi
-            fi
-        done
-        cd ..
-    done
-    cd ..
+# Iterate over each .txt file in the current directory
+for file in *.txt; do
+    if [ -f "$file" ]; then
+        file_path=$(pwd)/"$file"
+        if ! is_processed "$file_path"; then
+            echo "Checking $file"
+            echo "Checking $file" >> "$main_dir/$summary_file"
+            # Run the ollama command with wizardlm2 and append the output to overview.txt
+            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            echo "$file_path" >> "$main_dir/$progress_file"
+        fi
+    fi
 done`n
 )
 return
@@ -1807,7 +1800,7 @@ Return
 
 ::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
 
-::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.html"; done
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
 
 
 
