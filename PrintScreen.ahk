@@ -11,6 +11,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;;#Include tosga.ahk ;; Alt + home to toggle, may be inconvenient
 ;#Include vim-scripts.ahk ;; toggle with windows+v ;; wow that was annoying
 
+::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
+
+::getflashy::ffmpeg -loop 1 -i ready-to-play.png -vf "eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_flashy.gif
+
+::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
+
 !i::SendRaw, @@:w`n:n`n
 
 ::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
@@ -22,7 +28,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Say "A sower went out to sow some seed: and as he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. 
 )
 
+::smalller::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=iw/2:ih/2, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1, drawtext=fontfile=/path/to/font.ttf: text='Todo Listo Para Jugar': fontcolor=white: fontsize=18: x=(w-text_w)/2: y=(h-text_h)/2" -t 10 -r 20 -compression_level 10 output_flashy_text_small.gif
 
+::smallgif::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_small.gif
+
+::darkcycle::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness='sin(2*PI*t)':saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_dark_light_cycle.gif
 
 
 ::re cap::
@@ -165,6 +175,9 @@ return
 
 
 ::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
+
 
 ;; silence ;;
 
@@ -472,8 +485,8 @@ Return
 
 ::searchpath::findall([X,Y],file_search_path(X,Y),Bag).
 
-:o:az::assertz
-:o:ra::retractall
+;; :o:az::assertz
+;; :o:ra::retractall
 
 ::goo::vim mortal.pl
 
@@ -2139,7 +2152,7 @@ return
 ::noroot::su notroot
 
 ;;Windows shortcuts
-::startup::C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+::startf::C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 ::jprompt::set PROMPT=$P$G How can I help you?` ` 
 ::rprompt::set PROMPT=$P$G` `
 
