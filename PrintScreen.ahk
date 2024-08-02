@@ -24,10 +24,17 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^e::Send, explorer.exe .`n
 
+::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
+
 ;; Autohotkey shortcut - get subtitles
 
 ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
 
+;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
+
+
+
+::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
@@ -63,14 +70,17 @@ return
 
 ::onlytext::find . -type f ! -name '*.txt' -exec rm -f {} +
 
+::addtxt::for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done
+
+
 
 ;; zoological xenoglossia comparison and verification
 
-:*:zxcv::
+:*:wizz::
 (
 for file in *; do
     echo "Checking $file";
-    ollama run mistral "Summarize:" < "$file";
+    ollama run wizardlm2 "Summarize:" < "$file";
 done`n
 )
 return
@@ -97,7 +107,7 @@ for file in *.txt; do
         if ! is_processed "$file_path"; then
             echo "Checking $file"
             echo "Checking $file" >> "$main_dir/$summary_file"
-            # Run the ollama command with wizardlm2 and append the output to overview.txt
+
             ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
             echo "$file_path" >> "$main_dir/$progress_file"
         fi
