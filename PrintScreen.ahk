@@ -93,7 +93,9 @@ DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
 
 ::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
 
-::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+;; ::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
+
+::clipp::ffmpeg -i patetic.mp4 -ss 00:00:05 -to 00:01:35 -c:v copy -c:a copy peripatetic-walking.mp4
 
 ::from opus::ffmpeg -i output.mp4.opus -ab 320k Xenogenesis.mp3
 
@@ -1298,7 +1300,7 @@ return
 :*:n``::ñ
 :*:n~::ñ
 
-
+/*
 ;; maclike ;;
 :*:a1::à
 :*:a2::á
@@ -1349,7 +1351,7 @@ return
 :*:u7::ů
 :*:u8::ű
 :*:u9::ū
-
+*/
 
 
 ;; audiobook ; audiobooks
@@ -1362,7 +1364,21 @@ return
 
 ::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy "Music of Hedonia.mp4"
 
+::musicoh::
+(
+ffmpeg -i '01 - The Abyss Within.mp4' -i '02 - Beyond Good and Evil.mp4' -i '03 - Deserted Island Blues.mp4' -i '04 - Visions of the Canvas.mp4' -i '05 - Amnesiac Love.mp4' \
+-i '06 - Raccoon Ruckus.mp4' -i '07 - Free From Desire.mp4' -i '08 - Picture the Scene.mp4' -i '09 - Humanity Dethroned.mp4' -i '10 - In the Depths of Existence.mp4' \
+-i '11 - Beyond Illusions.mp4' -i '12 - Code to the Beats.mp4' -i '13 - Guardians of Tomorrow.mp4' -i '14 - Bread-Quail Wisdom.mp4' -i '15 - Genius Prodigy and Talent.mp4' \
+-i '16 - Vertical Scaling.mp4' \
+-filter_complex "[0:v][0:a][1:v][1:a][2:v][2:a][3:v][3:a][4:v][4:a][5:v][5:a][6:v][6:a][7:v][7:a][8:v][8:a][9:v][9:a][10:v][10:a][11:v][11:a][12:v][12:a][13:v][13:a][14:v][14:a][15:v][15:a]concat=n=16:v=1:a=1[v][a]" \
+-map "[v]" -map "[a]" -c:v libx264 -crf 23 -preset veryfast -c:a aac -b:a 192k "Music of Hedonia.mp4"
+)
+Return
+
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
+
+
+::2mp3::ffmpeg -i mpt-14.mp4 -q:a 0 -map a mpt-14.mp3
 
 ;; microsize video to mp3 ;;
 
@@ -1539,7 +1555,7 @@ print "\n"
 ;; openai - openaish ;;
 
 :o:okey::export OPENAI_API_KEY="
-::gp::chatgpt
+::ch~::chatgpt
 
 ::stor::cd ~/.local/share/chatgpt-wrapper/profiles/default/
 
@@ -1640,8 +1656,6 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 )
 
 ::chickenn::sudo apt-get install chicken-bin
-
-:*:SEnd::Send
 
 ;; clojure clojuresh ;;
 
@@ -1850,6 +1864,8 @@ Return
 ::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
 
 ::notext::for file in *.txt; do mv "$file" "${file%.txt}"; done
+
+::getnames::git diff --name-only HEAD~
 
 ;; github allow mixed file endings (turn off auto-convert) ;;
 
@@ -2134,6 +2150,9 @@ return
 ::runagain::include("stats_experiments.jl")
 
 ::rooot::C:\Users\Mechachleopteryx\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\root\home
+
+:*:roooot::C:\Users\Mechachleopteryx\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\ext4.vhdx
+
 ::toshell::eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 ;; Autohotkey Scripts
@@ -2203,8 +2222,8 @@ return
 ::whatnow?::echo $PS1
 ::litrate::PS1="See Colon Backslash Rightarrow "
 ::cstyle::PS1="C:\> "
-::cprompt::set PROMPT=C:\^>
-::C:\>::set PROMPT=C:\^>
+::cprompt::PROMPT=C:\$G
+::C:\>::set PROMPT=C:\$G
 
 ::macprompt::PS1="%n@%m %1~ %# "
 
@@ -2222,6 +2241,9 @@ return
 ::normal red::PS1="export PS1='\[\e[31m\]\u@\h:\w\[\e[0m\] ' "
 
 ::cstyle::PS1="C:\> "
+
+::testwolf::wolframscript -api 251c4cb3-1de3-4da3-a417-8863b86464f4 -args n=5 -permissionskey thekey
+
 
 ::xwolf::Exit[]
 
@@ -2295,7 +2317,7 @@ Return
 
 ;;  Laptops
 
-::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
+::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
 ::flyx::ssh flyxion@172.23.111.255
 ::astro::ssh aardvark@192.168.2.73
