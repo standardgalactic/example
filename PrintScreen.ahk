@@ -1,4 +1,4 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.       c                
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.                
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -95,7 +95,7 @@ DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
 
 ;; ::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
 
-::clipp::ffmpeg -i patetic.mp4 -ss 00:00:05 -to 00:01:35 -c:v copy -c:a copy peripatetic-walking.mp4
+::clipp::ffmpeg -i patetic.mkv -ss 00:00:05 -to 00:02:55 -c:v copy -c:a copy "Secret Message.mp4"
 
 ::from opus::ffmpeg -i output.mp4.opus -ab 320k Xenogenesis.mp3
 
@@ -441,6 +441,7 @@ VARIABLE (RND)
 ;; Send a right click
 
 #c::Click, left
+NumpadEnter::Click, left
 
 ;; cut / paste in powershell terminal
 
@@ -1364,14 +1365,41 @@ return
 
 ::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy "Music of Hedonia.mp4"
 
+::soundonly::for f in *.mp4; do ffmpeg -i "$f" "${f%.mp4}.mp3"; done
+
 ::musicoh::
 (
-ffmpeg -i '01 - The Abyss Within.mp4' -i '02 - Beyond Good and Evil.mp4' -i '03 - Deserted Island Blues.mp4' -i '04 - Visions of the Canvas.mp4' -i '05 - Amnesiac Love.mp4' \
--i '06 - Raccoon Ruckus.mp4' -i '07 - Free From Desire.mp4' -i '08 - Picture the Scene.mp4' -i '09 - Humanity Dethroned.mp4' -i '10 - In the Depths of Existence.mp4' \
--i '11 - Beyond Illusions.mp4' -i '12 - Code to the Beats.mp4' -i '13 - Guardians of Tomorrow.mp4' -i '14 - Bread-Quail Wisdom.mp4' -i '15 - Genius Prodigy and Talent.mp4' \
--i '16 - Vertical Scaling.mp4' \
--filter_complex "[0:v][0:a][1:v][1:a][2:v][2:a][3:v][3:a][4:v][4:a][5:v][5:a][6:v][6:a][7:v][7:a][8:v][8:a][9:v][9:a][10:v][10:a][11:v][11:a][12:v][12:a][13:v][13:a][14:v][14:a][15:v][15:a]concat=n=16:v=1:a=1[v][a]" \
--map "[v]" -map "[a]" -c:v libx264 -crf 23 -preset veryfast -c:a aac -b:a 192k "Music of Hedonia.mp4"
+ffmpeg \
+-i '01 - The Abyss Within.mp4' \
+-i '02 - Beyond Good and Evil.mp4' \
+-i '03 - Deserted Island Blues.mp4' \
+-i '04 - Visions of the Canvas.mp4' \
+-i '05 - Amnesiac Love.mp4' \
+-i '06 - Raccoon Ruckus.mp4' \
+-i '07 - Free From Desire.mp4' \
+-i '08 - Picture the Scene.mp4' \
+-i '09 - Humanity Dethroned.mp4' \
+-i '10 - In the Depths of Existence.mp4' \
+-i '11 - Beyond Illusions.mp4' \
+-i '12 - Code to the Beats.mp4' \
+-i '13 - Guardians of Tomorrow.mp4' \
+-i '14 - Bread-Quail Wisdom.mp4' \
+-i '15 - Intersubjectivity Collapse.mp4' \
+-i '16 - Cultural Shift.mp4' \
+-i '17 - My Boots are Worn.mp4' \
+-i '18 - Shattered Dreams.mp4' \
+-i '19 - Genius Prodigy and Talent.mp4' \
+-i '20 - Hack the Planet.mp4' \
+-i '21 - Vertical Scaling.mp4' \
+-i '22 - Carmen Scientiae.mp4' \
+-i '23 - Regal Wind.mp4' \
+-i '24 - I am in Need of Music.mp4' \
+-filter_complex \
+"[0:v][0:a][1:v][1:a][2:v][2:a][3:v][3:a][4:v][4:a][5:v][5:a][6:v][6:a][7:v][7:a][8:v][8:a][9:v][9:a][10:v][10:a][11:v][11:a][12:v][12:a][13:v][13:a][14:v][14:a][15:v][15:a][16:v][16:a][17:v][17:a][18:v][18:a][19:v][19:a][20:v][20:a][21:v][21:a][22:v][22:a][23:v][23:a]concat=n=24:v=1:a=1[v][a]" \
+-map "[v]" -map "[a]" \
+-c:v libx264 -crf 23 -preset veryfast \
+-c:a aac -b:a 192k \
+"Music of Hedonia.mp4"
 )
 Return
 
