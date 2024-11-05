@@ -1171,6 +1171,16 @@ return
 ::pls::sudo !!
 ::huh:: man !!
 
+::explainai::
+(
+
+
+curl \
+  -H 'Content-Type: application/json' \
+  -d '{"contents":[{"parts":[{"text":"Explain how AI works"}]}]}' \
+  -X POST 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDtcMdSuQH9WBq37hQuTQwmW5r2PZ_uqrM' > explain.txt
+)
+return
 
 ;; System and Environment Configuration ;;
 
