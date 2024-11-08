@@ -1,4 +1,5 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.                
+﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -10,6 +11,22 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;;#Include Gdp_All.ahk
 ;;#Include tosga.ahk ;; Alt + home to toggle, may be inconvenient
 ;#Include vim-scripts.ahk ;; toggle with windows+v ;; wow that was annoying
+
+;; PipSqueak = PrintScreen ;;
+
+;; How to Use ;;
+
+; To start: windows + pause + type "printscreen" (Assuming you have run it before and have it in a searchable location)
+
+; Alt + p to edit this script
+; Notepad Ctrl+S to save
+; F8 to refresh the script.
+
+::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running. 
+
+;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
+
+;; standardgalactic ;;
 
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
 
@@ -33,7 +50,6 @@ Say "A sower went out to sow some seed: and as he sowed, some fell by the waysid
 ::smallgif::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_small.gif
 
 ::darkcycle::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness='sin(2*PI*t)':saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_dark_light_cycle.gif
-
 
 ::re cap::
 (
@@ -1080,6 +1096,10 @@ Now just start ubuntu: ./startubuntu.sh
 ::mynumber::cat /etc/issue
 ::upgrayde::sudo apt-get update && sudo apt-get dist-upgrade
 ::grock::grep -ri -C 10 "docker" .
+
+::findm::find . -type f -exec grep -i -l 'michel' {} +
+
+
 ::editt::vim README.md
 ::reme::README.md
 
