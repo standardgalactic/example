@@ -309,7 +309,7 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 ::darkmode::
 (
 for file in *.png; do
-    convert "$file" -fill "#0D1019" -draw "color 0,0 replace" "new_$file"
+    convert "$file" -negate "new_$file"
 done
 )
 
