@@ -26,15 +26,52 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
 
+
+::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
+
+
 ;; Autohotkey shortcut - get subtitles
 
-::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
+::wspr::
+(
+
+    for file in *.mp3; do
+        if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+            whisper "$file"
+        fi
+    done
+)
+Return
+
+::getsubs::
+(
+find . -maxdepth 1 -type d -exec sh -c '
+for dir in "$@"; do
+    cd "$dir" || exit
+    # Process only files in each directory
+    for file in *.mp3; do
+        if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+            whisper "$file"
+        fi
+    done
+    cd -  # Go back to the original directory
+done
+' sh {} +`n
+)
+return
+
+
+;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
 
 ;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
 
 
 
-::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getvids::yt-dlp -f best -ciw https://www.youtube.com/@tetasao --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getmp3s::yt-dlp -f best -ciw https://www.youtube.com/@timsanderson4076 --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+:*:cd..::cd ..
 
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
@@ -89,6 +126,60 @@ return
 (
 summary_file="overview.txt"
 progress_file="progress.log"
+main_dir=$(pwd)
+
+# Function to check if a file is already processed
+is_processed() {
+    grep -Fxq "$1" "$main_dir/$progress_file"
+}
+
+# Create progress file if it doesn't exist
+touch "$main_dir/$progress_file"
+
+# Process text files in the current directory
+process_files() {
+    for file in *.txt; do
+        if [ -f "$file" ]; then
+            file_path=$(pwd)/"$file"
+            if ! is_processed "$file_path"; then
+                echo "Processing $file"
+                echo "Processing $file" >> "$main_dir/$summary_file"
+
+                ollama run wizardlm2 "The speaker is Darin Stevenson. Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+                echo "$file_path" >> "$main_dir/$progress_file"
+            fi
+        fi
+    done
+}
+
+# Check for subdirectories and recursively process them
+process_subdirectories() {
+    for dir in */; do
+        if [ -d "$dir" ]; then
+            echo "Entering directory $dir"
+            echo "Directory: $dir" >> "$main_dir/$summary_file"
+            (cd "$dir" && bash "$0") # Recursive call
+        fi
+    done
+}
+
+# Main execution
+echo "Processing directory: $main_dir"
+process_files
+
+# Check if there are subdirectories
+if ls -d */ >/dev/null 2>&1; then
+    process_subdirectories
+else
+    echo "No subdirectories found in $main_dir."
+fi`n
+)
+return
+
+::getsums::
+(
+summary_file="overview.txt"
+progress_file="progress.log"
 
 main_dir=$(pwd)
 
@@ -108,7 +199,18 @@ for file in *.txt; do
             echo "Checking $file"
             echo "Checking $file" >> "$main_dir/$summary_file"
 
+            # Summarize with wizardlm2
+            echo "WizardLM2 Summary:" >> "$main_dir/$summary_file"
             ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+
+            # Summarize with mistral
+            echo "Mistral Summary:" >> "$main_dir/$summary_file"
+            ollama run mistral "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+
+            # Summarize with llama3
+            echo "LLaMA3 Summary:" >> "$main_dir/$summary_file"
+            ollama run llama3 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+
             echo "$file_path" >> "$main_dir/$progress_file"
         fi
     fi
@@ -1526,8 +1628,8 @@ print "\n"
 
 ::kill jshell::kill -9 $(ps -a | grep "jshell" | awk '{print $1}')
 
-::pv::public void
-::pf::public final class
+::puv::public void
+::puf::public final class
 
 ::xanadumode::/set mode xanadu normal -command
 
