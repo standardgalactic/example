@@ -26,15 +26,52 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
 
+
+::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
+
+
 ;; Autohotkey shortcut - get subtitles
 
-::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
+::wspr::
+(
+
+    for file in *.mp3; do
+        if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+            whisper "$file"
+        fi
+    done
+)
+Return
+
+::getsubs::
+(
+find . -maxdepth 1 -type d -exec sh -c '
+for dir in "$@"; do
+    cd "$dir" || exit
+    # Process files in each directory
+    for file in *.mp3 *.m4a *.webm; do
+        if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+            whisper "$file"
+        fi
+    done
+    cd - >/dev/null  # Go back to the original directory and suppress output
+done
+' sh {} +`n
+)
+return
+
+
+;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
 
 ;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
 
 
 
-::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getvids::yt-dlp -f best -ciw https://www.youtube.com/@tetasao --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getmp3s::yt-dlp -f best -ciw https://www.youtube.com/@timsanderson4076 --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+:*:cd..::cd ..
 
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
@@ -72,20 +109,26 @@ return
 
 ::addtxt::for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done
 
-
+::addtext::
+(
+for dir in */; do
+  (cd "$dir" && for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done)
+done`n
+)
+return
 
 ;; zoological xenoglossia comparison and verification
 
 :*:wizz::
 (
-for file in *; do
+for file in *.txt; do
     echo "Checking $file";
     ollama run wizardlm2 "Summarize:" < "$file";
 done`n
 )
 return
 
-::getsum::
+::getoverview::
 (
 summary_file="overview.txt"
 progress_file="progress.log"
@@ -113,6 +156,130 @@ for file in *.txt; do
         fi
     fi
 done`n
+)
+return
+
+::getsumaries::
+(
+summary_file="overview.txt"
+progress_file="progress.log"
+main_dir=$(pwd)
+
+# Function to check if a file is already processed
+is_processed() {
+    grep -Fxq "$1" "$main_dir/$progress_file"
+}
+
+# Create progress file if it doesn't exist
+touch "$main_dir/$progress_file"
+
+# Process text files in the current directory
+process_files() {
+    for file in *.txt; do
+        if [ -f "$file" ]; then
+            file_path=$(pwd)/"$file"
+            if ! is_processed "$file_path"; then
+                echo "Processing $file"
+                echo "Processing $file" >> "$main_dir/$summary_file"
+
+                ollama run wizardlm2 "The speaker is Darin Stevenson. Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+                echo "$file_path" >> "$main_dir/$progress_file"
+            fi
+        fi
+    done
+}
+
+# Check for subdirectories and recursively process them
+process_subdirectories() {
+    for dir in */; do
+        if [ -d "$dir" ]; then
+            echo "Entering directory $dir"
+            echo "Directory: $dir" >> "$main_dir/$summary_file"
+            (cd "$dir" && bash "$0") # Recursive call
+        fi
+    done
+}
+
+# Main execution
+echo "Processing directory: $main_dir"
+process_files
+
+# Check if there are subdirectories
+if ls -d */ >/dev/null 2>&1; then
+    process_subdirectories
+else
+    echo "No subdirectories found in $main_dir."
+fi`n
+)
+return
+
+::getsum::
+(
+summary_file="summary-overview.txt"
+progress_file="progress.log"
+main_dir=$(pwd)
+
+# Function to check if a file is already processed
+is_processed() {
+    grep -Fxq "$1" "$main_dir/$progress_file"
+}
+
+# Create progress and summary files if they don't exist
+touch "$main_dir/$progress_file"
+touch "$main_dir/$summary_file"
+
+# Start logging script progress
+echo "Script started at $(date)" >> "$main_dir/$progress_file"
+echo "Summaries will be saved to $summary_file" >> "$main_dir/$progress_file"
+
+# Iterate over each .txt file in the current directory
+for file in "$main_dir"/*.txt; do
+    # Check if the glob didn't match or if file doesn't exist
+    if [ ! -e "$file" ]; then
+        continue
+    fi
+    
+    if [ -f "$file" ]; then
+        file_path=$(realpath "$file")  # Get absolute path of the file
+        
+        # Process only if not processed before
+        if ! is_processed "$file_path"; then
+            echo "Processing $file"
+            echo "Processing $file" >> "$main_dir/$progress_file"
+            
+            # Create a temporary directory for the file's chunks
+            sanitized_name=$(basename "$file" | tr -d '[:space:]')
+            temp_dir=$(mktemp -d "$main_dir/tmp_${sanitized_name}_XXXXXX")
+            echo "Temporary directory created: $temp_dir" >> "$main_dir/$progress_file"
+            
+            # Split the file into chunks of 100 lines each
+            split -d -l 100 "$file" "$temp_dir/chunk_"
+            echo "File split into chunks: $(find "$temp_dir" -type f)" >> "$main_dir/$progress_file"
+            
+            # Mention the file name before summarizing its chunks
+            echo ""
+            echo "Summarizing file: $file"
+            echo "===== Summaries for $file =====" | tee -a "$main_dir/$summary_file"
+            
+            # Summarize each chunk without mentioning chunk names
+            for chunk_file in "$temp_dir"/chunk_*; do
+                [ -f "$chunk_file" ] || continue
+                # Summarize the chunk and append directly to the summary file while also displaying to terminal
+                ollama run wizardlm2 "Summarize:" < "$chunk_file" | tee -a "$main_dir/$summary_file"
+                echo "" | tee -a "$main_dir/$summary_file"
+            done
+            
+            # Remove the temporary directory
+            rm -rf "$temp_dir"
+            echo "Temporary directory $temp_dir removed" >> "$main_dir/$progress_file"
+            
+            # Mark the file as processed
+            echo "$file_path" >> "$main_dir/$progress_file"
+        fi
+    fi
+done
+
+echo "Script completed at $(date)" >> "$main_dir/$progress_file"`n
 )
 return
 
@@ -598,6 +765,8 @@ mortal(X) :- man(X).
 ;; not a counter countersh ;;
 
 :*:....::(1,2,3,4,5)
+
+::allowmixed::git config --global core.autocrlf false
 
 ;; gimp ;; gimpsh ;;
 
@@ -1526,8 +1695,8 @@ print "\n"
 
 ::kill jshell::kill -9 $(ps -a | grep "jshell" | awk '{print $1}')
 
-::pv::public void
-::pf::public final class
+::puv::public void
+::puf::public final class
 
 ::xanadumode::/set mode xanadu normal -command
 
@@ -1829,9 +1998,12 @@ Return
 
 ;; docker ;;
 
+
+::oldworkspace::sudo docker start -i clever_bouman
+
 ::rwx::
 {
-Send, sudo docker start -i confident_euler
+Send, sudo docker start -i quantum_soup ;; confident_euler
 Return
 }
 
@@ -1976,6 +2148,22 @@ ghhihh
 ::next4::0,4!column -t -s "|" 
 ::setgui::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
+
+::splitt::
+(
+for file in *.txt; do
+  # Extract the base name without the extension
+  basename="${file%.*}"
+  
+  # Create a directory named after the base name
+  mkdir -p "$basename"
+  
+  # Split the file into chunks of 100 lines each
+  # and place the output files into the created directory
+  split -d -l 100 "$file" "$basename/${basename}_"
+done`n
+)
+return
 
 ::re verse::g/^/m 0
 
@@ -2137,6 +2325,11 @@ Clipboard := modifiedText ; Replace clipboard content
 ; MsgBox, Clipboard content replaced.
 Click, right
 return
+
+
+::update-container::docker commit quantum_soup mechachleopteryx/workflow-engine:quantum_soup
+::to-dockerhub::docker push mechachleopteryx/workflow-engine:quantum_soup
+
 
 ::what hub::docker search mechachleopteryx
 
