@@ -32,6 +32,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::getflashy::ffmpeg -loop 1 -i ready-to-play.png -vf "eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_flashy.gif
 
+::getwhisper::pip install git+https://github.com/openai/whisper.git 
+
 ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
 
 !i::SendRaw, @@:w`n:n`n
@@ -187,7 +189,8 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::gethh::yt-dlp -f best https://www.youtube.com/playlist?list=PLMo1nH11Md33LzSJXJPVcQNrH5vGAmaN4  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::gethh::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLUhmkuu0rcYkr4VewfxnaORnMHa8Wf7xn --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
 
 ;; https://www.youtube.com/@hume_ai
 
@@ -196,6 +199,7 @@ return
 
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
+::updatey::python3 -m pip install -U --pre "yt-dlp[default]"
 
 ;; silence ;;
 
@@ -1433,7 +1437,10 @@ ffmpeg \
 )
 Return
 
-::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0     bio-relational.mp3
+::slowdown::ffmpeg -i bio-relational.mp3 -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 temporal-dimensionality.mp3
+
+
+;; ffmpeg -i bio-relational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0   temporal-dimensionality.mp3
 
 
 ::2mp3::ffmpeg -i mpt-14.mp4 -q:a 0 -map a mpt-14.mp3
@@ -1934,6 +1941,13 @@ Return
 
 ;; Pluto ;;
 ::powlevel::@bind power_level html"<input type='range'>"
+
+::nomhtml:: python3 -m mhtmlconverter.cli.mhtml2html -i everlasting.mhtml -o everlasting-side-quests.html 
+
+::makemovie::ffmpeg -framerate 4 -pattern_type glob -i "*.png" -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -pix_fmt yuv420p organic-soup.mp4
+
+::addaudio::ffmpeg -i organic-soup.mp4 -i Pars-Tui-Mundi.mp3 -c:v copy -c:a aac -shortest oblicosm-paradox.mp4
+
 
 ;; concatenate pdf ;;
 
