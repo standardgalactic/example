@@ -189,7 +189,7 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::gethh::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLUhmkuu0rcYkr4VewfxnaORnMHa8Wf7xn --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+::getstuff::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-gUqJyvrS7IesKeeWSWfzau&jct=QgzLOonv1bfsWxVpiS8DYQ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 
 ;; https://www.youtube.com/@hume_ai
@@ -290,7 +290,26 @@ return
 ::spectro::ffmpeg -i architect-or-bee.mp3 -filter_complex "[0:a]showspectrum=s=854x480:mode=combined:slide=scroll:color=intensity:saturation=0.2:scale=log,format=yuv420p[v]" -map "[v]" -map 0:a -b:v 700k -b:a 360k architect-or-be.mp4
 
 
-::add txt::for file in *; do if [[ -f "$file" && ! "$file" =~ \. ]]`; then mv "$file" "$file.txt"`; fi`; done
+::add txt::
+(
+for file in *; do 
+    if [[ -f "$file" && ! "$file" =~ \. ]]; then 
+        mv -- "$file" "$file.txt"; 
+    fi
+done
+)
+return
+
+::getdash::
+(
+for file in *; do 
+    if [[ -f "$file" ]]; then 
+        mv -- "$file" "${file// /-}"; 
+    fi
+done
+)
+return
+
 
 ::nonew::
 (
