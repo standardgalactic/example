@@ -290,7 +290,26 @@ return
 ::spectro::ffmpeg -i architect-or-bee.mp3 -filter_complex "[0:a]showspectrum=s=854x480:mode=combined:slide=scroll:color=intensity:saturation=0.2:scale=log,format=yuv420p[v]" -map "[v]" -map 0:a -b:v 700k -b:a 360k architect-or-be.mp4
 
 
-::add txt::for file in *; do if [[ -f "$file" && ! "$file" =~ \. ]]`; then mv "$file" "$file.txt"`; fi`; done
+::add txt::
+(
+for file in *; do 
+    if [[ -f "$file" && ! "$file" =~ \. ]]; then 
+        mv -- "$file" "$file.txt"; 
+    fi
+done
+)
+return
+
+::getdash::
+(
+for file in *; do 
+    if [[ -f "$file" ]]; then 
+        mv -- "$file" "${file// /-}"; 
+    fi
+done
+)
+return
+
 
 ::nonew::
 (
