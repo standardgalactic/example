@@ -109,7 +109,13 @@ return
 
 ::addtxt::for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done
 
-
+::addtext::
+(
+for dir in */; do
+  (cd "$dir" && for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done)
+done`n
+)
+return
 
 ;; zoological xenoglossia comparison and verification
 
@@ -122,7 +128,38 @@ done`n
 )
 return
 
-::getsum::
+::getoverview::
+(
+summary_file="overview.txt"
+progress_file="progress.log"
+
+main_dir=$(pwd)
+
+# Function to check if a file is already processed
+is_processed() {
+    grep -Fxq "$1" "$main_dir/$progress_file"
+}
+
+# Create progress file if it doesn't exist
+touch "$main_dir/$progress_file"
+
+# Iterate over each .txt file in the current directory
+for file in *.txt; do
+    if [ -f "$file" ]; then
+        file_path=$(pwd)/"$file"
+        if ! is_processed "$file_path"; then
+            echo "Checking $file"
+            echo "Checking $file" >> "$main_dir/$summary_file"
+
+            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            echo "$file_path" >> "$main_dir/$progress_file"
+        fi
+    fi
+done`n
+)
+return
+
+::getsumaries::
 (
 summary_file="overview.txt"
 progress_file="progress.log"
@@ -176,11 +213,10 @@ fi`n
 )
 return
 
-::getsums::
+::getsum::
 (
-summary_file="overview.txt"
+summary_file="wizard-summary.txt"
 progress_file="progress.log"
-
 main_dir=$(pwd)
 
 # Function to check if a file is already processed
@@ -196,21 +232,29 @@ for file in *.txt; do
     if [ -f "$file" ]; then
         file_path=$(pwd)/"$file"
         if ! is_processed "$file_path"; then
-            echo "Checking $file"
-            echo "Checking $file" >> "$main_dir/$summary_file"
+            echo "Processing $file"
+            echo "Processing $file" >> "$main_dir/$summary_file"
 
-            # Summarize with wizardlm2
-            echo "WizardLM2 Summary:" >> "$main_dir/$summary_file"
-            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            # Create a temporary directory for the file's chunks
+            temp_dir=$(mktemp -d "$main_dir/tmp_$(basename "$file")_XXXXXX")
+            echo "Temporary directory: $temp_dir"
 
-            # Summarize with mistral
-            echo "Mistral Summary:" >> "$main_dir/$summary_file"
-            ollama run mistral "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            # Split the file into chunks of 100 lines each
+            split -d -l 100 "$file" "$temp_dir/chunk_"
 
-            # Summarize with llama3
-            echo "LLaMA3 Summary:" >> "$main_dir/$summary_file"
-            ollama run llama3 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            # Process each chunk
+            for chunk in "$temp_dir"/*; do
+                echo "Summarizing $chunk"
 
+                # Summarize with wizardlm2
+                echo "WizardLM2 Summary for $chunk:" >> "$main_dir/$summary_file"
+                ollama run wizardlm2 "Summarize:" < "$chunk" | tee -a "$main_dir/$summary_file"
+            done
+
+            # Remove the temporary directory and its contents
+            rm -rf "$temp_dir"
+
+            # Mark the file as processed
             echo "$file_path" >> "$main_dir/$progress_file"
         fi
     fi
@@ -700,6 +744,8 @@ mortal(X) :- man(X).
 ;; not a counter countersh ;;
 
 :*:....::(1,2,3,4,5)
+
+::allowmixed::git config --global core.autocrlf false
 
 ;; gimp ;; gimpsh ;;
 
@@ -2078,6 +2124,22 @@ ghhihh
 ::next4::0,4!column -t -s "|" 
 ::setgui::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
+
+::splitt::
+(
+for file in *.txt; do
+  # Extract the base name without the extension
+  basename="${file%.*}"
+  
+  # Create a directory named after the base name
+  mkdir -p "$basename"
+  
+  # Split the file into chunks of 100 lines each
+  # and place the output files into the created directory
+  split -d -l 100 "$file" "$basename/${basename}_"
+done`n
+)
+return
 
 ::re verse::g/^/m 0
 
