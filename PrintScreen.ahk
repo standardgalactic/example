@@ -189,8 +189,9 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getstuff::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-gUqJyvrS7IesKeeWSWfzau&jct=QgzLOonv1bfsWxVpiS8DYQ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+::getstuff::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
+::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; https://www.youtube.com/@hume_ai
 
@@ -198,6 +199,10 @@ return
 ::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
+
+::getvideo::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=McnNjFgQzyc
+
+
 
 ::updatey::python3 -m pip install -U --pre "yt-dlp[default]"
 
@@ -1406,6 +1411,12 @@ return
 :*:u8::ű
 :*:u9::ū
 */
+
+;; The Rəd Pιll
+
+::getpill::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=zduw75zB3Iw
+
+::getpills::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=Y82sMnvPYKU
 
 
 ;; audiobook ; audiobooks
