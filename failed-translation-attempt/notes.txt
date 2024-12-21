@@ -1,0 +1,3 @@
+Did not work. Arabic was written backwards, and there was a lot of nonsense.
+
+Tried phi-4 and wizardlm2.
