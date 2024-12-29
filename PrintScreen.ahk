@@ -30,6 +30,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
 
+::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
+
+
 ;; Autohotkey shortcut - get subtitles
 
 ::wspr::
@@ -148,79 +151,45 @@ is_processed() {
 # Create progress file if it doesn't exist
 touch "$main_dir/$progress_file"
 
-# Iterate over each .txt file in the current directory
-for file in *.txt; do
-    if [ -f "$file" ]; then
-        file_path=$(pwd)/"$file"
-        if ! is_processed "$file_path"; then
-            echo "Checking $file"
-            echo "Checking $file" >> "$main_dir/$summary_file"
-
-            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
-            echo "$file_path" >> "$main_dir/$progress_file"
-        fi
-    fi
-done`n
-)
-return
-
-::getsumaries::
-(
-summary_file="overview.txt"
-progress_file="progress.log"
-main_dir=$(pwd)
-
-# Function to check if a file is already processed
-is_processed() {
-    grep -Fxq "$1" "$main_dir/$progress_file"
-}
-
-# Create progress file if it doesn't exist
-touch "$main_dir/$progress_file"
-
-# Process text files in the current directory
+# Process text files in the given directory
 process_files() {
-    for file in *.txt; do
-        if [ -f "$file" ]; then
-            file_path=$(pwd)/"$file"
-            if ! is_processed "$file_path"; then
-                echo "Processing $file"
-                echo "Processing $file" >> "$main_dir/$summary_file"
+    local dir="$1"
+    echo "Processing directory: $dir"
 
-                ollama run wizardlm2 "The speaker is Darin Stevenson. Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+    # Iterate over each .txt file in the specified directory
+    for file in "$dir"/*.txt; do
+        if [ -f "$file" ]; then
+            file_path=$(realpath "$file") # Use realpath to get the full file path
+            if ! is_processed "$file_path"; then
+                echo "Checking $file"
+                echo "Checking $file" >> "$main_dir/$summary_file"
+
+                ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
                 echo "$file_path" >> "$main_dir/$progress_file"
             fi
         fi
     done
 }
 
-# Check for subdirectories and recursively process them
+# Recursively process subdirectories
 process_subdirectories() {
-    for dir in */; do
+    for dir in "$1"/*/; do
         if [ -d "$dir" ]; then
-            echo "Entering directory $dir"
-            echo "Directory: $dir" >> "$main_dir/$summary_file"
-            (cd "$dir" && bash "$0") # Recursive call
+            process_files "$dir" # Call the function for the subdirectory
+            process_subdirectories "$dir" # Recursive call for further subdirectories
         fi
     done
 }
 
 # Main execution
-echo "Processing directory: $main_dir"
-process_files
-
-# Check if there are subdirectories
-if ls -d */ >/dev/null 2>&1; then
-    process_subdirectories
-else
-    echo "No subdirectories found in $main_dir."
-fi`n
+process_files "$main_dir" # Process files in the main directory
+process_subdirectories "$main_dir" # Process files in subdirectories`n
 )
 return
 
-::getsum::
+::getsummaries::
 (
-summary_file="summaries.txt"
+summary_file="overview.txt"
 progress_file="progress.log"
 main_dir=$(pwd)
 
@@ -237,52 +206,46 @@ touch "$main_dir/$summary_file"
 echo "Script started at $(date)" >> "$main_dir/$progress_file"
 echo "Summaries will be saved to $summary_file" >> "$main_dir/$progress_file"
 
-# Iterate over each .txt file in the current directory
-for file in "$main_dir"/*.txt; do
-    # Check if the glob didn't match or if file doesn't exist
-    if [ ! -e "$file" ]; then
-        continue
-    fi
+# Function to process text files
+process_files() {
+    echo "Processing directory: $1"
     
-    if [ -f "$file" ]; then
-        file_path=$(realpath "$file")  # Get absolute path of the file
-        
-        # Process only if not processed before
-        if ! is_processed "$file_path"; then
-            echo "Processing $file"
-            echo "Processing $file" >> "$main_dir/$progress_file"
-            
-            # Create a temporary directory for the file's chunks
-            sanitized_name=$(basename "$file" | tr -d '[:space:]')
-            temp_dir=$(mktemp -d "$main_dir/tmp_${sanitized_name}_XXXXXX")
-            echo "Temporary directory created: $temp_dir" >> "$main_dir/$progress_file"
-            
-            # Split the file into chunks of 100 lines each
-            split -d -l 100 "$file" "$temp_dir/chunk_"
-            echo "File split into chunks: $(find "$temp_dir" -type f)" >> "$main_dir/$progress_file"
-            
-            # Mention the file name before summarizing its chunks
-            echo ""
-            echo "Summarizing file: $file"
-            echo "===== Summaries for $file =====" | tee -a "$main_dir/$summary_file"
-            
-            # Summarize each chunk without mentioning chunk names
-            for chunk_file in "$temp_dir"/chunk_*; do
-                [ -f "$chunk_file" ] || continue
-                # Summarize the chunk and append directly to the summary file while also displaying to terminal
-                ollama run vanilj/phi-4 "Summarize" < "$chunk_file" | tee -a "$main_dir/$summary_file"
-                echo "" | tee -a "$main_dir/$summary_file"
-            done
-            
-            # Remove the temporary directory
-            rm -rf "$temp_dir"
-            echo "Temporary directory $temp_dir removed" >> "$main_dir/$progress_file"
-            
-            # Mark the file as processed
-            echo "$file_path" >> "$main_dir/$progress_file"
+    # Iterate over each .txt file in the specified directory
+    for file in "$1"/*.txt; do
+        # Skip if the glob didn't match or if file doesn't exist
+        if [ ! -e "$file" ]; then
+            continue
         fi
-    fi
-done
+        
+        if [ -f "$file" ]; then
+            file_path=$(realpath "$file")  # Get absolute path of the file
+            
+            # Process only if not processed before
+            if ! is_processed "$file_path"; then
+                echo "Processing $file"
+                echo "Processing $file" >> "$main_dir/$progress_file"
+                
+                # Summarize the file and append to the summary file while displaying to terminal
+                ollama run vanilj/phi-4 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+                echo "$file_path" >> "$main_dir/$progress_file"
+            fi
+        fi
+    done
+}
+
+# Recursively process subdirectories
+process_subdirectories() {
+    for dir in "$1"/*/; do
+        if [ -d "$dir" ]; then
+            process_files "$dir"  # Process files in the subdirectory
+            process_subdirectories "$dir"  # Recursive call for further subdirectories
+        fi
+    done
+}
+
+# Main execution
+process_files "$main_dir"  # Process files in the main directory
+process_subdirectories "$main_dir"  # Process files in subdirectories
 
 echo "Script completed at $(date)" >> "$main_dir/$progress_file"`n
 )
@@ -958,7 +921,7 @@ Send {Space}
 Send `$
 Return
 
-::fixssh::ssh-keyscan -H 192.168.2.73 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
+::fixssh::ssh-keyscan -H 192.168.2.233 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
 ;; spanish spanishsh
 
@@ -2531,7 +2494,7 @@ Return
 
 ;;  Laptops
 
-::mymac::ssh mecha@192.168.2.73 ;os/10 shell zsh, brew
+::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
 ::flyx::ssh flyxion@172.27.178.246
 ::astro::ssh aardvark@192.168.2.73
