@@ -189,7 +189,9 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getstuff::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+;; Protosociology https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
+
+::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -199,6 +201,8 @@ return
 ::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
+
+::getchannel::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@galactromeda  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getvideo::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=McnNjFgQzyc
 
@@ -672,7 +676,7 @@ Send {Space}
 Send `$
 Return
 
-::fixssh::ssh-keyscan -H 192.168.2.73 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
+::fixssh::ssh-keyscan -H 192.168.2.233 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
 ;; spanish spanishsh
 
@@ -1429,6 +1433,10 @@ return
 
 ::sewit::ffmpeg -f concat -safe 0 -i list.txt -c copy "Music of Hedonia.mp4"
 
+::joinit::ffmpeg -f concat -safe 0 -i list.txt -c copy "Theft of Fire.mp4"
+
+::addimage::ffmpeg -loop 1 -i tof.png -i "Theft of Fire.mp4" -c:v libx264 -tune stillimage -c:a copy -shortest "Theft of Fire.mkv"
+
 ::soundonly::for f in *.mp4; do ffmpeg -i "$f" "${f%.mp4}.mp3"; done
 
 ::musicoh::
@@ -1472,8 +1480,8 @@ Return
 
 ;; ffmpeg -i bio-relational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0   temporal-dimensionality.mp3
 
+::getmp3::ffmpeg -i wolf_dialogue.wav -vn -ab 192k -ar 44100 -q:a 2 wolf-children.mp3
 
-::2mp3::ffmpeg -i mpt-14.mp4 -q:a 0 -map a mpt-14.mp3
 
 ;; microsize video to mp3 ;;
 
