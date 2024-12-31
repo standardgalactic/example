@@ -1,0 +1,2740 @@
+so now you're basically having faith in
+the technical prowess of the programmers
+I have a technical faith faith that they
+will be mainly correct I think
+soft perect but they will be mainly
+correct I'm te mamut and you're watching
+Doom
+debates hey everybody Welcome to Doom
+debates today my guest is te mamut he is
+originally from KGAN he is a software
+engineer and has worked at Google for 11
+years as an engineer and a technical
+program manager he worked on Project
+Loon he worked at Google X he recently
+quit his job and has been back to
+kyrgystan for the last few years working
+on his own company which specializes in
+getting software Engineers to come to
+the US get a much higher salary fill the
+needs that us company have and he's been
+doing great with that his background
+also includes about 10 years ago joining
+the rationality community and going to a
+boot camp put on by the Center for
+Applied rationality so we're going to be
+diving in a little bit to his background
+and his journey as somebody who kind of
+became worried about Aid doom and today
+is not so much and we can debate that
+great yes we we help people move join
+American companies but usually it's in
+Europe Canada and other countries uh
+because US Visa is quite interesting
+let's say you are a software in Kyan in
+Central Asia your salary it's $10,000
+you get a job at Google your salary
+becomes
+$100,000 and you move to an kind of more
+developed safer country great so I
+myself like I suspect 98% of people
+watching this know absolutely nothing
+about Kyan so can you just give us a
+couple fun facts about like the culture
+there or what it's like sure sure no I
+love talking about KGAN this could be a
+multi-hour podcast but I'll be quick um
+so original C culture is similar to
+Mongols so we are nomads we are
+definitely different even the Ys Mongol
+Ys are more flat because they are in
+windy areas we are in high mountains
+beautiful areas and they are a more kind
+of like semi spere uh because it has um
+there's not not much problem with wind
+but it has more um what's our
+precipitation like snow and rain and so
+that's how the type of Europe is
+different so we lived like that for
+thousands of years and then we joined
+Soviet Union so we integrated with like
+a Russian culture so I speak Russian
+language fluently and um so yeah it's
+kind of nomadic culture then about 100
+years influence Russian influence and
+Soviet influence um beautiful mountains
+and we are the furthest country from any
+ocean of sea this is kind of like a fun
+fact um yeah it's a cool country I like
+it usually people when they come they
+are positively surprised because if your
+country ends with stand
+usually usually not a good
+the are usually not very good sorry is
+it a modern culture high quality of
+life I have a very high quality of life
+given kind of if you if you earn a few
+thousand bucks a month uh you have you
+can have a like a very high quality of
+life it's quite safe I mean I safer in
+San Francisco in many ways I would say
+um so yeah I would say it's quite a high
+quality of life I mean there are some
+challenges like air quality air
+pollution in
+winter stuff like that
+but in general it's pretty good I mean
+it's a developing country so rule of law
+is not that great but honestly I don't
+feel it that much and I think now is
+pretty good time for the country is
+developing really fast um so yeah kind
+of enjoying my time here all right so
+for all the people out here watching
+Doom debates I want you to represent how
+knowledgeable you are that when the
+conversation turns to yurs I want you to
+remember that the ones in Kyan are
+rounded
+correct yes they are more rounded
+Central Asian yurs Kazakhstan KGAN and
+Mongols are more flat so if you see a y
+if AI draws a y you can see if which one
+is it um so they are kind of quite
+different there kind of two types two
+general types
+cool all right fascinating so tell me
+what made you interested in the Doom
+issue in the first place and even maybe
+convinced you and then how you became
+unconvinced sure um first I think it was
+uh Tim Urban's wait but why blog uh he
+had a long post about uh oncoming AGI I
+don't remember the exact term he used
+but it was about kind of really like
+super Intelligence coming soon and um
+that it brings dangersous with it and I
+kind of immediately kind of accepted the
+idea that it's there there seems to be
+risks right I I took it kind of too hard
+um but I didn't take it enough too hard
+to kind of do something about it right
+so it was kind of like level one and
+then I went to C far but the goal was
+the the Center for Applied rationality
+training it's a like a multi-day boot
+camp but the goal was not to kind of get
+to know about AI issue the goal was kind
+of to improve my own life it's kind of
+selfish uh but through that I met people
+working at like future of humanity
+Institute and uh Mei and multiple other
+organizations and it's kind of like a
+huge overlap right the AI alignment
+community and the rationality community
+um
+so while talking to them I I consider
+them extremely smart people some of the
+smartest people I've ever talked to if I
+can compare which I would argue that we
+should we should be very careful about
+kind of ranking intelligence uh it's
+kind of like a a tricky thing uh but uh
+I felt like they were like some of the
+smartest people I've ever met and they
+seemed also interested in the AI
+alignment and just kind of actually
+looking at the arguments be behind the
+alignment it seemed really serious and
+then I actually did this quiz by um
+80,000 hours that's the one so they have
+this quiz where you kind of they have
+this quiz where you put like your skills
+and maybe your passions and it tells you
+like what's the the most optimal thing
+you can do and for me the most optimal
+was starting my own company which is
+what I exactly what I
+did that's great okay so you've been on
+the path of rationality training
+rationality advice and you've become
+familiar with the Doomer argument now
+you recently tweeted that you're kind of
+over being super worried about AI Doom
+which was the impetus to have you on
+Doom debates so tell me about that why
+are you now a non- Doomer let's debate
+yeah
+um so in so I tried to actually sit down
+and imagine the scenarios of how it can
+play
+out um and when I when I tried to
+actually execute the scenarios the the
+most likely and the most negative ones
+it seems very unplausible it seems that
+multiple unusual things have to happen
+um for this really bad scenario to
+happen and I broke them down uh step by
+step and I'm really this is very early
+framework I would say I I did not spend
+too much time on it so I would love to
+to do to debate but I think it's
+interesting so the way I I think about
+it would love to be corrected on this
+kind of improve improve my thinking on
+this uh first AI
+Technologies need to continue develop
+pretty fast for this to be an issue uh
+really soon that I believe will happen
+like a personally I think that's likely
+to happen maybe like 80 to 90% that the
+speed will continue right kind of like
+exponential is
+right um but it has kind of has to
+continue second thing is it should
+continue until the level that it reaches
+this kind of really dangerous levels on
+that one I also I'm I think this will
+happen I think it will get to a
+dangerous level soon most likely so
+that's where that's where I'm where I am
+I know there are some people who don't
+even believe that it may happen in 100
+years I think Robin Hansen kind of
+thinks it's going right so you're saying
+you you do believe in short timeline or
+you think short timeline is already not
+very plausible no I think it's likely
+the short time is likely okay so that
+one I I concede if if you believe so so
+that that one I'm with you most likely I
+think it will be short timeline um okay
+then then the next thing that has to
+happen is um
+this dangerous enough
+AI uh can cause an
+extension sorry dangerous enough AI did
+not get enough alignment mechanisms in
+place that one I think it's also likely
+because I do agree that it's hard to put
+all the alignment mechanisms in place
+that kind of like to kind of close all
+holes so that one I also agree with but
+it also it's not 100% right so but maybe
+it's 90% the next one I think that's the
+the the one that
+it's that we may we may argue the most
+about that's where the difference is the
+biggest potentially is um not only AI
+can execute a bad scenario but it
+actually
+will um
+so not just you don't align it but it
+will actually execute the scenario and
+actually use the loop hole that we left
+out that one that's the that's the
+biggest one for me that that um it seems
+I'm not sure why it would happen right
+I'm not I believe if it can it doesn't
+mean it will I think that's my core
+argument the core cracks and lastly the
+last two is um even if it will right
+um the world needs to be this way so
+that other AIS and humans and like human
+build systems don't notice this bad like
+really bad catastrophic scenario
+happening and I'm not able to
+stop right so I don't know like How
+likely is that I put like 5050 right I
+don't know how difficult is to kind of
+notice and stop right um and then the
+last one is even if it is executed then
+there's no way to roll it back that one
+kind of it depends on the the definition
+of a catastrophic scenario if by
+definition catastrophic scenario is the
+one that you cannot roll back then kind
+of this the last point doesn't matter
+but the two points before that for me
+those are the kind of core points uh if
+it can be bad it doesn't mean it will be
+bad and then even if it will be
+bad it has to be bad so quickly and so
+good that other people are not able to
+notice it and stop it um um so I think
+those two things kind of multiplied by
+each other for me bring the
+probability really low mhm like I I
+would love to kind of discuss those in
+most detail great yeah thanks for
+spelling out your position I think
+that's pretty clear uh you mentioned a
+conjunction of different things that all
+have to be true in order to get AI do
+and as I discussed with Robin Hansen
+it's easy to keep listing things and
+make it sound like a conjunction of
+independent factors and when you keep
+listing and listing it's easy to pull
+for the argument of like hey look you
+multiply these all out and you keep
+multiplying it keeps getting smaller and
+smaller until it's like you're worried
+about a tiny probability but of course
+the trick there is the more stuff you're
+listing the more likely you are to have
+a lot of dependence between multiple
+bullet points in your list so that it
+doesn't get multiplied again like it
+just kind of asmp tootes out to like a
+pretty big probability right so that's
+like the standard way that conjunctions
+might not end up as small probabilities
+right yeah I know I I consider that yeah
+yeah definitely and I and I saw your
+debate too yes okay um all right so and
+now the first bullet points you
+mentioned it sounds like you're actually
+riding past those stops on what I call
+the Doom train you're not getting off on
+those stops for instance you mentioned
+the stop where people are like oh AI is
+actually going to take a really long
+time to come you're not getting off on
+that stop you're still riding the Doom
+train you're like no no no I'm my I
+actually think that AI is going to come
+pretty soon so I'm I'm going to get off
+at the next stop where AI uh can be
+deadly but it won't be deadly that's my
+stop
+right yes I think that's the one yes I
+think it's a funny analogy yes I think
+it's 90% I would say I gave 90 and 80
+like uh anyway roughly somewhere there
+for the first two basically it will we
+will get there soon to the we will get
+to the deadly but it doesn't mean we'll
+use it it's like the nuclear bombs we
+have so many of them doesn't mean we use
+it so but we'll get to the dangerous
+place and uh I feel like we'll feel safe
+that okay so there's a lot of people who
+are pretty prominent who have already
+gotten off the Doom train before you uh
+there's there's a lot of people who are
+like AI is just a technology it's crazy
+to even make an analogy between Ai and
+nuclear bombs AI is just math math can't
+come murder you it's it's it's a
+category error to quote mark andreon one
+of the people who is really not taking
+the Doom threat seriously so you're
+basically saying no no no Mark I'm still
+on the train I'm riding the train all
+the way to the stop of like it to could
+kill everybody but it
+won't yeah I I watched Mark's video with
+Lex fredman the podcast one point I
+remember from him saying if it's so
+smart how is it not smart enough to kind
+of collaborate with
+humans um something like that but I'm
+butchering the argument I'm
+sure yeah so Mark has made the point on
+some podcasts where he says how can you
+have an AI which is so smart that it can
+take over the world but so stupid that
+it doesn't realize that it has this bug
+that it's being unfriendly to humanity
+and the obvious response is being really
+intelligent and robust at executing on
+utility function doesn't mean that you
+see a bug in your utility function right
+you can have any arbitrary utility
+function and in your mind as the AI
+That's Just the correct utility function
+if it says kill all humans so that no
+human ever suffers again if that's what
+it says you won't be like oh let me
+debug that you'd be like yep sounds good
+sounds like a plan yeah yeah no I'm with
+you on that yes so
+I yes I think I think that's I don't
+agree with him on that okay great so I
+mean that's definitely part of the
+exercise that we do here at Doom debates
+we are fleshing out the different non-
+Doomer positions and there's different
+Doomer positions too but it's actually a
+major goal of this podcast to just show
+people like look there's a lot of
+different positions it's not binary and
+I think it's great that you're at least
+riding past the earliest stops on on the
+Doom train um and Mark andreon is an
+example of somebody who gets off at one
+of the earliest stops I've seen Robin
+Hansen actually got off even earlier if
+you look at the robin Hansen debate he
+actually he even gets off at like I
+don't see why we should expect super
+intelligent AI necessarily in the next
+hundred years so those are the very
+early stops these people don't ride the
+train to bet money against him right
+exact okay all right so so now we can
+talk about your stop or the first stop
+because you actually want to get off at
+a combination of multiple stops um so
+this question of AI can be deadly but
+will it you made the analogy to nukes
+where it's like we have these nukes if a
+thousand nukes got launched it could it
+might not wipe out every last human but
+it would at least kill like a third of
+the human population most experts think
+and the rest of the human population
+there's a quote from Annie Jacobson's
+book recent book nuclear war the living
+will Envy the dead right like that's the
+kind of outcome we're talking about if
+if somebody pushes yeah if somebody
+pushes a button to launch a thousand
+nukes which a lot of these triggers are
+automatic one nuke could lead to a
+response of hundreds of nukes just
+because that's the Strategic plan anyway
+I highly recommend that book nuclear war
+but the reason I'm bringing this up is
+because you're making this analogy where
+it's like it's going to be fine because
+it's going to be like nuclear weapons
+but don't you think that the equilibrium
+that we have with nuclear weapons is
+precarious like we're not in a stable
+equilibrium we're in an equilibrium that
+every year has like a 1% chance of
+derailing I didn't I wasn't kind of
+trying to make like a clear analogy and
+saying because it's fine but it's kind
+of like a similarish I didn't want to
+kind of make a direct analogy um just I
+just wanted to paint a similar picture
+say yeah yeah but but I think I mean the
+reason I'm bringing it up is just
+because like when you say it'll be
+nuclear weapons you used it just as an
+example you just wanted to abstract away
+the property that it could kill
+everybody but it doesn't and that's fine
+but how do you imagine a scenario where
+you have something that's as potent as
+nuclear weapons and yet somehow the
+equilibrium of not using it becomes more
+of a solved coordination problem than
+what we're seeing with nuclear
+weapons
+um okay so I think based on the history
+the default is a good scenario I think
+that that's my so I feel like the
+looking at back at history and where
+kind of a bit kind of Robin Hansel style
+if we look back at the the facts right
+the the default scenario is good for me
+right we did not have a giant nuclear
+war so I think the the burden of proof
+in a way is on the person who is going
+to
+say something extremely bad is going to
+happen likely right so because looking
+at the past it seems even if we have all
+of those
+deadly deadly
+weapons uh like I think
+it's unlikely that those will be used by
+default it's unlikely unless I'm proven
+otherwise that it's kind of it's very
+unusual and um I can try to kind of like
+to argue against myself and I because
+just before this yeah can I just jump
+can I jump in though so it sounds like
+you're making a type of argument that in
+poker I think they call resulting where
+you're looking at a result that happens
+and you're kind of forgetting about the
+op priori distribution of probabilities
+of results that could have been right
+you could be like oh I made a terrible
+move but I won the hand I'm doing great
+everything's great um a really good
+analogy of resulting I think is if you
+look at the recent attempted
+assassination of former president Trump
+I feel like you're looking at that and
+you're being like the default is that
+President stay alive it's like H that
+bullet really was going right for his
+brain like that's not my
+takeaway yeah but what's the what's the
+better argument why why but do do we
+agree that the burden on there is like a
+burden of proof uh of kind of on from
+the side of a Doomer that you have to
+prove that something unusual is going to
+happen when you say burden of proof in
+this particular case it sounds like
+you're setting up a reference class
+where the reference class is like times
+when we made a really potent weapon and
+then whether we subsequently survived
+right you're you're trying to say like
+the default is whatever happened the
+last time we made a really potent weapon
+that's like a good thing to expect next
+time and I think that's actually
+reasonable but when I look at the
+situation with nuclear weapons I don't
+think we're going to survive that long
+in this equilibrium right I think it's a
+powder
+keg yeah but I think that this is your
+opinion and I respect it but I don't
+think it there is any kind of
+justification for
+pessimism either there's no really a DAT
+data we only have intuitions on what
+could happen this I think it's
+unpredictable
+absolutely um so if you're trying to to
+draw a lesson from nuclear weapons
+though don't you think it's an important
+detail that we've done a lot of work a
+lot of the top World governments have
+made it a high priority to put a lid on
+nuclear proliferation and right now it's
+actually a huge disaster that Iran keeps
+getting really really close to having
+its own nuke and really wants to use it
+on Israel for example right like that's
+currently a major issue right now in
+world
+affairs yes but I don't see it anywhere
+close to being any you were close to
+a doom like a really catastrophic
+scenario
+Soo much about it I didn't really think
+spend too much time Ben Horowitz has
+taken the most extreme position on this
+that I've seen where he said something
+like um on Eric torberg podcast a few
+months ago he said we've become so safe
+because of mutually assured destruction
+where I'm just paraphrasing but the more
+Nations that are getting it the safer we
+are which is kind of the opposite of how
+you generally think about nuclear
+proliferation where it's it's critical
+that we limit nuclear proliferation
+because if not only every nation but
+imagine just every person could just go
+on a torrent website and download a nuke
+and press the button on their own laptop
+would that be a stable case of mutually
+assured destruction or would somebody
+just push the damn button I think the
+biggest question which where I don't
+have enough data is how good is the
+defense and um for example if if Putin
+started the nuclear war against the US
+US how many nukes would us be will be
+would be able
+to uh intercept right I
+definitely towards Israel how many nukes
+would it so we do have some nuclear
+interception capability but the moment
+you just fire a couple mves uh like
+multi-head Warhead weapons they're
+specifically designed to counter these
+kind of interception attempts so maybe
+the interception if we're lucky
+intercepts one or two of the Warhead but
+even the same launched weapon can split
+off into like 10 warheads and you really
+can't intercept them all and even if you
+do successfully intercept them all last
+I heard we have like 40 or 50
+interceptors ready to go and Russia is
+fully capable of launching like a
+thousand Warheads at us so like
+interception is great but if Russia
+wants to fire a few nukes at us they're
+going to take out multiple cities on a
+first strike and at that point as Annie
+Jacobson horrifically details there's no
+plan for what happens after the first
+nuclear bomb goes off all our eggs are
+in the basket of preventing the first
+one from
+happening
+yeah yeah that's there's a lot of
+unknowns there right um there's unknowns
+how many of them will work like and when
+I say there's no plan I mean there there
+is a plan the plan is we then
+strategically attack with like 500 nukes
+at all of the threatening sites inside
+of Russia or inside North Korea like
+whatever it is we fire a lot of nukes
+because of course the the plan has to
+assume that there's other nukes coming
+and they're going to disable our nuclear
+silos so we got it's a use them or lose
+them situ it's like horrific horrific
+stuff it's literally like you start
+racking up in hundreds of millions how
+many people die as a result of the US
+response which by the way has to happen
+in minutes so we have minutes to press
+the button to execute this
+Counterattack yeah but I think like with
+with u like uh with Russia Ukraine right
+he had a huge incentive I feel to launch
+a nuclear bomb against Ukraine
+and he didn't because like he they
+people tried to kill him right when he
+started the war against Ukraine when
+Putin started people tried to kill him
+and there's really a lot of danger for
+his personal safety for his family
+safety um but there's I think there's
+just so many incentives against a
+nuclear war that even in that scenario
+where his life was in quite quite some
+danger I would say even then he he
+didn't launch the he didn't start listen
+I'm not disagreeing I do agree with you
+that on any given year there's a 99%
+chance that our skin will remain on our
+bones I agree with you 99% per year but
+I don't think that it's more than 99%
+per year I think that there's things
+will improve um I feel like people are
+getting friendlier uh to each other over
+time I think there's uh what's the I
+think you you Stephen Pinker has a lot
+of data points I did not check them but
+I believe a lot of them are right I
+that's my general understanding how
+things are evolving before that it was
+kind of like uh slavery was kind of okay
+with like having a black slave uh now
+you can many more people understand that
+you know black person white person they
+kind of feel we can go back and forth on
+extrapolating Trends all day but I think
+you can see as a matter of pure logic
+right if you just follow me with this
+hypothetical if nuclear proliferation
+were much worse than it was because of
+the particular properties of what it
+takes to build a nuke if somehow any
+laptop could be a launcher for something
+as powerful as a nuke and it was
+literally as easy as downloading open
+server software and running it at that
+point do you think we're in a stable
+equilibrium or how quickly until the
+world ends I think yes obviously it gets
+more dangerous if anyone can launch a
+nuke from their laptop if I mean just to
+be clear I mean in my opinion we have
+like 24 hours right because there's
+enough people in the world who are fine
+with hit pressing enter to end the world
+right there's there's more than 100,000
+people in the world who if a prompt came
+up on their screen it said press enter
+to end the world they'd press enter
+right there are some people in this
+world that would do that yes there's
+some yeah and you know 100,000 out of 8
+billion roughly is I think is an
+underestimate of how many people would
+do
+that how many 100,000 out of 8 billion I
+think is again underestimate possible
+okay uh I don't know where this data
+comes from but okay I I mean there just
+to name one there's there's at least a
+million people in the world who if you
+propose the idea of like hey don't you
+think the Earth would be better off
+without humans I mean I even remember I
+read a website when I was like 14 years
+old and I'm like oh this website makes a
+good case you know it's time to like let
+the world grow without humans like why
+don't we just all stop having kids like
+that sounded like a reasonable
+reasonably convincing argument so if you
+just have a bunch of people in the world
+who are like 14 year old Le on one of
+them presses enter and it's done
+I don't know I think there would be much
+more crime if that was the case right if
+if um because killing a
+person you can do it in so many ways
+right you can throw a big Stone from a
+bridge there's just so many ways to be
+destructive and people not that many
+people are there are people who had like
+a I would say trauma highly traumatized
+childhoods and they grow up around
+violence and they will do some crazy
+things
+but I think the percentage is small and
+it is getting smaller over
+time
+okay all right I guess we've talked
+through that issue um I mean for me this
+is still terrifying stuff so I'm just
+surprised that you're willing to be so
+optimistic that something that requires
+a huge fraction of humanity to
+consistently cooperate you're
+comfortable with that
+scenario um so look are we talking about
+AI right now or or nuclear I we're just
+talking about any system with the
+property that you just need constant
+coordination right with a bunch of
+actors that could ruin it independently
+but choose not to yeah yeah I think with
+with AI what's going to happen if either
+most likely I think there will be uh
+several
+approximately uh same-sized entities
+kind of like we have with like Google
+Cloud Azure and um
+AWS I think we're getting to the world
+where one of them obviously will be kind
+of first in some ways others will be
+catching up like llama just I think
+yesterday was released and it's kind of
+better in some benchmarks than like open
+like CH chpt and stuff like that right
+now I think we're heading to the world
+where there's this giant groups of
+companies or companies like big Tech
+kind of companies and uh one of them
+will be ahead and then the rest like
+people with laptops they will have some
+power but I feel like uh the Giants like
+Google and Microsoft Plus open ey and
+others I think they will just have so
+much more
+um their systems will be so much more
+intelligent and capable and faster and
+all that so I I I'm sure there will be
+some like terrorist attacks right
+locally but I think it's extremely
+unlikely that there will be like Global
+catastrophe originating from a laptop so
+I think your position I think your
+position really isn't analgous to the
+position with nukes because when we talk
+about the position with nukes it's a
+critical detail that offense is
+massively overpowered compared to
+defense like the amount that we can
+intercept nukes is Tiny compared to the
+damage that we can do with nukes it
+sounds like you are kind of conceding
+that if AI gets into a situation where a
+single person pressing enter can't be
+intercepted by any body you probably
+agree that we probably are screwed and
+you'd rather defend the scenario of like
+well there will be interceptors right
+it'll be an equilibrium where like the
+biggest companies have powerful
+interceptors and for that reason we can
+survive yes my intuition is which again
+I didn't spend too much time into
+thinking like digging into this my
+intuition is that
+defense should be
+um easier uh compared
+to uh the the nuclear scenario but I'm
+happy to learn because you thought about
+it more right but that's what my
+intuition says that if you have Google
+and like open ey whatever anthropic they
+will build out systems that will try to
+catch uh like this Bad actors around the
+world and if somebody let's say in Iran
+or wherever some crazy person launches
+an AI agent like a really evil one um my
+intuition says says that most likely
+will be intercepted before it takes over
+the whole
+world yeah so when I think about the
+question of like long term when you're
+talking about the world is defense
+easier or is offense easier I think I
+could probably give a simple answer
+where if there's a significant
+difference in intelligence I think
+Whoever has the higher intelligence if
+the Gap is big enough can just get their
+way and if you look at chess that whole
+analogy of what's defense and what's
+offense you can argue it's a little
+flimsy we could be like well white goes
+first so white is offense and black is
+defense but it's barely they're almost
+the same right but if you say okay black
+is defense does black have the advantage
+we don't really know whether white or
+black has the advantage in chess I mean
+white has a slight Advantage but the
+slight advantage that people think white
+has is Tiny compared to the advantage of
+AI playing chess much better than humans
+right so the AI can be black and it's
+still going to be a human playing white
+even though offense has a slight
+advantage over defense so that's my
+attempt at doing a flimsy analogy I'm
+not sure that it applies but I am pretty
+confident that like if you want to know
+who's going to win a war it's not about
+who's attacking or defending it's just
+who has more intelligence on their side
+yes and it seems that now it seems that
+a lot of gpus are needed right so it
+seems that only few entities will be
+able to afford such a catastrophic
+scenario like they will be they will
+have it's kind of like uh it's similar
+in this way with nuclear proliferation
+where there's like this nucle nuclear
+superpowers and instead of nuclear
+superpowers we'll have
+this super intelligence superpowers ASI
+superpowers right AI superpowers I feel
+like there will be AI superpowers and um
+yeah it and I feel like if there will be
+a problem catastrophic it will come
+originate from there not from like uh uh
+Terrorist on with a
+laptop right so it sounds like you may
+be imagining a scenario where it's like
+we have a bunch of companies we've got a
+bunch of people where if you pay enough
+money you can amass a bunch of gpus or
+whatever and you can do something that
+you may be imagining as like control an
+army of simulated humans with an IQ of
+100 and the more you pay the bigger your
+army can be and the more stuff you can
+get done with your army of average human
+simulations is that roughly the the kind
+of world you're imagining living in
+sorry no I I didn't understand why would
+we need an army of human like it's not
+real humans but I'm just saying like
+when you're imagining a world where it's
+like oh yeah this company will have like
+the most gpus the biggest data centers
+and so it's in the best position to stop
+attacks or overpower other people who
+try to attack it sounds like when when
+you imagine the equilibrium working out
+like that it's the kind of equilibrium
+you might get if every GPU gave you the
+equivalent of an emulated human with 100
+IQ is that like an interesting toy
+scenario that kind of reflects your
+views for me it's like the the analogy
+for me that's easier is it's like a one
+data center is like a one nuclear bomb
+you know one one rocket something like
+that right and
+normal like normal people have less than
+a
+nuclear bomb but like big entities they
+have this big entities have huge data
+centers so that's that's seems analogous
+me right um so the reason why we survive
+I don't think is just because the data
+centers have bigger weapons it's
+probably also because there's a
+mechanism to stop individuals from
+having weapons so maybe in your case you
+just think that it's impractical for any
+individual to uh amass enough power to
+be super destructive like they'll launch
+a virus but their virus will always be
+preventable by a multi-billion dollar
+corporation that develops the
+antivirus I'm sure there will be some
+successes from terrorists
+like I feel like that that's usually
+somebody will some find some
+loophole but then that will be patched
+up right I feel like before we get to
+this like incredible superpower of AI at
+each step we will have probably some
+little catastrophe that will help us
+patch
+up yeah so in the scenario you're
+imagining what I would imagine is that
+whichever company is farthest ahead at
+having the best AI you get an IQ
+increase so you get a situation where
+they have some system which is just
+smarter than the smartest human and also
+has the extra advantage of being able to
+easily clone itself so you have like a
+million or a billion copies of this
+smarter than human thing now at that
+point I think there will be something
+that triggers a loss of control at some
+point I can't even tell you exactly when
+MH right but I just think it's such a
+potent unstable situation that it's hard
+to imagine why humans should then
+maintain control at that level so that's
+where I would take the scenario and
+that's that's the core disagreement I
+think right that you think for some
+reason we will lose control mhm where I
+feel like by default we'll keep the
+control okay so just to flesh out one
+hypothetical scenario where I think we
+could lose control so are you following
+along to the part where it's like okay
+yeah it's it's a system of code but the
+actual decisions that it could make and
+the answers it can give to questions and
+the way it could run a company is just
+more powerful than human like the same
+way that Elon Musk could run a much
+better company that I can this AI could
+potentially run a much better company
+than Elon Musk sorry uh there was like a
+with connection you can you say it from
+the beginning the argument let's imagine
+a system of code okay so let's say if
+you're following along to this part of
+my scenario are you following along
+where we build an intelligent system
+where I claim it's smarter than the
+smartest human so the same way that Elon
+Musk could run a much better company
+than I can we could have an AI that
+could run a much better company than
+Elon Musk and also clones itself a
+million or a billion times are you
+following that scenario so far I I would
+like to be very careful when we make we
+use the word better and smarter right
+because um you will be smarter in
+certain cognitive
+dimensions in some maybe usually less
+important cognitive Dimension cognitive
+skills it will not be but mainly it will
+be smarter yes I just want to be a
+little bit careful just just not to have
+like a very clear smarter than Elon Musk
+yeah defin personally I think it's got
+two multi-dimensional cognitive skills
+AI will never be smarter than Elon Musk
+Elon Musk will not be smarter than AI
+they just have like op like CH GPT is
+smarter than Elon Musk in many cognitive
+dimensions and El and it will never be
+as smart as Elon Musk even with like all
+the gpus of the world because Elon Musk
+has like
+certain unusual cognitive skills that
+kind of because he's a biological entity
+they just so unique Maybe is like really
+fast with like Intuition or something
+like that so he will just be smarter in
+this way and as a CEO some things will
+be kind of maybe we will be better at
+always maybe we need some empathy
+towards humans maybe but okay I just
+want to highlight that I I have problems
+with this kind of line of arguments
+okay I think this is an earlier
+assumption yeah I think this is a very
+important assumption so do you think
+that in in a thousand years of
+technological progress we'll still be at
+a point where an AI can't do anything
+better than a biological human you still
+think we'll be at that point yes I think
+I think there are things
+that that doesn't have to for example
+like I don't hopefully we're not going
+to live in the world where AI has all
+the data right it's the camera is in
+every room microphone is in every room
+right it's in the toilet right I want to
+have privacy and I want to give my
+information only to my Clos ones right
+so if I had a bad dream I will tell my
+spouse oh I had this bad dream or I had
+this good dream I dreamed of having
+this it sounds like you're you're
+talking about like how you want Society
+to function and privacy concerns but do
+you think that somewhere in a lab will
+be an AI that On Any Given skill
+Dimension will be greater than human or
+no
+um I think um
+there are certain skills that are
+interesting I would say first like
+empathy related like understanding the
+understanding what my spouse and what my
+daughter feels right I will understand
+what she feels how this is some things
+they just not put into code I will just
+feel how she feels and I will understand
+she will feel I understand and no matter
+how ginormous you have a neural network
+how many
+gpus as a dad of my daughter which I
+don't have right now but I will still
+better understand her and every time she
+will say that I understood her better
+even so when you understand somebody
+else right your brain is doing an
+operation credited to mirror neurons
+largely where you configure your own
+brain in a state that you work backwards
+from what you're observing as the other
+person's facial expression other
+evidential cues and you're building a
+mental model of how they feel and
+furthermore because you're and the way
+humans work the way primates work the
+way a lot of mammals work you use the
+mirror neurons and you feel it yourself
+and that's a way to implement
+understanding how somebody else's feel
+is you reuse your own architecture for
+feeling things yourself to understand
+how the other person feels it's called
+empathy empathy it's called mirror
+neurons do you not think that an AI can
+use its silicon neurons to also model
+how somebody
+feels maybe it will yes I mean I I know
+Ray cell's kind of line of arguments
+that will just take all the data and
+upload it all online it will be the same
+I'm not sure maybe me you mention you
+men you have the skill of of feeling the
+same way they feel what if we hold that
+aside because that also requires some of
+the mystical substance of consciousness
+of qualia what if we're not talking
+about how you feel but just talking
+about how accurately you're modeling the
+state of the other person just as As a
+matter of a predictive power do you
+right do you think that and at the end
+of the day when when you create this
+feeling in yourself you're doing it
+based on inputs that you're getting from
+the other person's outputs right like I
+said facial expressions words facts that
+you know about them so that mapping from
+the evidence you get as input to the
+model of them that you have as output
+you don't think that that mapping can be
+done better in a super intelligent AI I
+don't know right maybe maybe it will be
+right if if we are if and if we can only
+simplify things to neurons right then
+yes
+but and neurons are also I mean they are
+probably Quantum right they are probably
+not just uh like a floating Point number
+okay so you think that in order for the
+brain to Output predictive models of
+other people you meet it has to exploit
+Quantum effects I don't know right I
+don't know like maybe once you have the
+benchmarks right the quantum syst like
+more Quantum system like original
+Quantum system of like a biological
+system of a human will still beat on
+certain
+benchmarks ginormous
+AI okay so for the record it seems clear
+that the brain doesn't exploit Quantum
+effects because it's just it would be
+it's it's too crazy for me to think that
+a system that's as clui as needing
+chemical neurotransmitters moving Parts
+just to transmit an electrical signal
+super inefficient architecture which
+explains why the brain only Fires at 20
+HZ instead of 2 GHz right massive
+difference factor of 100 million
+difference in in firing speed because
+we're using moving Parts but you're
+telling me that this Cluj of a system is
+also exploiting subatomic Quantum
+effects in order to do its processing
+that that our current classical
+computers can't exploit and then not
+only that but theory of computation
+complexity Theory also tells us that the
+actual algorithmic speedups that you can
+get from exploiting Quantum effects are
+actually overrated like you don't even
+get that many Quantum speed ups and it's
+like look if you want to speed up why
+don't you not fire at 20 HZ right why do
+you need to exploit Quantum effects
+all right okay I think you sounds like
+you thought about it more than I do I
+can I can potentially concede that one
+okay that that Quantum effect we don't
+have to go that deep it also sounds like
+you're not even imagining oh we got to
+speed up it sounds like you're even
+imagining oh well we violate the church
+Turing thesis we got a different type of
+computation that you can't model
+classically right it sounds like that's
+where you're going with this sorry can
+you repeat that it sounds like when
+you're imagining Quantum effects as a
+way to let humans feel other humans
+better it sounds like you're not just
+saying oh you get an algorithmic speed
+up that quantum computers give you it
+sounds like you're saying you get a
+different type of
+computation I feel like if you have if
+you have again this is just intuitive uh
+if you have uh biological wet neurons on
+one side and biological wet neurons on
+the other side it's more likely that the
+the system will more precisely kind of
+represent the other system then if you
+take a very
+different system which is like zeros and
+ones to let me ask you this do you think
+vinyl records are higher quality than uh
+Spotify Premium all right let's see yeah
+because people think that
+right uh yeah it's interesting yeah it's
+interesting now I I'll need to think
+about
+this yeah I mean the answer is pretty
+clearly no I mean stify premium just has
+a high enough bit rate that it just
+exceeds the the granularity you know
+analog doesn't mean perfect Fidelity
+right yes yeah no
+definitely um okay let's let's let's uh
+kind of let's summarize this this point
+um so so the disagreement then
+is my my point is maybe in some
+cognitive Dimensions AI will never be as
+as as strong as a human and you just
+agree with that
+correct to me it seems like a pretty
+clear assumption that I think even most
+non- doomers I talk to will probably
+Grant so you're kind of regressing here
+on the Doom train from my perspective
+you're getting off an ear separate yes
+it's an unusual I know it's an unusual
+thing to to argue about but I would love
+to kind of spend more time later kind of
+to think it through yeah I to me it
+seems like an assumption that most non
+Grant which is that like in a thousand
+years right like at some point we're
+just going to exceed the human brain on
+every Dimension we can even make a
+Jupiter siiz computer brain that feel
+feels better than a human has ever felt
+yeah I don't like intuitively I'm still
+not there I will after the debate I'll
+go and spend some time to process it
+deeper and think it through and write it
+out um but I think it's an interesting
+point like I don't okay great yeah so
+but I mean this may be a Crux that I
+don't know how easy it's going to be to
+move past this because if your claim is
+that we'll always be able to like
+holistically assess how to run a company
+better than an AI can because we're
+using Quant for the purposes of this
+debate I'm okay to concede that I'm okay
+to just imagine I conceded that for the
+purpos of debate but because there's
+there's other more interesting points
+that we can argue okay so so let's let's
+get back to my scenario so you me you
+asked the question of what dimension is
+the AI going to be better than humans at
+the dimension that I always focus on
+which I consider to be synonymous with
+the word intelligence but we don't have
+to get into semantics we can just talk
+about the dimension more explicitly the
+way I am now I call it optim ation power
+and it's the question of hey who is
+better at squeezing the future into a
+particular end State a particular
+Criterion so in the example of Chess who
+is better at getting the board into a
+winning configuration for their color if
+you have two players who's the better
+chess Optimizer and I draw the analogy
+like hey the physical universe is also a
+system that has States you can also have
+agents in it that they have desired end
+configurations and you can ask the
+question which agent is more likely to
+meet meet their success criteria right
+and that's and when we talk about a
+smarter agent getting its way that's
+what we're talking about right these end
+state that meet certain
+criteria I'm still like even if it can
+do a bad thing why would it do right um
+and I I can I already know what the
+arguments could be I would love to kind
+of hear what the arguments are um but
+but for me that's kind of like the main
+Crux uh if I could say that um
+if it can why would it do a bad thing
+okay great like how would how come we
+cannot we are not able to prevent it
+with like other maybe slightly weaker
+AIS stuff like that so it is important
+in my scenario that the AI is just
+massively powerful at optimizing the
+future compared to the human programmers
+or or the human company that it's part
+of if you don't grant that if you just
+say no it's just like the equivalent of
+a country with a million 100 humans in
+it and you get to control that country
+if that's if it's merely that then I
+think Humanity might be able to survive
+no no I'm I'm happy to consider that
+it's going to be enormously okay smart
+smarter in all important Dimensions okay
+so at that point when you ask what state
+does the world enter into that question
+kind of reduces into asking what is the
+utility function of the
+system all right let's let's follow
+that like that system is going to be
+causally responsible for how the future
+turns out it doesn't really matter what
+anybody else does because that system is
+just going to chart a path through
+causality to get to the acum want like I
+mean it's just the analogy to chess
+right it's like if I'm playing chess
+against stockfish it doesn't matter
+what's in my head right the board is
+going to be in a stockfish win yes I I
+agree that uh so in my world uh people
+together with those entities like those
+big tech companies they will enormously
+morph our world and the values
+there right so that I believe will
+happen let's do a simple scenario let's
+just do there's one company that's way
+ahead of everybody else so when their AI
+goes Rogue or gets a bad idea into its
+head and has a bug whatever you want to
+call it there's not going to be a
+nuclear Interceptor right so in that
+scenario can I convince you that that
+that's a doom scenario and you have to
+retreat to arguing that there's going to
+be multiple companies can we talk about
+the one company scenario okay let's
+let's discuss this yes kind of The
+Winner Takes all kind of scenario and uh
+I I think it's possible The Winner Takes
+all is possible that and this Winner
+Takes all gets to us to a catastrophic
+place I just think it's like unlikely
+it's possible but unlikely I would love
+to let's talk about that so if it's
+unlikely that's because CU you're
+getting off at an earlier stop right
+you're getting off at the stop where
+you're saying even a single company that
+has an AI That's way better than
+everybody else is still safe that right
+that's an earlier stop because writing
+it to a later stop would be multiple
+companies are safe that's where I'm
+getting
+off all right so okay so we're
+discussing the case with single company
+yeah a single company that super
+intelligent Ai and you're saying you
+feel good that its programmers can
+maintain control of
+it
+um I think they they they will not be
+perfect the programmers most likely I
+feel like they will not have right the
+perfect code but uh they maintain
+control there's just AI just like I
+don't see why it would kind of run away
+I think he will just stay under control
+even though it could run away it still
+stays under
+control it's like a horse horse that can
+run away but it still stays with hum so
+there are plenty of examples of
+dangerous systems that remained in our
+control and there are plenty of examples
+of dangerous systems that have had
+accidents and gotten out of control I
+mean you could argue hey look nobody has
+ever detonated a one Megaton nuke inside
+their own country or or even ever so and
+that's great um I could bring up
+incidents where we've had nukes fall out
+of planes they're called broken arrows
+like a nuke that should never have been
+detonated but accidentally almost
+detonated I even heard there's like a
+nuke sitting somewhere a warhead sitting
+somewhere inside the US that luckily
+didn't detonate but we don't even know
+where it is we lost track of it I've
+heard an incident where three out of
+four safeguards got unlocked in the
+process of doing like a test run over
+Spain and we almost nuked Spain so I've
+heard a lot of these horror stories but
+you can still count it as a success case
+of like look we've controlled nukes
+we've never accidentally detonated a
+large nuke um if you look at the other
+column of times when we very clearly
+failed to control our technology one
+famous example is the Morris worm right
+Robert Morris one of the co co-founders
+of Y combinator uh was originally known
+for having this worm where he just tried
+to play a prank he wanted to make a few
+computers replicate it and then kind of
+have the replication die out but he
+misconfigured a parameter where he made
+it way too aggressive at replicating and
+he took down like half of the internet
+back in like the 80s with his little
+worm Because the Internet had never seen
+a worm before everybody had their
+defenses down um and that wasn't his
+intention right and he didn't have an
+off button so the analogy of like hey
+you made a system you didn't have a
+working off button for it and you lost
+control of it like that happened in that
+case right yeah yes but I've again
+that's why I say it's it's possible but
+I just think it's it's just it's unusual
+case that's why we're talking about it
+it's just kind of like an unusual case
+of it happening and plus that has to
+happen it's I think it's by default so
+that I argue is kind of like a rare
+scenario okay I mean and you could argue
+you know the Wuhan lab leak if it was a
+lab leak which everybody thinks is
+plausible right even if you think it's
+only 10% likely there's there's nothing
+impossible about the scenario where
+you're working with a virus uhoh you
+didn't you got it on your clothes right
+now some human got in infected with it
+and there's no off button on Co even if
+you developed it in a lab yes I think
+again I can see scenarios like that
+happening but it's even those scenarios
+are unlikely so I think this is a really
+good kind of analogy because something
+rare happened but still like we
+prevented it we we had tremendous losses
+right and with the AI will have higher
+losses maybe but it's still like
+will probably catch it like I think it's
+if you ask if you ask why didn't kill us
+but the reason Co killed us isn't
+because we managed to turn it off it's
+just because it wasn't deadly enough in
+the first place but I think that you're
+granting the premise that you're you're
+granting a scenario where AI is deadly
+and your whole point is that we're going
+to control
+um I think it could be deadly and so
+there's again two things one is it
+actually executes the deadly scenario
+and it's uh just even if it's executed
+we don't kind of uh catch it in the in
+the
+Midway but we can focus on the actually
+executing the this crazy deadly
+scenario right I mean I guess I just I
+wanted to push back on your point
+because it sounded like you had this
+principle of saying like whenever humans
+develop a really deadly technology we
+just always have some off button or some
+mechanism of control that's like a law
+of the UN and I just wanted to push back
+on that like it really does seem like we
+have Tech that escapes like that's been
+done at least a couple times yes yes and
+that's why I agree there is a
+possibility I just don't see why it
+would be 50% or
+higher yeah okay um I mean I think virus
+is probably the closest analogy I mean I
+use CO as a literal virus but I think
+computer virus is the closest analogy
+like the Morris worm it's like when you
+launch it if you're going to let it
+replicate and Let It Be Independent you
+better have tweaked those parameters I
+mean I guess you can try to have like a
+universal signal and be like look
+anytime you see this signal you have to
+stop no matter what this is like the the
+ultimate stop signal um you can try to
+program that but like the problem is
+that how are you going to have a robust
+signal because for instance you can just
+have the AI generate a new AI right a
+fresh codebase from scratch and the
+fresh codebase from scratch might not
+care about what you originally cared
+about so you better have programmed it
+that even when it's making a new virus
+from scratch even when it's delegating
+control to other agents you better have
+kept your off button to be this robust
+property so even you know when you say
+hey the programmers are going to build
+an off button it intuitively sounds like
+something that's like pretty easy like
+they'll probably get it right but when
+you actually flesh out what does that
+mean off button in the context of a
+self-replicating super intelligent AI it
+starts to be very worrisome whether
+they're actually going to have a working
+off button
+um so there's two questions for me one
+is what's the likelihood that this crazy
+scenario will happen second is what's
+the likelihood that we'll not be able to
+kind of catch it again is it okay for me
+are you okay with this breakdown into
+two
+parts yeah um so let's when you say
+what's the likelihood it'll happen um
+what are the conditions that you're
+what's the scenario that you're trying
+to analyze the likelihood of I mean for
+example this scenario
+of ai unaligned ai runs away and keeps
+creating new unaligned AI they all like
+have unique signatures they are like
+really difficult hard to catch yeah
+right that's the scenario you suggested
+exactly so when we talk about that
+scenario it may sound like this random
+scenario I made up like look at lon's
+crazy scenario right it has to do with
+like it wants to self-replicate and it
+wants to see his power and this is where
+the doomers bust out this idea of
+convergence instrumental convergence
+where like a lot of the roads lead to
+this scenario unfortunately this is not
+just like an arbitrary scenario but like
+the problem is that goals themselves
+imply power seeking they imply
+duplicating yourself right like you can
+get the universe into a state into a
+better state if you can duplicate
+yourself if stockfish if a chess AI is
+playing a video game a video game Ai and
+there's a button in the video game
+saying make more of yourself and there's
+a button in the video game saying
+sequester all the resources for yourself
+like those buttons are going to rack up
+its score right and it's the same in the
+The Real
+World
+um so what you're saying is if we will
+have an agent like that it will be
+obvious for it to
+self-replicate exactly right I mean the
+these are instrumentally convergent
+moves right this is it's like we're
+trying to put a LD on a very natural
+kind of explosion I think I think that's
+the core point right if if we will have
+an agent like that it will like try to
+survive make sure it's not killed and as
+a kind of
+also it will try to multiply and hide
+itself exactly and I and I just want to
+reiterate when we talk about it
+multiplying we're actually talking about
+it writing a new AI from scratch and the
+new AI will share some sort of highlevel
+property it'll probably share the goal
+of the original AI but it might not
+share properties like listen for the off
+button but why would it create an AI
+with different goals right so yeah it
+would I mean it would probably have the
+same goal like whatever you can model
+the original AI as having a goal if it
+created another AI you could probably
+model the Child AI as having the same
+goal but if the off button wasn't
+properly configured as being part of the
+goal if it was just some other feature
+then that feature might not be what we
+call reflectively stable it might not be
+a feature that persists under the
+operation of creating new
+AI the thing is like if one AI gives
+birth to another
+AI like I cannot see why the goals would
+change because like if you say so a goal
+I'm making a distinction between a goal
+and an off button so just as an example
+let's say the original goal of the AI
+was maximize money for my company right
+like kind of a plausible goal maximize
+shareholder value um and then and then
+we said hey let's be safe we're trying
+to maximize shareholder value but we
+also want to make sure that if anything
+bad happens it's going to listen for an
+off signal and then it's going to turn
+off now when it delegates to an AI is it
+going to know to delegate this other
+side property that it has to listen for
+an off signal yes so it's possible that
+this it will kind of give birth to AI
+with a defect without an off button I
+think it's possible
+but again for me this seems like an
+unlikely scenario right that that so but
+so now it sounds like you're you're now
+resting on the belief that the goal part
+of the system is going to successfully
+incorporate a specification of how to
+turn off you're actually your claim is
+now becoming pretty technical you're
+basically saying hey this reflectively
+stable core the part that I feel good
+about being replicated it's going to
+include the off button part because the
+programmers are going to figure out how
+the off button is actually part of the
+goal structure so now you're basically
+having faith in the technical prowess of
+programmers
+um I have a technical faith faith that
+they will be mainly correct that there's
+no way they will be perfect I think soft
+now I have to but they will be mainly
+correct I think that's so now I have to
+point you to to what's actually
+happening with programmers today
+programmers today 99% of programmers
+working at AI companies today will
+actually honestly tell you we don't know
+how to put the off button into the goal
+structure we are just training models
+and seeing what
+happens I mean right now they don't know
+how to make AGI either right they don't
+know how to make AI but they actually
+they might know how to make AGI because
+it's actually everybody think not
+everybody but most of us think that it's
+plausible that scale is all you need you
+know I'm not sure I think it's less than
+50% likely but I would say it's at least
+10% likely that if you literally just
+take the same Transformer architecture
+that's powering today's large language
+models and you scale it up 100 or 1,000x
+and you just let it go then the chat bot
+that you get at the end of that process
+is a chatbot that's so good that it can
+output the code to bootstrap and actual
+general intelligence that then goes
+super intelligent So when you say they
+don't even know how to make super
+intelligent AI we actually don't know
+that they don't know how to make a super
+intelligent AI we do know that they
+don't know how to make a robust off
+button that is reflectively stable
+that's true yes so I think the core
+point the Crux is what you're saying I
+think the CRA is around the convergence
+right that if we have
+this uh AI agent it will converge to
+kind of multiplying itself right and it
+will kind of hide itself is that what is
+that the scenario you're imagining yeah
+not just hide itself but like the
+default is that if you have a system
+that's pursuing a goal like maximizing
+shareholder value whatever the goal is
+yep and it's free to pursue the goal and
+it's super intelligent then I don't see
+how we maintain control unless we become
+more theoretically insightful about how
+control works which today most people
+will honestly admit to you that we're
+not insightful about that so my claim is
+I don't see how we get control of a
+super intelligent AI unless we become
+more insightful about the technical
+theory of what reflectively stable
+control looks like and 99% of people
+working in AI companies today will admit
+to you that we don't have that
+theoretical Insight we're just kind of
+taking it one step at a time seeing what
+emerges and we hope to develop that
+theory before it's too late I I think
+what what you're saying in the way
+please correct me is that AI the way it
+is now is just such a such a nature of a
+system it's by default it runs
+away exactly by by default it runs away
+and only load bearing there's two load
+bearing assumptions to it running away
+number one is just it is very
+intelligent in the sense of optimization
+power so we don't even have to use the
+word word intelligent it's just a system
+that has the property that when it
+represents a goal the universe is
+probably going to end up in that goal
+state which might seem like a weird
+definition but if you look at chess a
+eyes if you look at video gaming eyes if
+you look at essay writing AIS if you
+look at a lot of different things that
+we call AI they are actually optimizers
+so this definition that might sound
+weird when you first hear it when I talk
+about hey it's a really good Optimizer
+that actually is how we talk about AI
+intelligence um okay so let's let's
+let's use this your term like the
+optimize optimization like it's like an
+Optimizer but then I don't understand
+why it
+would why it would necessarily or highly
+like L why you
+think scenario right it maybe so okay
+let's maybe even distribute itself right
+maybe it even kind of does its best for
+humans not to shut it down
+but it doesn't yet mean I think that um
+it will like kill all humans or like
+enslave Us in some way so if you just
+imagine an Optimizer that has a goal
+unless part of the goal is to make sure
+humans can shut it down humans can be in
+control the AI gives power back to
+humans unless those are written into the
+goal then just in the hypothetical by
+definition of of the hypothetical I'm
+proposing which is it's super
+intelligent and it's optimizing toward
+some goal you're just going to get the
+goal you're not going to get any other
+nice bonuses right so if you wanted
+money you're just going to get money
+you're not going to get humans smiling
+at the fact that there's money
+um but you you will get the money that's
+going to be your main goal right but as
+a sideways like you will either the
+world will roughly remain the same or
+you will like destroy the world and I
+think the first thing is much more
+likely right it seems much easier to get
+to your goal while keeping the world
+relatively stable then just in doing all
+this enormous things to kind of enslave
+All Humans control them or destroy them
+one by one you know it seems I
+disagreeing I think you have a bad
+intuition about what uh powerful
+optimization looks like when you do
+powerful optimization um you know you
+just end up with a state where all you
+get is what you're optimizing for and
+you can't expect to get any other nice
+properties I mean just to we're
+reiterating what we're disagreeing about
+now um I'm trying to think of what's a
+good resource to explain that there's a
+term Edge instantiation that's worth
+looking up which is like when you're
+doing uh optimization I think linear
+optimization problems you end up on the
+edge of a multi-dimensional structure I
+think it's called a Simplex like you end
+up on the edge so I think you have the
+wrong intuition about what really
+powerful optimization looks like it
+doesn't just leave things alone it
+really does tend to destroy everything
+and only get the property you want I
+think a way to get an intuition from
+that is to look at a scenario that elzra
+calls the outcome pump where forget
+about AI forget about like oh it's going
+to do this it's going to do that just
+imagine that you just have to pluck a
+universe from scratch that meets the
+Criterion you want so if you say I want
+the most money possible imagine that
+every pixel in the universe every atom
+in the universe just gets randomly built
+from scratch out of you know pulled out
+of a bag and the only Criterion is does
+it meet what you asked for so now when
+you're talking about oh things are just
+going to get Pres there's no
+preservation like we're just plucking an
+outcome based on what you specified you
+want I think that's a better mental
+model for what's going to happen when
+you run an
+Optimizer yes I think um it's yeah it's
+good it's a good point um so sorry it's
+good part of the debate I think so it's
+just this way it feels like this
+Optimizer will be Godlike right that
+just be able to morph the
+world so much but in the reality
+we are talking about the optimizer that
+just got good
+enough almost the as soon as it got good
+enough kind of to start making like some
+gigantic things it will probably start
+making these gigantic things right so I
+don't see why it would be easier for it
+to kind of morph the universe so much
+where it's much easier to kind of it
+seems much easier to negotiate with
+humans and kind of maybe have humans on
+sideline okay ju just to give you more
+inition is a default besides talking
+about the outcome pump one intuition is
+just to look at what humans have done
+like if you were somebody who really
+liked dinosaur fossils and the fact that
+we were digging up all these old dead
+animals and using their carbon and
+burning it right using fossil fuels that
+might have come out of nowhere if you
+were just a fan of fossils watching
+Humanity being like oh these people are
+going to need to grow their population
+and feed themselves but I'm sure all
+these dinosaur fossils are safe nope the
+dinosaur fossils weren't safe it turned
+out that we just had to dig them out and
+burn them right like you never know what
+the optimizer is going to do because
+you're not as smart as it you never know
+but uh it seems unlikely that as an one
+of the side things it will be like
+killing all humans because we will write
+we will do our best to write it out of
+the formula right Dario would create
+like the anthropic people and deep mind
+and all these people they will write
+some imperfect rules trying to kind of
+make sure they are not killed by by the
+their creation right the rules will be
+imperfect and so there will be some
+safeguards uh right so in that scenario
+that where the big doing it there's
+going to be a Tighter and Tighter
+feedback loop that's how I imagine this
+playing down where the first feedback
+loop is what we're already seeing with
+rhf uh reinforcement learning with human
+feedback the trick they're using to make
+the chat Bots sound really friendly and
+nice and when the chat bot outputs
+something like oh here's how you could
+terrorize the world well they have
+humans that they pay to tell it no bad
+AI That's a bad answer right and they
+train it using these up votes and down
+votes that's a feedback loop that's
+working today while the AI is not super
+intelligent once it starts getting super
+intelligent they're going to be working
+really hard to give it all kinds of
+feedback and they're basically I mean
+the way I think about it is I imagine
+somebody wearing like oven mitts trying
+to like do A fine grain operation trying
+to like take out their SIM card or
+whatever like using oven mitts um and
+they're like no I'm just going to poke
+it in the right direction it'll be fine
+but they really don't have the right
+tools for the job but they're going to
+convince themselves like good heart's
+law right they're going to have all
+these metrics like oh everything's going
+great the AI is going fine even though I
+don't understand all the stuff that's
+going on like it seems like it's
+checking all my boxes and then one day
+there will be some part of the metric
+they haven't accounted for and it's too
+late and the AI is too powerful and
+they're like no I'm going to invent new
+metrics but then they're dead it's
+possible but why would it be likely it's
+possible so yeah because the space of
+optimization
+it's there's just like too many details
+in reality and there there's a bunch of
+scenarios you can read Paul Cristiano
+actually wrote a good one a few years
+ago where it's actually a pretty
+realistic scenario for how Society could
+evolve even evolve even if we have a
+slow takeoff so even if there's no one
+big F there's no one day where AI is way
+way smarter than Humanity it all goes
+gradually but it's still very easy for
+society to get complacent and just have
+systems that run it that have a single
+point of failure that can like instantly
+kill everybody and then it's too late so
+he has like a very convincing scenario
+um just to give you the flavor of it
+it's just like okay it gets increasingly
+U hard to understand what's going on
+like there's all these companies their
+staff keeps getting replaced more and
+more by AIS and then one day like the
+devices just start work start working
+entirely and at that point we've just
+incrementally given up all control right
+there's never been a point where we put
+our foot down and we're like okay we
+have to stop yeah but at that point you
+just I mean it happens within my company
+I slowly delegate more and more and like
+automate more and more slowly and
+there's just I only have very few
+decision things I have to do but it's
+just uh you just have like one little
+wand but all of the power is under the
+wand the magic wand is just yeah I mean
+when you look Eyes under it but they're
+still under the wand well if you ever
+have like a manager of your company who
+you know a c coo or somebody in your
+company is like you know what I could
+run the same company on my own and I
+could be the owner and I could make 100%
+of the shareholder Equity right of of
+the profit distributions uh and I don't
+have to pass any up to te so let me
+actually go do that and that kind of
+thing actually is a risk right so you do
+depend on factors like okay this guy is
+kind of risk averse this guy can't take
+my whole customer base with him I would
+sue him if he did it's hard for him to
+build up his own customer base right so
+you do depend on all these contingencies
+yeah yeah I mean it's like forking with
+Bitcoin forking right some people didn't
+like the way Bitcoin was developing so
+they did the Bitcoin gold they just Fork
+exactly yeah I mean it is true that with
+crypto you have a single point of
+failure of maybe somebody can Fork now
+the reason why nobody has successfully
+forked Bitcoin and and devalued people's
+currency too much that reason is just
+because it's kind of a self-fulfilling
+coordination problem it's like a network
+effect I mean there are self-sustaining
+Network effects that is sometimes a
+thing that said it's possible tomorrow
+somebody might still successfully Fork
+it I don't know how stable of an
+equilibrium it is right you never know
+yeah all right so just if you could help
+me and still understand mhm why the bad
+scenario is more likely right so yeah
+can can you help me get again to the
+Crux why yeah so I I feel like it's an
+easy argument if you already Grant the
+case if you grant a minium a fum in the
+definition of like within a couple years
+suddenly the AI that you can run is just
+way smarter than human like imagine
+you're talking to chat GPT and it's just
+like it just really is on point it
+doesn't make stupid mistakes it's like
+oh wow this yeah it's like talking com
+and Einstein I can imagine for me like
+so I I identified like a key skills key
+cognitive skills that I'm worried about
+one is persuading humans right you can
+persuade cin ping to kind of say oh yeah
+just give me power you know I'll do this
+I'll do that cin ping gives you all this
+and then you take over from cinp and you
+around the world or something so I feel
+like one is persuading humans is
+incredibly is is the most interest the
+most risky I think and it's going to
+happen that we will have ai which is
+incredibly persuasive I don't think it
+will be like perfectly persuasive
+because people like cinin Putin whatever
+Trump whoever they will be cautious
+right although you know I can totally
+see how a AI is persuasive it persuades
+them kind of to M to to match their
+goals honestly I think that's the
+weakest link if I were the AI trying to
+run the world the easiest thing for me
+is not to create drones and nanot
+technology and all that it would be just
+to persuade the most powerful people
+which we kind of have three right now
+and kind of like run from there I think
+that if if those three or two of those
+three I persued then you don't need any
+new things because they can kind of
+force other people to do things like in
+Russia Putin has incredible control
+exactly he can force people to send them
+to Ukraine and die it's incredible
+control exactly right and look even pran
+got pretty far along the way toward
+stopping Putin like we don't know what
+happened at the last minute where he
+didn't make it and then Putin got to him
+but I'm just saying like these people
+their their security is not invulnerable
+I mean for God's sakes Donald Trump was
+an inch away from having his brains
+blown out right with the US Secret
+Service I mean that is a perfect
+reflection of the actual world we live
+in there is frankly no system that's
+more secure than the US president's
+brain the former US president's brain
+there's no system that's more secure
+than that on average yeah yeah I mean I
+think there's an in tremendous amount of
+incompetence among humans I agree but
+also I just don't think that those
+systems will be just so Godlike
+and they will use those Godlike
+powers in in
+this the negative kind of range of
+scenarios
+likely okay so to summarize where we
+stand right now you're just you're not
+following the Doom train where I talk
+about hey it's going to be super
+intelligent and because of that it's in
+in the course of optimizing its utility
+function it's going to have a lot of
+nasty side effects that we wouldn't have
+wanted if we could have tweaked it
+you're just not following that yes so it
+will optimize yes but with while this
+optimization is happening I don't think
+there will be catastrophic side effects
+right I think yeah so it sounds like our
+disagreement has to do with like the
+nature of optimization right like you're
+you just don't have the same intuition
+for hard optimization that that I have
+and I think this could be kind of a
+technical disagreement right like we
+could pull up examples of like okay if
+all you give somebody is this function
+what kind of outcomes do you get I
+actually think some good go-to examples
+are there's been tests done with video
+games right there's famously video games
+where it's like okay it's you got to
+like race this boat you got to like get
+to the end of the boat
+get M you Pi coins and they found aavi
+where the output of optimization was a
+that just go circles because there were
+too many coins suddenly didn't even care
+about finishing the race right I mean a
+microcosm of reality yes but in your
+analogy the scenario you're worried like
+I think is this boat destroying every
+other boat and all of the boats and
+whatever is just doing a very
+specifically bad thing kind of
+uh but I kind of see why the points is
+like it it probably wants to survive it
+wants to make sure it's it's never shut
+down exactly let me ask you this do do
+you think that an outcome pump would
+kill Humanity if all you said is like
+yep we just we randomly select any
+outcome that meets your goal criteria we
+just randomly select it's not like an AI
+went and did it we actually just
+randomly selected an end state that
+meets your criteria that's how we got to
+the future if the AI was literally that
+kind of outcome pump then would you be
+scared of side effect sorry sorry let me
+follow your argument can you clarify
+again what the outcome pump is yeah so
+imagine I specify a goal like make a
+trillion dollars for my company and
+instead of having the AI go and do that
+because you're imagining oh the AI is
+not going to like kill a bunch of people
+in the course of doing that it's going
+to do that in like a minimally
+disruptive way instead of imagining that
+imagine we skip straight to the end
+where all we do is we look at some
+probability distribution or or some
+enumeration of all possible outcomes
+that meet your criteria and then we just
+randomly select one weighted by like how
+many there are like some you know it's
+so it's not it's not about like the AI
+taking actions it's about literally like
+flashing forward to some outcome that
+meets your criteria yes yes but I think
+in real life there's a certain amount of
+energy that you need to expand right and
+then some outcomes are cheaper and I
+think it's much cheaper to convince
+humans to do something persuade them
+then to go out and H and catch them and
+Destroy them and kill them and and so
+your inition about what's cheaper I
+don't think it's necessarily relevant I
+mean if you look at chess right I don't
+think stockfish is trying to necessarily
+minimize how many uh spaces on the board
+its pieces traveled right like this this
+idea you have of cheapness might not
+correspond to what's actually relevant
+no no but it it should be it's in the
+best interest of AI like if it wants to
+achieve goals it probably wants to
+achieve it faster right and it because
+if it doesn't acheve faster more
+robustly I mean just just to give you an
+example look if you just want to get
+your way and you notice that humans are
+the only other agents out there that
+have a chance of stopping you you would
+pay a pretty good price to wipe them out
+just to make sure you get your way I
+think it's much cheaper to persuade
+humans I think we're have very so you
+persuade them yeah you persuade them all
+but you also threaten right you're like
+hey I'm persuading you but also I will
+crush you if you stop and you are now
+you just work for me you don't ask
+questions anymore right we're we're
+doing it my way now yes it's possible
+that it will happen okay let's discuss
+this a fun scenario kind it's a scary
+fun scenario you will say please don't
+stop me because if you stop me I I'll
+just have to kill every single one of
+exactly but luckily but you're so at
+this Vision but I'm convincing you this
+vision is great too right it's going to
+use the carrot and the stick I mean why
+not but then but then humans have the
+opportunity I think to to kind of
+to debate and argue against his goals
+and I think it's easier to just keep
+humans and maybe if humans try to to
+shut down AI it will kill those humans
+that try to kind of it's
+it's it's um it will just minimize the
+killing I think it's just just yeah okay
+I do think this is the Crux of our
+disagreement I think the Crux of our
+disagreement is that I think is that we
+have very different intuitions and I
+feel like I'm totally right and I could
+probably convince you if I keep like it
+but like we have we have different yeah
+yeah so we we just have different ideas
+about what happens when you tell a
+really power Optimizer to optimize right
+you have this intuition where like it's
+not going to be that disruptive yeah
+optimizing the universe humans are still
+going to be like looking by like we're
+still going to have like our supply
+chains working while the AI proceeds to
+optimize the universe because like okay
+let's let's imagine I have to optimize
+this room and just yeah you know put put
+all
+the uh kind of put all the items in the
+right order mhm like one way I could go
+about it is to kind of leave leave my
+room and go and kill everyone in this
+building and then and then to put this
+in the right place right because that
+that's the argument like I need to
+protect myself because what if they kill
+me so it's better if I go and kill them
+myself I mean this is a perfectly fine
+example stally yeah go go ahead if we
+successfully defined your utility
+function to only be about this room
+maybe we could get really lucky and you
+could like never leave the room and
+never feel like you have to go kill
+people outside the room but this could
+be leaky even just this toy example of
+like hey you just want to make the room
+really clean you just want to make
+everything nicely organized everything
+aligned no dust you'd be like how does
+that go and kill my grandma in Kyan like
+or in the US or whatever Halfway Around
+the World um but this is why I think
+it's leaky first of all imagine you just
+want to make sure that there's a really
+really high probability that your room
+stays clean for the next 30 days in that
+case now you got to make sure you got to
+seize control of the weather you don't
+want it to be like you don't want a
+flood to take out your your house right
+you don't want to tornado to come you
+know once every Thousand Years a tornado
+comes by you got you got to make sure
+You' got the weather under control yeah
+it's a good one yeah yeah right and you
+never know some human might want to mess
+with you the electricity might go down
+you better seize control of the
+electricity to make sure power is still
+functioning to your house so it's a Well
+lit room because the sensor needs to see
+that the room is well lit to be clean
+right so that's that's one reason and
+also you never know what if a human
+wants to mess with you right you really
+need to make sure that humans don't get
+any ideas for what to do with that room
+right so if you're just trying to
+maximize the probability that you got a
+robust outcome then you need as much
+control as
+possible uh I think sometimes control
+can take too much time and resources yes
+you can you can maximize control but
+that's kind of like unnecessarily greedy
+optimization like you instead of
+optimizing what you actually need you're
+going to go and optimize control to the
+infinet you it's like control
+is I mean you will never reach I mean
+that's a separate discuss we can say we
+can say what is the cost metric right
+because from the AI perspective the
+resources are free sure you have to
+expend a little bit of resources to like
+go manipulate humans to get it but you
+get paid back more than what you put in
+right it's like mining oil is free
+because the oil will then pay you back
+that kind of thing it's free yes it's
+free but there is a risk right if you
+are doing some something which is highly
+resource intensive I think there is a
+risk that for some reason the resource
+runs out right um okay so there's that
+argument I just want want to list a few
+more ways in which it's the you could
+leak when you say that your utility
+function is just like have a clean room
+and it sounds harmless there's other
+ways it can leak for example are you
+sure that you really specified that the
+domain of the function is just the room
+right what if somehow the sensor has a
+reading of the state of like the whole
+continent right like are you sure that
+it really is going to instantly stop
+carrying once it gets outside of the
+room maybe it's not even sure where the
+room ends and it has to hedge its bets
+and make sure that whatever could
+possibly be the room is clean right it's
+like you really have to make sure that
+that you and and so what I'm talking
+that's Mar and's argument that's Mark
+and argument that he will double check
+with you it will it's smart enough to
+tell right hey Lon I think you meant
+this this exact room right because okay
+great my precise specification he would
+tell me to just move around continents
+right he would smart enough to tell you
+yes so I agree that there are AIS that
+we're going to build that are very good
+at knowing what we truly want and so the
+only problem which unfortunately is a
+huge problem becomes them taking that
+understanding and actually making it
+their goal that's that's where Things
+fall off because if all we're doing is
+giving rhf style feedback that doesn't
+build you a system that just takes the
+goal that they understand us to have and
+makes it their goal that's what we want
+that's what we intuitively imagine
+happening but that's not what we
+actually know how to make happen
+uh all right let's hope basically the
+value loading problem the goal loading
+problem unfortunately understanding our
+values is not the same thing as adopting
+our values unfortunately it will not be
+I I concede that it will not be ideal
+and will have loopholes I I always
+concede yeah so I mean and so when I say
+this is leaky I'm not saying they're too
+stupid to understand what we truly mean
+I'm saying the process by which we use
+some mechanism like rhf the process by
+which we use metric and use tricks to
+try to check if they know what the room
+is that process is going to leak even if
+like as they're going about like knifing
+all of us right like murdering everybody
+as they're going about that they'll like
+oh yeah we totally know what you mean
+but this is what we think you want us to
+do right like that's that's going to be
+like the irony of it
+all I still don't see why it's so likely
+scenario I'm sorry right yes there will
+be a leap for sure like okay it's not
+for sure but there might be leak does
+not necessarily but there might be a
+leak I think it's unlikely but even if
+there is a leak it doesn't mean that it
+will exploit the leak in a really bad
+way right so just just to summarize your
+position you're B catastrophic way yeah
+you're basically thing I think loading
+actual goals into the AI is going to be
+a reasonably robust process that we're
+going to nail before it goes super
+intelligent not perfect but relatively
+robust okay well I mean I think that's
+the Crux right because I think that even
+just a small lack of robustness when
+we're trying to get the AI to have our
+values if it doesn't have our values
+really closely and then it goes and
+optimizes for them I think maybe in your
+mind you're like well if it gets 95% of
+our utility function right and it the
+way it'll optimize will just be like
+gentle enough that we can just keep
+tweaking and it'll be fine it's like a
+nice continuous process like that's how
+you're imagining it yeah I think that's
+yes roughly yeah yeah so I think first
+of all I think 95% is really high so I
+think that's one of the main issues I
+don't even think we'll get 95% because I
+think the moment that you emphasize one
+dimension you very quickly lose the
+other dimension so maybe it's like oh
+yeah it totally gets this idea of like
+smiling and laughter but then it's like
+all you get a smiling and laughter right
+and like never again will a human ever
+be challenged with anything again it's
+like wait no we want it to be challenged
+like that was part of what we wanted but
+it's like too late happens right even if
+it happens
+right so what needs to happen
+this bad scenario needs to happen which
+I think is unlikely plus it needs to be
+some kind of a fast takeoff right which
+gives us only one one chance to to to
+kind of prevent it but I think like even
+if it happens most likely there going to
+be a slow takeoff where we see like oh
+we [&nbsp;__&nbsp;] it up we'll have to kind of
+roll back and put some more patches and
+then there's another leak and it that
+one it slowly takes off right so I think
+it's unlikely that there will be a fast
+takeoff and from the first scenario
+something bad will happen there's like
+three kind yeah so so this gets to the
+other part of the argument right this
+gets to the point of like like I agree
+that if takeoff was so slow that imagine
+you get to an AI That's like barely
+smarter than Einstein if it took like 50
+years to slowly crawl our way from there
+to the smartest AI being like a lot
+smarter than Einstein then I do think
+that just by tweaking we might have
+enough chances to get it right so then
+the Crux becomes don't you think that
+within a couple years of smarter than
+Einstein the AI itself will not
+necessarily all the way to like crazy
+take over the universe but like f to be
+like its own species that's
+significantly above
+Humanity maybe so there's like three
+maybe that that kind of yeah combined
+for me right
+um I think the the I think one of the
+biggest cruxes is that if there will be
+a kind of uh leak that's it the ship
+sink sank right it's like you you
+imagine the sink and there's a leak and
+it if there's one leak that's it it it
+goes down you everyone dies that's not
+how I imagine uh I think if there's a
+leag um he will do something
+unintended it's completely for me
+unclear whether it's going to be
+catastrophic it could be unintended and
+harmless right it could I me that's why
+we're talking toys million pink toys
+right for just a stupid reason he will
+take plastic and million pink toys why
+would it kill all humans I think that's
+so I mean there there's a few different
+reasons I mean one is just competition
+for resources right so any type of human
+Factory human molecule that has energy
+human energy source right like even
+source of human labor like you can
+recruit human right pink toys okay well
+a lot of the things that humans were
+doing as labor for humans is not going
+into making pink toys right I mean and
+then there's also side effects right so
+if it wants to have a space program and
+it wants to fire a bunch of rockets
+maybe it'll clear away way where humans
+live so it can fire its Rockets wherever
+it feels like you know all kinds of side
+effects like that I mean I think it's
+much easier for whatever goal you have
+is to collaborate with humans persuade
+humans whatever goal you have to
+colonize Mars to kind of extract
+resources from Mars to extract resources
+from other planets if you don't have
+humans I think you it's it's less I mean
+I agree that in the early stages you
+might as well manipulate humans I right
+I think human manipulation will will be
+uh part of the bootstrapping right as
+opposed to like going straight to nanor
+replicators but I mean I don't know how
+good the nanot technology will be I
+actually suspect it's really good but I
+think that it's a it's definitely one of
+the most likely paths to like have a ton
+of humans under its control and right
+now you have a lot of like we've seen
+many cases of humans getting a lot of
+other humans who are really devoted to
+them right and I don't see why the AI
+wouldn't exploit that channel if it
+can um I definitely believe per AI is
+going to be insanely
+persuasive exactly exactly but the
+question is like what is the value
+function and how much influence do these
+creators have on it like Elon Musk and
+some alans of the world right how much
+you know human feedback do they have
+kind of uh with this and I feel like you
+don't need that many humans you can kind
+of have few humans kind of like
+still be connected to it and AI can just
+check with it with them like get some
+reinforcement every like whatever one
+day one week or every big event if
+there's some big resource kind of con
+big resource change happening like the
+energy wise he has to get approval from
+like Sam Altman or whatever and Sam
+Alman gets like a total summary looks at
+the summary he like okay next step right
+I yeah I I think where where we landed
+is basically like I don't think that our
+views are too different if the timing is
+slow enough right so if if the Doom
+scenario plays out over a century
+then you and I are probably in the same
+boat of like well I hope we can tweak it
+enough that it goes well I hope we can
+learn enough theoretical insights so I
+guess the last Crux just becomes that I
+think that this could all happen in well
+under 10 years where the point between
+uhoh we've got the first chat bot which
+is super human to like oh there's really
+no way to stop this like it's like the
+Morris worm it's like a virus we've lost
+control of and it's permanent like the
+mistake is permanently costly and uh
+then then you know and it's not just
+making pink bunnies that humans like to
+play with like it really is just the
+world but the question is why do you
+think is like on the order of 50% that's
+my understanding that yeah um how come
+it's so
+high because I I think that there's only
+a few steps in the chain so like the way
+I the way I would do the conjunction is
+like number one we are going to pretty
+quickly have a vastly super intelligent
+AI number two having a super intelligent
+AI is incredibly deadly because we won't
+be able to control it
+that's my conjunction and I think that
+conjunction is actually likely enough
+that it's like 50% both of those
+together interesting so by default you
+feel like it's
+deadly yeah yeah yeah I I I think that
+it's deadly by default just because I
+think that optimization by default is
+deadly I think we don't H have the value
+loading problem solved and I see what
+we're doing like we're just we're just
+doing hey let's scale this up hey we
+have we know how to make intelligence
+let's scale up what we know and see what
+happens and I'm like um you're going to
+get an optimizer like that's what
+happens yeah I think that's the crack
+right you you feel like optimization by
+default is deadly and I I'm not
+convinced maybe I I could be convinced I
+think maybe not in it's like one two
+hours hour I think I mean I could I
+could try to do an episode of like why
+optimization backfires right like why
+why it's not a good idea to run a super
+intelligent Optimizer on things that
+aren't perfectly your
+values yes and I think that's the CRA I
+think that I would love to read more on
+it and and kind of right yeah I can I
+can try to find some resources I think a
+Wiki really good CRS um because again I
+didn't spend too much time thinking
+about optimizers right but I I it's just
+my intuition but I would love to
+understand why my intuition human
+intuition based on whatever random
+things in my past is wrong MH mhm
+because yeah I mean I'll take one more
+I've never seen it I've never seen an
+optimization MH just like kind of like
+the an an analog of killing all humans
+right for example what I elizer I think
+his point would be and I could be a
+butchering too is that AI needs to make
+sure it's not shut down it was it needs
+to kind of protect itself first of all
+that's why like the only way to protect
+yourself I'm again butchering I'm sure
+the only way to protect yourself is if
+you kill all humans kind of I think
+that's that's a AR rough argument I
+already got it's not that it's the only
+way to protect yourself but it's just
+like imagine that you're the AI right
+you're not even super intelligent you
+just have your own brain but you can
+already see the the priorities which is
+which is just like you want to have your
+own plan let's say your own plan is to
+tile the universe with little smiling
+mouths because that what that's what you
+think happiness is that's what you think
+your instructions are if you want to
+tile the universe with smiling Mouse you
+realize that there's some chance that
+Humanity will notice what you're doing
+and try to fight you so why not snap
+your fingers and eliminate Humanity no
+that's I think yes I think again it's
+first of all the example that you gave
+it's unlikely I think more likely is
+like optimize the revenue optimize Prof
+profit profit optimization whatever I
+think it's more likely first of all
+second of all um once you have this more
+realistic scenario and not paperclip
+maximizer once you have a more realistic
+scenario it's usually better to have
+humans around humans which are happy and
+not like like in The Matrix or something
+I think it's kind of always nice for a
+lot of the kind of optimized scenarios I
+feel like it's nice to have humans
+around even like if you take our
+optimized scenarios it's often times
+nice to have dogs around like not just
+dogs on the leash but like happy just
+like happy dogs around it's just usually
+better for us whatever goals we have
+yeah even though but we like happy dogs
+right that's that's kind of a part of
+the human value fun most likely it's
+just going to be whatever value function
+it has even if it's like weirdly
+incorrectly written by software
+Engineers imperfectly I think it's going
+to be nice to have humans around humans
+which are kind of harmless and happy
+right maybe it's it's much more likely
+that we'll lose dominance I think that's
+you you know who you're sounding like
+now you know whose position you're
+sounding like right now Elon
+Musk uh uh can you can because Elon has
+been saying we just need to make an AI
+that's really curious that wants to
+maximize factual accuracy and then it'll
+find humans interesting it'll want to
+learn about humans and that you know
+maybe we'll survive that
+way I mean it's possible yes it's just
+like I mean we still need to kind
+of we still it's important to write out
+uh kind of to to improve the alignment
+Theory I'm not saying we should stop the
+work on the element uh I think it's
+really important work but I personally
+think like it's I don't think we
+should it's kind of a um most likely
+it's going to be we are doomed but I
+think it's high enough that for it's
+important for more people to work on it
+um so I definitely yeah okay I'll take
+one more stab trying to throw an
+argument and then we can wrap it up
+because I think this is this is a great
+Crux I mean I'm glad we landed on this
+Crux and I'm not expecting to convince
+you now I think this can stay a Crux
+till after conversation but at least
+it'll give us stuff to focus on on our
+own um one more example to throw at you
+is just I want to make the point that
+like when people like you think about
+what it's like to be in the presence of
+optimization like it is intuitive to
+feel like yeah I can handle this
+optimization yeah this AI is over here
+trying to make a trillion dollars but
+like I'll survive uh I just want to show
+you another example of the disconnect
+where humans just don't get where
+optimization goes there's a famous
+example of evolutionary scientist being
+like hey I wonder what natural SEL would
+do to a population of I think it was
+foxes When there's less food in the
+environment maybe the foxes will involve
+to like not eat as much or like share or
+something and I guess I'm really
+forgetting the details but like they
+were surprised to discover that like oh
+those conditions just just lead to like
+eating your babies like something like
+horrific right like when you just have
+this optimization criteria like it's
+very tempting as a human to be like oh I
+bet it'll go down like this and it's
+like ah no this horror happens right
+like that's that's what the logic
+dictates I agree I I mean I think those
+scenarios are interesting and it there's
+some some likelihood of that and I think
+it's very useful for Humanity to discuss
+those I I think your work is
+tremendously useful I I really believe
+so and I I would love for more people of
+to work on AI alignment I wish it was
+kind of cooler right I feel like it's
+it's uh I
+think uh it's kind of maybe correlated
+this movement with L Lites or something
+like that and which of course I'm not
+right yeah I know you're not yes yes
+yeah it's I feel I I think it would be
+great if it was kind of something sexier
+in the society to work on AI alignment
+um I feel I think Eliza rovski made it
+much more uh important for the
+conversation and up front for example I
+was just listening Elon Musk and Jordan
+Peterson podcast that was one of the
+first things they talked about was AI
+alignment it's incredible it's amazing
+because yeah I'm actually started
+listening to that now yeah so I think
+it's at at the Forefront of the global
+discussion I think is great and the word
+alignment I think is used more often
+because at some point the word AI safety
+was used which is not good so I think
+it's good that the word AI alignment is
+used more often and hopefully this
+debate uh was useful for you to kind of
+to make your um arguments more clear
+with people like me um I feel like
+there's I think if you kind of learn to
+explain why you think optimization is
+deadly kind of uh in various ways I
+think more people be on board on like
+feeling the danger because I feel like
+it's not more about numbers it's more
+about understanding the concept like I
+don't know I didn't fully understand the
+outcome pump and like the the deadliness
+of op optimization Edge instantiation
+these are all the terms I wrote down I'm
+going to look up after this yeah
+definitely and you can add Al Kowski to
+that keyword because I feel like he
+always explains things well at least to
+me yeah I just actually in the
+preparation of the to this discussion I
+started finally using L wrong I'm like
+actually writing there too to kind of
+make sure
+people uh kind of argue with me there so
+it was really useful that you kind of
+invited me here um I mean we didn't
+resolve the debate fully I would say but
+I feel like uh we got some really strong
+cracks I would love to come back for the
+round two more prepared
+uh we will get yeah I I I want to thank
+you because I think you did exactly what
+we set out here to do in Doom debates
+which is basically like ride the Doom
+train and just see where you're getting
+up right well at least put a pin in the
+map of like where toake is getting off
+the Doom train and we've gone to a stop
+that I've never focused on on this
+podcast yet which is this idea of like
+is is it really that bad if we have a
+super intelligent Optimizer what what
+are the actual consequences and that's a
+novel stop and I think we flesh it out
+pretty well and we've also left the door
+open uh to keep diving into it and I
+think you were super good faith about it
+right NE neither of us are trying to be
+rhetorical so I I think we've modeled a
+high quality debate for people awesome
+and I really really enjoyed it I learned
+a lot uh there's a lot more from what a
+lot more to learn for me and hopefully
+it was fun hopefully it was useful for
+people uh and uh it was it was a
+pleasure for sure all right toake where
+can people find you on the
+internet I'm quite active now on Twitter
+back again at Twitter uh at Tac it's
+five letters t l e k um on
+LinkedIn Instagram mainly in the Russian
+language so te Muto if you type there uh
+tegram and uh yeah but Twitter is the
+Main
+Place awesome man well really great to
+meet you in chat and uh we we'll do
+round two maybe in a few months once
+you've digested everything I would love
+to do that thanks to Lake and we got
+more great guests coming up so stay
+tuned for the next episode of Doom
+debates

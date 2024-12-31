@@ -1,0 +1,25 @@
+# Ignore all .vtt files
+*.vtt
+
+# Ignore cookies.txt
+cookies.txt
+
+# Ignore common temporary and backup files
+*.log
+*.bak
+*.tmp
+*.swp
+*.~*
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore audio
+*.mp3

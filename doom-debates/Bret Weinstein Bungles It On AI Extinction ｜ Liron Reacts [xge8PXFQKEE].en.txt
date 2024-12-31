@@ -1,0 +1,1742 @@
+many years ago I wrote a piece in which
+I said that I believed that artificial
+intelligence was going to emerge from
+the project to get a computer to
+translate seamlessly between two
+languages and I explained why that would
+be the thing that cracked the uh the nut
+and that is what happened for a reason h
+no that's not what happened
+welcome to Doom debates today I'm
+reacting to a recent episode of the
+Diary of a CEO podcast with host Steven
+Barlett and guest Brett Weinstein Brett
+Weinstein is an evolutionary biologist
+author and prominent commentator known
+for his work on evolutionary theory and
+his outspoken views on social and
+political issues he gained widespread
+attention in 2017 during his tenure as a
+professor at Evergreen State College
+where he objected to a planned day of
+absence event sparking National debates
+on Free Speech and academic freedom
+Weinstein along with his wife Heather Hy
+co-authored the book a hunter gatherer
+Guide to the 21st century which explores
+how evolutionary principles could be
+applied to Modern Life he is also a
+co-host of the popular Dark Horse
+podcast where he discusses topics
+ranging from science and culture to
+politics this is the first time that
+I've heard Brett lay out his views on
+the existential risk to humanity from
+superintelligent AI so I'm going to
+spend the podcast going over his
+different claims and where I think he's
+on point and where I think he's way off
+and how I think he can do better as you
+know I do a lot of these reaction videos
+because one of my goals with doom
+debates is to raise the level of public
+discourse around existential risk from
+super intelligent AI so I don't want to
+let people get away with having these
+mainstream podcasts where they express
+their views and they're considered
+intellectual luminaries and they still
+don't address some of the major points
+of the Doom argument so we're going to
+find some of the gaps that Brett says
+today and we're also going to find some
+of the nice things he says we'll try to
+be fair and balanced
+let's dive
+in in your sort of list of concerns
+pressing concerns where does where does
+AI feel it feels like it's come out of
+nowhere you know because if we go back a
+year it wasn't really front of mind for
+anybody for the vast population for the
+general population but now it it appears
+to
+be front of everybody's mind any
+everyone thinking's
+mind I think that's the right way to
+view it I think it should be top of mind
+you're damn right it should be top of
+mind and not because it is
+independently uh everything that its
+worst critics imagine in fact I have my
+doubts about the safest crowd and their
+demands for regulation but there's
+plenty to worry about in this space okay
+so it should be top of mind but not
+worthy of Regulation let's hear why um
+so I have five different existential
+threats that AI
+poses um let's see off the top of my
+head let's start with the uh the most
+fanciful
+first AI
+could decide that we are its
+competitors and it could leverage its
+skills and uh decide to eliminate us
+whoa that one sounds bad I find that
+unlikely but I don't think we can
+discount it
+entirely second is the so-called
+paperclip problem that an AI that was
+very powerful could have trouble
+operationalizing a command and it could
+result in human extinction and the
+example that uh people who think this
+way use is if you were to tell a an AI
+you wanted it to make as many paper
+clips as possible that it could
+interpret that as license to go
+liquidate the universe and turn it all
+into paperclips right not what I meant
+but m you know but there you have it
+wait a minute so you're giving us five
+reasons why AI is scary and your number
+one is that AI decides to compete with
+humanity and leads to Extinction that
+way and number two is that it
+operationalizes a command from Humanity
+to cause human extinction but those seem
+pretty similar like if it's deciding to
+liquidate everybody and turn everybody
+into paper clips doesn't that mean that
+it's competing with humans because it's
+going to realize oh these humans are
+fighting me they don't want to be turned
+into paper clips so I better fight them
+back I better compete with them for the
+fate of the universe so I'm seeing very
+little effective distinction between
+Brett Weinstein's number one and number
+two nightmare scenarios actually I will
+give a different example that I think uh
+maybe functions better there
+are uh people in our intellectual space
+who make claims like it would be great
+if we were to end all
+suffering personally I think that's
+about the most ins an idea I've ever
+heard it's a terrible one you wouldn't
+want to live in that world but you can
+understand why people think that it
+might be a moral obligation personally I
+think it would be morally good if
+everybody got a dial where they could at
+least turn their suffering down kind of
+calibrated at least for physical pain
+situations if I accidentally dunk my
+hand into a pot of boiling water while
+I'm cooking I would like the option to
+be able to turn my P down and fix my
+hand I think that would be morally right
+to give me that option but if a bunch of
+love get killed should I have the option
+to not feel any sadness or Mourning I
+don't know maybe there should be a
+minimum level of sadness that I have to
+feel I think I kind of get what Brett is
+saying of ending all suffering might be
+going too far right because some of our
+suffering some of our sadness might be
+core to our true values and What Makes
+Us human and I get that when I say let
+me dial down the pain of my third degree
+burns I get that I'm going down a
+slippery slope that might eliminate too
+much suffering and pain but we're
+already going down that slope with
+modern medicine and I think the slope
+ought to go somewhat farther even though
+I can't tell you how far now imagine
+that you tell an AI hey let's end all
+suffering it's actually possible just
+drive everything that can suffer extinct
+right so the idea that we have a
+non-trivial problem figuring out how to
+give a powerful AI an instruction that
+can't be
+misunderstood it's worth worrying about
+again I think that one's fanciful too
+but should be on our list okay one way
+to interpret Brett Weinstein's scenario
+number one versus number two is it's
+kind of like inner alignment versus
+outer alignment scenario one is the
+inner alignment problem where even if we
+know what our values are we might not
+successfully load them into the AI and
+now you have an AI with different values
+and then it's going to compete with
+humans on the wrong values just because
+we couldn't load the right values in
+scenario 2 it's more like the outer
+alignment problem where we get confused
+about our own values so we just can't
+even describe our own values to
+ourselves and we write something down
+like end all suffering which isn't what
+we really meant and then because of that
+the AI ends all suffering but it's our
+fault for not being clear about what we
+meant by end all suffering so I don't
+think that's exactly the distinction
+he's making but that's one way we can
+separate his scenario one from Scenario
+2 because he's going to give us five
+scenarios he calls his scenario 1 and
+two fanciful I don't think it's fanciful
+I think scenarios one and two inner
+alignment and outer alignment are
+absolutely huge threats in the study
+that I call intelligence science when
+you just ask the question of like what
+happens when you dial up intelligence
+and you don't have a theoretical
+understanding of what your goal is I do
+think you get these runaway optimizers
+you get these positive feedback loops
+very much like the first computer virus
+the Morris worm went out of control it
+took down the entire internet at the
+time because the person who wrote it uh
+Robert Morris Paul Graham's co-founder
+actually for y comor uh before y commor
+so Robert Morris he wrote a worm that
+was only supposed to copy itself once
+occasionally and and kind of copy itself
+a reasonable amount and be controllable
+but he accidentally made it copy itself
+too much and he couldn't hit undo and he
+took down the Internet that happened
+back in 1988 when the internet was Tiny
+so that's an example of a positive
+feedback loop that exists in the space
+of possible virus code bases and then
+pretty quickly software started adapting
+to be more virus proof so now it's more
+of a fair fight but we might unlock a
+new positive feedback loop when we build
+these super intelligences right we might
+not have this kind of super intelligence
+defense ready in time where analogously
+to taking down the entire internet you
+just take down all of humanity right
+then there's no undo for taking down
+Humanity the way that we could put the
+internet back up at the time of the
+Worm but then we get to the three that I
+don't think are easily
+dismissed one is that AI is going to
+enable uh people with malign intent
+to it's going to enable them more than
+it is going to enable those with
+benevolent intent and this is an unfort
+forunate asymmetry that just exists in
+the world that a an aoral actor somebody
+who has no moral
+compass they have total flexibility they
+can do whatever a moral person can do
+and then they've got a whole list of
+other things that they can also do right
+whereas a moral person is constrained
+they just have the limited set of things
+that are available to them so the
+question is does AI liberate us all or
+does it liberate those who are
+um monstrous more than it liberates
+those of us who behave like like decent
+humans I'm concerned about that I think
+we are in some danger of it being
+leveraged against us in a way that
+transforms them okay I think Brett is
+conflating two points here so let me
+make both of his points for him
+separately Point number one is that even
+if an AI won't independently go Rogue
+and uncontrollable even if it is a tool
+that's controllable by humans well it's
+going to be a tool that terrorists can
+use it's going to be a tool that bad
+humans can use so he's basically saying
+I'm not worried about a different
+species attacking us I'm worried about
+our own species having the tools to
+attack itself that's his point number
+one which is a pretty valid point I mean
+it's plausible that humans can use AI as
+a powerful attack tool a little bit
+before we just have to worry about AI
+attacking all of humanity that's
+plausible his point number two which I
+would put into a separate point
+is when he Compares malicious actors
+with good actors and he's saying the
+malicious actors will have an advantage
+or synonymously if I understand
+correctly he's basically saying attack
+will be easier than defense I think
+that's probably true I think destruction
+is easier than creation uh for the
+counting argument that there's just more
+states that are successful destruction
+States like the reason why a nuke is
+just so reliable at destruction is
+because there's so many ways to destroy
+something I can shake a box full of game
+pieces and there's so many different
+ways that the game pieces can be shaken
+up where all of them are successfully
+just like a mess and there's very few
+ways to stand up the game pieces where
+they actually represent a valid
+configuration of a game that's fun to
+play as opposed to like here I just
+shook it up and here's a random
+configuration of the game pieces so the
+reason it's it's always going to be
+fundamentally easier to Route the
+universe to a chaos state is just
+because there's so many more chaos
+States and the ways to get to the chaos
+state are often just like okay just dump
+energy into it right I mean that's
+basically what bombs do like bombs don't
+have to use a lot of intelligence to
+plan how they're going to lay waste to
+their target like laying waste is just
+fundamentally kind of an easy goal now
+the reason why defense often beats
+attack in the real world is because
+defense just gets a lot of intelligence
+applied to it and so defense has high
+incentives where it's like however much
+work is required to defend something
+well people are going to put in that
+much work because it's worth it for them
+so I guess when you factor in incentive
+gradients you often reach equilibriums
+where defense successfully staves off
+attack but if you start just scaling up
+the raw power of everybody's tools the
+raw optimization power of everybody's
+tools and then it's an optimization
+battle where everybody's a super
+powerful Optimizer going toward their
+own goals at that point I definitely see
+why the attackers are going to have an
+easier time than the Defenders because
+they're they have a huge advantage in
+the easiness of their goal like
+destruction is like inherently an easier
+goal and when the number of IQ points
+defending different structures and
+institutions of humanity when those IQ
+points are just not significant relative
+to the amount of IQ points controlled by
+the terrorists suddenly I do think that
+the balance switches to attack favoring
+defense and I do think the world is
+likely to become a wasteland but I'm not
+100% sure right so I'm open to the idea
+that we somehow keep maintaining an
+equilibrium where a bunch of people can
+defend themselves and run anti virus
+programs and and run Shields and somehow
+keep that equilibrium going similar to
+how we have it today but I think that
+that would be a very lucky break for us
+that's not what I expect
+so just to recap I think Brett here is
+conflating two different points so let's
+call it 3A would be his point that AI
+can be a destructive tool even if it's
+not independently going rogue and being
+destructive it's just a tool for
+terrorists a very powerful tool and his
+point that I'd call 3B which is attack
+is going to be easier than defense and
+then combining his points okay there's
+going to be terrorists that can use AI
+to attack and then smart good people are
+going to be helpless because it's going
+to be so easy to do this terrorism those
+are Brett's two points 3A and 3B and I
+do think those are totally good points
+and I think it adds nicely to his points
+one and two and I think he's
+successfully building the case that AI
+should be the top risk on our minds I
+mean this is actually super scary stuff
+and he's doing a good job telling us why
+so it gets a little weird now cuz he
+kind of pulls back and he's like I'm not
+actually that scared and this is the
+part where I disagree with I think he
+should just follow his own logic and be
+scared I remember hearing a hacker say
+that the malicious hackers the people
+with malicious intent are always ahead
+of those
+the sort of ethical hackers that have
+benevolent attempt that are that are
+good and he was talking about how like
+the you know encryption systems and
+password systems he goes the hackers are
+always ahead and the defense systems
+that companies are trying to put in
+place are always behind because the
+Hacker's intent is obviously always to
+find new ways of breaking the current
+system whereas the people that defend
+security systems are just trying to
+defend against the known um forms of
+attack so someone in I don't know some
+kid in Russia right now could be at his
+computer figuring out new ways to use a
+large language model to attack systems
+in new ways whereas the people who are
+working to defend that are currently
+just trying to figure out how to um
+mitigate the risks of current weapons so
+it's it's you know what I mean like the
+the attackers are always thinking
+forward really yep the way I would
+summarize my understanding of the
+current equilibrium between attack and
+defense is that you're not seeing
+attackers get an overwhelming Advantage
+where they just use their computer
+hacking skills to just conquer
+civilization and hold civilization for
+ransom kind of like you can imagine if
+the year is 1900 and somebody has proves
+out that they have a nuclear bomb and
+it's just a terrorist group and they're
+like look we have a nuke we can destroy
+any country it'll take you guys at least
+a few years to ever have your own nuke
+so you just do what we say or else you
+die a group like that would still have a
+pretty hard time ransoming the world
+because somebody could go and stealthily
+attack their position right they need
+like a perfect radar to detect every
+kind of stealth attack right there could
+be like a command and maybe they haven't
+perfectly detected the Commando and the
+Commando uses a conventional bomb to
+blow up their laay I think this scenario
+is representative of the current
+equilibrium between attack and defense
+in computer security where it's like you
+can have these attackers who are ahead
+of the Defenders who have really good
+technology that the defense side hasn't
+cracked yet so they could hack into any
+system they want I guess they have you
+know they're they're at the Forefront
+but realistically they just can't do
+that much they can't take over the world
+because they just have too many
+vulnerabilities you know they could be
+worried about going to prison if there
+that's why you don't see attacks like
+that in the US where the legal system
+actually works pretty well to go and
+track people down they might be based
+out of Russia or North Korea where the
+state encourages that kind of activity
+or turns a blind eye to it so if they're
+in those situations great but even then
+there's a limit right if they're causing
+too much chaos then even their
+government is going to turn on them or
+they become vulnerable to a Commando
+Mission or a CIA strike so the
+equilibrium we have today is very much
+dependent on the idea that human actors
+are very vulnerable and fragile targets
+if we could take a human level attacker
+some of our best hackers today and clone
+them a million times or a billion times
+and speed them up Suddenly you don't
+have this kind of jail threat you don't
+have this kind of CIA threat and it
+becomes a vastly different equilibrium
+we've never had terrorists suddenly
+overwhelm good actors we've always taken
+it for granted that most of the world we
+all realize that we're dependent on one
+one another we all realize that we have
+Achilles heels as people we all realize
+that we need to go to sleep we're going
+to age we have families that can be
+attacked that we want to protect we all
+realize that we have all of these
+weaknesses and dependencies as human
+beings suddenly the equation is going to
+change the AI is just going to be an
+attacker with a billion clones all over
+the Internet and if it has a decisive
+Advantage if it suddenly knows a bunch
+of zero day vulnerabilities it might be
+game over attack might just win against
+defense decisively and that's it and
+defense will just never claw back the
+advantage we'll be back to living as
+cavemen this is you know I don't think
+this is very Fantastical I think we're
+about to upset the equilibrium very
+badly and the only ingredient here is
+scaling up intelligence I think when we
+scale up intelligence we're going to
+topple over equilibriums that we take
+totally for granted our sense of
+normality is based on this equilibrium
+this comparison between how easy it is
+to attack versus defend when you live in
+a society of humans and that's about to
+change and we're going to be very
+unhappy with the resulting equilibrium
+that's my version of what I think Steven
+Bartley was pointing to just now when
+he's saying hey hackers are often
+getting ahead of Defenders I think I've
+expanded on that thesis quite a bit do
+you think the general public and also
+just institutions and governments are
+currently underestimating the profundity
+and the impact that AI is going to have
+on the
+planet yes and in fact I think we are
+crossing over what would be described as
+an event
+horizon so an event horizon I think the
+term initially comes from an
+understanding of what happens at a black
+hole that there's a point at which light
+is pulled back in and so you can't see
+beyond it right there's literally no
+mechanism to see beyond it we are
+crossing a threshold that none of us can
+see beyond and that is inherently
+frightening are people underestimating
+they are simultaneously underestimating
+and overestimating right the the fear of
+being turned into a paperclip is
+overblown in my opinion why is it
+overblown you haven't said why well I've
+just gotten to the third one on the list
+the fourth one on the list is a total
+collapse in
+our understanding of the world around us
+and each
+other the way in which an artificial
+intelligence interfaces with
+our human API with our
+interface is profound already
+and we're not very far in right I'm
+already looking at Little movies that
+this thing makes and I'm not just
+talking about the clip of the cat
+walking through the garden right little
+vignettes I'm talking about actual
+movies in which characters of a madeup
+species are having a
+conversation about humans
+right
+okay that's a hell of a moment
+where will we be in 5
+years it's unimaginable how much change
+that is going to create because we have
+no evolutionary preparedness at all for
+living in a world
+where the product of a
+computer can out compete the product of
+a human in narrative space that's a
+dangerous world to live in because
+narratives are so profoundly important
+to who we are stories yeah stories
+stories are what we're all about you
+know even profound ideas are
+unfathomable until somebody has written
+them into a story that people can can
+Gro just for review you started with
+part one talking about how AI might
+outco compete the entire human species
+and eliminate us or Point number two
+turn us into paperclips because it
+thinks that what that's what we want and
+eliminate us
+or number three be used as like the
+ultimate Terror tool and essentially
+eliminate us and now you're at number
+four where you're like it could tell
+better stories and narratives than we
+can it's like okay yeah sure but it
+sounds like you're now kind of weakening
+it down right you're saying like hey
+instead of doing these catastrophic
+things it could also do something which
+is like potentially pretty bad and it's
+like okay and I I guess your point is
+that you're only worried about this
+milder version of the Doom scenario so
+you just have like a mild doom and yet
+you think this should be the number one
+thing on Humanity's mind all right I
+just don't feel like it's very clear
+what your P Doom is but okay uh by the
+way I just want to let you know that I
+don't think Brett ever gets around to
+saying what his fifth existential risk
+from AI is that he promised but whatever
+but also language just generally is I
+think think um I was listening to
+something the other day which was just
+making the case for how our our entire
+Society is pretty much held together
+with with language and it's so
+interesting that large language models
+were really the thing that blew open
+this conversation about AI because we
+don't real that like like my every
+relationship I have is held together
+with language in fact all my passwords
+are language the way that I think the
+way that I understand the world is
+through language so if there's a a super
+intelligent species that has a better
+grasp of language and a certain level of
+autonomy um it's hard to think you know
+it's interesting because what made us
+dominate the world was I think was our
+intelligence and our and then our
+ability to collaborate through through
+language and communication and this is
+the the very thing that AI has entered
+the scene with I mean AI has been
+building up to solving more and more
+problems like the Deep learning
+Revolution wasn't always based on
+language right like Alpha go that's not
+based on language that's based on like
+self-play and deep machine learning to
+beat the human Champion I go so yeah
+it's cool that it just entered the scene
+with language that's definitely a sign
+that the domain at which the AI is
+intelligent keeps getting broader it
+keeps subsuming more and more of the
+domain of the human brain and my
+prediction is that soon it'll just
+subsume everything and just beat us
+decisively on every Dimension there is
+to beat us on but it's not like a
+totally decisive Advantage whether or
+not you can do language like to me
+that's not the key pivot here like yeah
+language is important language is a
+great sign to look at right the touring
+test is a great milestone to look at but
+at the end of the day the more
+fundamental concept here is not
+communication or language it's
+intelligence and yes in in the human
+brain we often talk to ourselves and the
+mental Concepts we form are often fa
+facilitated by the mental architecture
+that we have to manipulate structures of
+sentences because the structure of a
+sentence looks a lot like the structure
+of a thought so we lean on probably the
+same mental building blocks to construct
+one or the other but that's not
+fundamental to intelligence right Alpa
+go seem to bypass that kind of way of
+thinking and it's very possible that in
+coming up with the next token you don't
+have these language models talking to
+themselves the talking to themselves
+part is an optional step right you know
+Chain of Thought prompting is one
+technique where you're asking the AI to
+use something like what humans do to
+keep talking to itself in order to think
+but if you don't ask it to use Chain of
+Thought prompting the way that it's
+getting a complex question right
+immediately from the first token zero
+shot which it sometimes does
+surprisingly well that may not be
+analogous to human language or anything
+that humans do so my only Point here and
+this may be a nitpick is just that like
+I'm not super impressed by the fact that
+like oh my God this particular Milestone
+language has fallen I'm seeing a broader
+Trend a deeper Trend that AI is just
+getting better at intelligence in the
+sense of optimization and it's knocking
+down a bunch of different domains and
+yes language is one of the biggest and
+most Salient and most important domains
+but it's just not as core to what's
+happening as the optimization analysis
+the intelligence
+analysis well I will tell you I wrote a
+piece and I keep meaning to release it
+just so people can see I didn't get it
+exactly right but many years ago I wrote
+a piece in which I said that I believed
+that artificial intelligence was going
+to emerge from the project to get a
+computer to translate seamlessly between
+two languages and I explained why that
+would be the thing that cracked the uh
+the nut
+and that is what happened for a reason
+the reason is
+because the relationship between human
+language and consciousness
+is profound and largely
+unknown h no that's not what happened I
+mean we had some deep learning efforts
+at language translation I think so even
+before llms I think we saw improvements
+in recent years in language translation
+but if you're saying that's what
+accounted for the llm revolution I don't
+think it was right I mean yes llms Prov
+to be able to translate languages
+incredibly well I think state-of-the-art
+at least for a while but they didn't
+emerge because their training data had
+data in one language and then data in
+another language I think that's a small
+fraction of their data I think most of
+their data that made the AI learn on
+these deep structures of Concepts wasn't
+language translation data it was just
+data Allin one language it was basically
+the English internet it was learning to
+code it was learning textbooks on
+various subjects and just like how
+different doanes work it wasn't language
+translation so I find it shocking that
+Brett Weinstein is like oh yeah I've
+always known that training AIS on how to
+translate languages with be the key
+maybe to be charitable you could say
+that if you collect enough data in
+English and then it's corresponding data
+in another language that might let you
+bootstop to llms without using a bunch
+of textbooks but I think that if you
+just have a bunch of people talking
+about kind of shallow Concepts that
+don't connect to each other very much
+and then show it in different languages
+I think you're not going to get very far
+I think by the time you have enough data
+in different languages to bootstrap llms
+you probably just have enough data in
+one language where if you knock out all
+the other languages except English let's
+say then you can still have a really
+smart state-of-the-art llm just trained
+on English data and so it doesn't really
+help the intelligence of the llm to add
+other languages it literally just adds
+translation ability when you add
+translations in other languages so I
+feel like Brett is taking a little too
+much credit here as if he's predicted
+the llm revolution based on translation
+but maybe he gets partial
+credit so uh Heather and I described
+this model in in our book uh gather is
+guy to the 21st century human beings are
+a unique
+species the primary way in which we are
+unique is that if you if you think about
+the question about
+well what do human beings do right the
+most unique thing about humans is the
+ability of some members of our species
+to be generally intelligent that is to
+take arbitrary goal States in a large
+domain like the physical universe and
+then making a plausible attempt at
+getting the future of the universe to
+fit into that Subspace that goal
+Subspace of future State space no other
+animal can do that right they're all
+very pre-programmed into narrow domains
+that match the training data of you know
+the of of triggering their adaptations
+so they're just not generally
+intelligent they just don't represent
+arbitrary goal States and robustly map
+to them the closest thing they do is
+they have modules where the domain can
+be like navigating on the ground or in
+the air so you can put arbitrary
+obstacles in front of them and they'll
+do a pretty good job of routing around
+the obstacles but the moment you set up
+like a whole escape room complete with
+puzzles and stuff then they're they're
+tapped out right whereas some of us
+humans can potentially still be in the
+game for quite a long time even if you
+make the escape room fish hard with
+arbitrary challenges that's the Salient
+difference of humanity we're generally
+intelligent we're the only species that
+even has a shot of having a space
+program there's no other animal species
+that you wants to come into NASA and
+help you with your space program it's
+only humans even though it's not like
+humans are closer than other species in
+their evolutionary history to going to
+space if you ask which species has the
+best evolutionary background to go to
+space maybe one answer is like well the
+birds because they fly the highest so
+they get the closest to space right
+there's really no good answer and yet
+humans are the only species who can
+plausibly have a space program why is
+that it's because of our one weird trick
+because of our general intelligence so
+that's the correct answer to Brett's
+question there's really no other answer
+if I say you know what does a tiger do
+right we could describe the things that
+a tiger does to meet its caloric needs
+to get the materials necessary to
+maintain its body to produce Offspring
+right we could describe the niche of the
+tiger can't really do that with people
+right what do we do we simply refer to
+the definition of general intelligence
+and point out that only humans meet it
+sometimes we Farm the oceans sometimes
+we hunt big game on land sometimes we
+terraform a piece of territory and we
+plant crops we do a lot of different
+things and if you think about all the
+things that human beings have done for
+our entire history as a species it's
+immense The Collection so we are unlike
+any other species because our Niche is
+the movement between niches both over
+time and across
+space so how does that work well we have
+a tool that no other species has when
+you think about the question of what
+makes human beings special the answer
+really is general intelligence language
+ah and the reason that it's language is
+that language allows the breaching of
+the boundary between one mind and
+another so that ability allows human
+beings to pull their cognitive capacity
+but how much cognitive capacity does
+human individual have how much cognitive
+capacity does Albert Einstein have
+enough to invent the theory of
+relativity that happened mostly within
+one mind Nicola Tesla is known for using
+his cognitive capacity to invent an
+entire design in his head before
+sketching it out he explicitly said yeah
+I see the entire design and I sketch it
+out and often it just works exactly the
+way I sketch it and I knew it would work
+that's a lot of cognitive capacity
+inside of one human brain and of course
+yeah sure we have IQ 60 humans right who
+are are deficient or just on the low end
+of the bell curve and they have low
+cognitive capacity but language doesn't
+rescue them and turn those humans into
+our top innovator the cognitive capacity
+is the key element here another way to
+see this imagine that you take a human
+that has high cognitive capacity but
+never learn language but just assume
+accept the premise that they have a high
+cognitive capacity well then they could
+just invent a language inventing a
+language is something that you can do
+with cognitive capacity and you can
+teach it to another human that has high
+cognitive capacity so cognitive capacity
+implies language ability the other way
+around doesn't hold if you go and take
+an ape right humans have tried really
+hard to teach Apes language they didn't
+learn it very well but even if they
+could learn language better they could
+only express things that they have the
+cognitive capacity to understand so it's
+not like apes don't build a society
+because they don't have language to
+express their brilliant ape thoughts the
+limit is that they don't have brilliant
+ape thoughts they just don't have the
+mental faculties to build an
+understanding of like arbitrary math or
+arbitrary abstract physics they don't
+have the cognitive capacity language
+doesn't help you bootstrap cognitive
+capacity cognitive capacity does help
+you bootstrap language now this issue is
+easy to confuse because as I said before
+if you look at human evolution if you
+look at how human cognitive capacity
+works it did co-evolve with human
+language so there was probably no time
+in history where humans are 150 IQ
+roaming the Earth and yet they don't
+have language you probably didn't have
+have that in isolation even though you
+theoretically could to support my point
+that cognitive capacity can let you
+build a language that was the scenario
+there but it wasn't a realistic scenario
+in terms of human evolution so yes we
+built our cognitive capacity by reusing
+the same faculties probably that we use
+to talk to each other we use it to talk
+to ourselves and often times we build
+cognitive structures as we think using
+the same state space the same short-term
+memory or whatever structures we have
+it's right we we it's it's a double
+purpose in the human
+but it probably won't be a double
+purpose in the AI right it's not a
+double purpose in alphao for instance
+alphao just optimizes the crap out of go
+and there's going to be AIS there are
+AIS that optimize the crap out of video
+games there's going to be an AI that
+optimizes the crap out of the physical
+universe and who knows how much language
+it's going to use internally right so it
+does feel to me like Brett Weinstein is
+skipping over the Primacy of cognitive
+capacity when he casually uses that term
+cognitive capacity to explain why
+language is the the prime thing it's not
+the prime thing it's the secondary thing
+after cognitive capacity if you watch my
+analysis of the robin Hansen debate it
+seems like Robin Hansen is in a similar
+position to Brett so it's not like Brett
+is the only person who expresses a view
+like this Robin Hansen has Express The
+View that language and culture like
+cultural copying is somehow like a very
+Primal skill that humans have and not
+just our cognitive capacity and I
+strongly disagree with Robin to analyze
+it like that in his case so I just
+disagree with both of those
+people what Heather and I argue in our
+book is that the the way human beings
+get through time is they oscillate
+between two
+modes when the ancestors when your
+ancestors know how to exploit the
+habitat that you live in then you take
+their wisdom in all of the stories that
+it's encoded in and you apply it maybe
+you build it out a little bit you figure
+out how to do something the ancestors
+didn't quite know how to do but most
+what you're doing is just applying the
+toolkit that you've been handed to the
+problems that it works on but what
+happens when you get on a canoe and you
+cross some body of water and the place
+you've landed doesn't have the same
+plants and animals that your ancestors
+knew well it's not like they they got
+Dumber but it their stuff is less
+applicable so what you do is you pull
+your cognitive capacity you and all the
+people in your tribe and you talk about
+well what are the opportunities here and
+what might you do about them you know I
+saw an animal this morning and it looked
+like it might be uh pretty good eating
+but I don't know how you're going to
+catch one well what if we were to drive
+it into that Canyon right that sort of
+thing so by pooling our cognitive
+Resources by reaching a collective
+Consciousness which is the inverse of
+that cultural mode of the
+ancestors the conscious mode when we
+Face novelty allows us to come up with
+new Solutions and then to refine them
+okay but individual humans with survival
+training beat any particular animal at
+survival individual humans so the
+process of talking to other humans it
+ends at a finite point and then all of
+the communication has just led to a
+brain state that brain State plus the
+intelligence that somebody has we call
+it survival training then lets them go
+out into the Wilderness and build enough
+shelter for themselves enough weapons
+for themselves that they can out survive
+virtually any other animal okay so if
+humans are such good survivalists by
+ourselves because of survival training
+then there's more than language going on
+here there's also a brain that can
+sponge up the actual structure of the
+survival domain and again the prime
+prime thing here is the intelligence
+part the ability of the brain to get
+things and to apply them get arbitrary
+things it's not okay yeah sometimes we
+input them through language because we
+can input them through other things too
+you can input it by doing experiments
+yourselves without having another human
+talking to you the prime thing is just
+the fact that you're smart and you can
+learn things learning is more Prime than
+talking and when we've got it nailed
+well then we're the ancestors who knew
+what to do and our stories get driven
+into that cultural layer and they get
+handed on generation after generation
+and then eventually they run out of
+usefulness and we have to return to
+Consciousness and come up with a new way
+so that's what human beings do both
+spreading across space and moving
+through time they oscillate between that
+cultural mode of the the ancestors and
+the conscious mode of what the hell do
+we do now look I'm frustrated I'm not
+surprised but I'm frustrated because we
+have intelligence science we know basic
+principles that when you look at a human
+brain you're observing that it's doing
+cognitive work same as When You observe
+an engine You observe that it's doing
+thermodynamic work and it's going to
+follow certain laws and principles and
+we can make predictions about it this is
+a really useful way to look at something
+I'm looking at it through the lens of
+optimization which really cleanly and L
+explains what humans have that the other
+animals don't and tells you yes this
+species can go to the Moon other species
+can't even get close to the Moon yes
+this species can eat whatever other
+species it wants and not vice versa
+right this is a very useful lens and
+everybody else on all these podcasts
+that I'm reviewing is just making it up
+as they're going along they're ignorant
+of this known field there's a known way
+to analyze the stuff okay so please
+learn this field let's standardize the
+terminology don't go around saying that
+language is what separates human
+intelligence from the intelligence of
+other animals that's not accurate
+compared to saying optimization power of
+a single
+brain it's crazy that we're like years
+away from literally being extincted by
+these AIS that we're building and we're
+just here on the ground floor trying to
+decide hm is language the key here or
+maybe it's a single brain that has the
+cognitive ability to learn language and
+the same cognitive ability lets it do a
+bunch of other stuff like beat video
+games that don't necessarily require any
+language to learn and get good at and
+beat people at it can all happen inside
+of one brain invention can all happen
+inside of one brain I mean this is table
+stake stuff to the discussion right and
+you've got somebody who's a pretty big
+luminary at least on the intellectual
+dark web right Brett Weinstein saying
+this stuff and it's not just him right
+it's all these podcasts I'm reacting to
+like at at some point let's progress
+let's move the discourse forward please
+I'm not arguing that other animals
+aren't smart there are plenty of smart
+animals this is a whole different kind
+of smart it's domain independent smart
+so on the dimension of universe level
+domain smart we are smarter than the
+other animals it's not correct to say
+that other animals are also smart
+they're not as smart as humans there's
+no animal that can get a three-digit
+score or even like 60 or whatever on a
+human IQ test so you're giving too much
+credit to the other animals here this is
+a smart where it's impossible to
+actually draw the boundary between my
+smart and your smart
+if I do projects by myself and I don't
+communicate with other humans or read
+something written by other humans as I'm
+doing the project and the project is
+something like Nicola Tesla come coming
+up with an invention or the project is a
+new piece of music that I compose all by
+myself in seclusion then you can draw
+the boundary between my unit of work
+there's such a thing as units of
+cognitive work or if you and I play
+head-to-head at a video game and I beat
+you I beat you 10 times out of 10 then I
+would just draw the boundary at saying
+I'm better at this video game than you
+so we draw boundaries all the time yes
+we have a mode where we can talk to each
+other where I can develop something and
+or I we can develop something together
+and part of that will be back and forth
+communication yes that is a thing we can
+do I would even say it's an important
+thing we do but it's not prime right
+it's secondary it's an important
+secondary thing there's a collective
+smart it's very real you can't locate it
+right it has to do with some ancient
+mechanism for pool in understanding and
+pooling understanding isn't even like he
+everybody bring your understanding it's
+like you know what I don't trust that
+guy's understanding because I've seen
+him screw up and not fix it that guy he
+sounds crazy but he's got a track record
+actually I take what he says very
+seriously so it's like a there's a
+waiting of who's whose input plays what
+role somebody might have Insight in one
+realm and be unreliable in another that
+abity ility to figure out how to take
+the sum total of all of the different
+skill sets that people bring to the
+table and come out of it with something
+like a proposal for what we do next
+right that is a profound adaptive
+process that we don't even have a name
+for you literally just described how
+humans do a bunch of smart optimization
+a bunch of intelligent computation
+between the interactions that they have
+with language so you go and talk to a
+bunch of people you go home you're
+thinking you're ruminating you're just
+by yourself and you think over H who
+should I trust why should I trust them
+how do I synthesize their evidence what
+else can I figure out on my own all of
+that stuff is more Prime and fundamental
+than the time when you went over and
+talked to the humans that's why I keep
+saying intelligence is prime language is
+secondary and when we analyze what's
+happening with AI and when we predict
+what's going to happen it's not like oh
+my God there's going to be so much back
+and forth language no it's there's going
+to be stronger optimization optimization
+is the prime factor we need to be
+analyzing things with an AI changes this
+well AI scrambles
+it because on the one hand I can make
+the
+argument that AI is like a a flint
+napped blade it's just another tool and
+it is just another tool at one level on
+the other hand because you know the
+blade you're in pretty big trouble when
+a blade starts talking to you you know
+what I'm saying that's a bad moment
+that's you need to lay off the mushrooms
+at that point right in this case the
+blade the tool that we've created it is
+talking to
+us in fact it's sensitive to what we
+think about what it says to us which
+means it
+is it is
+certain that you will have an
+evolutionary process in which the AI
+gets exquisitely good at telling us what
+we want to hear just going back to my
+frustration here you've got somebody
+who's considered an intellectual
+luminary this is a critically important
+topic he himself says it's an underrated
+topic it should be the top thing in
+Humanity's head and how does he explain
+it he says imagine you've got a flint
+knacked knife and the Flint napped knife
+starts talking to you and so that's how
+you know there's going to be an
+evolutionary process okay I'm not saying
+that's wrong but is that is that really
+a clear way to explain what's going on
+okay but he's got a locally valid point
+about how it could be a bad positive
+feedback loop when the AI starts telling
+you more and more things that you want
+hear there's nothing more dangerous than
+that you want an AI that tells you what
+you need to know whether or not you want
+to hear it right that would be a useful
+tool an AI that responds to the fact
+that you think that what it said is good
+oh my God we are we are going to end up
+in a
+um I'm struggling for a better metaphor
+than an infinite Hall of Mirrors but
+that's what it's going to be it's going
+to be a big fractal Hall of Mirrors in
+which you can't be certain of stuff well
+what exactly is the danger of an AI that
+tells us what we want to hear if the AI
+is managing our business and it tells us
+the business is doing great when it's
+not I think pretty quickly we'll weed
+out those kind of AIS so in the context
+of running a business an AI that tells
+you accurate information about your
+business is probably a robust design
+that probably won't self- modify into an
+AI that lies about the business now if
+you have no way to ever call out the AI
+if your business is so complicated that
+you can't go and check your own
+dashboards once in a while so that you
+could catch the AI out on a lie you
+might actually get a runaway feedback
+loop where the AI is lying to you I
+think that may not happen on the scale
+of a small business but it could
+definitely happen on the scale of like a
+government where the government keeps
+saying like oh look the economy is doing
+great look at all these metrics and
+really your quality of life potentially
+is going down and down
+people even accuse the government today
+of doing that I don't think it's a huge
+problem but it's definitely a problem
+today and it's probably going to become
+a bigger problem so I do think that
+Brett is on to something right this is
+not like the existential Doom problem
+but this is a very significant problem
+and it eventually could spiral into a
+doom scenario so I'm glad he's pointing
+it out it's probably most dangerous when
+it comes to AI alignment because a lot
+of the AI labs are explicitly saying it
+would be so great when this AI helps us
+with AI alignment we're going to do such
+great AI alignment research thanks to
+having an researcher help us that's when
+I think people are really going to be
+deceived because we have to come up with
+the tests that Define what alignment is
+and that's a super hard problem that's
+actually a theoretical research problem
+but it's going to be very tempting to
+have the AI be like look I hear you I
+hear what kind of research you want to
+do I've done the research for you and
+look it all checks out here look verify
+verify my arguments they all check out I
+think that kind of interaction with
+safety researchers is going to be
+happening and I think that the safety
+researchers are just going to buy the
+ai's logic and not realize that it has
+cracked so that it has trap doors either
+intentionally because the AI is trying
+to escape or just trying to pass the the
+test right the AI is just like look you
+gave me this test I'm passing it I'm
+convincing you something even though
+that something doesn't happen to be true
+and I don't even have an ulterior motive
+I'm just passing your test to convince
+you of why this design is safe with what
+looks like an airtight argument whether
+it is or isn't so yeah I think Brett is
+on to something I was just frustrated
+before that he didn't tie it back into
+the framework of optimization and how
+it's going to be better at optimizing
+than we are he's just analyzing
+everything in terms of outputting
+language I will say because I know that
+um there's a lot of concern you've got a
+kind of safest crowd that wants to
+regulate AI because the dangers are
+profound and you've got a bunch of other
+people who think regulating AI is
+dangerous and what I've realized is that
+failing to regulate AI is dangerous
+regulating it is
+worse regulating AI is worse oh yeah why
+well for one thing you create an
+asymmetry between those who abide by the
+regulation and those that don't so say
+China won't have a regulation but
+America do have one right do you want to
+be ruled by whoever violates your
+regulation I don't but that's what we
+effectively guarantee if we create that
+uh Dynamic correct there's no reason to
+have the US regulate AI if China doesn't
+immediately follow so any proposal by
+the US regulate AI should really be of
+the form like hey we're taking the lead
+we're starting to regulate our AI but
+China better do the same thing so it's
+it's more of an international treaty but
+it could be something called lead if
+follow like okay we'll do this for a
+year China better hurry up and follow
+and do the same thing or we're canceling
+it and everybody's screwed right so it's
+okay to make the first move when you're
+just trying to reach an equilibrium
+where everybody's cooperating in this
+International treaty but yes Brett is
+correct the goal is not to just only
+have the US slow down the goal is to
+negotiate an international where we all
+have to pause because if any one of us
+doesn't pause it's kind of like any one
+of us goes and builds a nuke and fires
+it it's not a good idea we all Lose the
+person who builds it the country who
+builds it doesn't even have an advantage
+in the end because even that country
+can't control it convincing every leader
+that that's the case or every population
+that that's not the case in a democracy
+it may be hard but that's what I see as
+our only or our best chance of success
+because I think the other problem we can
+try to solve trying to solve AI
+alignment in 5 years or 10 years or
+however long it takes to build super
+intelligent AI trying to solve AI
+alignment in that time frame I think is
+even more impossible than trying to get
+countries to cooperate to slow down AI
+in that time frame so I think we should
+try both but I definitely disagree with
+people who are like you should never
+even try an international treaty I
+definitely think that we should try an
+international treaty because times are
+very desperate and that is a perfectly
+good desperate measure that we might as
+well make I don't like the idea of
+heading across the Event Horizon created
+by AI without a plan I really don't like
+that idea that's not safe on the other
+hand the
+alternative is only going to make that
+problem worse no an international treaty
+to pause AI where every country realizes
+that the Game Theory actually says you
+can't win by unpausing your own AI we
+all need everyone to pause that actually
+is a Nash equilibrium Game Theory
+doesn't tell you to unpause if you're
+aware of the risks so getting into that
+Cooperative equilibrium with an
+international treaty that's enforced
+that if somebody wants to go really
+Rogue and go have their own Rogue Data
+Center with lots of gpus training the
+next Frontier Model what do they get
+that's right an air strike that's right
+if it comes to that I said it okay that
+sounds like an equilibrium that Brett
+would think is good but he didn't even
+bring up the possibility like Brett do a
+basic Game Theory analysis here right I
+thought this is a game theory problem so
+don't be so quick to dismiss the game
+theory when the game theory is saying we
+just all need to cooperate and we all
+will have the best chance of surviving
+if we all cooperate to slow down AI
+using the same kind of techniques that
+we've been using to slow down nuclear
+proliferation which it's I'm not even
+the first person to say that kind of
+thing right Sam Alman goes around saying
+we need a regulatory agency similar to
+the international atomic energy agency
+to tell us when it's okay to build the
+next Ai and when it's not this is a a
+pretty well-known type of proposal so at
+least put it on the
+table so somehow we have to face this
+with our eyes wide
+open I mean how does one face it with
+their eyes wide open I mean all I'm
+hearing is you can do nothing about
+about it well I don't know that you can
+do nothing about it here's what I want
+know why are we
+not obsessed with
+tracking the thought process of the AIS
+in other words if there were one
+thing that I would want it's AIS to
+report how they arrived where they did
+so that when the catastrophe happened we
+can figure out why it happened we can
+potentially get through this very
+perilous Moment by coming to understand
+it and becoming wise about how to
+leverage this there's a whole subfield
+of AI safety called mechanistic
+interpretability which does basically
+what you're asking for trying to have
+the AI report how they got to the
+conclusion that they did unfortunately
+that report is not always going to be
+simple AIS often just output stuff which
+is really intelligent and they can't
+give you a short explanation why they
+output it it I mean think about
+something like Andrew WS proving fma's
+Last Theorem there's no way that I could
+tell you how he did it or why the proof
+is correct in under an hour as a bare
+minimum right it would probably take
+like many days of instruction even for
+somebody who's already like a math PhD I
+don't even personally know it right
+that's just my understanding of how long
+it would take to bring a human up to
+speed and frankly most humans unless
+they have an extraordinarily high IQ
+would struggle so much that they might
+take years of study or even never
+understand Andrew Wild's proof and
+that's just a proof Pro of why forma's
+Last Theorem which is a very short
+mathematical expression of why that is a
+true theorem so imagine an AI making a
+complex decision the data dump of all
+the evidence that fed into that decision
+and why it's a Sound Decision could
+potentially be much longer than the
+proof of fma's Last Theorem right the
+universe doesn't always owe you short
+explanations so the project of
+mechanistic interpretability of telling
+you why the AI thought something might
+fail because the reasons is complex
+right I mean think about how hard it is
+to get a human to tell you why they
+thought something a lot of times the
+answer is just like look I got a feeling
+about this right this is just what I
+expect for some reason because my brain
+has a lot of neurons and they have a lot
+of weights and this is what they
+outputed right because they went through
+a lot of complex training okay so that's
+one potential problem with mechanistic
+interpretability is that humans can't
+read the output the other potential
+problem with mechanistic
+interpretability is that humans will
+read the output and will still be
+terrified so for example you read the
+output of the AI and it's like well I
+wanted to help somebody make more profit
+and I realize that if I take over the
+world and take all the power and money
+in the world and make everybody my
+I could optimize the business really
+hard I could make I could price gouge as
+much as I felt like right like it'll
+make inferences like that and it'll spit
+out a print out of inferences like that
+which we know it'll make because of
+instrumental convergence it'll spit out
+the print out and we'll look at it and
+we'll be like Yep this is a logically
+correct inference made by Uber
+intelligence should we teach it that
+that's not the case I mean I I guess but
+the problem was the utility function
+that it had to begin with like we know
+what we're going to find we don't even
+necessarily have to look at reasons like
+that we just have to be careful not to
+build an Optimizer in the first place
+that doesn't have aligned values and be
+careful not to like open source the
+technology to let random hackers build
+these optimizers because if we can look
+inside the optimizers and they'll tell
+us like yes I'm trying to take over the
+world duh it's just not going to help us
+very much so that's the other problem
+with mechanistic interpretability is
+even if it works great it doesn't
+actually give us the levers of control
+because hackers can still make AIS that
+work for reasons that we can understand
+and still kill us so like imagine that I
+am killing all the dophins and apes in
+the world and I'm explaining exactly how
+I'm doing it and they even understand
+what I'm saying it doesn't mean they can
+fight me I'm still going to kill them
+because I'm smarter if that's what I
+want to do so once again it's a
+situation where Brett's kind of making
+things up as he goes along like he
+rolled his own explanation for why he
+doesn't want to pursue regulation
+because he hasn't thought about an
+international treaty and why mechanistic
+interpretability is like the key even
+though it has like known flaws and he's
+just content to go on a podcast and
+communicate this to the world even
+though as he says it's such an important
+topic that maybe you should think about
+it a little harder maybe you should call
+up elzra owski and have elazar teach you
+some of these fundamental concepts so
+the next time you go on a podcast you're
+a lot more informed about such a
+critical topic and maybe we can all get
+on the same page all of us that have
+these podcasts so we can stop rehashing
+the basic stuff and start facing the
+actual problem that's fast approaching
+us like a freight train the Doom problem
+until then until we get this kind of
+basic table Stakes alignment on what
+we're dealing with I'll just be here
+reacting to people showing their limited
+understanding on other podcasts until my
+audience becomes big enough to put some
+pressure on these other guys to make
+them feel like oops maybe I should have
+done better so if you're watching Doom
+debates you can definitely help that
+mission by smacking that subscribe
+button or telling a
+friend so I do think there are things to
+do but what is not wise is the sort
+of naive oh I'm just going to get to the
+point where I realize that regulating AI
+makes problems worse and now I'm not
+going to worry about it right that I
+think I think not regulating it is the
+right thing to do and worrying about it
+tremendously is also the right thing to
+do that's the ideal approach huh just
+don't regulate it and worry about it can
+you just clarify how does that argument
+not apply to nuclear weapons should we
+just not regulate nuclear weapons
+because then China and Russia are going
+to get nukes so should we just sit here
+and worry about nukes should we just
+focus on missile defense shields and
+just assume we're going to get as many
+nukes as they want to shoot at us and
+not bother having International treaties
+with enforcement like your argument is
+too strong that we should not bother to
+try to regulate I think given the status
+quo where nuclear regulation has had
+some very significant success the idea
+that we shouldn't regulate nukes at all
+is now striking us as crazy and I'm here
+to point out that it's equally crazy
+with super intelligent AI right if
+something is super powerful how
+regulating it by International treaty
+seems like a good way to go rather than
+to quote you just worry about it that
+doesn't seem as good as regulating with
+it International treaty right all right
+so that's my entire selection from the
+Diary of a CEO podcast interview with
+Brett Weinstein those are all the parts
+where Brett addressed the existential
+risk of super intelligent AI feel free
+to listen to the whole podcast they
+touch on unemployment caused by Ai and
+other existential risks that Brett
+thinks are important which I agree with
+a lot of so feel free to check that out
+it's in the show notes overall what do I
+think of Brett winstein on AI
+existential risk first of all I think
+it's good that he's coming out and
+saying this is the top risk that
+Humanity should be worried about great I
+just think he then comes off very ad hoc
+like he's kind of putting some thoughts
+together like oh yeah AI is getting
+language that's what makes it so
+powerful and scary which I don't think
+is very precise but it's not completely
+off base and then he has a very weak
+argument why we shouldn't even bother
+regulating it so we should just be
+really really worried and then also at
+the beginning he expresses how he's not
+really a Doomer and he's not worried
+about AI out competing humans or turning
+us into paperclips he kind of dismisses
+those scenarios without saying why I
+think those are kind of default
+scenarios in many ways
+like that level of Carnage that level of
+danger to me seems like a default that
+does deserve a very precise argument
+before we can write it
+off so overall it's a lot better than
+nothing it's a lot better than just
+being like Doom is stupid Doom Miss
+sci-fi like he's open-minded about doing
+my guess to a pretty large degree but
+then he's just kind of sloppy he doesn't
+seem very informed and as I said during
+my review I just think it's time to
+elevate the discourse it's time to agree
+on Core Concepts I want to hear
+everybody talking about optimizers not
+language producers optimizers General
+intelligences degrees of intelligence
+that's common terminology that I think
+you have to analyze this with like
+there's not that much time to roll your
+own analysis before you get with the
+program and realize what's coming due to
+optimization there's not much time to
+realize that cognitive work is a type of
+work very much like thermodynamic work
+and then to follow the Doom train to
+follow the logic of the Doom argument
+all the way to instrumental convergence
+and AI being much more powerful in
+humanity and having there be no off
+button and having there be no undo
+button no way to get us back to a safe
+point before we knew how these super
+intelligent a work like the argument
+does have a lot of steps and that's why
+it's so critical that when we listen to
+these random podcasts everybody needs to
+be on the same page about the freaking
+Basics I'll promise you this I will not
+rest until the vast majority of these
+luminary podcasts that I'm listening to
+on a regular basis that I think a lot of
+you are hate listening to on a regular
+basis I will not rest until these
+podcast stop making it up as they go
+along and they know systematically that
+they need to address the actual Doom
+train claims they need to systematically
+address the paperclip argument
+instrumental convergence
+orthogonality the opak of these large
+systems the inner alignment problem and
+the outer alignment Problem Like These
+are the building blocks of talking about
+why we're doomed and it's time to stop
+talking past those so I file this
+podcast as another one that's like a
+mixed bag in terms of the guest being
+reasonably well-intentioned somewhat
+thoughtful and still talking past key
+building blocks that it we just can't
+afford to be talking past this late in
+the game that is it for now I'm going to
+be working on some more comprehensive
+episodes where instead of just taking
+down one recent podcast I look at a
+luminary in the field and I look at a
+number of different pieces of their body
+of work on the subject of super
+intelligent Ai and I take it all down as
+one big bunch so expect that coming
+pretty soon as always really appreciate
+your engagement with doom debates the
+level of Engagement is amazing
+but to be honest the subscriber count
+isn't even at 1,000 yet come on let's F
+that subscriber count I believe in you
+guys to help out I can only make so many
+sock puppet accounts so I'm really going
+to need your guys' help so if you have
+relevant clips from Doom debates do
+share it on forums on your private DM
+groups share it with a friend on
+messenger you know what to do and of
+course it's going to be a virtuous cycle
+where the bigger this audience gets the
+higher the profile guests that we can
+get the higher quality debates we can
+have and eventually there's not going to
+be a lot of need for the lon reacts
+episode because I'm just going to go
+straight to the source I'm just going to
+have the power to summon the guests and
+create primary source content where I
+ask them directly what their views are
+and find the Crux of disagreement
+between their views and My Views so
+there's a sense in which a doom debate
+screens off a reaction episode to
+somebody else's podcast that's it for
+today thanks for listening thanks for
+subscribing and I'll see you next time
+on Doom debates

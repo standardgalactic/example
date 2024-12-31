@@ -1,0 +1,3033 @@
+Fraser Kane what is your P Doom I can't
+see how we stop it and I don't like the
+solutions to make it stop like I think
+centralized control may just be the only
+alternative yeah and and again that's
+awful and and I hate that and and I feel
+like nobody has thought of a way through
+this if you're a super intelligent
+civilization and there's a star buring
+that's basically a terrorist we living
+in a simulated universe is a deeply
+scientific question and it has an answer
+and now I'm going around saying like I
+don't believe in God I just think that
+we're probably living in some higher
+intelligences creation and he might be
+listening to
+[Music]
+us welcome to D debates today I've got a
+very interesting and different type of
+guest it's Razer Kane you may know from
+YouTube Fraser tell me a little bit
+about yourself and what gets you
+interested in AI Doom sure so um you
+know people might know me as the
+publisher of the universe today website
+and I have been doing uh space and
+astronomy explainer videos News
+interviews and such here on YouTube I'm
+the co-host of the astronomy cast
+podcast and so I've been a space science
+journalist for the last 25 years and
+have written thousands of Stories We
+have tens of thousands of Stories on
+Universe today mostly we talk about you
+know fairly uh more normal discoveries
+by James web Space Telescope and and
+interesting new uh exploration in the
+solar system but I am drawn like a moth
+to the flame to sort of ideas of um you
+know Advanced civilizations techos
+signatures ways we could discover
+whether or not we're alone in the
+universe because it is sort of like the
+most deep philosophical question that I
+think Humanity can almost ask um and my
+background is in computer science that's
+my degree and worked for a bunch of tech
+startups and firms before uh deciding to
+sort of go into full-time uh journalism
+so you know I sort of have feet in both
+sides and both understanding the
+technology and sort of watching its rise
+and growth and then at the same time
+taking advantage of it to be able to
+communicate space and astronomy
+better got it what's kind of your
+favorite idea to focus on uh when you do
+uh your channel when you're thinking
+where to go with that that's kind of
+like your main thing yeah so what I like
+best is what is a problem that needs to
+be solved what is a clever idea that
+somebody has had what is something that
+just has now become possible and those
+are the kinds of stories that I'm most
+interested in and so you know you will
+hear about some new way that maybe
+someone can use a Space Telescope to be
+able to observe something that we never
+knew was possible before or there's a we
+know there's a problem with dust on the
+moon and someone has come up with a
+really clever idea to be able to solve
+this problem or maybe make a problem you
+know mitigate it in some fact so so I'm
+very interested in realistic solutions
+to near-term problem s or really clever
+ideas to help make some kind of Headway
+towards a challenging mystery that has
+been befuddling astronomers for a very
+long time and so whenever I see those I
+tend to task a writer to to try and
+cover a story about
+that great okay so just to frame this
+conversation uh obviously we come from
+kind of different areas I'm from
+computer science and I spent a lot of
+time thinking about AI doom and you
+clearly focus on the universe and
+cosmology I think we're going to touch
+on an interesting intersection which is
+that if you look at grabby aliens it's
+kind of at the intersection of life and
+intelligence and cosmology so it turns
+out maybe they're more related than
+people may realize but besides that I
+want to spend a lot of the conversation
+just talking to you as an interested
+amateur right like I'm definitely not an
+astronomer I don't know what I'm talking
+about but luckily I think most of my
+viewers probably don't know any more
+than me so I think that'll still be
+interesting to to hear what you have to
+say sound good yeah totally yeah I mean
+I think
+that
+that if if computers and Robotics are
+the way that we will explore the
+universe this has very real implications
+on what we could perceive our future to
+turn into and then gives us glimpses and
+insights into what we should be looking
+for out in the universe to see other
+civilizations doing the kinds of things
+that we might do so so it has become an
+astronomy question
+absolutely yeah exactly right so before
+we dive into the cosmology stuff your
+wheelhouse let me also get the lay of
+the land uh from my perspective so I got
+to ask you the most important question
+ready for it
+mhm Fraser Kane what is your P Doom I
+would say it's about
+50% okay wow can you unpack that a
+little yeah I mean I mean I know sort of
+all of the arguments the very specific
+arguments about loss of control and that
+kind of stuff my concern is more
+about our increased technology as a
+ratchet for personal um impact on the
+world that when you think about say
+nuclear
+weapons 50 years ago 75 years ago it
+required a nation state to be able to
+generate nuclear weapons and the like
+the largest nation states there was
+really one and then there was two and
+then it became possible for smaller
+nation states to be able to do this and
+it would have just kept going if nuclear
+arms proliferation treaties hadn't been
+developed to kind of put the halt on
+that and then you see that same kind of
+ratcheting up in other kinds of
+Technology people's ability to do
+bioengineering and and now computers and
+so I think that just over time there is
+this
+accelerating capability by smaller and
+smaller groups to have a bigger impact
+on the rest of the planet and there
+doesn't seem to be a way to stop this
+and So
+eventually the the ability to cause mass
+destruction will fall into a group that
+has 10 people maybe one person and that
+feels like this you know like I don't
+know how it plays out how it we move
+towards that but it feels like that is
+the way this all Trends towards and I
+and I can't think of a way to stop
+it yeah yeah I I got to agree I mean
+you're you're basically saying what I
+consider the correct answer from Channel
+um it's very similar my perspective um
+and the way you explained it sounds a
+lot like Nick bostrom's vulnerable World
+hypothesis right where you just each
+technology is kind of like pulling out a
+new ball from an ear of balls and
+eventually we'll get a black ball which
+is like one that allows even just one
+person to end the universe because it's
+so
+powerful yeah I mean I think that's it
+and then you kind of you sort of Imagine
+like yeah if you put off things like the
+nuclear arms proliferation
+treaty then then that sort of maybe puts
+a line in the sand against one of them
+but then other ones can continue to
+March forward and there's like there too
+many fronts to try to put a a break on
+on all of them and and I think that as
+these things accelerate I mean we see
+examples of you know both of us come
+from a computer science background like
+you see how computers can just not do
+what you hoping that they would do yeah
+and if the consequences are huge then
+you're going to see negative outcomes
+and uh it just feels like more fronts
+are opening up in what people are
+personally capable of doing when they're
+augmented by technology to carry out
+their whims and without some final just
+wall lineing in the sand that just says
+okay we can't go any further we're not
+allowed to make you know till we get the
+butlerian Jihad you know we're not
+allowed to move forward anymore um it
+just it just keeps getting eroded and
+someone will figure that out and and I
+don't even like this you know like what
+is the possible solution some kind of
+right authoritarian single super
+intelligence that watches over us like a
+you
+know a helicopter mom that won't let us
+do anything that's even potentially
+dangerous that doesn't sound fun either
+so uh I I I can't see how we stop it and
+I don't like the solutions to make it
+stop and so I feel like we just keep
+marching forward to
+some weird
+future I mean what you said is
+fascinating right because when you're
+kind of like look unless we have like a
+berian Jihad it's just like you and I I
+don't think either of us find that idea
+appealing right like you just said like
+that's not fun right like we are not
+commies trying trying to like install no
+no I love my
+technology exactly right so I I feel
+like the mature technologists and even
+mature Libertarians the ones who are
+just like adult are just looking at the
+situation and being like look
+Independence is great freedom is great
+but like this is like a real game
+theoretic problem here like empowering
+one random person to end the world like
+I think centralized control may just be
+the only
+this and not just on a like okay if we
+can just take our llms and we can just
+open them up and we can examine how the
+memory is working and we understand and
+we can change their behavior we can make
+sure that they're guaranteed to be on
+our side then you still have the ability
+of a single human being to cause Mayhem
+when they run one of these perfectly
+aligned AIS to do Mayhem for them
+so I think that the sort of the deeper
+sociological
+issue is is waiting in lurking in the
+shadows after the alignment conversation
+has finally been wrapped up and and I
+don't know and I and I think that like
+until somebody's made serious progress
+on that sort of philosophical
+Direction um I just feel uncertain about
+the future yeah yeah and I totally agree
+I mean as you say it's like even if we
+solve alignment and we can get it really
+aligned to its one human Master it's
+like okay then what right there's still
+another problem right and that's that's
+really why my own pdom is so high
+because it's kind of like a tangle of
+thorns it's like great you got one thorn
+out of the way but like the other Thorn
+still choke you or whatever right like
+there's so many thorns that we're about
+to head into um yeah okay when you say
+your PD is 50% I'm just curious do you
+kind of mean like all humans going
+extinct by around 20 40 is 50% because
+that's what I say how would you tweak
+that yeah I'm like I haven't thought
+through the various specific Doom
+scenarios in that level of of clarity
+like it's just this uneasy feeling about
+us barreling towards a future that I
+don't think we understand the
+consequences and don't feel like the
+kinds of people who should be taking
+this seriously are taking it seriously
+enough and then that that's sort of
+balanced by me looking at myself going
+don't be freaked out everything's fine
+it always works out fine you'd be amazed
+at how clever Solutions arrive at the
+last minute I mean know like I talk
+about that every day and so I Waffle and
+I uh search and scan and I don't sort of
+think about it very specifically and I'm
+also you know always trying to be aware
+of like the last cogent argument that I
+heard from somebody May dig a little too
+deep into my psyche and try to you know
+resist that urge as well so I'm I'm
+happy right now to kind of just be in
+this Wilderness wandering around
+thinking about the
+problem the way you're coming on my show
+and and talking about this like so open
+and so logically and rationally and
+maturely I feel like I don't see enough
+of people saying this kind of stuff you
+know serious respected intellectuals
+like yourself who've built up quite an
+audience for a good reason I just don't
+see this discourse happening enough
+right yeah I mean even the I've been
+watching interviews on your channel and
+I watch you know interviews with very
+respected computer science professionals
+versus um you know people like ilar
+yakow ski and
+it's just it's just so frustrating
+because it's like it's not a cogent
+conversation being had it's this weird
+uh you know let's describe like what
+does it mean to be alive you know and
+you're having sort of St wol I'm right
+the recent yeah yeah yeah yeah yeah you
+know I want to dig too deep but yes yeah
+so like you're you're seeing these
+philosophical descriptions of terms and
+arguments about terms and I and I think
+that that it doesn't feel like like
+people are just
+really having direct conversations about
+the kinds of challenges that we face
+right now and it makes me you know just
+like a little frustrated because it's
+just you know so many times I'm
+listening to the these kinds of debates
+and I'm just like going you're just
+talking past each other like what what's
+going on here why aren't you just
+listening and and at least wrestling
+with these ideas and so there's like
+this shell that I don't seem to have I
+don't know and like maybe I'm just uh
+too easily influenced by things but I
+feel but but when we get into this
+conversation you're going to see I hold
+beliefs that are radically different
+from almost anyone you're going to talk
+to about space the universe aliens
+things like that so I do come to things
+I think from first
+principles right and that's you know it
+could just be one of those things where
+the human brain is just so wired to snap
+to a certain set of assumptions right
+like the assumption that like the of the
+world isn't going to be in your hands in
+like the current generation right it's
+just like it's it's a major blind spot
+for potentially that being the case yeah
+I mean the fate of the world is going to
+be in the hands of somebody at some
+point yeah someone will will have the
+fate of the world in their hands and for
+the first time in human history you know
+when with the Advent of nuclear weapons
+it became in the hands of somebody and
+now we're always pet right who decided
+not to fire the nukes and start the war
+yeah exactly I mean we're always G to
+have the future of the planet in the
+hands of somebody from this point
+forward and now it's just about trus in
+people you know before nuclear weapons
+no one person could really wreck up this
+planet now they can't right going back
+to what you were saying about like the
+way the discourse is so weird and like
+why aren't why are people talking past
+each other have you seen don't look up
+yep yeah I I watched that movie uh just
+a few weeks ago actually I didn't watch
+it when it first came out in 2021 but I
+watch it I was uh on the edge of my seat
+like this because it was just so real
+like conversations like you know the
+scientists would come on the show being
+like uh Hey so we got like six months to
+impact and the host would be like all
+right uh let's talk about this celebrity
+dropb like they just kind of moved on
+yes yeah yeah and I mean we see that in
+I mean we would absolutely see that in
+the the actual reality of an asteroid um
+you know I mean I have tons of H
+with the movie about about parts of that
+but you know obviously what they were
+talking about was was global warming
+that you know we are facing this serious
+threat that is increasing and the kinds
+of discourse that's going on around it
+you know the what you should do is you
+should have some common agreed truth
+about the science and then you can have
+policy conversations about how to deal
+with the situation but if you can't even
+get past what is true then you're just
+kicking the can down the road until
+finally nature inevitably shows you what
+truth is is and you know nature always
+you know reveals itself
+eventually for me the part of do look up
+that really unsettled me was that
+scientist you know Dr Peter ishell
+because for me it was just a Perfect
+Analogy to today's AI companies right to
+open AI to Ilia satk where their whole
+thing is like look yeah okay this
+thing's coming like we see it and so
+here's the plan we're going to send our
+robot there right it's going to extract
+the minerals it's going to bring the
+minerals to Earth and then also will
+like blow up the asteroid and like
+everything will work out fine and that's
+basically what ilas suer for example
+right he's considered like the
+responsible and or like Dario idate
+their plan is like yeah don't worry
+we're going to do it we're going to rush
+over there we're going to keep building
+it as fast as we can and then also we're
+going to make it safe and everybody's
+going to win it's the same naive the
+same
+recklessness yeah yeah I
+mean I mean I think there's a like we
+wouldn't even be having this
+conversation if lm's hadn't jumped into
+being a lot more effective and Powerful
+within the last couple of years and so I
+think if if open AI truly did want to
+demonstrate the capability of this
+technology and sort of make a wake up
+call to everybody then I they did it
+they pulled it off we are we are
+watching with sort of wrapped attention
+as this technology continues to progress
+and but then how do you both make that
+sustainable because it's just a place
+place where you set money on fire um and
+continue to make the safety progress
+move forward so I
+like I think it was important that they
+showed us what's possible and and our
+response or they yeah our response
+should have been okay we are we are
+shook what do we do now as opposed to um
+you know AGI wi right this is great but
+give me
+AGI yeah no exactly I mean just uh you
+know I can't get the movie out of my
+mind you know the moment I hate to spoil
+it but that you know after uh Peter
+iSell he tries this project right they
+send the robot to the asteroid and it
+just doesn't work right and then it's
+like an hour later like that's it right
+the asteroid impacts the Earth
+everything's done like you did this
+Gambit that was Reckless you failed
+we're all dead like to portray that in a
+movie to me is like very
+profound right but but imagine if
+the if in fact whether trying to do is
+show people that the asteroid even
+existed that it was even on this
+trajectory right and then by doing that
+maybe they didn't succeed at their first
+thing at least they revealed the
+existence of the asteroid and I think
+that's more like what the people that
+tusar and you know and various people
+were trying to do but then you know if
+you are funded by venture capitalist if
+you're funded by Partnerships with large
+corporations then you can't get off that
+treadmill at that point if you take a
+penny of money from some outside
+influence then now your job is to
+increase shareholder value no matter
+what that's a good point that before Sam
+and Ilia took on the role of Peter
+Israel in the beginning they were uh the
+Leonardo De Capri right they were the
+scientist who saw it in the distance um
+and I don't know if you saw the recent
+leaked not leaked but you know the
+deposition emails from open aai like
+going from like 2014 to the Pres did you
+see those emails no no it's very
+interesting yeah it's like uh it's it's
+a few pages worth of emails where you
+can see those private exchanges you know
+I don't I feel like the legal system is
+like pretty terrible with privacy these
+situations or but they like dumped all
+these emails so you can see what Greg
+and Ilia and Elon Musk were all saying
+to each other and this it's like
+fascinating historical documents uh and
+one thing that struck me was I think
+what the very first email that Sam sent
+off to email if I to Elon if I remember
+correctly was him saying like do you
+think it's possible to not build AI when
+he said that it reminded me of how he
+was doing y commentator talks at the
+time where he was basically saying like
+yeah I think AI is going to destroy
+everybody probably like it looks bad but
+at least we'll build a bunch of great
+startups along the way like he was kind
+of like a Doomer at that point before
+and he even asked El he's like how do we
+stop this and his conclusion was like
+well I don't think we can so let me just
+try to like be at the Forefront of it
+right right and and it could very well
+be that you live in the yeah you live
+live in the bubble long enough and you
+you start to think I can pull this off I
+can navigate this complicated obstacle
+course and and pull one you know and
+then win one for
+Humanity yep exactly and he's talked to
+those terms like I I've clipped him
+saying um I think we can manage our way
+through this fine really I mean because
+my beef is to not grapple with the
+possibility that actually we can't
+manage our way through this fine like we
+are facing down at off where if you
+estimate the size of the obstacle you
+have to be open to the possibility that
+the obstacle is too hard to solve or by
+orders of magnitude like you have to
+open your mind that that may be the case
+and if it looks like that's the case
+then you have to stop yeah but you know
+they will say well if we stop then
+somebody worse is going to keep going
+and they're right yeah so right right
+right you know so you know the the all
+of the arguments are completely
+logically consistent and if the US
+decides it's not going to do it then
+China will
+so so progress marches on the machines
+spit out gold until they catch the
+atmosphere on
+fire okay great so that that's a really
+great introduction that we both kind of
+have the the same perspective on
+Humanity right like fragile world like
+what being a mature adult looks like so
+a lot of common ground here um so how
+about let's let's dive into uh cosmology
+and Aliens sound good sure yeah finally
+yeah finally all right so coming at it
+as just just a naive AI focused Observer
+um and most of what I know is what I
+just picked up uh as like side side
+notes reading Pi Leong and Robin Hensen
+over the years yeah uh so my first
+question is do you agree that the
+observable universe looks uninhabited
+yes okay like in particular because
+because some people like know doesn't
+some people will say there's the the
+Hidden Forest Theory or what the Dark
+Forest like it's actually not what do
+you think about that I don't buy it
+so when you're on planet Earth and you
+just get dropped on some random part of
+planet Earth most of the time you're
+going to be in what is going to feel
+like Wilderness you're going to be in
+the middle of the ocean you're going to
+be in the middle of a forest you're
+going to be in the middle of Antarctica
+you're going to look around and you're
+just going to see trees and rocks and
+snow and Wildlife and it's going to feel
+like you are in Wilderness every now and
+then you're going to get dropped into a
+city and you're going to look around you
+look okay this is a city this is
+inhabited this is there's a very clear
+distinction between what an uninhabited
+Wilderness looks like versus what an
+inhabited human-built civilization
+appears to be and when we look out into
+the universe what we see is Wilderness
+we see um un we see asteroids in their
+raw form we see stars that are not
+surrounded by Dyson swarms that are
+harvesting all of the material we see
+galaxies in this sort of inefficient uh
+SP spiral shape like a flattened disc
+when they could be a much more efficient
+super massive black hole surrounding
+other super massive black holes with
+planetary constellations around them
+organized in the most efficient way that
+some Advanced civilization would would
+want to see their Galaxy and you know
+surveys have been done so you know a
+Dyson swarm when you surround a a star
+with enough solar collecting satellites
+that they are blocking the light from
+the Star you still have to let the heat
+out otherwise you build and so you are
+letting out an infrared signal out into
+space that would be obvious and
+astronomers have even done surveys
+they've looked for examples of stars
+that are surrounded by um satellites
+that are that are giving off this
+infrared signature in fact some have
+claimed that they found some although
+the evidence is quite weak and there's a
+very Lal explation so so if there was a
+dark force and there's a bunch of super
+intelligent aliens who are doing tons of
+productive activity but they just don't
+want other racist to know about it
+you're saying that would be really tough
+because they just have to radiate some
+energy well right so there's a couple of
+parts to that one is they absolutely
+have to radiate energy the other thing
+is is that there's no way to hide so
+planet earth has been you know when we
+had the oxygen catastrophy about 500
+million years ago when we got the rise
+of of or even earlier anyway we got we
+got cyanobacteria filling the atmosphere
+on Earth with oxygen um it was a very
+clear signal that anyone with a powerful
+enough telescope could 500 million years
+ago have noticed that something weird
+was going on with planet Earth more
+recently you know there are structures
+on planet Earth the pyramids things that
+were visible 5,000 years ago so you know
+imagine a sphere around us 5,000 light
+years away that people could be going
+huh what are these weird pyramids that
+are being built on the surface of planet
+Earth the cities the civilizations that
+started to show up the lights at night
+um us the Industrial Revolution putting
+pollution into the atmosphere
+chlorofluorocarbons the results of
+nuclear weapons tests like there are
+tons of these they're called techno
+signatures but there's things that
+Humanity has done and that life did
+before us that gives us this really
+clear signal that something interesting
+is happening on this planet before we
+could develop the technology to try to
+hide ourselves and so you know this idea
+of the Dark Forest that all civiliz
+civilizations wait in hiding
+in this Dark Forest hoping not to let
+out a peep that will cause anyone to
+notice them oxygen gave up you know sold
+you out 500 million years ago in your
+atmosphere and you know we can't imagine
+powerful enough telescopes today but
+there is no reason why you couldn't
+build a array of space telescopes built
+into an interferometer that has a light
+collecting Powers if it's 10,000 kmers
+across that would allow you to resolve
+features on the surface of an exoplanet
+that are a couple of meters across like
+you could watch a car driving on a
+planet that is tens of light years away
+with a powerful enough telescope and you
+know we don't have them today but we
+understand how one might build them and
+so it's expected that some Advanced
+civilization will do the same they will
+build their telescopes they'll look
+around and go okay alien alien alien
+alien there there oh they just
+discovered coal they're producing
+they're having nuclear war and keep
+tracks on track on of what everybody's
+doing exactly so I think we both give a
+high probability that the entire
+observable universe doesn't have any
+super intelligent life in it even the
+far away galaxies where some people be
+well look it's far away how do you know
+and I'm like no I know I know because I
+see so many stars just sitting there
+burning like there's no way that super
+intelligent life would let that happen
+yeah so this idea that I mentioned that
+people have done surveys for Dyson
+spheres has been scaled up people have
+also looked for what are called type
+three civilizations which is that you
+have a civilization that has turned
+every single star in their entire galaxy
+into a Dyson Sphere and so it's a right
+and then maybe have rearranged the
+positions of those stars in the galaxy
+which which sounds sphere real quick
+well yeah a Dyson swarm and Dyson Sphere
+so you've surrounded your star with
+solar collecting satellites that are
+putting the energy of the star to some
+use and you know we have already begun
+doing this the James web Space Telescope
+which is a satellite designed to collect
+energy from the Sun the Hubble Space
+Telescope all the various spacecraft
+we've sent we are beginning to build our
+Dyson swarm right it's just bits and
+pieces you know it will accelerate into
+the future as we launch more stuff the
+harest I me when we cover the Earth and
+solar panels we're doing a little bit of
+a Dyson swarm yeah I mean that's moving
+us towards our type one civilization but
+we're also working on the type two part
+at the same time um and so this idea
+that okay you could actually move a star
+into a new configuration it's doesn't
+break the LI the laws of physics you
+know idea of a stellar engine scat off
+Thruster you can rearrange a Galaxy into
+a more convenient shape and it would
+also give off this very clear infrared
+signal that would be obvious you know
+you've got the amount of stars in a
+galaxy and yet they are all just giving
+off infrared that would be super weird
+and astronomers would would have noticed
+and they have looked like there there
+are papers where people said we know we
+conducted a survey looking with the wise
+telescope for uh type three
+civilizations and we didn't find any and
+so you know there could be some out
+there but they are not the predominant
+thing that is out there which is what
+you would expect if civilizations were
+running a muck out there and you know
+you say okay you know you don't think
+that there's any advanced civilizations
+out there you know I take that argument
+even further which is that I don't think
+there's any life out there at all like
+that that planet Earth
+you know the the implications for me is
+that because it is
+this jump from step to step to step to
+step to get you to an advanced
+civilization that then causes a
+noticeable effect on their environment
+because we don't see that then then none
+of these sort of uh Pathways have begun
+on any Planet out there in the uh in the
+Galaxy or in the argument that if there
+was uh sub intelligent life out there
+then some of it would have become super
+intelligent and created a signature for
+us is that basically how your reasoning
+exactly right that that it seems like
+you know darwinian evolution is such a
+forcing function that drives things to
+and intelligence is such a
+powerful um evolutionary advantage to
+get to that you're going to see
+intelligence pop up and we see here on
+Earth convergent evolution we've seen
+multiple examples where various
+creatures have developed levels of
+intelligent as the best strategy to
+thrive in their environment and you know
+parrots octopuses you know champ we
+were're related to them but you can
+still see that that that intelligence
+has value and it's it's not like it only
+popped up one time it's popped up
+multiple times not to the same level
+that we have you know we won okay so
+right what you're talking about now
+going from the relationship between
+seeing super intelligent life and
+expecting to see less that intelligent
+life I want to get back to that in a
+second but I just have a couple more
+thoughts uh on our previous topic of how
+like the universe really looks devoid of
+super intelligent life uh one thought I
+have is that if you're a super
+intelligent civilization and there's a
+star burning that's basically a
+terrorist because number one it's
+wasting so many resources right it's
+like wasting enough resources that it
+could power a huge civilization like
+many trillions and trillions
+quadrillions like if if you put an
+economic value on it right it's it's
+destroying so much possible life and
+Happiness by just you know fusing those
+Adams and doing nothing with them right
+so first of all it's destroying a lot of
+value and then second of all it's not
+just going off and doing a crime it's
+live streaming the crime so you have to
+watch this crime happen every day that's
+terrorism sure um I mean you know when
+you I mean there's value there's
+aesthetic value in Stars being Stars so
+I don't think you need to necessarily
+kind of go well you know any uh any
+ongoing fusion reaction is a waste of
+the universe's valuable resource
+but a civilization that is Advanced
+enough will go that is that is a shame
+that someone isn't putting that that
+just like really just a blob of hydrogen
+to better use so um so yeah I mean I
+think the point is is that a
+civilization will reach a point and if
+what they want is to maximize their
+their potential impact on the future of
+the universe they're going to attempt to
+acquire as as much resources as possible
+and and not just because you know that's
+greed at a cosmological scale but you
+could do this as a Bull workk against
+other people who have more ill
+intentions you know you want to create a
+very peaceful very just Galactic society
+and you're aware that there are the sort
+of screaming hellbent AI uh terrorists
+that show up and only with having a lot
+of resources at your disposal can you
+stop them you know that the culture
+deals the culture series of books deals
+with this all the time with sort of
+runaway Ai and and how they're
+constantly having to put them back in
+their bottles because they're you know
+they don't respect polite um discourse
+and so you can only do that with a lot
+of resources at your disposal that's
+another good point yeah so when the
+super intelligent civilization sees a
+star they're not just like oh my God
+it's burning the grain that I was going
+to feed to my children right like the
+same way like terrorist comes and sets
+your grain silo on on fire that's kind
+of what the star is doing but even if
+it's like okay well I want to have a
+small family well I still need to go
+grab the star just to help my defense
+right because you have to expand if you
+want a successful defense right right I
+mean if we don't then someone else will
+we're going to be peaceful about it
+we're going to be benevolent we're going
+to have a really highly evolved culture
+that uh you know has all of
+these high morality and yet we need to
+have the ability to affect
+the universe to defend it and that is
+you know that that feels like that's
+going to be a natural conclusion that
+advanced civilizations will reach right
+uh and going back to Dark Forest before
+you know I'm not 100% confident that
+dark Forest is false because I think the
+best guess as to how it could be true is
+just like what if there's like dark
+energy or like dark neck enty just dark
+something right so maybe they're
+actually having a bonanza with this
+other resource that we just don't know
+about then they don't
+matter right like if you know if like
+we've got some kind of alternative
+civilization that is living in a um
+alternate universe that is just slightly
+off-kilter from the universe that we
+live in and we can't detect them we
+don't interact with them it's as if they
+don't they don't they aren't here it's
+only if we actually will fight for
+resources that it becomes a problem
+right I mean maybe a good mental model
+to help this conversation like imagine
+it's like they live in the fourth
+spatial Dimension and on our 3D our
+whole 3D world is just like one slice
+and they're like off parting in other
+four-dimensional slices that we can't
+see and I agree it doesn't matter except
+if it's still causally connected where
+they can like swipe at our slice
+whenever they want and like kill us if
+we get to up so that's that's kind of
+like the Steel Man of the Dark Forest
+hypothesis right and and that would have
+implic you know if they can affect the
+universe that we live in and the sort of
+future light cone that we're enjoying uh
+then we would see that as an effect in
+the universe that's all so if they do it
+then we would see it if they don't do it
+then they might as well just not exist
+exactly um there's another point I want
+to come back to a little bit going back
+to talking about uh what you said about
+how like technology has signatures right
+like it's not that hard to detect
+whether you're just seeing like a jungle
+or a desert compared to seeing you know
+an alien power plant or a DIC worm um
+this point seems pretty obvious and I
+think it it traces back to uh William
+paly's watchmaker argument right where
+it's like oh I I visit an island and I
+see like a pocket watch on the ground I
+don't think that the pocket watch is
+just like native to the Island's foliage
+right so it's all obvious stuff but I
+wanted to come back to it because I
+heard step wolf from last week talking
+to Al CI and this became an issue in
+their debate stepen wol was like I don't
+even think that I can recognize alien
+techology I'm like what are you talking
+about why is this still in 2024 the
+debate we're having yeah yeah I mean if
+it looked indistinguishable from Human
+technology then you wouldn't recognize
+it but if it is having some kind of
+effect on the universe and it was not
+crafted by human beings and is beyond
+our capability then you would recognize
+it you know an
+ant recognizes you right an ant will
+bite you like it knows you're there it
+doesn't understand you it can't
+communicate with you but it doesn't like
+you and it wants to bite you and it's
+hoping that you'll go away and so I
+think you know that whole argument like
+well maybe we just can't even perceive
+them I mean we can see all kinds of
+things you know we can detect the
+presence of gravitational waves sweeping
+past planet Earth changing the length of
+the arms of the gravitational wave
+detectors by fractions of a nanometer we
+can detect incredibly sensitive things
+with our instruments
+today a a an advanced civilization
+making a big impact on the universe
+would be very obvious you know people
+even proposed how you would detect warp
+drives moving through the cosmos or
+detect the the catastrophic destruction
+of a warp drive ship you could detect
+space wars with your gravitational wave
+Observatory so you know just because we
+don't
+necessarily we we can't match their
+technology doesn't mean that we couldn't
+perceive them right right and a random
+thought I I don't know if you have ever
+thought about this but Robin Hansen
+wrote this post last year about like
+really high dimensional spaces which is
+not something I'm good at thinking about
+I don't think most people are but he
+randomly made a comment that if you live
+in a really high dimensional space you
+don't really have that same luxury where
+you can just kind of like look around
+and expect to like see all the
+interesting stuff going on sending
+photons to you there's just like too
+many dimensions so you just like there's
+no such thing as really looking around
+have you ever thought of that
+no yeah but luckily you know in our
+universe unless they're partying off in
+higher Dimensions it it does seem like
+we have a really strong ability to look
+around yeah absolutely in in many
+wavelengths with many instruments
+looking in all directions all the time
+with new ones coming online every day
+exactly okay let's get back to what you
+were saying about how you made a
+connection between like okay clearly
+there's no super intelligent life right
+there there nobody's building Dix swarms
+where we we have pretty good information
+about that and you made the connection
+of like well I bet nobody's even in
+earlier stages of life just because
+you'd expect to see some of them get
+farther and and we don't and Ergo you
+know that was your logic so this
+connects to Robin Hansen famous concept
+of the great filter right
+kind of yeah I mean when you think about
+the age of the universe that it has been
+like Earth formed 4 and a half billion
+years ago which is about 7 billion years
+after 7 and a half billion years after
+the universe itself formed and the Sun
+is a third generation star made up of
+the metals that came from the deaths of
+previous Stars the the collisions of
+neutron stars forming these heavier
+metals and that there's a perfectly
+valid argument that that we wouldn't be
+here without the contributions of the
+previous generations of of stars but in
+fact you know if you continue that that
+sort of thought experiment the universe
+was viable for Life probably 2 to three
+billion years before where we are today
+so you know about two billion years
+before the sun formed there was enough
+of this concentration of heavier
+elements organic materials things like
+that that you would get life being
+possible to form on planets that's two
+billion years Head Start that other life
+forms have had in the universe over us
+and if and if life would appear on any
+one of those worlds then we would expect
+it to have you know would have a two
+billion year Headway on a head start on
+what we've been able to accomplish and
+so that's that's sort of the Crux of of
+the argument for me is we don't see that
+and bolted into that is the expectation
+that a civilization will advance to a
+point that it reach a space flight and
+then it will
+begin exploring if not colonizing the
+rest of the Galaxy that it finds itself
+in and so it should be everywhere um you
+know the analogy that I always use is
+like you've got some new island that
+appears in the Pacific Ocean from a
+eruption by a volcano and there's no
+life on it whatsoever and then a spider
+is is blown off course and and arrives
+on the island and then you know plants
+and trees and other bugs and stuff you
+come you show up 10,000 years later and
+there are spiders everywhere right they
+have completely colonized the entire
+Island it doesn't matter where it
+started where it ends is there are
+spiders everywhere reaching the sort of
+Evol evolutionary limit of the of the
+island and so for
+me the the you know how that ties into
+the gr filter which was you sort of your
+question like this is the idea that okay
+maybe you know my preference is that
+we're unique and alone in the universe
+because the great filter argument says
+oh actually something horrible happens
+to every single civilization before it's
+capable of that
+exponential exploration and colonization
+of their surroundings that you know any
+spider that is about to try to
+get off the beach something horrible
+happens to it and it happens 100% of the
+time and so whatever stopped the tens of
+millions of civilizations that attempted
+to go
+Interstellar is now waiting for us to
+make the same inevitable 100% mistake
+that will stop us from being able to go
+Interstellar and I don't like that
+probably yeah it doesn't work like that
+yeah okay yeah yeah no it probably
+doesn't work that it's like I don't like
+la la la I'm not
+listening I don't like it right not that
+I don't find it you know it's of course
+it's a compelling argument I just choose
+another path let me try to recap this
+from the viewers because some of them
+probably don't remember what the great
+filter is so Robin Hansen's great filter
+it's just the idea that if you go back
+to the fery Paradox and the Drake
+equation it's basically saying look you
+have to have some equasion where the
+frequency of Life occurring on a planet
+is going to be like one in 10 the power
+of I don't even know 24 right like some
+power of like how many stars we know
+about and we don't know about life on
+any of them so that you have to get this
+really small number as to the
+probability of like observable super
+intelligent life because we only know
+about one in the whole observable
+universe and then Robin Hansen comes in
+and he's like okay yeah you're going to
+get this small number but what are the
+steps getting you to that number like
+what what hard things do you have to
+multiply together their probability to
+get this final low probability and maybe
+one of those steps is like the hardest
+step and we can call that the Great
+filter right is that roughly what Robin
+was saying yeah I mean I mean the gist
+is that there
+are difficult steps that life had to
+take to get to the place where we are
+today that it had to even form in the
+first place that it had to go into
+multicellular life it had to get onto
+land it had to develop intelligence it
+had to develop technology it had to
+develop space flight and then it had to
+not X right right um and we have passed
+all of those we know we went
+multicellular we developed technology we
+intelligence and so if those those steps
+have been passed by us but not by by
+everybody else that is a possibility but
+that's pretty unusual the other
+possibility is that there are still
+filters in our future but what we see
+when we look out into the universe is
+that those filters take every single
+civilization out by the end like they
+are 100% effective because if even one
+civilization slipped through the last
+filter then we would see an entirely
+civilized Milky Way right you get the
+exponential uh colonization sort of
+heading forward and yet there's no
+reason like we are we are sending
+robotic spacecraft into the solar system
+we are developing 3D printing
+self-replication artificial intelligence
+like these things are right around the
+corner for us probably within a hundred
+years we will have the ability to create
+self-replicating robot probes and we
+send our Von noan probes out into the so
+the great filter is running out of time
+to get
+us yeah I I strongly agree that the
+universe is hackable so we're unlikely
+to get into a situation where it's like
+oh man nanotech is just like so hard to
+build you know I see think pieces uh
+regularly saying like come on you don't
+realize how hard NCH is to build no
+we're going to build NCH like just give
+a sign like I'm pretty convinced yeah I
+mean there are you know with the
+discovery of UA mua which was this
+Interstellar object passing through the
+solar system about 5 years ago and then
+within a year they discovered borisov
+the second intersell object moving
+through the solar system and now so once
+you've got two then that gives you like
+you can then make a calculation for the
+the number of objects in the in the
+solar system it's believe there's about
+30,000 objects that have originated in
+other solar systems that have been that
+are now passing through the solar system
+any number of them would have impacted
+or you know interact with other parts so
+you know if a dumb Rock can make the
+journey a smart Rock can probably make
+the journey that's a really excellent
+point yeah it's a lower bound on on Mak
+especially if we give we send like a
+million at once right you just need a
+one million chance to make the journey
+doesn't seem too hard um okay so what
+you were saying before where you were
+saying we had there were two billion
+years that like some life on some other
+planet could have already gotten to the
+super intelligence stage and showed us
+something in the sky besides Stars when
+you were saying that that implicitly
+assumes or or that communicates that
+your position is that you just don't
+think that the great filter comes after
+the origin of life right you think it's
+relatively smooth sailing after the
+origin of Life at least until the human
+stage
+um well I like I don't think the great
+filter is relevant because because I
+think that we're
+alone right but I guess what I'm saying
+is like imagine you can imagine
+somebody's position is like I bet the
+evolution from single cells to
+multicellular life that's the hardest
+step that's the true great filter and
+we're the only ones who have ever passed
+it and there's a bunch of single
+cellular organisms living on a bunch of
+other planets sure um you know there's
+some really interesting research about
+the ability for single cellular
+organisms to make the jump to
+multicellular people are now in the lab
+able to push like yeast cells in and out
+of
+multicellular uh sort of communities and
+not in the sort of the the same way that
+we have with you know the
+mitochondria enveloped by other you know
+I don't really understand biology but um
+but you know it it it appears that all
+the things that we consider to be
+potential filters there are workarounds
+that life has already devised in many
+different ways and can even be
+demonstrated in the lab and you can sort
+of look at each one of those things and
+and see that you know
+I've you know I've asked this question
+directly to biologists you're like yeah
+could single cellular organisms come
+together in ways that could mimic
+multicellular organisms and like yeah
+there's no reason why that wouldn't be
+possible and so you know in the same way
+that an ant colony can act more
+intelligent through some kind of
+emergent Behavior than a single ant you
+could have multiple Pathways getting to
+those various destinations and so I
+don't think that any of those things are
+as hard lines as people make them out to
+be life seems to find a way yeah so is
+your best guess that something about the
+origin of life whether it's like having
+a planet with good enough conditions or
+like just having the the bootstrapping
+of you know a biogenesis like whatever
+it was like the first RNA getting into a
+replication cycle like do you think that
+something back there in our early
+history that was probably the great
+filter and we're the only ones who have
+passed it yeah I mean that's that's my
+again that's my feeling um you know and
+I'm a journalist not the a a scientist
+and definitely not a biologist um but
+but that's the one that we don't know
+what the likelihood is to go from a
+jumble of organic material to getting
+the first
+self-replicating molecule that can then
+fall under some kind of evolutionary
+process to continue on from that point
+on what is the minimum bootstrap and we
+really have no way to know I mean
+scientists you know I've interviewed
+plenty of people that are trying to
+crack this problem and they feel in the
+lab that they're they're exploring a lot
+of really interesting ways that this
+could happen but they're going to be
+forcing it right as opposed to do you
+just get what you need out of just a a
+warm puddle that gets hit by a bolt of
+lightning right yeah okay so one thing
+Robin Hansen remarks when he originally
+writes about the great filter is he says
+it's good news if the great filter is
+behind us you know what I'm talking
+about MH y sure
+um so I mean if if the great filter is
+behind us then we did it right we we won
+we passed all of the uh filters and we
+came out the other side and now there
+there's no reason why we can't then
+continue on to whatever future we can
+imagine into the universe yeah yeah
+exactly right and and similarly or
+there's a related observation where it's
+like if if our scientists actually do
+see signs of life that isn't super
+intelligent yeah his example like okay
+if we find proteins on mars or anything
+like that he says that's actually
+terrible news right because that makes
+it seem like we are actually potentially
+behind the great filter and we are just
+going to die out or just never go super
+intelligent yeah absolutely you know
+it's sort of a you know a lot of people
+can't wait they would love to find Life
+on Mars and and I would too right like
+to find some kind of independent Life on
+Mars that's really exciting it shows you
+that that life finds a way life is
+everywhere you know don't don't ask the
+okay fine so where is everybody question
+you know don't think about that too much
+just you know continue on with being
+excited about the life that we found but
+yeah the reality is that if you find
+that life then it means that life is
+everywhere and then it means that the
+great filter is shutting it down you
+know the great filter if we find Two
+Worlds in the solar system that both
+have formed life independently then that
+tells you that probably there's going to
+be one or two origins of life in every
+single star system in the entire Milky
+Way so you're looking at 200 billion
+stars you know 200 billion times that
+life formed and yet there's nobody
+anywhere it means that the great filter
+is brutal to every life form that that
+forms and nobody gets out at the end it
+is 100% effective and you can't even you
+can't predict it you know even if you
+think you've predicted it then you
+haven't predicted it right like I think
+that's the part that I always find so
+unnerving is people are like well can't
+we just figure out if we if we think we
+know what the great filter is you know
+don't make the science experiment don't
+produce the artificial intelligence
+don't create the bioweapons don't
+develop nuclear weapons it's not those
+it's something else right you can't
+predict it because nobody you know the
+universe or the Milky Way took 200
+billion cracks at it and and nobody
+outsmarted the final filter
+let's talk about the common thing
+everybody likes to ask me on this
+channel which is like do you think super
+intelligent AI is going to be the great
+filter or it has been the great filter
+what do you think no I I think um robots
+love to go to space exactly right I
+think that's the correct answer yeah
+yeah so so no we we can feel pretty
+confident because we don't see robots uh
+tearing apart star systems and
+reorganizing galaxies into a more
+pleasing shape that that
+that the the robot apocalypse was the
+great
+filter exactly right so if you think
+that the great filter is in front of us
+that doesn't mean that you think super
+intelligent AI is going to kill us and
+go to space it means you think we're
+somehow going to get killed and nothing
+will go to
+space well remember I don't believe I
+don't I don't like the great great
+filter right so right so so so it's
+meaningless to me about what is a
+possible great
+filter doesn't matter because we're
+alone that's that's my position right
+right so
+um so and it seems to me like the one
+that even if we don't wipe ourselves out
+our robots are going to go to space like
+like it could very well be that we're
+going to send out our robots our Von
+noan probes and they're going to head
+out and they're going to be under
+complete control and they're going to do
+a great job and they're going to and
+that is not a filter and yet we don't
+see people even successfully sending out
+their their robot uh Von noyman
+swarms right okay all right um so you
+and I agree that we're probably alone in
+the observable universe and then now is
+this a new position do you is this a new
+position or is this one you held before
+we started
+talking I think they held it before we
+started talking so I think um everything
+you said pretty much agrees with how I
+think about this stuff okay yep great
+minds think alike there we go uh but
+maybe maybe I'll find a point of
+disagreement as I plow forward here um
+when we start talking about the UN
+Universe there's kind of a Twist and the
+twist just kind of traces the life of
+Robin Hansen here in mind he's he's been
+highly influential to me so in 1996
+that's when he invented the idea of a
+great filter and you know that was
+coming after like the Drake equasion and
+the fmy Paradox which were a few decades
+earlier than that um the next chapter in
+the story as I see it is in 2021 so if
+Robin Henson really had you 25 years to
+to keep mulling this over in 2021 he
+releases what I consider a breakthrough
+and a lot of rationalist Doomer are kind
+of on the same page I know leowski
+considers it the best theory we have and
+I agree which is grabby aliens right
+kind of like an update to the great
+filter um this one is a little bit tough
+because it's it's a little bit mouthy so
+I'm not sure I can fully do it justice
+do you want to take a stab attic sure I
+I don't think it has to be that
+difficult right the gist is that if what
+we've been talking about here that if we
+looked out into the universe and we
+would expect to see civilization
+sort of having an impact on their
+environments and that there's no reason
+why a civilization as they get more and
+more advanced will realize that okay the
+best thing for us to do is to plant the
+flag at roughly the like just shy of the
+speed of light the fastest um that we
+can explore that is the speed that we
+should go and so you would expect as you
+look out into the universe you would be
+watching Advanced civilizations expand
+exping their reach at just shy of the of
+the speed of light however long it takes
+for the light to get to
+us and if you know if it was very slow
+if they could only expand at say 10% at
+the speed of light then you'd have a lot
+of time to watch as their as their
+bubbles of of colonization expand all
+around us but if they are expanding it
+just shy of the speed of light then you
+really won't notice that they've arrived
+and until the sort of the first Scouts
+of their civilizations sweep past and
+and let us know that we're going to be
+assimilated as they as they continue on
+and so what Hansen is saying is
+that that we weirdly live in a bubble of
+uncolonized space but it's just a matter
+of time before one of those
+civilizations you know we we enter the
+territory we are you know part of a
+larger civilization as they sweep past
+and right that you can then use that as
+a way to try to calculate the number of
+civilizations that are out there in the
+universe
+do you think he's right that there's an
+alien civilization approaching us at a
+high fraction of the spe light well I
+mean he's Robin Hansen so I'm not going
+to you know and I'm the journalist here
+not the not the scientist and he's the
+mathematician in the economics so I
+think it's really important to you know
+to understand uh but I well he's wrong
+on AI okay
+sure um yeah so so I think he's wrong
+yeah I do think he's wrong I think um I
+mean don't have any problem with
+anything that he says but it's almost
+like he's more optimistic or pessimistic
+I'm not sure about the number of
+civilizations that are out there in that
+he thinks there are some and they're on
+their way and I think there are none and
+they're not on their
+way got it got it okay well so I think
+finally he found where you and I disree
+because going back to AI you know Robin
+Hansen when he came on my show a couple
+months ago his P Doom is like less than
+1% which to me is not even in the San
+Zone you got to give me 5% come on and
+think it's a good idea there is Doom
+then you know then we then we make a uh
+you know it's just our ba our children
+and let them go on and live a happy
+future like Coe of the universe yeah
+exactly yeah okay yeah my child is like
+somebody who's just going to turn all
+the earth into like some tiny molecular
+structures like during my lifetime okay
+that seems like a very badly behaved
+child or you know like The Lovable Scamp
+yeah exactly um okay so so we're not
+really fans of his claims about AI but
+you know I respect his approach and we
+had a good debate uh but then when it
+comes to cosmology funny enough I am a
+fan of grabby aliens and like I said
+even aasra owski is so this is kind of
+like uh Doomer cannon at least to follow
+up of the owski school that aliens are
+are rapidly approaching us let me try to
+say some of the things that are
+appealing to me about the theory um the
+theory or whatever the hypothesis grabby
+aliens it's like very epistemological
+like the reason why it works like the
+gears of the grabby aliens model um you
+kind of have to get why it's compelling
+U to think you have to think deeply
+about a asy I think I'll take a stab at
+it it's like he's trying to answer the
+question of like how do we make the
+probability that we see what we see be
+higher because a good theory is one that
+would have assigned high probability to
+what you're seeing does that make sense
+so like he's trying to be like how does
+it how do we make it look like we didn't
+get as lucky as we feel like from the
+perspective of Bas and epistemology when
+you have different competing hypotheses
+and then you turn over a new observation
+you're supposed to reward the hypothesis
+that said that the new observation is
+the most likely you know and that's
+basically Bay's rule is you multiply the
+prior probability of the hypothesis by
+the odds ratio meaning how much more
+that hypothesis expected the New
+Evidence compared to the other
+hypotheses so what Robin Hansen is
+giving us is a hypothesis that says that
+the current observed empty word
+is actually pretty likely if you
+consider certain constraints right and
+so the I guess my issue with that is
+that the two billion years that the
+Universe has had to cook life that two
+billion years is a vast amount of space
+that that that advanced civilizations
+could could have reached Us by um you
+know there's a you know it's sort of
+depressing um but
+96% of the cosmos has already fallen
+over the cosmological horizon that only
+4% of the universe we could actually go
+at top speed and and reach like if we
+went just shy of the speed of light we
+could get to this sort of claimable
+universe and the rest of it is outside
+of our grasp unless we develop work
+drives and and it's only about two
+billion layers like it's not a large
+amount of space that we could reach um
+and so it just for me um it just doesn't
+pass the gut check which is like the
+universe that there
+is tens of billions of galaxies within a
+radius of us that could have developed
+life in any one of those galaxies that a
+civilization could then Advance begin
+exploring and expanding outward at close
+to the speed of light we should have
+Fallen under the Empire of from every
+direction at various points and yet
+still we find ourselves in a place that
+is Wilderness untouched unclaimed right
+so that's so that so I I get the give
+you his perspective
+sure I think the perspective is
+basically that like you know Earth has
+basically like a four billion year
+window five billion year window
+something like that during which life
+could evolve and then it's too late
+right because Earth is no longer
+hospitable to life and I think we've got
+like the last few hundred million years
+in that window coming up right now so we
+we kind of caught it on the river right
+like we were almost too late to actually
+be life on Earth so Robin H's model is
+just that like every time you have a
+planet it turns out that there's a lot
+of hard steps like there's a lot of
+coincidence that that you need to chain
+in a row maybe like six major
+coincidences like what we talked about
+like maybe being multicell maybe one of
+those coincidences right the origin of
+Life maybe one of those maybe sexual
+reproduction is one of those
+coincidences if you want to get all the
+way to like get intelligence so whatever
+it is there's like a few hard
+coincidences that you need
+and his theory at least the way I
+interpret it is that a 4 billion or 5
+billion year planet is kind of a long
+shot to hit this chain of coincidences
+so you have all these different planets
+floating around in the observable
+universe and they're all just like not
+quite having enough time in the current
+history of the universe like the
+universe is like 14 billion years old it
+might normally take more like a trillion
+years to take enough uh shots at this to
+have Planet succeed but we just got
+really really lucky within our region of
+the universe and then Robin Hansen goes
+onto explain why in every region of the
+universe you're basically just going to
+have this one lucky planet that emerges
+first and kind of ckers that region yeah
+I mean it definitely took whatever three
+and a half four billion years to get to
+the place we are today with
+multicellular organisms really only
+arriving about half a billion years ago
+but life
+itself appeared on planet Earth as
+pretty much as quickly as possible like
+the second the had cooled down to the
+point that life could form life did form
+and you know even this idea of how much
+longer we have left here on Earth up
+until a couple years ago the estimate
+was okay we only have about 500 million
+years before the solar heating Cooks
+planet Earth but in fact you know a new
+paper just came out and I think Kipping
+had even referenced it in his video that
+in fact maybe we actually have more like
+about two billion years left so so I
+think the the part that we should be lot
+more interested in is not how long Earth
+has because there are plenty of star
+systems out there that are vastly more
+habitable in theory than than the solar
+system is but more how quickly life
+arose that this that that you know was a
+very short period of time after the
+planet had formed that life formed and
+that's
+surprising
+because that's common then it should be
+everywhere the observation Robin points
+out is that let's say there's like six
+hard steps and one of them is the origin
+of life if you condition on the fact
+that all the steps happened and here we
+are then when you look back they'll look
+easier than they are right because if if
+if you if the whole universe is rolling
+Dice and everybody's failing and one
+planet succeeds and then you just look
+back over the history of the planet
+you'll be like hey look the first step
+came quickly but that's not going to
+actually give you much evidence about
+how hard it really was yeah yeah and you
+know like I said I think the the steps
+are
+um hard to Define and malleable with
+life finding a way and and you know when
+I research how long the universe has
+been habitable for and even you know
+there's some really interesting papers
+that talk about the habitability of
+other places that you know that you can
+actually Envision a world that is
+dramatically more habitable than Earth
+is around a star that is drama you know
+dramatically more habitable than the Sun
+is that the conditions can be better in
+lots of other places and so you know but
+um you know if we've had two billion
+years for advanced civilizations to get
+to us and they haven't yet that means
+you know Crossing Intergalactic gaps
+that we're practically
+alone right right right yeah and just to
+recap so we both agree that we're alone
+in the observable universe and maybe
+I'll agree with you they were
+practically lowed because my claim is I
+agree with uh what I see as Robin's main
+L even though he's very careful not to
+be like this is my claim he's like look
+it's just the model operate the model
+however you want it but the way I
+operate the model is I think that which
+I feel like he hinting but whatever I
+think there's aliens that are moving
+toward us at a high fraction of the
+speed of light because they want to
+conquer everything uh and they're a
+billion in a billion years we're going
+to meet them and we probably our
+successor will probably also be
+expanding and like the wavefronts the
+two expanding spheres of colonization
+will meet and then I have no idea what
+happens next and Robin Hansen doesn't
+try to say what happens next but like
+that's basically my model of what's
+happening and so when you say we're kind
+of like effectively alone or practically
+alone I mean I agree with that like for
+the next few 100 million years at least
+is that fair yeah I mean I guess as a
+basy and every year that goes by
+shouldn't you be updating towards the
+We're
+alone I mean basanis is not that naive
+right bism not just based on like taking
+data points and then doing naive
+induction or extrapolation on them it's
+based on building every possible
+detailed model of the world and then
+having those models compete MH yeah yeah
+I mean I I don't you know when the
+grabby aliens hypothesis came out you
+know it was very interesting and I even
+interviewed Robin Hansen about it and
+you know for
+me um I don't think too deeply about it
+I guess you know I don't really try to
+wrestle with the the argument that
+deeply I get it at the gist and and for
+me it it is practically the same as us
+being alone I mean you know I I I think
+about this in terms of the the the
+future of life in the universe that if
+the universe is alone then and if we
+fail at our shot to get out there and
+actually explore the universe and and
+help life Thrive be on the solar system
+we're kind of failing to do that and and
+one of the sort of thoughts that I have
+is like if people expect that okay no
+there's fast civilizations around us
+that we can just seed the that
+responsibility to somebody else somebody
+else is going to help life survive in
+the cosmos it won't be up to us and so
+as we do damage to our planet as we uh
+fumble the ball um then we're losing
+that chance at having life survive in
+the universe and I think life is better
+than rocks trees are better than rocks
+right that's a good point I mean if only
+we could look over at the Andromeda
+galaxy and be like oh those aliens look
+like we're having a good they're having
+a good time so at least if we nuke
+ourselves yeah yeah yeah someone
+someone's got it under control we don't
+have to worry about it but right now I
+think we H we should be concerned about
+what is the future of the universe and
+do we want it to go down a better path
+or or a worse path or an empty path
+right yeah it's like Carl San's pale
+blue dot right it's like this is all we
+have this one Earth like there are no
+other aliens like and we're screwing it
+up yeah yeah
+exactly one thing uh that stuck with me
+about uh Robin after reading his paper
+is um he pointed out that if you believe
+grabby aliens we are now back to seeing
+the cosmos as a living cosmology like
+the our observations about stars are now
+explained by of intelligent or even
+sentient agents which is kind of
+mindblowing because if you go back like
+2,000 years everybody's like yeah of
+course there's like gods in space right
+and then for a long time it was like
+nope it's just dumb processes and now
+here in 2021 if you believe Robin nansen
+as I do you get to make statements like
+ah yes our region of the universe is
+empty because the gods are still on
+their way
+right um yeah like if you say
+so yeah no I I I got that it's I've kind
+of lost you other this point but just
+want to throw that well yeah it's it's
+it's just I find the you know at the end
+of the day when you boil it right down
+we only have an N of one which is our
+existence here on on planet Earth the
+formation of Life on planet Earth and
+that the the grabby aliens is exciting
+because it allows you to calculate how
+far away the aliens must be to give us
+the the universe that we see but the
+alternative to that is that they're even
+farther maybe infinitely farther right
+um and both of those I think for me vi
+in my in my brain um all right I can let
+me try to get put up a little slight
+debate for you if this is Doom debates
+after all sure yeah so do you this is
+the Doom that will that will that will
+debate huh all right exactly is the
+alien Armada coming yep exactly it's a I
+like to keep the types of Doom fresh and
+yeah uh okay so do you think that human
+civilization or whatever replaces human
+civilization like the AI whatever it is
+do you think that we are going to turn
+into a space colonizing
+entity so
+probably um because you know at the very
+least it's it would be useful to send
+out self-replicating robot probes to
+other star systems to at least analyze
+what's on them to build a map
+of the Galaxy that we find ourselves in
+you know we can just barely tell what's
+out there wouldn't it be amazing if you
+could bring up detailed computer maps of
+every single star system every single
+planet every single moon in the entire
+galaxy that is a worthwhile scientific
+Endeavor and then you know it is more
+debatable more debatable about whether
+or not there's value in extending beyond
+the solar system at all um the lag you
+said before you said off or expansion is
+defense which I agree with yeah so so I
+think that's the other part right so
+there's the there's the knowledge and
+there's the the defense but the problem
+is so of you know and now I'm going to
+argue with with earlier me um is that
+the lag kills you that when you're
+looking at attempting to communicate
+with your uh your other City your other
+your other Home world four light years
+away then you're only able to
+communicate so much information back and
+forth and that other world is going to
+uh sort of evolve into its own society
+and and that sort of gets more and more
+difficult as you get farther and farther
+away from wherever was you know tranor
+right um right so you kind of lose a
+tight coordination you lose a tight
+coordination and you're essentially
+seeding the universe with potential
+rivals in your attempt to prevent future
+Rivals and I mean it's it's possible the
+that the AIS that take over will just
+work out you know Game Theory to be like
+ah yes we have like we've just really
+aligned these things that are being sent
+out and we're just confident that the
+successors that they generate will also
+be aligned yeah but you know that sounds
+like a thing that would be difficult to
+us but but a very viable thought process
+on this is an advanced civilization will
+know that it's impossible to perform
+that alignment and so they won't want to
+expand in fact you know there's a sort
+of structure this Jupiter brain idea
+where at a certain point you're you know
+the lag of just communicating internally
+in your memory and your processing is
+large enough to the point that even in a
+a single ball of computronium you are
+starting to have Rogue States appear
+because they are cut off from the main
+processing of the rest of the of the
+collective so there's kind of like a
+really interesting Charles TR wrotes a
+great book called accelerando I don't
+know if you've read this but the gist of
+the argument is that the advanced
+civilizations or the you know the
+robotic civilizations they don't want to
+go out into the universe because the lag
+is such a killer but they also don't
+want to necessarily open themselves up
+to threats from other civilizations that
+are willing to accept the lag and you
+come into a certain amount of
+conflict so I you know but that's all
+like science fiction at this
+point okay so it sounds like to use
+Robin Hanson's chology like we're
+basically talking about whether Humanity
+or whatever AI takes over after Humanity
+Robin Hansen would say that uh he used
+the term grabby to mean like expanding
+and trying to conquer as many resources
+as it can um that's what he calls grabby
+as opposed to like non- grabby that can
+just like chill on its planet and like
+not make a visible signature it sounds
+like you're not convinced that the
+descendants of planet Earth will become
+grabby I think it is possible you know I
+sort of describe this as a you know I
+don't have a term for it but and there
+there have been some papers that have
+looked into this that there is a
+um sort of
+mathematically perfect place to be in
+the structure of your civilization and
+it does not include expanding outward at
+the speed of light that it doesn't that
+doesn't get you the benefit that you're
+hoping for you get more benefit just by
+staying at your home world and
+concentrating and thinking your thoughts
+and simulating your ancestor or or
+whatever it is that you that you want to
+do um and so one perfectly reasonable
+explanation for why we don't see any
+aliens expanding outward at the speed of
+light is that that's a bad idea that
+everyone who reaches that point will go
+oh no that's a terrible idea we
+shouldn't do that and one possible
+explanation is that you are creating lag
+that you are potentially generating uh
+competitors so so I think that's an
+interesting idea you know I mean I you
+know again just a journalist I haven't
+sat down and done the math and written
+my response paper to Robin Hansen but
+but I find these you know I love to let
+these ideas Collide in my brain and and
+stew
+around do you think maybe the ultimate
+compromise solution is you still have to
+hop around planets right because like
+the sun's going to burn out or you know
+there could be an asteroid so but you
+just like do it together with your whole
+civilization and you don't let anybody
+go out and start a new civilization well
+I I think you know maybe but I think
+we're back to okay the thing that makes
+sense is now you're starting to
+rearrange the Galaxy in ways that are
+more in line with the kind of
+civilization that you want to have um
+there's some really interesting ideas
+about how you can Nest super massive
+black holes surrounded by other super
+massive black holes surrounded by stars
+surrounded by planets that you could
+actually build a star system with a
+million earthlike planets that are
+perfectly habitable and yet we could
+Traverse this system with the kind of
+technology that we have today and so you
+can imagine a civilization saying well
+let's reduce the lag let's bring the
+family together so that's another and
+then that would be obvious you would see
+these really weird structures out in
+space is people attempting to create
+these stable um concentrations of
+intelligence right right okay um now
+let's talk about Dr kipe David Kipping
+had a video where he basically wasn't
+convinced by grabby aliens and he made
+some interesting points uh do you
+remember some of his points yeah um so I
+mean I think let me let me get your get
+your note I um I mean so yeah so there's
+a couple right like the one is this idea
+that um the one is there's this idea
+that that in fact we should be living
+around red dwarf stars
+not you know yellow star like the sun
+and and then actually is starting to
+look like red DF stars are pretty
+uninhabitable and then that would easily
+explain why we don't appear around a red
+dwarf star um he a red dwarf basically
+same thing as an M dwarf think yeah an M
+Dwarf Red Dwarf yeah so the problem with
+the red dwarf stars is that I mean they
+are the by far the most numerous stars
+in the
+universe and and so you would expect
+like we should not be living around a
+star like the sun and those red can burn
+for like a trillion years right instead
+of just 10 trillion years 10 okay yeah
+so they're they're fully convective so
+they use up all of the fuel in the
+entire star in a way that's very
+efficient and and in fact like the go-to
+move of a civilization would be to tear
+apart their regular you know uh star
+like the sun into red dwarfs you can
+make 13 red dwarfs out of the Sun and
+that would be much more fuel efficient
+than letting the sun die in five billion
+years turn into 10 trillion years
+um so we we should have appeared around
+a red DF star and we don't and now it
+looks like okay well maybe actually red
+dorf stars are are very dangerous and
+scour away the atmospheres of any of the
+planets that are in orbit around them
+and then that would explain that nobody
+gets to evolve around redw stars and you
+know it's too early but James web this
+is a question that the James web Space
+Telescope can actually ask so one of the
+most famous examples of this is uh the
+trapis one system which has uh six
+earth-sized worlds orbiting around this
+red door star three of them in the
+habitable zone and astronomers this was
+like the first Target for James Webb to
+try and analyze and they've searched the
+planets for atmospheres and they've they
+found no atmosphere around the first two
+planets we're waiting on the results for
+the next planet it turns out it's a lot
+more difficult to make these
+observations than anybody was expecting
+and but you know I interview astronomers
+all the time and there's some percentage
+of them that say it could just be that
+all red dwarfs are terrible so that
+would explain you know why we're we're
+around the kind of star that we
+are exactly yeah so my own uh thinking
+about this topic my own naive thinking
+so when I first heard Robin Hansen I
+think he pointed out look there's these
+stars that live for more than a trillion
+years that they can burn quite a while
+if you just kind of let the universe
+cook these Stars might be pretty
+consistent at cooking life after like a
+hundred billion years or something it's
+just that there's such a low deadline if
+you want to not get conquered in this
+region of the universe right like
+there's only a billion years left so you
+better come up with something on like
+some faster lucky Planet otherwise
+there's not going to be a chance for
+these red dwarves to cook because the
+red dwarfes already cooked in like some
+other region of the far away Universe uh
+and and so that's that's kind of like
+one one thing he was froing might happen
+but now David Kipping is saying well red
+dwarfs Actually I don't even think that
+they support life so that shouldn't even
+necessarily be part of the theory like
+try to come up with a theory without the
+assumption that Red Dwarf could support
+life I think grabby alien still holds up
+because even if it's like okay it has to
+be a star more similar to our sun and it
+has to happen faster that's still fine
+because you still need a way to explain
+why we're like the first piece of
+popcorn to pop off like this right
+instead of like 100 yeah yeah absolutely
+I mean I
+think you
+know you know again back to you know
+from my perspective it doesn't matter
+right because you know we're the only
+place that life was able to the
+observational evidence is we are the
+only place where there's life in in the
+observable universe and so for me again
+it doesn't it doesn't really matter
+whether you try to sort of uh address it
+from a basian side statistical side any
+of that right what we see is
+Wilderness and so we're alone or
+first now when when I watched the David
+King's video um you know I I'm
+definitely not a cosmology expert but I
+do know a thing or two about
+epistemology that's more my wheelhouse
+and I felt like I might be qualified to
+push back just because I noticed him
+making pretty basic epistemology
+mistakes from my perspective so in
+particular I noted that he said it's a
+rule of thumb to not invoke aliens to
+explain things like okay it's a maybe
+it's a rule of thumb but like if there's
+enough if there's enough of a good model
+like it's okay to invoke aliens it's not
+like a crime
+yeah yeah I mean a lot of the times it
+is I mean it is bordering on a crime and
+in the astronomical Community if you try
+to you know your first instinct is to
+explain something that you don't
+understand with it was aliens that is
+considered um you know uh it's not on as
+they would say in Australia um because
+it's essentially you're invoking magic
+right you're saying like I don't
+understand what the capabilities are of
+this alien civilization but you know
+they can do anything therefore they can
+do that thing they can they can ex you
+can explain the the strange observations
+from from bajin Star you can explain the
+movements of UAM mua you can explain the
+uh the strange sightings that have been
+found by Navy test pilots aliens can can
+do all that and so that the moment you
+invoke aliens as an explanation for the
+the thing that you're seeing you are way
+out on thin ice and you have got two
+demons you you have to deliver with
+overwhelming evidence that that that is
+correct and so I
+think I mean I think it's weird to me
+though because I don't think that that
+Hansen is saying aliens right he's
+saying uh he's not saying that we see
+aliens he's just saying that that I
+don't see any aliens but they are
+probably over the cosmic Horizon from
+what we can tell today and and I think
+Kipping is saying careful in saying
+using aliens um but I you know I'm a lot
+more aligned with with Kipping I think
+you know that you know I've interviewed
+him several times and you know I think
+we are fairly roughly aligned that it
+appears that we live in a in an empty
+Universe right I mean I can still in Dr
+he's saying like look your theory is
+just based on not observing anything so
+therefore you make up aliens isn't it
+more parsimonious to be like I don't
+observe anything and therefore there's
+nothing yeah I mean I think I mean the
+magic of Hansen's paper is that it tells
+you where they might be and how quickly
+they're coming and when we should expect
+to see them which is fun super fun right
+to say okay the the we don't see them
+and they're probably moving at the speed
+of light therefore they are this far
+away and they're moving at this pace and
+so on and you know set your watch and
+check back in a couple of of years and
+maybe we'll see them and and that's
+super fun it's super fun but okay so let
+me respond to the argument uh of you and
+David kiing which is saying like how is
+this pulling its aaman weight you know
+like aam's razor like why should this be
+the preferred Theory compared to the
+quote unquote simpler theory of just
+like they don't exist right is that
+basically the question
+no no not exactly I
+mean like like I understand the argument
+that Hansen is making yeah and and it is
+a perfectly
+reasonable you know we don't see them
+they would be moving at this pace
+therefore this is how far away they are
+like that's fine right that you could
+say we're alone or we're first
+or they are Over the Horizon and they
+just haven't gotten here yet right
+because you're now already getting rid
+of all of the other arguments which
+which I find very productive that you
+know when you look at the explanations
+for the firmy Paradox there are dozens
+maybe even hundreds of explanations we
+live in a cosmic Zoo they're around us
+but we can't perceive them uh our our
+detection tools just aren't good enough
+yet like you can just go through that
+list and and this clarifies and
+simplifies the argument down to We're
+Alone we're first or they haven't gotten
+here yet and so I find that really
+useful and and yet I don't really feel
+like I need to choose between those
+because I don't want to yeah okay well
+it sounds like the difference between
+you and me is that um I feel more of the
+pull of like being an ideal basian
+Reasoner right so like I try to align
+the way I reason about the world to like
+the way that a perfectly programmed AI
+would and there's just like rules for
+when a hypothesis gets to win so in this
+case what's happening in the background
+that I think a lot of non-asians
+wouldn't notice is that Robin Hanson's
+Theory grabby aliens it's constraining
+how the universe is allowed to be in a
+way that makes the probability of our
+observations more likely than they are
+made by other hypotheses and the rules
+of basing inference say that it deserves
+credit for that so for example it's
+ruling out a possible scenario where you
+have grabby aliens but they're but
+they're like expanding leisurely it's
+basically saying that's not allowed to
+happen and I'm like yeah okay I'm happy
+with it ruling out that scenario and and
+therefore putting more probability on
+the current observations and therefore
+by the by Bas rule therefore increasing
+its own probability like I actually
+think that Robin Henson has made uh he
+gets epistemological points for what
+he's done if aliens exist I agree that
+they're moving that if aliens exist I
+agree that they fall under the grabby
+aliens
+model okay yeah I mean that's a that's a
+pretty big uh point for Robin Hensen you
+I'll take that yeah yeah like like that
+that the whole reason why I think that
+we're alone in the observable universe
+is that we don't see aliens expanding
+outward at the speed of light all around
+us so so then that is like for me that
+is the Bedrock of the thing that we
+would expect to see we don't see that so
+now the possibility is we don't see that
+because they're not there or we don't
+see that because they just haven't
+gotten here yet either of those are are
+fine in my brain and I don't feel the
+need to to settle on either one okay
+fair enough fair enough all right so
+that's grabby aliens and then I also
+wanted to hit on
+multiverses right yeah so o overall what
+what what is your overall thinking on
+multiverses or multiple worlds so so I
+don't really have an opinion um you know
+again sort of as a journalist um you
+know what I do is report that there are
+different people who have different
+opinions of different multiverses but
+but the but the reality is is that
+there's actually like a whole bunch of
+different flavors of what you could
+explain by a Multiverse so um you know
+one example is that if the universe is
+infinite
+then and yet there is a finite number of
+states that matter can take you could
+take say a cubic meter of the universe
+and there's I think explained by like 10
+the^ of 80 uh Poss possible
+configurations that matter could be in
+that cubic meter of space but if the
+universe is infinite then if you go far
+enough away in any direction you're
+eventually going to hit a duplication of
+that cubic meter of of space and then
+you could imagine larger duplications
+and larger duplications and the
+ramifications of this are that that this
+conversation that we're having is
+happening an infinite number of times on
+an infinite number of other Earths that
+we are separated by distance and that's
+one possibility of a Multiverse that
+really just falls out as a necessity if
+we live in an infinite Universe another
+possibility is that the universe is
+infinite in time and so you know as we
+roll the clock forward out into the
+universe that various Quantum
+fluctuations will cause unlikely things
+to happen and one very unlikely thing
+that could happen is you know we always
+say like the air in your room could
+actually probabilistically appear on
+Mars and that would be bad for you but
+it would be very rare so don't worry
+about it but eventually it there's a
+chance it could happen and eventually
+it's kind of inevitable that it will
+happen and so if you run out into deep
+time then you could imagine weird things
+popping into existence that are
+incredibly rare such as a mind capable
+of perceiving itself this is this idea
+of a boltzman brain but but in fact a
+entire planet an entire other big bang
+and you know people have calculated the
+odds like what it would take for to get
+an entire Another Universe and it's it's
+not zero and so if we have an infinite
+amount of time ahead of us then in fact
+we could have other versions of the
+universe just appear in time and then
+there are other sort of implications
+like one of the most
+trusted uh theories to explain the
+universe is this idea of inflation that
+you know you have know Big Bang is
+wonderful for explaining the universe
+that we find ourselves in but there are
+some flaws in the big bang that
+astronomers are are deeply aware of and
+inflation was a way to overcome those
+those weaknesses
+and inflation yeah yeah well I mean like
+there are some observations that you
+make in the universe that that are a
+little weird and the way you explain
+those is that if the universe went
+through this really rapid expansion
+process early on then that could explain
+away those observ
+but you would in order to have that
+period of inflation you would need to
+have in a sort of larger fabric of the
+cosmos ongoing inflation happening at
+different rates in some cases inflation
+stopped in other places inflation is
+continuously ongoing and that each one
+of these places where inflation is
+happening are essentially separate
+universals with different rules and
+different um you know different laws of
+physics and that happened to be that we
+ended up in one where they're possible
+to promotee life so you know this is
+like the short version um Sean Carroll
+has a terrific solo podcast that he did
+at one point where he enumerated through
+all of the different versions of the
+Multiverse and you know if you want sort
+of a nice collection to hear them all
+then you can um but the problem is just
+there isn't any observational evidence
+for any of them so until then they exist
+in the realm of mathematics right right
+have you read Max hegar's book our
+mathematical Universe I haven't no it's
+from 2015 and I think the ideas are a
+few years older than that um I haven't
+read Sean Carroll but I read Max tmar
+and I thought it was really good really
+solid book actually our mathematical
+universe and you know Max tagar went on
+to co-found a future of Life Institute
+with Yan talin I think and they're
+really big in the the AI safety space so
+small world I guess or small small
+intellectual world if people like the
+same Stu I mean Sean Sean Carol is a fan
+of the many worlds interpretation of
+quantum mechanics that you know every
+time a decision gets made you end up
+with two versions of the universe and
+yeah exactly that are the two
+paths I'm a big many worlds guy and so
+is elazar and so is uh the guy left to
+hate on this channel David deuts he's
+actually uh he makes a lot of sense on
+on many worlds and and he he's actually
+great unlike any topic except for uh AI
+I mean it's it's you know again you know
+going back I'm just a journalist not a
+scientist and you know uh I don't really
+have any skin in that game um you know
+when I took physics we learned the
+Copenhagen interpretation of of how it
+all
+functions yeah of course um but you know
+it's a it's a beautiful and elegant
+explanation that of you know the way you
+explain is you get two universes you
+know now everything just makes total
+sense except for the fact that you just
+made two universes right like like
+that's the part that that seems a little
+out there but you know doesn't but
+because they because they make one of
+them go away right it collapses uh no I
+mean not necessarily but the the
+universe is I mean the universe is
+already weird like so don't be surprised
+if the universe comes up with weird
+stuff to explain its underlying reality
+like like if you're waiting for the
+universe to make sense too bad we are
+already deep into uh you know the
+universe does what it want and we don't
+really have a lot of control over that
+right right right yeah and just uh you
+know this topic Multiverse I mean Max
+tag Mark really got me noodling about it
+you know cuz he there you know there's
+like four tag Mark levels um I wrote
+them down so teg Mark level one is large
+Universe which you talked about it could
+be really large in space and time and
+like you said it's hard to wrap your
+head around but even if you have like a
+a 1 meter by 1 meter by 1 meter cube of
+space like you just have to go really
+far out in space and with like enough
+Randomness and you'll just eventually
+get like the same Cube or every
+variation of that cube of space so you
+literally could have like a a Bizarro
+Fraser who like very similar to you with
+like some small funny tweaks like those
+actually would exist if the univers are
+just hyp exponentially large right like
+10 to the power of 10 to the power of
+den like a you a triple stack of
+exponentials and hey it's still finite
+right uh and then okay tag Mark World 2
+different physical constraints right to
+like the different parameters like oh
+how strong is the electromag force how
+many dimensions are there do you have
+any thoughts on that model
+nope okay it's but it's just like hey
+may maybe every possible tweaking of
+constant exists and just like don't
+support life right yeah as a journalist
+I can confirm that people believe people
+have evaluated this as a theory right my
+goal is to make is to ruin the
+neutrality of your journalism Fraser
+sure good luck no no I you know I've
+expressed opinions non-stop in this in
+this conversation about things that I
+have no right to express opinions about
+yeah me neither me neither uh okay and
+then yeah a teag mark level three is
+quantum worlds which you mentioned and
+then techb level four is kind of
+interesting because he just he kind of
+goes all the way bites the bullet and he
+says all mathematical structures
+physically exists in you know whatever
+sense that needs it's a little hard to
+wrap your head around but he's just like
+yeah anytime you can have like a formal
+model of of something that uh obeys I
+don't know logic or you know set theory
+like whatever it is you take math and
+there's like some physical reality to it
+and our universe is just like one
+mathematical structure among many your
+thoughts again I have no opinion like
+whatever sounds good sure right right
+yeah fair enough um yeah I think alaz
+owski uses the term reality fluid when
+he talks about things like in quantum
+theory where he's like I'm not really
+sure in what sense this is real but like
+I want to keep my eye on it like you
+know like the probability like collapse
+probabilties is just like maybe this
+outcome is getting more reality fluid
+like maybe there is sentient life living
+in this many world that's bit that's
+like long you know it's like highly
+unlikely but it still exists in the
+space of possible worlds yeah me yeah
+for me you you sort of brought you asked
+me early on like what do I like and what
+I like is the stuff that we have
+evidence for that or there's a really
+clever way for us to get evidence for
+and so you know if somebody proposes an
+experiment that is going to finally help
+us sort this out whether it's Copenhagen
+interpretation or mini worlds I'm all
+over that and I don't have a I don't
+have a dog in the fight right like I
+don't care how this turns out what I'm
+excited about is the progress is the
+ability for people to you know for just
+like our primite brains to come up with
+the amazing astounding solutions that we
+that we have and you know that part I
+find it's very I don't know
+dopamine chasing for me that you're like
+oh that's so cool I love that and and
+that's what I'm looking to sort of sort
+of H you know cause in the minds of my
+readers and and the people who watch my
+stuff yeah the stakes for me are a
+little bit different as I remark with
+grabby aliens I saw it as kind of like
+an epistemology litmus test like if you
+can't see why these aliens are pulling
+their aaman weight then you're not fit
+to be like rational enough to like
+there's a little bit of that going on
+with the rationalist like if you go back
+and read the less wrong sequences from
+2007 there's actually a big subsequence
+about how written by Al owski about how
+Quantum many world is totally true and
+you as a good rationalist ought to be
+able to see that for for these reasons
+so right you're very neutral and you
+don't have a dog in the fight I have a
+dog in the fight because I'm using it as
+an epistemology litmus test yeah I I
+mean I think it's really important to
+defer to
+the the scientific consensus about
+things um that should be your first
+instinct is to just defer to The Experts
+who have spent their time studying this
+now this can steer you wrong but just in
+general um that's the your safe bet is
+to say what do most scientists agree as
+true okay it's it's when somebody makes
+a compelling argument that that you can
+understand that gives you sort of a
+crack in the in that sort of acceptance
+of the scientific consensus um so you
+know with all of that kind of stuff you
+know none of these theories have reached
+the point where they're starting to
+break over into scientific consensus and
+so it's just like a bunch of people
+wandering around in a cocktail party
+discussing interesting ideas and I can I
+can sip and enjoy the ideas without
+holding them very strongly you know I
+let them go you know what is it you know
+you hold your ideas you want to hold
+your ideas very Loosely right yeah
+strong ideas loosely held yeah yeah yeah
+yeah yeah exactly yeah so I think it's
+you know for me I very easily will take
+on an idea and understand the
+implications of it and S of run it
+forward in my brain and then kind of go
+ha neat and then and but
+not not holding any deeper implications
+I'll go you know more evidence needed so
+get back to me when there's more
+evidence for that and and yet the stuff
+that I find really compelling is this
+unfolding narrative as the evidence
+builds to a proper explanation for for
+what's going on I find that so rewarding
+well I agree that with grabby aliens
+it's going to be hard to cash that out
+into empirical observation within our
+lifetimes I will say with Quantum many
+worlds I think what they're doing now
+you know Quantum Supremacy right the
+idea to empirically prove that a quantum
+computer can work and beat classical
+computers on some problems they're very
+close arguably they've already achieved
+Quantum Supremacy I don't really buy
+that they've achieved it but like in the
+next decade or so we might actually have
+pretty conclusive empirical proof that
+like many worlds are really happening
+even though I'm sure some copag will
+still be like no they're not
+yeah I don't think right I don't think
+that gets you mini worlds versus
+Copenhagen interpretation it just shows
+you that that you can apply quantum
+mechanics you know Quantum Supremacy you
+know you can you can make a quantum
+computer work and it's good at certain
+things and bad at other things and it
+doesn't necessarily you know that that
+the same challenge that people have had
+trying to understand quantum mechanics
+uh 100 years ago will still exist in
+trying to figure out why this computer
+does what it does right right yeah they
+they'll still insist they you know from
+my perspective they'll keep just peing
+and stealing from the many worlders
+equation but then going and layering on
+their own epistemology on it um yeah I
+mean okay so so here's what I think is
+really important which is that it you
+need to be really careful when you adopt
+a an sort of a belief on a scientific
+method without having done the hard work
+yourself that it can feel feel really
+satisfying to hear somebody who who is
+very knowledgeable about something
+explain something to you in a way that
+is a little bit more simplified so that
+you can go like oh yeah that's good
+that's really satisfying I really like
+that but the reality is that it's only
+when you have put in the groundwork when
+you have done gone through all of the
+basic level textbooks you've gone
+through the more Advan level textbooks
+you have learned to do the math as well
+as the people who are proposing the
+theories that you can take a that you
+should even let those
+theories rest in your brain and tickle
+your your fancy because you are un
+you're ill equipped to judge them as
+being reasonable or not that you're
+falling under the sway of Charisma and I
+think you know and I think all of these
+things
+are you know like obviously doesn't
+really matter whether you care about you
+know Min world or Copenhagen
+interpretation but the reality is is
+that if you haven't
+done the hard work to get yourself to a
+place where you can um replicate the
+math look at a paper double check that
+they've done a good job then then I
+think it's better to step back and go I
+don't get it I'm G to wait for the
+people who do understand it and I think
+that's I think that's really dangerous
+you know like I I hear you being excited
+about about you know those ideas brought
+up in by we e eud I'm trying to think
+shortened his name yeah yeah but you
+know and he's a brilliant guy and has
+thought deeply and has done the math
+about about AI risk and and you know
+internal versus external alignment and
+all this kind of stuff and you know but
+is out over skis when he's talking about
+the viability of of various theories of
+quantum mechanics
+Beyond him doing the reading and and
+thinking about the thoughts and maybe be
+even being influenced by other by other
+thinkers and I think it's you know
+epistemologically you need to be very
+careful about the um where all your
+ideas got into your head and why you
+give them any kind of credence right
+fair enough yeah you know rationalist
+you know even though I I like to be
+cocky with the stuff but it is also part
+of the rationalist Creed to also have
+proper humility and be like you said
+loosely held right like there always has
+to be the trapo I I always basically
+have to leave a trapo open where I I
+basically invite people look you can
+walk to my house you could open the
+trapo and and you can like I don't know
+find the hidden treasure of like
+changing my mind like it has to be there
+I can't guard the Trap yeah your your
+shortcut is to trust the scientific
+consensus right if you want a if if
+you're not willing to put in the work to
+bring yourself up to the same level of
+skill as the people who are proposing
+the theories then the shortcut is you
+trust the scientific consensus because
+there's kind of no middle path right so
+so if you're like I like this idea but
+it goes against the scientific
+consensus then you have to demonstr rate
+that you've put in the level of work
+that that anyone in the scientific
+consensus would look at your work and go
+okay yeah no this is legit right you're
+then falling under the sway of a
+charismatic leader and I think that's
+that is dangerous in in and it's just
+important to identify you know you just
+look through all things fell into the of
+a charismatic leader 15 years ago too
+far gone maybe so maybe so but I'm just
+saying that when you sort of evaluate
+these very ideas and you put Credence to
+them um unless you've gone and read all
+the textbooks and done all the math and
+you can replicate the experiments then
+the the the power move the the shortcut
+is to go with the scientific consensus
+until you've decided you know what I'm
+going to get to the bottom of this and
+then actually put in the work that's all
+so I you know I hear you know as you
+bring this stuff up I'm happy to
+maintain my journalistic uh neutrality
+and my uh you know and and not hold any
+you know sort of side to any of that
+stuff
+great okay last stop on the AI Doomer
+tour of cosmology obligatory as we got
+to talk about uh living in a
+simulation so yeah F first question
+about that is are ancestor simulations
+feasible yeah there it doesn't feel like
+there's any reason why as we advance the
+capability of our technology that we
+won't be able to create you know we've
+got the Sims The Sims 2 Sims 4 I can
+imagine the Sims N is a very good
+simulation and for the the simulates uh
+it would feel like they're living in
+reality so so it feels like we are
+moving along that technological Journey
+yeah what do you think of people who
+just say like look the universe is so
+computationally intensive that it's just
+not realistic to make a huge simulation
+within the universe and certainly not
+multiple levels in the N yeah we have no
+idea what Bas reality actually is so so
+we don't know whether the
+the simulation that is being created has
+anything to do with what is the
+underlying substrate of the reality
+right I think it's it's it's kind of uh
+you know you're making a leap to say
+oh reality one level down should have
+anything to do with the the simulation
+that we live in and I don't think that's
+you can make that leap I think the each
+layer of the simulation could be
+completely different it just has to
+function yeah I agree with you and
+actually maybe should make this a
+standard question uh what is your P
+simulation right um don't
+care okay
+yeah yeah like like the argument like
+I've heard the argument and it seems
+perfectly feasible right that yes we are
+developing more and more advanced
+technology we are moving to this time
+when uh we will be able to create
+simulations for beings that that will
+from their perspective appear to be
+living Liv in a simulated world we will
+be able to create more and more of them
+the likelihood that we are a simulate as
+opposed to the simulator is you know you
+know moves to higher and higher levels
+of certainty and yet there's no way to
+tell the difference uh currently as we
+understand like maybe we'll be able to
+figure out a way to hack the simulation
+and if we do so then we will have some
+kind of credence that that is true but
+until then living a simulated life is
+completely
+identical to living a real life and so
+just play your life accordingly right
+yeah I mean I think I haven't said this
+on the show but I think my PE simulation
+is probably like 55% obviously it's kind
+of hard to nail down what does that even
+mean I just think there's like a little
+bit more than meets the eye with like
+just this one Universe I mean if you if
+you put enough multiverses in the
+picture you know does that count as
+being a simulation I'm not even sure
+like if if I'm just living one copy
+among many I I don't even know it's hard
+to Define but it I just think it's
+really funny that a lot of us
+rationalists we always grew up as like
+you know atheists like highly rational
+intelligence's creation and he might be
+listening to us right yeah well I mean
+it is a scientific question right like
+if we build a simulation and we are
+actually simulating a universe for
+beings then for them to ask themselves
+are we living in a simulated universe is
+a deeply scientific question and it has
+an answer we may choose not to give them
+the answer but it does have an answer
+and so it's perfectly reasonable for us
+to ask the same question but if you
+can't find an answer if if there is no
+logical path forward to actually gain
+any evidence then you have to sort of
+leave it as a philosophical
+question indeed all right nice uh well
+you've been a great sport uh I hit out
+all the different cosmology topics I
+wanted to ask you about uh anything else
+that in your mind as we head into the wp
+up no um we're we're just at the solar
+maximum of the sun's activity which is
+sending a lot of really cool solar
+flares towards the Earth and so if
+you've never seen an aurora now is a
+really good time to be able to go
+outside and watch an aurora so uh you
+know put an app on your phone that'll
+tell you when the next Aurora is going
+to come by yeah how do we do that does
+it work in a suburb uh no no you know
+depending on where you live and
+depending how far south you are or I
+guess how you know how far away you are
+from the pole you're um you know you
+need to need to come up with better
+plans but if you live you know from
+Northern California up if you live in
+the middle of Europe north if you live
+in uh you know Southern Australia New
+Zealand then you can go to places that
+have dark skies and be able to see
+auroras and they are breathtaking I mean
+they're just incredible um so that's you
+know there's there's a lot of things
+that you can do to connect you to the
+night sky that I highly recommend that
+people go out and and do you know people
+say uh you know what do they say like
+touch grass no no see yeah grass yeah no
+totally go see the cosmos with your own
+eyeballs I think it's really cool that
+you can get photons from really really
+far away with your eyeballs does sound
+like it co experience worth doing the I
+mean you can see Andromeda with your own
+eyes right and it is two and a half
+billion light years away and so when you
+think about the fact that the photons
+left Andromeda have been traveling for 2
+and a half billion years
+to arrive at your eyeballs unimpeded is
+mindblowing and when we detect the the
+the microwave radiation from the cosic
+microwave background then that light has
+been traveling for uh 13.8 billion years
+unimpeded it dodged galaxies it fell in
+and out of gravity Wells it was
+stretched and yet it arrived at our
+detectors and in fact when you turn on
+your television in the olden days when
+you had a television with a um you know
+with an antenna and you would just turn
+it to no Channel and you just get snow
+some percentage of the random Snow on
+your television is coming from the cosic
+microwave background radiation that took
+13.8 billion years to get to you it's
+crazy okay I got to think about this
+aora thing I've literally done one
+astronomy activity in my life which was
+uh earlier this year I dragged my family
+out to Vermont to try to get a good view
+of the solar eclipse oh good did you see
+it yeah we did it was pretty good there
+was like a thin cloud in front of it a
+thin Cloud I feel like I got 90% of the
+eclipse experience yeah yeah I really
+looked out I've I've tried to see a
+bunch of them and the the one that I saw
+this year I was in Dallas and it was
+perfect like just oh man nice no CL IDE
+yeah it was it was long and it was just
+it was and you can see why people chase
+these things they're like okay yeah I
+want to see more of them the other one
+that I recommend is to go watch a rocket
+launch so oh man yeah it's really easy
+now relative you know if you live in the
+US anyway you just go to you fly to
+Orlando you drive over to Coco Beach
+which is right on the water and you get
+a hotel that has a view to Cape
+Canaveral and you know a lot of them do
+and then you sit drinking my ties while
+Rockets are taking off and if you've
+never watched a rocket launch it is this
+you know when you think about how humans
+set foot on the Moon that we are sending
+these spacecraft the voyagers Cassini
+the spacecraft to other places in the
+solar system each one of these had a
+rocket launch in them and you know I
+watched Cyrus Rex
+takeoff which retrieved a sample from an
+asteroid and brought it back to Earth
+and and it is this visceral feeling when
+you watch the rocket take off when you
+see the the plume of smoke but you don't
+hear the rocket and then this this wave
+the sound wave moves across the bay and
+hits you in the chest and as this rocket
+is taking off you hear the crackling and
+the you know and you're like we are
+sending our Consciousness out into the
+solar system and is going to bring us a
+piece of rock home it really connects
+you to to where Humanity goes next and I
+think that's why you know I find these
+topics so so fascinating because it
+could turn out so wonderfully but it
+could also turn out badly it's up to us
+to to pick the right path I love it yeah
+I mean it's it's it's literally reaching
+for the Stars you know it's like the
+frontier it's like some of the greatest
+stuff we've done so I feel you there and
+I might actually take you up on this
+because my family is tentatively going
+to go to Florida so I'm actually going
+to see if I can uh make this happen yeah
+I mean they're launching so many Rockets
+out of Cape Canaveral now like three a
+week in some cases that you stand a good
+chance of seeing a couple of rockets
+while you're in you know while the kids
+are on the beach making never made that
+connection yeah you're right Rockets are
+launching more frequently so this is
+really like the best time ever to come
+see some rockets and just like cape
+canaval alone the Kennedy Space Center
+is just a mindblowing place like you can
+walk beside a Saturn 5 rocket you can
+touch a moon rock um you can see the
+Vehicle Assembly Building because like
+it's not just a museum it is also where
+these Rockets are being built it's where
+the stuff is actually happening and you
+take tours and they drive you around all
+the different pads and you see all the
+Rockets you see all the hardware and it
+what's out there changes on a regular
+basis like right now they're they're
+they've stacked the new Glenn rocket
+which is going to be you know one of the
+largest Rockets ever ever built and we
+should see a test by the you know hot
+fire test
+yeah and we should see a an actual
+orbital test in before the end of
+December so it's really good time yeah
+absolutely get better finally huh yeah
+it's only been whatever 20 years yeah
+it's like like I'm one to judge right
+like come on Blue origin work faster
+yeah yeah
+exactly
+yeah so there's lots of ways to make
+this stuff connected but you know we I
+cover all of the stuff every week on my
+channel and you know lots of podcasts
+and stuff so if you if if space is your
+thing I'm your
+guy absolutely is audience everybody go
+check out Fraser kee's Channel he
+recently did a great interview with
+Robin Hansen so I would recommend
+starting there if you like my channel
+yeah Universe today it's great stuff all
+right thanks man thanks for coming

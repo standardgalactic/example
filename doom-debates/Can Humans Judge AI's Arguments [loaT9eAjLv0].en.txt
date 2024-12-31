@@ -1,0 +1,998 @@
+I don't think it would be wrong to
+describe what we're doing as
+fear-mongering everybody looks down on
+fearmonger what's wrong with being a
+fearmonger come Monger some fear because
+there's such a thing as not having
+enough fear on a particular topic right
+when something's about to slaughter you
+and you're not afraid well you got to
+call up the fearmonger to deliver you a
+dose of fear right cuz that's what you
+[Music]
+need welcome to Doom debate it's
+Thursday June 13th and this is a
+monologue episode it's just me talking
+about stuff thanks for listening so some
+show updates I posted the last episode
+of me talking to my friend Orie Nagel
+saying what the show is going to be
+about and I got some good reactions from
+you guys on my main social Channel which
+is uh YouTube and Twitter or X those are
+my social channels um you guys are My
+Brain Trust over here on YouTube and
+Twitter so whatever you guys are writing
+I'm taking it to heart and uh this is my
+lean startup approach so you guys
+basically give me the tips which I
+appreciate and I just try to iterate
+fast I don't try to make every episode
+perfect I'm trying to just get a fastpac
+feedback loop where I do a relatively
+small incremental amount of work I get
+some feedback I course correct do
+another incremental amount of work
+partly because that way I don't spend a
+lot of time in some part of the
+optimization that doesn't help much
+partly because it keeps me motivated to
+not have to do a huge chunk of work
+before getting another round of feedback
+and partly because I have to assume that
+I already have things 60% or 70% dialed
+in already because it's not going to
+fundamentally change what I'm doing so
+sure a few things are going to get
+better over time but if you're not
+liking episode one and there's not like
+a couple hundred people who like the
+First episodes it's probably not going
+anywhere anyway so that's why I want to
+start lean I want to get that first
+feedback so yeah I will get a better mic
+and camera setup I hear you guys loud
+and clear and I will wear nicer clothes
+uh a commenter pointed out there's this
+idea of the talent stack I think
+originating with Scott Adams the Dilbert
+guy which is like hey you can have
+different skills you can be good at
+debating you can be knowledgeable about
+Ai and I mentioned something like that
+in our last episode but the guy on
+YouTube said another part of the talent
+stack is dressing well and just looking
+professional right which includes the
+mic and video setup so I'm going to get
+that part of the talent stack and we're
+going to be the rare combination of good
+debates clear overviews of AI doom and
+professional appearance so expect that
+there's going to be a sure microphone on
+a boom there's going to be a button-up
+shirt right here can we get some editing
+can we get some post- production make
+this look like a buttonup no we can't
+okay and uh also some big news if you're
+looking forward to uh our next 144
+episodes I can now tell you that one of
+them is going to be Dr Robin Hansen is
+coming on the show uh he offered to
+debate me on Twitter so he's great he's
+actually one of my most influential
+intellectual influences I've been
+reading his stuff also since 2007
+because he used to co- blog with elzar
+it was his blog it was called overcoming
+bias and then later elazar split off
+into his own blog elazer owski less
+wrong.com you've probably heard of it my
+first experience with Robin and elzar
+was I don't know how I got there maybe I
+was reading Reddit maybe somebody linked
+me over to it and I randomly read this
+article that's by elazer and then I
+randomly click and read a different
+article read a different article and I
+had the holy crap moment with elzar's
+articles I'm like who is this guy why is
+this writing so good why is this so
+Lucid how does this exist and I never
+knew about it I first I was 20 at the
+time that was my first
+exposure so yeah and you know and then
+Robin was there too right so Robin for
+me wrote in on elzar's coat Tales
+because I saw there were a bunch of
+posts by Robin I saw there were a few
+posts by halny who's probably the
+inventor of Bitcoin so that was pretty
+cool randomly reading halny in 2007 but
+that's another story I guess so anyway I
+digress Robin Hansen is going to be
+debating AI Doom I'm a huge fan of
+Robin's work you'll hear more when I do
+the episode with him he's considered the
+Godfather of prediction markets maybe he
+didn't invent the idea but he certainly
+emphasized it and pointed out how much
+value was being left on the table by our
+society not doing prediction markets you
+probably know one of his terms the great
+filter that's a robin Hansen term from
+the late 90s I think most of you
+listening to this probably don't realize
+that Robin Hansen has actually done a
+major accomplishment in 2021 um and that
+was his grabby aliens paper also you can
+check it out at grabby aliens.com you
+know whatever prize people give for
+breakthroughs I guess the Nobel Prize
+potentially whatever prize you want to
+give them I think grab aliens is a
+Triumph that solves the fmy Paradox
+solves the great filter partly actually
+I'll talk to him about that I don't know
+how much it solves the great filter but
+it kind of solves the fmy Paradox and
+there's never been anything like it like
+there's never been an equally satisfying
+solution to the fmy Paradox and yet it's
+gone mostly unnoticed like yes it's
+gotten millions of views on YouTube but
+like I said most of you listening to
+this probably don't realize how much
+Robin Hansen solved the fmy Paradox in
+2021 so go check that out and hopefully
+I'll get a chance to ask Robin a few
+questions about grabbing aliens when we
+talk but again not to digress too much
+so I respect Robin Hansen as much as I
+respect anybody but I got to say just
+like other people have mentioned just
+like stepen Pinker just like David
+Deutsch when it comes to the issue of AI
+Doom he's giving a probability that to
+me seems insane he's not in what I call
+the San Zone the sane zone is like 5% to
+95% if your P Doom is in the sane Zone I
+don't really have a beef with you if I
+don't really mind if you say 5% and I
+say 50% close enough but if you're like
+Robin Hansen you say yeah it's way less
+than 1% I don't even think you're in the
+San zone so that's mind-blowing to me
+there's no question Robin has
+contributed much more to the
+intellectual progress of humanity than I
+ever will right if you just compare us
+one by one okay Robin wins right and yet
+on this particular topic he just seems
+ridiculously wrong so I don't know what
+to make of that but we're going to get
+down into the details uh when we debate
+and of course you can just go on YouTube
+and you can just type in Robin Hansen
+and you can see other debates that he
+did last year on AI Doom if you want the
+Clos closest one to how I expect that
+mine is going to go then go check out
+Robin Hansen with Ronnie Fernandez
+Ronnie's views are very similar to mine
+and I think he put up the best debate
+among the debates that Robin did last
+year I think it's like two hours long um
+so I recommend checking that out or just
+stay tuned for my debate if you just
+want that it'll probably be a little
+shorter if you want to save
+time okay so that's Robin Hansen now
+let's talk about the plan for how I want
+to make a difference what am I doing
+here why why am I rabble rousing on this
+podcast so this is my mechanism of
+action you know the causal linkage
+between what I'm doing sitting here
+talking to you and not dying right how
+is that causally connected well it's
+basically raising awareness and moving
+the Overton window so you know the
+Overton window is basically the set of
+topics that's considered appropriate to
+even bring up right like in politics
+everybody knows that abortion is this
+highly political subject right you if
+you're talking about abortion you're
+talking about politics they're two pe's
+in a pod but if I want to talk about how
+it would be great to let people sell
+kidneys that's not really in the Overton
+window right even though I would argue
+that a movement to let people sell
+kidneys on the open market the same way
+they do in Iran and pretty much no other
+country I feel like that would be a huge
+value ad right that would save a lot of
+people's lives and it would also get a
+couple people paid but that's not really
+in the overin window right if if if you
+saw a big protest for kidneys you know
+kidney markets and organ markets it'd be
+like what the hell is going on why are
+we even talking about this and you could
+be like well it's gruesome but abortion
+is gruesome too right but it's just
+abortion is is a is just a over 10
+window sanction topic so with AI Doom I
+want to just drag it into the over 10
+window right so I I just want to have
+the average person think oh you want to
+make policy you you're in government
+okay what's your position on AI Doom
+right because these days it's actually
+slowly creeping there as AI is just
+getting prominent and companies are
+using Ai and and people are worried
+about you know deep fakes and stuff like
+that so it's creeping into the over 10
+window but we need to hurry up and make
+it an overt window topic of like hey AGI
+not AI but AGI what do you think about
+the fact that AGI is going to kill us
+what's your policy position on that do
+you want to pause AI or no and here's
+the beauty of the strategy normally when
+you want to raise awareness for
+something people might still disagree
+with you they're like okay you want me
+to think about it I'm thinking about it
+but I disagree now on the subject of AI
+Doom I actually think that most people
+when you bring up the subject to them
+when you make them think about it
+they're actually on our side they're on
+the P side like the average person you
+know the average person isn't really a
+techn Optimist which is a shame but on
+this particular issue to be pessimistic
+about how AGI is going to evolve their
+natural techn pessimism happens to just
+get them to the right conclusion right
+so I'm not saying that these people are
+good thinkers who will reliably get to
+the right conclusion I'm just saying
+that on the topic of AI risk you give
+them five minutes to think about it and
+they come back and they're like I don't
+like it right I'm willing to pause I'm
+like great pause okay cool let's do it
+vote for pause so if there was just a
+ballot initiative saying like let's
+pause super intelligent AI they'd
+probably say yeah sounds good right but
+they just have to have the issue top of
+mind it just has to be an issue they
+talk about because most people when when
+I have that conversation with them when
+pollsters have that conversation with
+them you know there are polls showing
+yes we don't like AI we're scared of it
+but they just they think of it as
+something that'll happen in like decades
+or even longer it's just like yeah this
+is coming but I have other stuff to
+focus on today so a lot of my goal is
+just to get it out there in the
+mainstream as like nope this is urgent
+this is the issue this is you know the
+number one thing we need to be debating
+even though World War III is kind of
+starting in various places in the world
+this is even more important than that
+this is the number one issue so I want
+to raise awareness in that sense because
+again just raising awareness I think
+will cause the right policy just forcing
+people to take a stand I think they're
+more likely to take the stand of like oh
+wow this is scary like let's pause it
+compared to oh you want me to take a
+stand I'm an accelerationist Tech is
+good I think some people will take that
+stand I think more people will take the
+puse AI stand so that's kind of my goal
+with this podcast is to raise the
+temperature and just make everybody
+realize how doomed we are how out of our
+element we are to try to continue
+forward on this particular line of
+progress and step back and be like okay
+this is just completely uncalibrated
+like we're about to open Pandora's Box
+and there's no closing that box like
+we're about to press the game over
+button right I'm just trying to get that
+argument not even to make everybody
+agree with that claim but to build the
+mutual knowledge of like hey this is a
+claim that a lot of people are making
+and it's urgent right this is this is
+top of mind so how can you help you can
+do whatever you can to raise awareness
+and then go to pa.info right so I'm a
+member of the paii communications effort
+where we were just doing protests I was
+out in front of open ai's Office yelling
+into a bullhorn a few weeks
+ago in the Mission District at open AI
+headquarters dozens of demonstrators
+demanding to pause AI we're not anti-
+technology we love that GPT can be used
+so we sounding the alarm that we need to
+hit the pause button it's too soon for
+us to be able to handle superum
+intelligence because we need more
+research into how to make it safe if you
+want to help a really good starting
+point is to go to pa.info and join the
+Discord and you'll see a bunch of
+projects that people are working on and
+you can just help out with a one of
+those projects and also you can talk to
+your friends and family you can post on
+social media it is one of those rare
+occasions where that vague handwavy term
+raise awareness I actually think raising
+awareness will help and it's kind of
+funny I don't think that it would be
+wrong to describe what we're doing as
+need one more thing I'm looking for
+people to debate me I already have a
+list a few have stepped up I've got
+people that I've always wanted to like
+Robin Hansen but if you feel like hey
+I've got a position that Lon hasn't
+covered then just hit me up just go to
+lon l r n that's my username and direct
+message me or tweet at me or email me at
+wisu gmail.com and just give me a short
+blurb about what your position is I'm
+interested in a variety of different
+positions because there's no one right
+position to argue against me right
+there's like a million different
+positions it's what I call stops on the
+Doom train right the Doom train is all
+the different things you need to believe
+you got to go to this stop go to the
+next stop go to the next stop it's all
+the different logical inferences that
+you have to accept in order to then get
+to the conclusion of like wow we're very
+doomed and it's very unlikely that we're
+going to avoid Doom there's a bunch of
+different places you could get off the
+Doom train so the reason I'm interested
+to argue with so many different people
+is because there's so many different
+stops where people get off like people
+are very creative with the stops that
+they get off I was even just chatting
+with somebody who you'll hear in the
+next couple weeks who he wants to get
+off at the idea of like should we even
+value future people's lives and should
+we maybe only value present people's
+lives I disagree with that stance but
+it's just one place that you can get off
+on the Doom train that you might not
+even have thought of and so that's what
+this podcast is about we're just going
+to catalog all the different stops on
+the Doom train and we're going to round
+up everybody who got off at that stop
+and we're going to say get back on the
+Doom train this goes straight to doom
+and you're not allowed to get off at
+that stop that's actually you just
+invented a stop because you're not ready
+to face doom and get back on the train
+okay so those are the show updates I
+wanted to talk about and then let's get
+to some object level topics here my
+focus for today is uh this tweet that I
+did this viral tweet and the reason I
+call it a viral tweet is because Alazar
+owski retweeted it and it showed up on
+the Roundup that V MTZ does every week
+which I highly recommend okay this is my
+tweet and remember ASI stands for
+artificial super
+intelligence will Humanity be able to
+determine which ASI behavior is safe and
+desirable by having it output
+explanations and arguments that we can
+judge some argue yes some argue no it's
+tough to judge so you see why the answer
+is obviously
+no all right unpacking that I want to
+unpack the idea that you can't just rely
+on a a competing set of super
+intelligent AIS to have a debate and
+then we as humans can judge the debate
+and only the AI That's giving a good
+argument is going to convince us humans
+so we're fine because we're such good
+judges of debates that we're just going
+to go with the most convincing Ai and it
+doesn't matter that other AIS are are
+trying to argue for like crazy stuff
+because we'll always just land on the
+correct ARG
+because debate is the key to truth right
+that's kind of the the other side's
+position that's arguing for these kind
+of debate strategies and like that's
+great I hope that that strategy works
+but I'm just very very pessimistic so
+let me walk you through why I'm I'm
+pessimistic uh but first I guess to to
+also honor the other side's argument
+they bring up P versus NP they bring up
+this theorem in computational complexity
+Theory or this not exactly a theorem but
+a a very strong conjecture that
+verifying a proof is easier
+than searching out the proof right so
+like if I if I wanted to prove to you
+that there's infinitely many prime
+numbers it takes me a lot of creativity
+to find the argument of how I know that
+there's infinitely many prime numbers or
+why the square root of two is irrational
+it takes a lot of cleverness to prove
+that but once I write down the proof you
+can have a high school student just read
+what I wrote down and once they finish
+reading it they'll be absolutely
+convinced that like yes indeed there are
+infinitely many prime numbers I'm going
+to stop looking for the the greatest
+prime number because I know there's
+infinitely many or I'm going to stop
+looking for two integers that I can
+divide to get the square root of two I'm
+now I'm giving up on that because that
+proof is absolutely convincing so that's
+a good example of how a super
+intelligent uh prover or just somebody
+who's more intelligent than a high
+school student let's say right can find
+the proof and the high school student
+can verify and everybody's happy and we
+all agree about these theorems so why
+doesn't that same argument then hold for
+super intelligent AI we're just humans
+we can't search out all these great
+arguments we can't search out the
+argument of like why the AI should be
+allowed to modify protein and build the
+next race of humans but maybe the AI has
+a really good argument why modifying it
+like that is totally going to work right
+so it's maybe that's starting to sound
+scary right if you try to visualize the
+scenario of the AI pointing to like a
+new piece of code or a new piece of DNA
+and being like look I have a proof for
+you why this is good maybe you can start
+to get a little nervous about that
+scenario and that points to the first
+issue which is the proof what the proof
+is saying can just be like very very
+complex so yes if you look at it from a
+computational complexity perspective
+maybe it's polom time which is what the
+theorem says about verifying proofs like
+yeah you can verify it quickly in a
+sense but quickly could also mean
+waiting through thousands of lines of
+code that's about code right like like
+sub theorems and lemas that are saying
+like yeah I'm telling you I have a
+really good argument why this is going
+to work because look at this giant mass
+of proof that I generated you and it's
+only a thousand lines so you just have
+to take out a microscope and just go
+line by line for a th lines will you get
+intuition at the end what you just read
+probably not right like the proof of the
+Four Color theorem you don't have to
+look up what that is but famously that
+proof was just like okay well a computer
+just checked every case and here's like
+a thousand page print out of how the
+computer has proved it and you look over
+the print out it's like okay I guess the
+computer checked every case and if I
+check every case that's not going to
+give me intuition for why the four-color
+theorem is true it just looks like the
+computer found a reason it's true great
+right so don't imagine that just because
+we have P versus NP telling us that uh
+proving is easier than verifying that's
+not going to give us a bunch of
+intuition about why the AI is claiming
+that things are true even if it has a
+proof okay so that's one argument that I
+wanted to stick into your intuition
+there's another argument which is we
+suck at judging simple
+truths and a go-to example that I use be
+prepared for a controversial example
+because it's in the nature of these kind
+of examples to be controversial but the
+idea of blockchain technology and web 3
+being a logically incoherent pitch I
+spent a lot of 2022 when Andrew and
+Horowitz was fundraising and they had $7
+billion investing into what they called
+Web 3 uh they were making pictures like
+hey blockchain technology is going to
+power a new web we call it web 3 Chris
+Dixon even has a book about it it's
+called read write own it just came out
+in January 2024 even though the crypto
+hype has died down Andre and hit still
+has like $2 billion that they need to
+invest so Chris Dixon has a book called
+read right own and that book has a lot
+of smart people reading it and being
+like wow this is an insightful book so
+even this year right this is still going
+on where people are like web 3 is such
+an exciting idea Chris Dixon is making
+so much sense but in my mind that book
+is just a perfect example of arguments
+that are fooling people but they're
+actually weak arguments so if you think
+I'm right it's it's pretty easy because
+now you're saying wow here's smart
+people convincing other smart people of
+something that the argument itself is
+flawed and they think that the argument
+is good if you think that I'm wrong if
+you think web 3 is going to be amazing
+and everybody's going to start using web
+3 that's it's fine you can still follow
+along what I'm saying you can say people
+like Lon who really should know better
+really should be able to tell a good
+argument and Lon thinks it's a bad
+argument right so even if you flip it
+around and and you're a crypto proponent
+you should be alarmed that crypto
+Skeptics like me aren't able to see such
+a great argument by such a great mind as
+Chris Dixon's so so any way you spin it
+it's clear that the smart humans of the
+world aren't able to converge on simple
+Arguments for relatively simple truths
+like whether or not web 3 has a use case
+whether or not there's going to be some
+social network or some neobank some kind
+of new exchange that's that everybody
+uses that's going to be powered by web 3
+it's a pretty simple hypothesis that you
+can have a relatively simple argument
+about compared to the kind of stuff that
+super intelligent AI is going to be
+telling us about how to reshape our
+world right it's going to be saying hey
+let me just create a human with a brain
+that looks like this or like hey you
+should really attack this particular
+Target right you should assassinate this
+leader on the world stage
+Mr President I'm telling you that that's
+going to have great repercussions for
+the following reason and the president's
+like are you sure you're not missing
+anything right like the kind of
+arguments are going to be more complex
+the kind of claims are going to be more
+complex than the claim about saying
+blockchain technology doesn't have any
+use case except double spend prevention
+of cryptocurrency because it is in fact
+a double spend prevention Ledger that's
+the whole reason it was invented was to
+prevent double spending right so that's
+like a much simpler argument I'm not
+saying it's a trivial argument but it's
+a much simpler argument than the kinds
+of arguments that AIS are going to be
+making to tell Humanity how to run the
+world and to tell Humanity to give it
+more power and to tell Humanity to run
+giant scripts and just let the scripts
+do what they're going to do right you're
+not going to have this intuition of like
+ah I get why this script is good not
+even
+close and if we're dealing with
+controversial issues one that comes to
+mind for me as an Israeli is the whole
+Israel Palestine quote unquote genocide
+right so the only reason I bring this up
+I'm obviously on the Israeli side as an
+Israeli who feels attacked and feels
+like Israel security that's just my side
+you're you're welcome to disagree but my
+point here is that you have smart people
+on both sides that's my only point it
+would be completely wrong for me to say
+everybody who disagrees with me on
+Israel Palestine is dumb or they're a
+bad person right they have bad values um
+you know I would argue that might be
+true about some people on the other side
+right I mean it's kind of It's
+associated with my position to think
+that maybe on average people on the
+other side have worse morality or
+they're Dumber but I would never argue
+that about everybody right I can think
+of like five people who I totally
+respect as thinkers on the other side I
+guess Paul Graham all name one right he
+blocked me on Twitter not because I
+replied to one of his tweets but because
+I made my own tweet randomly saying
+something pro Israel Paul Graham blocked
+me I totally respect Paul gram right I I
+did why commentator 2017 for God's sakes
+uh I wish I could read his public tweets
+without having to log out um but that's
+an example of like look Paul Graham and
+you know Israeli VCS can't get on the
+same page on the Israel conflict right
+so regardless of who is more right
+you've got an instance of the absolute
+smartest thinkers who just are not
+convinced by the same series of
+arguments even though they're trying
+okay so I I think we're starting to get
+the ball rolling here on the case of
+like yeah we as humans we as groups of
+smart humans just aren't that good at
+converging using arguments converging on
+the same correct belief one more example
+for you is what I tweeted about which is
+the irony of this very debate right this
+whole debate about whether we'll have
+super intelligent AIS that can robustly
+convince us of correct conclusions and
+not robustly convince us of incorrect
+conclusions the whole debate that I'm
+jumping into right now the fact that the
+debate exists is ironically proof that
+the answer is no that we're not going to
+be able to have AIS that only robustly
+convince us of good conclusions uh and
+not only the debate about this fine
+point but also the larger debate about P
+Doom right so the fact that you have
+really smart people like Yan Leon like
+Robin Hansen like Steven Pinker like
+David deuts who just have really low P
+Dooms like sub 1% I believe I'm not I
+don't think stepen Pinker and David deut
+have said it explicitly but let's say
+Robin Hansen and Yan Lon have explicitly
+said much less than 1% which I call the
+insane zone so the fact that smart
+people can't even agree on whether the P
+Doom is much less than 1% or whether
+it's greater than 5% potentially even
+greater than 50% the fact that that we
+have that moner of a gap orders of
+magnitude Gap among smart people is
+again proof that smart people don't use
+arguments to conge toward correct
+beliefs now okay proof is too strong a
+word right I really should have just
+said like strong evidence because of
+course it's not a proof like I might be
+wrong there could be the Holy Grail
+which is it's possible in theory that
+you might have a superhuman ability to
+make a convincing case for a good claim
+but somehow have no superhuman ability
+for a bad claim because maybe the the
+bad claims there's just something
+fundamental to the logic of bad claims
+that you just can't have a superhuman
+convincing argument for the bad claims
+so what I mean is like you could imagine
+that uh with a right argument with a
+superhuman arguer assuming that a
+pro-israel stance is correct you could
+imagine a superum AI could successfully
+convince Paul Graham that like no it's
+not a genocide and like Israel is
+defending itself whereas that same
+superhuman AI try as it might just can
+never convince the pro-israel camp that
+Israel is committing genocide because
+something in the fundamental logic of
+the situation is like that right and and
+sorry to use a Charged example right but
+you can imagine that like maybe I'm
+wrong about blockchain technology and
+the AI can successfully convince me that
+I'm wrong and the Superhuman AI just
+cannot convince christic and that he's
+wrong because he is in fact right that
+is theoretically possible right I'm just
+trying to argue that it's unlikely but I
+I want to address the question of like
+why exactly doesn't P versus NP make
+that situation plausible it has to do
+with knowing how to put things into
+context and knowing which sub claims to
+argue for I think those are the elements
+that are just not captured by people
+pointing to P versus NP and pointing to
+the idea of proof versus verification
+when you point to those things you're
+neglecting the idea of knowing how to
+put things into context and knowing
+which claims to argue for for instance
+let's say that you try to argue to me as
+strongly as you can that air
+conditioners are impossible let's say
+the year is 1500 and it's a hot day it's
+hot outside it's hot inside and I'm like
+man I wish somebody would invent a
+device that's not just a fan which blows
+air over me but it's something that
+fundamentally lowers the temperature of
+the room and then somebody else says no
+Leon I can give you a very strong
+argument that that's impossible because
+all you can do with whatever device you
+build all you're going to be doing is
+moving the air around and motion
+actually generates heat let me prove to
+you thermodynamically that motion
+generates heat so you could make an
+argument that to me sounds very
+convincing and I wouldn't really let's
+say it just never occurs to me of the of
+the idea of like well what if we can
+somehow extract some of the heat from
+the particles on the inside of the room
+and move them to the outside is that a
+possible thing and even if that did
+occur to me I'd be like no that seems
+impossible how could you possibly only
+take the fast moving particles and move
+them outside and then leave slow moving
+particles in the room that doesn't seem
+like it's physically possible so it'd be
+pretty easy to convince me in the year
+1500 that air conditioning is just
+fundamentally impossible like the laws
+of physics disallow air conditioning now
+hopefully there would be some other
+prover being like look let me show you a
+way that air conditioning is possible so
+I guess in that particular example if
+you had another super intelligent AI
+that was motivated to tell me the truth
+then I think that the truth probably
+would be stronger right I could probably
+theoretically be convinced that an air
+conditioner can be built so I guess this
+example just illustrates a scenario
+where there could be a really good
+arguer if they're unopposed right
+convincing you of all kinds of crazy
+things like air conditioning is
+impossible
+another example I thought of is maybe I
+can prove to a two-dimensional creature
+that you can't hold up your left hand
+and have the thumb be on the
+left I could be like look hold up your
+left hand the thumb is pointing inwards
+the thumb is on the right side there's
+no way you could ever hold up your left
+hand and have the thumb point to the
+left side now of course as
+three-dimensional creatures we can
+imagine being like look you can flip
+your hand and then you'll have your
+thumb point to the left side and the
+two-dimensional creature just can't
+fathom that right it doesn't realize
+that there's this larger context that
+you can have more dimensions and it's a
+contingent fact on their two-dimensional
+experience where your thumb can go so
+that's the kind of thing where like AI
+can present something to us which is an
+airtight proof but it's an airtight
+proof within two Dimensions or within
+three dimensions or within ukian
+geometry right like angles of a triangle
+they have to add up to 180 they
+absolutely have to and it's like well it
+actually makes perfect coherent sense to
+just say that they can add up to more
+and you just have a different type of
+geometry and maybe that type of geometry
+Ms better to physics right so what I'm
+trying to get out here is like there's
+times in people's lives where it just
+feels like they have an airtight
+argument and they're like this is done
+I've got the proof it's done this is as
+strongly as I can ever possibly believe
+something but then somebody digs a trapo
+right the trap door opens there's a
+third dimension there's nonukan geometry
+let me share a personal experience where
+somebody opened the trap door on me and
+that has to do with newom problem and
+causal decision Theory so newcom's
+problem is this idea that there's two
+box is placed in front of you by an
+alien super intelligence called Omega
+and Omega is all about predicting what
+people will do it's a super intelligent
+predictor it scanned my brain going into
+this Challenge and that was like
+yesterday night so yesterday night while
+I was sleeping Omega scanned my brain
+Omega predicted what I would do when
+faced with these two boxes and Omega set
+up the challenge accordingly the two
+boxes box a is a special box that either
+is empty or has a million dollars in it
+and then box B always has $1,000 in it
+and my choice is I can either take only
+box a or I can take both boxes so it
+sounds like a really obvious choice like
+okay just take both boxes because then
+you get box a and box B but Omega is
+very uh adversarial Omega is really
+being a dick here and Omega says aha if
+it predicted last night that I am the
+kind of person who in this situation is
+going to take both boxes then it didn't
+put any money in box a so Omega really
+wants to reward the kind of people who
+are only going to take box a so that's
+the crazy setup of newcom's problem now
+when I first heard of newcom's problem I
+was like okay well I see why this is
+like a challenge because I would hate
+for box a to be empty but that said
+omega's gone I'm just standing here
+there's box a and box B okay either box
+a has the money in it or it doesn't but
+I'm taking both boxes and I'm going to
+run and of course what happens next in
+the story is I take both boxes and I
+open box a and it doesn't have any money
+in it right because the premise that
+Omega was able to scan my brain last
+night and know that this is all going to
+happen that's a totally reasonable
+premise right and if and if it that
+premise sounds crazy do that a brain
+scan could reveal such a thing imagine
+that the brain scan reveals such a thing
+with 90% accuracy or even 60% accuracy
+it it still makes the thought experiment
+work it still makes the Dilemma be a
+fish dilemma it doesn't solve the puzzle
+it'll be like scanning is impossible
+with 100% accuracy so anyway I don't
+have time to get into newcom's problem
+too much but the takeaway here is that I
+eventually got convinced that my choice
+to take both boxes is actually not the
+best choice and I am now the kind of
+person I was reluctantly I have changed
+my mind and if you put those two boxes
+in front of me I am now going to only
+take box a and I'm going to walk away
+and I'm going to open box a and it's
+going to have a million dollars in it
+most likely and then I'll I'll do better
+than the guy who took both boxes but it
+was very reluctant for me to be drag to
+this choice because there's obviously
+the argument of like look omega's gone
+the boxes are already there right and
+there's this thing called causal
+decision Theory which is the standard
+way that you're taught to make decisions
+I guess in in college economics which is
+like you just model causally forward
+from your current position omega's gone
+I'm standing here there's two boxes in
+front of me however much money I get by
+taking box a I can get that plus a
+thousand if I take both boxes so how
+stupid would I have to be to not take
+box B right I can't change the past I'm
+sorry that I'm about to take both boxes
+but the past is the past am I already SC
+so anyway so you can go back and forth
+with nukem's problem you you might not
+be convinced I encourage you to read
+other resources on Yuk's problem but my
+point is this the first time I heard the
+problem I was convinced you have to take
+both boxes because of simple causal
+decision Theory Omega is gone why would
+you leave why would you walk away and
+leave box B sitting there that's crazy
+it has $1,000 in it right so that was my
+original reaction and I probably would
+have defended that pretty hard right I
+probably would I might have even said
+you know what I'm willing to die on this
+hill right you could literally kill me
+because I'm so conf
+in the logic now of course as a more
+mature person I just know I've now
+internalized the pattern that like oh
+I'm often just freaking wrong right like
+I capable of being very wrong so I
+wouldn't do that but maybe you know when
+I first heard the problem I was only 20
+years old and maybe I would have been
+more arrogant and I'm like listen I know
+logic okay logic tells me that I better
+take both boxes and then I got B slapped
+right I learned my lesson I'm like oh
+there's actually really strong arguments
+why causal decision Theory can actually
+screw you even though I'm like damn
+causal decision theory that seems like
+that's like so close to the heart of
+logic so the takeaway here is that you
+can have something which you just think
+you know you think is a very
+foundational belief you think is the
+most solid thing that you can grasp onto
+and maybe one of those things is your
+ability to adjudicate debates maybe you
+feel really really confident that you
+can judge arguments and then you can get
+b slapped you can find yourself totally
+like ah crap I judged that debate wrong
+and now the universe has been bricked
+right or in the case of new's problem
+okay I judged it wrong I lost a million
+dollars so I'm just saying imagine
+having that feeling and now imagine
+trying to tell me that oh yeah AI are
+going to argue with each other and we're
+going to be able to know which AI is
+arguing better okay I think that's all I
+want to say on the topic hopefully you
+agree that it is at best extremely risky
+to think that we can we as humans can
+help choose which AI to listen to based
+on listening to them
+debate all right and I will see you soon
+in the next episode of Doom debates

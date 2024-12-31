@@ -191,6 +191,9 @@ return
 
 ;; Protosociology https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
 
+::getdoom::yt-dlp --cookies cookies.txt --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
+
+
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
@@ -1277,6 +1280,8 @@ return
 ::checkpack::ls /bin/b* | xargs /usr/bin/dpkg-query -S
 
 ; Lists packages associated with executables in /bin that start with 'b'.
+
+::getindex::jq -r '.title + " by " + .uploader' *.info.json > partial-index.txt
 
 ::what load::watch `cat /proc/loadavg`
 

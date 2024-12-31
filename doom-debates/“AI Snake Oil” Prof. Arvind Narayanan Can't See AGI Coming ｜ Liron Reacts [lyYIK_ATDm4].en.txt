@@ -1,0 +1,1988 @@
+the cyber security Community has been
+very much on top of these emerging
+threats again it's possible this will
+change in the future but for every
+attack technique you can think of the
+Defenders have access to those same
+techniques if AIS can seize a botn net
+with a billion devices then the act of
+Defending yourself against that botn net
+is really the act of attacking that botn
+net
+welcome to Doom debates today I'm
+reacting to a recent podcast with Robert
+Wright and Professor Arvin Nan from
+Princeton you might be thinking wait
+Arvin Nan you did an episode about him
+two months ago that's true but Arvin
+just published his new book called AI
+snake oil which is the same name as his
+substack so I wanted to take a look at
+the media tour he's doing he went on a
+bunch of different podcasts and see if
+there's anything new and interesting
+there and Robert Wright is one of my
+favorite podcasters a pre subscriber to
+the nonzero newsletter I recommend
+checking that out so I'm taking a look
+at this I found a few things that I
+wanted to react to especially just
+reinforcing the idea of hey super
+intelligence is coming and getting into
+the other subtopic of how do we balance
+attack and defense and why I think
+attack is going to blow defense out of
+the water while Arend is highly
+confident that no defense is going to
+win so I wanted to get into that and
+just by way of background Arvin in
+addition to being co-author of AI snake
+oil both the book and the blog together
+with Sayes kapor Dr Nan is a professor
+of computer science at Princeton and a
+director of the center for information
+technology policy there all right let's
+dive
+in I'd like to think I'm an AI
+pragmatist so if I were to summarize in
+a couple of sentences my view of AI I
+would say it's it's normal technology
+it's not it's not utopian it's not
+dystopian it's kind of like the internet
+it is an important technology it's going
+to become more important in our lives
+You Know It uh makes us perhaps work
+more productively it's also going to
+have risks just like the internet had
+risks and so guard rails are needed
+regulation is needed it's not full speed
+forward uh but more importantly I think
+societal adaptation is going to be
+needed just like we're kind of still
+adapting to the internet I think we're
+going to be adapting to AI for a long
+time and that's probably the number one
+reason we wrote our book which is to
+help people with this adaptation process
+so this is a huge loadbearing Crux
+arvin's claim that AI is just normal
+technology I think that's true looking
+backwards I mean that's true about every
+technology right arvin's going to
+compare it to the internet yeah looking
+backwards every technology is just
+normal technology like yeah just
+airplanes being able to fly in the sky I
+mean it's pretty sweet but at the end of
+the day it's just normal technology it
+didn't upend Society so yeah I mean
+that's the critical question here right
+is are we just looking at a normal
+technology and Arvin actually never
+addresses the question at least not in
+this interview he never addresses the
+question of like what would it take to
+not be normal technology what would it
+take to be an earth shattering event
+akin to the dawn of the human species he
+never gets into that so it's just good
+background info to know that everything
+he says is under the assumption that AI
+is just going to be quote unquote normal
+technology next Rob asks arvind if he's
+an AI Doomer or an AI eth person or an
+accelerationist or how he would classify
+himself and Arvin basically takes a kind
+of Centrist position let's listen I got
+my start in the AI ethics community in
+some sense I am still a part of that
+Community uh but I think the different
+camps that have emerged in AI I think
+have really helped no one so I try to
+not uh you know slot myself into any one
+particular set of beliefs maybe AI will
+rapidly disempower Humanity maybe it'll
+generate of people with a wrong skin
+color I like to split the difference you
+know I'm a Centrist so just to reiterate
+Arvin likes to make the analogy between
+Ai and the internet like yep it's a big
+technology it's not going to totally
+upend everything it's just like really
+big and cool you don't want to buy into
+the snake oil you got to put it in
+perspective and the perspective is that
+it's not that big a deal I think that's
+Arvin in a nutshell you know I was
+comparing it to the internet a minute
+ago and uh the internet again is not a
+utopian or a dystopian technology but it
+is something that was pretty
+transformational in our lives and I
+think uh you know it it deserves to be
+AI deserves to be taken seriously for
+that reason uh without panic and without
+uh uh you know undo hopes uh but at the
+same time I'm not quite sure I agree
+with people who say this is you know
+close to useless it's all a bubble it's
+going to burst I can't predict the
+future you know it might uh there might
+be a a Reckoning in terms of the
+investment in AI but I can tell you just
+you know speaking for myself as a
+programmer the way it's been completely
+transformative to how typical
+programmers go about the business of
+computer programming it is you know that
+alone uh for me is very impressive and
+so programmers are relying on that very
+heavily
+right that's right that's right
+programmers are relying heavily on it
+and there are uh certainly some areas
+where generative AI has had a very clear
+impact language translation for instance
+but at the same time there are many
+overhyped areas uh the idea that we're
+all going to be using uh you know AI
+assistance to order our food or buy
+flight tickets there are a lot of
+companies that are working on this open
+AI has reputed to be working on this
+we're my research team is doing a lot of
+research on this yeah but as I think as
+especially as a result of that research
+we think that uh people really
+underestimate how tricky this problem is
+that's both AI companies themselves and
+uh you know um influencers if you will
+who are uh talking up what AI is going
+to be able to do in a few months uh I
+think um you know getting it to do these
+messy things that require a lot of
+common sense and interacting with real
+world entities I think I think that's
+going to turn out turn out to be harder
+than expected I agree that there's still
+some problems that are harder than
+expected in the sense that it might
+require a super intelligent AI or it
+might require a full AGI to solve the
+problem so even if you take driving
+maybe you can drive 99.9% of the time or
+99.99% of the time but there's all these
+edge cases that come up in rare
+situations I mean a crazy case is like
+okay the other driver gets out of their
+car and starts talking to you right so
+now you have to understand the full
+context of what they're saying or
+there's like a bunch of people on the
+street telling you that it's like a
+special holiday so you have to follow
+different procedures if you want to like
+get out of this culde saac cuz you're
+not allowed to be here right I mean
+there's just so many crazy situations
+that pop up and if you want to navigate
+your car out of any situation then you
+pretty much need human level
+intelligence right because there's an
+unbounded amount of contacts that you
+might have to bring online your full
+human faculties to process so you can
+get a bunch of different problems that
+seem like they might not be super hard
+but then they end up dragging in a whole
+bunch of complexity so I'll give them
+that right the only problem is I just
+think that we're getting close to being
+able to solve AI complete problems I
+think we're close to having true AGI and
+the water level will just be over our
+heads or AI will just be able to do
+pretty much everything we can do and
+then do it a lot better and do a lot
+more things right like I think the water
+level Humanity sticking its head up and
+being able to unilaterally decide hey
+you know what I'm pressing the off
+button on you right that differential
+power is what I think is diminishing to
+nothing soon right that's the concern
+that I would want to talk about but
+let's see what they talk about so this
+is the so-called agentic AI in other
+words AI that doesn't just talk to your
+or create pictures but does stuff for
+you um you know and in the in the uh in
+some of the in the more well the Doom
+scenarios but also some of the very
+optimistic sci-fi scenarios There's No
+Limit what it can do they wind up being
+CEOs of Corporations but you're saying
+that it's actually going to be harder
+than we think to even get one that will
+do a good job of making my plane
+reservations in way other than the most
+obvious thing like if I say get the
+earliest flight out of Newark on
+Saturday yeah I can do that presumably
+but you're saying if you get much more
+complicated than that it's going to be
+hard oh no no even get the earliest
+flight out of New York or whatever is
+very very hard and it's it's not so so
+the the way you phrase that is very
+interesting you're thinking about the
+parts of it that are hard for people
+right so that's not necessarily the
+parts that are hard for AI moving the
+mass to the right part of the screen
+that's an incredibly difficult problem
+for AI I guess he's saying look there's
+a long tale where you need to understand
+the full context of exactly why you're
+clicking when so I'll buy that I mean
+I'm I'm willing to believe that
+navigating a lot of websites really
+precisely and doing exactly what you
+want is potentially an AI complete
+problem like probably not but I get that
+like some circumstances might have
+surprising AI complete aspect so okay
+fair enough and this is this goes back
+to uh the same experience that AI
+researchers had you know 50 years ago
+when developing chess bling AI they
+started with chess because they figured
+you know that's the hardest problem so
+if we crack that we've cracked
+everything else Let's uh let's take a
+swing at the hardest thing and it turned
+out that making a chess playing AI to
+beat Grand Masters was very easy just
+make it calculate a lot but literally
+making a robot to move chess pieces
+physically turned out to be much much
+much harder uh and I think we're uh
+finding the same thing again here okay
+just fact checking here when he says it
+was really easy to program computers to
+beat chess Grand Masters that project
+took 50 years from the first
+programmable computer to 1997 when deep
+blue beat Kasparov at chess in the world
+championship that was a 50-year project
+and then it's been 27 years since that
+time and now we're getting a pretty good
+handle on moving the chess pieces so if
+you just look by number of years then
+it's maybe you could argue it's 1.5
+times as hard hard to move the pieces as
+to know where to move them I mean that's
+not that big of a difference now is it
+so this idea that chess was easy it was
+never easy it was just easier than
+certain other problems that we got to
+handle on later but just like everything
+is pretty hard like navigating the
+universe can't be done by a super simple
+system you definitely need a few layers
+of moving Parts it's just once you have
+these layers of moving parts coming
+online you don't get an infinite
+progression of difficulty like animals
+are all pretty similar to each other
+they're all solving the problem of life
+on Earth at a somewhat similar level AI
+is getting to that level it's becoming
+competitive so this argues more for a
+Continuum where more and more
+capabilities come online and yes some of
+the parts where you run physical inputs
+through certain kind of deep networks
+came online late because I guess they
+require a lot of parallelism and that's
+kind of an interesting takeaway but to
+me the most interesting takeaway is all
+the different capabilities are falling
+like dominoes year 50 playing chess
+Falls year 70 or 80 moving the pieces
+Falls everything is falling like what's
+left what are you trying to take away in
+terms of the next couple decades Arvin
+how are you not even mentioning this
+larger takeaway why are you so focused
+on the fact that chess playing is a
+couple decades ahead of moving the
+pieces around like so what in the end so
+what if it's the year 2100 and we're
+looking back at the entire progression
+of computers so what that the moving the
+pieces came later take the even larger
+view look arvind your whole AI snake oil
+thesis is that extrapolating the
+progression of AI gets us AGI 20 years
+later than people think that's the
+lesson from history or what we're
+talking about human extinction here what
+is your point your own historical
+analogy seems to indicate that we're on
+a steady progression toward AGI and
+Beyond here's another way to put it if I
+may so the reason chatbots are so good
+is that they have been trained literally
+on the order of 10 trillion words online
+and now if you want a gentic AI to do
+things in the real world you can't just
+take chat Bots and ask them to do stuff
+you have to you can start from that
+Foundation but then you have to ask this
+agentic AI to actually try doing stuff
+and learn from its mistakes if you
+listen to my previous episode where I
+react to arvind on Harry stebbins's
+podcast you've heard me push back
+against this
+point why do AI agents have to learn
+from their mistakes
+I think arvand is assuming that there
+won't be a readymade set of training
+data about how to do a job but if that's
+the case maybe he can frame the problem
+is let's start collecting data from how
+humans are doing their job why does the
+training data have to come from AI
+making a mistake why can't the AI just
+be ready to do the job on day one
+because it already learned from mistakes
+that we caught humans making or it
+already just learned how to imitate the
+performance of the best humans I think
+it's kind of presumptive that that's
+going to be the bottleneck but listen to
+the rest of his point mhm right and
+that's where the big problem is these
+mistakes that a gentic AI is going to
+make in the real world in the process of
+learning to do it better are going to be
+really costly things like booking a
+flight ticket to the wrong destination
+and so it's going to take I think quite
+a long time to have this feedback loop
+of getting it to work a little bit
+better so that you can deploy it a
+little bit more getting more experience
+and that's exactly what we've seen with
+self-driving cars we had prototypes 20
+30 years ago but to gradually improve
+its performance to the point where you
+can rely on it and thereby collect more
+driving miles of experience has taken
+way way longer than people expect it I
+think arent is conflating two claims
+number one some domains have lots of
+edge cases and they either need lots of
+data or a deep understanding or both and
+then claim number two AIS need to learn
+from experience because once they learn
+from their training data they're going
+to make new mistakes that nobody ever
+made in their training data and so
+they're going to need feedback about
+those mistakes I guess that would be
+second part of the claim and look maybe
+that claim is correct maybe AI are going
+to make novel mistakes and so they can
+only get really good at some domain
+after they make their own mistakes and
+learn from that but I'm skeptical I
+think that day one of the job if they're
+trained really well and if they're
+sufficiently intelligent they're going
+to hit the ground running as good as the
+human who previously did the job I mean
+I think that's naturally where things
+are going to get I don't think they have
+to learn from their mistakes necessarily
+I don't think anybody knows for sure but
+I just don't see why that's a confident
+claim it might be because of the
+intuition that humans always learn from
+this kind of feedback right humans have
+to learn on the job but in the case of
+humans there's an explanation why humans
+naturally learn on the job which is that
+humans have a tiny ROM right we have a
+tiny birth memory from our genes because
+our genes are an information bottleneck
+natural selection can only maintain like
+a megabyte of genes for our brain that
+we can pass from generation to
+generation which is an insane bottleneck
+there's no such bottleneck in AI right
+we bootstrap an AI with gigabytes or
+terabytes of information so because that
+bottleneck isn't there for an AI the
+intuition is going to be different like
+the AI is going to wake up on day one
+after its training already doing a
+better job than humans in the case of
+self-driving cars yes it's true that
+we're using the ai's own mistakes to get
+them up to this point but that's also
+because we've been learning how to learn
+right AI has been co-evolving with these
+cars I think if you started a project
+from scratch but you got to use the
+training data of 's driving Teslas and
+you got to use the same Hardware as a
+Tesla I think you could probably
+bootstrap a Tesla to drive as well as a
+human or better using just the data from
+humans driving and humans making
+mistakes I don't think you need the data
+from autopilot driving and making
+mistakes and getting disengagements and
+getting accidents I think that's nice to
+have but I don't think you need it right
+so I think arvind is going out on a limb
+here when he's like the AI needs to
+learn on the job not necessarily to be
+better than a human right I don't think
+that should be the default assumption I
+don't know why this is the point he
+comes out with when he's asked about
+agentic AI although we're kind of
+getting there at least in the in the
+sense of like the wayo model where if
+you confine it to one city it can do a
+good job yes and totally yeah and it's
+very impressive and the latest crash
+statistics from weo show that it's uh
+safer than human drivers you know very
+much uh something to be celebrated but
+my point is it took 20 30 years to get
+there again that's your point all the
+different Milestones that people think
+are going to get us to AGI are 20 to 30
+years farther into the future than they
+seem okay so we're going to have AGI in
+20 to 30 years are we not isn't that
+more important that we're going to have
+AGI rather than the difference between 3
+years and 30 years now there are
+different kinds of agentic AI um one
+thing that I'm told is now kind of
+doable is that you can say well I want a
+website that looks like this and this
+and this and this and it will the code
+that will give you that website is that
+I mean that that would be impressive if
+true I gather it's true so for me you
+know I was able to build this Toy app
+and yeah there's lots of people building
+you know if you have a restaurant you
+want to stand up a website yeah
+certainly you can use AI to do that but
+imagine something more serious let's say
+an airline wants to build uh a website
+to you know do all the things that uh
+Flyers want to do on the website you
+know that's like tens of thousands of
+lines of code and to be able to to have
+to interact with that body of Code by
+talking to AI instead of being able to
+directly edit the code at that point AI
+is probably slowing you down more than
+speeding you up so that's a reason why
+we shouldn't get too excited about this
+it's one reason it's pardon me it's one
+thing to be able to build a toy app or a
+to toy website it's another thing to be
+able to automate the work of you know a
+serious 100 person team at a company
+that might be building an Enterprise
+website or application I don't know why
+he's making this claim right now besides
+just general pessimism that AI isn't
+going to get sufficiently good but if
+his problem is really just with the ux
+of managing an agent that works on a
+complicated code base for you and you
+have to talk to it if that's really his
+only beef which is what he's saying well
+imagine you're an engineering manager
+and you have seven direct reports who
+are software Engineers they work on your
+code for you you manage them you tell
+them what you want to get done and then
+you look at their check-ins you look at
+their pull requests and you review their
+code and you give them feedback and
+eventually you just merge in their
+changes maybe sometimes you go in and
+make some edits yourself but most of the
+interaction that you have with your team
+is this kind of workflow and this is a
+kind of workflow that you could just
+directly swap in the software engineer
+for the AI right it's just a wonder One
+replacement and now the only argument is
+okay but does the AI map the input to
+the output as well as the engineer does
+does the AI truly understand the code
+base and the instructions that you as
+the engineering manager gave them and
+today the answer is no right so the only
+question is just how good is it going to
+get at mapping the specification and the
+code base to the altered code base
+that's the question I don't see Arvin
+addressing that question besides
+previously saying it needs to make its
+own mistakes I don't see anything else
+that he said substantively on this
+question so I tend to be more optimistic
+or accelerationist than him in terms of
+my expectations of when we're going to
+get this software engineer drop in
+replacement but both of us should have
+pretty high uncertainty on this
+question and I gather one thing that
+corporations either starting to do or
+will start to do is actually monitor uh
+what their employees are doing so
+closely that that can become the data
+for the machine learning of is that
+right that's uh yeah that's um that's
+that's a possibility I mean we don't
+there are lots of reasons why it might
+not happen obviously there are concerns
+about surveillance and so forth and it
+might also just turn out that even with
+all that monitoring it's not that
+helpful or uh you know building AI to
+automate lots of uh actual real world
+jobs we just don't know yet but yeah
+certainly companies are trying to do
+this why did narvin respond and be like
+monitoring employees isn't going to work
+that well for training AIS because AIS
+have to come in and do the job and make
+mistakes and learn from their own
+mistakes I notice he didn't mention that
+presumably he still believes that but
+does he believe it strongly like what's
+his larger claim here I'm just not
+getting a sense of a strong mental model
+here besides things are going to be
+chill like that's if you were ask me to
+pass the ideological train test for
+Arvin they' just be like chill out
+answer whatever sounds normal but I'd
+love to understand him better than that
+so I have one generic question about
+large language models in particular
+before we turn to some your concerns
+about predictive AI so you know one view
+of large language models especially when
+they kind of it first hit GPT 3.5 first
+hit and then four and got all his
+attention and this was especially common
+in the AI ethics Community I think was
+kind of
+minimize their power by referring to
+them as you know fancy autocomplete
+stochastic parrots um and then the at
+the other end of that spectrum of being
+impressed is that know um although they
+are trained to learn to just complete
+sentences it turns out that to do a good
+job of this they actually have to build
+kind of internal structures that in some
+ways are functionally comparable to
+what's going on in the human mind it's
+actually pretty damn impressive uh you
+can't even paraphrase well if you don't
+have some way of representing the
+meaning of words for example and so on
+where where do you where are you on this
+spectrum Rob brings up a really good and
+important point which is yes today's AIS
+truly understand things they have mental
+models that are comparable to the mental
+models that we make with our brains as
+far as a lot of experts can tell in
+philosophy they talk about the symbol
+grounding problem let me read what
+Wikipedia says about it the symbol
+grounding problem is a concept in the
+fields of artificial intelligence
+cognitive science philosophy of mind and
+semantics IT addresses the challenge of
+connecting symbols such as word or
+abstract representations to the Real
+World objects or concepts they refer to
+in essence it is about how symbols
+acquire meaning in a way that is tied to
+the physical world it is concerned with
+how it is that words or symbols in
+general get their meanings and hence is
+closely related to the problem of what
+meaning itself really is wow what
+meaning itself really is well ladies and
+gentlemen we solved it and now we know
+what mean h really is we know that if
+you just have a network of Concepts in a
+high-dimensional vector space and a
+bunch of Weights telling you how they
+all relate to each other then that
+system contains meaning it has captured
+the mysterious essence of meaning I mean
+it was always pretty obvious that
+meaning is a correspondence between the
+state of your brain or the state of your
+AI and the state of the outside world an
+isomorphism of some type that was always
+obvious even decades ago before we built
+these powerful AIS but now it's pretty
+clear what the internal structure of the
+correspondence looks like these freaking
+high-dimensional Vector spaces were the
+key and of course a handful of AI
+researchers suspected it all along you
+know Yan Leon Ilia Sater those guys
+definitely get credit for anticipating
+where AI was going and which particular
+structures were going to be super
+powerful and generalizable so Props to
+them but
+regardless that does seem to the answer
+the kind of insights and power that AIS
+are showing just by scaling up
+Transformers which do simple operations
+on these high dimensional vectors and
+then get out these deep models and then
+give answers that are only possible with
+deep semantic understanding that's
+pretty strong evidence that meaning the
+way the human brain uses it is a lot
+like Machining the way AI use it like it
+could even be virtually identical the
+fact that the great symbol grounding
+problem got solved in my lifetime is
+insane imagine being alive in 1800 and
+wondering who are we and where did we
+come from it sounds like it's just
+something you want to repeat to yourself
+when you get stoned you're not actually
+expecting an answer to a deep
+philosophical question like that are you
+and then one day Charles Darwin comes
+along publishes On the Origin of Species
+and you get the answer we are evolved
+creatures all the different drives and
+emotions we have they're all an attempt
+by natural selection to maximize genetic
+fitness by programming you like a
+machine and weeding out the versions of
+you that didn't survive it's suddenly a
+complete low-level reductionist
+explanation to this great philosophical
+question of who are we and where did we
+come from it's a question that you
+didn't even think an answer was going to
+come your way you didn't even think your
+ability to think would Encompass the
+answer to a question like that and and
+then it turns out that it did so it's an
+object level question where the fact of
+having the answer revealed to you has
+implications on the metal level about
+what it's even possible to think about
+it has philosophical implications that
+was the who are we and where did we come
+from question I think the symbol
+grounding question has some of that
+flavor it's a question where wow the
+fact that I now know the form of the
+answer hits back to the metal level of
+like oh so I guess I was allowed to ask
+this question of what is meaning since I
+was able to get an answer and it's the
+type of answer that I'm familiar with
+it's a reductionist materialist answer
+great Okay cool so I've dissolved the
+philosophical conundrum of how are
+symbols grounded I've dissolved it to be
+the same kind of question as like how
+does a calculator add up numbers now
+it's ontologically epistemologically the
+same type of question the philosophical
+mystery has been dissolved that's my
+little Riff on the symbol grounding
+problem Robert actually has a better
+Riff on this that he wrote up on his
+blog so I recommend checking that out in
+the show notes it's one of Robert
+Wright's blog posts from a couple months
+ago it's called yes AIS really
+understand things I highly recommend
+reading that post it says a lot of the
+same stuff that I just said in my riff
+but focusing more on John C's Chinese
+room problem and the kind of tiffs that
+were happening in philosophy departments
+and cognitive science departments but
+anyway worth a
+read I mean language models clearly have
+these internal structures uh you know a
+purely statistical text generator uh we
+know what what that uh uh looks like
+it's called a Markov model we've had
+those for I don't know 50 years and they
+don't produce coherent text yes thank
+you for explaining that language models
+have internal structures it's they're
+not stochastic parrots they're not just
+pattern matching unless you have a
+ridiculously broad definition of pattern
+thank you for giving llm some basic
+credit where credit is due and also we
+can look inside language models this
+whole blackbox thing is way oversold
+they're not blackboxes in the way that
+uh people often uh think they are it's
+just that we have to put in the efforts
+to interrogate what's going on inside
+and people have done that and there are
+clearly internal structures but the
+structures are ridiculously complex even
+structures that do something very simple
+are overly complex and we can barely
+understand that and the moment they
+start giving a complex answer we really
+don't understand it's the same type of
+hard as reverse engineering a cell right
+it takes decades to reverse engineer
+asile if you're only working with human
+level
+intelligence the way that the parts of a
+learn learned AI model interact with
+each other to answer complex questions
+in a prompt you're looking at the kind
+of organically evolved complexity that
+you see in a Cell you're not looking at
+a modular architecture here like
+designed by human Engineers you're
+looking at a giant mess where yeah all
+the moving Parts work together and you
+can sometimes kind of understand how
+they're going and manipulate a couple
+variables at a time but you can't deeply
+understand the whole system you can't
+deeply predict it you can't check if
+it's safe so now he's totally
+oversimplifying he's saying oh yeah no
+people think that it's a black box and
+you can't look inside you totally can't
+no you can't you really really can't or
+at least you can't with a reasonable
+amount of effort that's going to scale
+in any kind of way that you need it to
+scale to ensure safety as they get more
+and more intelligent but at the same
+time there's also a lot of evidence that
+those structures are not the necessarily
+the same kinds of things we have in our
+minds and you know it works for the
+typical kind of text that language
+models and but if they are provided uh a
+question that is called out of
+distribution as the technical term then
+those structures that they've built up
+quickly break down and don't generalize
+in the flexible way that human Minds can
+let me repeat arvin's claim here and my
+own words because I think it's pretty
+flimsy he's basically saying llms don't
+learn the kind of structures that we as
+humans learn we as humans learn these
+nice elegant General structures llms
+learn these we weaker lower level
+structures that are more like shallow
+pattern matching and as a result they
+don't truly reason the way we humans do
+they can only reason about things that
+are within distribution things that are
+sufficiently similar to the data that
+they've seen now of course this has a
+kernel of truth because it is
+empirically true that when you prompt an
+llm with things that are similar to
+things that had seen before it does tend
+to do better there is in fact an
+empirical reality like what he's
+describing
+but that whole notion of similar keeps
+getting fuzzier and fuzzier that's a
+thing I keep pointing out in my podcast
+that I don't see adequately addressed
+what is the similarity metric we're not
+talking about an actual distribution
+here it's kind of retroactively applying
+the term distribution as if English
+prompts like an English sentence you
+know there's more Possible English
+sentences than there are atoms in the
+universe so a space that big when you
+scatter a few crumbs into a space that
+big like as if you could talk about a
+distribution in a space like that you're
+already applying a lot of human judgment
+when you even talk about the idea of a
+bunch of sentences being similar it's
+similar by your own highle
+representation there's no one true
+similarity metric the true similarity
+metric is like actual intelligence so
+it's very misleading to be like oh
+there's a distribution they have to stay
+within a distribution no the nature of
+the distribution keeps getting fuzzier
+the smarter they get and they keep
+getting smarter so you're just
+dismissing them by saying oh they can't
+do things out of
+distribution this is a pretty sneaky
+move move that a lot of people pull who
+aren't scared of general intelligence on
+the horizon this is how they try to
+explain it away they're like don't worry
+something about me as a human is deeper
+and more general I'm not such a shallow
+thinker that I can only do similar
+problems I have something deeper but
+it's like no you don't not fundamentally
+probably not like maybe but I don't see
+it because every time the new LM gets
+trained the concept of similarity gets
+fuzzier right so it's not like there's a
+barrier it's not like they can give you
+an example that the next version of the
+trained llm definitely can't solve so I
+feel like they're fooling themselves
+specifically they keep moving the
+goalpost of what it means for an input
+to be in
+distribution depending on what level of
+insight about similarity the next AI has
+you can't keep doing that you're going
+to fail to notice progress toward AGI if
+you keep doing
+that okay now Arvin is going to give an
+example of what he thinks it means that
+llms can't reason out of distribution so
+a great example of this is there's this
+puzzle that people may have heard uh
+there's a person a wolf a goat and a
+cabbage something like that and there's
+a boat you have to cross uh with all of
+these uh there's a there's a river and
+if you you know if you leave the wolf
+alone with the goat the wolf will eat
+the goat Etc right this kind of puzzle
+so these language models have seen many
+examples of this kind of puzzle online
+so if you give them this puzzle they're
+very good at doing it but instead
+instead if you say there's a person a
+wolf and and a cabbage right you leave
+out the goat and you ask them what to do
+they will invent a goat because they
+have seen uh you know the this puzzle
+with a goat so many times that they're
+unable to uh quote unquote reason
+instead of uh instead of just parot what
+they have seen so there is an element of
+structure there is an element of parry
+and it's a nuanced line and I think both
+extremes are oversimplified oh my God
+those shallow AI inventing a goat when
+you didn't ask them about a goat or
+thinking they've heard a different more
+classic version of a problem when you
+just told them a modified version of a
+problem oh my God so stupid okay now
+let's look at how a human would react if
+you gave them a question like this have
+you ever heard of something called the
+cognitive reflection test or CRT I'll
+read you the Wikipedia The cognitive
+reflection test is a task designed to
+measure a person's tendency to override
+an incorrect gut response system one and
+engage in further reflection to find a
+correct answer basically system two the
+original cognitive reflection test only
+had three questions they're all pretty
+well known at this point let me just
+read you one of them to give you the
+flavor if it takes five machines 5
+minutes to make five widgets how long
+would it take 100 machines to make 100
+widgets as a human it's very intuitive
+to just kind of complete the pattern and
+be like 100 minutes I think the majority
+of humans alive today would say 100 and
+be like that seems right no so if the
+majority of humans feel a strong
+temptation to say 100 and then you turn
+around and you ask a modified cabbage
+Fox River problem to an AI and the AI
+feels a strong temptation to complete
+the
+pattern that doesn't indicate that it's
+fundamentally different at thinking than
+a human right if anything it seems like
+there's a lot of commonality there in
+terms of like wanting to blurt out some
+answer and similarly if you tell a human
+listen this is a trick question or like
+this is one of those questions that you
+have to think very carefully about try
+not letting yourself blurt out what you
+want to blurt out next try really
+thinking about it if you similarly tell
+that to an AI like hey reason this
+through don't just blurt out something
+that seems like something you've seen
+before that same advice actually works
+for an AI the same way that it would
+work for a human so look I'm not
+claiming that AI learn the same as
+humans obviously humans don't crunch
+through gigabytes of text in order to
+get trained there's a massive difference
+in how their way were initialized
+compared to how a human brain's weights
+were initialized and there's a massive
+difference between the types of inputs
+that come in to change those weights
+before they're ready to solve production
+problems right so I'm not saying humans
+andas are the same thing I'm just saying
+it seems remarkable how similar they are
+and I don't see people like Arvin
+successfully putting their finger on any
+fundamental difference it sounds like
+anytime they try to say a fundamental
+difference all they point to is a small
+matter of degree like okay maybe a human
+with 100 30 IQ on the first try isn't
+going to blurt out Fox if there's no fox
+in the problem okay that's your whole
+difference that's your fundamental
+separator between human intelligence and
+AI intelligence I'm just not seeing much
+there and again wait for GPT 5 right
+wait for the3 billion version of the
+model instead of the $100 million
+version of the model it's going to
+totally blow away these distinctions
+that you're building right they're not
+these powerful dkes against the river
+they're sand castles right they're going
+to get washed away when somebody like
+Arvin points to a current generation llm
+and says look it's choking on these
+problems because it's powder matching
+that means it's not truly reasoning like
+we humans do well if you look at a human
+with a 75 IQ that human may never be
+able to learn how to do cognitive
+reflection test problems that problem I
+told you about machines making widgets
+they might never get it like they might
+learn to say 5 minutes instead of 100
+minutes on that particular problem and
+maybe apply a simple formula to other
+problems but they might never feel it in
+their gut why it is that those 100
+machines can make 100 widgets in 5
+minutes it might kind of elude them but
+you can imagine somebody like Arvin
+meeting these humans and pointing them
+and being like you do not have the
+mental structures to truly reason you do
+not learn like we humans learn but from
+our perspective knowing that they're
+human it's more intuitive to argue no
+it's a difference of degree they're just
+not smart enough their brains just don't
+work as good they need more connected
+neurons or whatever it is that some
+humans with better more powerful IQ
+genes have we're going to have AIS with
+more powerful AI IQ genes I mean I think
+the analogy is pretty strong is what I'm
+saying and Arvin doesn't seem to see
+that as analogous he seems to think
+something is fundamentally different
+here on Doom debates I keep searching
+for somebody to put a Line in the Sand
+put an actual powerful Dyke on the River
+of AI progress versus dry land where
+humans have our human intelligence I'm
+trying to find that separator and you
+saw last week with Dr Keith Dugger
+coming on the program he thinks he sees
+a computability theoretic distinction he
+thinks that llms can't learn Turing
+complete algorithms and only humans can
+because llms have a finite context
+window if that doesn't make sense to
+what I said I agree it doesn't make
+sense to me but I think that's a pretty
+accurate paraphrasing of what he's been
+saying but anyway from my perspective
+one person after the other either does
+another podcast or comes and debates me
+and all feel confident that they know
+the essence of why llms are so far from
+being as powerful as humans at reasoning
+when all I see every time is a
+difference of degree and I also see
+billions of dollars being invested to
+raise the degree so I'm scared like I'm
+uncertain but I'm scared and I think we
+should all be scared so scared that we
+should pause AI but let's see what else
+Arvin has to say in this next part Rob
+asks him to talk about AI alignment um
+so you're also uh don't put a lot of
+stock in alignment which means well
+aligning AI with human values human
+interests let's not forget that such
+alignment is only necessary if power
+seeking Behavior will naturally emerge
+in future AI an argument we find highly
+dubious actually let's stop there is
+that really true I mean you can imagine
+alignment that would make it hard for a
+bad actor to deploy the AI right uh sure
+I there are a few different types of
+alignment the one is the uh Growing
+Child uh kind of alignment you talked
+about and the one we were talking about
+in that particular sentence you quoted
+is about uh Power seeking Behavior so
+that's the Terminator scenario and then
+the one you just mentioned is a Third
+Kind which is a bad actor deploying Ai
+and to me that kind of alignment is like
+building a gun that will only kill bad
+people it's you know I I mean it sounds
+like a flippant analogy but I can give
+you specifics and it's really as then
+coherent as that in my view I actually
+agree with part of what arvin's saying
+here if we're not talking about aligning
+AGI by either making it want to do
+things that humans want or by somehow
+making a robust off button meaning
+either value alignment and or
+controllability if we just have a
+subhuman Ai and we're worried about it
+protecting itself from humans doing
+things with it I agree that the analogy
+of a gun that only shoots good people
+makes sense in that situation obviously
+you want to have some safeguards you
+don't want to make it easy to shoot
+yourself in the foot if you can avoid it
+but if it's not AGI yet I do think the
+usual considerations apply where you
+want to let a bunch of people use it
+freely so you can't start making moral
+judgments about what's good and bad
+unless it's an AGI where you have no
+choice but to teach it moral judgments
+but it's not AGI in my hypothetical
+right in that case I see arvin's point
+and the only other consideration that
+comes into is well wait a minute how
+destructive is it it may not be AGI but
+can somebody push a button if they get
+access to it and then have that button
+do a denial of service attack on the
+entire internet or on companies that
+they don't like how powerful is it as a
+weapon of mass destruction would be the
+other consideration but if it's not AGI
+and it's not a weapon of mass
+destruction that doesn't have an off
+button in that case then I'm sympathetic
+to arvin's point and I think the
+discussion of how to align a sub AGI
+tool is probably kind of moot
+not to mention that the open- source
+version will probably get hacked to not
+be aligned anyway so it's also mood in
+that sense one of the things people are
+really concerned about Bad actors doing
+with AI is hacking critical
+infrastructure so maybe uh AI can be
+used to find vulnerabilities in software
+and uh uh yeah and use that to take over
+you know nuclear plants or something
+like that right and people want to align
+AI to stop it from being able to do this
+yeah so to reiterate in this temporary
+regime where we don't have super
+intelligence yet we just have powerful
+AI it's still a domain where companies
+have incentives to put guard rails on
+their AI because they don't want chaos
+when they release an AI right the same
+way open AI is doing a good job now of
+not having their AI be bad or like
+insult children right it's trying to be
+well behaved they're doing a pretty good
+job with that I think that regime can
+continue I think government has pretty
+good regulations that it can slap on I
+sympathize with arvin's perspective that
+if we're not dealing with AGI maybe our
+existing regimes for regulating the
+stuff and incentivizing bad stuff not to
+happen maybe they'll still be the best
+that we've got and I think a lot of
+technologists that aren't thinking head
+to AGI they feel the same way like look
+just play it out we've got systems for
+doing it they're only going to need
+slight tweaks I get it I personally
+would just rather focus on the
+discussion to where this is leading soon
+it seems to be leading to AGI where the
+regime doesn't hold because the AI
+starts becoming independent it starts
+becoming a virus it starts becoming a
+botnet it starts having no off button it
+starts commandeering a billion devices
+controlling humans and amassing the
+power of a nation state that's the
+scenario that I'm talking about not like
+oh does the gun have a safety when you
+point it at bad people it's not a tool
+anymore at that point it is a nation
+state level power so that's my
+concern another aspect we can talk about
+even before we necessarily get to AGI is
+the balance shifting between offense and
+defense in cyberspace let's listen to
+what Arvin has to say about that here's
+what's interesting about this if the
+worry is that automated methods are
+going to make it easier for hackers to
+find Sofer vulnerabilities that's a
+battle that we lost 10 or 20 years ago
+they've long been using automated
+methods whether you call them AI or not
+and yet the world hasn't ended in fact
+the crazy thing is that these automated
+methods have helped Defenders much more
+than attackers because software
+companies can use automated tools
+including AI to find and fix
+vulnerabilities in their software before
+putting it out there before attackers
+can take a tab at them and that's
+exactly what's happening and that's why
+it has strengthens Defenders and now for
+an AI tool to know whether it's a
+Defender using it or an attacker using
+it entirely depends on who the identity
+of the person is and you know which
+software they're using it to find
+vulnerabilities in so that is
+information that AI doesn't actually
+have that's not a decision you could
+even possibly delegate to AI uh and we
+see this over and over and so the idea
+of making safe AI that bad actors can't
+misuse it can only be done if you just
+completely remove a certain class of
+very useful capabilities from AI so that
+neither uh Defenders nor attackers can
+make use of them and I think that that
+would be very
+unfortunate so I can give a charitable
+interpretation of what Arvin is saying
+if there's a hacking tool and it's not
+so powerful that it can go out on its
+own and become a virus and take over a
+billion devices and manipulate a bunch
+of humans to do its bidding and then be
+a weapon of mass destruction and attack
+humans in the physical world and augment
+its own intelligence if it hasn't gone
+that far yet it's just a better hacking
+tool than what we've had before at that
+point I'm sympathetic to arvind of like
+okay sure maybe it'll will be fine at
+that point maybe it'll even help defense
+win maybe companies that do cyber
+defense they're better funded maybe they
+have smarter people on the team they
+have people that don't want to commit
+crimes and go to jail that's kind of how
+the balance of power stays stable today
+you just have more people that want to
+have lower stress lives in a country
+with a rule of law where they don't want
+to be criminals they just want to work
+for an organization that'll pay them
+attractively to do defense in that case
+yeah maybe put the hacking tool out
+there and let the good guys use it to
+outsmart the bad guys let defense win
+great so no problem yet but it raises
+the question of how is the equilibrium
+going to potentially shift the
+equilibrium between malicious attackers
+that don't share our values and the good
+Defenders you're going to hear that
+arvand is very optimistic about that
+equilibrium you talk about defense in
+depth as an as uh a good example of an
+effective defense
+technique um and let me see if I can
+actually find the quote okay another
+Exon technique uh it's called defense in
+depth it calls for Designing designing
+system with multiple layers of Defense
+Each of which will ideally require
+entirely different attack strategies to
+penetrate it done right it allows a
+relatively weak Defender to save off a
+much more well
+resourced
+attacker now I
+assume I guess I'm imagining a day when
+AI because it can be so adaptive because
+it can say Okay a into this wall let me
+just totally rethink this thing uh and
+come up with a
+solution uh and then once you got one AI
+that can do that it's cheap to replicate
+it it may be the case that it doesn't
+take a well-resourced attacker to
+overcome a defense in depth uh because a
+a a a
+sufficiently um well autonomous or quasi
+autonomous uh and that's where you know
+that's the goal with a lot of this stuff
+a more a omous AI is better at tackling
+at overcoming defense in depth does that
+make sense it's certainly a possibility
+and I think we should I think that's a
+an area where a lot of research is
+needed to see if if and when that is
+happening and if so we should adapt our
+strategies um that's something I
+certainly support but nonetheless I'll
+give you I don't know um five to one
+odds that that's not going to happen
+whoa five to one odds I mean I love talk
+in the language of probability it really
+clarifies what your position is but
+didn't you just say doomers use
+meaningless probabilities that have no
+relevance to policy and now you're
+helping us understand attack versus
+defense by expressing your position as 5
+to1 odds was that like a slip up or you
+don't want us to take you seriously
+what's going on here anyway continue
+over and over again people have said oh
+this is the moment when the attacker
+Defender balance is going to flip um and
+I think uh just as uh attackers get
+creative we have found that uh Defenders
+can as well and that doesn't mean an
+everyday person using an iPhone that
+means you know the developer of the
+iPhone who's putting in those defensive
+strategies and uh the the success story
+of cyber security has never been told to
+the public and I think that's really
+unfortunate the the number of defense
+and depth strategies that are in your
+iPhone right now uh unknown to you that
+are protecting you from hackers uh
+that's a really remarkable story and um
+in a way it's unfortunate I think think
+that we perpetually uh minimize the
+Ingenuity of Defenders and uh hype up
+the Ingenuity of attackers again it's
+possible that with AI this balance will
+shift but uh I I think it's far more
+likely that the current balance will
+prevail fiveo and odds seems very
+overconfident to me if you just take the
+outside view it's not like the balance
+of attack and defense is always stable
+and consistent throughout history or
+throughout different domains if we're
+talking about physical Warfare the
+Mongols were an army that had a big
+attackers lead over everybody for a
+while but more recently we had a huge
+reversal when nukes came along it's
+crazy to look back to just a century ago
+where the conventional wisdom was the
+classic 3:1 rule saying the attacker
+needs a 3 to1 advantage in resources or
+manpower to succeed Defenders have
+terrain
+fortifications familiarity with the
+battlefield they get shorter supply
+lines and that's why if you want to
+attack you better have a 3 to1 advantage
+over the defense that was the
+conventional
+wisdom now in the age of nukes you have
+the Mighty United States with all our
+defenses and still Russia or North Korea
+can push a button to send a few nukes at
+us and take out New York City any day of
+the week that's the world we live in
+right now there's no 3 to1 law of attack
+versus defense we're totally vulnerable
+our pants are down you may be like well
+wait a minute what about mutually
+assured destruction no that's not
+defense that's just both sides having
+poor defense and hoping that the other
+side is sane enough to not attack you
+but either one of you could attack the
+other because attack has a major
+advantage over defense if you look at
+the laws of physics I think it's pretty
+baked into the laws of physics that
+attack is easier than defense because
+when you dump a bunch of energy or
+entropy into any region of space you
+blow it up there's no defense against
+that as far as I know the universe just
+has a huge tendency to evolve into to
+states where everything gets blown up
+right those are higher entropy States
+and the second law thermodynamics so
+that entropy must always increase and
+eventually the universe will have a heat
+death so when we build up useful
+structures it's just a question of how
+long those structures can hold before
+they get blown up like the Natural Way
+of the universe is for things to get
+blown up and there's no similar law of
+physics that says here's a way
+everything can be defended like there's
+only a law of physics that says here's
+the way everything can be attacked
+namely by dumping entropy into it
+there's no such thing as a secure module
+within the physical universe everything
+is causally connected to everything else
+every region of space accepts energy
+that it'll take and blow itself up with
+it's pretty unfortunate if you're just
+trying to defend some space it's pretty
+unfortunate that you the universe is
+architected like that rather than being
+architected to seal off parts of the
+universe if you want them sealed off and
+not accept requests to feed an extra
+energy being like sorry I got enough
+energy Don't Feed me more energy nope
+reges of the universe are always just
+happy to accept a giant dump of energy
+that you send them and then blow up as
+far as I understand physics I think
+that's the case unfortunately so that
+means fundamentally if things really
+come down to the metal of low-level
+physics the only way to defend territory
+is to have preemptive countermeasures so
+that means you neutralize known
+attackers you're always scanning like
+who might attack me and then you just go
+preemptively attack them or somehow
+neutralize them or make a deal with them
+or whatever you got to do that's not
+really defense right that's just kind of
+preemptive attack it's defense through
+attack okay which is still attack and
+the other piece of your defense is to be
+what Robin Hansen calls grabby to go and
+expand your territory as much as
+possible so that the boundary between
+you and everybody else gets pushed out
+as much as possible and the resources
+that you have within your boundary that
+you can use to push off attackers to go
+back outside your boundary you have the
+most possible resources that's one
+reason to think that aliens will be
+crappy because they can use Simple logic
+to be like it's killer be killed we
+can't just defend a small area of space
+that's going to be physically impossible
+against a capable attacker the only
+defense is to expand as much as possible
+when you occupy maximum space and you
+have maximum resources within that space
+then you have the maximum power to
+absorb attacks and to Counterattack it's
+really the only way you can predict that
+you'll be safe so when I take the larger
+physical perspective and I reflect on
+arvin's 5 to1 confidence that defense is
+going to keep being easier than attack
+it's as if clitz in 1800 is saying
+listen I know War okay 3 to1 attack
+versus defense that's an iron law it
+never changes trust me the 3 to1 law is
+so fundamental to military Theory
+clausus doesn't expect that there's
+going to be some invention that turns
+over the whole game board and makes
+attack much easier than defense which is
+currently the case with nuclear weapons
+the idea that Kim Jong-un whose entire
+country's resources are 0.1% % of the
+resources of the United States and yet
+he can push a button and kill 100
+million Americans on American soil any
+day he feels like it I don't think cloz
+would have taught us that that's going
+to be the case cloz was known as one of
+the great theoreticians of War but at
+the end of the day understanding physics
+and intelligence science does Trump
+everything that's why Le doomers are so
+arrogant right we're just noticing like
+hey I know you've got your centuries
+long field of study but look what's
+coming
+you're about to see a singularity here
+like the the old theories are just not
+going to apply to this new regime it
+happened with the 3 to1 attack defense
+rule in nukes it's going to happen again
+in cyber security soon mark my words so
+let's go back to talking about cyber
+security though why does cyber security
+work today why has an attack already
+overwhelmed defense today in cyers Space
+the problem is going to be when a
+superintelligent AI hacker knows how to
+do an end run around any layer of
+Defense like the types of defenses that
+people used to build against different
+types of attacks in the physical world
+they pretty much all don't matter unless
+you have a very deep underground bunker
+which you're not going to be able to put
+a sizeable fraction of your population
+in like anything you build above ground
+is not going to withstand a 5 Megaton
+nuke it's not going to happen similarly
+with AI you think you're really clever
+with your defenses you use the top
+security but AI is going to be playing
+dirty it's going to be microt targeting
+like spear fishing personally crafting
+attacks for every single human within a
+large radius of anything related to the
+system that's being defended so
+everybody who works on the system is
+going to be microt targeted everybody in
+the family and friend and work group of
+the victim being targeted is going to
+have social engineering attacks 24/7 on
+them it's going to be like everybody
+gets their own personal Israeli mad
+attacking them now you can make an
+analogy well wait a minute there's
+automated scripts today that are
+scanning for vulnerabilities on the
+internet and to attack everything no
+it's not the same thing you can't
+compare that to the mad you can't
+compare that to Bringing to Bear the
+best we have of intelligent human
+attackers if you bring something more
+intelligent than the best human
+attackers a big team of them attacking
+every little potential hole in the
+entire operational security fabric of
+every system that exists I'm just not
+seeing a lot of companies fundamentally
+defending against that at some point you
+have to make some kind of assumption
+where you live in a world where there's
+reasonable backup plans like okay you
+forget your password you can make a
+phone call or you can like visit some
+location and they'll know that it's you
+because they can see your body and the
+person that you're talking to is not
+currently being furiously blackmailed
+right like at some point you have to
+reach some sort of bottom layer where
+you get to make a simple assumption
+about the world that's going to hold
+that's going to be like the root of how
+you can like reset somebody's password
+or like know that you're talking to who
+they say they are Arvin looks at the
+world today and he says says hey look
+defense managed to be easy enough
+against attack but what does that mean
+easy enough let's unpack what it really
+means today when we talk about cyber
+defense being easier than Cyber attack
+or at least when we claim that cyber
+defense is Affordable that cyber defense
+is sustainable today right there's a
+reason why our internet still works
+today it hasn't been totally overrun by
+cyber terrorists why is that well the
+claim is actually a claim about cost
+structure what does that mean to say
+defense is easy enough it means the
+scarcity of the resources required to
+defend isn't too bad you can get the IQ
+points you can get enough Engineers
+applying their brains to help you defend
+to do the job you're not going to have
+overwhelmingly high IQ on the attacker
+side overwhelmingly High effort
+overwhelmingly High funding the amount
+of funding and IQ points that you can
+apply on the defense side is going to be
+enough the problem I see is what happens
+when IQ points become a commodity and
+suddenly if you want to spin up a mad
+like team to work for you or your own
+personal NSA to run for 30 seconds of
+clock time in Amazon's data center you
+can do that and you can get this
+ridiculously powerful attack and now is
+every single random website that you
+want to hack going to be defending
+against this hyper targeted attack
+overall I'm not super confident about
+Cyber attack becoming easier than cyber
+defense until we get really close to AGI
+I think if you just look at the next 5
+or 10 years assuming we don't quite get
+to AGI in the next 5 to 10 years I would
+say that I'm like 50% confident that we
+can have defense keep holding out
+against attack compared to arvin's 5 to
+nods which is 83% I'm not super
+confident one way or the other I just
+think by the time we get to AGI you're
+going to have end runs around whatever
+you think is your defense so you have
+these super powerful layers of defense
+that you build but the AI is just going
+to launch a th000 social engineering
+attacks in parallel and you just can't
+do red team exercises to fight against
+every social engineering attack
+happening constantly against the humans
+in your life right or the AI is just
+going to find other end runs maybe it'll
+do a side Channel attack against the
+devices in the company's data center
+like that's the whole point about
+intelligence is it's outsmarting
+you before we get to AGI if we only have
+subhuman or sub NSA level intelligences
+tackling the problem of attacking you
+maybe defense still holds out against
+attack so once again the fundamental
+reason why arvind and I don't see eye to
+ey is that I'm constantly expecting
+super intelligence to actually come and
+he seems to never feel like that's worth
+talking about he's just like not
+predicting super intelligent agents that
+are more powerful than humans he just
+doesn't see it in his worldview and
+that's why he can find it plausible to
+be like yeah defense seems to have a
+good advantage over attack like we're
+going to be all good on that front and
+he may even be right but ultimately I
+encourage him to just look at Super
+Intelligence coming down the pike okay
+so now Rob challenges Arvin to consider
+something like a super intelligent
+attacker he asks about an autonomous AI
+that's kind of gone Rogue on the
+internet which to me seems to imply
+super intelligence at least in the
+domain of like hacking or something I
+mean to me that sounds like a pretty
+scary situation let's see arvin's take
+on that
+scenario I'm imagining like a pretty
+scary Rogue AI that could result once
+you have let's say 10 20 years from now
+pretty autonomous
+flexible piece of you know Machinery
+that a bad actor deploys and gives it a
+very broad swap like I want you to take
+over every every power grid and do
+whatever it takes right uh I I I would
+imagine that if something like a rogue
+AI is is to be worried about in the
+near- term it'll be more like that where
+you got a bad actor who wanted to give
+it a lot of economy and devastating
+goals yes I absolutely yeah we should be
+worried about that and uh you know
+people who work in cyber security are
+taking that very seriously there are
+hundreds to thousands of people working
+on this problem they're constantly
+testing uh autonomous techniques for for
+finding vulnerabilities it's a very very
+active area of research we're not trying
+to minimize that problem we're you know
+we're we're pointing out that I think
+the the cyber security Community has
+been very on top of these emerging
+threats for the last 20 plus years and
+they are on top of these emerging
+threats right now um and again it's
+possible this will change in the future
+but for every attack technique you can
+think of the Defenders have access to
+those same techniques and at least in
+the case of big tech companies and
+governments they're very very
+well-resourced Defenders who can uh
+deploy them uh in ways that that that
+are really powerful Arvin is saying yeah
+you might have this Rogue AI virus on
+the internet trying to hack into every
+Power Station and hospital and food
+supply chain and bank but our top
+researchers are on it we got a good
+handle on it and we always have okay
+maybe right maybe that'll hold but
+there's two loadbearing assumptions I
+see here number one Defenders have
+access to the same technique okay notice
+that doesn't really get you far in the
+physical world the United States
+understands exactly how it works to fire
+a missile into our territory and have
+the nuke explode we are intimately
+familiar with what it takes that doesn't
+mean that we have a working missile
+Shield that can defend against a bunch
+of missiles coming in and splitting off
+into decoys you know like a MV which
+stands for multiple independently
+targetable re-entry vehicle so a bunch
+of Ms coming in some of which have real
+Warheads some of which fire out a bunch
+of decoys all coming in at supersonic
+speeds we have some missile defense but
+last I R we don't have nearly enough
+missile defense to hope that none of
+these large nuclear warheads are going
+to explode in our territory and kill
+many millions of us we just don't have
+that technology even though we
+understand plenty about nukes so the
+loadbearing assumption that like oh yeah
+we'll just take a look at every attack
+and we'll build our defenses around it
+doesn't quite work like that in every
+domain how does this translate from the
+physical domain to the Cyber domain well
+you can have people who work at your
+company who are really good at Social
+Engineering and they understand the
+range of social engineering attach
+but they still can't hope to fight off
+precisely targeted mad level social
+engineering attacks when they build
+their systems they have to be like look
+this system is just going to be pretty
+good but I don't know a way to
+successfully fight off every attack that
+I can realistically expect so it doesn't
+help me sleep at night that much to just
+know that Defenders are getting access
+to the type of attacks that attackers
+are working with another example is hey
+the US has access to cheap drone
+technology that doesn't mean that we can
+defend against a giant Satur attack with
+thousands of drones all coming at us
+attacking an aircraft carrier or a tank
+or some of our super expensive military
+assets that are supposed to be usable
+for years not Expendable this would be
+another example where understanding
+these types of attacks doesn't mean we
+have a plan for how to defend our
+territory against them so that's
+loadbearing assumption number one
+Defenders having access to attackers
+techniques doesn't necessarily help us
+and then loadbearing assumption number
+two is the idea of being a
+well-resourced Defender when you think
+about who's well resourced you generally
+think about like Google or the United
+States government or the Chinese
+government those entities are well
+resourced for cyber defense in terms of
+money and IQ points the problem is we
+may find ourselves in a situation where
+a super intelligent AI virus has
+commandeered so many resources in terms
+of computer chips and humans that are
+doing its bidding it might have
+established such a firm foothold in
+these different ways that suddenly it's
+the one with the giant footprint it's
+the one that's well resourced and
+instead of modeling it as hey this giant
+AI is attacking the NSA it's more like
+this AI has a really good foothold and
+it's just trying to defend
+itself so if you think defense is easier
+than attack okay the AI is going to
+defend itself because it got an early
+lead before all of our defenses were up
+it's too late because now you have this
+more powerful enti in terms of like n IQ
+points and it's defending itself so
+we're not even the Defenders anymore
+we're now the attackers trying to seize
+back that which we lost because it was
+the first mover the botnet is the
+defender see I just pained a scenario
+where the nature of the attack defense
+distinction totally
+dissolves if AIS can seize a botn net
+Defending yourself against that botnet
+is really the act of attacking that
+botnet n even if you think don't worry
+defense can win over attack you should
+still worry because there's a very
+possible scenario where if the AI spart
+enough the tables are going to be turned
+we are going to be the attackers it's
+going to be the defender and it's just
+going to keep defending it's going to
+win as
+defense okay so that's every part of
+arvin's podcast with Robert Wright that
+I wanted to share with you I didn't
+include the majority of what they spent
+their time talking about which is stuff
+like AI is over over promising and
+companies are trying to use it to filter
+candidates but it's not working well and
+it's so hard to get these systems to be
+robust like what if companies use AI to
+evaluate candidates for hiring but
+there's a bias or what if social media
+censorship is based on AI but it gives
+you inscrutable policy decisions and
+humans should write clearer laws to
+follow or what if judges try to decide
+penalties in the legal system using AI
+but that's not robust basically Arvin
+only likes to talk about situations
+where we don't have ASI yet we don't
+have artificial super intelligence so
+human intelligence still matters we're
+still the ones in control we're still
+the ones steering if I lived in arvin's
+world I would be happy but I wouldn't be
+here making a debate show I wouldn't be
+squabbling over oh my God how do we fix
+privacy on social media in the age of AI
+or how do we fight bias and AI assisted
+hiring I'm not interested in those
+relatively minor problems conversely if
+Arvin lived in my world a lot of his
+claims don't make any sense you don't
+get to say AI is just another technology
+when it's about to be smarter than its
+creators and it's about to potentially
+prevent its creators from ever turning
+it off when it's about to potentially
+turn the tables and become the defender
+and put its creators in the position of
+being the attacker when attack is harder
+than defense right that's what we just
+discussed those things are not just
+another technology if they happen we
+suddenly find ourselves in a position
+that we're not prepared for a position
+where we suddenly no longer have the
+power to steer the universe we don't
+have the steering wheel suddenly we're
+like the snail crawling around trying to
+find snail food and the AI is like the
+human now the AI is the smarter agent
+the snail is not going to be able to
+regain leverage over the human it's too
+late once you snailify yourself you're
+done it's over the other agent is going
+to ignore the snail or step on the snail
+or if they're French they're going to
+eat the snail
+that's when it looks like when there's
+an optimization power difference That's
+too great to
+overcome getting back to my fundamental
+Crux of disagreement with arvind which I
+think is just our expectation of super
+intelligence I wonder if arvind even
+thinks there's that much Headroom above
+human intelligence that AI will
+eventually get into or whether he thinks
+no human intelligence is about as close
+as we're ever going to get to the
+ultimate intelligence there's just not
+that much headro above Humanity I wonder
+if he thinks there will ever be agents
+who are to us Godlike as we are to
+snails and if he says sure yeah at some
+point in a thousand years those kind of
+Agents will exist whether they're our
+biological descendants with bigger
+brains or whether there's AIS maybe
+he'll agree that yeah at some point
+there's lots of headro above human
+intelligence but then if he agrees that
+there's a lot of head room above human
+intelligence and he looks at the
+trajectory of the last decade or two you
+know hey wh Mo cars are driving in San
+Francisco autonomously now chatbots have
+suddenly mastered language they learn a
+concept and they can apply it pretty
+flexibly as if they actually understand
+it that didn't used to be the case if
+you extrapolate the trajectory of how
+fast things are going how fast the
+impossible is becoming possible and you
+also agree that there's headro above
+Humanity you don't think that that
+headro might be entered soon and my
+final question for arvind is what's the
+weirdest and the most gamechanging or
+sci-fi thing you predict is about to
+happen with AI I get that he's a skeptic
+and he leans toward calling everything
+snake oil and expecting normality but if
+you look at the last 50e period and
+presumably The Next 50-year Period
+there's always going to be some crazy
+weird things it's not like the next 50
+years are going to be super normal my
+sense of Arvin is that he has this
+comfort zone where he wants to treat AI
+as normal I mean he literally says it's
+just another technology so he hasn't
+made any predictions that are super
+weird or sci-fi if that's really youro
+where you always only want to think
+about things as staying normal then
+you're predictably going to get
+blindsided right cuz the future is not
+going to be normal there's going to be
+some weird sci-fi elements so I wonder
+if he's ever made any specific
+predictions if he has any specific
+expectations of something that's going
+to get unprecedentedly weird of
+something that seems straight out of
+Science Fiction what is he expecting on
+that front I can imagine he might
+respond look I don't have any specific
+expectations I'm just expecting
+something weird but any particular weird
+prediction I make now is probably going
+to be wrong I would respect him if he
+said that I Just Disagree because I
+think the obvious candidate for
+something weird in sci-fi is super
+intelligence the trajectory seems to go
+straight there but I'm still curious
+about his answer it would help me
+understand how arvin's brain works a
+little
+better that's it for this episode by the
+way if you haven't seen last week's
+episode I definitely recommend checking
+it out because a lot of people are
+saying in the comments that it was their
+favorite episode it's a debate with me
+and Dr Keith Dugger who's one of the
+co-hosts of machine learning streets
+talk Keith was generous enough and brave
+enough to come into the lion's den and
+just go head-to-head taking me on on all
+the different points that I disagreed
+with him about Keith was a great Sport
+and the resulting episode I think was
+classic Dune debates really the kind of
+debate I'm going for where we hit on the
+issues and we model what it looks like
+for two people who disagree to get the
+issues out there productively personally
+I really enjoyed it and I'm planning to
+host a lot more of those kind of debates
+on my show getting back to the topic of
+this episode and Arvin Nan's claims
+about the limits of AI and Cyber attack
+versus
+defense sound off in the YouTube
+comments let me know what you think and
+by the way if you're only watching this
+on YouTube and you haven't checked out
+my substack or subscribed to the podcast
+consider doing that Doom debates.com
+that's my substack you can type in your
+email I'll be able to email you stuff
+sometimes I email bonus content you
+could also become a premium subscriber
+and then you can get even more bonus
+content check it out if you're
+considering subscribing you're doing an
+expected value calculation let me tell
+you this the downside is
+low thanks for watching and I'll see you
+on the next episode of Doom debates
