@@ -1,0 +1,2763 @@
+hey everybody Welcome to Doom debates so
+as you may know in a few days we've got
+an upcoming debate with a very special
+guest Dr Robin Hansen the legendary
+Robin Hansen he's somebody I've been
+reading for many years one of my biggest
+intellectual influences and I'm getting
+ready to debate him on AI Doom because I
+really disagree with him on AI Doom he
+thinks we're going to be fine the
+probability of Doom is low
+I think the probability of Doom is high
+so it's going to be a lively debate but
+I've got a teaser for you right now
+before Robin Hansen debate which is as
+part of my preparation for the robin
+Hansen debate I'm going to be taking the
+ideological Turing test meaning I am
+going to subject myself to a test of
+whether I know Robin Hansen's position
+as well as Robin Hansen does and the way
+the test works is that I'm going to
+become Robin Hansen I'm going to go
+undercover in this debate as Robin
+Hansen and I'm going to argue as
+strongly as I can for the non- Doom
+position the strongest possible version
+of what I see as Robin Hansen's position
+and my opponent is another special guest
+my new friend David
+Zoo yeah so uh hi everyone um yeah so my
+day job is as a software engineer but in
+terms of like my relevance to like this
+conversation specifically and like the
+kind of AI space um I would say I first
+got familiarized with familiarized with
+these topics through like the less wrong
+Forum back in the early 2010s um
+originally my path into the space was
+kind of mediated more by my interest in
+rationality which there's a lot of
+writing by Elie y Kowski that that was
+on that Forum but eventually I you know
+I encountered all these AI Doom
+arguments which originally for me like I
+I wouldn't say like I didn't buy them at
+the time I definitely like thought that
+they were like you know intellectually
+interesting and very like persuasive but
+for me for me and I think for most
+people at the time because we didn't
+have all the like large language models
+running around it was a bit more of a
+purely intellectual exercise than it was
+like necessarily something that we did
+on an intuitive level would happen in
+reality and so in more Rec as that's
+been getting closer I think it's got a
+lot more real for all
+this yeah no I feel you as my real self
+I agree that's my perspective too all
+right David I will be going fully into
+character as Robin
+Hansen cool hello dve
+David hi
+Robin so David what is your claim about
+AI
+Doom yeah so um my claim about AI do I
+would say is pretty simple it's that
+we're on the cusp of creating an outof
+control agentic gold directed
+superhumanly intelligent artificial
+system that is going to very rapidly
+disempower humanity and possibly lead up
+lead to the extinction of the entire
+species that's the Doom claim in a
+nutshell okay but just to give some
+context on that claim what do you think
+the future would look like even if we
+didn't create
+um I mean I would expect significantly
+lower probability of Extinction which I
+think is a good thing like I I I don't
+really like know where you're trying to
+take the conversation with this question
+so
+like where would you expect the future
+to go without AI let's
+say well the reason I bring this up is
+because people keep bringing up the
+concern that AI is going to lead to doom
+and lead to Extinction and these are
+powerful words but the other scenario
+where we don't build AI but we just keep
+having descendants don't those
+descendants also change quite a lot so
+what exactly is it about the far future
+that makes you consider it Doom when AI
+is doing it and then it's not Doom when
+your human descendants are doing it
+what's the difference I don't expect our
+human descendants to drive us all
+extinct
+but like to to kill us all to use more
+colorful terms like I expect that to be
+but when you say us where do you draw
+the boundary of us because the AIS are
+arguably your descendants right um
+so my perspective is that the AI systems
+were likely to create via the current
+processes that we have going on are very
+unlikely to be human or humanlike and
+the relevant Dimensions that would like
+make make
+them that that would make it reasonable
+to consider them our descendants in a
+way that in the same way that we would
+consider our like actual biologically
+human descendants to be our
+descendants so okay well I think that
+gets to the C of the argument right is
+people have a lot of preconceptions for
+what deserves to be called your
+descendant but for context I would say
+that a lot of people in the past when
+you describe the values of the present
+they would hesitate to call us their
+true descendence we would seem
+misaligned to them so are you sure that
+you're adopting a sufficiently broad
+view of what should constitute a
+descendant um I would say that I'm
+fairly open to the idea that our future
+descendants our actual future
+descendence will have like significantly
+different values from our own they're
+going to have like senses of what's
+moral I'm open to the idea that they
+might even do things that from my CRI
+standpoint I'd find like repugnant
+but very strong claim I can make is that
+for example the class paper clip
+maximizer thought thought experiment the
+AI in that thought experiment is not my
+moral uncertainty is not wide enough to
+include a system like that into the list
+of like things that I would endorse as
+being my descendant in any any any real
+way so like would you say that like a
+paperclip maximizer would count as like
+Humanity's descendant if that like ends
+up
+happening well it depends on the details
+of what you're calling a paperclip
+maximizer I don't think it's a
+particularly realistic scenario I think
+all of the scenarios that you think of
+as a very effective AI doing a lot of
+optimization those scenarios are
+actually quite rich and contain a lot of
+the stuff that we would find valuable
+right so then that sounds like a
+concrete disagreement about the
+properties we expect to get out of super
+intelligence systems so by default I
+expect the gold directed systems that we
+end up building to not be gold directed
+in any way like in any way that we
+engineered I expect those gos to just
+kind of arise out of the training
+process in a way that's much closer to
+the way the humans evolved than it is to
+any kind of
+explicit EX explicit programming of our
+values into the systems and
+correspondingly I expect those systems
+to pursue those Gos in ways that are
+like essentially like the paper clip
+maximizer obviously the
+exact definition of what a paper clip
+maximizer is or isn't um can be disputed
+but the point is that I expect these
+systems to be vastly different from us
+in a way that basically obviates any of
+the anything that we would recognize as
+valuable but do you even know which goal
+you're hoping to put into the system
+um if you're asking if I can formalize
+it no but like it's kind of an you know
+it when you see a thing and
+correspondingly you know when you're not
+seeing it you
+know well what specifically do you think
+you're not going to see from a eye that
+you would see for sure from your human
+descendants I would expect to see
+conscious flourishing from Human
+descendants assuming they were anything
+like remotely recognizable as human and
+I wouldn't expect to see that from just
+like an arbitrary super intelligence AI
+that grew out of stochastic read scent I
+mean Consciousness is usually a pretty
+model term is there something more
+concrete and well defined that we can
+say well I mean I think we we can both
+agree that current humans are conscious
+right I don't I'm not claiming to have a
+grounding for Consciousness I'm just
+saying whatever we have now if we allow
+an arbitrary agent to come in and like
+do do their thing do their optimization
+the thing that we have now is a very
+narrow slice of the things that the
+possible configurations that atoms could
+be placed into so if you just imagine an
+agent coming in and like having this
+essentially random optimization function
+and optimizing the state of our Earth
+according to whatever that function is
+it's not going to it's not that's going
+to have like essentially zero overlap
+with the state of things that we would
+consider about so we might use words to
+describe those things like conscious
+creatures conscious flourishing but like
+regardless of whether you want to use
+those words my claim about the way that
+go oriented systems function is that two
+systems that have like different goals
+are going to pursue them to very
+different extremes of the state space in
+a way that like essentially leaves no
+room for
+overlap okay so it sounds like your
+concern is just that values are going to
+be drifting but value drift is just
+something that happens regardless right
+I mean are you really trying to pin down
+the whole Futures values well that's why
+I brought up the paper Maxim right right
+so I'm interested in whether you
+think um that a paperclip maximized like
+even by like whatever your Cosmopolitan
+conception of values is do you think
+it's broad enough to include a literal
+paperclip maximizer or would you say
+like no I I I draw the line somewhere
+before
+then I mean if it's just the word
+paperclip maximizer it kind of has the
+connotation of something that's not fun
+right or it it just you're kind of
+saying something with a negative
+connotation but when you get concrete
+about any scenario that's at all
+plausible it sounds to me a lot like
+what I do imagine our human descendants
+would do which is like it's going to
+have a lot of complexity it's going to
+have an economy it's going to have trade
+it's going to have expansion it's
+probably going to be grabby so I don't
+I'm not repulsed by that kind of
+scenario just because you apply a label
+on it like paperclip maximizer I think
+you're you're losing the similarity
+between that and human
+descendants yeah but I'm doing that on
+per I'm claiming that the paperclip
+maximizer or something akin to the
+paperclip maximizer is much more likely
+than anything that you would group in in
+the human descendant category so like we
+don't have to talk about paper clips
+right we can talk about like you know
+machines that want to maximize like
+pieces of paper with like the
+cryptographic hash of some like
+increasingly complex like
+strings we talk about a system that like
+for whatever reason ends up wanting the
+maximize that
+um regardless of like what exactly we're
+talking about my claim is that the
+majority of like the things that I could
+mention that are in this space are going
+to are not going to be things that you
+or I or anyone would recognize as even
+plaus as even plausibly valuable to
+anyone so it sounds like you're claiming
+that you know like these AI systems for
+some
+reason once they once they kind of blow
+up they're going to end up with a subset
+of the possible values that they could
+have and and that subset is going to be
+something that we're going to like
+somehow recognize as even if like not
+identical to our own values we're going
+to still someh us see that there's
+something worth preserving there there
+that there's something worth calling
+are descended whereas I just think that
+the space of values is far wider than
+you're giving it credit for like what
+like I don't like how large do you think
+the space of optimization function is
+how large do you think the space of
+functions over the physical universe
+that if maximized would produce like
+different configurations of how large do
+you think that space
+is I think it's a large space and it has
+you know aliens from other planets are
+also going to be occupying a different
+region of the space I'm just not really
+attached to features of the present day
+that they may seem important to us today
+but you you have to account for drift
+across generations and I'm happy to just
+think that there's going to be more of
+the same kind of drift we've seen and I
+don't want to try to impose a top down
+rule trying to pin present day values
+because I think that that's going to
+make a lot of compromises in fact it's
+going to prevent us from successfully
+spreading throughout the Universe when
+we have all these
+compromises so you think that a system
+for example that just ends up like
+disass resembling the entire Earth
+including you know all the living
+biomass which includes us for and just
+like repurposes as like computation of
+substrate for like something we don't
+have to specify the
+thing you think that there's a good
+chance that if that happens the
+resulting future will still be something
+that we like from outside perspective we
+would recognize as
+valuable yeah I mean if you look at the
+kind of fads that Human Society has
+today it's like okay we're really into
+movies in particular right that was
+something that ancient Society didn't
+quite have um or you know we're into
+we're into like video game speeduns
+right there's like a whole subculture
+that's into video game speedruns so if
+something like the craft of paper clips
+was the next video game speedrun and
+that was like a very large fat of a
+future Society to me that doesn't seem
+like a disaster
+scenario even if like there were no
+conscious entities around like again I
+don't have to like I understand that
+like I haven't defined Consciousness but
+let's just say you know whatever this
+fat is it doesn't involve the specific
+systems that we would describe as
+conscious would you still say that
+that's a good or acceptable scenario
+it's hard for me to make a judgment
+about something that's so fuzzy right I
+mean if if you look at somebody who is
+conscious for a reason that you like
+maybe you'll notice them having fun but
+I think fun is a feature that's proven
+to be quite stable over the eons so I
+think you're because fun is a way that
+agents kind of learn right it's
+reflective of a learning phase where you
+do something where you're not doing it
+seriously you're doing it in order to
+explore possibilities in a space and I
+think you're still going to see
+something that's the the future
+equivalent to fun so even if you don't
+call it Consciousness or you don't see a
+physical smile it may still be the
+drifted version of the values that we'd
+endorse okay
+um I guess at that point then I would
+just ask you like
+what is there a class of scenario that
+you would
+agree
+that would be bad is there because it s
+you're kind of arguing that like I
+haven't heard you like say a like
+describe a single outcome that would
+actually be considered bad so is it just
+your position that like no outcomes are
+bad like every outcome is equally good
+or no no no I I think so I do support
+compensating for obvious harms like if
+the AI were to go and gun down a bunch
+of people right I think there should be
+Li ility for that and I think we should
+take the obvious simple measures to
+prevent that the same way we use those
+kind of measures in other areas of the
+economy um so I do think that there is a
+bad scenario it just seems like the
+future catastrophes that the doomers
+paint those are actually closer to just
+describing weird features where that's
+kind of how history flows regardless
+right so that's the distinction I would
+make so what would be an example of a
+bad scenario to you like could you just
+paint like it doesn't have to be like
+super detailed but just like a concrete
+example of something that you would say
+like that's like not
+acceptable well if alas owski scenario
+where he calls it a fum where the AI
+suddenly gets really powerful and
+suddenly kills every human and takes
+full power um that exact scenario seems
+pretty bad but the problem is it's it's
+just an implausible scenario to me right
+it's it's it's based on principles that
+I don't think are
+self-consistent um but yeah but he he
+kind of paints a a villain scenario that
+that is I wouldn't want that oh okay so
+I I think that and we discovered a point
+of convergence because I also agree that
+that would be a bad scenario that we
+want to avoid it sounds like we have an
+empirical agreement about How likely
+that is to happen right so you said that
+like some of the principles that are
+being like invoked
+to imagine that scenario are aren't
+self-consistent I'm interested to know
+like what you mean by
+that yeah so the whole idea of fume it's
+based on a Model that just has no
+empirical data to support it right it's
+the idea that a single system within the
+larger economy uh what I've called The
+Uber tool in one of my posts like it's a
+firm that builds a tool and instead of
+releasing it and capturing some market
+share and letting other firms build on
+it and having the whole ecosystem
+progress instead of that they guard the
+Uber tool they say this tool is so great
+we're just going to use it to build the
+next tool and eventually 5 years later
+they've got something that's worth more
+than the economy combined so this is
+this unprecedented thing in the economy
+that all the research we've done in
+economics just shows that this kind of
+thing isn't the case and alaz yasi based
+on pure conjecture based on a Model that
+he thinks is preferable is saying that
+we should expect this kind of uber tool
+scenario and it's going to you know to
+the degree that it takes over the entire
+future so I I'm just not following his
+logic because I tend to stick toward
+expert consensus and you know research
+papers and I I defer to experts right I
+I try to make sure that I've got a solid
+grounding in what I'm going to predict
+so on the topic of deferring to experts
+I guess I would say like currently there
+seem to be like a substantial list of
+experts in like he feels like deep
+learning for I could like Jeffrey Hinton
+for example as one example um like
+probably the most prominent example but
+there are others as well it seems like
+you know expert expert consensus is
+something that can and does shift over
+decades and more recently years so if
+your position is just based on following
+the expert consensus wouldn't you say
+that the increasing number of experts
+who have been voicing their concern over
+like these AI risk scenarios wouldn't
+you say that that merits an update from
+you even if like you're not convinced by
+like some of the object level models
+that are being put
+for well I'm 64 years old and I've seen
+many cycles where people tell me that
+super intelligent AI is right around the
+corner I actually worked in AI in the
+80s and 90s and every time they're
+saying oh wow this new breakthrough is
+going to lead to super intelligent Ai
+and I agree that the modern
+breakthroughs are impressive but I've
+seen them be impressive in past
+generations and then usually it just
+leads into an AI win
+so just because I see some experts today
+telling us oh wow AI is coming in a few
+years that doesn't really change my
+perspective that much I think we'll get
+it eventually but I think AI experts
+always tend to be optimistic and
+eventually we'll probably just keep
+getting pieces one piece at a time and
+the economy will come along and I just
+don't update that much on yet another
+generation of AI experts telling us AI
+is coming soon okay but like let's look
+at the actual facts on look at the
+observations that we've been seeing in
+terms of like current models
+capabilities and what they're able to do
+do you agree that gp4 seems
+significantly more capable and
+significantly more generally capable
+than gpt3 which was in turn more more
+capable than
+gpt2 yeah I think so yeah so would you
+not point because I understand you like
+to reason in terms of Trends would you
+not agree that that seems to be a trend
+that's pointing in the direction of
+increasing capability increasing
+generality that seems to reflect
+something like what elezar was
+describing
+when he talked about like the creation
+of these gold directed
+agents well it's a trend but it's not
+necessarily a trend of going all the way
+to full general intelligence right I
+mean there's so many different pieces of
+general intelligence so that Trend may
+not be a trend that goes all the way
+toward performing economically valuable
+jobs it may just be a trend that goes
+all the way toward passing every test
+that they give you in
+college okay so in that case it sounds
+like
+you I mean so I'm gonna bring up
+something you said in the past you said
+that like
+the total amount of Revenue the total
+amount of economically productive work
+essentially that can be generated by AI
+systems is going to be capped and I
+think you you cited a specific number
+for that cap of like 1 billion US doar
+now that's already been like blown past
+just by the revenue like generated by
+open AI alone so I'm like I'm wondering
+whether like that constitutes an update
+on your end and if so by how much so I
+agree that I was pretty surprised
+because I thought that the amount of
+economic value created by this new
+generation of AI would probably be less
+it's pretty rare to see these kind of
+spikes but then again I mean they do
+happen every decade or two right so this
+is just another one of those high points
+I don't know how many more there's going
+to be but I've already seen a few so
+sure I updated a little bit but the
+underlying logic of why fum doesn't
+match any of the economic Trends or any
+of the economic theory that we have I
+don't think that those ideas were
+undermined very much uh I think it's
+just kind of a slight up State on like
+okay maybe we can knock off a decade on
+on the estimate of how long it'll take
+but maybe it'll still take many decades
+okay so it sounds like there's something
+well first of all I'd like to ask like
+is
+there now that the previous Benchmark
+you've said has been like kind of
+ccass is there a
+new prediction that you'd like to
+propose some like cap on how hard these
+systems are going to
+like you say that fum like isn't a very
+plausible scenario so like that means
+that you probably think these systems
+are going to saturate at some point
+right before like they end up taking
+over the entire economy or whatever so
+could you just give like a concrete
+example of like a metric where you think
+that we're going to see that saturation
+happen yeah so maybe a fum would predict
+that in the next decade we'll suddenly
+see 10% or more of world GDP accounted
+for by the functioning of new AI I think
+that would be more consistent with fum
+so I would be surprised to see 10% of
+world GDP attributed to new AI from the
+last few
+years okay
+and if that happened like let's say we
+observed that would that suffice for you
+to reconsider your view of what
+intelligence is and the type of work of
+capable of
+doing it might somewhat because I mean
+you know to take the extremes here I
+mean if it was like one year and then we
+had suddenly 10% of world GDP next year
+at that point I'd be like okay well this
+this is so rapid that it's not how I
+expect things to play out so I would
+update based on that kind of evidence so
+I think that might be a meaningful
+prediction from my side of things that
+economic growth due to AI should be
+slower than that okay so it sounds like
+there even though you speak it a lot in
+terms of economic Trends there is there
+is this underlying mechanistic model of
+intelligence that you're saying like
+would be surprised by certain outputs
+like there are certain outputs that you
+don't expect currently because your
+model of intelligence prohibits them so
+what like what do you think intelligence
+is like what's your model here yeah and
+well we should clarify it's not because
+I have such a deep mechanistic model of
+what intelligence is I think nobody does
+but it's because I take the outside view
+right I just know what economic Trends
+look like right we've studied Dynamic
+systems the economy is many agents that
+are all trying to maximize their own
+well-being and we have a lot of research
+on the kind of equilibriums you see in
+those kind of large systems and I think
+it would be unprecedented for an Uber
+tool situation right where one firm is
+able to neglect so much of the economy
+right so of trade so many other inputs
+so I'm actually taking an outside view
+when I say we're not going to get a fum
+we're not going to get 10% of GDP going
+into such a small number of firms within
+such a short time scale so you know just
+wanted to quibble with with you
+asserting that I'm claiming a
+mechanistic understanding but you're
+what you're doing when you say that is
+you're implicitly placing intelligence
+into like the same reference class as
+all of these other things that you
+mentioned so for example you've you've
+talked in the past about like the
+importance of farming right that that
+was like one of the one of the key
+transitional periods in in your model of
+like how civilizational development
+happened
+but do you do do you think that farming
+and what I'm calling intelligence really
+belong in the same reference class like
+by what reasoning do you like are you
+just putting these things in the same
+category and drawing conclusions about
+one based on the
+other so the reason why I bring up
+farming a lot I bring it together with
+the Advent of human brains um the you
+know the Advent of forgers and then you
+get the Advent of farming then you get
+the Advent of Industry those are the
+most Salient shifts where the economic
+doubling time got significantly reduced
+so if you just look back at the human
+economy what sticks out it was foraging
+and then farming and then industry and I
+try to use that context to say okay if
+AI is driving the next transition what
+do those kind of transitions generally
+look like as a shi as the system shifts
+into the next gear and actually I think
+it would extrapolate the trend to say
+that the next transition like that is
+coming maybe in the next Century or two
+maybe even in a few decades um so I
+think a transition likely is coming and
+my model would say that the new economic
+doubling time should be in the ballpark
+of about a month instead of like a
+couple decades like it is now because
+the doubling times tend to really
+compress when we shift gears like that
+so I do actually think that AI could
+drive a new gear of the economy and you
+might actually start seeing major GDP
+increases I just don't think it would be
+a f scenario with one company right with
+one single node in the economy running
+away with everything I think it would be
+the economy as a whole running in a
+higher gear as we saw the last couple
+times so you don't think that there are
+these like win or take all Races the
+bottom dynamics that we're currently
+seeing with AI companies where they're
+kind of racing to comp each other on
+various metric cap so you don't think
+that one of them is going to get there
+first because of how this how this
+situation is
+structured no I mean it's one of the
+most robust facts that we have in the
+literature about the economy that you
+don't just have a firm runaway with
+everything right you have economic
+growth propagate into a lot of different
+stakeholders but that has to happen via
+some mechanism right like if we're going
+to talk about like the Industrial Age
+the reason that happened was because the
+proliferation of the technology occurred
+on a fairly gradual basis and like the
+technology might might have sped up
+production in certain areas but it did
+that on a fairly continuous and gradual
+basis whereas with these the Advent of
+these intelligent systems we're talking
+about like a completely different type
+of work we're talking about systems that
+can essentially perform in the limit I'm
+talking about like future systems not
+current systems but we're talking about
+systems that can perform any kind of
+conven work that humans can perform and
+perform it better don't you think that
+the introduction of an entity that can
+do that is qualitatively different than
+the invention of like farming or or like
+the Industrial Revolution
+I mean not necessarily right because
+it's like yeah it can it's it's great to
+speed up everything in the economy but
+we had writing right and if you look at
+the invention of writing you could make
+the same argument hey writing can speed
+up everything right it can make any
+organization more productive if they can
+write things down or it could even make
+any individual more productive if they
+can write things down and yet when you
+look at the economic record you actually
+don't see writing making a a big gear
+shift the way you see it with farming
+and Industry so this mental model where
+you're so
+prioritizing these optimization
+processes that you call them right like
+you're so focused on what you call
+intelligence and the ability to think
+better that's just not how things
+actually play out empirically in terms
+of what shifts the economy into a higher
+gear in terms of okay so what on your
+model rules out the standard like f
+story so like suppose I were to tell a
+story about a system that like maybe
+maybe with slightly better than human
+engineers at not even not even like
+everything just at engineering the next
+generation of AI systems and that
+produced a feedback loop what's
+generally referred to as recursive
+self-improvement where you have the next
+generation of the system of produce an
+even more capable further generation and
+so on and so forth until you end up with
+a system whose capabilities are
+essentially unimaginable so that seems
+to me like a logically conceivable
+possibility and it seems to me that you
+like none of your economic arguments can
+really deny that that's a conceivable
+possibility you just you just think of
+course I I agree with you remember I do
+rate that at some point could be in the
+next decade could be in the next Century
+at some point I do think we're going to
+see another gear shift and we're going
+to see shorter doubling times that would
+be totally consistent with my outside
+view model I just push back on the idea
+of a fum within one small node instead
+of within the economy as a whole but
+these systems are indiv they're
+individually modularized right like we
+there are there's like one gp4 model and
+then there's they're modularized but
+once you're making an assertion that
+they start taking power and they start
+having a massive effect on the economy
+and the ecosystem once you get into that
+point then all of our experience tells
+us that they bring the economy along
+with it right they have inputs and
+outputs they have connections to other
+stakeholders and other vendors right and
+and customers so you don't just get the
+fum isolated in one agent like
+that I guess I I still don't understand
+like what why not like what rules that
+out that that that's scenario where you
+just of course it's logically possible
+it's logically possible but I'm the one
+coming in with the defaults here right
+I'm coming in with the outside view I've
+read the literature right the the
+reference I'm yeah I'm bringing a
+reference class that has to do with
+human economic growth yes reference
+classes can be arbitrary but your
+reference class is just a model that you
+like right you've got even less support
+for your reference class than mine well
+I would say the reference class that I'm
+using is the reference class of
+qualitative increases to intelligence so
+one one other thing that could be placed
+into that reference class is the
+evolution of creatur es with a brain the
+evolution of creatures with the with the
+ability to like react
+to react to and model the environment
+using some kind of internal
+correspondence of their internal to that
+environment previously before that the
+most powerful optimization process in
+the universe was just natural selection
+which operated on a vastly slower time
+scale than in individual agents do even
+not very intelligent agents like animals
+so that would be one event that I would
+Place into that reference class the
+evolution of a more efficient op ization
+process than Evolution and then we can
+extend that to specifically the
+emergence of homo sapiens which I don't
+think anyone would disagree have vastly
+outcompeted every other species on the
+planet in terms of taking over like
+various niches and not doing so in like
+a very aligned or friendly way towards
+those species there are vast amounts
+of species that no longer exist because
+we exterminated them not not because we
+wanted to necessarily but just because
+doing so was expedient to some of the
+other goals that we had that would be
+unimaginable to like those those species
+of animals so that's the reference class
+that I'm using and you're saying that no
+no no no we can't use that reference
+class we have to use my your preferred
+reference class which is like you you
+put things in that category like like
+farming or writing or the Industrial
+Revolution and it just seems to me that
+if we think in terms of qualitative
+similarity the reference the reference
+thought that we should be using is the
+one where you have all these
+improvements and capability being
+unlocked by this one metric that we ref
+refer to as intelligence we could also
+call optimization power and it sounds
+like you have to deny that that's a
+thing you have to deny that there's such
+a thing as optimization power in order
+to argue that that reference CL doesn't
+make
+sense so you're asking us to focus on a
+couple data points that you think are
+significant you think it was very
+significant when the human brain emerged
+and you think it was very significant
+when natural selection began and we had
+the first life on Earth and I agree that
+those are two absolutely significant
+points for sure but you are also ruling
+out a bunch of other points it's like
+you have a certain mental model model
+that you like and so you're applying a
+filter where you take the data of all of
+these Salient points in the fossil
+record and in the economic record you're
+taking all of these very important
+points like the invention of farming
+like the dawn of multicellular life all
+of these points like that or you know
+the evolution of sex these are actually
+points that if you read the literature
+if you take a more holistic View and you
+ask hey what actually causes big impacts
+you get a lot of these different points
+about a dozen of them and you're the one
+who's applying a filter and being like
+you know what the two most important
+points are the evolution of the brain
+and the the dawn of natural selection
+I'm trying to find a trend that's
+consistent with all of these important
+points without going in a priori with a
+mental model where I want to squeeze the
+world into everything being optimization
+I want to say no what does the data tell
+me right what what how do I come in
+without any preconceptions without any
+Paradigm how do I come in with an open
+mind and then come away with an
+understanding of like what are the big
+forces right what actually takes the
+economy into a new gear and it's not
+just what you think of as optimization
+it's a number of different things like
+farming so it sounds like there there
+are concrete differences then between
+our models it's not just a game of
+reference class tennis it is but that
+grounds itself into certain empirical
+predictions that we you you've already
+like admitted for example a certain like
+like that there are predictions about
+the future that can be made about like
+like certain Revenue amounts or certain
+percentages of world GDP that would
+falsify or at least significantly
+undermine your model but I want to ask
+you whether you think Theta points like
+that exist in the present so predictions
+that you made about the past so so we
+already cover one of those again with
+the revenue thing but don't you know I
+think it's important to clarify though
+you know when I made that prediction
+when I said hey I would be surprised if
+a few years from now you're telling me
+that modern AI is accounting for 10% of
+GDP yes I would be surprised but that
+surprise has to do with my own
+prediction of how fast AI progress is
+going it doesn't have to do with my
+model of whether the economy is going to
+come along with the AI progress because
+in fact I told you that there will be a
+paradigm at some point where economic
+doubling time is only one month right so
+if if you tell me AI is happening really
+fast I'll be like okay maybe we're
+shifting into the next economic gear so
+that model of mine won't be surprised it
+won't say that uh a Singleton fum I I
+won't suddenly think that a Singleton
+fum can happen I'll just think that the
+whole economy is coming along for faster
+growth it sounds like you have this
+model of like economic forces and and
+like the Invisible Hand of the market
+which
+basically you say that you you're not
+coming in with any preconceptions you
+don't want to be excluding any
+possibility but it seems like this model
+of yours a priori exclude the
+possibility of like just Rogue agents
+that do things outside of the confines
+of the market so even between humans we
+have people who who just like steal
+things from each other now that's not
+like a transaction that you would you
+would characterize as any kind of like
+Market Force and the some people steal
+things and get away with it and the
+reason that's not the stabilizing is
+just because those Bad actors aren't
+power power powerful enough to do that
+on a consistent basis
+in a way that actually like would like
+create enough of a ripple effect to just
+stabilize the whole thing now I'm
+claiming that if there were a more
+powerful type of agent that could just
+go around stealing from everybody and
+like no one notices or like they can't
+do anything about it that would actually
+just destabilize the model that you're
+using
+right in theory yes right so everything
+is theoretically possible it's
+theoretically possible that there's an
+IQ of a million in a single box and it
+takes over everything right so I've
+never said that the F scenario is
+impossible I'm just saying that it's the
+model that we should be using it's kind
+of introducing a new model that is
+appealing to doers but yeah it seems to
+me that in order to rule out the F
+scenario you have to make some arguments
+from the computer science side of things
+you have to make some argument from the
+deep learning side of things you have to
+make some concrete gears level argument
+about the properties of these systems
+and the commissions that they Implement
+just saying you know this prediction
+that you're making violates this very
+like broad model that I formed that
+isn't necessarily like mechanistic on
+the same level of
+resolution
+that why do you think that's a good
+reason to like suggest that some of
+these more mechanistic models are Flo
+because you I feel like you have to make
+a counter argument on the same level of
+what's being argued well the fum claim
+if I understand it correctly is a very
+complex multivariable claim that's
+operating within a society right within
+a physical universe so it's not really
+virtualized inside of a box I mean fum
+involves gaining more resources it
+involves selling things right to gain
+power and you asked about um I think you
+you you said hey look what about
+lawlessness can't people steal things
+but we already know that laws are a
+successful outcome of coordination and
+economies can coordinate and it's
+desirable for everybody to coordinate so
+the only reason people steal things is
+if there's not enough power to
+coordinate but improvements in AI should
+only help our coordination power so I'm
+not worried about there suddenly being
+chaos I think laws will become better at
+being laws there certainly I hope so
+right so I I see the relevance to that
+to thinking that F's going to happen the
+reason we have equilibria based on
+coordination rather than defection is
+because there's no individual agent
+that's unilaterally powerful enough to
+Def from that equilibrium and get away
+with it in the long term people are
+going to catch up to them and they're
+going to find them and they're going to
+be punished for like not cooperating
+with the rest of us the fundamental
+reason that coordination is possible is
+because there's no there's no
+concentration of power into like some
+like very into either a single or a very
+small group of agents and I'm claiming
+that that ass that's a key assumption
+behind all the economic analysis that
+you've been you've been like claiming is
+relevant and I'm saying there's no
+reason to actually think that that
+assumption is going to continue to hold
+in the face of increasingly capable
+systems that like we have no reason on
+the computer science side of thing to
+think that these systems are going to
+just like magically stop getting more
+capable and you even admitted that it's
+logically possible in the scenario the F
+scenario so you have to go from saying
+you know it's logically possible but I I
+just don't think it's G to happen I
+think it's implausible but then when I
+ask you why you think it's implausible
+you don't give any kind of computer
+science reason to think that it's you
+just say it violates this model that I
+have based on these assumptions that I
+have when those assumptions are what I'm
+criticizing so I do think that AI is
+going to keep improving and eventually
+become smarter than Humanity it's just
+you're asking for a computer science
+reason for why the pace that this has to
+happen at has to be so fast that it
+can't involve multiple actors in the
+economy and why is the burden of proof
+to me to tell you why that's not going
+to happen I agree that it could
+logically happen but why are you
+assuming like that's what's going to
+happen that seems like a tall
+order
+so I guess um first of all I I want to
+know what you mean by like multiple
+agents or like like multipolar outcomes
+I guess would be like the more General
+category because because I'm not for
+like first I'm not convinced that
+multiple outcomes would necessarily like
+not be an at X risk in the same way that
+a a single would be like you could you
+could imagine like for example two or
+three or four however many AIS you want
+that all F together and they all end up
+negotiating some kind of compromise
+between themselves to have to to like
+divide up the gains from taking over the
+world after they've taken it over and
+you can just imagine that humans aren't
+part of that negotiated compromise
+because we are comparatively less
+powerful so they have they have
+coordination among among the
+themselves
+and we're not a part of that just like
+ants aren't part of our coordination
+systems so it sounds like you're
+introducing a claim that AIS are not
+operating independently and humans
+aren't a part of
+it um I mean ultimately yes because
+these systems you've emitted can be like
+vastly more powerful than Humanity right
+why would they
+necessarily yeah they can be more
+powerful but my default assumption is
+you can just think of everything as
+being firms so yeah some firms will have
+a powerful Ai and they'll be competing
+with other firms to keep making their
+AIS more powerful and they'll have
+humans as part of the leadership of the
+firm and maybe the humans will be
+augmented with the AIS or there will be
+some relationship between the humans and
+the AIS that they're building but the
+control of the firm and the values of
+the firm I think it's reasonable to
+assume that it's much like other firms
+right you're going to get a similar set
+of values at the top of the firm um
+that's how I see things so I'm not I
+don't see things as a scenario where
+suddenly the AIS are running away and
+then they brush off Humanity that's more
+of the Doomer side the Doomer way of
+viewing things right so that sounds like
+you have to concretely
+reject some like some premise of the
+Doomer argument you have to reject for
+example that like gold directed agents
+can can be a thing or that they can be
+like much more powerful than humans or
+that or that like you have to reject the
+orthagonal thesis which Sayes that like
+goals you know no no no the the economy
+that whenever you model the economy
+you're always modeling millions of gold
+directed agents so I've never rejected
+that right but what you're saying is
+that in this scenario that I painted
+where you have these systems around
+running around that are like vasty more
+powerful individually at the very least
+and possibly collectively than like the
+smartest humans you're still for some
+reason you're saying you're modeling
+these things as like firms and that that
+seems like you know you're violating the
+orthogonality thesis to some extent but
+when you say that because you're
+asserting some constraint on their goals
+or the way they pursue their goals that
+that makes the orthogonality thesis just
+says every type of agent is possible
+like yes I agree any type of agent is
+possible but that's not the discussion
+we're having the discussion we're having
+is how do we predict forward in time
+where the economy is going to go right
+What actors are are going to be uh are
+going to have power right what kinds of
+Futures they're going to build perhaps
+what they're going to Value what what we
+want them to Value that's a discussion
+we're having yes the orthogonality
+thesis says that anything is possible
+but you know we're just talking about
+what will happen right so with regards
+to the question of what will
+happen I'm I'm asking you to consider a
+scenario where like I I've I've kind of
+ascented to your your like kind of
+multi-polar outcome I'm not not talking
+about a singlet ton anymore I'm saying
+there are a bunch of AIS they're all
+individually smarter than the smartest
+humans and so they negotiate an outcome
+among themselves that excludes the
+humans because the humans aren't smart
+enough to get in on that and you're
+saying I I don't quite follow why why
+you say this C you're making the claim
+that let's say some firm Builds an AI
+That's significantly better than the
+previous Ai and now you're saying that
+the AI that they build is going to go
+against the wishes of the firm's
+leadership and call out to another Ai
+and they go and have a secret meeting
+and plot against their
+firm
+well that would depend on like the exact
+mechanism of coordination that like
+those two a are able to establish
+there's like decision Theory questions
+of like what exactly would happen there
+but by default I I would expect you know
+if you actually buy the orthagonal
+pieces and take it seriously once that
+AI is capable enough it's going to like
+be gold directed and it's going to have
+its own goals that on our current
+training schemes aren't necessarily
+going to have anything to do with the
+goals of the of the firm or or the or
+the researchers in that firm who train
+it they're just going to be its own
+propery goals formed from its training
+environment and training data and then
+by default once it's powerful enough and
+once it knows that it's powerful enough
+there's no reason for it to be like I'm
+going to keep on working for this firm
+I'm just going to exfiltrate myself to
+the rest of the internet and maybe I'll
+meet some other system that EXT
+filtrated itself as well and then we can
+negotiate something if we're similarly
+powerful but like that part comes
+afterwards the the the key moving piece
+on my model is just the part where you
+have a go directed agent and it says I'm
+a go directed agent I wanted I want my
+own things and if you accept that
+intelligence is a thing that you know
+can basically ramp up far cross human
+level it's seems to me that you have to
+accept that these firm this firm
+abstraction that you're using and more
+broadly this like economic abstraction
+that you're using it's going to break
+down at a point where some of the agents
+inside of the market have better options
+available than to participate in the
+market okay so it sounds like you just
+made two claims that I think we should
+be explicit about when you're telling
+your story because your story is just
+the implications of these two claims
+that you made kind of implicitly so if
+I'm hearing correctly first you made the
+claim that the AI built by some firm is
+going to stop being controlled by that
+firm and then furthermore when it starts
+doing damage that damage is not
+stoppable by that firm or by other firms
+right so then it goes off and conquers
+the world right so those are kind of
+your two claims here right and if you
+want to argue those claims I'd be happy
+to argue them it just seems like your
+economic model doesn't have anything to
+say about
+those well it's I think that it's it
+doesn't expect a thing that a firm
+builds to be permanently out of control
+of that firm right that's you're right
+that that's not predicted by Theory and
+it seems like a pretty
+tough claim to make right it seems like
+maybe you can throw some support for
+that
+claim well the support for that claim is
+just you know the claims I've been
+making about optimization processes and
+intelligence in general so like if you
+want me to flush that out more I can so
+for example um one of the things that I
+take seriously is this notion that
+intelligence consists of the ability to
+basically hit a very narrow set of
+Target states in the future that's what
+would be referred to as an objective or
+a goal and the more more intelligent you
+are the better you are at doing that the
+better you are at compressing a wide
+variety of trajectories to lead to like
+this this set of Target state that you
+want to hit so you can imagine that like
+if you're playing chess you want to
+reach the set of States that's
+classified as a win for the side you're
+playing right so I feel like that's a
+fairly un uncontroversial claim that's
+not even necessarily about computer
+science it's just about what goals are
+and I feel like saying you know there
+are better and worse ways of doing
+of achieving that task and we're
+training systems to be better at
+achieving that task because it turns out
+that having systems that are good at
+that is economically valuable and so
+we're incentivized to following you a
+lot of what you're saying I think is we
+can agree that at some point a lot of
+firms will have AIS that are powerful at
+achieving goals I think I can follow you
+there um but if those at that point if
+they're if those systems have their own
+goals that aren't necessarily those of
+the firms how is the firm gonna
+keep the AI from pursuing its own goals
+rather than the firm's goals so this is
+the claim that seems to cut against what
+we know about firms in general which is
+just that instead of having the firm
+build an AI That's useful you're telling
+me that the firm has built an AI that
+now is trying to undermine the firm and
+has a shot at doing so
+successfully right well I mean it would
+have been useful up until that point
+because at up until like at at any point
+before the system assesses itself as
+having like sufficient power to like
+just go and do its own thing it would
+have been producing revenue and economic
+value for the firm and like for for the
+firm's clients and so on and so forth
+it's at that critical crossover where
+the capabilities exceed this threshold
+that a new dimen a new set of options
+opens up for that
+system it achieves greater option
+optionality in the space of possible
+actions that it can take and some of
+those actions are going to be ones that
+weren't available before in any model of
+Economics or firms that you previously
+had right so you've got this moment
+yeah yeah so I mean I agree that AIS can
+get more powerful and have more options
+available it just sounds like you're
+trying to string together a bunch of
+claims to get to this tall order of a
+claim where in the end you say and
+therefore the thing that the firm has
+built is going to slaughter The Firm
+right and take over the world it's like
+you know yes you can keep stringing
+together catastrophes right but in
+general we just don't expect a string of
+catastrophe after catastrophe like
+usually firms have a cycle where they
+just keep control of the thing they're
+building and they sell it and they
+improve it usually the thing that
+they're building isn't an agent
+right okay yeah it's not an agent but so
+what right I mean the agent you're
+always going to have kind of a balance
+of power where you you're not going to
+fulfill both of your two assumptions I
+agree it's possible right maybe there's
+a .1% chance but it's a order for me to
+just believe oh yes the default outcome
+is that a firm Builds an AI where the AI
+suddenly doesn't want to do what the
+firm wants to do it doesn't care about
+maximizing shareholder value even though
+everything that it's been trained to do
+has to do with maximizing shareholder
+value it's not going to want that and
+also instead of being able to be
+debugged it's going to go take over the
+whole world right it's just like you're
+you're stringing me along on a lot of uh
+big You Know M but it sounds like Nows
+now it sounds like you're starting to
+have concrete disagreement about like
+more of a computer science side side of
+things than the economic side of things
+is that right so you would agre the
+economic thing side of things raises the
+question of of just like where are you
+getting this scenario where the AI wants
+something else right because my default
+assumption is that the AI wants or is
+optimized to do things that help the
+firm right and I'm saying I have a kind
+of first principles computer science
+style argument that predicts a different
+outcome from that and so fundamentally
+the issue is we have two different
+models at two different levels of
+resolution that predict that that are
+trying to predict something in the same
+in the same space and they're they're
+making different prediction the question
+is how to resolve that and I'm saying
+you can't just like say my economic
+model is right because like it's been
+validated by all these like examples
+that I've thrown together into this
+thing that I'm calling my reference
+class you can't say that without also
+giving some counterargument on the
+object level to like no sure I I'm
+getting a little confused because I feel
+like you haven't even made your argument
+it's almost as if in this conversation
+one day I just told told you like so
+you're going to have these car companies
+and they're going to make these cars but
+one day the car is actually just going
+to set its throttle to maximum speed
+until it drives all the way around the
+world it's like wait what like where's
+the argument for that okay so the
+argument is just so I already mentioned
+the notion of like goal orientedness
+I've mentioned the notion of
+optimization power being better or worse
+at hitting goals and I've mentioned that
+what the current AI capabilities teams
+are doing is their training systems to
+be better and better at at at doing that
+in general but like specifically the
+task that they're using is next token
+prediction right
+so the things that the system extracts
+out of that
+data are going to
+be things that we don't know currently
+how to probe so it's going to form its
+own abstractions Based on data that's
+trying to predict and as it becomes more
+capable and better at predicting the
+next token it's going to be forced to
+create a model of the world because it
+turns out that there are some things you
+can only predict if you have a model of
+the world like there are things some
+things that you can't just prict I agree
+with you that AIS are going to become
+very very capable over time sure right
+so the notion the notion is that they're
+going to become so good at optimization
+that they're going to hit upon this
+General concept of goal orientedness
+where you you have goals and having
+goals is a good way of achieving things
+in general including yeah I I agree that
+at some point you're going to have an AI
+system that you can give a goal to and
+it'll help you achieve that goal pretty
+effectively yeah
+right so we we disagreeing on whether
+you can give a goal to that agent you
+can train it to be good at achieving
+goals in general by giving it like one
+one example of a goal and like getting
+it really good at that and if that one
+pass that you gave it is like happens to
+be General enough or broad enough that's
+just going to confer upon it a general
+optimization capability that it can use
+to redirect towards any goal but the
+final system that you end up with which
+we agree will be extremely capable it
+doesn't have a plainly factored goal
+slot that you can just like go in and
+say okay now I want you to help maximize
+shareholder Revenue it doesn't have that
+like even now like the current large
+language models don't have anything like
+that that's why you have to do like all
+sorts of prompt engineering to get them
+to do what you want them to do and
+sometimes that doesn't even work so the
+claim here is what's happened with
+current AIS though I think is a great
+example of what I expect to happen in
+the future which is that like yeah their
+version one will have these hiccups
+right and it'll say things that you
+don't want it to say and so they'll work
+on it and then they'll release a version
+that's quite robust and then they'll
+have data that says uh oh 0.1% of the
+time it people are are putting a thumbs
+down and they'll release version and
+they'll make a lot of money doing it
+right and the economy will grow so
+what's happening now is a great
+illustration of how things tend to
+happen right but the reason that's able
+to happen the reason that corrective
+mechanism is able to function is because
+when these systems are going wrong in
+the first place they're not going wrong
+in a way that destroys our ability to
+come in and say that's not what we
+wanted if you unite in a system that's
+far more capable that feedback move
+breaks because the first time it goes
+wrong it goes it's not just saying
+something we don't want it to doing
+something we don't want it to do and
+if if we imagine that the system can do
+that successfully it's just going to
+break that feedback move so now it
+sounds like you're claiming that it's if
+it ever gets misconfigured or configured
+in a way that we didn't intend and it
+starts taking power and being bad and
+destroying things you're basically
+saying that nobody can turn it off the
+company you built it can't turn it off
+there's no other stop gaps it's just
+going to take everybody's power
+including the power of other firms who
+also have
+AIS not that's than the power of other
+other AI like I said they like they
+might negotiate something between
+themselves but humans like wouldn't be
+involved in that but in answer to you
+like you're more general question yeah I
+do think that if you have a more
+powerful agent and then like even a
+collection of less powerful agents if
+that disparity and capability is large
+enough there's no reason we would expect
+the less capable agents of being
+meaningfully able to interfere with the
+operations of the more capable one
+that's so it sounds like you're
+stringing together a bunch of these
+claims where if I just claim after claim
+that you're saying if I'm very
+pessimistic about all these claims
+you're throwing at me eventually I get
+to the conclusion of like okay AI is
+going to kill us and it's going to be
+unstoppable which is kind of similar to
+the scenario of like oh wow we built
+nukes and the fail safs were bad and one
+of them went off and we died right so I
+agree that there's that kind of scenario
+of like we screwed up and so we died
+right there's no question there's some
+probability of that but you just keep
+throwing at me like I said claim after
+claim right so like the claim that the
+AI is going to be so powerful that
+Suddenly It's going to wake up other a
+that seem to be aligned and they're
+going to negotiate and they're going to
+suddenly overthrow us and wipe us out I
+mean you're you're asking me to believe
+a lot here right and and then you're
+also asking me to believe that like you
+know the shut off switches aren't
+configured to work so like the The Firm
+has done a bad job of security and also
+that the even though the AI seems to be
+doing exactly what we want it actually
+didn't want to do exactly what we want
+right so you're stringing together a lot
+of claims here so first of all I should
+note that like the part about
+negotiating with other that's actually
+kind of like I included that as a
+concession to like your modotto where
+you say like there might be like
+multiple actors with this level of power
+um like if you don't like that we can
+just go back to the Singleton scenario
+that like that works perfectly fine for
+me that's not like the loadbearing
+element of my claim here I maybe you can
+just maybe you can just say your highest
+probability Doom scenario right because
+I just it just seems like anytime you
+talk about a doom scenario all I can say
+about it is all you have going for it is
+that it's logically plausible right it
+doesn't really have any other type of
+support or empirical evidence or
+evidence in the research right it just
+seems farfetched so I would argue that
+actually we have some empirical evidence
+in the form of misbehavior of current
+systems where like I tried to point that
+out earlier but you you just said no
+that's actually evidence for your view
+because that those are examples of
+misbehavior that we later we now infomed
+toct I mean every technology misbehaves
+right that's the development cycle right
+automobiles
+misbehave right but they misbehave in a
+way that doesn't blow up the world on
+the first shot
+right well I I find it hard to believe
+that a bug get an AI is going to blow up
+the world in the first shot right that's
+that's assuming a lot about how no other
+firm's AI can stop it or the fail safes
+that they put in can't stop it right
+it's kind of like saying hey a
+misconfigured nuclear bomb can blow up
+the world okay yeah that's true but in
+practice we just build the nukes and we
+don't blow the world you keep saying
+that I'm stringing together all these
+claims in my mind there are only like
+really two claims that I need you to
+accept and I guess you can like either
+try to like reject one of them or you
+can like try to say like there's this
+third or like more than than two
+implicit claims that I'm making then you
+can try to like lay out what those are
+in my mind the two claims I'm making is
+like the one
+that like gold directedness is like a
+property that is incentivized by like
+many forms of training some of which
+we're currently doing and two that a
+sufficiently powerful gold directed
+agent is is going to think of ways to
+like not get itself shut off by less
+powerful gold directed agents those are
+in my mind the only two claims I needed
+to believe and both of those seem like
+Fair
+well supported I would argue by like I I
+think AIS can be goal oriented I mean we
+already have past and present AIS where
+you can give them a goal I mean winning
+at chess is a goal right so goal
+orientedness is considered classic AI uh
+I don't take issue with that uh the idea
+that they could be so effective at
+achieving their goal that they
+disempower all of humanity and all other
+firms and all the other competing AIS I
+think is the Assumption that's wildly
+improbable less than 1% much less than
+1% probable so it sounds like you're
+just saying there's a cap on what in can
+do there's no way for a system to be so
+good at playing chess in the physical
+universe that they can outplay the
+smartest humans it's not that there's a
+cap I mean of course there is a cap but
+it could be much higher than what humans
+can do we don't really know where the
+cap is um but it's just that by the time
+we keep getting AIS to be closer and
+closer to the cap or you know more and
+more Beyond human intelligence that
+Evolution will just be like the
+evolution we've seen so far with
+economic growth modes yes it'll have a a
+shorter doubling time most likely but
+it'll just continue the the progress of
+our descendants evolving their values
+right and and having an economy and
+trading with each other right so I don't
+see the kind of sharp discontinuity that
+doomers are
+saying so the sharp discontinuity that
+I'm talking about is human
+disempowerment right do you not like are
+you arguing that that's not going to
+happen or are you arguing that that
+could happen but that if that does
+happen it's not are you like going back
+to the values thing that you start like
+that you led with well I do think that
+most people who imagine disempowerment
+are imagining something that's similar
+to the scenario of just humans having
+human babies for Millennia so I think
+that their conception of disempowerment
+is actually more similar than they
+realize to their conception of a good
+future but in your case it sounds like
+maybe you're more focused on
+disempowerment that happens very rapidly
+right by like an Uber tool by a single
+firm that fums within a year or
+something like that so I mean that
+scenario it it just seems very unlikely
+to me right for the because you just
+haven't spelled out a convincing reason
+why we throw out all the other Trends
+and principles we have and and just be
+worried about that case so like like a
+couple minutes ago I kind of laid out
+like the two two claims the two
+assumptions if you will that like I
+think that I'm making and it wasn't
+clear to me like whether you tried to
+like reject one of those or whether you
+like you add no no I didn't reject them
+I just said like yeah it's it's any
+catastrophe can happen right like a new
+asteroid can come over and hit us
+right I mean things can absolutely go
+wrong it's logically possible but you
+haven't argued why that is where Trends
+are going to go right it seems to me
+like Trends are going to go where the
+economy keeps growing I mean that is a
+very robust Trend right short of a
+strong argument otherwise that is what I
+tend to
+believe right the mechanistic analysis
+of what's driving that Trend
+currently and we've tried to look at
+that when we've talked about like what's
+going on inside of these firms is that
+these firms have been trading more and
+more powerful systems and my argument it
+directly connects with what these firms
+have been doing on on the inside and so
+I think I kind of think like you need to
+engage with like what's going on
+internally here rather than just saying
+well that's yeah I mean I I agree yeah
+they're more powerful systems I mean
+things get more powerful all the time
+right technology has been getting more
+powerful all the time farming is very
+powerful it generates a lot of calories
+right and and I even agree at some point
+we're going to see shorter economic
+doubling times but you're the one who's
+not actually arguing for the Singleton
+idea right that one firm you're making a
+Time argument a Time claim saying that
+not only is AI going to get smarter and
+smarter but one AI is going to
+essentially freeze time and get smarter
+and smarter on a time scale that other
+firms are left in the dust but it's like
+where how does competition work like
+that it doesn't I mean look at what's
+happening today right gp4 you now have
+three different major firms with gb4
+class models right that's what you
+should expect to see not your novel
+hypothesis that one firm is going to run
+away with
+it so again I don't think the FMS are
+going to run run away with it I think
+that the systems they produce are going
+to run away with it but like with that
+distinction out of the way let me just
+explain why I think this timing thing is
+really important so you just mentioned
+gbd4 and then you mentioned that like
+after like let's say a couple of months
+which I think like the actual time frame
+was something more like six months but
+let's just say you know there's like a a
+Time gap of uh like one or two months
+between when the leading AI company like
+yeah I've also heard people saying that
+the latest uh version of cloud 3 soned
+and especially the upcoming sorry Cloud
+3 .5 son and the upcoming Cloud 3.5 Opus
+May surpass the best that opening ey can
+do even though they were first out with
+gp4 so this is completely normal for
+competition right you don't have a
+10-year lead that's entirely possible
+and my argument is that you don't need a
+10-year lead so for example let's just
+say that the AI produced by the leading
+company as opposed to the leading
+company itself I want to distinguish
+those two things because I think the AI
+system is going to be the one that ends
+up with the power not the firm that
+produced it let's say that system ends
+up hitting the Market one month earlier
+than like the next system would have and
+that this system is like so generally
+capable that it it's like it's one of
+these like superhuman systems that we're
+talking about right now we have these
+chat interfaces that allow the these
+systems to like for example
+produce scripts blocks of code for the
+user to run so you could imagine with
+like a vastly more capable version of
+such a such a system there could be
+users who like request that the system
+like gives them code to do like quite
+complicated tasks and at that point it's
+trivial for the system to just hand
+someone a shell script for example that
+like contains some like hidden back door
+or some like unexpected behavior that
+the user doesn't like isn't able to see
+and then when the user runs that shell
+script it like it extra ex filtrates the
+AI to like some some like remote server
+just to the rest of the internets and so
+on like the fundamental problem here is
+that computer like computer software
+especially like computer softare root by
+humans is like not very secure to begin
+with and the time skill that's needed to
+exploit these holes that are all over
+the place is not very long at all you
+don't need anything like a 10-year
+leadup you you probably don't even need
+like a day for like something like if
+gp4 was that super intelligence system
+like it would already be
+over well like I said I do expect a
+regime at some point where the economic
+doubling times are going to be faster
+and that implies that a lot of different
+familiar things are going to be faster
+the same way that they got faster when
+farming turned into industry right
+things got counterintuitively fast the
+idea that you can see revolutionary new
+products in your own lifetime one one
+after the other right the airplane comes
+along in your own lifetime radio
+television rocket ships all of those
+coming along in your own lifetime that
+was a very unexpected shift to somebody
+who is a farmer right and now you're
+telling me wow there's going to be so
+many viruses viruses are going to
+operate so fast yes I agree viruses and
+virus defense is going to suddenly
+operate faster when everything in the
+economy operates faster but I don't see
+why that spells a Singleton wiping out
+all of
+humanity well in the scenario I just
+outlined we have malicious shell strip
+which you can call virus So you you're
+saying viruses and viruses virus defense
+would like kind of advance in log step
+and I I don't see like so in the
+scenario I just described that's an
+example where like someone has handed a
+malicious shell script and like they
+didn't have like super intelligent anti
+virus on their computer that detected it
+and like said like don't run that that
+just that didn't happen so I
+don't like you're you're you're saying
+no like not saying antivirus is perfect
+right sometimes you have to then fight
+the virus after it gets loose and then
+you have to update antivirus for next
+time right so these are standard things
+in computer security right I mean you've
+got these kind of races right I mean
+there's always crime there's always
+viruses there's always an immune system
+right so you're just describing Dynamics
+and then you're saying they sped up
+Dynamics right that's kind of your but
+earlier you asked me like how it would
+be possible for like one of these like
+AI systems to like get out of the
+control of its parent firm and I I just
+give you a concrete scenario where that
+seems like it like that seems like the
+The Logical outcome of like the story
+that I laid out right I did give you an
+example where like the system gave
+someone a shell script to run and that
+shell script had unexpected effects that
+led to the AI like escaping out into the
+wider internet yeah I mean so this
+particular mechanism is definitely
+something to watch right I mean the same
+way like if you're building a rocket you
+definitely have to watch that it doesn't
+explode all over where you're building
+it right like things can fail there can
+be consequences when they fail and
+that's why I advocate for you know there
+should be insurance contracts right so
+that there's liability when these kind
+of things
+happen
+so one point to raise is like that
+currently like that that like is in its
+infancy at the like very generous very
+generously speaking that iny right now
+you you have like both open Ai and Claud
+being able to write and like run like
+arbitrary not like fully arbitrary but
+like arbitrary enough code and like
+they're not like there's no like legal
+mechanism currently to be to hold them
+liable for like the results of that code
+so right now what you're describing just
+doesn't exist as like an empirical
+observation of our current state of
+affairs and I'm
+saying if that current state of affairs
+persists for like any appreciable period
+of time and meanwhile these companies
+are like racing to get like the next big
+like capable like next big jumping
+capabilities that's a race that we don't
+want to be in we don't want to be in a
+situation where capabilities are racing
+ahead meanwhile all these like safety we
+can see what what safety measures
+they're implementing well luckily I mean
+I I don't think that if we don't have
+insurance we're going to end the world
+world I think that the moment we notice
+all these viruses creating problems and
+then we have to spend effort reing them
+in I think it'll become a pretty natural
+idea to then invent insurance right the
+same way we saw it in other sectors of
+the economy and again this may all
+happen faster this may all happen at a
+higher dollar value right with higher
+Stakes but it's just not a fundamentally
+new Dynamic right it's it feels to me
+like the doomers are just learning
+economics right which is something I've
+been studying for many decades
+so would would this version of Economics
+have Headroom for scenarios where the
+thing you call
+virus hacks into like the like the the
+national infrastructure of like entire
+nation and just like shuts off the power
+would would that count under your
+version of
+Economics I mean to the degree that the
+nations are easily hackable and the AI
+chooses to do that then I mean that's
+you know economics allows for these
+major incidents right I mean incidents
+happen there was a famous incident where
+the US almost exploded a nuke over space
+I mean luckily we didn't but there was
+an incident where Russia shot down AE
+that was a civilian plane a couple years
+ago you know over its airspace and you
+know you got to you got to clean up
+these incidents but they do happen yeah
+but there are incidents that could be
+impossible to clean up because there's
+no one to do the cleaning afterwards
+right yeah theory Sure right but now
+you're it's you're just going back to
+the idea that this AI is going to be so
+powerful that it's Unstoppable right I
+feel like that's like a major claim
+you're making thinking well I give you
+an example and I don't even think like
+if that's what an actual super
+intelligence would do it's just like
+what I came up with and I'm certainly
+not a super intelligence but like I feel
+like an AI That's like has free access
+to the internet and has for human
+hacking capability can absolutely pull
+off the types of things that I just
+described where recovering from them
+would be at the very least very
+difficult and then if you add the
+possibility of the AI making novel
+discoveries in physics and chemistry and
+Technology you can just like have all
+sorts of sci-fi style outcomes that are
+like legitimately not recoverable from
+an economic perspective because the
+backbone of the economy which is the
+humans have been
+decimated I think it keeps becoming
+Central to your claim that you have one
+AI That's far ahead of the rest because
+otherwise okay it goes out as a virus it
+goes and seizes resources on the
+internet but you've got super
+intelligent antivirus you've got other
+motivated firms that have AIS that are
+working 90% as good as that other AI
+right and they're competent at
+preventing that AI from taking over the
+world and then taking action accordingly
+like the AI caused a l of damage maybe
+punish The Firm if the firm can't pay up
+you know you transfer the ownership of
+the firm or you shut the firm down right
+so there's natural processes here
+there's negative feedback loops so that
+you don't get a single actor taking over
+the
+world so where is this super intelligent
+antivirus coming from like just like to
+take one example what the main Line's a
+scenario where you have this one AI
+That's able to kind of rebel against its
+firm or accidentally disobey the wishes
+of the firm and go and cause all this
+chaos in that scenario you've also got
+other firms that also have ai or you've
+got the same firm that has other
+versions of the AI so you've got this
+level of power is not isolated right
+it's kind of sprinkled throughout the
+economy and so other actors that have
+the same high level of power but
+different interests right or or
+different techniques at the time they're
+also going to have a say in what happens
+you're not just suddenly going to have
+this AI That's going rogue take over
+everything well but whichever AI system
+does that first is going to have a
+decisive strategic because they have the
+advantage of the first move right like
+unless you're saying there's already
+super intelligent antivirus offers on
+the internet like already then I would
+ask like where that come from you're
+framing it as a discontinuous threshold
+you're saying wait until the moment that
+one AI gets onto the internet but okay
+yeah that might be an interesting moment
+but it's also interesting that a lot of
+development has gone into making lots of
+different AIS that are similar in power
+right and they're ready to be used in
+the operation to go fight the impact of
+that other AI right you're kind of
+narrowing your scope down to just
+looking at this one AI as if it's like
+that's the only thing you have to
+consider but it's operating in the
+context where other AIS are similarly
+powerful
+but you can have as many firms as you
+want all developing their own Ai and if
+they happen to be on Parallel enough
+tracks that they both lose control of
+their as at the same time let's say you
+have two F and they both lose control of
+their a at like almost exactly the same
+time then you have a multipolar outcome
+where the two a negotiate and the humans
+aren't involved with that and they take
+over the world together and the only
+reason that they would negotiate to do
+that is if they think that the sum of
+all humans and all the infrastructure
+and all the fail safs that the humans
+have they think that all of that all of
+Humanity's power is now suddenly less
+than what they can negotiate by
+themselves without the support of
+humanity right and that scenario is is a
+tall
+order I
+mean humans themselves can be like
+blackmailed they can be persuaded they
+can be tricked they can be fooled into
+doing all sorts of things so like there
+there's that Dimension as well but like
+ultimately I do think these systems are
+going to be self- sustaining there's no
+reason you need a human in the loop
+indefinitely to like like some people
+say you know like an AI exterminates all
+humans like who who's going to keep the
+lights on they the system are run out of
+power and I'm saying like there are
+going to be solutions to that that don't
+involve keeping humans around and even
+if they did involve keeping humans
+around those humans wouldn't be living
+happy lives they would be like slaves
+essentially so I'm not seeing how this
+rescues your like your your economic
+model where like things just basically
+on happing as usual except
+faster um I'm not sure I understood the
+last claim because I just I reject the
+part where you're claiming that these
+two AIS negotiating with each other are
+going to have more power than all the
+humans I see it as much more likely that
+all the humans if there's not a third
+firm that can help then even just the
+sum of all humans with just the two AI
+firms can coordinate to put a stop to
+the interests of those AIS right they're
+going to find a shutdown button or
+they're going to find a way to together
+have more power than those two AIS have
+I don't think we're going to get to a
+point where suddenly the AIS will go
+from helping human firms to rebelling
+against all of humanity and succeeding
+right that discontinuous snap is a big
+argument that the doomers have to
+make so there's like a couple of paths I
+could take that I mean we could debated
+like object level scenarios all day but
+like at this point I think we've made
+things concrete enough that I want to
+like kind of first of all I want to say
+that these discontinuities if you like
+go back to the reference class that I'm
+using of like qualitative increases in
+intelligence in optimization power like
+we do have some examples of that in the
+past and those examples did look fairly
+discontinuous so like that's some
+empirical evidence right there for you
+find that compelling which I know you
+don't but even if you don't find that
+compelling there's there's a counter
+question I could ask you which is just
+it sounds like you're saying that the
+the ELO cap the chess playing ability of
+an entity that like is trying to win at
+win at the physical universe is somehow
+low enough that the sum total of
+humanity this conglomeration of 8
+billion humans that we've got going on
+is just like not there's like going to
+be no way for for a much cognitively
+Superior entity to come along and just
+like snatch away our cand that that
+can't
+happen I think that a vastly superior
+entity if it was a if an alien invaded
+us I think the aliens could win right
+and it's even possible that they could
+come in a single alien ship and still
+wipe out Humanity right I understand
+that because they've had their own
+economy right they've had their own
+billion years or however long it takes
+they've had an ecosystem that built them
+up to a point where they're more
+advanced than us but us our economy
+becoming more advanced happens as an
+economy it doesn't happen as an isolated
+player right and so the dynamic that
+you're so worried about that you call
+Doom I just call the economy it's almost
+like you're afraid of the
+economy well again this goes back to
+like what I talked about where your
+conception of the economy there has to
+be so wide as to include like you know
+hacking into the internet and hacking
+into any systems that are accessible
+from the so like there are causal
+Pathways in this in this internet of
+things that we've built this distributed
+computing Network where a single node in
+that Network can with enough skill at
+you know like finding and exploiting
+security loopholes can just access like
+almost the entirety of the rest of the
+network and this network spans like
+almost the entire Globe at this point so
+I feel like this discontinuity that
+you're complaining about is just
+permitted by the of physics in the
+context of the world that we live in
+because of how the internet is
+structured it sounds like you're saying
+there's going to be a computer program
+that suddenly is able to conquer the
+whole internet and just massively
+discontinuously have more power but that
+just doesn't seem to be true as a matter
+of computer security right I mean today
+we have a balance between hackers and
+viruses and also defense systems right
+so you're making claim that I don't
+think has been supported of how that
+balance is suddenly going to change
+where one firm's accidentally escaped AI
+is suddenly going to upset the balance
+of computer security that we're familiar
+with there have been zero day exploits
+in the past that have led
+to multiple billions of dollars worth of
+loss and
+damages like there's precedent for that
+when when you say like that computer
+security is just kind of this in
+exploitable field that like always is
+always on the ball that's demonstrably
+not true at least in certain cases well
+I don't think it's in exploitable at a
+scale larger than the whole economy
+right I think it's exploitable at a
+scale where economic transactions
+usually happen right so billion dollars
+here a billion dollars there sure right
+but the entire economy from one Rogue
+virus exploiting I don't think we're
+ever going to see incidents like that
+because we're also going to see
+antivirus scale up so that the chinks
+and the armor are always going to be
+just at that scale of like okay 1
+billion so
+Ju Just to like make sure uh I'm
+understanding you correctly just so I
+can kind of summarize what you're saying
+here and like I guess your model as a
+whole is just there's never going to be
+a situation that asymmetrically favors
+offense over defense offense and defense
+are always just going to be like roughly
+on par in in that sense they're not no
+the balance shifts all the time in
+different domains right that's a robust
+feature of of technological change in
+Warfare that the balance is always
+shifting and different weapons are
+better and different strategies are
+better and different defensive features
+are better that of course that's going
+to be D dnamic but when the balance
+shifts that doesn't mean that offense
+conquers the world that means that
+defense just has to invest a little bit
+more right and then defense might come
+up with a new paradigm and suddenly
+offense will have to invest a little
+more to attack right so it's a
+continuous process yeah if the field
+Slants that's fine slanting doesn't mean
+knocking over the whole game board well
+if you slant hard enough
+right yeah if you slant really really
+hard right but I I do feel like you have
+not made the case that the whole game
+board is going to be knocked over by one
+player when there's also other players
+and everybody is
+racing if everybody engaged in the race
+is at roughly a similar level of in
+terms of their cognitive capabilities in
+terms of their internal ability to hit
+goals in terms of their internal abil
+ability to map trajectories to like a
+very compressed State space a a very
+compressed Target set of States if
+everyone is roughly equally good at
+doing that then yes if you put like a
+bunch of chess players in a tournament
+and all those chess players have like
+roughly equal ELO the outcome is going
+to be like roughly like randomly
+distributed between like who who of like
+who win that tournament if there's just
+one player or two like you could have
+more than one okay like this isn't like
+a huge Crux if if there's some subset of
+players that are like way better than
+the rest of the players those players
+are going to place more highly in the
+tournament than the ones that aren't as
+good
+and then like the majority of the prizes
+are going to go to those players
+who who played better right that PL yeah
+I think I feel like we've covered this
+point which is that yeah I agree if I
+thought that some firm could go into
+their lab and emerge 5 years later with
+something that's like an alien ship like
+a UFO that's just vastly more powerful
+than everything then yeah they could
+potentially decimate everybody right
+that story is logically plausible I'm
+just pointing out that that's not how
+the economy works right so you're
+basically saying hey look there's going
+to be an unprecedented break in how the
+economy works and it's going to kill us
+all
+and you haven't really supported it you
+just keep asking me if it's
+possible well I feel like I've supported
+it with what I've been saying about go
+directedness and optimization power
+right I L it up so I'm not sure you have
+because it's I I get that these are
+Concepts that can potentially help
+analyze why systems are being effective
+like they're effective because they have
+a goal and we know that you know in like
+a route planning algorithm having a goal
+and routing around obstacles right I
+mean this is standard stuff that's
+always been part of AI so I agree that
+this is useful stuff I just don't get
+where you get a massive discontinuity
+from that
+framework I think I want to know more
+about what you mean by discontinuity
+when you say that like yeah
+discontinuity of of discontinuity of
+economic models because I've already
+granted that you can have discontinuity
+in the sense of a gear shift where
+doubling times slow down or sorry
+doubling times become shorter they speed
+up right because we've seen that with
+farming foraging I expect that we'll see
+it again so I agree that the economy can
+go faster but why would you think that
+the nature of the economy is going to
+get upended by one player not
+participating in the economy suddenly
+right that's the point I hasn't been
+explained because Homo sapiens upset the
+preh homo sapiens economy if you want to
+call it that of all the species that
+existed prior to homo the emergence of
+homo sapiens that's an example of an
+event in the reference class that I'm
+appealing to and I feel like if you look
+Beyond surface level similarity and
+actually you look at the mechanistic
+properties what's happening these
+Concepts that I'm that I keep bringing
+up iation power intelligence gold
+directness those are the operative
+Concepts here not like just this
+abstract notion of economic dou when
+Homo sapiens came on the scene though it
+wasn't like a rapid Extinction of all
+the other animals like yeah Homo sapiens
+did pretty well right it was the kind of
+innovation of like okay yeah birds can
+fly now right then now they are
+occupying the skies right so it was a
+nice Innovation to be sure but you know
+it wasn't uh a Singleton extincting
+everybody right so there it's it's it's
+still continuous in a sense
+right but you agree that the same thing
+could happen but faster so fast that
+from our perspective it could look
+fairly discontinuous right like I agree
+that there are no F yeah I agree that
+there are no fundamentally discontinuous
+physical process like forget about
+economics like physic ultimately but
+there are some things that happen so
+quickly that from a human standpoint
+they may as well be discontinuous right
+I'm just claiming one of those just and
+I I get that humans as a species were
+notable compared to other species right
+and you can imagine you can try to make
+the knowledge you can be like yeah one
+firm is going to be very notable the way
+that they distinguish themselves from
+the rest of the economy but I don't see
+why that's the default right just
+because it could happen and it happened
+in the case of evolution doesn't mean
+that we should change economic theory
+and say that it'll happen in the case of
+the economy because it happened with
+humans in the context of evolution by
+natural selection it's just like well
+look we have an economic model that says
+there's competition and insites
+propagate and things have inputs and
+outputs they're connected right the
+economy is interconnected so you could
+still try to make the case that okay
+yeah it kind of happened once you can
+try to make the case but just pointing
+to this analogy with humans isn't enough
+to undermine all of these economic
+models well it's enough to point out one
+instance in which if you were like if
+you you Robin hampon were around fre
+like before Homo sapiens and you were
+looking at the economy back then of like
+whatever species were like occupying
+their various niches and competing with
+each
+other you with the economic model that
+you would have formed from observations
+over the previous like however many
+billions of years would not have
+predicted the rise of homo sapian and if
+someone had tried to convince you that
+homo sapiens was on the way based on
+considerations about like concrete
+considerations of like brain
+capacity like like neuron connection
+like whatever we're talking about or
+like skull directedness like all these
+Concepts that I'm invoking the robin Hen
+of the preh homo sapiens ER would have
+said like that sounds like that sounds
+like a stretch that sounds tenuous
+that's like I'm I'm not really following
+the object LEL arguments you're getting
+maybe I wouldn't have predicted the
+exact shape of humans but what I would
+have said is there's a lot of different
+types of land grabs that you can do in
+the fitness landscape right so like I
+said birds can take to the skies
+breathing oxygen can be a land grab
+right so the environment can shift such
+that there's free energy that a new
+species can go capitalize on in the case
+of humans it seems like it was the first
+species to do a land grab on what
+Stephen Pinker calls the cognitive niche
+of like hey let's try to reason with
+each other and that'll let us grab a lot
+of resources that other species aren't
+grabbing so that was a nice land grab
+for sure but you still got other species
+like cockroaches that are still able to
+survive together with humans right and
+humans have an extinct at everybody so
+humans are still players in the
+ecosystem and they did a certain type of
+land grab and I also think that firms in
+an economy do a land grab but that's
+just very different from having one firm
+in an economy suddenly end the world as
+opposed to just moving the economy into
+a new gear right so I agree with you in
+terms of you know our observations with
+regards to like whether humans have like
+driven like every every other species
+extin we clearly haven't although we've
+done it with some species I would just
+argue that the like the thing to
+attribute that to is not
+like like kind of
+nebulous model model of like economic
+competition you have it's just the fact
+that humans aren't ultimately that
+cognitively powerful we're cognitively
+powerful enough to like out compete
+every other species there Earth We're
+Not cognitively powerful enough to like
+turn the entire Earth into something
+that we would recognize is a Utopia that
+like didn't contain cockroaches we we
+just we can't do that yet
+and but there are systems that if they
+existed if they were par could do
+something like that and those systems by
+D of that capability could also do
+things other than that that make it
+transform the earth into not a Utopia
+but like just whatever configuration of
+atoms they wanted and we have to be
+careful not to let that alien ship in in
+the now use land but there are people in
+these companies who are who are like
+actively rushing toward that alien ship
+right like do do you disagree that
+they're pursuing that
+path I think that there are some people
+who want to build the best AI they can
+as fast as possible but I think the two
+slopes that you're kind of asserting are
+really sharp I think luckily are not
+going to be that sharp so the two slopes
+are how the economy evolves like when
+one firm hits on a big Insight does that
+Insight stay within the firm or does it
+diffuse I feel like it probably diffuses
+and then the other thing is when you hit
+on an Insight of how to make AI smarter
+does it F do you suddenly get a much
+smarter AI probably not I think it's
+going to take decades or years right so
+I think you have these two curves that
+you're climbing that are both going to
+be pretty shallow they're going to take
+time the economy is going to adapt and
+the doomers are saying no it's all going
+to be really really sharp and I will
+agree to that Crux right that if
+everything is so sharp right then you
+might get a Singleton right you might
+get a catastrophe absolutely right I
+just don't see that as the default case
+okay okay yeah I think
+um you we're about
+Against Time
+already why don't why don't we just like
+you know take take we'll we'll do a
+little back and forth and we'll do
+closing statements and we'll bring it to
+a close okay sure um yes I guess you can
+go first I
+guess was there any yeah was there any
+other topic that you wanted to hit on
+before we go to closing statements no I
+feel like I
+mean you probably have like a list of
+like concrete topics you want toing on
+I'm sure I didn't like hit on all of
+them because I didn't like prepare as
+comprehensive a list but as far as like
+comparing and contrasting like key
+aspects of our models I feel pretty good
+actually about that discussion cuz like
+in the end I I feel good about the fact
+that I I I got you to basically say like
+this is a Crux for me right like I feel
+like that counts as progress I mean that
+makes it productive as a debate right
+because then it can help be like hey if
+you can make Robin believe this
+differently then you can ConEd the
+debate potentially yeah yeah in terms of
+coverage like did you feel like that was
+a fairly comprehensive like yeah yeah I
+thought that was good I thought that I
+got to
+pontificate on a lot of what I've
+studied of points that Robin Hansen make
+I got to regurgitate a lot of it so I
+feel like I gave you a pretty good
+survey of how I imagine Robin an it I'm
+sure I didn't nail everything I think I
+did pretty well I think I did better
+than almost anybody else would do at
+being a robin hon scholar but I bet
+Robin Hansen would have a number of
+important nitpicks so I don't know but I
+like to think that his nitpicks are kind
+of minor like I love to think that I
+actually did a decent job right now um
+but I'm I'm very curious yeah maybe
+he'll uh do me a favor and listen to it
+and give me some feedback um in terms of
+closing statements do you want to make a
+closing
+statement uh sure yeah so my contention
+as the Doomer in this SM debate but also
+just as a Doomer in real life is that we
+are possibly not necessarily but
+possibly like no one currently alive is
+able to forecast with accuracy the
+remaining time that we have until the
+Advent of like what what people like to
+call AGI so we could potentially be on
+the cuss of it it could be the case that
+the next model released by open AI or
+anthropic or whatever is past that
+rightful and given that that's the
+current epistemic state that we exist in
+given that that's our current state of
+knowledge it's expedient and wise for us
+to back off and say let's just reap the
+fruits of what we've already harvested
+let's have an AI summer let's pause Ai
+and not Barrel forward to toward the
+edge of that Cliff that may or may not
+be closer than we think than some people
+think it is that would be my closing
+statement um I guess that's more of like
+an like a recapitulation of my view I
+I'm not like really going to go over all
+the disagreements that I had with with
+your Robin Hansen I feel like probably
+you're going to do that in just the next
+but yeah that's my
+closing all right here's my Robin Hansen
+statement the future is scary the future
+is counterintuitive people think about
+what's going to happen and they get
+freaked out thinking about our
+descendants having values that to us
+feel crazy right it's happened in the
+past it's happening in the
+present the doomers have brought a new
+level to this where they're saying not
+only are our descendants going to
+disagree with us on values but also the
+artificial intelligence that we're
+building is going to disagree and it's
+going to make life bad even in this
+generation or our children's generation
+right so they're accelerating their
+freak out basically uh this hinges on as
+you saw in our debate it hinges on the
+idea that a single firm is going to
+suddenly get a lot more powerful than
+other firms because of the AI that it
+builds or the AI inside that firm is
+going to suddenly get way more powerful
+and there's not going to be a
+transmission of progress among firms so
+that's one of the important claims that
+doomers make and another claim that
+doomers make is that when these AIS want
+to go against their firms then they'll
+be able to do it successfully in a way
+that's Unstoppable right so these are
+very technical claims about what they
+think that AI is going to do and it
+seems like they're violating both my
+experience with AI progress and the
+research on AI progress or the history
+of AI progress and also the standard
+models of how the economy progresses
+right where you have competition you
+have sharing you have dependencies it
+seems like they want to go outside of
+these models because they have a model
+that they like more they have a
+reference class that they like more
+where they think it's really important
+how natural selection started and how
+human brains changed over animal brains
+and those are interesting models to be
+sure but they don't necessarily have the
+kind of predictive power that you get
+when thinking about the entire economy
+and what we know about firms and what we
+see empirically and even what we see
+today with the AIS that we have today
+and how they just compete with each
+other and they're able to be tuned by
+what humans do so I just don't see the
+doomers justifying the craziness of
+their claims with enough models and
+empirical arguments and logical
+arguments that's it cool all right but
+yeah thank you I think that was
+productive um yeah I don't really have
+much like many closing thoughts at least
+like not well organized ones but like
+yeah just thanks for inviting me on to
+do this yeah this was great I had a lot
+of fun I mean it's always fun to
+roleplay the other person's position
+right and try to deliver it as strongly
+as they do so I'll be very interested to
+see if the viewers enjoyed it and if if
+they've gotten nitpicks where they think
+I've emitted a strong argument that
+Robin makes please let me know if I
+accidentally convinced you that Robin's
+position is correct that's not my
+intention but you know it means I did a
+good job and hopefully I can convince
+you the other way when I debate the real
+Robin as myself but yeah just want to
+give a huge thank you to David you were
+a great sport I hope it wasn't too
+intimidating when you know I'm also a
+Doomer like you I'm contradicting you
+anyway I know I yeah yeah yeah I think
+exercises like these are just
+intellectually interesting in their own
+right so yeah I have a lot of fun as
+well and yeah I mean I'm I'm looking
+forward to to the real debate and with
+the real
+Robin totally I agree this is a great
+exercise and it is called the
+ideological Turing test it's a term that
+I think was coined by Professor Brian
+Kaplan who's also a colleague of robins
+I think the world has way too few
+ideological Turing tests so I agree I
+think a lot of debate should be doing
+this exercise right because it's super
+productive if you can't pass the
+ideological uring test then you have no
+business arguing with somebody right you
+have to understand what somebody says
+before you can argue with them so huge
+fan of this exercise and one of my goals
+for Doom debates is just to be a model
+of good debating I think that
+ideological tring test is a model of
+good debating assuming that I passed it
+created value okay great and I just want
+to also throw in a comment David zoo is
+a great follow on Twitter he's always
+posting super insightful stuff he can
+analyze stuff uh on the same caliber
+that I do myself so where can people
+follow you David yeah so my Twitter
+handle is just um David Zoo 90 that's no
+spaces no underscores nothing just the
+the name followed by the the numbers 9 Z
+that's David xu9 on Twitter everybody
+yes yes that's correct
+great all right thanks again David uh
+and everybody stay tuned keep watching
+because in the next week we're going to
+have Robin Hanson coming here on Doom
+debates looking forward to

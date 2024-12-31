@@ -1,0 +1,4146 @@
+the issue is that if we could give you
+like necessary and sufficient conditions
+for exactly what constituted knowledge
+it would be much easier to like program
+it or something this is one of the giant
+Mysteries welcome back to Doom debates I
+got returning Champions here uh Vaden
+misani and Ben chug we're doing a part
+two uh part one from a couple weeks ago
+was pretty popular uh a lot of people
+agreed with both sides it was kind of
+controversial um if you're one of the
+people who thinks it's controversial
+just uh don't be a dick if you're being
+a dict you're going to get blocked so
+heads up about that and yeah let's just
+go around the horn Vaden and then Ben um
+just introduced ourselves again uh and
+really quickly summarize your position
+and then we'll dive in today focusing on
+AI
+Doom uh yeah my name is fayen I'm one of
+two co-hosts for the increments podcast
+uh the first episode with doom debates
+uh we talked a lot about basing aist
+ology and I guess today we're talking
+more about super intelligence uh my
+position is that I'm not worried about
+the Doom scenarios uh I am worried about
+just standard things to be worried about
+with regards to technology like it being
+misused um by authoritarians for for
+example and Military applications um so
+that's my position and looking forward
+to
+chatting yeah uh I'm Ben uh doing PhD
+and stats machine learning uh excited to
+chat again first conversation was great
+it was a lot of fun definitely rubbed
+some people the wrong way but I think
+all three of us had a blast so that's
+the most important thing I learned I
+guess that I smile too much in in a way
+that perhaps comes across so slightly
+mocking which I promise I'm not trying
+to do I tend to be a happy smiley person
+so if I'm smiling it's not because I'm
+trying to mock your argument it's
+because I'm enjoying the dynamic so
+anyway get that out there and I've um
+come back from two weeks of manners
+training and hopefully we'll be much
+better behaved than uh than last time so
+all right yeah s was great guys and of
+course viewers know my position I'm I
+have a p Doom of like 50% by 2040 I'm
+very worried I think that Society is
+kind of sleepwalking into Doom um you
+know my epistemology views from part one
+uh my background is in computer science
+and uh doing small startups uh currently
+working L now and yeah all right so
+that's we got the background out of the
+way so today we're going to mostly focus
+on the AI Doom argument so I guess uh I
+will kind of present it uh in a pretty
+classic elzra owski fashion but without
+necessarily like a bunch of math or all
+the technical details because I think
+it's a pretty simple argument right so
+even just hitting on the simple points
+might already lead to some clashes so
+yeah I guess just to start from the
+beginning if I were to zoom all the way
+out like why are we doomed uh you could
+say It's Just Two Steps step one it
+looks like super intelligent AI is
+coming soon step two most super
+intelligent AI scenarios seem to go very
+badly but the two parts of the argument
+so um maybe I'll put it to you Vaden are
+you at least Following part one that it
+seems like super intelligent a is coming
+soon no well could you spell that out
+more I feel like that's what we're here
+to uh be persuaded about all right yeah
+so let's let's spell out so AGI is a
+term that's getting thrown around a lot
+artificial general intelligence uh I
+think a consensus definition is
+something like it's an AI that can do
+all the different economically relevant
+skills as good as most humans let's say
+like a human with 120 IQ so maybe not
+like the best human in the world but
+like if you look at the job market it
+can beat like most humans at it who are
+currently employed at that job so across
+the board once we have ai can do that
+that would be a fold called AGI I
+personally go a little bit farther and
+I'm like well there there's going to be
+ways in which it's even uh more
+threatening and more powerful than that
+so even if you just take an an AI That's
+need a definition of an AGI just imagine
+that it thinks 10,000 times faster than
+a human and of course it can replicate
+itself and it doesn't have the
+constraint of a body and a metabolism so
+if it needs to use gigawatts of energy
+it just uses gws of energy right so
+already in many ways it's just
+transcending the kind of limitations
+that you normally see in a human so that
+that's basically the scenario when I say
+super rul and actually there's one more
+magic dust that I like to sprinkle in I
+don't think it's a super loadbearing
+claim but it's just the idea of like not
+only will it be human level and really
+fast and really high energy but also
+it'll just be smarter right so what
+there's not really such a thing as like
+a 300 IQ but something along those lines
+like it will just be able to have
+flashes of insight that even Einstein
+couldn't even dream of having so I I
+think that's another element worth
+thinking about too so so that's what I
+mean by super intelligence and I think
+that that is coming in the next few
+decades if not faster what do you
+think uh good so yeah I think you are
+correct to identify uh part one and part
+two here and I think we're going to get
+stuck on part one so I want to say that
+there is very little reason to think
+that deep learning as currently
+instantiated is going to lead to AGI uh
+and so I think we'll end up probably
+talking a lot about the specific
+technology of llms and deep learning and
+generative models and I think uh yeah my
+position and I'm sure ven's position as
+well is that uh this is not sort of uh
+on the path to to AGI and there's not
+too much reason to think if we keep
+pushing in Direction uh we'll get AGI in
+the next few years the next the next
+decade or something maybe um something
+to add to that uh so I agree with Ben I
+just want to plant a flag for the the
+listeners and for this conversation that
+uh maybe the two sides are viewing the
+question from different Vantage points
+because I think uh when you say that
+super intelligence is coming you're
+taking more of a and correct me if I'm
+wrong here uh taking more of an outsider
+view which is looking at the trends uh
+looking at the fact that previously uh
+we could didn't um we didn't have llms
+and now we have llms and LMS seemingly
+are this miraculous thing that can come
+up with any explanation you ask for it
+when you write into it it can um control
+your computer it can do all sorts of
+cool stuff so that's maybe like the
+outsider view um then The Insider view
+uh the way that Ben and I are thinking
+about it is the specific technologies
+that underly llms how do they work and
+is there any reason to think that
+grading descent on training data is
+going to get us to these Dooms scenarios
+um and so please correct me if I'm wrong
+I just want to flag that um I think a
+lot of the tension here is that Ben and
+I are going to be talking specifically
+about how these um systems work and why
+we don't think that just making them
+better is going to get the scenarios
+that you're describing um and so that's
+just maybe some useful tension yeah yeah
+and to clarify you know my claim isn't
+that a particular architecture that you
+have in mind is going to scale in a
+particular way to get to AGI but just
+somehow our whole species using the
+might of all our different engineering
+approaches in parallel is some going to
+cross the AGI threshold so it's possible
+that your own extrapolation of a
+particular architecture just isn't the
+right thing to be looking at and
+extrapolating right well so the whole
+human might has been trying to get
+Fusion for 35 years and we haven't
+really been able to to do that so
+there's lots of technologies that we
+have been able to do and Quantum
+Computing is another example of um at
+least like Sabrina Helder is claiming
+that it's stalling so just because
+humans want something does not mean we
+necessarily will get it is my point yeah
+um Fair Point okay so you guys are both
+resistant on part one that super
+intelligence is coming soon uh and this
+is what I would call getting off early
+on the Doom train although you could be
+you could be getting uh you could there
+there are even earlier stops than that
+um so let me even back up on the Doom
+train do you think that super
+intelligence uh will ever happen if
+let's say if we had 10,000 years to
+build it will we get there
+eventually I yeah I think there's
+nothing
+uh like building super intelligence I
+view as like a problem and uh well okay
+sorry let me take a step back it depends
+what you mean by super intelligence I
+suppose um I'll say that there's nothing
+uh I think I think in the laws of
+physics that prohibit us from building
+something that is humanlike in its
+generality and then we can argue about
+how many steps up the ladder from humans
+there are if you will I think we might
+differ a bit uh on that specific claim
+but in so far you know in so far as the
+claim is just about the possibility of
+building something that's as general and
+creative and insightful as the human
+mind can be at its best then I think
+there's nothing uh that's prohibiting us
+from understanding how to do that so I
+yeah something like that is okay
+so if we had 10,000 years of building
+could we at least get something that's
+like an Elon Musk brain in a computer
+Elon Musk level brain in terms of you
+know all the different skills that he
+has uh running at 10,000 times Elon myth
+speed and also there's millions of cop
+and also they have tons of energy
+powering
+them well so the only thing that I know
+for sure is that it has to be possible
+to arrange physical material in such a
+way that we get human level intelligence
+um that's the only existence proof that
+we currently have uh yeah my scenario is
+still human level intelligence right but
+it's with these modifications as to you
+know the speed and
+energy uh yeah so I can't obviously rule
+it out um anything is is possible but um
+that doesn't get us too much right like
+uh all sorts of things are possible but
+I'm not terrified of it because every
+time Doom train do you get off right uh
+yeah okay yeah no that's that's possible
+I don't get off there sure okay all
+right so it it sounds like you're kind
+of if if I was saying we're going to not
+we're going to be doing but if I was if
+I were saying we are going to have uh at
+least AG gii that has a lot of speed and
+uh abilities right like collaboration
+abilities right because if you imagine
+like a million you must brains that all
+like very fast like I think you guys
+would kind of agree there that there is
+a significant risk of like a nation
+state of these agis in 10,000 years
+right so that could be like a starting
+point
+I uh I think it's unlikely we go from
+zero to building something like that so
+I think a much more likely scenario is
+like we're also getting smarter
+alongside these things right and sort of
+we become intertwined with this
+technology in some way and there's no uh
+significant discrete difference between
+us and Them at this point uh I'm wary a
+bit about arguing with these super
+abstract scenarios but for the purposes
+of you know not being difficult uh then
+sure let me let me say that that seems
+possible to me can I yeah and can I just
+flag that there's at least from my
+perspective a major difference between
+me saying it's not impossible and then
+later on some saying that there's a
+significant risk of so um I don't know I
+can't say that there's a significant
+risk of any of these things I don't
+think probability can be used in that
+fashion all I can say is that there's
+nothing in the laws of physics that rule
+out the scenarios that you're describing
+but I wouldn't want to make the further
+step which is thus there is a
+significant risk of um that I think is
+is not justified
+y okay maybe let me just inject uh this
+perspective on the conversation that I
+often struggle with when I'm talking
+with people who hold uh the opposite
+position on AI than me and I think for
+someone like me there's sometimes like
+a Kafkaesque quality to arguing against
+AI Doom where it's never quite clear
+what I'm supposed to be arguing against
+so there are two I think specific claims
+that get made that I think should be uh
+that are different claims um and should
+be treated separately but often get
+inter intertwined in unhelpful ways so
+one is sort of that llms or let me not
+say llms let me just say like generative
+deep learning uh if we keep going down
+this path we're going to get AGI uh and
+that's when I think B and I want to talk
+about the specifics and then there's
+sort of this like death by abstract
+super intelligence view on things where
+now we've sort of left the details of
+specific Technologies and we start
+talking about uh you know yeah Elon Musk
+style brains running at Thousand uh
+speed of our current brains ET the
+latter thing you're talking about is
+kind of like my part two right um sure
+sure I'm just saying I think there's
+this tendency in these conversations to
+jump no it's sorry go
+ahead sorry it's different than your
+part two so your part two was that most
+scenarios go badly Ben is making a
+different point which is that all of
+these scenarios are not Tethered to
+reality at all and we can just come up
+with a infinite number of them because
+they're not grounded on any of the
+current technology okay yeah my part two
+is about uh how once we have a super
+intelligence just like thinking of the
+possibility of having a super
+intelligence here soon seems like it's
+not going to go well and I I think what
+Ben just said is like he finds it hard
+to even have that conversation so I
+think that's the
+connection um sure yeah I guess I just
+want to say that I think there's like
+this unhelpful move that can be
+sometimes made where uh we can start
+talking about you know progress in deep
+learning and that's a thing we can
+discuss and we can talk about uh t uh
+the techniques of the trade and like
+what the limits are of these sort of
+techniques and then once we run out of
+answers there I think there's this pivot
+that's often made to like well now let's
+start imagining this abstract super
+intelligence and so you can sort of
+offload the difficulties of not knowing
+what's going to happen in either of
+these two domains you can switch when
+it's convenient perhaps um and I just
+want to be wary of doing that in this in
+this sort of conversation and so I guess
+I'd maybe turn the question back around
+on you and ask to what extent are you
+specifically worried about deep learning
+as it exists now and like how you
+envision the next few years
+going I'm worried that
+it's it's true what you guys were saying
+before where my view is a little bit
+outside where I think about it from the
+perspective of what is intelligence so
+an analogy would be like if I was
+looking at a heat engine or just any
+kind of physical engine converting
+energy into useful work and it's like
+look I don't even know this engine's
+design I don't know how you put the
+pieces together to make the engine do
+what it's doing but I know about the
+concept of thermodynamic work right I
+know what it means to put energy in and
+get useful work out and I'm just
+noticing oh the engines are becoming
+more efficient and I know what it means
+to have an ideally efficient engine and
+I know how impressive it is to approach
+that ideal and so I'm having a similar
+uh you could even call it a black box
+perspective or an input output
+perspective where it's like look I know
+what intelligence is intelligence has to
+do with being able to optimize outcomes
+I know that we live in a universe that
+supports a high degree of intelligence
+and a high degree of engineering from an
+intelligent a very hackable universe and
+what I'm seeing is intelligent is coming
+out that are hitting higher and higher
+milestones in terms of being broader
+than ever and deeper like optimizing
+more powerfully across a broader range
+of things and so for my Black Box view
+I'm extrapolating well if they got even
+broader and even deeper we as humans
+would be powerless because our own
+brains are not as Broad and deep in
+terms of optimizing the universe so that
+whole worldview is independent of like
+oh well we got the llm to like output
+some silent tokens right that's like a
+much more zoomed in world view like how
+a particular architect is working and
+I'm saying look the architecture is
+whatever it is we just have a lot of
+momentum on some
+Trend so what's wrong with the following
+analogy here um someone looks at the
+rate of progress not with regards to
+intelligence but with regards to how
+fast we can travel so first it was
+horses um and then it was Cars um and
+then it was planes and then someone just
+extrapolates out and says oh my God soon
+we're going to have like quarter of the
+speed of light travel and then 99% speed
+of the light travel and just keep
+extrapolating going going going but
+there's all sort ofate that for any
+intelligent
+civilization but would you do that with
+speed though or would you recognize that
+with speed there's like physical
+limits I see okay the analogous
+extrapolation is that I think any
+intelligent civilization will be able to
+go a pretty high fraction of the speed
+of
+light because this is the other thing
+that I struggle with in these kinds of
+conversations is that the way that it
+sounds to my ear is that intelligence is
+just this magic potion that can allow
+any entity to do whatever it wants in an
+omnipotent way um humans are intelligent
+but yet we can do very few things uh
+because there are say funding
+limitations and there are this you have
+to have the right idea and if you don't
+have the right idea about how to make
+cold fusion work even though
+theoretically it's possible it's not
+going to get built um the problems that
+these intelligences are trying to solve
+themselves get harder and requires more
+intelligence to solve them and thus I
+don't see any reason to believe that if
+you just keep tuning up intelligence we
+can just get anything that we want um
+and so maybe just persuade me of of that
+because it just sounds I me let me give
+you some perspective right imagine we're
+having this uh this conversation in
+ancient Rome right and you could be like
+look I get that intelligence is powerful
+I mean look at all this cool stuff we've
+built aqueducts whatever right but like
+you got to there are limits right like
+humans at the end of the day there's
+going to be energy limits there's going
+to be funding limits right so you could
+be having this discussion as an ancient
+Roman whereas you lack the perspective
+that 2,000 years in the future there's
+going to be a freaking Starship rocket
+right and it's going to be like landing
+and having like ridiculous amounts of
+energy right and and having the power to
+have a space program to looks like Mars
+is a plausible thing it's w to get to
+right and so yes we should have
+perspective it's just that the walls
+right the ceiling are just ridiculously
+high for some things but not for
+everything like we haven't figured out
+how to solve war or poverty or there's
+all sorts of problems that still exist
+and and I know you're going to say well
+we just don't have enough intelligence
+and I guess I'm just saying I um maybe
+that's just a a fundamental intuition
+difference between us um but what do you
+think about the perspect like can you
+make an analogy of like look the way
+that we kind of impressed the ancient
+Romans in terms of what they would think
+is like a feasible thing that
+intelligence can do don't you think we
+might be similarly impressed by what the
+equivalent of another 2,000 years of
+human civilization but sped up right
+don't you expect to be similarly
+impressed but I think of intelligence as
+a collective thing and I also think of
+it as a slow thing
+um and I think of it not as just one
+agent's ability to do whatever it wants
+but this distributed network of people
+all working and collaborating to slowly
+improve the world um and it took 2,000
+years to get from ancient Rome to here
+and that's amazing but just because that
+Gap that Chasm has been jumped and we've
+made a lot of progress doesn't mean
+necessarily that we'll be able to create
+super intelligent things that will take
+us 9% of the speed of light like that
+just seems to me to be a huge stretch um
+and I can talk more about maybe the
+differences between how you and I think
+about intelligence because I don't think
+of intelligence as just the ability to
+optimize whatever thing we want to
+optimize I think of it in a very
+different fashion um but I just want to
+flag that just because there was
+progress in the past doesn't mean we can
+necessarily inevitably assume that there
+will be an unbounded amount of progress
+in the future let me give you a concrete
+question let's make this feel a little
+more concrete do you think that in
+10,000 more years of civilizational
+progress even without super intelligent
+AI do you think there's a good chance
+that we could make a set of space probes
+just like a bunch of tiny space rowes
+that somehow get themselves up to going
+1% of the speed of light and somehow
+land on some Far Away Galaxy with you
+know with when the speed has been
+something like 1% the speed of light
+like is that a possible scenario it's
+possible um it's possible in the sense
+that like it's uh it would depend if
+people want to do that if there's some
+reason to make the space probes there's
+there's a myriad of different
+engineering projects and scientific
+problems that people want to work on
+that just completely lose interest
+because of funding reasons because of
+banal they can't figure out the right
+way to organize the engineering project
+um so all of this stuff like my answer
+is always going to be it's not
+impossible but I don't know if it makes
+any sense at all to assign some sort of
+number to it and this ties us back to
+the Bas and epistemology stuff just to
+pump to pump your intuition um if you if
+you say an ancient Roman like hey you
+think that somebody could just have like
+uh an entire Castle's volume worth of
+rice grains like perfectly good edible
+rice grains just like thrown into a
+ditch and they could be like um that's
+like such a weird scenario like you have
+to assume that they' like want to do
+that and they invest resources and that
+whereas fast forward to 2024 I can
+probably charge on my credit card right
+rice is probably cheap enough where I
+could probably just get somebody to
+deliver a Castle's worth of rice to me
+re with and it's not going to cost me
+that many thousands of dollars it's just
+like not a big deal right so there's
+this idea of civilization and and
+intelligence just raising the bar of be
+like yeah a lot of these things are just
+not a big deal once he Advance a certain
+amount uh okay wait wait let me let me
+just try and interpolate between this
+disagreement a bit so vaden's claim
+obviously correct me if I'm wrong Vaden
+vaden's claim is not that we won't be
+able to accomplish amazing things in the
+future if we want to right and if
+civilization keeps progressing uh keeps
+developing our science keeps exploring
+the universe uh there's no telling what
+kinds of things we can do and I'm ready
+to sign off on you that we can't even
+imagine some of those things right now
+that's why the future is so open and
+exciting so I think there there's no
+disagreement or or rather it's not as if
+we are sitting here claiming that we're
+this is it we've achieved we've we've
+achieved the apotheosis of humanity
+there's nowhere to go from here uh you
+know all the technology we have now is
+is sort of where we're stuck so we're
+definitely not saying that um I think
+Vaden is more making the claim that um
+on his View and on my view generating
+knowledge is hard in some sense so it
+requires a lot of work uh and it
+requires also conflict between different
+agents uh and so this sort of view where
+there's just this one abstract super
+intelligence that can recursively
+self-improve and generate as much
+knowledge as possible do whatever it
+wants um almost immediately solve any
+problem any obstacle that uh is in front
+of it is on our view sort of uh just an
+incorrect view of how intelligence and
+problem Sol solving work so maybe that
+gets us slightly closer to it the nub of
+of the
+disagreement uhhuh yeah I mean cuz I
+think this is a good topic I want to
+dive into kind of like what is
+intelligence how does intelligence work
+so it seems like you're making a claim
+that intelligence has to be powered by
+conflict between agents that seems
+unlikely to me because why not just
+model it as like okay well I'm just my
+brain I claim that my brain has 10
+agents
+in intelligence yeah so this is a major
+difference between the way that we're
+think about it so we're talking about
+knowled production not intelligence um
+and that's a major difference okay well
+we might have to back out to
+epistemology a little bit right so so
+what actually is knowledge
+creation um it's the generation of new
+ideas that tend to take the form of hard
+to vary explanations that solve concrete
+problems in the world so it's
+information about how to solve problems
+that tend to take the form of heart to
+vary
+explanations can we do an example what
+was the last piece of knowledge that you
+created uh I guess my thesis would be
+one um if you want to use how long ago
+that uh two years ago yeah okay have you
+created any knowledge in the last two
+years yeah no I I would want to claim
+all sorts of places but that's maybe the
+most concrete thing that people can look
+at yeah
+so so it doesn't sound like this is like
+a daily activity that that humans do so
+which which makes me think that without
+your definition of knowledge creation
+AIS can still kind of be better at human
+life than we
+are uh I'm confused no I'm not saying
+literally the last time I created
+knowledge was two years ago just if you
+wanted a concrete example that's that's
+maybe one easy one um
+but I guess I'm unclear what the
+question is uh yeah I mean it sounds
+like knowledge creation is a big part of
+your world model right it's like a
+fundamental concept used to understand
+the world and yet despite how
+fundamental it is it's it's only
+something that you did two years ago
+oh no sorry I created knowledge what's
+the last time um every time you tell a
+joke that has not been told before
+you're in some sense creating knowledge
+about how to make people laugh there's
+all sorts of mundane simple trivial
+examples that one could use uh but just
+uh because U knowledge is kind of a an
+abstract and hard to
+um hard to get intuition about um I just
+want to use a more Salient example which
+would be my thesis so it's it's slightly
+misunderstanding what I'm saying I'm not
+saying that between now and two years
+ago no knowledge has been created it's
+just if you want a very clean example of
+what I'm referring to a published thesis
+is a good one but if you want to go into
+much more detail about what we mean by
+knowledge creation uh Etc um then we can
+talk about that but it just seems like a
+weird way to ask the question I guess
+seems kind of gotcha
+ask okay so you mentioned uh telling a a
+novel joke could be an example of a
+knowledge pent so if I ask Chad G to
+tell me a novel joke and it does is that
+knowledge
+creation yeah sure so um yeah if you
+just Define uh like new knowledge as
+something that uh we've just never seen
+before just a combination of bits or
+something that exists in the universe
+that we've never seen then I'm happy to
+sign off on chat GPT creating new
+knowledge lots of times obviously it's
+coming up with combinations of tokens
+that we've never seen so if you're you
+know if if we want to settle on that as
+the definition uh then the more
+interesting questions becomes is it
+generating important surprising because
+I know sorry sorry to stop you there but
+um that is a claim that is not
+consistent with what I normally hear
+from do and people who support do right
+they're pretty adamant that current AIS
+don't do knowledge creation sure yeah I
+think saying conditional on a certain
+definition right if you want to Define
+it this way then fine y right so I just
+said like combination but don't don't
+you want to Define it to be consistent
+with do um I'm just trying to make this
+conversation goes as easy as possible so
+I'm just saying like if we're you know
+if if we're assuming just novel
+combination of bits happy to sign off
+with chat GPT creating new knowledge
+then we can ask the question is it
+useful knowledge right like is it
+knowledge that Humanity perhaps is
+incapable of coming up with or something
+that's fundamentally new giving us
+fundamentally new insights into the way
+the world Works um really feeding into
+our knowledge produ production systems
+uh in ways that is really benefiting Our
+Lives etc etc then those are all
+interesting questions we can ask
+Downstream of that I think someone like
+Deutsch's claims is more he's sort of
+taking the definition as extremely
+useful kinds of knowledge right that the
+so sort of knowledge that's being
+generated by a scientist or an artist or
+someone sitting down to write a novel
+poem that's going to you know touch
+millions of people um and I think
+someone like Deutsch and probably
+someone like me wants to say that that
+sort of knowledge creation has not been
+done by these artificial systems yet and
+it's it's similar to like um our lm's
+creative right well it depends on what
+you mean by creative um I can give you a
+definition of creative by which yeah
+sure llms are creative it's creating new
+stuff I can also give you a definition
+of creative under which LMS are not
+creative at all um and similar with
+knowledge like uh I can go into detail
+here why I don't think LMS are going to
+create knowledge in the way that is
+going to progress Humanity but you can
+absolutely just Define knowledge in a in
+a weaker way uh and then sure yeah it's
+coming up with a new answer to some
+algebra problem that has never been done
+before um and so it's just really
+question of how you want to Define these
+terms um and so we can just explore the
+decision tree of different definitions
+and how they lead to different kinds of
+conclusions yeah so I noticed you guys
+are being very flexible you're saying
+hey we could Define it like this we can
+Define it like that but like I want you
+to teach me your worldview and your
+worldview can be made out of your
+definitions right so in particular like
+what is your definition of creating new
+knowledge um
+not um yeah I mean so if we can go back
+a little bit to like um uh induction and
+um how do we get new ideas that will
+lead to this question um so one of the
+major
+distinctions let me take one step back
+so in the 1800s there was a big debate
+between the rationalists and the
+empiricists um and that debate consisted
+of the question like what comes first um
+ideas or observations so the um
+empiricists said that observations come
+first and if you get enough observations
+coming in just being poured into your
+brain then eventually ideas will form um
+that is wrong that's a factually
+incorrect and anyone can see that easily
+by just asking the question did we have
+the idea of a black hole before or after
+we saw a black hole well first we had
+the idea then we went and saw it um do
+we have the idea of airplanes did we
+have the idea of computers do we have
+the idea of Skype before we saw these
+things or after we saw these things um
+clearly it was before and that's how we
+created them in the first place so ideas
+have to come first because ideas tell us
+what to look at um what to observe in
+the in the first place uh deep learning
+and llms are the exact opposite llms
+require training sets which are
+observations collected by human beings
+who have the ideas um and the hope is
+that if you just shove in enough
+training data over and over and over
+again and you make the training sets
+larger and larger eventually ideas will
+start to form this is just not how the
+human brain works and this is not how
+knowledge is produced knowledge is a
+kind of idea and so we can talk about
+the differences there but the major
+point is that that um accumulating
+observations and then hoping if you get
+enough of them you're going to have new
+ideas coming out just does not work but
+this is the modern foundation for all of
+machine learning all of AI and all of
+the stuff that y'all are worried about
+and the reason that I'm not worried
+about it at all is because I think in
+one convers one podcast you asked like
+what is the difference in kind and not
+degree like I've been asking so many
+people this h no one can tell me the
+answer what is the difference in kind
+and not degree between human level and
+intelligence and um uh these systems
+that we're making and I've just given
+you that answer so the difference is
+that humans have ideas first and then we
+get observations these systems have
+observations first and we'll never get
+true new ideas they will be able to
+combine tokens in different ways and if
+you squint at it then sure you can say
+that oh this token has not been next to
+this token before and this is kind of a
+new thought but so can chimpanzees um
+banging on typewriters so enough
+chimpanzees banging on enough
+typewriters will come up with a new
+thesis but that's just not what we think
+of as knowledge creation um even though
+you've created something and so the way
+that Ben and I want to think about this
+is via the underlying mechanism not the
+output and you tend to want to think
+about it more in terms of the output and
+not the mechanism and so with that I'll
+pause and pass it back to you y all
+right I'm still not fully clear on what
+you mean by creating new knowledge I I
+think it's helpful the last thing you
+said of well it's going to have to do
+with the mechanism not just the input
+output so okay so let's continue with
+that so help me understand because my
+goal is to be able to look at examples
+and be like ah this is an example of
+what Vaden does mean by creating new
+knowledge this is an example of what V
+would say is not creating new knowledge
+so can we do an example of both types
+absolutely yeah so examples of knowledge
+would be things like uh water is made of
+two hydrogen atoms and one oxygen atom
+um you cannot travel faster than the
+speed of light Quantum field Theory
+anything published typically on like um
+in journals or papers um stuff that you
+read in libraries that would be
+knowledge information would just be
+sequences of bits we talk about creting
+so sorry the person who published the
+paper at some point when they were
+writing the paper they created the
+knowledge uh well so knowledge creation
+it's a full pipeline so it starts with
+photons being like entering your eyes
+and sensory experience um which your
+brain then has to process and digest um
+and categorize and then it eventually
+becomes some sort of L listic expression
+uh first that's just uttered in your
+mind which you then criticize repeatedly
+until you have something that you can
+kind of write down and you write that
+down and you share it with some friends
+and confidants and then in that process
+you get more criticism it gets more
+refined all the bad ideas drop away and
+then eventually you have something like
+um water is some just crazy conjecture
+so water is made of two hydrogen atoms
+and one oxygen atom then everyone thinks
+about that for a long time and figures
+that they can't actually criticize that
+because that just seems to square with
+everything else we know about Atomic
+physics and about chemistry and you can
+run experiments to try to falsify that
+um and lo and behold the experiments you
+can make predictions that if you put
+electrolysis into water you're going to
+get twice as much hydrogen uh so then we
+start to say okay maybe this is actually
+true so then you write it down you try
+to maybe submit it to peer review no one
+can figure out the fault with it then it
+becomes written in our textbooks and
+then it becomes something that's taught
+in schools and then it becomes
+institutionalized knowledge that's
+knowledge creation from the photons to
+the textbooks yeah every step that you
+listed a necessary condition for the
+creation uh well every step that I
+listed isn't precise enough to be
+necessary or not necessary it's it's
+intentionally expansive when I say
+criticize and think about like yeah you
+have to think about it and you have to
+criticize it but the kinds of criticism
+can take very different kinds of forms
+um so we're talking about a whole
+process from the the what you see to
+what you think about to what you write
+down to what you talk about to what you
+subject to criticism to what eventually
+just becomes baked into our institutions
+and our pool of of um thought you're
+listing a lot of steps that seem
+specific to how humans operate right so
+you're you're kind of being descriptive
+about how humans create knowledge but it
+doesn't seem like you're your definition
+is generalizing to how any agents create
+knowledge there's only one agent that we
+know of that creates
+knowledge okay but I mean but do you see
+what I'm getting at where like can't you
+just imagine some agent that's not a
+human I mean because remember I mean
+humans were not optimized to create
+knowledge right we just evolve just like
+other animals evolve and like I mean do
+other animals create
+knowledge uh B do you want to so now we
+can start um interrogating the different
+kinds of knowledge so there's objective
+knowledge and there's subjective
+knowledge so objective knowledge lives
+outside of one's mind and can be written
+about in textbooks and can come from a
+dead Greek 2,000 years ago um and still
+be relevant today uh subjective
+knowledge only lives in the mind of a
+single agent so a dog that learns that
+at 5:00 p.m. every day its owner comes
+back and then its tail starts to wag
+that could definitely be seen as a form
+of subjective knowledge because it's
+learned that um every day this kind of
+regularity will happen um I'm only
+really interested in objective knowledge
+for the purpose of this conversation
+because objective knowledge is the stuff
+that can get us to Mars subjective
+knowledge is just um oh I feel happy I
+feel sad my owner's coming back that
+kind of stuff so um so in all these
+cases like we don't have definitions of
+the most fundamental concepts in science
+so we don't have a concrete definition
+of life we don't have a concrete
+definition of intelligence we don't have
+a good definition of Consciousness we
+don't have a good definition of
+knowledge what we do is we kind of
+recognize and observe this stuff and
+then we just say let's just call that
+knowledge let's just call that life
+let's call that intelligence um but as
+you drill down into foundational
+Concepts in science everything becomes
+vague and nebulous we don't even know
+what like there's the problem of change
+there's a the problem of causality
+there's so when you ask me like like
+what do you mean by knowledge like
+you're going to necessarily get
+different kinds of answers and I'll I'll
+be able to say well if you mean this
+kind of thing let's explore that if you
+mean this kind of thing let's explore
+that but that's because just as you
+drill into foundational Concepts in
+science everything becomes fake it's
+it's harder there there yeah so I don't
+quite agree with that characterization
+so the the way good definitions
+typically work is they kind of put a
+boundary around a cluster in concept
+space so in example of life I can give
+you a definition of life that it's going
+to Cluster a lot of things that are
+clearly life or not life so like a rock
+any definition of life is going to still
+say that a rock is not life any
+definition of life is going to tell you
+that a dog is life right so there are
+things that just tend to be Central to
+the cluster and then we can have an
+argument about what we call the edge
+cases right the things that are on the
+fringes of the cluster like a virus
+might be on the fringes of the cluster
+so when I'm asking you to Define your
+own term of creating new knowledge I'm
+not here to slap fight about the edge
+cases I'm just looking for to tell
+what's Central in in the
+cluster well I would just rather give
+examples of the cluster and then let's
+talk about that so in your example of
+life you didn't Define life you gave
+examples and that's great and that's
+what I tried to do with the the H2O
+example right so so that's what I mean
+by by knowledge is just here's an
+example of the whole yeah so help me
+that I mean you know my goal is to just
+be able to operate your definition well
+enough that when things come along when
+examples come along that are not to
+Fringe then it's easy for me to just
+answer okay they're part of the cluster
+they're not part of the cluster right
+like dog life cat life right Beetle life
+right so that that's all I'm looking to
+do but with with the concept of creating
+new knowledge so you mentioned that
+animals uh non-human animals can create
+what you call subjective knowledge so
+let's let's just try to simplify right
+just give me Concepts let's talk about
+objective knowledge and let's talk about
+creating objective knowledge you listed
+a bunch of steps that humans have to do
+to create that knowledge you gave what I
+see as kind of a parochial definition
+like a very human specific definition
+and you said well it's okay that I gave
+that definition because humans are the
+only known knowledge Creator and then I
+pointed out okay but it's not like we
+were made in a knowledge Creator
+creation Factory like we just randomly
+evolved out of the other animals as a
+continuous Evolution so doesn't it
+strike you as odd that you have this
+very human specific definition of how
+knowledge is
+created as soon as I saw another
+definition or sorry another example of I
+don't know some alien creating knowledge
+that way then I would think about that
+too and figure out how to adjust the
+definition amongst the various clusters
+but when I think and talk about
+knowledge creation I'm studying how it's
+actually created by people who actually
+are doing it and the only example that I
+have are human beings right um and so of
+course we can talk about like could AIS
+create knowledge and I would want to say
+sure maybe in like the far far far
+future but to do that we need to get out
+of the Paradigm of gradient descent on
+training data because gradient descent
+on training data is just induction and
+the one thing we absolutely do know
+about knowledge creation is that it
+doesn't work that way so if we want I
+still I still want to talk about the
+definition so in let's say in the case
+of Einstein because you mentioned that
+part of the definition is there has to
+be like a Convention of peer review and
+you know people have to argue about it
+but like let's say in in the case of
+Einstein inventing relativity what if he
+comes up with a math he's like wow this
+mouth really clicks it's so elegant it
+kind of has to be true so I'm going to
+publish it and like people can feel free
+to criticize it but like I feel
+confident would you argue that knowledge
+got created by the time Einstein
+published the paper or knowledge only
+got created After People argued about
+it uh I don't know if it's a clean
+binary in that fashion it's it's once
+the idea was made um if it was solving a
+problem so in Einstein's case it
+absolutely was it was trying to
+generalize special relativity and
+incorporate in um acceleration and
+gravity into into his framework um and
+then the thing that he thought about was
+hard to vary so he couldn't just
+arbitrarily change change different
+features of it um and when other people
+thought about it and understood it um
+they too couldn't find criticisms of
+that idea and they thought about it long
+enough that then they essentially
+decided to tentatively assume it's true
+and start building on top of it uh
+further because Einstein's theory is
+empirical uh it can be subjected to to
+falsifiable tests so it was subjected to
+Arthur edon's experiment um and each and
+every one of these steps starts to make
+us more um confident um to assume that
+this is uh telling us about how the
+world actually works um and so once we
+continue to run these experiments and
+build upon it then it becomes what we
+just say is objective knowledge um Okay
+so
+teration like knowledge creation versus
+not knowledge creation imagine I give
+you a scenario of Einstein thinks really
+hard comes up with theory of relativity
+publishes the paper and of scenario am I
+supposed to classify that as not
+knowledge creation because there's
+there's no additional steps uh that's
+knowledge creation yeah yeah I think
+yeah let's just yeah that's knowledge
+creation I mean if other people don't
+know about it it's you know it's it's
+not very useful knowledge but uh it's
+you know it's uh it's knowledge in so
+far as it's this uh spe specific pattern
+of information that is true and useful
+for solving uh various problems in phys
+it sounds like you guys are willing to
+shed some of these uh steps
+huh but we're not saying each step is
+like this is why it kind of feels like a
+you're trying to get us into a gotcha
+like we're we're saying that this is
+just right understand your definition
+yeah yeah well we haven't really given a
+definition as much as a whole process
+and a number of Criterion and um like
+we'll just choose different examples we
+can talk about how DNA was discovered we
+can talk about how Einstein came up with
+his theory of relativity we can talk
+about um how Hinton came up with um
+neural networks that's the reason ask
+about shedding steps is because where
+I'm going with this is I bet you can
+shed even more steps right like I bet
+you could even shed the step where he
+writes his insight into paper what if
+the insight's just in his head right can
+we shed that step yeah maybe let's just
+drill down knowled is I feel like I feel
+like I can see maybe where this is going
+and let's just okay so I think ven wants
+to draw a distinction between like you
+know like yeah knowledge uh that you
+have that no one else knows about versus
+like civilizational knowledge Etc so in
+that sense sure you can shed the steps
+of like peer review and like writing
+different kinds of know um yeah exactly
+so that's fine and but I think you want
+to say okay you know you gave this long
+process oriented definition and you can
+shed some of those steps so who's to say
+that you can't shed the step that you
+come up with the idea first who's to say
+that you know uh deep learning isn't
+actually generating like a specific kind
+of knowledge that you know humans are
+unable to do or there could be a
+different way to generate knowledge um
+and I think that's like Stark binary
+where we'd want to put our foot down and
+say that that's probably impossible so
+we could just jump there maybe um cuz I
+feel like that's sort of going yeah I
+think none of us are here to argue
+semantics right but the the reason why I
+felt like I really wanted to drill down
+into creating knowledge is because I
+often hear David doy being like today's
+AIS they're just not doing it for me
+because they don't create new knowledge
+right so this concept of Crea new
+knowledge actually does have an
+application to the discussion of like
+our on the verge of super intelligence
+right so that's why if it's such a
+fundamental concept I'm just trying to
+ask you what the concept how to
+distinguish something that is the
+concept versus isn't the the issue is
+just that I mean the issue is that if we
+could give you like necessary and
+sufficient conditions for exactly what
+constituted knowledge it would be much
+easier to like program it or something
+this is one of the giant Mysteries that
+revolves
+around that's not what I'm asking for
+right that's not what definitions
+usually give you uh no I just want to
+say that you know it's going to be messy
+the conversation about knowledge
+precisely because we're not sure exactly
+how the human brain is we know some
+things about it but we don't know
+precisely what's going on in the human
+brain to create knowledge so you know
+okay when when your original answer when
+vaden's original answer was like okay
+and then there's a bunch of people who
+look at it and there's like actually
+that's not necessary okay that's not the
+usual Edge case messiness that really
+that's like a lower standard than
+definitions usually meet right the fact
+of the definition is like that vague
+like usually definitions are more clear
+than that but knowledge is a multitude
+of different things so Einstein coming
+up with this general theory of
+relativity is a very important piece of
+objective knowledge that would need to
+undergo huge amounts of scrutiny because
+it's telling us so much um when I figure
+out where my keys are that's also coming
+up with a little bit of knowledge but
+that's just so low stakes that it has a
+different process and I know I keep
+using the key example which is why
+you're you're smiling then but different
+kinds of knowledge have different um
+mechanisms and so I was giving one
+example but I just want to add one extra
+little thing let's just use the life
+example for a second so you say to me um
+ven what is your definition of Life uh
+that's going to be hard because you
+could imagine like I don't know
+non-carbon based life forms and
+uh that are made out of sulfur in some
+alien species um so that's going to be
+hard but it would it's is less difficult
+to say what doesn't count as life so I
+could say a rock's not life I could say
+um this bottle here is not life so too
+with knowledge so yeah it's going to be
+tricky to say what is specifically the
+definition of knowledge deut has come up
+with like 15 different definitions of
+what he means by by knowledge um and
+they change often um but it's not hard
+to say what doesn't count as knowledge
+um and so that's where Ben and I want to
+talk about because one thing that does
+not count as knowledge is just
+accumulating observations and hoping
+knowledge is going to come from that so
+even if we will never be able to give
+you a precise perfect definition of what
+we mean by knowledge that doesn't mean
+we can't rule stuff out um in the same
+way that we can rule stuff out of of
+life and so if we want to talk about
+this we should absolutely talk about
+induction and why we know that induction
+isn't going to get us knowledge no
+matter how we Define knowledge well
+let's go back to the joke example let's
+see if you can rule it out okay so I
+asked chbt to tell me a novel joke he
+told me a novel joke did it just create
+objective
+knowledge uh did you tell it to a bunch
+of people and did they all laugh and did
+they want to tell it to other people um
+uh or yeah okay so five people looked at
+the output and four out of five
+laughed U maybe sure yeah in that case
+sure okay so it did so Chachi is capable
+of creating new objective
+knowledge this is it just depends on
+what you mean by knowledge like I I I
+don't know if this is going to be the
+most productive way to to have this kind
+of conversation I thought you were going
+to pick a definition that lets you argue
+that today's AIS are nowhere near
+creating
+knowledge I think I've consistently said
+that we don't have a good definition of
+knowledge un let's just use the
+clustering approach which is let's just
+come up with a bunch of examples and
+let's just talk about how these examples
+can cluster and so like that's what
+you're doing right you used that
+approach and then you concluded you used
+approach and then you concluded that CHD
+creates knowledge so so you're okay so
+just to be clear so you're diverging
+from David deut you're not making David
+Deutsch his argument that AI cannot
+create new
+knowledge under a strict definition of
+knowledge I completely agree with David
+Deutsch and that's why it's more
+fruitful to talk about induction and
+what we know doesn't create any
+definition of knowledge then it is to
+come up with some specific definition of
+knowledge and then and say under this
+definition LMS can do it like a
+chimpanzee banging on a typewriter can
+create knowledge eventually okay I'm I'm
+happy to say that over enough time
+you're going to get some sequence of
+words that will make somebody laugh or
+will tell us insights about whatever
+that's just taking like an output based
+approach but we're thinking about the
+mechanisms and I have not given you a
+definition because a definition would be
+right that's what I have not given you
+because I don't think that can be done
+very easily I would just rather talk
+about different examples um and so okay
+am I just being factually accurate about
+what David do says I believe he says
+that today's AIS can't create new
+knowledge and they aren't creative right
+is it correct that he said so what if
+you guys just use some definition of
+creating knowledge and creativity that
+makes David deutch's claims true and
+then we can argue about
+it um yeah I mean yeah so I'm not I'm
+actually not yeah I think David Deutch
+would say something like that 100% sure
+what deuts thinks about AI these days um
+I mean i' so okay maybe can I give you
+like tasks that I think are just beyond
+the bounds of current llms to do and
+then I can say like if it was able to do
+this then I would have to seriously
+reconsider whether it's creating new
+knowledge would you accept that sort of
+thing like I I think the definition
+thing is obviously the problem is that
+that sorry that that methodology kind of
+favors you right cuz it's very easy to
+just oh yeah the goal posts have always
+been here right so of course we can both
+list things AI can't do yet I mean I
+guess that there's still some value
+where if you said like look if
+self-driving act ever actually became
+street legal in 100 cities at that point
+I would say new knowledge has been
+created I mean at least that would be
+empirically testable and you'd have some
+chance of of getting falsified so
+there's some value to that but it's just
+like I just feel like this discussion is
+a lot harder than it should have been to
+just be like to just explain David to's
+argument you didn't ask us to explain
+David Do's argument you asked us what we
+were thinking right okay okay can you
+unpack this argument for me uh today's
+AI cannot create new knowledge therefore
+uh we're you know we haven't hit on
+we're not close to Super but definitely
+focus on the part where you say what it
+means that today's AI can't create any
+knowledge because today's AI is based on
+induction and we know induction cannot
+create new knowledge by any definition
+knowledge okay but what about what you
+just said about the
+joke um a chimpanzee banging on a
+typewriter will eventually make
+something and that's taking an output
+kind of view and if you really want to
+come up with some scenario where it
+comes up with make
+like random number generators can do the
+thing that you're talking about we're
+talking about a reliable mechanism that
+can do uh this repeatedly and you can
+give it um some difficult problem in
+chemistry that humans have been banging
+their head against the wall for 400
+years uh and the AI would be able to do
+it or you give it the question of how do
+you resolve the tension between quantum
+mechanics and general relativity which
+is the overused example then it would be
+able to do it let me go to the chimp
+okay imagine imagine there's a room
+right kind of like the the Cs Chinese
+room and there's just a chimpanzee and a
+typewriter inside and you ask the room
+hey tell me a joke and the chimpanzee
+types away right he types like billions
+of characters and then somehow out of
+the room a jokeit slips out and let's
+say it happens within like an hour would
+you just be like well it's just a
+championz typing no something has gone
+on that's right that that doesn't really
+explain the
+situation it's the difference between
+thinking about knowledge creation just
+in terms of output and in terms of like
+method right this is the difference so
+if you randomly jiggle all the
+characters eventually you'll get
+something that's funny and under some
+definition of knowledge you can say aha
+the chimpanzees have got knowledge but
+that's just not the interesting way to
+think about it the more interesting way
+to think about it is the mechanism
+because if we're going to create like
+actual human level intelligence we want
+to do it in a way that's not just
+chimpanzees banging on typewriters and
+so that's why it's more fruitful to talk
+about the methodology and how these
+things work than it is to just look at
+the outputs and look at some strict
+definition of does it count as knowledge
+or does it not and then say aha because
+it does count under this definition thus
+we know this blackbox is creating
+knowledge this just not the right way to
+think about this stuff I guess yeah but
+as you know I do like to focus on the
+input outputs and you gave an example
+where you thought you were dismissing my
+way of looking at the world you're like
+come on a monkey can do it and I'm
+telling you don't be so quick to write
+off the input output definition because
+if he did have a room with a chimpanzee
+in it and a typewriter in it and a joke
+came out within an hour that is actually
+an impressive input output that you
+can't easily dismiss it's it's a useful
+lens it's just not the only way to think
+about it I'm not saying you have to not
+think about it that way I'm just saying
+that that should be one of many
+different ways that we think about
+what's going on um inputs outputs are
+super valuable to think about inputs
+outputs but then we also want to open up
+the black box and think about it not as
+a black box anymore right so so going
+back to the joke right if if you if the
+year was 2000 and and you said hey I'm
+going to give some prompts like
+improvisational prompts for a joke and
+the computer is going to make me a joke
+that is consistent with those promps
+about Pirates or whatever right and the
+joke's never been told before if I had a
+blackbox computer system doing that in
+2000 and I'd be like hey ven did this
+crazy new technology did I just create
+new knowledge I don't think you'd be
+quick to be like well you know a monkey
+could create new knowledge like at the
+end of the day it's just characters they
+could be R I think you'd be like hm
+something intelligent seems to be going
+on there if so I first quot I would be I
+would just say how does it work like
+let's just look into the algorithm yeah
+sorry and also I mean okay just to try
+and obviously arguing the process versus
+input output is getting us stuck here
+and I'm trying to figure out how to get
+us unstuck but to just stick with your
+input output thing um I would be
+impressed if it we did that and every
+time we asked it for a new joke it
+actually came up with something funny
+that is not true like even we just stick
+with the input output definition right
+now that is not true now you can ask why
+that's not true and I want to say
+something like because correlating
+looking for Mass correlation on a bunch
+of input data is not a reliable way to
+spit out novel output right so that's
+like the mechanistic explanation of why
+this isn't funny will every once in a
+while these correlations lead to some
+new sentence that hasn't been said
+before some new joke yeah for sure this
+will definitely happen and uh is it
+giving you useful output especially in
+domains where where we have tons of
+training data yeah this is precisely
+where it excels so this is why it's
+helpful when you're programming for
+instance right there's no programmer I
+know now that doesn't use nlm to help
+them program right because it's
+obviously super useful precisely because
+we have lots of training data so if you
+want to say yes that's creating new
+knowledge then fine the question is is
+the method by which it's doing this a
+reliable way to generate civilizational
+changing knowledge or the kind of
+knowledge that humans are actively uh
+engaged in creating all the time and we
+want to say no so this is why we're
+getting stuck at input output like will
+will there be the occasional example
+where it like says some new funny joke
+for sure does it have the capability
+right now of being a super smart
+substack writer that has millions of
+subscribers because it's just pumping
+out Insight after Insight no I claim
+that's like fundamentally impossible
+with llm so that you know that was the
+sort of the test I want to give you yeah
+well so I mean it sounds like you're
+agreeing that some input output tests
+are possible maybe they're not the best
+test but they still do the job like for
+example if you take your favorite human
+standup comedian and suddenly GPT 5 is
+able to write standup comedy that always
+gives you more laughs per hour than the
+human comedian at that point isn't that
+a good input output test where you're
+like you know what I think that it's uh
+truly creative or truly generating new
+knowledge in the domain of jokes this is
+just such a low resolution way to think
+about the problem input output tells you
+something but these are not black boxes
+again maybe they're black boxes to you
+but we program them we know how they
+work and we can think about them and so
+once the input output test is passed
+that's great but now let's open it up
+let's think about how it works let's see
+if this is reliable we don't need to
+stop it input output I guess I I want to
+start there specifically that question I
+just I mean the way that you guys like
+to use the creativity and you knowledge
+I I would just answer that question the
+affirmative like if we if we had a
+system that was pumping out jokes with
+like more laughs per hour than uh like
+you standup comedians even an average
+standup comedian I would be blown away I
+would be absolutely blown away that so
+let me just like draw the line repeated
+that's that's great that's great to nail
+down the goalpost because funny thing is
+once you nail down the goalpost it
+quickly becomes a matter of degree so
+for example today I'm sure there's
+somebody alive who loves puns and their
+favorite book of puns is probably worse
+than what uh chadu can output is that
+posible uh sorry I missed that last
+sentence their favorite book of puns is
+something that chbt cut out for I'm
+saying they they probably already
+already think that Chachi is a better
+pun writer than their favorite human pun
+writer there's there's the existence of
+bad comedian that are worse than chat
+GPT right now is what yeah sure I mean
+yeah pretty much I think the goal post
+is pretty simple here right like you
+know if if we see like chat G like a
+comedian going up on stage and just
+reading chat GPT or chat GPT with some
+like fancy voice just put in front of a
+crowd and people paying to see that
+that's like the falsifiable test like I
+I claim that like we're nowhere we give
+um so like yeah can I give you some more
+falsifiable tests yeah um is what you're
+looking for just to make sure I heard
+correctly you're basically saying that
+if a decent human s comedian gets
+empirically ranked worse than a chap gvt
+comedian at that point you're willing to
+bust out the terms creativity and new
+knowledge to describe the AI yeah at a
+reasonable you know like a reasonable
+enough people are like I you know I'm
+going to I'm going to not go see
+stand-up comedy I'm going to like just
+get chat GPT to like tell me jokes all
+night like suppose that becomes I don't
+not even like a super popular activity
+but that's like a natural activity for
+like a Saturday night or something right
+like say that's a uh a common thing it
+replaces yeah then be I'd be yeah I'd be
+unbelievably impressed and I would
+really start to consider like wow think
+I mean it's very interesting because to
+me it's very much a matter of a degree
+what you're saying like and and by the
+way if we want to be empirical okay
+great yeah I think a stand of comedy
+routine I do think it's pretty likely
+I'd say more likely than not that like
+within 5 years maybe 10 probably five or
+less you're going to have the best
+comedians get most of their material
+written by AI just because the AI is
+funnier they are so that's my empirical
+prediction so it's great that we can
+line either
+get but also encage you let's imagine it
+was years Ag and I told you okay Ben
+here's here's my test imagine that chat
+Bots instead of being terrible like they
+were in 2014 Imagine chat Bots got so
+good that a million humans were spending
+an hour a day talking to these chat Bots
+right and you like uh sure I guess at
+that point I would say they is being
+creative whatever but as you know today
+you know you have these uh like fake
+girlfriends or whatever right you
+actually are having that level of
+traction with chatbots do we actually
+have the fake girlfriend thing we had
+this with like yeah that's true at a
+wide scale there's actually there's
+there's a lot of people there's like
+subreddits of people like addict to
+their chat Bots I mean it makes sense
+they're really good at chatting can I
+just tell a random story that I heard
+about this just because it's interesting
+nothing to do with the debate but just
+um I guess there was a case in the UK
+where a dude was talking with his
+chatbot that he was in love with and
+then told the chatbot that he wanted to
+go and try to assassinate one of the
+royal family members and then the
+chatbot was just reinforcing this
+because it wasn't smart enough to like
+alert the authorities or whatever and it
+reinforced it and then he actually went
+and did it and didn't kill anybody is on
+trial but now the chatbot company is
+like freaking out because you have all
+these like closed sandbox environments
+right where it can just reinforce just
+an interesting uh thing so yeah but I
+just want to say that Eliza was a chat
+bot that was made in like the 70s or
+something that people were talking to
+for a long time but
+again it's how do these things work and
+what by the way people really talking
+TOA that much right like the degree to
+which so the yeah right but you know I
+mean there was a big time I was 90s
+early 2000 there were plenty of crappy
+chat Bots out there right and you
+weren't getting this level of like
+millions of yeah without question
+without question okay I use it all the
+time like I'm not I'm not saying I'm not
+like a techno pessimist like I think my
+only point is just okay my only point is
+just you guys are laying down goal post
+which I think is great by the way I
+think we both agree these are good goal
+posts like the standup comedy goal post
+right it's a good goal post can I put a
+couple in a sec yeah um yeah put a
+couple in a second it's just the goal
+posts you're laying down they just seem
+like the next goal post but you can look
+back and you can be like here's a bunch
+of similar gold posts that just got
+crossed so maybe the new gold post will
+also be crossed because there's no
+fundamental distinction like chatting
+with a person for an hour and then
+having him come back the next day seems
+like you also need true creativity it's
+not like the creativity comes online
+when you write a stand up comedy act and
+it wasn't online when you were chatting
+with somebody I think anyone listening
+to this who spent more than 10 minutes
+with a chat bot like with LM or whatever
+when it when you read the material it's
+just lifeless like you can tell when
+it's written by a bot it doesn't have
+any personality it's just characterless
+right um and this would completely blow
+my mind if what Ben put down it happened
+and it would it would totally change my
+mind of course yeah like I'm not so
+basically the Turing task you think is
+just hasn't been passed right you're
+like I know it's I the test is useless I
+think the Turing test is just a bad test
+um frankly yeah it's a bad test but you
+just essentially cited it as why you
+don't think AI are human level yet well
+no I think that it's already passed the
+Turing test in like a formal it hasn't
+passed ven string test right because you
+literally just said you can tell yeah I
+just I don't I'm not not a big fan of
+that test I'd rather say um okay if you
+could have a chatbot which is on the New
+York Times opinion journalist page and
+just every week every day just pumps out
+a new interesting article or a new
+standup comedian bit or just like Dave
+Chapel is not nearly as funny as just
+listening to this chat bot for an hour
+and a half each night that would blow my
+mind for sure and that would totally
+Change My Views well then you know the
+Doom debates production team has
+actually been replacing what as you
+browse New York Times we've been
+replacing one of the Articles you see
+with an AI written article this whole
+time big review that's interesting but
+but shock food UV you'd probably like
+okay that's possible well so in the in
+the past we've talked about a number of
+different things that would really blow
+my mind and let me just say them here
+for for your audience um and then I'd
+love to hear your uh version of this too
+because I haven't actually heard a
+falsifiable test on your side that would
+change your mind um so I'd love to to
+hear that um but here's a couple things
+that would really impress me so first
+and I've said this in the past in
+previous conversations um one definition
+of creativity is getting more out than
+you put in so if you could train GPT 5
+on the output of gbt 4 and then change
+your GPT 6 on the output of gbt 5 and
+have this bootstrapping effect something
+is definitely being created there that
+would blow my freaking mind this has
+already been tested and it doesn't work
+um so we know that this doesn't happen
+and the only way you can use synthetic
+data is if you have a huge amount of
+human intervention that tweaks and
+changes it and and you can do like model
+distillation stuff where you train a
+smaller bot on the output of a bigger
+one but you can't bootstrap up it's kind
+of like a perpetual motion machine with
+regards to um creating stuff so that
+would completely blow my mind another
+test would be um looking at the training
+data so if you train it on all of the
+data right up until Einstein's special
+theory of relativity and then you ask it
+to create Einstein's special theory of
+relativity and it can do that that would
+blow my freaking mind um doesn't have to
+be as grandiose as that it can just be
+like the next round of nups papers so
+you train it on everything up until
+2023 and then you ask it to produce all
+the papers in the next conference choose
+your conference in any domain 2024 and
+you compare the two and if it's guessing
+similar stuff that the human beings have
+done after controlling for the training
+data then that would blow my freaking
+mind as well um and then the substack
+test the um the comedian test all of
+this would like totally change my view
+and like that would be from my
+perspective exciting it would be amazing
+to think to realize that all this
+epistemology stuff that we thought was
+true was actually wrong this would be
+the biggest epistemological Discovery
+ever ever and I would be super stoked to
+see this it would be fantastic so we're
+all happy that you're laying down these
+tests I think and we agree that like the
+papers at conferences test it seems like
+it's not quite made although if you
+search for like you know as an AI I
+cannot follow these instructions you're
+going to find them it's like a bunch of
+papers right on archive so but let's
+let's say that for you know the top
+conferences are not publishing uh you
+know purely CHP papers yet so I agree
+that that's like a good goal poost to to
+be loing for it's just when you use
+substack as a goal poost don't you think
+at this point there's going to be some
+substacks with thousands of subscribers
+that are AI generated you don't think
+that limit has been reached yet uh I
+well I don't want to call it sorry go
+ahead Ben um I mean yeah I I doubt it to
+be honest um I think if this was
+possible um lots of people would be
+doing it right this is just like a a
+simple Market inefficiency someone could
+I me on Amazon there are some AI
+generated books right so we don't really
+know what the total GDP right the toal
+total Market size of these a written
+books are but it's it's I I guess it's
+got to be at least a couple million a
+year uh okay I would doubt that um yeah
+if in if any listeners have information
+as to how true that is then I'd be super
+Ed in that uh you know given that these
+things don't have to sleep don't get
+tired Etc if someone if they were able
+to reliably produce output that many
+people wanted to read or listen to Etc
+I'd be extremely surprised if like many
+many people weren't taking advantage of
+that I don't think that would be a slow
+takeoff scenario to use uh something
+from the Doom of vocabulary right I
+think we' see a lot of people being like
+Oh my God I can create substacks with
+like tens of thousands of uh readers uh
+who were willing to pay for these
+insights uh because they're phenomenal
+right I just don't think we see that and
+importantly and and importantly there
+has to be no human in the loop so as
+soon as there's a human in the loop all
+the experiments become invalid right so
+a human running 15 substacks using Chad
+gbt to tweak that that it validates all
+the experiments because it's now
+contaminated by human knowledge yeah
+let's play out the ARG further okay so
+let's say we meet your GOP right we do a
+standup carony act with no human help
+makes you laugh more than anybody right
+so we meet one of these yeah repeatedly
+we meet one of these future gost if that
+were to happen would that shock your
+worldview so much and make you be like
+oh my God maybe we're going to have AGI
+that's actually going to Doom
+Humanity uh well there's a couple extra
+steps between okay whoa AGI is how much
+would that shock your how would you
+update huge amount huge huge amount yeah
+it would change a lot of things I think
+yeah i' have a huge amount okay i' have
+to really go back to the drawing board
+with respect to yeah how humans are
+creating knowledge like what are the
+limits like what's going on here but
+this would be an amazing thing like this
+is how science progresses is taking
+things that we think are absolutely true
+like Newton and realizing that they're
+not true and so if all of like paparan
+epistemology is false one that would
+just further be evidence of paparan
+emology because that's built into okay
+poer stuff but that would be amazing all
+the people that are aned it's to wrap my
+head around this yeah yeah it just seems
+like we're we're sitting here in 2024
+and and you're basically saying
+something that I think is like more
+likely than not in like 2029 which is
+like really good stand saying it just me
+like a lot of people share my view like
+a very high fraction of of people
+working in AI share my view that I can
+write great standup comedy if not more
+by 2029 but you guys are sitting here
+being like everything that I've seen AI
+do up to today including the chat Bots
+the image duration right the the
+summarization you know the math
+benchmarks just everything it's done
+yeah you know that hasn't really shocked
+my RO but when it tells stand up comedy
+that is when everything's going to
+change for me well so let's be clear so
+I think that llms are a huge techn te
+olical Innovation it it absolutely blew
+me away so I put llms in the same tier
+as social media um the iPhone and the
+internet you kind of get these giant
+step jumps in technology every 5 to 10
+years and it was very impressive but we
+know how these things work and they work
+based on uh internet's worth of training
+data um and that is just an internet's
+worth of observations which we're just
+hoping are going to get us new ideas in
+the paparian epistemological sense and
+that has not shaken my worldview because
+we it's just induction and induction is
+sweet you can do some cool stuff with it
+but you can't do the knowledge
+production that we want so then with
+regards to the standup comedian thing um
+or repeatedly being able to generate
+novel research papers or repeatedly
+being able to write an interesting
+column over and over again um that would
+totally blow me away and that would
+shake the foundations of of all the
+epistemology that we talk about all the
+time but that would be a good thing that
+would be great that would be awesome
+that would be so
+exciting aren't you just going to have
+the same attitude and be like okay
+that's great that it made the standup
+comedy but it's just using all these
+pieces of knowledge on the Internet it's
+just like putting a funny spin on them
+aren't you just going to write it off
+then you can show us this conversation
+and be like ha you guys were wrong you
+idiots you made this prediction publicly
+um I mean maybe other people have moved
+go post but we have also that's kind of
+that's not a super cool move like we've
+just given you okay for one we gave you
+multiple specifical specific falsifiable
+tests right and now you're saying you
+know if those were beaten you guys
+wouldn't even change your mind like
+we're the ones telling you what would
+change our mind um you haven't given us
+any falsifiable tests uh but okay yeah
+yeah look I I do appreciate that right I
+look forward to changing your mind in in
+2019 it's just you're kind of promising
+me not only will you admit defeat on
+this particular goal post but it'll rock
+your whole world view and and what I'm
+saying is I bet like I bet you'll be
+gracious enough to admit defeat because
+we have this recording it's so so that's
+that's pretty clear but then I wouldn't
+view it as defeat I would view it as
+awesome it's great it's so interesting
+we'd be super wrong like yeah we'd be
+very wrong but what I'm saying is I
+don't actually think that you'll let
+your worldview get rocked because it
+just seems like things have already
+happened that should have rocked your
+worldview by now this is where we need
+to talk about how these things are
+actually working like okay I think one
+one reason I'm sure this is a
+frustrating conversation to listen to
+but I'm curious how you view
+vaden's um initial
+point at the beginning that we we're
+just coming at this from fundamentally
+different angles right like I'm curious
+if you agree that people in your orbit
+tend to talk about Trends this seems to
+be like a very rationalist thing to do
+and on some you know sometimes reasoning
+by trend is great like when you have a
+good reason to think that trend is going
+to continue into the future reasoning by
+Trend can be super powerful and in some
+domains this has let let rationalists
+out predict other people who are not
+ready to listen to trend lines um what
+we're saying is there's are principled
+reasons to think that this particular
+Trend if you will is not going to
+continue um and we're going to get stuck
+we're going to keep getting stuck if you
+don't we don't engage with those sorts
+of reasons right so we need to talk
+about induction we need to talk about
+Transformers we need to talk about
+gradient descent we need to talk about
+training data like we need to talk about
+colel smoothing which is what these
+things are doing right like you know um
+can I just quickly point out um are you
+guys familiar with Robin Hansen's view
+on all this I know what side of the sits
+on but not super familiar he's in the
+non- Doomer side yeah I had a debate
+with Robin anen a couple months ago and
+he's a non- Doomer and a lot of your
+world view of what you expect of like
+yeah we'll slowly get more and more
+intelligent but like there's no rush
+right like we're not that close to AGI
+um that drives with what Robert Hansen
+thinks like yeah we'll have time there's
+going to be a lot of different
+intelligences and we it'll you know
+we'll cooperate we'll make it good so
+I'm noticing a lot of similarities and
+just like kind of how you expect the the
+future to play out but then ironically
+Robin Hansen often says extra ating
+Trends is like a really powerful
+methodology and I try to like collect
+data for Trends and the trends are
+telling me that we have like plenty of
+time uh before iom so it's a little bit
+ironic you guys are kind of doing a
+reversal being like you know you doomers
+are extrapolating Trends but let us tell
+you the inside view of why AGI is not
+coming so it's ironic doesn't really
+mean much uh I think we should as a Next
+Step just like dive in and you can tell
+me your mechanistic view you know you're
+inside the blackbox open box view of why
+these AIS are just not going to cut it
+in terms of human level intelligence I
+want to hear your falsifiable tests
+first though um what would change your
+mind U yeah I mean so my I guess my
+claim related to like a timeline so I
+guess if like 10 or 20 years pass and
+we're just really not see like yeah I
+mean I guess the question is also what
+is um what claim do you want me to
+change my mind about because it's
+probably going to be really hard for me
+to change my mind that non-human super
+intelligence is possible eventually so
+what claim do you want me to change on
+that within our lifetimes we are all
+going to die with 50% probability or if
+that's the okay I me that's a
+multivariant claim okay I go yeah the
+claim of like Hey by 2040 there's a 50%
+chance that we're all literally going to
+be dead and like the world's going to be
+hell so that that's kind of my claim and
+you're asking like what would make me
+let's say lower the 50% to like five or
+less right no let me let me rephrase
+sorry that you're totally right that
+that there's a lot of um uh it it's it's
+a broad claim so what would make you
+just
+not worried and roughly just shut the
+channel down and start talking about
+techno optimism yeah what what would
+change your mind there because that is
+the amount of foundational change that
+we have said would happen on our side if
+you have a successful substack um person
+like who you you shut your channel down
+that it's going to be that bad um no no
+hold on hold on I'm not saying shut the
+channel down hold on um I was saying you
+would rock the foundations of what I
+expect in the future um I wouldn't
+necessarily go the full Doom we're
+screwed but I would be like oh my gosh
+we are way closer to AGI than I thought
+we were and all this stuff that I
+thought was absolutely true is like
+clearly wrong and I need to go and just
+reflect um read some James and so not
+shut the channel down not shut the Pod
+podcast down but just what would give
+you that same kind of Earth shattering
+whoo my whole foundations are just wrong
+here um because we've given some that be
+y y just to reiterate why you're you're
+blowing my mind here is because if if we
+look we zoom out and we look at the time
+window 2000 to 20 30 and assume 2030 is
+when we get the AI standup com
+successful standup comic um in my mind
+80% of the progress is already happened
+in 20 2024 and okay the last 20% is it
+became a superhuman s whereas in your
+mind it's like the vast majority of the
+progress must have happened between 2024
+and
+2030 in our minds we don't think about
+it in terms of trend extrapolation we
+think about it in terms of we're almost
+finished using up all of the textual
+training data and the only other real
+lever we can pull here making the model
+bigger but if there's not much more data
+then that's not going to help too much
+and yeah you could do some rhf and you
+could use a lot of humans to tweak
+things but humor is such a changing
+thing that what's funny in like 1990 is
+going to be completely different and
+unfunny in
+2030 and I don't see any mechanistic way
+that the current technology or any
+iteration of it is going to be able to
+do that which humans do easily um so I
+just don't think about it in terms of
+how much progress has been made and then
+we have this much left to go I think
+about in terms of how these things
+actually work all right I'll answer your
+question all right so so how do I uh
+think of there Doom so the problem for
+me is that I think Doom is super
+overdetermined so unfortunately there's
+no one factor um where where if you just
+tweak that factor like imagine imagine
+like hey what if everybody got really
+scared that would be great that would
+lower my my pom if everybody was as
+scared as I was right that's why I'm a
+fearmonger I try to make other people
+more scared um so if my f fear mongering
+was successful that would lower my t a
+few perc but the problem is even if
+everybody's scared it's just like you
+really just need like one Rogue accurate
+to to make Ai and then we're screwed
+right so there's so many things you
+there's so many counterfactual things
+that you could change and have a still
+be doomed so it's tough it's tough for
+me I mean I could list a bunch of
+different right everybody got scared and
+there was like really good top 10
+control and we also made like a human
+augmentation program to try to make
+humans smarter so like the first Super
+intelligence would be like a moral human
+right so if you really like wet all out
+pulling out all all the stuffs to
+prevent Doom I I each step would keep
+lowering my P Doom but getting it below
+10 to 20% it's going to be really
+hard okay okay yeah glad we got that on
+the record
+good yeah I mean I'm okay um all right
+so I was gonna say maybe the next place
+to go is you guys can just unpack more
+uh I know you want to talk about how
+like based on what you know about how
+llms work they're just never going to do
+standup comedy in the foreseeable future
+sure yeah we can I mean also it feels
+slightly odd though like you you've
+basically just said nothing's going to
+change change your mind so I guess we're
+just arguing to convince your audience
+maybe like it sounds like whatever it's
+not nothing will change no things keep
+lowering the probability I'm updatable
+I'm just telling youc there's a lot I
+mean it's a bad situation right like
+there's such a thing as being in a
+really bad situation where you have to
+untain there's a lot of thorns a lot of
+vines that you have to untangle one by
+one but I'm telling you each Vine will
+make me lower a little bit right but it
+all your argu like your arguments are
+just based on the trends right so
+there's no like we can't really talk
+about the specifics of llms to change
+your mind it sounds like obviously
+correct me if I'm wrong but no no no you
+you can because I'm absolutely
+convincible I I could potentially walk
+away from this conversation thinking
+like you know what there kind of like
+the I guess the Yan Leon position right
+of like you know what you we really need
+to like start from the drawing board if
+we're ever going to get to that standup
+comedy Milestone and Beyond you could
+convince me of
+that okay let's just focus on the simple
+dichotomy that I gave earlier and and
+let's interrogate it and see what you
+think about it which is that human
+beings produce ideas first and then
+collect observations machine learning
+and llms and deep learning and the whole
+Paradigm basically from like early 2000s
+to now starts with observations and
+hopes ideas are going to come this is a
+fundamental difference in kind not in
+degree and everything we know about how
+knowledge is produced by human beings is
+exactly backwards compared to how it's
+being produced or how these systems work
+so what is your response to that because
+that just kind of went uh past what I
+said
+earlier uh well well I mean is is that
+really going to be a blocker for better
+standup comedy because my response is
+despite what you're saying we're still
+getting we're generalized we're
+generalizing away from standup comedy
+just to all knowledge production now
+yeah but I find it useful to just take
+like one example that's on the easier
+Frontier right so standup comedy is
+probably going to come before research
+favors let's say it just seems to be on
+the front talk points no if we're
+talking about knowledge production let's
+just talk about like how how Einstein
+got his ideas because that's just the
+cleanest example or or just how the next
+graduate student writes a paper um it's
+just comedy is just it's it's a more
+it's not as clean of an example so let's
+just talk about scientific discoveries
+and I
+claim logically it has to hold that you
+have to have the ideas first and then
+you figure out where to look because you
+can't have an observation without
+deciding what to observe right because
+there's an infinite number of things to
+observe and so that is a fundamental
+asymmetry difference in kind not degree
+there's a binary here and I would just
+love to know why you um are still
+worried about this given that we know
+that human beings generate knowledge in
+the opposite fashion okay so if I'm
+understanding correctly you're you're
+saying deciding what to observe is this
+big thing humans do that a eyes don't do
+today uh that's yeah that's what one
+argument in favor of the claim that the
+idea has to preced the observation not
+the other way
+around what if I just write a line of
+code as a preface to my chat where I'm
+like okay at the beginning of the
+conversation decide something to observe
+and then sure enough I think it will
+well uh well what would that line of
+code consist of like a function I mean
+it's not even a line of code it's just a
+prompt right I mean I could literally
+open the the CHT now and hey please
+decide something to observe and we're
+speaking a much more talk how these
+things are trained not yeah yeah not
+inference time yeah you're talking about
+inference time we're talking about
+training yeah okay but I mean it's just
+like you're saying that because there's
+no step where it decides something to
+observe therefore it's not going to
+conduct successful science and I'm like
+well AI today I can tell them to OB
+something like I still make
+iten no there's there's some
+translational difficulties here but I
+don't know Ben if you want transl no so
+it's the it's the fact that we are when
+we're training these systems right we're
+deciding what's important for lack of a
+better word we're deciding on the loss
+function we're deciding what good
+performance looks like we're deciding
+how they should parcel up the world in
+order to get those good per in order to
+get that good performance right so we
+decide on the token space we decide on
+the embedding space um we decide on the
+output space right and then yeah
+architectures are coming down the line
+though that aren't token based I here
+right yeah there're they still require
+us parceling the world up beforehand
+than telling the system like okay try
+and minimize this loss uh the space is
+predetermined right so we're not just
+sitting uh machine you're still you're
+still talking about unsupervised
+learning right that seems it seems like
+the whole point of unsupervised learning
+is like we do very little on that front
+and they just configure their own
+parameters no no we're but we're still
+deciding what we choose the training
+data so unsupervised or supervised is
+just a question of labels so that's just
+the Y in your X and Y equation but we
+still have to choose X um and so that's
+still us choosing what data to feed to
+these things and that's what Ben is
+referring to when he says paral up the
+world um what do we determine to
+outliers we say we don't want to train
+it on um pornography we don't want to
+train it on this that's not stuff we
+want it to learn so we're choosing and
+then that's what Ben's getting it's not
+a supervised unsupervised distinction
+but how do that connected to your claim
+that it's not going to tell really funny
+standup
+comedy um well we' moved to a different
+claim now about induction and the
+generalized knowledge production with
+human beings starting from ideas and
+then choosing observations but with deep
+learning and llms it's starting from
+observations and hoping ideas are going
+to come but we don't have any existence
+proof that that ever works and we know
+logically it can't work because of the
+problem of how do you decide what an
+observation is so that's a logical
+argument to um refute the claim that
+observations pred ideas and not the
+other way around okay I mean you guys
+are being very abstract so can we just
+map it to one example of like I open a
+Chachi B prompt and I ask it something
+that would require you know that would
+stump it right like like what what do
+you how how am I going to stop can I ask
+it k v please create like the next
+Theory or like what's what's like the
+easiest example that's you're talking
+about inference time when you're using
+this things we're talking about training
+time so that's the difference so yeah
+yeah but the limitations that you're
+saying it has in training time you're
+you're claiming that it's going to map
+to some limitation in output time so
+what's an example of the alpha time
+limitation this the sort of knowledge
+production that we've been talking about
+in terms of like generating like a novel
+standup comedy routine that's going to
+blow people out or repeatedly making
+yeah but that's said I said Con stand up
+comedy right yeah so if you could prompt
+it say like what's a new discovery and
+it gave you a new discovery that you
+know we've already said that would be
+amazing
+um okay all right all right so
+everything you're saying now about look
+at the time that it was training it
+didn't get to choose its own observation
+in your mind that's going to be
+connected to what I say what would be a
+funny joke about Nutella right because
+it never chose its own observations at
+training time it's just the humor is
+going to fall flat when I ask it about
+Nutella yeah exactly well note how
+actual standup comedy Works PE standup
+comedians are continuously figuring out
+what to observe in the world and make
+humor out of it so they are choosing
+what to find funny and because the world
+is continuously changing so too does the
+humor um but this is what we're saying
+is different from how these systems work
+which is why if the system does do the
+thing that we're saying it's not going
+to be able to do it would totally change
+your mind 100%
+absolutely so if you ask me to think
+about a joke about Nella I'm not going
+to even go literally observe Nella I'm
+just going to like think about some
+facts that I know about Nella which is
+something that AI at inference time can
+also do even though I didn't choose what
+to OB erve yeah so perhaps a useful lens
+to bring to bear now is like just that
+of correlation um so for me something
+like a new creative thought is almost by
+definition uh anti-correlated with
+previous things right so what does it
+mean to have like a new unique idea it
+means pre it conflicts in some important
+sense with previous ideas of that same
+type um how do these systems work the
+precise opposite of that so what's in
+forming very high level 30,000 fo few of
+these things what's informing what the
+next word is output it's precisely what
+the most common word would be in its
+training data right and then you throw a
+bunch of probability on top of that but
+you know if we just stick high level for
+now um this is again precisely the
+opposite of like what it would take to
+make a new standup comedy routine where
+you need to subvert expectations you
+need to say things that are
+fundamentally new that people haven't
+said before right what's going on here
+is take you're looking at the history of
+the internet huge amounts of texts um
+and you're saying okay your output the
+distribution over the next word what
+you're most likely to Output is
+precisely a function of what has been
+written in the past um and this is not a
+way to create new knowledge it's a way
+to Aggregate and summarize and compress
+existing knowledge that exists on the
+internet and in books Etc and so there's
+still huge value of course in doing this
+this is why again it's so uh
+miraculously good when it comes to
+things like programming and stuff
+because it can synthesize existing
+information in this hugely helpful way
+but this is fundamentally different than
+coming up with new ideas which again
+should be anti-correlated with old
+ideas right so just to recap I think I
+get what you're saying you're basically
+saying like look its whole training is
+to predict what token is likely to come
+next but when you tell a joke you want
+to surprise people by having a token
+that registers is unlikely and so
+there's a conflict there is that kind of
+where you're going yep exactly yeah and
+this um we could say this kind of an
+overly simplistic description of where
+the next token comes from right because
+I know people like to think about it as
+oh it's just interpolating right it's
+just a stochastic PA but really it's not
+it's learned a complex algorithm right
+all those parameters some of those
+parameters can be saying say something
+that wouldn't normally go here like
+that's a thing that it can do yeah okay
+this is also why learns it
+no finish your thought Ben sorry I mean
+I I said 30,000 foot view for a reason
+um but we seem to be uh viering away
+from going into the specifics but we can
+yeah we can talk about the specifics of
+Transformers and stuff but I mean okay
+so the term stochastic parrot I actually
+think is a great term and I think is
+largely correct I think it was
+introduced by two of the possibly most
+annoying people in the field of computer
+science who are uh annoying to listen to
+and constantly berate the entire field
+for like not being woke enough or
+something so I I understand why people
+have an aversion to it but I think this
+term has sort of been unfairly maligned
+and I actually think first approximation
+stasic parrot is like a pretty good way
+to look at these
+things for the reason me I I agree to
+this to the I agree with part of it
+which is that I think the same way that
+you and I are kind of stochastic parrots
+right I mean think about how many tasks
+we do where we really do kind of lean
+into Trends right we all do that as
+humans and I think AI exhibits the same
+thing where if they can kind of just
+like Coast right and just like make Cal
+I think they will tend to do that and
+that's what we see right when you give
+them a similar problem they do kind of
+Coast they do kind of complete the
+pattern but I also think that they're
+capable of going higher level just like
+we are as humans and we see that
+behavior I mean I could literally ask
+and I could be like what are 10 words
+that you never would normally see
+together in a typical article and I will
+actually get that response it will be
+like sorry I have to give you words that
+are related I think it will actually
+give me a nice sampling of random words
+but that's because the prompt has
+changed the additional token
+distribution so that the probability
+associated with the next one is higher
+conditioned on the prompt uh and that's
+why you'll get a bunch of words that
+typically are not next to each other but
+now they are next to each other because
+the probability of the next token
+conditional on the prompt is going to be
+different than if it wasn't conditional
+on that prompt and so from my
+perspective you're just kind of using an
+explanation of of what AI do that's
+overly simplified which I think you
+would admit because they are very
+complicated they have many layers they
+have many parts I think we we all agree
+your description is simplified I just
+think you're simplifying it to the point
+where you're losing a very important
+aspect of it which is that they don't
+always have to actually output things
+that seem similar Mean So when you say
+they're not doing statistical prediction
+what did you mean by that CU like that's
+that's what's going
+on yeah I mean what what's actually
+going on is you know there's layers
+there's the attention heads right
+there's the nonlinear Transformations
+the result of all of these pieces
+doesn't get you something that's simply
+describable the way that you just tried
+to describe it
+simply parts of the big chair the result
+of all these pieces is to come up with a
+probability distribution over the next
+token conditioned on the previous tokens
+that is how it works that's what you
+would learn if you go to CL correct yes
+yeah you get a probability distribution
+but it's a very sophisticated it's the
+equivalent of like if you put Einstein
+in a box and said Einstein what is the
+next token going to be he's merely going
+to give you a probability distribution
+but it's the result of Einstein's
+processing no okay so this is where the
+analogy between humans and llms breaks
+for at least two reasons the first
+reason is what we talked about in the
+previous conversation about content so
+Einstein is going to give you a high
+content Theory which is necessarily low
+probability LMS are going to give you a
+high probability output which isn't even
+thinking about content because it's not
+even think about truth so Einstein and
+LMS are different in that first instance
+the second reason why Einstein and LMS
+are completely different is how we learn
+so Ben and I are saying but I don't know
+if You' fully taken it on board or
+refuted it at least that the mechanism
+by which we learn is fundamentally
+different than llms because we
+conjecture ideas first and then look for
+observations to try to falsify or
+disconfirm what we think is true
+compared to llms which are just shoveled
+and spoonfed oodles and oodles of data
+that we hope are going to create new
+ideas but just doesn't work that way and
+so for those two reasons the analogy
+between Einstein and LMS doesn't
+work so by the way this kind of dutching
+description of how how human
+intelligence works are like what we as
+humans do to be so smart it doesn't feel
+to me like this describes like a low I
+jock right it seems like this kind of
+describes like um a scientist who like a
+professor of science right but I mean
+the low IQ jocks work this way when
+they're coming up with new ideas yeah
+yeah exactly okay but but they might go
+a year without coming up with a new idea
+right uh even the idea is I want more
+protein powder yeah like oh I need to
+get more protein powder because you
+don't think want more protein powder the
+same way that they
+do no we've been saying over they don't
+have muscles um and also just just to
+just to pause for one second like just
+saying the words like they have layers
+and they have self attention heads and
+stuff that is not an argument that
+they're doing something Beyond
+statistical prediction that is
+statistical prediction right these are
+just various forms of waiting right that
+get you the stacking just gets you
+nonlinearities self attention is just
+kernel smoothing like this is what
+statistical prediction looks like right
+like all you're doing is take you're
+taking token sequence you're projecting
+it into some embedding space right
+you're doing a bunch of manipulations in
+that space that's what people call Self
+attention that's what people call
+Transformers and then from that you run
+it then you get this probably
+distribution over your token space right
+so you go token space embedding space do
+a bunch of math project back down into
+token space you get your output thing
+like that that's what statistical
+prediction is like right but you've done
+enough types of manipulations that
+you're you're no longer able to predict
+what the output's going to look like
+you're no longer able to constrain it
+and so it becomes a black box from your
+perspective epistemologically no no no
+because we know what the goal is the
+goal is to match the frequencies in the
+uh from the training data that's what's
+going on and the the what the nonlinear
+the math allow you to do that better and
+better
+MH it's not accurate to say the goal is
+to match the frequency in the training
+data because most of the inputs you give
+it are inputs that just aren't in the
+training data so what does that mean
+match the frequency that's not exactly
+the goal it means the the sorry go ah no
+no good no good no It it means um your
+yes so the final uh your final layer
+when you're coming up with uh uh
+distribution over your tokens right
+that's going to be informed by the
+frequencies in your training data
+mhm yeah it's ined by the frequencies
+right but you've trained a complex
+system where in some vague sense it's
+also but at the end of the day when you
+give it a fancy prompt like I think IAS
+sat's example of like therefore at the
+end of this murder mystery we can
+conclude that the murderer was blank the
+thing that goes in the blank is not
+exactly statistics it's actually going
+to be logically connected to the events
+in the story right similar to alah human
+would make these kind of logical
+connections logically connected by
+because of the amount of the statistics
+yeah
+yeah like statistics okay but a human
+brain just uses statistics right I mean
+you're using this word and you're you're
+kind of wanting people to come away with
+an oversimplified takeaway in my opinion
+but no that's the distinction B
+introduced that we're not just doing
+statistical pattern matching
+right this is why I continuously repeat
+the difference between ideas preceding
+observations or observations preceding
+ideas I'll just keep repeating it
+because that is why the analogy is is
+broken right um okay okay all right so
+we're we're starting to toward the
+wrapup here and in terms of what to
+focus on next I do have some more
+classic AI Doom train things to
+throughout you does that sound like a
+good place to take it hell yeah sounds
+great okay bring on the Doom baby okay
+great let's talk about agency because
+this actually came up in the context of
+protein powder right so the idea is that
+like we as humans we can decide to want
+things and then we can backward chain
+like what actions will get us to those
+things and then we can like reevaluate
+we can take the next action and we refer
+to all that as like having agency right
+being agentic so do you see an important
+distinction in agentic versus non-
+agentic
+AI I do yeah um well the word agent is
+being used in different ways so like
+when you have agents in the llm space
+that's just a particular kind of
+algorithm but that's different than like
+human agency so I I don't know oh sorry
+yeah you mean claim that these are
+analog yeah yeah sorry yeah cuz like if
+you get like you can train agents on
+like open I like apis and stuff but
+that's just different than agency in the
+human sense I just want to make sure
+that you're not yeah let me give you
+some more framing to where where I'm
+going with this basically so today's AI
+a lot of our experience with that is
+it's just like a chat box and then we
+ask it a question and it answers and
+then it's done right it doesn't like
+come out of the computer and start like
+manipulating our life right and and a
+lot of people make the claim of like
+we're fine because AI aren't agentic I
+think Mark andreon is very sympathetic
+to this claim right of like look this
+isn't an animal it didn't evolve it
+doesn't have intentions and we're just
+not even close to having agentic AI so
+at the end of the day it's just like
+it's a tool right tool versus Agent I
+guess is the distinct do you feel like
+that distinction helps you feel safe
+knowing that it's a tool and not an
+agent uh uh sure yeah yeah sure yeah it
+does okay but I think yeah sorry I think
+why does it make yeah or what do you
+think is a
+distinction um so yeah sorry I just
+wanted to clarify my initial answer I
+think I wasn't understanding that you
+were talking about like llm agents as
+they exist right now and so I feel like
+th those are built on with you know very
+similar uh at a high level techniques as
+like chat GPT and stuff there's there's
+nothing fundamentally new um going on
+there so I don't view those as like
+Chain of Thought promp yeah I don't view
+those as like different in kind to chat
+Bots for instance um so yeah I'm equally
+as worried about those as I am about
+chat Bots modulo like of course certain
+engineering things that could happen
+right like we might have a system so so
+let me let me ask
+yeah yeah if we hit your 2029 challenge
+Milestone right of like oh my God it's
+it's actually the most popular standup
+comedy on Netflix right is is an AI
+generated one if we hit that M would you
+be like oh crap I bet agents can now go
+loose on the internet because in your
+mind there's not like a hard distinction
+right I gu it's going to be a pretty
+pretty close followup yeah well agents
+can already go loose on the internet
+just with Rogue hackers and stuff so I
+would put them just in the same category
+as any computer virus which we've been
+worried about and developing security
+for for the history of Computing so I'm
+already worried about that to the same
+amount of of worry as I have with
+viruses okay so I'll State my claim and
+maybe you guys can just agree which is
+just like if we have really powerful AIS
+that can answer questions really smartly
+right and and just like sufficiently
+good at answering questions then we will
+very quickly also have autonomous
+systems that do a lot of damage at least
+in the virtual world is that a good
+connection that you agree with well we
+already have the first half of it but we
+don't have the second half right
+like we we already have systems that can
+answer questions oh yeah so so my would
+have to get even better yeah I think
+that they're not even so the I actually
+think that the question answering is the
+bottleneck right now to the reason why
+the internet hasn't been taken over more
+thoroughly or the reason why there's not
+better scams better fully Automated
+Business If you ask why all of these
+agentic things aren't happening I would
+trace it back to the question answering
+piece actually isn't good enough yet
+when you say take over do you mean take
+over because some malicious hacker
+somewhere in Russia or Ukraine has in
+ially done this or do you mean fully on
+its own without any human intervention
+whatsoever it develops a desire to just
+overrun the internet just completely
+autonomously um which of the two uh
+scenarios are are you talking about cu
+the first one I think is completely
+plausible that hackers will use this to
+to mess around with the internet and
+that's totally something to be worried
+about but it's the removing the human
+from the loop and then thinking all this
+stuff is just going to happen that's why
+I just don't think that's plausible even
+a little bit yeah okay so let me make
+the transition related to your point so
+okay so it sounds like we both agree
+that like if it got really good at
+standup comedy and just like knowledge
+type questions and new knowledge
+whatever then at that point it would
+probably also have agentic versions
+right can we close close out
+that no that's a leap like it that would
+just surprise both Ken and myself and
+that would be crazy and a lot of things
+would change but to go from there to all
+of the yuk outski Doom scenarios are
+necessarily going to happen and they're
+going to all of a sudden start
+developing
+yeah I mean maybe yeah sorry you finish
+up yeah I'll just say like honestly I I
+really think if we hit like the
+Milestone of standup you know it's the
+number one standup comed on Netflix I
+think this would be like such a paradigm
+shift that was required that I'm I don't
+know what would follow from this um so
+I'm prepared to say yeah I'd be worried
+that there would be agents like I could
+be worried about a lot of stuff at that
+point um like I view that as um yeah
+extremely implausible such that you know
+you should definitely ignore everything
+you know if if that happens you should
+ignore everything I've said on the topic
+and possibly just invert it and okay
+yeah I love that you're uh setting
+yourself up for a potential feuture
+update that's that's awesome you know as
+a a rationalist Asian that's that's much
+appreciated that' be great we love to
+prove ourselves the side of the a that's
+all pop right okay so so let me connect
+it to your question Vaden where you're
+saying like Okay but what about why am I
+worried about an AI that nobody even
+told it to like go take over the
+internet right so this brings me to the
+next train stop which is instrumental
+convergence right so that's so basically
+I Believe In instrumental convergence
+right where I believe that if you just
+start optimizing AI toward anything and
+it becomes good at just problem solving
+well Mo it's in the nature of problem
+solving that most problems get solved
+better when you just go grab a bunch of
+power resources they right they help you
+solve a wide variety of problems so any
+AI that just figured out how to solve
+problems in general would hit on this
+obvious Insight of like okay let me just
+go rob the bank or right let me just
+acquire some resources legally illegally
+just wherever they are um so my question
+for you is if ai's general intelligence
+increases to human level and Beyond
+right stand quity whatever should we
+predict it'll converge to this goal
+oriented resource seeking power seeking
+Behavior why don't humans do this I mean
+I find that yeah yeah I think the main
+reason humans don't do this is that it's
+really hard to get away with right I
+mean because think about this it like
+remember when the ATM scam was going
+around be like oh my God you can like I
+don't know you can pretend you can tell
+the ATM that your balance is higher than
+it really is and withdraw cash and a
+bunch of people were like sweet I'm
+going to withdraw this cash right people
+tend to kind of do stuff if they can uh
+okay but I mean okay you seem interested
+in IQ you've brought it up a few times
+so you know there are people who are uh
+in the 99th percentile of IQ presumably
+they're significantly more smarter than
+the rest of us so shouldn't they be
+engaging in this sort of
+behavior yeah and this is similar to the
+question of like why aren't there more
+terrorists so my short is just when you
+have a really high IQ we have
+successfully set up Society such that
+you can go work at Google and and make
+seven figures a year or you know even
+start your own company and make more
+than that and that is actually just
+going to be a more selfishly rewarding
+path than trying to rob banks because
+like robbing banks yeah maybe you'll
+make a a swore but now you've also
+exposed like a huge downside so if if
+you're just doing an expected value
+calculation it's actually High expected
+value to just put your IQ points toward
+being good and that's more true in in
+richer countries right so if you live in
+Russia or North Korea maybe you do
+actually become that bcat hacker so that
+that's what I think is going on with
+humans okay yeah that my same answer in
+that case applies to AI like this this
+comes back brings us back to the to the
+disagreement over sort of this one super
+intelligence that can take over
+everything I think uh intelligence
+doesn't work like that and you'll need a
+culture of things like even if AIS are
+their own thing separated from humans
+right I think this will require culture
+this will require conflict this will
+require require them generating the
+knowledge of how to set up such
+institutions these are all like uh these
+are all aspects of knowledge that humans
+have figured out presumably a would
+figure this out as well um and so and
+and let me
+ask no no you go ahead goe so I mean in
+let me just give you a form that I think
+is like pretty weak and maybe the
+easiest to accept which is just that
+like if we just had an ideal goal
+Optimizer and I know you guys don't
+think a will be an ideal goal Optimizer
+but do you at least agree that in the
+topic of goal optimization and like
+ideal intelligence
+isn't it the ideal Optimizer move often
+times to seek power and resources just
+as a way to optimize a
+go uh putting aside any like moral
+conflicts putting aside like if that was
+the be all end all and that's the only
+goal you have like sure maybe um but
+yeah again it depends on culture it
+depends on morals it depends on other
+objectives you might hold um are are you
+just make optimization are you
+predicting that the more IQ someone has
+the more likely they will be
+Psychopathic and just ruthlessly just
+slashing through other people to get to
+the top of like to accomplish whatever
+goal they want is that the prediction
+that more IQ equals more psychopathy and
+less like empathy and stuff not exactly
+for humans right because humans are also
+born with deontological kind of rules of
+thumb so for example like you imagine
+you're the smartest person in the world
+and you could even figure out a scheme
+where you could murder people undetected
+well as you're carrying out that scheme
+another part of your brain that's not
+just the raw optimization part is being
+like you're such a bad person you should
+feel so guilty you should never do this
+right cuz you have some part of your
+brain that's like killing is bad so that
+that's like how humans are set up so
+that's why you get a lot of very high IQ
+non-instrumentally convergent non-
+Psychopaths and that's not even to
+mention the fact that like even if
+you're really highq high IQ you're still
+running like a significant risk that
+you're going to get caught even despite
+your best efforts because you're not
+going to be perfect so I'm just
+explaining why high IQ human humans
+mostly don't behave like Psychopaths but
+the change to the AI is a couple factors
+number one they're going to be farther
+removed from the law so you can't throw
+an AI in jail for example and ruin their
+life the same way you can do it to a
+human and number two they're not going
+to have that part of their brain
+successfully programmed in to be like
+killing is
+bad still just want to make sure I'm
+understand the claim so the claim is
+that the smarter you get the more you
+want to do all this bad stuff but yet
+we've set up Society such that that
+won't happen um um is that the smarter
+you get the more plans you can see of
+how you could potentially seize things
+in a way that you won't get caught now
+don't get me wrong most plans I even
+think somebody with a 200 IQ most plans
+they see it' be like oh here's how I can
+legally operate and like do whatever I
+want to do I mean think about Elon Musk
+right I mean you could argue he bends
+some laws but he's extremely effective
+while mostly following the law right and
+and I do think that that's that's the
+lwh hanging fruit of a really really
+smart human is still staying within the
+law but yes more gray pths open up to
+you I mean a lot of people are saying
+Elon is now breaking the law by helping
+negotiate with Russia before before
+Trump actually is the president yet
+right that's there's a law saying you
+can't have two presidents U so so Elon
+knows when to strategically bend the law
+right so AI would know that too that's
+so I mean this just doesn't drive at all
+with people who I hold on a pedestal of
+being super smart they they're not all
+scheming to try to figure out how to
+break the law and then be constantly
+thwarted by the society and regulations
+but I'm curious like is this how you
+think like uh do you I'm
+really just like I'm just like genuinely
+fascinated by this because like I'm not
+that smart right yeah like the I think
+I'm not smart enough to think I can
+succeed by bending or breaking the laws
+so I just I pretty much just always be
+like how do I never run any risk of
+breaking the law that that's how I
+operate yeah like I find that the people
+who I put on the highest pedestal of
+just like man these guys are just with
+it are the ones who spend all their day
+just reading and thinking and talking
+about math or talking about philosophy
+or talking about blah blah like they're
+not scheming about how to um optimize
+and and just take over stuff they're
+just if anything they're less less
+invested typically in some sort of power
+yeah yeah I would I would make and in
+fact in like and then if you go like I
+find talking about IQ to be very just
+awkward cring cringey but anyway if you
+go to like low low IQ like 90 whatever I
+just find I use was already canel by
+audience so no worries there yeah no
+your audience has already canceled me so
+um but anyway like isn't it the case
+that as you go to the left of the
+distribution you get more violence more
+like domestic abuse more bank robberies
+more of all this stuff like isn't the
+prediction exactly backwards and then I
+want to make one more point Sorry which
+is that you said that in humans this
+happens but in these other um uh future
+super intelligent God deity thingies
+it'll be totally different but the only
+existence proof we have of intellig is
+human beings and so we should anchor
+ourselves pretty closely to how human
+beings do it not yukos's blog posts
+right like the only existence proof we
+have of intelligence is us and so if
+humans do it this way then it strikes me
+as unbelievably implausible to assume
+that other systems will do it some other
+way okay so it sounds like we've
+actually slipped into the next topic
+which is good because we're getting
+close to the Raba um which is we started
+talking about instrumental convergence
+and in the process of saying um you are
+intelligent agents really going to seek
+power in the proc of that we slipped
+into the discussion of the orthogonality
+pieces right which is the claim that uh
+intelligence can be orthogonal to
+morality so meaning any level of
+intelligence can be paired with any
+point on the morality Spectrum so you
+could have high intelligence High
+morality or high intelligence terrible
+morality or sideways morality right so
+the IDE is these are two orthogonal or
+perpendicular dimensions and you started
+me asking you started asking you
+questions that are basically pushing
+against the orthogonality pieces because
+you said hey if you look at humans
+aren't the dumbest ones like the most
+violent and the least moral and aren't
+all my smart friends just like these
+gentle mouth nerds so maybe the
+orthogonality thesis is false and there
+is kind of like a deep connection
+between intelligence and morality is
+that kind of what your position is yeah
+I um I'm curious what the orthogonal
+thesis like it's just a conjecture right
+like there's no evidence for this right
+it's just an assertion me I think
+there's strong strong logical argument
+um so I mean it's I just haven't heard
+it I haven't heard it I'm totally open
+to being persuaded I just haven't
+actually heard any evidence it just
+seems to be just assertion or a
+conjecture both of which are fine but
+what are what are the arguments for it
+um but yes but to be clear yes I do
+think it's implausible I'm fully with
+Scott arenson on this one that the
+orthogonality thesis just doesn't seem
+plausible to me it seems like as we get
+smarter we'll absolutely become more
+moral and more passive and less
+interested in violence and taking over
+the world because cooperation and
+collaboration seems to be much nicer
+than cutthroat
+domination and subordination and uh so
+yeah I think it's primacia imp plausible
+but I'm open to hearing any argument in
+the country You Got Me by mentioning
+Scott arenson because I will admit Scott
+Aronson is somebody who I've been
+disappointed to see is pretty skeptical
+of the orthogonality thesis and that's
+not what I would expect because you know
+he's such a smart guy and right on so
+many things but he has expressed sism he
+so he has basically said what you said
+of like well maybe a super intelligent
+agent will for whatever reason be moral
+right he's not saying like that's
+definitely the case but he's just yeah
+he said that he doesn't find the
+orthogon thesis convincing yeah so and I
+don't know if he's updated since I think
+I I WR I read him say this like maybe 2
+years ago May one or two years ago but
+anyway so you got me there Scott Aron
+does say that but FP just start you
+between us um Let me give
+the it's not appeal to
+Authority but I'm just saying uh for
+people who think Authority matters which
+I think it should matter a little bit
+you got get um but let me just let me
+give you a form that's a little weaker
+than some forms but I think is like kind
+of table stakes and like obviously true
+from my perspective so what I'll call
+the weak form is just in the space of
+possible algorithms there exist
+algorithms that are super human
+intelligent and have terrible morality
+like there's just points in algorithms
+face that are like that why do you think
+how do we know that there exist
+algorithms that are superum intelligent
+I I don't know if that's true um all I
+can say is that there exist alith avoid
+Dees yeah well I all I could say is that
+there's an algorithm that's human level
+intelligent that is we know that that is
+the case but I don't know if there's
+super human intelligent Al well so so so
+in that case so if that's true right um
+so I guess let me phrase it like this
+the points that are close to the maximum
+intelligence possible in all of
+algorithm space also have points that
+are like that but terrible
+morality this is just Bing the question
+that's what we're here to be reasoned
+towards that's my claim so it sounds
+like in the situation where human
+intelligence is the max possible
+intelligence I think you would agree
+with the thesis because you know that
+bad humans exist right so then the
+interesting questions becomes what if
+superum intelligence exist can they also
+be bad so yeah I would probably say um
+yes here I mean I think we never
+actually got around to debating like the
+feasibility of something superhuman or
+what that would mean uh whether that
+makes sense as a concept but I would say
+yeah I mean we you know we have evidence
+that smart people can do evil things so
+in so far as that's an existence proof
+of this kind of behavior that's that's
+fine but also i' point out that like
+morality is just another form of
+knowledge so in so far as people and
+civilization as a whole is better at
+producing knowledge uh morality sort of
+comes along for the ride now that of
+course doesn't mean that people don't
+make huge mistakes um but you know I
+well this you know maybe takes us too
+far a field but uh you know I'm an
+objectivist when it comes to morality
+right so I believe there are right and
+wrong answers to moral questions there
+are better and worse ways for humans to
+live um and uh and figuring what the
+those are uh figuring out what those are
+rather is uh that's a knowledge a
+question of knowledge generation right
+and so as we as both culture IND get
+better at that then sort of the the
+possibility of super smart people making
+huge mistakes is you know less and
+less this claim you're saying I'm an
+objectivist is this just the negation of
+the orthogonality
+thesis uh perhaps if you want to Define
+it as like moral subjectivism then yeah
+I'm not a moral subjectivist so if you
+if you view those as part your your
+claim is just like there's a correct
+morality and figure it out if you're
+smart like that's basically what you're
+saying I don't think Ben saying that but
+yeah no no it's less I mean I'm not
+saying we can't make mistakes right and
+like again you know the the 20th century
+is full of people making mistakes um I'm
+just saying there is a tendency for us
+to become more moral as a civilization
+and that's not a mistake that's because
+understanding how to live better uh is a
+question that there are right and wrong
+answers to and we can generate that sort
+of knowledge so you know I'm just saying
+in so far as we become better at
+producing knowledge I would expect moral
+knowledge to go hand inand with that I
+don't think there's any total
+distinction between uh you know the
+realm of moral knowledge and the realm
+of other knowledge I think these are all
+questions about what to do with our time
+how we should live what to do next Etc
+and so we'll come up with better answers
+to these questions just in case we come
+up with better questions to you know how
+how physics works and how math works and
+things like this yeah yeah I want give
+you a scenario that's tailored to your
+worldview B where I try to make
+everything go down really easy except
+the question of the orthogonality thesis
+so the scenario is you're right about
+knowledge creation it has to like follow
+a certain process with observation first
+but like somebody fig and and llms can't
+get there but somebody figures out how
+to program algorithmically doing all
+those steps so that it like truly
+creates new knowledge and it's truly
+super intelligent in the best way and it
+lives in a computer okay so far as it's
+possible okay so you have like a true
+super intelligence and then the question
+for you is are you really confident that
+that super intelligent is going to like
+love us as opposed to be like hey let me
+kill some people uh well again this this
+comes down to this just like one super
+intelligent Pie in the Sky agent that
+has everything at its whim that can
+outthink us at every turn that is
+infallible basically and I think this is
+an
+unrealistic picture of what intelligence
+entails and so I'm just like not I feel
+like most of the time in this
+conversation I've been pretty willing to
+go along with your assumptions but here
+I'm just it I can't even imagine this
+sort of scenario where we have this like
+super intelligence living in a box and
+it can just do whatever it wants and
+totally outthink all of the knowledge
+that we've accumulated as civilization I
+just I don't see this as as a
+possibility like
+honestly from my perspective from our
+perspective just um this is going to be
+a bit of an inflammatory um analogy but
+we're almost at the end so it's it's
+it's almost like you're saying okay just
+assume that Jesus Christ of Nazareth
+comes back to planet Earth in 2035 just
+make that assumption then don't you
+think that this next thing is going to
+happen it's like well you're asking us
+to assume something that we believe to
+be absurd and then what follows from an
+absurdity I know that from your
+perspective that doesn't doesn't feel
+that way but from our perspective you're
+asking us to assume an absurdity and
+then see what follows from it which
+doesn't make sense also yeah let me just
+also maybe acknowledge like sure yeah if
+we developed a super intelligent like
+assuming all that happened I don't think
+there's some guarantee some law of
+nature that says this will definitely be
+good so yeah it could be you know it
+could make a mistake in terms of its
+moral calculation or something um so you
+know if you want to call that adopting
+the orthog inste would you say would
+would you say that it makes a mistake or
+would you say that there's an evil twin
+version of it in algorithm space that it
+it doesn't even think it's a mistake it
+just wants to kill obviously it wouldn't
+think it's a mistake but I I think we
+can say it would be a mistake to wipe
+out Humanity I Think Jesus comes back
+devil true
+morality okay when you say there's one
+true morality you agree it's it's one
+true Morality In terms of like you know
+what you feel strongly about but it's
+not the one true Morality In terms of
+what some intelligent algorithms might
+feel strongly about forget okay let's
+forget like one true morality let's just
+say like I think there are better and
+worse States for human beings to be in
+uh and I think there are better and
+worse ways to reach those States uh okay
+so I think that you know I think there
+are better and worse Ways to Live okay
+so forget the word morality um and I
+think so yeah in so far as the super
+intelligence wiped us out I think that
+would be on the bad side of The Ledger
+can chalk that up to a mistake um yeah
+but it is just the orthogonality
+conjecture right like what is the
+evidence for it what are the reasons
+what are the rationale because if human
+beings are the only thing that we have
+as evidence then it pushes against it
+yeah I'll give you a piece of evidence
+yeah so so why why is the orthogonal
+thesis obvious to me so it's just
+because when you have an agent doing
+anything right so let's just say I I
+built an AI and who maybe it's not as
+super intelligent as I imagine but it's
+like really smart it's like the smartest
+you like whatever it is it's
+successfully achieving plans and those
+plans often have sub plans so if if the
+plan is I'm going to make money for my
+company you might have a sub plan being
+like I'm going to clear some land so I
+can build a factory so you've got the
+land clearing sub plan so the range of
+possible sub plans is arbitrarily large
+so the fact that you have the system
+even if it's a good system even if it
+just wants what's best for Humanity it
+just it just wants to uh you know make
+money for Humanity it still has this
+capability where you can just Lo a sub
+into the AI and and it can just optimize
+the sub so you can imagine copying and
+pasting that entire code base and making
+one tweak where you just take a sub plan
+saying kill all humans and that's just
+the only plan right so you can just
+imagine it's a small architectural
+modification so algorithms that want to
+kill everybody are just not far away in
+algorithm space from algorithms that
+want to do anything but yet we've had
+algorithms for 35 years and no one has
+died like significantly super optimizers
+right so every algorithm we've ever had
+very simply has an off button right so
+so you just turn it off and then you
+lift and that's not going to be the case
+in the future in so far as the
+possibility of like one super
+intelligence that has a fixed objective
+function I think that's a contradiction
+in terms of super intelligence having a
+fixed object objective function but fine
+in far as you have that and somehow
+we're loading algorithms into it but
+it's still super intelligent whatever um
+you know in so far as that situation
+arises then sure I I things could go
+very arai and it
+I think you just kind of agreed to me
+that the orthogonality thesis is pretty
+obviously true with all the I mean I
+really I'm not interested in debating
+this like with all the caveats I just
+give you fine I just can I just make one
+meta note um is that this is precisely
+the move that I was talking about at the
+beginning of the conversation where I
+I'm talking about this sort of
+interpolation this jumping back between
+this these arguments about like death by
+abstract super intelligence which is
+totally the realm we're in right now
+where we're like not talking about
+anything specific we're just talking
+about like super intelligence G oror
+orthogonality who knows what the hell
+happens who knows how they're built who
+knows how long this takes um and then
+you know why are we worried about this
+well we're worried about this because
+progress in deep learning and so this is
+the move that I think gets made all the
+time and
+is obviously not bad faith because you
+know I think I don't think you're being
+bad faith but I think you're making a
+mistake in that you're looking at
+progress and deep learning as indicative
+of progress towards this larger unknown
+thing right and so that's where Vaden
+and I wanted to insert ourselves and
+start talking about okay how do llms
+actually work now you don't buy those
+arguments and you want to talk about
+Trends and stuff but from our
+perspective this is sort of where we get
+off the ride and why these conversations
+are a little hard and frustrating at
+times to happen because we feel like we
+need to you know it's like well we can't
+argue with you about the llm stuff
+because we just you know we get into
+Trend land and we want to talk about
+mechanistic interpretations of what's
+going on um and then when you start
+talking about like abstract super
+intelligence then and I we want to
+dispute all the premises that these
+things can actually be built especially
+given current technology and our current
+knowledge uh but then we just sound like
+[&nbsp;__&nbsp;] trying to dispute the premise
+of all these questions but there's a
+reason we want to dispute the premises
+and it's because the technological path
+we're on right now does not indicate At
+All by our lights that we're actually
+going to like be able to build these
+things so I'm sure this has been a
+frustrating conversation for people to
+listen to uh and but I just want to
+maybe try and Def our perspective a
+little bit and like that's kind of
+what's going on that's why we keep
+talking past each other and it's because
+we're just we're using different
+analyses we're using different
+assumptions like uh and we're just talk
+we're constantly talking at different
+levels and I'm not sure exactly how to
+fix that but I think that is the dynamic
+that has sort of play this conversation
+uh anyway that's my that's my Spiel yeah
+and to review remember I kicked it off I
+had a two-part argument part one super
+intelligence is likely coming soon part
+two super intelligence likely doesn't go
+well for Humanity you made a very clear
+right from the beginning that you guys
+aren't on board with part one that's
+super coming here right and then when I
+when I talked to you recently about
+these later stops from the Doom train
+like orthogonality thesis instrumental
+convergence agency yeah these later
+stops are part of my part two right and
+you were just entertaining part two even
+though you think it's pointless to talk
+about part two part one's not line but
+that's totally fine right I mean mature
+adults can have arguments about things
+that are hypothetical right even if you
+think the premise is going to be false
+because I think you're Al open to the
+possibility that like one day I know you
+will give a probability to it right but
+maybe there's some chance that in 2029
+you wake up and you're like oh crap
+standup call is happening let's go to
+what we said about part two sure yeah
+let's talk about main M are is right so
+you run the Monte Carlos simulation and
+just like the most likely thing happen
+so in my world Mainline scenario is we
+keep getting better and better AIS we
+get the stand of Comedy we we get the
+science and we just start getting to the
+point where the agents can be like hey
+run your own business okay here's my
+business it operates on it prints out
+money oh and by the way uh if you if you
+press enter I can go take over a bunch
+of other computers because I understand
+how they're poorly defended right I
+understand how I can like worm through
+and I can just like seize those
+resources so if you ever need more
+Computing resources just press enter
+I'll grab them for you so there's the AI
+just start seeing all of these resources
+that they can take and it's just up to
+the humans to to let them or not and
+eventually it's just like too chaotic
+where the AI is like hey press enter to
+like take over the whole internet to
+press enter to take over this power
+plant right and just like things just
+don't work when there's all this like
+super intelligent chaos um so so that's
+kind of like how I see things playing
+out until it's just like untenable um
+and and you know by 2040 I don't
+necessarily expect to be alive that's
+kind of my Mainline scenario what is
+your Mainline scenario like the next 15
+years go ahead yeah um steady steady
+progress in the same way that we've had
+it before modulo Trump stuff which
+actually does put a bit of
+a um speed limit on my optimism to be
+honest the Trump stuff does make me a
+bit more worried um but that aside just
+LMS are going to be super exciting for
+the next 10 years there going to be all
+sorts of secondary technology and third
+tertiary technology that's coming about
+then it's going to just become as common
+place as the iPhone um maybe we'll get
+some cool VR but in general I don't
+expect any crazy catastrophe in my
+lifetime or the lifetime of my children
+but I'm like super curious cuz you have
+kids right and do you think that there's
+like a 50% chance that like your kids
+are going to die like cuz that that
+sounds like a pretty mentally anguishing
+position to be in and the 50% number is
+equivalent to huntingtons so if you have
+huntingtons you have a 50% chance of of
+giving your child huntingtons and if I
+knew that I had Huntington I would not
+have kids um and I was like this is not
+a gotcha I'm just like very curious to
+know how you square the circle in here
+yeah uh yeah I mean so yeah I think
+there's a 50% chance that my kids and
+everybody else I know is going to die
+and it's just like I mean look one thing
+is you got to um there's the 50% that
+they w die and I think maybe the
+difference with the Huntington is that
+it's just like with Huntington I have an
+alternative so maybe I can like adopt a
+kid that doesn't have Huntington I think
+that's probably I I mean I feel like a
+causation is that if everybody dies with
+the Huntington that like you'd be
+there's a causation thing um I think
+everybody dies together it's not like
+why did I have another kid if everybody
+dies together I feel like it's just like
+well you I did my
+best yeah yeah I mean that that I
+genuinely think that that must suck to
+to um have kids under those
+circumstances so
+yeah yeah I I mean look it it does kind
+of suck to be a I mean I guess it has
+upsides which is like I mean one upside
+of being a doer is is just like you know
+if something is just like not that
+important that you know it gives you
+perspective of stuff right it's like hey
+well you know I have bigger fish to fry
+if like the world's going to head anyway
+right but at the end of the day it I
+just I I don't find it as interesting to
+talk about like the implications of
+being a Doomer because at the end of the
+day it's like I think somebody should be
+a Doomer if and only if it actually
+looks like PD is high right I think
+that's the only reason why I would do
+her it's not because I like the doer
+lifestyle no for sure yeah no no for
+sure yeah
+totally um just to get back to your main
+line scenario so if you think to 2040
+right so there's been a few turns of the
+wheel and like a few generations of AI
+are behind us now and you're just you're
+not seeing that standup comedy happening
+right so you kind of see a plateau
+hitting or or you know similar like an
+artwork right are are you seeing like um
+are you still seeing like human
+designers have a job like I'm just
+curious like what's the extent to which
+you see a AI transformation
+happening um yeah that's a it's a good
+question um and I I agree with Vaden
+that we're going to see all sorts of
+like filters from uh or fil filter
+downwards rather from this technology
+and I think it's going to be over the
+next decade we'll see continued adoption
+in the private sector um and you know
+hopefully the public sector but the
+public sector has a way of falling well
+behind the private sector so unclear
+what will happen there but uh yeah I
+think we'll see like continuous um
+adoption of this stuff over the next 10
+years such that uh it'll be fairly
+ubiquitous technology um I'm unclear
+yeah I I'm hesitate to make predictions
+on the actual progress of the technology
+itself as it's being developed maybe
+I'll give you some conditional
+predictions which would be something
+like if we don't see any big
+um paradigmatic improvements or any big
+new algorithmic developments I think
+we'll see this stuff sort of stall out I
+think there's uh a limit um as Vaden was
+saying earlier like how much uh juice we
+can squeeze out of these things right
+like once we've used up all the high
+quality data uh on the internet I think
+there's only so far you can push these
+and I suspect that these companies are
+actually realizing that themselves I
+think that's what 01 was about where
+they say Okay um actually uh you know
+gbt 5 is not looking as promising as we
+thought so what we're going to do is uh
+increase inference time compute to try
+and make it better I think that has also
+01 is intriguingly better at some things
+but I hasn't promised nearly uh the
+extent of the improvements that they had
+promised where they said this is like
+going to be having a PhD student in your
+pocket um I wish that was the case but
+it is absolutely not the case so I think
+we're starting to see this sort of
+stalling uh already um of course someone
+could come up with like a new
+architectural Advance maybe you know the
+next Transformer or something um or
+maybe like rag or something becomes huge
+and people really figure out how to use
+this uh flawlessly with existing Tech
+but I think uh so anyway so I what I'm
+trying to say is I think we will need
+some big new advances for this
+technology um at the frontier to keep
+moving forward the pace that it's been
+moving forward recently uh and if that
+doesn't happen then I think we're going
+to see this stuff start slowing down um
+I'd also add one I don't know if I'd
+want to call this a prediction but if I
+had to bet I would bet that the you know
+the people that are most likely to
+develop AGI um however exactly want to
+Define that are probably not computer
+scientists I would imagine that actually
+coming out of like the Neuroscience
+Community or something or people doing
+neural computation or something like
+that so I think computer science has
+actually gone down the precise wrong
+path that you'd want to do if you want
+to get to AGI and I think we'll look
+back at this time period you know in 50
+years being like those were some awesome
+algorithmic improvements that let us do
+a bunch of stuff in domains where you
+have lots of data that was great but we
+realized this was absolutely not the
+route agent
+so that's my prediction yeah maybe Jeff
+Hawkins will build AI have you read his
+stuff he's very neuro inspired no I
+don't even know who that is I haven't
+even heard the name yeah I haven't heard
+his name um yeah he's very interesting I
+haven't checked in with him in a years
+but he was uh he was one of the first
+people to that I heard about he was like
+yeah we're building AI we're basing it
+on the brain he's been doing it for like
+more than 20 years I think okay it very
+interesting but I don't know if he's
+been part of the llm Revolution so
+anyway so you guys basically foresee
+another AI winter and you think maybe
+summer will come once the
+neuroscientists have a chance to weigh
+in and maybe within a century or two we
+might actually get human level I was
+sorry I wouldn't want to say for C
+that's why I said conditional
+predictions so I don't like I really
+don't know if people will come along
+with like another architectural
+Improvement like the transformer I was
+just saying if that doesn't happen then
+I for seee um yeah like just a slowing
+down I would foresee a slowing down I
+don't know if I'd want to call it AI
+winter I wouldn't say a yeah yeah I
+wouldn't say AI winter at all I think
+there's like huge numbers of cool things
+coming down the pipeline I think um
+voice and like latency stuff is going to
+be transformative when everyone has it
+in their glasses like I do um with the
+meta Ray bands or whatever um I think
+that vision and multimodal stuff is like
+super exciting I think that like doing
+video generation and audio all at the
+same time also super exciting and then
+there's going to just be this whole like
+Suite of different like tools that can
+be used and um like right now you can do
+video prediction like maybe five or six
+seconds but you want to be able to do it
+more and then when you can do that then
+you can start making like simulators and
+stuff and so no I don't see an AI winter
+at all I think there's a lot of exciting
+stuff but it's just I don't see
+AI it's going to take Humanity longer
+than 100 years from now to figure out
+why human brains are
+smart uh have I didn't say did I say 100
+years that's not if I did say 100 years
+one thing that's interesting about the
+brain that Deutch points out is that the
+brain is not an input output function
+because you can put somebody in um a
+float tank and have no sensory inputs
+coming in and nothing coming out but yet
+the brain still works so I think there's
+going to be like required fundamental
+foundational um insights and
+developments at the level of like
+philosophy at the level of how do we
+think about algorithmics not via the
+lens of a function like how fundamental
+is that or hear me out just have a loop
+that every second gives a Chach BT a
+space bar
+token
+sure problem solved yeah problem problem
+solved but I I don't want to put any
+concrete prediction on when it's going
+to come I like and I'm not even going to
+say that super intelligence is going to
+come all I can say is that human level
+intelligence must be programmable but
+anything beyond that is just
+speculation okay fair enough um yeah so
+I I think uh I've hit on all my AI Doom
+topics uh what do you guys think uh
+anything else do you want to hit on or
+you want to
+recap the May final words which is um
+would love for the audience to imagine
+that they are in like 1970 and listening
+to Paul Erick talk about the
+inevitability of overpopulation and
+looking at the trends and what possible
+arguments could come and refute him that
+people are going to keep making more
+people that the population has been
+accelerating at a exponential rate that
+there's a finite amount of resources
+that when the population gets to 20 30
+40 billion there's going to be all sorts
+of wars and there's going to be absolute
+climate apocalypse and then what
+happened then the trend just changed it
+just stopped because Trend extrapolation
+is not a very robust way to make
+foundational and terrifying predictions
+about the future and so uh the
+irrefutability of Paul erick's arguments
+in 1970 like I know what it must have
+been like to listen to him now because
+that's what listening to elazer Yosi is
+like in
+20124 um and so I just want to leave
+that um thought with the listener and um
+that's the last thing I want to
+say okay well I want to tell the
+audience that I'm I don't see myself as
+extrapolating a trend I just think human
+level intelligence it's like we tend to
+think it's like so good but it was just
+barfed out by Evolution from other
+primates right and it's it was limited
+by the size of a woman's pelvis that the
+head has to fit through so it's not like
+we have big heads it's not like we suck
+up a lot of power it's not like our
+neurons with their chemical
+neurotransmitters are operating that
+quickly so I think this way point along
+the intelligence spectrum is a way point
+that at some point is going to be passed
+so that's my part one right that's why I
+think Super intelligence is possible at
+some point uh okay so that gave a little
+but okay I'll I'll give you guys the
+last word uh Ben go for it I don't have
+much to say I mean I think I sort of
+gave my Spiel earlier um I'm concerned a
+bit that we were talking past each other
+most of the time I wasn't sure exactly
+how to align us on the same page we'll
+see what the audience thinks I think it
+is possibly another frustrating
+conversational listen to so sorry about
+that audience if if you're out there
+banging your head against the keyboard
+right now um I think so yeah you say
+you're not following Trends um I think
+the trends versus sort of principles or
+mechanistic uh analysis to have on here
+is a fairly useful one for just
+diagnosing uh how these conversations
+can go wrong um and like I think a lot
+of the people you have on the podcast
+that you agree with you guys tend to
+talk about Trends and just like these
+things going forward and and you you
+rarely dive into the details which again
+is fine um but yeah I think that's maybe
+a useful lens to to just have on these
+sort of conversations in general but um
+yeah I don't have much to say other than
+that I mean there's lots of interesting
+stuff we could discuss at some point
+that we didn't discuss just like the
+possibility of like how you know how
+many steps up the up the ladder are
+there past humans right is um is it like
+chimp to human and then you know you can
+go arbitrarily smarter than that um are
+there limits to what humans can
+understand how powerful is the human
+brain um or is the human brain in some
+sense Universal uh all interesting
+questions that we didn't touch on that
+those don't bear directly to what we
+chatted about today but would be fun to
+chat about some point in the future and
+uh yeah I'm look forward to waking up
+one morning in 20129 and realizing that
+Netflix is filled with uh with you know
+chat gbt like St standup comedians
+perhaps not standup if we haven't
+figured out embodiment yet but at least
+uh you know voice overed chat gbt
+Comedians and movies by chat GPT and all
+this stuff and I will recant at the feet
+of the doomers at that point and come
+beg you for beg you for your mercy and
+uh try and understand exactly how I went
+so wrong in my thinking yeah MH get
+ready for the best standup comedy of
+your life right before you get killed
+can't can't wait laughing our way to the
+apocalypse yep yep yep all right so yeah
+so personally I actually am not
+frustrated by how this debate went I
+thought it was a good debate of course
+I'm disappointed that you guys won't see
+the truth of Doom but I thought it was a
+good debate because both we both got our
+points out there I think we understand
+what each other's position is hopefully
+the viewers understand it pretty well
+and that's all I hope for with these
+conversations right I just stake out to
+positions and what's always fascinating
+is nobody's ever staked out that
+position before on my podcast right so
+it's like people can be wrong in so many
+different ways yeah happy to be one of
+them absolutely yeah that would be great
+y totally nice yeah thanks for having us
+on again this was so much fun yeah
+fantastic great it's always good vibes
+so my pleasure all right so we're we're
+planning to in about six months right
+let let things evolve and we'll we'll do
+a rematch we'll probably find more
+things to argue about awesome hell yeah
+looking forward to can't
+wait hope you enjoyed listening to that
+debate Ben and Vaden have been really
+good sports and even though we disagree
+on so many things it's been fun to have
+them as new friends or should I say
+freemies in the meantime before you go I
+want to share with you one of the
+greatest AI risk explainer videos I've
+ever seen I watched this for the first
+time a few weeks ago and I couldn't
+believe how good the quality was my
+friend Michael who runs the website
+lethal intelligence. I'll put that in
+the show notes he spent over a thousand
+hours working on this video and it shows
+the animations and the Deep points that
+he's making all hit very hard I think
+you'll have a good time watching it to
+give you a little taste of this awesome
+video I'll play a clip for you right now
+and if you like it you can head over to
+Michael's Channel Linked In the show
+notes and watch the full video here we
+go the way people usually think about
+super intelligence is that they take
+someone very clever they know like
+Albert Einstein and they imagine
+something like that but better it's also
+common to compare intelligence between
+humans and animals they imagine that we
+will be to the super intelligence
+similar to what CHS are to
+humans this kind of things thinking is
+actually misleading and it gives you the
+wrong idea to give you a feeling of the
+true difference I will use two aspects
+which are easy for the human mind to
+relate to and you should assume there
+are actually even more fundamental
+differences we cannot explain or
+experience first consider speed in
+formal estimates Place neural firing
+rates roughly between 1 and 200 cycles
+per
+second the ATI will be operating at a
+minimum a 100 times faster than that and
+later it could be millions of times what
+this means is that the AGI mind operates
+on a different level of existence where
+time passing feels different to the AGI
+our reality is extremely
+slow things we see as moving fast the
+AGI sees as almost sitting
+still in the conservative scenario where
+the AI thinking clock was only a 100
+times faster something that takes 6
+seconds in our world feels like 600
+seconds or 10 minutes from each
+perspective to the AI we are not like
+chimpan we are more like
+plants the other aspect is the sheer
+scale of complexity it can process like
+it's nothing think of when you move your
+muscles when you do a small movement
+like using your finger to click a button
+on the keyboard it feels like nothing to
+you but in fact if you zoom in to see
+what's going on there are millions of
+cells involved precisely exchanging
+messages and molecules burning chemicals
+in just the right way and responding
+perfectly to Electric pulses traveling
+through your
+neurons the action of moving your finger
+feels so trivial but if you look at the
+details it's an incredibly complex but
+perfectly orchestrated
+process now imagine that on a huge
+scale the AGI when it clicks the buttons
+it wants it executes a plan with
+millions of different steps it sends
+millions of emails millions of messages
+on social media creates millions of blog
+articles and interacts in a focused
+personalized way with millions of
+different human individuals at the same
+time and it all seems like nothing to it
+it experiences all that similar to how
+you feel when you move your finger to
+click your
+bottons where all the complexity taking
+place at the molecular and biological
+level is in a sense just easy you don't
+worry about it similar to how biological
+cells unaware of the big picture work
+for the human humans can be little
+engines made of meat working for the AGI
+and they will not
+have a clue and we actually get much
+weirder so good right so again just
+check the show notes for a link watch
+the whole video share it with your
+friends hopefully we spread the ideas of
+AI existential risk thanks for watching
+thanks for all your social engagement
+like YouTube subscribes and substack
+subscribes J debates.com and I'll see
+you right back here next time for
+another episode of Doom debates

@@ -35,6 +35,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; Autohotkey shortcut - get subtitles
 
+::updatewhisper::pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+
 ::wspr::
 (
 

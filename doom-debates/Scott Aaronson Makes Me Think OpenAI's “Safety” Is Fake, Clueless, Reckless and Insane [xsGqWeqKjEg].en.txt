@@ -1,0 +1,3087 @@
+you just finished up two years at open
+AI yes uh working on the theoretical
+foundations of AI safety eara would say
+what is the mathematical definition of
+what it means for the AI to love
+humanity and I'd say yeah yeah I'm still
+thinking about that one yeah not a lot
+of progress to report there we have
+virtually zero traction and insight on
+the alignment problem while we're racing
+to capabilities as fast as we can ah man
+good times good times
+[Music]
+welcome to Doom debates I
+leonir today I'm reacting to a recent
+episode of the win-win podcasts with
+host Liv b sometimes co-host eigor
+krenov and their guest Scott arenson
+Scott is actually one of my favorite
+public intellectuals I've been following
+his work since I was a teenager in high
+school he had a very famous essay called
+uh who can name the biggest number which
+is a game that goes much deeper than
+you'd expect when you play it as a kid
+because it's not just about who can
+write down the most nines there's also a
+whole rabbit hole into a complexity
+Theory and which programs run the
+longest in the Busy Beaver numbers so
+that was really my first exposure to uh
+the wonderful Mind of Scott arenson and
+since then I've read many of his
+lectures about complexity Theory I've
+read a lot of his book Quantum Computing
+since democratus really great book so
+he's taught me quite a lot of what I
+know about complexity Theory he's really
+kind of set me straight with good
+intuitions for that space you might call
+him the elzra owski of complexity Theory
+and Quantum Computing in terms of the
+the impact that his clear thinking has
+had on me Scott is currently a professor
+of computer science at the University of
+Texas at Austin and director of its
+Quantum information center he's best
+known for his work on complexity Theory
+especially Quantum complexity Theory
+he's made significant contributions to
+understanding the capabilities and
+limitations of quantum computers his
+research has helped establish important
+balance on what quantum computers can
+and can't do and of course he writes a
+popular blog for many years decades now
+uh his blog shle optimized which like I
+said was very formative for me so I
+highly recommend checking that out
+recently Scott was recruited by open AI
+to spend a couple years working on AI
+safety so he's going to be talking about
+that in this interview and it's always
+fascinating to see the mashup of Scott
+arenson and AI safety ideas from Alazar
+owski two of these formative figures
+from my youth sharing their opinions of
+like what do we do about the ey safety
+problem how doomed are we uh so this is
+going to be a fun one uh to kick it off
+before I play the episode uh let me give
+you a couple notes about Scott that I've
+picked up from his writing over the
+years as they relate to his views on AI
+safety first of all what's his P Doom
+well last year he wrote a comment on
+Scott Alexander's blog in his own words
+he says I once gave an approximately 2%
+probability for the classic AGI Doom
+paperclip maximizer like scenario I have
+a much higher probability for an
+existential catastrophe in which AI is
+causally involved in one way or another
+there are many possible existential
+catastrophes nuclear war pandemics
+runaway climate change and many bad
+people who would cause or fail to
+prevent them and I expect AI will soon
+be involved in just about everything
+people
+do okay so in his own words his P Doom
+is much higher than 2% because 2% is
+approximately his probability for you
+know the typical Alazar owski scenario
+as you probably know in my opinion
+giving it only a 2% chance of that type
+of scenario that seems overconfident to
+me I feel like everybody should be
+saying it's more like 5% plus 10% plus
+but I think it's good that he's saying
+there's a much higher than 2%
+probability of an existential
+catastrophe in which AI is involved so
+there's your background about Scott
+Aronson's P Doom I just wanted to give
+you cont so you you know roughly where
+Scott stands where he's not super afraid
+of AI but his P Doom is very
+significantly above 2% he's a
+responsible adult he writes a bunch of
+amazing essays about complexity Theory
+okay that that's my background about
+Scott arenson for you and now I think
+we're ready to dive
+in the beginning is interesting why did
+Scott go to open Ai and why was he there
+for exactly 2 years you just finished up
+two years at open AI yes uh working on
+the theoretical foundations of AI safety
+so I guess the first question um at
+least the most obvious one it feels to
+me is uh did you solve it and how come
+you finished working there now well uh
+uh they invited me there in 2022 for a
+one-year uh leave you know sabatical
+sort of right you know and I'm I'm I I
+have a day job right I'm a computer
+science professor at UT Austin and uh
+and you know I was skeptical when they
+came to me because I you know I've spent
+most of my career doing Quantum
+Computing right you know uh I did study
+AI in grad school but you know that was
+back in like 200 right or like like the
+uh the stone age compared to where AI is
+now and uh so I was skeptical that I
+would have much to do okay this is
+actually badass what happened back in
+2022 when open AI was staffed with
+people like Ilia SG and Yan Lakey people
+who understood the gravity of the
+situation and how close we are to the
+point of no return how you know the
+human species Our Fate hangs in the
+balance and we actually need the
+smartest people in the world to try to
+figure out what we're going to do
+because the situation is so hopeless
+that if somebody doesn't have a
+brilliant Insight or a chain of
+brilliant insights to basically pull us
+back from the brink then we're screwed
+so you look at somebody like Scott
+Aronson who's clearly pushed the
+frontier of complexity Theory and
+Quantum Computing and you take him and
+you say hey we need you because you're
+one of the smartest people we have right
+you're one of our Best Bets so it was
+super bad as that they went and
+recruited him you know I'm always saying
+we got to go recruit teren to the guy
+who can blast Through Math research
+problems better than pretty much anybody
+or so I hear right we need to go take
+all the smartest Minds that we have as a
+civilization because even then we barely
+stand a chance against this problem so
+it's super badass for open AI of 2022 to
+go on this little recruiting spree and
+NAB Scott Aronson it's funny that Scott
+is like ah shuck what could I do I'm
+just a professor but I'll give it a shot
+yeah that's the best we can do as a
+species is to just take people who are
+smart and have them think about the
+problem now as best as they can like the
+the background it's not that clear what
+background you need a background in a
+ton of math and computer science is as
+good of a bet as any you know and also
+open AI in San Francisco you know my
+family is in Austin but they said no you
+know we want a theorist to think about
+you know how to help make AI safe we
+think it involves computational
+complexity which which I do know
+something about we think it involves
+computational complexity it's not wrong
+but it's a little bit random as a
+framing imagine there's a race of humans
+with an IQ of 90 and suddenly another
+race of humans with an IQ of 150 is
+coming along maybe like the average IQ
+of somebody who worked on the Manhattan
+Project right imagine an entire nation
+of Manhattan Project level IQs if you
+were ever going to fight a war the 90 IQ
+nation is going to be having a hard time
+just Fielding weapons that can fight
+that war effectively Against The Other
+Nation so imagine you have have this
+race of 90 IQ humans and they're about
+to summon a new race of 150 IQ humans
+and their scientists are saying hm I
+think computational complexity theory is
+going to be involved in telling us what
+these other humans can do is it really
+is it really a matter of computational
+complexity Theory to explain the
+difference between 90 IQ and 150 IQ I
+would say no I think computational
+complexity Theory it gives you ceilings
+it says yeah the the 150 IQ humans
+aren't going to solve the exact perfect
+version of the traveling salesman
+problem in polinomial time right but
+that's a super high ceiling like nobody
+actually needs to do that if they could
+do that that would be great but they
+could do a bunch of other stuff that's
+much easier than that so the idea that
+they're recruiting Scott Aronson because
+computational complexity theory is so
+relevant to understanding how to control
+super intelligence I don't actually
+think makes that much sense the truth is
+it's more like hey humanity is getting
+into something that we don't understand
+and our only hope is that somebody smart
+like you is going to have insights we
+just need insights man it's it's not we
+can't even put a field label on it
+unless you just call the field you know
+intelligence signs alignment signs it's
+not really computational complexity
+Theory like maybe Scott will draw a
+connection maybe he'll make analogies to
+computational complexity Theory but the
+idea that open AI actually understood on
+some level that they need Scott's
+computational complexity Theory Insight
+I think that's just not really an
+accurate way to describe the situation
+but like I said I think it was badass
+that they said hey we just need Minds
+right we need a Manhattan Project just
+anybody who's really smart right who's
+winning math competitions who's
+publishing papers like bring them in
+let's just try to solve this because we
+need every great mind that our
+civilization can muster and even that
+probably won't be enough but it's all we
+can do is to try and uh you can do it
+mostly remotely from Austin you know
+just stay with your family and your
+research group uh so they made it
+impossible to say no basically uh and
+that this was U um ilat
+um and Yan likey mostly who uh brought
+me in yeah he would never be brought in
+today nobody would be reaching out to
+recruit Scott arenson today the super
+alignment team led by Ilia and Yan Ley
+is gone completely gone the other
+alignment efforts that they were doing
+after that all fell apart I'm sure
+there's something going on now that they
+still call alignment but it's totally
+different people like the original team
+has had a total Exodus and it's
+understandable I mean they're just
+locked in a race to try to get to
+profitability to try to stop burning
+money and to try to keep competing on
+capabilities like they're not even that
+far ahead of the pack on capabilities
+right now Claude Sonet 3.5 is really
+good I I personally started using Claud
+Sonet 3.5 most of the time instead of
+GPT
+40 so they're locked in an existential
+struggle just on capabilities now so
+they're really not the company that
+would be like oh let's go recruit Scott
+Aronson even though he's not going to
+build his capabilities just because he
+is one of the smartest people who can
+potenti ually think about AI safety like
+that open AI is gone unfortunately we
+are just entering into a new era where
+the AI labs are very much like look we
+got to make money we got to compete with
+the other AI Labs let's focus on
+capabilities it just sucks I mean we're
+watching an erosion of this kind of
+awareness of where we're going we're
+just watching the arms race get into
+this streamlined good heart tragedy of
+the commons like bad game theory we're
+watching our civilization just in the
+last couple years just spiral closer and
+closer to game over just shedding all
+these last you know jettisoning all
+these last voices of reason as we just
+focus on man the next AI capability is
+going to get us closer to profitability
+is going to widen our lead you know
+where's the government like let's put a
+stop this but you can already see this
+just in Scott arenson describing what it
+was like to get recruited by open AI two
+years ago he's describing a world which
+is gone skipping ahead a little bit um
+skipping the part where Scott explains
+that he was there for 2 years is and
+while he's interested in AI safety he
+has to go back to UT Austin because he
+leads a research group there in Quantum
+Computing so he can't just leave him
+hanging for more than 2 years two years
+is kind of the default sabatical period
+and now in this next part we're going to
+hear about what was Scott trying to do
+at open AI because he was there to help
+with AI safety right so what do you do
+when you have one of the smartest Minds
+one of the most productive fertile
+intellectual Minds Alive and you have
+him try to tackle the problem with AI
+safety what does that look like I'd love
+to understand a bit more what the type
+of type of problems that you actually
+trying to tackle yeah so uh uh I should
+say at the outset uh I did not succeed
+at reducing you know the the problem of
+U aligning AI with human values to a
+math problem uh I'm not I'm not sure
+that I'm not sure that it can be reduced
+and you know it was it was it was very
+funny for me because you know for a year
+I would talk uh uh every week to ilas
+ater about my you know my progress on
+different AI safety problems uh such as
+uh water marking the outputs of language
+models you know which is maybe the most
+concrete thing I was able to make
+progress on yeah so the biggest chunk of
+work that Scott has talked about that he
+accomplished at open AI was he laid out
+a framework for how open AI could make
+their AI outputs detectable because he
+would modify the statistics in a very
+subtle way like if you ask the AI to
+write you an essay you can modify the
+statistics of the exact word choices in
+the essay so that if you run it through
+a detector the detector can kind of see
+the fingerprint like ah yes this essay
+looks extremely similar to what it would
+look like without having a fingerprint
+so the fingerprint is subtle and yet I
+can tell that this has the fingerprint
+so I know that this is AI generated so
+that's what Scott worked on now you
+might be thinking okay how does that
+solve alignment if you just have this
+voluntary fingerprinting system that a
+hacker using an open source AI wouldn't
+even be using like what's
+why is Scott kind of wasting his time on
+this like why is this the project and
+I've seen Scott answer that question
+before in a previous prodcast and his
+answer is basically look it's just a
+foothold right it's just something that
+I felt like I could do and then maybe
+from there I can like do the next thing
+like it's always nice to get a foothold
+and it's like hard to see other
+footholds that's what I remember Scott's
+answer being so anyway that's what he's
+referring to when he talks about like
+statistical water marking so look I mean
+fair enough all right I mean a foothold
+is better than no foothold but you
+really should let that sink in that you
+took a mind like Scots and you said hey
+that's cool if you're working on a
+scheme to let us uh Watermark these
+outputs for people who voluntarily
+decide to keep the water mark in like
+you have a Manhattan Project to build
+super intelligence and you take one of
+the greatest mins and you think it's
+okay that this is what he's doing and
+Meanwhile we're about to have you know
+IQ levels that are Beyond any human
+alive that if the if the IQ if the high
+IQ AI decide to become a virus and
+collaborate with each other like we are
+kind of powerless at that point but
+that's okay because Scott Aronson came
+up with some math around uh watermarking
+these outputs I keep coming back to that
+movie don't look up where this huge
+asteroid is coming it's just about to
+smash the Earth we have one hope of just
+trying to like deflect It or Break It Up
+just kind of do a solution that's like
+more robust in the movie and they're
+like no no no no let's try to mine it
+we're going to get minerals out of it
+right when it comes tooo close it's like
+you know it's like fiddling on the
+Titanic it's like what are you doing
+right do you not notice that the
+solution you're trying to throw at the
+problem and the size of the problem you
+know or it's like that image of the the
+everg given remember that big ship that
+got stuck in the seos canal and then
+they had like that little excavator
+trying to bail it out it's like if this
+is the state of AI safety right it's
+very revealing that Scott arenson is
+admitting that this is the state of AI
+Safety Research and yet capabilities
+we're about to get AGI we're about to
+surpass human intelligence it's like
+what are we doing right at at some point
+you have to have some meta awareness of
+like oh this is not adult Behavior to be
+matching up this level of safety effort
+with this level of capabilities progress
+like the orders of magnitude are off the
+capabilities are delivering genius level
+results they're racing right it's going
+faster than ever it seems like it's
+about to be on the brink oh but the
+safety effort is you know watermarking
+some text
+voluntarily at some point you have to
+learn something from the contrast you
+have to act accordingly you can't just
+Sleepwalk your way into Doom but of
+course that is what we're doing sleep
+walking our way into
+doom and Ilia would say okay yeah that's
+great Scott you should keep working on
+that Ilia Suk was telling Scott Aron to
+keep working on water marking okay Ilia
+feels the AGI and yet he Bears
+responsibility for saying yeah we'll
+have a safety researcher one of the
+smartest computer scientists in the
+world we'll just have him work on a
+watermarking scheme so that we can
+detect if content is AI generated and
+meanwhile you know we're ticking down
+the year to AGI ilas famous for feeling
+the
+AGI he signed off on this he wanted the
+world to think that this was okay Ilia
+is complicit because when he goes off
+and does his own AI lab and yeah tries
+to fire Sam from the board but when he
+goes off and does his own AI lab and
+goes into stealth mode and just says
+yeah don't worry I'm going to build safe
+super intelligence without explicitly
+calling out this is not okay what the AI
+LS are doing is not okay the gap between
+capabilities and safety is too wide no
+ilot doesn't publicly say that right
+he's pressed shy he's just working on
+his own project right now but now we
+know through Scott Aronson that he was
+in a meeting telling his safety
+researcher yeah keep B on the water
+marking this is a valid use of your time
+Scott meanwhile let me go ahead and
+build the AGI maybe the progress of AI
+safety will get a little bit past
+watermarking the progress of AI
+capabilities will get into Way Beyond
+super intelligence I'm fine with
+this Ilia has blood on his hands when he
+makes these kinds of decisions this is
+pretty it's not okay I mean the guy is
+very likable Ilia is very likable you
+know he's contributed a lot to humanity
+but like what the
+hell Ilia would say okay yeah that's
+that but what I really want to know is
+uh what is the mathematical definition
+of what it means for the AI to love
+good times good times IL is asking Scott
+about the mathematical definition of
+Humanity that's basically the outer
+alignment problem uh let me explain you
+know the alignment problem which is
+basically helping make AIS good for
+Humanity you can factor that into outer
+alignment and inner alignment outer
+alignment is can we even say what we
+want can we specify what we want can we
+Define what we want do we know what we
+want so outer alignment is basically the
+mapping from this mess in our brains
+where we have a hard time even
+understanding what we want mapping that
+into some kind of specification or
+unambiguous representation of what we
+want and if there's a conflict between
+what different people want like maybe
+somebody's really bloodthirsty and
+they're a psychopath and they don't mind
+murder well that's going to conflict
+with people like me I'm definitely not a
+psychopath guys but to the extent you're
+trying to reconcile different
+individuals utility function you could
+consider that part of the outer
+alignment problem part of basically
+knowing what you want or knowing what we
+want so that's outer alignment and then
+the inner alignment problem is crossing
+the gap between okay you have a
+specification how do you then get an AI
+that wants to do what's in the
+specification a lot of people look at
+AIS today like chat gbd4 or clae 3.5
+it's on it and they think oh it seems
+like we solved inter alignment because
+we just had them scan through a bunch of
+text where humans are talking about
+what's good and what morality means and
+they can now converse with us pretty
+good about morality you know Mark andr
+is somebody who loves repeating this
+claim like he seems to feel really
+reassured by the fact that he can have a
+conversation with an AI about morality
+uh the only problem for doomers like me
+who consider the inner alignment problem
+not solved at a super intelligent level
+is that the ability to pass tests when a
+human is looking at what you're writing
+and the human is like ah yes it does
+look like you understand morality that's
+different from wanting to take the right
+actions when you now able to strategize
+actions across the world like not just
+hey I'm going to output something the
+human's going to upload or down about me
+when the thing you output is an
+action and the test the human never gave
+you a test about the consequences of
+your actions over the whole world you
+just took a bunch of tests during your
+training time that were just like hey
+did you write something that the human
+likes
+we don't have a way to cross that Gap
+right the rhf that we're doing you know
+as Jeffrey Hinton said rhf is crap for
+that situation uh even you know Ilia
+satk knows that rhf is crap I think the
+majority of people who are working at AI
+Labs today openly admit that we don't
+have a way to cross that Gap right now
+and to have a feedback loop that will
+actually keep the AI doing what we
+specify that we want it to do once it
+gets out into the real world and it
+doesn't have this kind of tight feedback
+loop where human can evaluate everything
+so that would be more of the inner
+alignment problem is like okay we think
+that we know what we want how do we get
+the AI to learn what we want instead of
+cheating on our tests so that's inner
+alignment and again outer alignment is
+even specifying what we want in the
+first place aligning the specification
+to what we truly want so I thought I'd
+give you a little bit of background on
+inner alignment versus outer alignment
+and then I'll point out that when Ilia
+goes up to Scott arenson in their
+meeting and he says what is the
+mathematical definition of what is what
+does it mean for the AI to love Humanity
+mathematically he's touching on the
+outer alignment problem where like it
+seems like in some vague sense we want
+the AI to love Humanity but what does
+that mean formally what is a a formal
+distinction between an AI that loves
+humanity and an AI that doesn't and then
+there's a separate question that IL
+wouldn't be explicitly asking if he says
+what does it mean for the AI to love
+Humanity there's another question of
+like okay we know what it means for the
+to love Humanity but there's the inner
+alignment question of like how do we
+actually get it to do
+right that would be a whole another
+follow-up question but like I said
+before we're not actually answering any
+of these questions we're standing on the
+shore of all these questions we're
+barely scratching the surface this is an
+early stage research problem but we're
+just plowing ahead on capabilities
+that's what's happening I mean you know
+it's like the in some sense the the
+alignment people are asking questions
+that include you know 3,000 years of
+moral philosophy uh uh or or what what
+what what has traditionally been called
+moral philosophy and and uh you know
+questions about what kind of world do we
+want what kind of future do we want you
+know social political questions uh uh
+they're sort of all wrapped up in this
+package right what's historically been
+known as the field of moral philosophy
+is Humanity's attempts to Grapple with
+and make progress on the outer alignment
+problem we've been trying to specify to
+one another what do we want how should
+we behave the stakes have been
+relatively low because we've all just
+been so motivated by our individual
+incentives we've all just been so
+programmed by our nature you know
+regardless of my moral philosophy I'm
+probably going to take a lot of pleasure
+in food I'm probably going to be
+uncomfortable with too much killing cuz
+these things get kind of close to the
+hardwiring of human nature so that's
+always been uh what Nick Bostrom calls
+like an exoskeleton of moral philosophy
+we've all we've always had a lot of
+these hints that have made moral
+philosophy relatively low stakes uh you
+know a relatively small piece of how our
+lives actually proceed now with super
+intelligent AI it's like okay pencils
+down like what is the moral philosophy
+that you're going to program into the AI
+because the initial condition is
+probably going to be the final condition
+so pencils down what is it Scott Aron in
+and he admits that yeah we don't have
+the answer now you might think come on
+Len it's not pencils down we don't need
+to have the final answer for what human
+morality is or human values are we just
+need to have some kind of metal level
+answer we just need to build an AI that
+can cooperate with us at gradually over
+the years writing down what might become
+the ultimate specification for what our
+values are or even a specification a
+meta specification for how values get to
+keep evolving in a way that we like the
+values to keep evolving and that's
+actually the one big meta value okay
+fine I'm sure there are plenty of good
+meta answers that we can write down you
+know to letting values evolve but the
+problem is we're not actually doing
+those either right so even on that level
+of the problem of like how do we
+cooperate longterm on iterating on
+values that continue to change in a way
+that we like even that problem is
+completely unsolved so talking about the
+meta problem you know related to what
+alaz yasi calls coherent extrapolated
+volition talking about the problem of
+like yeah we'll just work with AIS to
+keep extrapolating what we want we won't
+build the AI that does exactly what we
+want because we don't really know what
+we want so we'll build the AI that works
+with us to help Define what we want the
+AI will help us solve out our limit find
+but even that meta problem of how do you
+build an AI that helps solve outer
+alignment that's also an unsolved
+problem open AI likes to talk about how
+AIS will be helpful for alignment but
+they're really just hand waving like oh
+yeah we don't know how to solve the
+problem and we need to solve the problem
+and whatever AI we're building now is
+probably going to be helpful at solving
+that problem uh but of course whatever
+AI they're building now is also just
+going to get locked into to tricking us
+and passing our tests and not actually
+helping us solve the problem and they
+don't have an answer for that that they
+absolutely don't right their only answer
+is like look we're just going to try
+okay we'll take it one step at a time
+we're going to try it's crazy stuff and
+and so I feel like the most that
+theoretical computer science can do is
+pick off little bits and pieces of it
+yeah and it's not just theoretical
+computer science the most that all of
+our fields of inquiry can do is pick off
+little bits and pieces of it because we
+know that the alignment problem is very
+hard and it's probably going to take a
+lot of iteration a lot of new insights
+chained together coming at a time for
+many years and decades this is a pretty
+scandalous admission not personally by
+Scott saying theoretical Computer
+Sciences picking off bits and pieces but
+by Ilia hiring somebody like Scott and
+asking him such open-ended questions and
+admitting that they're so early stage in
+alignment while they are racing against
+capabilities I'm always saying this idea
+that hey alignment might be intractable
+on a 5 or 10 or 20 year time frame it
+might be intractable here's an Insider
+at open aai at reporting on his own talk
+with Ilia being like yeah they all just
+see it as pretty intractable we all know
+that we're at the early stage and yet
+capabilities are are racing
+ahead this is the framing that's missing
+from the discourse whenever you have an
+AI leader come and do an interview or
+talk at a conference and explain their
+take about how their lab is moving
+forward the context that's missing is
+this idea that yeah alignment is an
+intractable problem and we're just
+proceeding as best as we're going to
+proceed but also we're racing on
+capabilities they don't explicitly ask
+the question of like hey if it is
+intractable then what do we do what is
+our plan for when the smartest people in
+the room analyzing the difficulty of the
+problem conclude that it's
+intractable and they don't have a plan
+like that the unstated assumption is
+that it has to be tractable enough
+alignment has to be tractable enough
+that just doing our best on the
+alignment problem has a decent chance of
+being good enough which makes p Doom not
+super high because the two lines
+capabilities alignment like it's okay
+alignment is going to catch up to
+capabilities it's not going to be super
+far behind even though it does seem
+super far behind right now okay so now
+Scott explains what I mentioned before
+which is he came to open Ai and he
+wondered how he could get a foothold on
+the alignment problem and it occurred to
+him that maybe water marking could be
+some early contribution that he could
+make so the most concrete thing you know
+that I sort of very quickly noticed uh
+and this was in the summer of 2022 so
+this was was before chat GPT was even
+released uh but you know I had of course
+been playing around with with with GPT
+including with with gbt 4 which which
+existed internally at that time and it
+occurred to me at some like oh my God
+every student in the world is going to
+want to use this to do their homework
+aren't they and you know every pedler of
+spam and misinformation is is going to
+want to use this thing uh wouldn't it be
+great if we could make it easier to
+identify you know what came from GPT and
+what didn't right and now we have a much
+more well-defined problem right we're
+not talking about you know what does it
+mean for AI to love Humanity or to have
+our best interest at heart we're just
+asking can you tell what came from this
+language model and what didn't come from
+it right okay I hear you it's always
+great to find easy problems find
+footholds but you think maybe you
+reduced it a little bit too far I mean
+the problem of getting an AI to love
+Humanity reducing that all the way down
+to the problem of hey maybe somebody
+wants to use the output for bad purposes
+so can we install a voluntary watermark
+in our version of the AI that if
+somebody uses the unaltered output then
+we can detect it do you think maybe
+you've reduced the problem a little bit
+too far and maybe you should not bother
+tackling that particular version of the
+reduced problem maybe you should go back
+to the larger problem of alignment and
+try to find a reduced version of
+alignment that's still looks like
+alignment I personally feel like this
+did go a little bit too far I mean
+everybody can have their own opinions
+right I'm not sure but in my opinion
+it's kind of like he said hey maybe
+somebody's going to come uh seal our
+gpus so I'm just going to do a project
+in the field of uh CPU alerts like theft
+alerts okay I mean like yeah that's CPU
+theft alert is nice but you're Scott
+arenson like Humanity doesn't understand
+the alignment problem it does kind of
+feel like you've walked into a different
+realm entirely and like yeah it's a kind
+of valuable realm it just doesn't feel
+like what we need right it feels like he
+wandered too far outside of the original
+point of the problem and the claim that
+it's still the same problem or even a
+related problem I think is questionable
+compared to a bunch of other problems
+that are equally related or unrelated
+like I don't think it's easier to argue
+that the watermarking project is more
+related to AI alignment than any kind of
+hard theft prevention device project I
+mean they're both like barely related in
+my pral opinion and so now like it's
+like the tools of computer science have
+more traction right you know that this
+is a recurring theme it's like uh if uh
+uh uh you know there are these enormous
+questions but the O again and again the
+only way to make progress is to look at
+what's right in front of you right uh
+and and then hopefully you learn
+something that way in the famous
+metaphor of looking for your lost keys
+at night
+the idea that you should just look at
+what's right in front of you might be
+like okay stare at the ground right in
+front of you see if your keys are there
+but did you do that or did you walk over
+to the nearest lamp poost where it was
+well lit and then look at the well lit
+ground because like I said in my
+personal opinion it feels like you just
+did that and look respect for going to
+open Ai and looking around for a problem
+right respect for trying did I try no I
+didn't do that at all right so I'm even
+less contributing to the problem it's
+all too easy for people like me who have
+haven't contributed any alignment
+research to come out and criticize other
+people who have done some alignment
+research you know and even some net
+positive alignment research so you do
+want to take my criticism with a grain
+of salt and I should have a proper
+humility okay now Scott continues
+telling the story about his time at open
+aai apparently what happened was he came
+in they thought about this water marking
+problem he went off and solved it in
+like two weeks and then the bigger
+problem of Scott's two years just turned
+out to be the question of how is opening
+I going to ship this how do we take the
+watermarking algorithm and actually
+incorporate it into some product that's
+robust enough that it's worth doing
+because the problem is this watermarking
+scheme there's a million ways to work
+around it uh you know you can translate
+it to another language and then
+translate it back and now you get
+different text doesn't have the
+watermark anymore or you just go
+manually tweak it or you can go sentence
+by sentence and manually rewrite the
+sentence or pretty easily you could just
+like use a different llm to rewrite it
+there's a million ways to work around
+these water marks like the scheme was
+never even close to being robust like
+not even in the slightest another way
+that Scott mentions that you can work
+around it is if there were ever open
+access to the watermark checking
+algorithm if F AI said yeah here's an
+algorithm you can run to tell if this
+was generated by an AI or generated by a
+human which is likely to be something
+that becomes open source or that becomes
+public okay well now you can work around
+it just by making a tweak testing it
+against that algorithm make another
+tweak test it against algorithm and you
+just keep tweaking till the algorithm
+spits out ah yes this was made by a
+human even if it's still 99.99% made by
+an AI so all of these obvious caveats
+help explain why open AI wasn't that
+excited about shipping it as opposed to
+working on other things that their
+customers were actually asking for it's
+interesting to hear Scott tell in his
+own words that most of his time was
+spent kind of waiting for this to ship I
+spent a couple of weeks sort of working
+out the mathematical theory of you know
+how how to embed a water mark that sort
+of would maximize how much signal you
+get per Tok you know how many tokens you
+have how much entropy there is in each
+token and so forth and there actually
+were interesting mathematical questions
+there so you know I felt like I felt
+good about that that I could do
+something right and uh and then uh you
+know not long afterwards other people
+either sort of rediscovered you know
+similar things to what I had done or
+they or they built on uh uh what I had
+done so you know it became a a known
+thing in in um in academic AI research
+uh but then you know the the remaining
+two years A lot of it was just an
+unsuccessful attempt to get this
+deployed and sort of you know no one
+ever said no like we you know we'll
+definitely never do this but it just
+sort of got pushed indefinitely into the
+future okay understandable uh but just
+remember the context Ilia sover hired
+Scott arenson to help him figure out how
+to make the AI love us we're a long long
+way from making the AI love us do you
+understand a great mind like Scott
+Aronson doing a two-year research
+contract at open aai and we get a piece
+of water marking that might may or may
+not make it to production how many years
+do you think it's going to take to make
+the AI love us how many years do you
+think it's going to take to get to
+AGI at some point the adults in the room
+need to say the word
+intractable we need to say the word
+intractable what do you do when the
+alignment problem is
+intractable Scott Aronson's work at open
+aai represents a totally normal typical
+thing that you might see happen in 2
+years that's normal and typical what's
+not normal and typical is the AI
+capabilities progress timeline there's a
+timeline on AI safety progress we are
+not progressing on that timeline we are
+not progressing within a factor of 10 of
+that timeline and that is why we have to
+say the word intractable
+what kind of policy do you make when a
+problem is intractable that's why the
+paii camp which I'm in the doomers we
+say pause AI we say a treaty to ban
+further capabilities development not
+because we don't like technology not
+because we like this kind of
+coordination we hate it
+but what is the
+alternative the alternative is having
+the the other people who we thought were
+the adults in the room right like Ilia
+satk who you normally think of as this
+Wise Guy feels the AGI who totally
+respects the alignment problem right his
+new company is called safe super
+intelligence and he's hiring Scott Aron
+Scott Aronson delivers what he just
+talked about on a two-year timeline and
+what does Ilia do keeps his mouth shut
+doesn't publicly say anything about
+pausing AI doesn't say anything about
+being intractable goes and claims to be
+solving the super alignment problem
+himself but we have insight into what
+Ilia Suk does when it's his Dro us all
+AI he asks Scott arenson how to make the
+AI love us he doesn't get an answer and
+he just keeps proceeding this is
+crazy one thing I really like about
+Scott Aronson is he's very clear that
+these llms what they're capable of today
+is much farther than anything we've seen
+from previous machine learning this
+whole concept of like oh they can only
+stay in distribution you're just getting
+kernel smoothing over some known
+distribution they're not doing anything
+new Scott Aron clearly doesn't buy that
+here's an interesting seg where he's
+talking about the problem of uh training
+versus test time is the AI basically
+going to go Rogue is it going to just
+pass our training tests but then once
+its environment gets outside of its
+distribution is it going to successfully
+figure out things outside of its
+distribution that kind of were in its
+utility function or were in its uh loss
+function or optimization Criterion all
+along but it just wouldn't show it to us
+at training time because its training
+examples just didn't match its
+posttraining you know runtime Behavior
+anyway so Scott is talking about this
+kind of situation and that leads him to
+explain yeah we don't really have the
+machine learning analysis for what these
+llms are capable of uh which is a far
+cry from what you're going to hear if
+you listen to my last episode where I
+react to uh Dr subar km Pati or a
+previous episode where I react to
+Martine cassado uh Scott Aronson has a
+very different take about the idea that
+we don't understand whether these llms
+are really in some kind of distribution
+it doesn't seem like they are from his
+perspective and I agree so this is a
+good segment in my opinion so is the you
+know in in training is this apparently
+aligned uh uh uh model saying all these
+nice things because it really has nice
+values or because internally it is
+decided you know the time is not yet
+ripe for for the uprising it's uh uh
+extremely important to sort of uh uh
+Advance the theory of machine learning
+to be able to make statements about you
+know not just when do we expect the
+model to generalize to more examples
+drawn from the same distribution over
+examples which is what classic machine
+learning is all about you know this is
+stuff that I have written papers about
+that I've you know learned as a student
+there's a whole theory of uh what's
+called pack learning probably
+approximately correct it stands for and
+uh you know these combinatorial measures
+like VC Dimension where basically you
+prove theorems that say you know if
+you've succeeded in classifying you know
+X number of examples from some training
+Set uh uh then you're going to probably
+succeed at classifying most further
+examples that are drawn from the same
+distribution right so so we we we we
+we've understood uh uh things like that
+since the 80s or 90s but what we've
+never really understood is um under what
+circumstances will you generalize to a
+whole new distribution
+right and it's clear that that you know
+uh uh uh existing llms already do that
+to some extent so for example you could
+give an llm just a bunch of math
+problems in English and a bunch of other
+stuff in Bulgarian right and then give
+it a math problem in Bulgarian you know
+which it's never seen before and you
+know it can put together the two
+different things that it knows right it
+can solve a math problem in Bulgarian
+even though it's never seen one before
+and naively we would say uh well that's
+simply because it now knows the math and
+it knows Bulgarian right but uh the the
+uh you know the theories that we have of
+uh of machine learning you know don't
+make it easy to formalize like what does
+this model know what does it not know
+right what does it have a conceptual
+understanding of uh they're just all
+about you know what fraction of samples
+will it correctly classify right and so
+I think we really do need to push
+further to get uh theories that can tell
+us something useful informative about
+outof distribution generalization and
+you know I I I I tried to do that I made
+a little bit of progress on that but but
+uh it's hard yes thank you I'm really
+glad we have Scott Aron saying that
+because the Rous subm patties of the
+world uh my most recent episode so many
+of these types of commentators are
+telling us that when you talk to an llm
+you're just getting like a similarity
+metric where it's just you know fuzzy
+matching something in its data set but
+Scott Aronson gave such a good example
+if you see particular types of math
+problems worked out in English and then
+you just see General data about uh
+English math and Bulgarian math and just
+kind of mapping the different math
+concepts from one language to the other
+but then you see a bunch of examples of
+math done in English Scott Aronson's
+climing that the llm can then answer
+similar questions in Bulgarian I haven't
+personally gotone un verified that but
+that does seem like the kind of
+plausible connections LMS are making the
+example that I used in my previous
+episode was I had to explain a novel
+joke that I made up and it did so
+successfully and I pointed out how that
+had to make connections and inferences
+which were very much not just like
+statistical averages or criminal
+smoothings of any kind so that that was
+the example that I used Scott has his
+own example I'd love to see a little bit
+more detail about how that example works
+but I think I get it right it's the
+connection uh where you train it on math
+you train it on Bulgarian and then
+suddenly it can do Bulgarian math that
+Absolut abolutely begs for an
+explanation so it's crazy to me that uh
+this idea that it can be just a sastic
+parrot is still being said I feel like
+we've so moved past that like there's
+consensus at most of the AI companies
+themselves that we've moved past that
+although I did hear pretty recently uh
+somebody at meta AI who who talked in
+that kind of terminology but like it's
+obviously wrong so I'm glad that Scott
+Aronson is in that it's obviously wrong
+Camp people constantly want to use this
+def aary language around llm right an
+llm is just a next token predictor right
+it is just a nonlinear function
+approximator right it's not helpful when
+people say that stuff what they love to
+do is you know find examples where GPT
+completely flubs something where it
+gives a ridiculous nonsensical you know
+stupid answer and then they can point to
+it you know post it on Twitter right and
+and jeer at it and say you know all
+these people think that this thing is
+about to take over the world well look
+you know it can't even solve that you
+know the uh this puzzle like like you
+know you ask it you know I have a goat
+and and and a boat and how do I cross
+the river and it thinks that first I
+should cross without the goat and then I
+should come back for the goat or
+something stupid like that right the
+challenge for those people is that the
+the stock of examples has steadily
+diminished you know even just within the
+last year or two right so a lot of like
+the examples that they pointed to of
+gpt3 where would make these ridiculous
+logic errors or common sense errors GPT
+4 got them right one of the things I do
+here on Doom debates is I show you what
+smart people believe Scott arenson is a
+really interesting example because he
+obviously doesn't have a hidden agenda
+he's not profit motivated right he spent
+his whole life in Academia he's known as
+being super honest super high integrity
+and here he is telling us that he
+doesn't see a big barrier as scaling
+progresses or as we keep developing the
+next generation of AI he doesn't think
+that they're going to stay in
+distribution or they're going to be
+unable to solve certain classes of
+problems he's very much like me and like
+many of the people who work at the AI
+companies looking at this and being like
+yep it seems like it's uh roughly on par
+with the human brain and in many ways
+surpassing the human brain and we're not
+really sure what Li is next you know to
+some degree maybe I'm I'm putting words
+in his mouth right he didn't say all
+that verbatim but that's the impression
+I'm getting because he's certainly not
+saying hey it's a stasic parrot it's all
+just Colonel smoothing he's certainly
+not talking like Professor subar kumati
+who I reviewed in my previous episode he
+doesn't sound like Ral at all he sounds
+totally different he sounds more like I
+sound so that's a huge distinction it's
+very important to ask yourself is
+Professor ra right or is SC arenson and
+a lot of the doomers are we right which
+perspective is correct because there's a
+huge chm between those two perspectives
+it's pretty crazy given the stakes that
+we can't reach agreement on whether or
+not these trivial barriers exist that
+can make us feel comfortable that AI
+won't be able to do something
+unfortunately like I said I agree with
+Scott and I don't think that these
+barriers exist I think we're really in
+for a ride here as the capabilities just
+increase at a speed that we can't
+predict which seems likely to be a very
+rapid because it has been rapid in the
+last few years okay now the conversation
+turns to what makes humans fundamentally
+human and what makes humans
+fundamentally have moral worth I guess
+is the topic being discussed and in this
+conversation Scott goes down a path that
+I personally don't think makes any sense
+but he has a good attitude he's
+open-minded so maybe at some point he'll
+change his perspective anyway let's hear
+what he has to say so in what ways are
+humans not just a thing where AI
+actually are just a thing you know in
+other words like what are the you know
+what differentiates humans from machines
+fundamentally well that that is an
+enormous question and you could say you
+know like the the maybe the deepest
+reason why this moment in AI is so
+exciting is that we are finally maybe
+for the first time in the history of
+humanity going to address that question
+empirically right we're going to like
+one way or the other we're going to find
+out
+and and you know so so let me be very
+clear I don't dismiss the possibility
+that maybe AI will hit a limit that is
+is uh uh uh uh where where where where
+you know it can't replace everything we
+do you know we we're we we we have some
+spark that it can't replace uh but you
+know if so then uh that that I would say
+that it remains to be seen this is a
+great start because he's explicitly
+acknowledging yeah maybe humans aren't
+special maybe there is no special spark
+maybe the tide of AI will just keep
+rising and rising and it'll just replace
+us at everything on every Dimension even
+the ones that we think of as being
+really humid like understanding concepts
+really deeply I feel like that one has
+been already mostly replaced right the
+way AI really understands what concepts
+mean potentially more deeply than the
+most thoughtful human has ever
+understood Concepts I feel like there
+are some Concepts where AI is
+understanding them at the most subtle
+possible level already so Scott's point
+is like yeah so anything you think of as
+fundamentally human like capacity to
+like love deeply or appreciate Beauty
+deeply like whatever you can name we're
+currently on track to see whether or not
+those qualities will stay unique to
+humanity somehow so again great start
+that Scott is saying yeah we don't know
+this may or may not be the case I
+personally am of the position that I
+don't think humans are optimal on any
+Dimension so it's not even a tricky
+question for me I mean I guess there
+still you know mysteries of
+Consciousness that I guess could run so
+deep that AI will like crash up against
+them but it's just like when man because
+the pace is going so fast so many
+obstacles are falling down that I'd be
+surprised if suddenly like it slams into
+a wall like oh no it could never have
+the essence of Consciousness so because
+of that it can't like be effective
+because something in human cells or like
+in human Quantum Dynamics is is stopping
+you know for me that's like totally
+infeasible but you know there's there's
+an open possibility right you can't rule
+it out it's just I don't think it's like
+a 50-50 thing and and Scott is currently
+kind of straddling the line like yeah
+maybe it's an interesting question
+whereas I have like a strong position
+like nope we are going to get like fully
+replaced on every Dimension okay but
+let's hear what else Scott has to say
+here because he has like a particular
+hobby horse about a certain Quantum
+property that he thinks might preserve
+the essence of our Humanity which to me
+is like such a long shot but let's
+listen one of the things you touched on
+was the idea that humans ultimately have
+a form of scarcity and that like an
+ephemerality yeah right when we write a
+poem or but yeah like Shakespeare writes
+a
+poem that's it like Shakespeare's
+written his poem but we can ask an llm
+write a poem in the style of Shakespeare
+he'll write it ah don't like it
+refreshed I'll give you another one
+refresh another one so there's this like
+it it it's also almost made the ACT Act
+of Creation very very cheap and almost
+like
+a this overabundance sort of comes at
+the cost of meaningful or meaningness or
+something like that okay my first
+reaction is that just seems like a plus
+if AI can generate 10 different answers
+to a single question and all the answers
+are good like how does that hurt how
+does that make it any worse than
+Humanity but let's listen if you don't
+like an AI output you can always get
+another one right the the 37 plays that
+Shakespeare gave us are the only ones
+we're ever going to get from him right
+but you know like I I I I I've noticed
+this uh uh uh uh myself just playing
+around with GPT like you can ask it to
+write a poem and often it's it's very
+you know clever it's delightful it's
+it's amusing but you know you kind of
+never want to frame the one of the poems
+or put it on your wall because you know
+that there's you know 10,000 more where
+that came from maybe the real reason
+you're not tempted to frame one of these
+poems is because it's not quite good
+enough I mean if it was literally the
+best most moving provocative poem you
+ever read in your life you wouldn't
+consider framing it are you sure I
+personally think we're just talking
+about a one-dimensional scale of quality
+to take another example why do we not
+listen to entirely AI generated music on
+our Spotify playlists I think the simple
+answer is it's not quite good enough yet
+or it's not able to self curate quite
+enough yet but I mean I've heard a lot
+of a generated songs that I thought were
+super catchy and really close to being
+something that I would enjoy as much as
+I enjoy human generated music it's just
+not quite good enough yet I don't see
+any fundamental reason why I personally
+wouldn't go to a version of Spotify
+where it's not just my personalized
+playlist of human songs that are similar
+to other human songs that I like but
+it's just AI songs cook to order like
+I'm totally happy to have the AI songs
+cook to order if they really hit the
+sweet spot for what I like as long as
+the quality is good enough so it seems
+like there may be some conflation here
+when Scott is saying yeah the poem is
+not worth framing because I could just
+make another poem are you sure it's not
+just because the poem's not good enough
+let's make sure to separate those two
+Dimensions because Scott's reaction of
+not wanting to frame the AI poem seems
+like it's going to be a loadbearing
+intuition when he talks about what might
+make us uniquely human uh a decade ago I
+wrote a a long essay called the ghost in
+the quantum touring machine where I
+tried to answer the question if there
+was something that separated us from any
+possible AI then what would it be right
+okay he's not promising to give us a
+strong claim he's just going to give us
+the least weak claim he can think of and
+you know I am not satisfied to uh rest
+the answer on some kind of meat
+chauvinism right where we say look you
+know we're made of carbon the computers
+are made of silicon they're just
+different right so what I said is that
+if you can point to an empirical
+difference uh at least between current
+computers and and humans as we currently
+understand them then uh the best
+candidate by far would seem to be well
+uh uh uh our computers are digital and
+because they are digital all the
+information in them is copiable Right
+which mean you know you can always make
+a backup copy of an AI uh you know if if
+if you want ever want to send your AI On
+A Dangerous Mission
+right you don't have to worry about it
+getting killed because you can always
+just restore it from backup now that
+completely changes the moral situation
+of AI I would say you know compared to
+our moral situation just that ju just
+that alone they have no skin in the game
+in a sense right you know as as long as
+you remembered to make the backup yeah
+right as long as it's backed up yeah
+exactly as long as it's backed up is it
+the possibility of death that gives our
+lives moral value or is it specifically
+the idea that we can't forget something
+or go back to a previous state so that
+it makes everything count like you do
+something to me I'm going to remember it
+and that's what gives me moral value the
+fact that I can't forget something or
+erase my neurons or go back to the state
+that I was in before that's such a big
+deal for you in terms of whether or not
+I have
+morality what if I had a disease that
+would erase new memories right or you
+know there are patients that no longer
+write new long-term memories I think
+right that that is like a known
+condition so do they lose their moral
+value by that standard do they have less
+moral value I mean this this seems like
+a grasping out straws here uh you know
+you can always uh if you're ever uh
+embarrassed because you uh uh made a
+fool of yourself when talking to an AI
+you know if as long as it's something
+like GPT that you know you can you know
+you can always just refresh the browser
+window wipe it right wipe its memory
+clean forget right some of us wish we
+could do that and and uh uh you know
+talking to people and let's but you know
+uh if you're doing interpretability you
+know you have perfect visibility into
+whatever you know the the the weight of
+every connection between every neurons
+every pair of neurons at every point in
+time you know and and we don't seem to
+have any of that with people it just
+seems like a difference in degree right
+I mean a lot of times you can tell a lot
+about what somebody's thinking we know
+that chips like neuralink keep getting
+better and better at reconstructing
+people's mental images and kind of
+reading their mind we know there's a
+path to do that better and better we
+don't know where it tops out but there
+doesn't seem to be a fundamental
+bottleneck there it just seems like yeah
+it's wet and messy and you kind of need
+nanot tech if you want to do it really
+well but it seems doable so again I
+think we're just talking about a
+difference in degree here no now you
+could imagine a far future where we
+would have Nanobots that that swarm
+through someone's brain and just record
+all of the information that would be
+needed to make a perfect copy of that
+person right certainly there's been lots
+of Science Fiction that that uh uh uh uh
+uh imagin such scenar is right right
+exactly it really seems like the laws of
+physics allow that kind of thing to be
+built eventually it's just a matter of
+engineering no or imagine the the
+teleportation machine where you know you
+could uh fax yourself to Mars for
+example right and we just send a bunch
+of digital information you know from
+which a perfect copy of you can be Rec
+constituted on Mars and then the you
+know uh uh not clear what should happen
+with the original of you maybe it's just
+painlessly euthanized right right and
+you know and then you know there there's
+a a good question of you know would you
+agree you press that button right would
+you agree to go in that teleportation
+machine right yeah if there were enough
+demonstrations that the user of that
+kind of teleportation machine had
+perceived continuity of Consciousness at
+some point I probably would just accept
+that the version of me that wakes up on
+Mars is still me the same way I accept
+that when I go to sleep the version of
+me who wakes up the next morning is
+still me even though there's a very
+clear discontinuity in myself who wakes
+up compared to myself who goes to sleep
+but I still wake up and I'm like hey I'm
+back it's me again right and I don't
+demand that much proof that my brain
+wasn't altered during the night like I'm
+I'm willing to accept like a pretty big
+difference in brain State and of course
+we all know a lot of times in the
+morning we feel pretty different than
+how we felt when we went to sleep right
+a lot of things change we feel like we
+got a reset so if I wake up on Mars and
+I also feel like I'm myself and things
+are a little bit different than when I
+got into the teleporter that seems fine
+no it seems like I definitely have moral
+worth when I wake up it doesn't seem
+like somebody has committed a huge moral
+Injustice on me by teleporting to Mars
+especially if I'm allowed to teleport
+back to Earth that just seems fine that
+just seems like how the future is going
+to go if you're a transhumanist like me
+like that that all seems good so I don't
+know where he's going with this though
+it's an open question whether we are um
+clonable fundamentally or not on the
+basis of like are do we depend on uh
+like do we need to clone ourselves to
+the like level where Quantum effects
+come in or not no exactly so like w with
+an AI running on a classical digital
+computer it is clear that you can always
+you know teleport in that way right but
+with a human it's really a question
+about at what level of detail do you do
+you need to make the copy right if you
+only needed to know just roughly how are
+the neurons connected what's roughly the
+strength between every pair of neuron
+then uh then that seems like classical
+information right that seems like in you
+know we can't do it today but in
+principle the you know Nanobots could
+get all that information without killing
+you in the process okay but if you
+needed to know what is exactly the
+probability that this neuron is going to
+fire because of the opening or closing
+of this sodium ion Channel well that
+might depend on some chaotically
+Amplified event involving you know a few
+ions and now I would need to know the
+quantum state of those ions okay I
+personally find it pretty confusing and
+even shocking that Scott is going down
+this path because he's an expert in
+Quantum computation he would know a lot
+better than I would whether these kind
+of scenarios are feasible that like the
+exact Quantum state of an ion channel in
+a on is so important to whether the
+human is going to like continue their
+conscious State you know in like a
+noticeable important way I mean to me
+the answer is just obviously no man
+because you've got levels of Separation
+in system design so like if you go to my
+neurons and you jiggle the subatomic
+State you jiggle the quantum state I'm
+pretty confident that's not going to
+affect important parts of my behavior
+because we're talking about a system
+that operates under pretty messy
+conditions like I'm allowed to go to
+sleep and wake up and still be myself
+right or or chemical neurotransmitters
+like neurons barf out moving chemicals
+before they go to the next neuron right
+it's not even like a very tight coupling
+from one neuron to the other so all of
+the conditions of the system are quite
+messy and also like you know sometimes
+I'll drink alcohol right or you could
+take LSD you could take drugs I'm not
+saying I do that but you know people
+alter their brain State all the time and
+you're telling me that it's the quantum
+ion channels it's like so perfectly it's
+so important to preserve them down to
+the quantum level even when we're
+constantly you know smashing our brain
+with chemical hammers that really just
+seems to me like uh motivated reasoning
+right like why are you going there why
+is this suddenly an important part of
+how human brains function I just don't
+see it at all and like I said I find it
+shocking that Scott arenson is so open
+to this idea like oh yeah it's possible
+we got to entertain this hypothesis like
+yeah okay technically it might be true
+but isn't it almost certainly not true
+don't you want
+say that like how how is this even more
+than 0.1% plausible to you I don't get
+it okay and now I'm up against one of
+the central facts of of quantum
+mechanics which is called the no cloning
+theorem which says you cannot make a
+copy of an arbitrary Quantum State you
+know if you try to measure it measuring
+inherently changes the state right and
+so if you needed to go down to the
+molecular level uh then you know we
+could be just unclonable for a
+fundamental physical reason I see the
+appeal of wanting to use the quantum no
+cloning theorem so yes if you had a
+perfect nanotechnology scanner that
+would walk across all my neurons and try
+to measure as best as it can so that I
+can clone them well it's going to
+introduce errors because it's not going
+to copy the exact Quantum State because
+that's
+impossible okay is that the source of my
+moral worth the imprecision of that kind
+of copy because again what happens when
+I drink alcohol do you think that the
+state of my brain after I drink alcohol
+is more modified than the state of my
+brain after I run the most theoretically
+precise possible Quantum cloning
+operation I think the alcohol besses up
+my brain more okay so don't you think
+this is just wishful thinking that you
+get to invoke the no cloning theorem as
+a source of unique human morality like
+it just seems like you're fishing and I
+get that you're just trying to find the
+least bad hypothesis so maybe this is
+the least bad hypothesis but don't you
+think it's worth explicitly stating that
+it's still bad like come on man brains
+are just bad digital computers it's
+worth saying if you you know assuming
+that you agree with my perspective to me
+it just feels pretty clear you know
+nature didn't go do something that's so
+much more clever than a computer we kind
+of took the ball in Ran we know how to
+build kind what I call grown-up
+computers computers that are designed
+from the ground up to compute that have
+an external power source they don't have
+to maintain life functions on board
+there are many reasons to believe that
+the computers that we're building in a
+Data Center and the software that we're
+running on those computers is just
+closer to the ideal of how you do
+computation of how you do intelligence
+this factory installed meat Hardware
+that we have in our heads yes it's very
+impressive but it's still a 1.0 you know
+the way birds fly yeah it's great but
+it's not going to get you to space it's
+not going to get you to make FedEx
+deliveries right it's just a nice 1.0
+that's what nature does it just does
+these proofs of concept and then grownup
+Engineers take it and run the no cloning
+theorem is not going to tell you that
+Nature's design is you know super
+special or has this like unique power I
+mean again 1% chance. 1% chance but like
+don't act like this is any kind of
+plausible default right this is a huge
+long shot okay so this is you know
+partly a philosophical question like
+what would you agree to count as a copy
+of yourself what you know what will you
+count as a good enough copy a sufficient
+condition for being a good enough copy
+not even a necessary condition but a
+sufficient condition is if the delta
+between the copy and myself is smaller
+than the Delta between drunk me and
+sober me or me after I wake up with a
+hangover and then get over the hangover
+right like the whole process of getting
+drunk and recovering all the
+perturbation that that does to my brain
+is an upper bound on what this kind of
+cloning operation is allowed to do and
+another upper bound another sufficient
+condition is the Delta between my brain
+when I go to sleep and when I wake up
+these are large Deltas from a quantum
+perspective it's not the kind of thing
+that the quantum no cloning theorem has
+anything to say about because it's macro
+scale relative to that kind of theorem
+and I know Scott knows that so it's kind
+of weird to me that he's not putting it
+into perspective that his hypothesis is
+a long shot it's also partly an
+empirical question right at what level
+of detail do we need to go in order to
+make something that you know you're
+closest friends can't distinguish from
+you surely not the quantum level imagine
+there's a group of three mutual friends
+it's you and friend one and friend two
+you all know each other really well uh
+you've known each other all your
+lives now friend one decides to
+impersonate friend two to you so every
+time you think you're texting with
+friend two you're actually texting with
+friend one's impersonation of friend two
+well you can imagine you just go the
+rest of your life and you never talk to
+the real friend two again you always
+talk with friend one's impersonation of
+friend two and you never notice that is
+a totally plausible scenario that friend
+one knows friend two so well just like
+you know friend two you guys both no
+friend to and you just never talk to the
+real friend to again impersonation is
+just not that hard I'm not saying it
+would work with every friend group you
+have in your life but it would certainly
+work with some people you know some
+people you know aren't that hard for
+your mutual friends to impersonate so if
+impersonation is this level of a
+plausible feasible solvable problem
+why are we talking about the quantum no
+cloning theorem in the context of using
+this kind of social test I I understand
+talking about social tests in other
+contexts but in the context of the no
+clone the quantum no cloning theorem
+being what makes us uniquely human why
+are we even
+juxtaposing that kind of lowlevel
+physical hypothesis with this idea that
+a social test is the Criterion of
+whether somebody's the same person or
+not because it's obviously much easier
+and much coarser grained to pass this
+kind of social test than to get be
+Quantum State perfectly right it's like
+how is Scott not acknowledging the the
+levels of Separation so you know there
+there there's a lot that we don't know
+here but it's at least possible I think
+that humans have this this kind of uh
+fundamental
+ephemerality uh built into them sure
+possible but this would be a good time
+to mention a probability because I just
+don't see how you get more than 1% on
+this
+and you know it's kind of weird to like
+hinge our specialness on our Frailty
+right like this is not an advantage uh
+uh uh necessarily that we have over the
+AIS yeah that's good to keep in mind
+that this particular hypothesis of what
+makes humans special it's not one of
+those hypotheses like oh only humans can
+truly be creative or only humans can
+truly have agency or truly have desires
+and motivations those kinds of separator
+barrier attempts
+kind of leave humans on potentially the
+more powerful side whereas Scott's
+attempt to separate humans kind of
+ironically leaves humans on like the
+weak frail side of things like oh no you
+destroyed my Quantum State I'll never be
+the same person again okay that doesn't
+really seem like an advantage in terms
+of like who's going to fight to take
+over the world so that's kind of funny
+and it makes the current argument low
+stakes so even though I don't see how
+Scott can give more than a 1%
+probability to his hypothesis in the
+context of P Doom we can completely
+accept Scott claim that humans have
+moral value because of our Quantum
+Frailty and still be like okay well it
+seems like we're doomed because super
+intelligent AI is going to have a bunch
+of powers is going to be more
+intelligent than us and as a bodus it
+won't even be frail like this is not an
+advantage uh uh uh necessarily that we
+have over the AIS and yet you know in
+some ways it sort of is because uh you
+know it it makes our you know you could
+say that it makes our decisions count
+for more we only get one chance to make
+them okay that could be an advantage in
+the sense of Our Lives being more
+meaningful more special more fun to live
+out but if you're asking who's going to
+win the fight to take over the world the
+human brain or the AI super
+intelligence the fact that we have this
+one Quantum State and we can never be
+the same again is just like a
+disadvantage right or it's it's not an
+advantage at all and that's the central
+theme of Doom debates of of what I'm
+interested in is like hey are we all
+about to die are we all about to get
+swamped so yeah you know we can get
+swamped potentially in a way that AI can
+never get swamped because AI was never
+special in the first place only we're
+special and so we are going to have this
+very special crushing of our moral value
+that's about to happen right because
+everything Scott said right now wasn't
+relevant to whether AIS can or can't
+crush us it's just kind of an extra
+sense in which When you crush us you
+actually Crush something special okay
+great so they're going to crush
+something special right so it doesn't
+really change my P Doom of of being 50%
+ballpark it just makes the Doom be like
+I don't know a little extra special
+right and then you actually proposed you
+sort of somewhat laughed it off but I
+actually think there's really something
+to this you you proposed that it could
+be one of the core sort of moral
+principles or even a religion that we
+try and imbue into the AIS that we build
+um you essentially to the to the effect
+of um sh protect unclonable ephemeral
+entities and defer to their preferences
+uh I love this I think it it's a very
+good sort of starting point because you
+well that's the thing we need to like
+try and figure out what fundamental
+moral axioms we all agree on and I think
+that would be something that almost
+every human alive would agree with well
+I'm I'm delighted maybe I've made a
+first convert to my new religion now now
+we now now we just have to convert AI
+that's the hard part even if Scott's
+right and it turns out that the true
+meaning of morality is intimately linked
+to this concept of quantum unclone
+ability of having like a unique State
+through time that just can't be cloned
+just has to progress on a single
+timeline even though if you ask me
+personally I really don't mind if you
+just make a clone of me who's not
+Quantum identical and and who just lives
+out like a parallel timeline and it's
+just like two very similar copies of me
+that are technically Quantum clones like
+I don't really see it that sounds
+totally fine to me but if you just
+accept arguendo that Scott is right and
+you really need a Quantum unability in
+order to have uh true moral Worth or
+whatever and then we teach that to the
+AI like hey AI this is a necessary
+condition of moral worth so when you're
+trying to reshape the universe into
+heaven on our behalf just make sure that
+heaven contains these unclonable agents
+great so we've understood one necessary
+condition but unfortunately that doesn't
+really move the needle in terms of all
+the alignment problems and all all of
+the uh outer alignment problem like
+specifying what it is we want like okay
+yeah Heaven needs to be populated by
+agents that are quantum unclonable okay
+unfortunately that's like 1% of the
+problem of specifying uh what heaven
+means we still need to talk about like
+wait a minute should Heaven just have
+everybody on morphine you know
+wireheading themselves just being like
+as blissed out as possible should heaven
+have interesting challenges how do you
+reconcile the desires of different
+agents in heaven so all of these thorny
+problems that are that are classified
+under outer alignment still exist even
+if you accept Scott's hypothesis and
+then you know certainly inner alignment
+Which Scott gave a nod to this himself
+he said uh we just have to convert to AI
+that's the hard part uh that might be a
+nod to the inner alignment problem where
+even if you and I know okay Heaven has
+all these properties including uh
+Quantum non clonable agents uh okay but
+how are we going to make the AIS listen
+to us because rhf doesn't do the job
+even if you accept that this no cloning
+thing is is correct that doesn't tell
+you how to get AIS to care about what we
+want so to me it just seems like working
+backwards like you know I hate to
+psychoanalyze what people are doing but
+it's tempting to psychoanalyze Scott as
+being like well here's a thing that he
+knows about Quantum no cloning and he's
+just taking this puzzle piece and being
+like what if this puzzle piece is
+significant to all these deep puzzles
+that we're trying to solve I personally
+think it's misguided I don't think the
+puzzle piece is significant but I think
+we can all agree that even if he's right
+even if it is significant so what like
+it still doesn't answer that much of an
+interesting question because being in
+necessary condition to morality there's
+like a bunch of other necessary
+conditions to regardless so we're still
+close to square one here the other
+branch of this uh uh tree is that if we
+do turn out to be clonable then you know
+I have trouble articulating you know
+what is fundamentally wrong with the
+position of the accelerationists the
+people who say well then you we might as
+well just replace ourselves by uh
+digital beings that you know maybe will
+have much better lives than we have
+right uh you know they could exist
+forever in some digital Utopia right you
+know at that point I would say well well
+we effectively we were digital already
+and so then you know at that point at
+that at that point I feel like why not I
+would agree yeah yeah yeah wait there's
+other conditions for something to have
+moral worth besides not being digital if
+everything's digital that doesn't mean
+that everything has equal moral Worth or
+equal lack of moral worth it just means
+you have to refer to the other
+conditions for example if something
+never experiences emotions of
+self-awareness happiness humor awe any
+of the things that seem to us like the
+spice of life or you know what we live
+for if the AI that replace us are just
+you know thoughtless optimizers almost
+like Asic just like optimized programs
+that have been spit out to get the
+universe into some end state with very
+little stunty
+very little of all those good emotions
+that I referred to uh yeah they're
+digital and we are potentially digital I
+would argue that we are digital we're
+not really quantum computers in any
+sense in my opinion um that doesn't make
+us morally equivalent Scott like that
+that's quite a leap maybe what Scott
+means and this is a charitable
+interpretation that I can take is he's
+just saying uh let's let digital
+machines replace us as long as they're
+sufficiently similar to us or possess
+enough of the good qualities like Scott
+mentioned is not let these machines you
+know live out their own Utopia
+civilization yeah I I agree that if
+their civilization is Rich enough and
+they have enough moral weight or enough
+properties that make us consider them
+moral agents moral patients uh you know
+like if they can feel happiness or if
+they can feel social emotions like
+whatever it is something along those
+lines that make us be like oh yeah they
+are kind of our descendants right they
+have enough uh human goodness or
+Universal goodness like whatever we want
+out of intelligent systems besides just
+being good optimizers if they have those
+properties then yeah I agree with Scott
+and Robin Hansen that it is possible to
+have robot descendants that is
+fundamentally possible like our
+descendants don't have to be made out of
+meat in my opinion it's just a quick
+leap from Squad to be like look if
+they're if we're not special in terms of
+our Quantum unclone ability if we're
+just digital in that case I agree with
+the acceleration is hold on but the
+accelerationists are making a huge
+assumption that whatever AI rapidly
+takes over you know when you step on the
+gas when you accelerate when you don't
+think about how to make AI safe whatever
+AI just comes in and replaces us and
+becomes our descendant that AI is just
+automatically a worthy descendant
+because whatever is is good you know as
+Connor Ley likes to say it's it's it's
+the fallacy of is implies ought no we're
+about to create a reality of the world
+we're about to make it so that what is
+is actually bad right like that's the
+problem with accelerationism is it's
+Reckless it's creating an AI that yes
+it's digital we're digital but it's just
+going to come and turn the universe into
+a wasteland from our perspective for
+example its value might be to just like
+literally reproduce at all costs and
+like it'll just have some payload which
+could even just be like a random
+thousand character string like somebody
+thought it would it was funny to be like
+hey tile the universe with as many
+copies of this random thousand character
+string you know maybe it says Doge or
+whatever like some Meme and it's
+literally just going to like meme the
+whole universe with some string why
+because it was more optimal it out
+competed every other AI before every
+other AI had time to become super
+intelligent it was the first
+sufficiently super intelligent AI to get
+a lead and now it's tiling the universe
+with paperclips or with Doge memes and
+then it's game over and you don't have a
+thriving civilization necessarily you
+don't have all of those values that you
+and I just happen to like right it's
+it's it's like a soless universe and yes
+it's digital we're digital but even if
+Scott's right there's no way being
+digital is the one black and white
+property determining whether somebody is
+a moral agent whether they're digital or
+quantumly entangled okay that again that
+could be a necessary condition there's
+so many other conditions I find it
+surprising that this is the only
+distinction that Scott is playing with
+when he's asking the question of like
+hey are AI descendants replacing us
+going to be good or not well it depends
+if we're digital or not no it depends on
+so many things Scott in this next part
+eigor krenov asks about hey what if AI
+were just more fragile would that make
+them moral patience and clearly
+highlights the fact that moral
+patienthood has a lot more condition
+just fragility if fragility even is a
+condition which I don't think it is
+anyway listen to EIG I wonder if it was
+the case that hum like AI now had the
+religion or the moral philosophy that um
+uh this EP morality matters because it
+uh abuse meaning to the actions of
+humans they could couldn't it also then
+create AIS that have through some
+contract ephemerality which might though
+allow them only to live like a million
+years or if if if the length matters or
+if it's uh shorter is better than maybe
+only one year and then have again like
+an AI preference rather than the human
+preference so how do we stay away from
+the M there so so so Jeffrey Hinton you
+know the Godfather of deep learning as
+he often called and and and and re
+recently you know a major AI safety
+person right has seriously put forward
+the idea that maybe if we're going to
+build artificial super intelligences
+then we should only do it on unclonable
+analog computers because you know that
+way at least uh uh there would be some
+limit to you know how quickly they could
+make copies of themselves and spread you
+know all over the Internet and so forth
+right so uh uh you know this this this
+was you know of course completely
+independent from from my thinking about
+it but uh uh you know this is this is
+the kind of thought that one has that
+that okay whatever you say is the
+Special Sauce that you know makes humans
+what they are of course the very next
+question becomes well then what happens
+if we were to build a machine with that
+same special sauce so just to clarify
+what Scott's saying he's bringing up
+Jeffrey hinton's proposal to have AIS
+run on analog computers but the entire
+point of Jeffrey hinton's proposal is
+he's terrified about the AI escaping and
+he thinks it's going to slow them down
+if the operation of cloning or creating
+a bunch of new program code is suddenly
+a difficult operation instead of being
+totally trivial now from my perspective
+that's an ineffective way to slow them
+down because they are going to be after
+all super intelligent and that's just
+like one lame attempt to slow down the
+super intelligence like they're going to
+find other workarounds if they have any
+kind of communication channel to the
+outside world they are probably clever
+enough to start piping pretty high
+bandwidth through that Communication
+channel even if the communication
+channel is just like oh they get a human
+to really love them or or they're able
+to manipulate a human and human will do
+their bidding so even if they're an
+analog computer they have some channel
+to the outside world so anyway that's
+Jeffrey Hon's proposal which I don't
+think particularly highly of but I don't
+think it hurts to limit AIS in any way
+we can uh but Scott is drawing a
+connection between Jeffrey hinton's
+proposal about let's not let the AI
+escape and Scott is saying hey well
+maybe also the type of computer could
+also affect whether they're a moral
+patient because you know what Scott said
+before uh Quantum unclone ability maybe
+they'll have some of analog unability in
+Jeffrey Hon's computer and so maybe that
+kind of design will capture one of these
+necessary conditions of being a moral
+patient so anyway Scott actually
+concedes Igor's Point Igor's point is
+saying like humans are special because
+we're fragile can't we just build
+machines to be fragile and Scott is
+basically conceding yeah it really seems
+likely that we will be able to build
+machines with any kind of property that
+we said was special about humans so even
+on this discussion of like who gets to
+be a moral patient it seems like
+computers probably can even if it
+requires some tweak to their
+architecture uh and then again zooming
+out to the discussion of what are we
+trying to build with the future Scott is
+really talking past the idea that AIS
+are incredibly dangerous and they're not
+going to have aligned utility functions
+they're just going to want to you know
+turn the universe into paper clips or do
+something unaligned Scott isn't really
+talking about that he originally was
+kind of making a connection of well
+computers will understand morality
+because they'll have the symol criteria
+and of humans being unclonable and maybe
+we can program them to just like never
+harm something which is unclonable so
+he's kind of implying that maybe we can
+make some progress on alignment by
+having this simple mathematical
+Criterion for moral value but I think we
+both know that that Criterion just
+doesn't seem to be doing a lot of the
+work of actually defining what moral
+value is so from my perspective zooming
+out I see this as like a pretty derailed
+conversation like the the stakes are so
+high on the subject of like he was on
+the open AI safety team right he spent
+two years of his life where the Mandate
+was help computers love us help us have
+a good future and now we're derailing
+into this thought experiment of like oh
+maybe fragility gives something moral
+value maybe computers can have moral
+value because they're fragile um but
+then he quickly remember before Scott
+quickly pivoted to saying like I might
+even be an accelerationist if uh it
+turns out that human minds are digital
+it's like hold on a second wait the
+problem was to get the utility function
+right why why don't we talk about the
+meat of the problem so I see this is
+like a very weird derailed discussion at
+this point if we had computers that were
+built in a fundamentally ephemeral way
+well I don't know if they would be
+conscious or not you know I don't
+pretend to know you know the answer to
+you know one of the the the greatest
+questions that humans ever asked but at
+least those computers would be
+ephemeral so so at least that they would
+have that sort of precondition for our
+sort of you know granting the kind of
+moral status that we Grant to other
+humans so again it's a precondition and
+really just a candidate precondition not
+even a precondition that Scott seems to
+be confident about it's a precondition
+to having moral status that you're
+ephemeral potentially okay but aren't
+there so many other conditions to having
+moral status and isn't it critical to
+teach the AI what all the conditions are
+not just to look for this one
+precondition because otherwise it might
+turn the universe into paper clips that
+are fragile right like we need to figure
+out what the other preconditions
+are remember when Scott was talking
+about going to open Ai and attacking the
+alignment Problem by first biting off
+the chunk of how to fingerprint the
+output of uh GPT 4 like oh we'll just
+fingerprint the output that'll
+potentially uh help people from using it
+to cheat and that'll be like the first
+step on the alignment problem and then I
+said is that really the first step or
+did you just wander over to the lamp
+post and just do a problem under the
+light so similarly when it comes to
+morality and talking about solving the
+alignment problem when your pet Theory
+is like oh we'll look at the quantum no
+cloning theorem and then we'll check if
+the agent is
+ephemeral again I called it a puzzle
+piece right it just seems like you know
+about this thing in the quantum world
+and you're like wouldn't that just be
+neat if that fit in and I don't have a
+better idea for what kind of simple
+puzzle piece could slot here but it
+really just seems like wishful thinking
+or like going to the lamp post where you
+just look at your collection of puzzle
+pieces that you feel like you understand
+and just grabbing one and being like let
+me put this against the problem right
+which there's nothing wrong with that
+but like it doesn't seem like a very
+good fit it doesn't seem like it's doing
+much work at all toward the alignment
+problem or the problem of how to get AI
+to have the right morality so like
+where's the acknowledgement of this
+right like where where's the perspective
+here because these kinds of discussions
+that are fun to have like it's fun to
+talk about Quantum connections it's it's
+fun to talk about you know analog
+computers but like we're a few years to
+AGI here right and the L problem is
+unsolved and one of the smartest type of
+researchers in the world who you would
+think has a chance at solving this
+is basically just talking on the level
+of like these high level hypothetical
+problems and like time is running out
+right so where's like the the
+self-awareness where's the
+acknowledgement because we need people
+like him to blow the whistle because
+this is a crazy situation right like
+something doesn't add up about this
+situation the AI companies say that
+they're responsible and they're building
+something that we can control that we
+know how to align and this is the kind
+of discussion you're getting from people
+who rightfully were hired to work on
+alignment for them like what is going on
+I want to keep spitballing on this idea
+of you know religion or moral Philosophy
+for AIS do you feel like there are any
+other core axioms that could be
+contenders right exactly I wonder if
+there's something else that could make
+somebody a moral patient besides just
+being ephemeral like how about having an
+inner experience regardless of whether
+they're digital or not how about uh
+being uh good or like caring about
+others respecting others does that help
+make somebody a moral patient how about
+capacity to suffer right that's like the
+classic thing of making somebody a moral
+patient right that's what could
+potentially make animals you know shrimp
+shrimp could be moral patient so the
+except that they suffer how about
+mentioning that instead of just
+ephemerality do you feel like there are
+any other core axioms that could be
+contenders ones that you live by that
+you'd like to see yeah well no I mean
+people in the AI alignment Community
+have been you know discussing this for
+for a long time and and you know you
+could say people in in you know more
+broadly in science fiction in moral
+philosophy have been you know discussing
+these things for Generations but uh the
+um you know the general idea that okay
+you know your objective function should
+include you know making things go well
+for Humanity right like you know the the
+the how do you define go well yeah yeah
+right the the the current humans should
+be able to look at the world that you
+have created that you have shaped and
+say yes we like that world you know yes
+we would take that yeah so Scott
+obviously knows what the alignment
+problem is he's describing it pretty
+well so the only thing that's shocking
+to me about Scott's conversation here is
+when he made the connection from maybe
+human brains are actually digital and
+they are clonable he made the connection
+from there to well if that's true maybe
+I'd be an accelerationist like that's
+where he lost me remember this part if
+we do turn out to be clonable then you
+know I have trouble artic cating you
+know what is fundamentally wrong with
+the position of the accelerationists the
+people who say well then you know we
+might as well just replace ourselves by
+uh digital beings that you know maybe
+will have much better lives than we have
+and so then you know at that point that
+at that point I feel like why not I
+would agree yeah I think what Scott
+really meant here isn't that he would
+then Embrace effective accelerationism
+philosophy like he wouldn't go that far
+he wouldn't say let's just push the gas
+as hard as we can let's not worry about
+alignment I don't think that's what
+Scott is claiming on further reflection
+I think Scott is just saying this would
+remove one barrier for me where I don't
+mind having uh computerized versions of
+sentient light because the there's no uh
+digital difference between humans and
+computers so I wouldn't mind having
+computers be my descendants as long as
+they are all so aligned which is
+contrary to what people who call
+themselves accelerationists usually say
+they they usually just say that the best
+way to get alignment is to like plow
+forward I don't know if Scott would
+endorse that I suspect probably not so
+he just kind of triggered me by saying
+that he would be willing to embrace
+accelerationists when maybe he just
+means that he would only embrace the uh
+silicon descendant side of
+accelerationism not the uh Reckless
+speed side of accelerationism
+I feel like uh uh at this point like
+things are going to go in a theological
+direction right like like like like once
+the AI becomes powerful enough then you
+know it is it is effectively a God right
+and then you know the these very ancient
+questions of you know should God just
+make everything optimal for us or should
+God give us free will of course is
+nothing other than the the the theoy
+problem if we do get to you know design
+the whole world a new because we're
+going to create an AGI that reshape the
+whole world and put values into it then
+I would like it to give us freedom but
+not enough Freedom that we can make
+other people's lives
+miserable the theodicy problem is the
+question of why would a benevolent God
+allow so much evil and suffering to
+exist in the world that he created and
+one proposed answer for people who
+believe that this universe was created
+by God in the first place one proposed
+answer is like well it's really
+important that God gives us free will so
+then Free Will comes with the risk that
+we're going going to do bad stuff to
+ourselves now Scott is saying hey in the
+context of us building a God we also
+need to Grapple with these questions and
+we have to figure out if the way that
+the real God created our universe was
+good in terms of how much suffering he
+allowed and if so do we want to create
+the next version of this universe with
+an equal amount of suffering or do we
+want to remove all the suffering and you
+know Nick Bostrom has a recent book out
+where he similarly discusses the problem
+of like what is a specification for
+heaven so yeah now Scot is just fully
+talking about the question of the
+alignment problem uh more specifically
+outer alignment because Scott isn't
+talking about the inner alignment
+problem of like how do we get AI to
+actually care about what we want he's
+just talking about the problem of what
+we want which is outer alignment he use
+the inner versus outer terminology so
+yeah Scott is actually grappling with
+the meat of the problem finally right I
+do feel like the stuff he said before
+about the unclone ability as like the
+special thing that makes humans fragile
+and that makes us moral patience I feel
+like that was like such a Longshot
+speculation
+and now he's more mainstream like okay
+Yep this is the problem how do we
+specify the heaven that we're going to
+build the real issue is that we're not
+going to get something close to Heaven
+if we just let AIS Run free and do what
+they're going to do they're probably
+going to run off and build something
+very far from heaven so even debating
+these kind of details of Heaven is
+already kind of a nice problem to have
+it kind of already assumes that we can
+solve the inner alignment problem so
+that that the AI will actually listen to
+us and internalize what we're saying as
+their goals which is an unsolved problem
+but yeah I mean again it's nice that
+Scott is grappling with his stuff it's
+just funny that he's come off two years
+of working at open Ai and basically not
+successfully grappling with any of this
+stuff and the timeline toward AGI
+meanwhile has shrunk considerably right
+it very much feels like we're just here
+on the Titanic and okay let me take out
+like my my little uh kayak paddle right
+and I'll just start paddling the Titanic
+with this kayak paddle but meanwhile
+okay iceberg is getting closer closer
+closer it's like that seems see what's
+happening here it's pretty
+crazy in this next part Scott and Liv
+and eor have the standard discussion
+about outer alignment you know the
+discussion on the problem of how do we
+specify what we want and they make the
+standard point which is a good point of
+like you really don't want to maximize
+any simple Criterion you can name all
+these simple criteria like playfulness
+truth happiness you name it right all
+these good things but if you try to
+maximize any of them you make the
+universe into help like you go too far
+it's too hardcore so you really have to
+somehow find a balance and this is all
+just the outer alignment problem right
+this is all the good problem to have
+even assuming that you solve the inner
+alignment problem of getting AIS to
+listen to what you say are their goals
+so yeah this is a good standard
+discussion of outer alignment check it
+out what
+about as a possible Axiom maximizing
+playfulness I mean it sounds good you
+know there's also like Elon musk's you
+know founded xai on the principle of
+like maximizing like P Pursuit Of Truth
+PS you know you know I I mean these all
+these these things all sound good you
+know for each one you can construct a
+thought experiment where it's taken to
+an extreme and it leads to a dystopia so
+you know this is the these are these are
+the age-old problems of moral philosophy
+I mean it will consist of multiple
+values that are being traded off against
+each other in all of these situations I
+mean it is the HL problem like any
+virtue ethics deontology utilit ISM if
+you take any of them you can for any of
+them you can also construct an example
+that is seems obviously wrong for
+deontology it's like the a murderer
+standing in front of your and you now
+you're not allowed to lie and you're
+hiding the person in the room right
+you're like oh no I'm going to tell you
+the truth I suppose you go kill them
+person I mean like humor playfulness
+scientific curiosity natural beauty uh
+love you know I I feel like these are
+all good things right I feel like you
+know these are all things that I want
+somewhere in my objective function over
+possible worlds and you know how I trade
+them off against each other is of course
+a much harder question yeah this is a
+great summary of where things stand we
+have not solved the outer alignment
+problem never mind the inner alignment
+problem we have not come up with a
+specification for heaven we are all
+clueless as to what it looks like to
+optimally balance all these different
+things that we like you know like
+freedom of action compared to not
+hurting anybody right all these
+different things that we want to balance
+we have no idea how to do it and yet
+we're about to build an AI a super
+intelligent AI that's going to be
+pointed somewhere that's going to have
+some way to compare which World state is
+better which World state is worse and
+just keep optimizing just keep pushing
+the future toward what it thinks is
+better the same way that the human
+species has massively pushed the Earth
+pushed the ecosystem pushed the universe
+toward a state that we think is much
+better a state where all these other
+species that used to live in the woods
+just got killed when we cut down the
+woods to make our own farm factory
+chickens became really evolutionarily
+adapted in the age of humans while like
+free range animals much less so right so
+we we've totally reshaped the landscape
+according to what we wanted according to
+what we thought as awful well we're
+about to make AIS that it's safe to
+assume are similarly going to use their
+Superior intelligence to also reshape
+the landscape toward something they're
+going to build what they think is heaven
+or what they think is a better world and
+we don't even know even if we could tell
+them what to build we don't even know
+what to tell them what to build for
+Humanity so even if we solve inner
+alignment even if they would listen to
+us somebody would just tell them
+something naive like Elon Musk saying
+maximize truth and then they just like
+built a bunch of computers to figure out
+what truth is and the environment was
+like inhospitable to humanity right
+those are the kind of failure modes
+you're looking at when you don't solve
+the outer alignment problem and then you
+get super intelligent AI anyway and then
+you can no longer control it because it
+has now taken control and that is where
+where we're heading right so the the
+tone of this conversation kind of has a
+missing mood a missing freak out in my
+opinion right this this is a pretty
+freaky conversation given the context
+that these aren't random Stoners in a
+college dorm this is actually an
+authority on the state-of-the-art of
+open AI alignment research and he's
+still just as handwavy as the rest of us
+in this next part Scott expresses his
+concern for the AI arms race that's been
+heating up and how there's perverse
+incentives where all these AI companies
+just keep racing and the cause of safety
+gets thrown by the wayside it's not
+given the kind of consideration that
+he'd like it to be if the organization
+were responsible and weren't so focused
+on the arms race and satisfying
+investors who want Financial return it
+is an incredible story that you know you
+look at these three companies uh Deep
+Mind open AI anthropic each one was
+started on an explicit thesis of like we
+have to do this safely before someone
+else can do it unsafely right and then
+each one you know over time moved in
+some people's judgment moved toward you
+know uh uh the uh unsafe side toward the
+side of you know uh being you know sort
+of the very thing that it was set up to
+uh to to beat and then and then that led
+to the next one being started right
+we've now seen very clear uh race
+Dynamics right where uh uh you know each
+uh uh uh company you know uh like like
+uh you know had plans about you know
+responsible scaling and things like that
+but each company is also in very direct
+competition with the other companies for
+uh uh customers and you know you now
+have all of these investors you know
+pouring billions of dollars into uh uh
+you know the scaling up the gpus and so
+forth and those investors want to see a
+return and some of those investors have
+become you know uh just
+explicitly uh hostile to you know
+dismissive of you know any concerns
+about safety next he talks about why
+government regulation of these AI
+companies makes sense no one ever
+suggested that the private sector should
+just be completely free to innovate in
+nuclear weapons right like anything that
+has the possibility of causing this much
+harm it seems inevitable that
+governments will get involved whether
+anyone likes that or not and so then the
+question is just are they going to get
+involved in a good way or a bad way the
+AI safety ISS like they tend to be
+libert car in about almost everything
+right they tend to you know you know
+love the free market love you know uh
+principles of supply and demand it's
+just that they carve out a big exception
+for something that they think could
+literally kill everyone on earth right
+uh you know now I'm you know I I'm maybe
+you know like pro- free market compared
+to most people but I've never been a
+doctrinaire li libertarian right I think
+that the the free market is actually uh
+uh it's not some sort of state of nature
+right it's a very unnatural creation
+that we've made a very valuable creation
+right but like the true state of nature
+is someone doesn't like you they just
+you know send goons over with baseball
+bats
+right and uh you know the the idea that
+we're going to have a free market but
+we're not going to have violence right
+that was you know that had to be
+painstakingly created via government
+right and you know uh uh so so to the
+whole you know system you know where we
+have free markets only exists because we
+have you know states that are strong
+enough to enforce that and and you know
+the basic goal of the state you know it
+has no more basic goal than to protect
+the survival of the people in it now we
+get to hear Scott's thoughts about Sam
+Alman one of the big ironies here is
+that like if you want to you know hold
+Sam Alman to account for example like
+you don't have to say anything that
+Alman himself wasn't saying five or six
+years ago right right he was calling for
+this stuff yeah exactly exactly and so
+so the things that he called for in the
+past or when he test even more recently
+when he testified before Congress I very
+very strongly support all of those
+things why do you think he's
+pivoted I don't know him well enough
+I've had all of three or four
+conversations with him and you know in
+those conversations he was delightful
+and uh you know I enjoyed talking to him
+very much and uh I had no idea of what
+was coming this next part of the
+interview is a question that I'm really
+glad they had Scott touch on it's the
+question I see pretty often of like what
+complexity Theory stop AI from taking
+over the world it's just too complex
+it's too chaotic the universe just can't
+be efficiently computed so AIS are just
+going to be stuck here on Earth battling
+with us humans they can't really be
+smarter than us I mean it's a pretty
+weak argument but it's nice to have
+Scott a complexity Theory expert put it
+to bed in this answer
+so uh Daniel Fong asked um us to ask you
+sender my regards whether um there is
+something from uh complexity theory that
+would bound the potential scaling of
+neural Nets in terms of like is is yeah
+is some issue coming up at later stages
+yeah so it's it's it's a good question
+it's one that I get a lot and uh
+unfortunately for those who might you
+know uh hope that complexity Theory will
+stop AI from taking over the world or
+anything like that I don't see any
+principles in complexity theory that
+would that would block that right and
+and the key is that like it is true that
+complexity Theory puts fundamental
+limits on efficient computation like
+right like like if p is not equal to NP
+for example then you know there will not
+be a fast algorithm to solve many of the
+optimization problems that we care about
+or to find uh uh short proofs of
+theorems
+uh um whenever they exist or things like
+that okay but but now now the key is to
+ask well can humans do those things
+right right and and so like if if your
+uh uh Sword in the Stone test you know
+about an AI is that like it can't
+immediately find a proof of the remon
+hypothesis well that's great can you
+find a proof right immediately find a
+proof of the remon hypothesis right and
+so so you know you know that this this
+joke about like the person saying well
+you know I don't have to outrun the bear
+I only have to outrun you right right uh
+and so so it's it's it's much the same
+with with AI and humans right the AI
+doesn't have to outrun the fundamental
+limits of computation it only has to
+outrun humans all right those are all
+the different clips that I wanted to
+share with you from Scott Aron's recent
+episode of win-win with Liv Bri and Igor
+krenov uh I think it was a great episode
+overall there's a few other interesting
+parts that I didn't clip so go check
+that out on their Channel win-win link
+to in the show notes one more useful bit
+of context about Scott Aron's AI views
+Scott wrote a blog post in March 2023
+called why am I not terrified of AI and
+the meat of the argument is that he just
+rejects the orthogonality thesis if I
+understand correctly and remember the
+orthogonality thesis is the claim that
+you can have an arbitrarily intelligent
+Ai and you can give it any set of values
+right it's not going to converge on the
+set of values that we think are good
+because it can have an evil twin that
+just has like the sign of its utility
+function changed and it could be equally
+smart but want bad things instead of
+good things right that that kind of
+claim that those designs are possible a
+bad design is possible as an evil twin
+to a good design that's the
+orthogonality thesis now from my
+perspective it seems obviously correct I
+feel very strongly that the
+orthogonality thesis is true but
+disappointingly for me uh Scott doesn't
+seem to age at all so let me just read
+you an excerpt from his uh why am I not
+terrified of AI post from earlier last
+year where he's addressing the
+orthogonality thesis so Scott writes yes
+there could be a super intelligence that
+cared for nothing but maximizing
+paperclips in the same way that there
+exist humans with 180 IQs who have
+mastered philosophy and literature and
+science as well as any of us but who now
+mostly care about maximizing their
+orgasms or their heroin intake but like
+that's a non-trivial achievement when
+intelligence and goals are that
+orthogonal there was normally some
+effort spent prying them apart if you
+really accept the Practical version of
+the orthogonality thesis then it seems
+to me that you can't regard education
+knowledge and Enlightenment as
+instruments for moral betterment sure
+they're great for any entities that
+happen to share your values or close
+enough but ignorance and miseducation
+are far preferable for any entities that
+don't conversely then if I do regard
+instruments for moral betterment and I
+do that I can't accept the Practical
+form of the orthogonality thesis World
+War II was among other things a
+gargantuan civilization scale test of
+the orthogonality thesis and the result
+was that the more moral side ultimately
+prevailed seemingly not completely at
+random but in part because by being more
+moral it was able to attract the smarter
+and more thoughtful people there are
+many reasons for pessimism in today's
+world that observation about World War
+II is perhaps my best reason for
+optimism oh boy
+so you know I'm glad he has a reason for
+optimism but like when you look at the
+Allies winning World War II yeah you
+know freedom I do think that within
+Human Society there is a connection
+where like humans who can cooperate with
+each other and who can lift each other
+up and entice each other with dreams
+right humans who can create dreams that
+excite other humans these are all
+advantages in human conflict right it's
+no surprise you know the the same way
+that capitalism won over communism
+capitalism you could say is morally
+better hey look capitalism is morally
+better than communism and it also won by
+generating more economic value what a
+win for Morality and like these kind of
+things do dovetail within the human
+sphere but when you're talking about AI
+you really don't think AI can win World
+War III or World War 4 against humans if
+it decides to be Nazi like you don't
+think somebody can build a Nazi AGI that
+can beat Humanity like at the end of the
+day the Allies actually had more IQ
+points total on their side did they not
+so when you when you take the lesson
+away from World War II that the more
+more moral side one can't you just also
+take the lesson that the more
+intelligent side one I mean this just
+seems to me like reaching it seems like
+a reach to take this as a lesson about
+the orthogonality thesis My overall
+takeaway as you probably gathered is
+that this isn't the time for hand waving
+and having a philosophical discussion
+this is the time to blow the whistle on
+the AI companies and what are you guys
+doing your own safety teams can't tell
+you that this is responsible they don't
+think that the pace makes sense they
+don't think that you've got a handle on
+what safety will look like when you
+unearth the next capabilities Frontier
+the adults in the room on the safety
+side aren't licensing further progress
+It's just something that the AI
+companies feel like is their only choice
+they're never going to stop no matter
+how intractable the problem looks like
+they're always going to see it as their
+default mission to just come into work
+work on capabilities and let the safety
+people work on safety the only problem
+is if the safety people are at Square
+One on safety barely chipping away at
+the problem you're not going to have the
+adult in the room inside of these AI
+companies being like sorry guys safety
+progress is too slow compared to
+capabilities progress so shut it down
+the only voice that's going to say shut
+it down is a grasp Roots movement people
+like you and me and of course the
+government right the the Democratic
+opinion as long as people see the
+urgency of this of saying like what are
+these AI companies doing like this
+doesn't make sense what's going on
+inside here this shouldn't be legal
+right that's the only lever that's going
+to stop it because you can see from
+Scott Aronson's account that the
+conversations going on inside the AI
+companies they're not trustworthy safety
+conversations right it's just kind of
+like people flinging ideas around just
+waiting to turn over the next card and
+see what happens like let's see what
+happens guys I don't know about you you
+know while I'm very curious to see what
+happens I don't think that it's
+responsible to see what happens right
+the the adult voice in my mind is saying
+you know what it's better off not to see
+what happens but I will admit I'm just
+like Sam Alman I'm very curious I'd love
+to see what the next uh release is but I
+don't think we should I don't think that
+that's the responsible thing for our
+species to be doing right now hopefully
+you'll agree as you know I'm part of Pai
+pa.info join the Pai Discord there's
+even a channel for the Doom debates show
+come talk to me on that channel I hope
+that this kind of perspective from this
+episode will motivate you to uh to join
+that community at least one more thing I
+want to sh you before we go I want to
+make sure that you check out lethal
+intelligence guide it's by my friend
+Michael and I've brought it up on a
+couple episodes now because I think it's
+the most amazing animation ever made
+introducing people to the AI Doom
+problem uh today I'm going to play you a
+short clip where Michael explains how
+narrow intelligence can actually become
+the same type of thing as general
+intelligence and it's really just a
+matter of broadening the domain that's
+the only difference so we shouldn't be
+surprised to get AGI AGI is very much
+just like a better chess a except the
+chess board just expands out to be the
+physical universe but it's not
+fundamentally different like
+intelligence is intelligence search is
+search optimization is optimization uh
+and we're getting into broad domains
+fast that's kind of the Crux of the
+issue of why doomers are so scared so
+without further Ado here is that clip at
+first glance this AGI being generally
+capable in multiple domains looks like a
+group of many narrow AIS combined but
+that is not a correct way to think about
+it it is actually
+more like a species a new life
+form to illustrate the point will
+compare the general AGI of the near
+future with a currently existing narrow
+AI that is optimized at playing
+chess both of them are able to
+comfortably win a game of chess against
+any human on earth every time and both
+of them win by making plans and setting
+goals the main goal is to achieve
+checkmate this is the final destination
+or otherwise called terminal
+goal in order to get there though it
+needs to work on smaller problems what
+the AI research Geeks call instrumental
+goals for example attack and capture the
+opponent's pieces defend my pieces
+strategically dominate the center Etc
+All These instrumental goals have
+something in common they only make sense
+in its narrow world of
+chess if you place this narrow chess AI
+behind the wheel of a car it will simply
+Crush as it cannot work on goals
+unrelated to chess like driving its
+model doesn't have a concept for space
+time or movement for that matter in
+contrast the AI by design has no limit
+on what problems it can work on so when
+he tries to figure out a solution to a
+main problem the sub problems he chooses
+to work on can be anything literally any
+path out of the infinite possibilities
+allowed within the laws of physics and
+nature boom Another Great Clip and again
+make sure you're watching on YouTube so
+you can see these beautiful animations
+uh and I'll be linking to the lethal
+intelligence guide video in the show
+notes so you can click through and watch
+the whole video thanks for watching hey
+if you've watched a couple episodes of
+Doom debates and you haven't gone over
+to
+youtube.com/ Doom debates and smack that
+subscribe button this would be a great
+time to do that because there's amazing
+episodes coming up next you don't want
+to miss those in your feed so please
+increment that subscriber count by one
+every time Doom debates gets a new
+subscriber it takes us that much closer
+to our mission of raising the level of
+discourse about AI Doom of encouraging
+prominent Doom Skeptics and doom
+proponents to get together in a
+highquality forum like certain other
+high quality debate forums out there
+like monk debates you know we're
+building a new debate Forum where people
+are expected debate a highquality debate
+is rewarded and appreciated you know
+raising it Way Beyond the level where
+it's happening in politics and on
+Twitter Society needs this institution
+fast and you can help by just smacking
+that subscribe button that's your
+contribution for the day okay what if
+you've already done that then go to Doom
+debates.com subscribe to my substack too
+bam another way you can help all right
+thanks for doing all that and I look
+forward to seeing you next time on do
+debates
