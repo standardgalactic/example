@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Terminal Simulator</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to your styles.css file -->
   <style>
     @font-face {
       src: url('fonts/Sga-Regular.woff2') format('woff2'),
@@ -14,87 +15,50 @@
       font-family: 'Sga Regular';
     }
 
-    /* Use Normal Select as the body’s default cursor */
-    body {
-      cursor: url('cursor/Normal Select v4.1.ani'), default;
-      background-color: black;
-      color: #44ff44; 
+    @font-face {
+      src: url('fonts/CursiveGalactic-Regular.woff2') format('woff2'),
+           url('fonts/CursiveGalactic-Regular.woff') format('woff'),
+           url('fonts/CursiveGalactic-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-family: 'CursiveGalactic Regular';
+    }
+
+    /* Three font classes (cycling) */
+    .sga-font {
       font-family: 'Sga Regular', 'Courier New', Courier, monospace;
-      margin: 0; 
-      display: flex; 
-      flex-direction: column; 
-      height: 100vh; 
-      overflow: hidden; 
+      font-size: 30px;
     }
-
-    /* Use Text Select in the main terminal area */
-    #terminal {
-      flex: 1;
-      padding: 20px; 
-      overflow-y: hidden; 
-      white-space: pre-wrap; 
-      box-sizing: border-box; 
-      font-size: 30px; 
-      position: relative; 
-      cursor: url('cursor/Text Select v4.1.ani'), text;
+    .cursive-galactic-font {
+      font-family: 'CursiveGalactic Regular', 'Courier New', Courier, monospace;
+      font-size: 24px;
     }
-
-    /* Styles for Courier font (smaller than SGA) */
     .courier-font {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 16px;
+      font-size: 14px;
     }
 
-    /* Footer styles */
+    /* Fixed footer pinned at bottom of screen */
     .footer {
-      background: black; 
-      color: #44ff44; 
-      text-align: center; 
-      padding: 10px; 
-      box-sizing: border-box; 
-      position: relative; 
-      font-size: 18px; 
-      font-family: 'Sga Regular';
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: black;
+      color: #44ff44;
+      text-align: center;
+      padding: 10px;
+      box-sizing: border-box;
+      font-size: 18px;
+      font-family: 'Sga Regular', 'Courier New', Courier, monospace;
     }
-
-    /* 
-       When hovering over the link, switch to Link Select.
-       Fallback is pointer if the .ani fails.
-    */
     .footer a {
-      color: #44ff44; 
+      color: #44ff44;
       text-decoration: none;
     }
     .footer a:hover {
       text-decoration: underline;
       cursor: url('cursor/Link Select v4.1.ani'), pointer;
-    }
-
-    /* 
-       Control arrows: we give them Link Select as well.
-       Fallback is pointer if .ani fails.
-    */
-    .control-arrows {
-      position: fixed; 
-      bottom: 50px; 
-      right: 20px; 
-      color: #44ff44; 
-      display: flex;
-      flex-direction: column; 
-      align-items: center; 
-    }
-
-    .arrow {
-      display: block;
-      margin: 5px;
-      font-size: 24px; 
-      cursor: url('cursor/Link Select v4.1.ani'), pointer;
-    }
-
-    .left-right-arrows {
-      display: flex;
-      justify-content: space-between;
-      width: 60px;
     }
   </style>
 </head>
@@ -102,12 +66,18 @@
   <div id="terminal" class="sga-font"></div>
 
   <script>
-    let typingSpeed = 60 / (80 / 60);
+    let typingSpeed = 50;
     let index = 0;
     let content = '';
-    let isSgaFont = true;
     let direction = 1;
     let typingInterval;
+
+    const fonts = [
+      { className: 'sga-font', footerFont: "'Sga Regular', 'Courier New', Courier, monospace" },
+      { className: 'cursive-galactic-font', footerFont: "'CursiveGalactic Regular', 'Courier New', Courier, monospace" },
+      { className: 'courier-font', footerFont: "'Courier New', Courier, monospace" }
+    ];
+    let currentFontIndex = 0;
 
     function fetchFile(filePath) {
       return fetch(filePath)
@@ -128,7 +98,7 @@
           terminal.innerHTML = terminal.innerHTML.slice(0, -1);
         }
         index += direction;
-        terminal.scrollTop = terminal.scrollHeight;
+        terminal.scrollTop = terminal.scrollHeight; // Ensure the terminal scrolls to follow the text
       }
     }
 
@@ -144,12 +114,14 @@
       startTyping();
     }
 
+    /* Load text files, strip **bold** markdown, start typing */
     Promise.all([
       fetchFile('doom-debates/overview.txt'),
       fetchFile('doom-debates/detailed-summary.txt')
     ])
       .then(filesContent => {
         content = filesContent.join('\n\n');
+        content = content.replace(/\*\*(.*?)\*\*/g, '$1'); // Remove **bold** syntax
         startTyping();
       })
       .catch(error => {
@@ -157,89 +129,74 @@
         document.getElementById('terminal').innerHTML = 'Error loading files: ' + error.message;
       });
 
-    function toggleFont() {
+    /* Cycle to next font in array */
+    function cycleFont() {
       const terminal = document.getElementById('terminal');
       const footer = document.querySelector('.footer');
-      if (isSgaFont) {
-        terminal.classList.remove('sga-font');
-        terminal.classList.add('courier-font');
-        footer.style.fontFamily = 'Courier New, Courier, monospace';
-      } else {
-        terminal.classList.remove('courier-font');
-        terminal.classList.add('sga-font');
-        footer.style.fontFamily = "'Sga Regular', 'Courier New', Courier, monospace";
-      }
-      isSgaFont = !isSgaFont;
+
+      fonts.forEach(f => terminal.classList.remove(f.className));
+      currentFontIndex = (currentFontIndex + 1) % fonts.length;
+      const newFont = fonts[currentFontIndex];
+
+      terminal.classList.add(newFont.className);
+      footer.style.fontFamily = newFont.footerFont;
     }
 
-    document.addEventListener('click', (event) => {
-      if (!event.target.classList.contains('arrow')) {
-        toggleFont();
-      }
+    /* Event listeners */
+    document.addEventListener('click', () => {
+      // No arrow buttons, so a click cycles the font
+      cycleFont();
     });
+
+    document.addEventListener('touchstart', () => {
+      cycleFont();
+    });
+
     document.addEventListener('keydown', (event) => {
       if (event.key === 'F5') {
+        // Prevent normal refresh
         event.preventDefault();
         restartTyping();
-      } else if (!['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
-        toggleFont();
-      } else if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
-        handleArrowKeyPress(event);
       }
-    });
-    document.addEventListener('touchstart', (event) => {
-      if (!event.target.classList.contains('arrow')) {
-        toggleFont();
+      else if (event.key === 'F11') {
+        // Let F11 go fullscreen without toggling font
+        return;
+      }
+      else if (event.ctrlKey || event.altKey || event.metaKey) {
+        // Ignore ctrl/alt/windows combos (e.g. Ctrl++, screenshots, etc.)
+        return;
+      }
+      else if (!['ArrowUp','ArrowDown','ArrowLeft','ArrowRight'].includes(event.key)) {
+        // Only cycle font if user pressed a letter (A-Z or a-z) or space
+        if (/^[a-zA-Z ]$/.test(event.key)) {
+          cycleFont();
+        }
+      }
+      else {
+        // Arrows still control typing direction/speed
+        handleArrowKeyPress(event);
+        event.preventDefault();
       }
     });
 
+    /* Keyboard arrow logic for direction/speed */
     function handleArrowKeyPress(event) {
       if (event.key === 'ArrowUp') {
-        typingSpeed = Math.max(5, typingSpeed - 5);
+        typingSpeed = Math.max(5, typingSpeed - 10);  // speed up
       } else if (event.key === 'ArrowDown') {
-        typingSpeed = Math.min(200, typingSpeed + 5);
+        typingSpeed = Math.min(1000, typingSpeed + 10); // slow down
       } else if (event.key === 'ArrowLeft') {
         direction = -1;
       } else if (event.key === 'ArrowRight') {
         direction = 1;
       }
       startTyping();
-      event.preventDefault();
     }
-
-    function handleArrowClick(event) {
-      event.stopPropagation();
-      const arrowId = event.target.id;
-      if (arrowId === 'arrow-up') {
-        typingSpeed = Math.max(5, typingSpeed - 5);
-      } else if (arrowId === 'arrow-down') {
-        typingSpeed = Math.min(200, typingSpeed + 5);
-      } else if (arrowId === 'arrow-left') {
-        direction = -1;
-      } else if (arrowId === 'arrow-right') {
-        direction = 1;
-      }
-      startTyping();
-    }
-
-    document.getElementById('arrow-up').addEventListener('click', handleArrowClick);
-    document.getElementById('arrow-down').addEventListener('click', handleArrowClick);
-    document.getElementById('arrow-left').addEventListener('click', handleArrowClick);
-    document.getElementById('arrow-right').addEventListener('click', handleArrowClick);
   </script>
 
-  <div class="control-arrows">
-    <div id="arrow-up" class="arrow">&#9650;</div>
-    <div class="left-right-arrows">
-      <div id="arrow-left" class="arrow">&#9664;</div>
-      <div id="arrow-right" class="arrow">&#9654;</div>
-    </div>
-    <div id="arrow-down" class="arrow">&#9660;</div>
-  </div>
-
+  <!-- Footer -->
   <div class="footer">
     This site is open source.
-    <!-- The link gets Link Select on hover -->
     <a href="https://github.com/standardgalactic/example/edit/volsorium/index.html">
       Improve this page
     </a>.

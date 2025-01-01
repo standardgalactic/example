@@ -1,4 +1,3 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -30,6 +29,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
 
+=======
+=======
 ::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
 
 
@@ -100,6 +101,12 @@ for file in *.txt; do
     ollama run vanilj/phi-4 "Summarize:" < "$file" | tee -a "$output_file"
     echo -e "\n" | tee -a "$output_file" # Add a blank line between summaries
 done`n
+=======
+for file in *.txt; do
+    echo "Checking $file";
+    ollama run mistral "Summarize:" < "$file";
+done
+
 )
 return
 
@@ -167,6 +174,53 @@ process_files() {
                 echo "Checking $file" >> "$main_dir/$summary_file"
 
                 ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+=======
+# Iterate over each .txt file in the current directory
+for file in *.txt; do
+    if [ -f "$file" ]; then
+        file_path=$(pwd)/"$file"
+        if ! is_processed "$file_path"; then
+            echo "Checking $file"
+            echo "Checking $file" >> "$main_dir/$summary_file"
+
+            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            echo "$file_path" >> "$main_dir/$progress_file"
+        fi
+    fi
+done`n
+)
+return
+
+::getsummaries::
+(
+summary_file="overview.txt"
+progress_file="progress.log"
+main_dir=$(pwd)
+
+echo "Script started at $(date)" >> "$main_dir/$progress_file"
+echo "Summaries will be saved to $summary_file" >> "$main_dir/$progress_file"
+
+# Function to process text files
+process_files() {
+    echo "Processing directory: $1"
+    
+    # Iterate over each .txt file in the specified directory
+    for file in "$1"/*.md; do
+        # Skip if the glob didn't match or if file doesn't exist
+        if [ ! -e "$file" ]; then
+            continue
+        fi
+        
+        if [ -f "$file" ]; then
+            file_path=$(realpath "$file")  # Get absolute path of the file
+            
+            # Process only if not processed before
+            if ! is_processed "$file_path"; then
+                echo "Processing $file"
+                echo "Processing $file" >> "$main_dir/$progress_file"
+                
+                # Summarize the file and append to the summary file while displaying to terminal
+                ollama run vanilj/phi-4 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
                 echo "$file_path" >> "$main_dir/$progress_file"
             fi
         fi
@@ -177,37 +231,109 @@ process_files() {
 process_subdirectories() {
     for dir in "$1"/*/; do
         if [ -d "$dir" ]; then
-            process_files "$dir" # Call the function for the subdirectory
-            process_subdirectories "$dir" # Recursive call for further subdirectories
+            process_files "$dir"  # Process files in the subdirectory
+            process_subdirectories "$dir"  # Recursive call for further subdirectories
         fi
     done
 }
 
 # Main execution
-process_files "$main_dir" # Process files in the main directory
-process_subdirectories "$main_dir" # Process files in subdirectories`n
+process_files "$main_dir"  # Process files in the main directory
+process_subdirectories "$main_dir"  # Process files in subdirectories
+
+echo "Script completed at $(date)" >> "$main_dir/$progress_file"`n
 )
 return
 
-::getsummaries::
+::makehol::
 (
-summary_file="overview.txt"
+cat > holize.sh << 'EOF'
+#!/usr/bin/bash
+
+# Paths to required files
+summary_file="summaries.txt"
+holistic_summary_file="holistic-summaries.txt"
 progress_file="progress.log"
 main_dir=$(pwd)
 
-# Function to check if a file is already processed
-is_processed() {
-    grep -Fxq "$1" "$main_dir/$progress_file"
-}
-
-# Create progress and summary files if they don't exist
+# Ensure progress and summary files exist
 touch "$main_dir/$progress_file"
 touch "$main_dir/$summary_file"
+touch "$main_dir/$holistic_summary_file"
 
-# Start logging script progress
-echo "Script started at $(date)" >> "$main_dir/$progress_file"
-echo "Summaries will be saved to $summary_file" >> "$main_dir/$progress_file"
+# Extract the "summary of summaries" from summaries.txt
+summary_of_summaries=$(grep -A1000 "===== Summaries for" "$summary_file" | tail -n +2)
 
+# Start logging
+echo "Starting holistic summarization process at $(date)" >> "$main_dir/$progress_file"
+
+# Iterate over each .txt file in the directory, excluding specified files
+for file in "$main_dir"/*.txt; do
+    # Skip summaries.txt and holistic-summaries.txt explicitly
+    if [[ "$(basename "$file")" == "$(basename "$summary_file")" || "$(basename "$file")" == "$(basename "$holistic_summary_file")" ]]; then
+        echo "Skipping $file" >> "$main_dir/$progress_file"
+        continue
+    fi
+
+    # Process all other .txt files
+    if [ -f "$file" ]; then
+        file_path=$(realpath "$file")
+        
+        # Process only if not processed before
+        if ! grep -Fxq "$file_path" "$main_dir/$progress_file"; then
+=======
+# Iterate over each .txt file in the current directory
+for file in "$main_dir"/*.txt; do
+    # Check if the glob didn't match or if file doesn't exist
+    if [ ! -e "$file" ]; then
+        continue
+    fi
+    
+    if [ -f "$file" ]; then
+        file_path=$(realpath "$file")  # Get absolute path of the file
+        
+        # Process only if not processed before
+        if ! is_processed "$file_path"; then
+
+            # Summarize each chunk with the "summary of summaries" as context
+            for chunk_file in "$temp_dir"/chunk_*; do
+                [ -f "$chunk_file" ] || continue
+                
+                # Read chunk content
+                chunk_content=$(cat "$chunk_file")
+                
+                # Combine context and chunk
+                combined_input="Here is an overall summary of previous summaries: 
+$summary_of_summaries
+
+Now, summarize this chunk:
+$chunk_content"
+                
+                # Summarize the chunk and append to holistic-summaries.txt
+                echo "Summarizing chunk $(basename "$chunk_file") with additional context"
+                echo "$combined_input" | ollama run vanilj/phi-4 | tee -a "$main_dir/$holistic_summary_file"
+                echo "" | tee -a "$main_dir/$holistic_summary_file"
+=======
+            # Mention the file name before summarizing its chunks
+            echo ""
+            echo "Summarizing file: $file"
+            echo "===== Summaries for $file =====" | tee -a "$main_dir/$summary_file"
+            
+            # Summarize each chunk without mentioning chunk names
+            for chunk_file in "$temp_dir"/chunk_*; do
+                [ -f "$chunk_file" ] || continue
+                # Summarize the chunk and append directly to the summary file while also displaying to terminal
+                ollama run vanilj/phi-4 "Summarize" < "$chunk_file" | tee -a "$main_dir/$summary_file"
+                echo "" | tee -a "$main_dir/$summary_file"
+
+            done
+            
+            # Remove the temporary directory
+            rm -rf "$temp_dir"
+            echo "Temporary directory $temp_dir removed" >> "$main_dir/$progress_file"
+            
+            # Mark the file as processed
+            echo "$file_path" >> "$main_dir/$progress_file"
 # Function to process text files
 process_files() {
     echo "Processing directory: $1"
@@ -249,7 +375,8 @@ process_subdirectories() {
 process_files "$main_dir"  # Process files in the main directory
 process_subdirectories "$main_dir"  # Process files in subdirectories
 
-echo "Script completed at $(date)" >> "$main_dir/$progress_file"`n
+echo "Holistic summarization process completed at $(date)" >> "$main_dir/$progress_file"
+EOF`n
 )
 return
 
@@ -669,12 +796,16 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 ::runall::for FILE in *; do cognac $FILE -run ; done
 
+=======
 ;; Github
 
 ::reflogg::git reflog
 
 ::getdetails::git reflog --format='%H' | xargs -L 1 git log -n 1
 
+=======
+
+=======
 
 ::latest!::git checkout $(git describe --tags $(git rev-list --tags --max-count=1))
 
@@ -922,6 +1053,7 @@ Send ? ssh-`n
 Send {Space}
 Send `$
 Return
+
 
 ::fixssh::ssh-keyscan -H 192.168.2.233 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
 
@@ -2496,7 +2628,9 @@ Return
 
 ;;  Laptops
 
+=======
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
+
 
 ::flyx::ssh flyxion@172.27.178.246
 ::astro::ssh aardvark@192.168.2.73

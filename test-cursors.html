@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>ANI Cursor Demo</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #222;
+      font-family: sans-serif;
+      color: #ccc;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 1rem;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 1rem;
+      gap: 1rem;
+    }
+
+    /* Each box that shows a different cursor */
+    .cursor-box {
+      width: 220px;
+      height: 80px;
+      border: 2px solid #666;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #333;
+      transition: background-color 0.2s ease;
+      text-align: center;
+    }
+
+    .cursor-box:hover {
+      background-color: #444;
+    }
+
+    /* Example: normal select */
+    .box-normal-select {
+      cursor: url('cursor/Normal Select v4.1.ani'), default;
+    }
+
+    /* Example: link select */
+    .box-link-select {
+      cursor: url('cursor/Link Select v4.1.ani'), pointer;
+    }
+
+    /* Example: text select */
+    .box-text-select {
+      cursor: url('cursor/Text Select v4.1.ani'), text;
+    }
+
+    /* Example: alternate select */
+    .box-alt-select {
+      cursor: url('cursor/Alternate Select v4.1.ani'), default;
+    }
+
+    /* Example: busy */
+    .box-busy {
+      cursor: url('cursor/Busy v4.1.ani'), wait;
+    }
+
+    /* Example: diagonal resize 1 */
+    .box-diag-resize1 {
+      cursor: url('cursor/Diagonal Resize 1 v4.1.ani'), nwse-resize;
+    }
+
+    /* Example: diagonal resize 2 */
+    .box-diag-resize2 {
+      cursor: url('cursor/Diagonal Resize 2 v4.1.ani'), nesw-resize;
+    }
+
+    /* Example: horizontal resize */
+    .box-horiz-resize {
+      cursor: url('cursor/Horizontal Resize v4.1.ani'), ew-resize;
+    }
+
+    /* Example: vertical resize */
+    .box-vert-resize {
+      cursor: url('cursor/Vertical Resize v4.1.ani'), ns-resize;
+    }
+
+    /* Example: location select */
+    .box-location-select {
+      cursor: url('cursor/Location Select v4.1.ani'), crosshair;
+    }
+
+    /* Example: help select */
+    .box-help-select {
+      cursor: url('cursor/Help Select v4.1.ani'), help;
+    }
+
+    /* Example: move */
+    .box-move {
+      cursor: url('cursor/Move v4.1.ani'), move;
+    }
+
+    /* Example: person select */
+    .box-person-select {
+      cursor: url('cursor/Person Select v4.1.ani'), pointer;
+    }
+
+    /* Example: precision select */
+    .box-precision-select {
+      cursor: url('cursor/Precision Select v4.1.ani'), crosshair;
+    }
+
+    /* Example: unavailable */
+    .box-unavailable {
+      cursor: url('cursor/Unavailable v4.1.ani'), not-allowed;
+    }
+
+    /* Example: working in background */
+    .box-working {
+      cursor: url('cursor/Working In Background v4.1.ani'), progress;
+    }
+  </style>
+</head>
+<body>
+  <h1>ANI Cursor Demo</h1>
+  <div class="container">
+    <!-- Add or remove boxes as you wish. Each box references a different .ani file. -->
+    <div class="cursor-box box-normal-select">
+      Normal Select
+    </div>
+    <div class="cursor-box box-link-select">
+      Link Select
+    </div>
+    <div class="cursor-box box-text-select">
+      Text Select
+    </div>
+    <div class="cursor-box box-alt-select">
+      Alternate Select
+    </div>
+    <div class="cursor-box box-busy">
+      Busy
+    </div>
+    <div class="cursor-box box-diag-resize1">
+      Diagonal Resize 1
+    </div>
+    <div class="cursor-box box-diag-resize2">
+      Diagonal Resize 2
+    </div>
+    <div class="cursor-box box-horiz-resize">
+      Horizontal Resize
+    </div>
+    <div class="cursor-box box-vert-resize">
+      Vertical Resize
+    </div>
+    <div class="cursor-box box-location-select">
+      Location Select
+    </div>
+    <div class="cursor-box box-help-select">
+      Help Select
+    </div>
+    <div class="cursor-box box-move">
+      Move
+    </div>
+    <div class="cursor-box box-person-select">
+      Person Select
+    </div>
+    <div class="cursor-box box-precision-select">
+      Precision Select
+    </div>
+    <div class="cursor-box box-unavailable">
+      Unavailable
+    </div>
+    <div class="cursor-box box-working">
+      Working In Background
+    </div>
+  </div>
+</body>
+</html>
