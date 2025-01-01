@@ -14,9 +14,12 @@
       font-family: 'Sga Regular';
     }
 
-    /* Use a custom default cursor from the "cursor" folder */
+    /* 
+       Use the "Normal Select" animated cursor as the default.
+       Fallback is "default" if the .ani file cannot be used. 
+    */
     body {
-      cursor: url('cursor/default.cur'), default;
+      cursor: url('cursor/Normal Select v4.1.ani'), default;
       background-color: black; /* Black background */
       color: #44ff44; /* Darker green text */
       font-family: 'Sga Regular', 'Courier New', Courier, monospace; /* Default to SGA font */
@@ -27,6 +30,10 @@
       overflow: hidden; /* Prevent body scrolling */
     }
 
+    /* 
+       Use "Text Select v4.1.ani" as the cursor in the terminal 
+       for text selection. Fallback is "text" if .ani is not supported.
+    */
     #terminal {
       flex: 1; /* Allow terminal to take available space */
       padding: 20px; /* Space inside the terminal */
@@ -35,14 +42,12 @@
       box-sizing: border-box; /* Include padding in height calculations */
       font-size: 30px; /* Font size for SGA (default) */
       position: relative; /* Relative positioning for absolute children */
-
-      /* Use a text cursor in the terminal region */
-      cursor: url('cursor/text.cur'), text;
+      cursor: url('cursor/Text Select v4.1.ani'), text;
     }
 
     /* Styles for Courier font (smaller than SGA) */
     .courier-font {
-      font-family: 'Courier New', Courier, monospace; /* Ensure consistent font family */
+      font-family: 'Courier New', Courier, monospace;
       font-size: 16px; /* Adjust the Courier font size here */
     }
 
@@ -67,7 +72,10 @@
       text-decoration: underline; /* Underline on hover */
     }
 
-    /* Control arrow styles */
+    /* 
+       The control arrows. You might use "Link Select v4.1.ani" 
+       so they appear clickable. Fallback is "pointer".
+    */
     .control-arrows {
       position: fixed; /* Position arrows fixed to the bottom right corner */
       bottom: 50px; /* Adjust to sit above the footer */
@@ -82,9 +90,7 @@
       display: block;
       margin: 5px;
       font-size: 24px; /* Size of the arrows */
-
-      /* Use a pointer cursor for the arrow controls */
-      cursor: url('cursor/pointer.cur'), pointer;
+      cursor: url('cursor/Link Select v4.1.ani'), pointer;
     }
 
     /* Style for left and right arrows to position them beside the up arrow */
