@@ -1,258 +1,265 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terminal Simulator</title>
-    <style>
-        @font-face {
-            src: url('fonts/Sga-Regular.woff2') format('woff2'),
-                 url('fonts/Sga-Regular.woff') format('woff'),
-                 url('fonts/Sga-Regular.ttf') format('truetype');
-            font-weight: normal;
-            font-style: normal;
-            font-family: 'Sga Regular';
-        }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terminal Simulator</title>
+  <style>
+    @font-face {
+      src: url('fonts/Sga-Regular.woff2') format('woff2'),
+           url('fonts/Sga-Regular.woff') format('woff'),
+           url('fonts/Sga-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-family: 'Sga Regular';
+    }
 
-        body {
-            background-color: black; /* Black background */
-            color: #44ff44; /* Darker green text */
-            font-family: 'Sga Regular', 'Courier New', Courier, monospace; /* Default to SGA font */
-            margin: 0; /* Remove default margin */
-            display: flex; /* Use flexbox for layout */
-            flex-direction: column; /* Stack children vertically */
-            height: 100vh; /* Full height */
-            overflow: hidden; /* Prevent body scrolling */
-        }
+    /* Use a custom default cursor from the "cursor" folder */
+    body {
+      cursor: url('cursor/default.cur'), default;
+      background-color: black; /* Black background */
+      color: #44ff44; /* Darker green text */
+      font-family: 'Sga Regular', 'Courier New', Courier, monospace; /* Default to SGA font */
+      margin: 0; /* Remove default margin */
+      display: flex; /* Use flexbox for layout */
+      flex-direction: column; /* Stack children vertically */
+      height: 100vh; /* Full height */
+      overflow: hidden; /* Prevent body scrolling */
+    }
 
-        #terminal {
-            flex: 1; /* Allow terminal to take available space */
-            padding: 20px; /* Space inside the terminal */
-            overflow-y: hidden; /* Hide vertical scrollbar */
-            white-space: pre-wrap; /* Maintain whitespace and line breaks with wrapping */
-            box-sizing: border-box; /* Include padding in height calculations */
-            font-size: 30px; /* Font size for SGA */
-            position: relative; /* Relative positioning for absolute children */
-        }
+    #terminal {
+      flex: 1; /* Allow terminal to take available space */
+      padding: 20px; /* Space inside the terminal */
+      overflow-y: hidden; /* Hide vertical scrollbar */
+      white-space: pre-wrap; /* Maintain whitespace and line breaks with wrapping */
+      box-sizing: border-box; /* Include padding in height calculations */
+      font-size: 30px; /* Font size for SGA (default) */
+      position: relative; /* Relative positioning for absolute children */
 
-        /* Styles for Courier font */
-        .courier-font {
-            font-family: 'Courier New', Courier, monospace; /* Ensure consistent font family */
-            font-size: 18px; /* Adjusted size for Courier */
-        }
+      /* Use a text cursor in the terminal region */
+      cursor: url('cursor/text.cur'), text;
+    }
 
-        /* Footer styles */
-        .footer {
-            background: black; /* Match footer background with body */
-            color: #44ff44; /* Match footer text color with terminal */
-            text-align: center; /* Center footer text */
-            padding: 10px; /* Padding for the footer */
-            box-sizing: border-box; /* Include padding in width */
-            position: relative; /* Maintain footer position */
-            font-size: 18px; /* Font size for footer, smaller than terminal */
-            font-family: 'Sga Regular'; /* Default to SGA font */
-        }
+    /* Styles for Courier font (smaller than SGA) */
+    .courier-font {
+      font-family: 'Courier New', Courier, monospace; /* Ensure consistent font family */
+      font-size: 16px; /* Adjust the Courier font size here */
+    }
 
-        .footer a {
-            color: #44ff44; /* Ensure link color matches */
-            text-decoration: none; /* Remove underline from links */
-        }
+    /* Footer styles */
+    .footer {
+      background: black; /* Match footer background with body */
+      color: #44ff44; /* Match footer text color with terminal */
+      text-align: center; /* Center footer text */
+      padding: 10px; /* Padding for the footer */
+      box-sizing: border-box; /* Include padding in width */
+      position: relative; /* Maintain footer position */
+      font-size: 18px; /* Font size for footer, smaller than terminal */
+      font-family: 'Sga Regular'; /* Default to SGA font */
+    }
 
-        .footer a:hover {
-            text-decoration: underline; /* Underline on hover */
-        }
+    .footer a {
+      color: #44ff44; /* Ensure link color matches */
+      text-decoration: none; /* Remove underline from links */
+    }
 
-        /* Control arrow styles */
-        .control-arrows {
-            position: fixed; /* Position arrows fixed to the bottom right corner */
-            bottom: 50px; /* Adjust to sit above the footer */
-            right: 20px; /* Position from the right */
-            color: #44ff44; /* Match arrow color with text color */
-            display: flex;
-            flex-direction: column; /* Stack arrows vertically */
-            align-items: center; /* Center arrows horizontally */
-        }
+    .footer a:hover {
+      text-decoration: underline; /* Underline on hover */
+    }
 
-        .arrow {
-            display: block;
-            margin: 5px;
-            font-size: 24px; /* Size of the arrows */
-            cursor: pointer; /* Pointer cursor for interactivity */
-        }
+    /* Control arrow styles */
+    .control-arrows {
+      position: fixed; /* Position arrows fixed to the bottom right corner */
+      bottom: 50px; /* Adjust to sit above the footer */
+      right: 20px; /* Position from the right */
+      color: #44ff44; /* Match arrow color with text color */
+      display: flex;
+      flex-direction: column; /* Stack arrows vertically */
+      align-items: center; /* Center arrows horizontally */
+    }
 
-        /* Style for left and right arrows to position them beside the up arrow */
-        .left-right-arrows {
-            display: flex;
-            justify-content: space-between;
-            width: 60px; /* Width to accommodate left and right arrow side by side */
-        }
-    </style>
+    .arrow {
+      display: block;
+      margin: 5px;
+      font-size: 24px; /* Size of the arrows */
+
+      /* Use a pointer cursor for the arrow controls */
+      cursor: url('cursor/pointer.cur'), pointer;
+    }
+
+    /* Style for left and right arrows to position them beside the up arrow */
+    .left-right-arrows {
+      display: flex;
+      justify-content: space-between;
+      width: 60px; /* Width to accommodate left and right arrow side by side */
+    }
+  </style>
 </head>
 <body>
-    <div id="terminal" class="sga-font"></div>
-    
-    <script>
-        let typingSpeed = 60 / (80 / 60); // Calculate delay in milliseconds for 80 characters per minute
-        let index = 0;
-        let content = ''; // Initialize content variable
-        let isSgaFont = true; // Track the current font state
-        let direction = 1; // 1 for forward, -1 for backward
-        let typingInterval; // Variable to store the interval ID
+  <div id="terminal" class="sga-font"></div>
 
-        // Function to fetch file content
-        function fetchFile(filePath) {
-            return fetch(filePath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok: ' + response.statusText);
-                    }
-                    return response.text();
-                });
-        }
+  <script>
+    let typingSpeed = 60 / (80 / 60); // Calculate delay in milliseconds for 80 characters per minute
+    let index = 0;
+    let content = ''; // Initialize content variable
+    let isSgaFont = true; // Track the current font state
+    let direction = 1; // 1 for forward, -1 for backward
+    let typingInterval; // Variable to store the interval ID
 
-        // Function to type out the content with right-to-left effect
-        function type() {
-            const terminal = document.getElementById('terminal');
-            if (index < content.length && index >= 0) {
-                if (direction === 1) {
-                    terminal.innerHTML += content.charAt(index);
-                } else if (direction === -1 && terminal.innerHTML.length > 0) {
-                    terminal.innerHTML = terminal.innerHTML.slice(0, -1);
-                }
-                index += direction;
-                terminal.scrollTop = terminal.scrollHeight; // Scroll to the bottom
-            }
-        }
-
-        // Start typing with the set interval
-        function startTyping() {
-            clearInterval(typingInterval); // Clear any previous interval
-            typingInterval = setInterval(type, typingSpeed);
-        }
-
-        // Restart typing effect
-        function restartTyping() {
-            index = 0;
-            direction = 1;
-            document.getElementById('terminal').innerHTML = '';
-            startTyping();
-        }
-
-        // Fetch both files and start typing simulation
-        Promise.all([
-            fetchFile('doom-debates/overview.txt'),
-            fetchFile('doom-debates/detailed-summary.txt')
-        ]).then(filesContent => {
-            // Combine the content of both files
-            content = filesContent.join('\n\n'); // Adding a blank line between contents
-            // Start the typing effect
-            startTyping();
-        }).catch(error => {
-            console.error('Error loading files:', error);
-            document.getElementById('terminal').innerHTML = 'Error loading files: ' + error.message;
+    // Function to fetch file content
+    function fetchFile(filePath) {
+      return fetch(filePath)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok: ' + response.statusText);
+          }
+          return response.text();
         });
+    }
 
-        // Toggle font on interaction, except for arrow clicks
-        function toggleFont() {
-            const terminal = document.getElementById('terminal');
-            const footer = document.querySelector('.footer');
-            if (isSgaFont) {
-                terminal.classList.remove('sga-font');
-                terminal.classList.add('courier-font'); // Switch to Courier
-                footer.style.fontFamily = 'Courier New, Courier, monospace'; // Change footer font to Courier
-            } else {
-                terminal.classList.remove('courier-font');
-                terminal.classList.add('sga-font'); // Switch to SGA
-                footer.style.fontFamily = "'Sga Regular', 'Courier New', Courier, monospace"; // Change footer font to SGA
-            }
-            isSgaFont = !isSgaFont; // Toggle state
+    // Function to type out the content with right-to-left effect
+    function type() {
+      const terminal = document.getElementById('terminal');
+      if (index < content.length && index >= 0) {
+        if (direction === 1) {
+          terminal.innerHTML += content.charAt(index);
+        } else if (direction === -1 && terminal.innerHTML.length > 0) {
+          terminal.innerHTML = terminal.innerHTML.slice(0, -1);
         }
+        index += direction;
+        terminal.scrollTop = terminal.scrollHeight; // Scroll to the bottom
+      }
+    }
 
-        // Event listeners for interactions
-        document.addEventListener('click', (event) => {
-            if (!event.target.classList.contains('arrow')) {
-                toggleFont();
-            }
-        });
-        document.addEventListener('keydown', (event) => {
-            if (event.key === 'F5') {
-                event.preventDefault(); // Prevent the default F5 refresh behavior
-                restartTyping();
-            } else if (!['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
-                toggleFont();
-            } else if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
-                handleArrowKeyPress(event);
-            }
-        });
-        document.addEventListener('touchstart', (event) => {
-            if (!event.target.classList.contains('arrow')) {
-                toggleFont();
-            }
-        });
+    // Start typing with the set interval
+    function startTyping() {
+      clearInterval(typingInterval); // Clear any previous interval
+      typingInterval = setInterval(type, typingSpeed);
+    }
 
-        // Function to handle arrow key press
-        function handleArrowKeyPress(event) {
-            if (event.key === 'ArrowUp') {
-                typingSpeed = Math.max(5, typingSpeed - 5); // Increase speed, lower limit to 5 ms per character
-            } else if (event.key === 'ArrowDown') {
-                typingSpeed = Math.min(200, typingSpeed + 5); // Decrease speed, upper limit to 200 ms per character
-            } else if (event.key === 'ArrowLeft') {
-                direction = -1; // Reverse direction
-            } else if (event.key === 'ArrowRight') {
-                direction = 1; // Forward direction
-            }
-            startTyping(); // Restart typing to apply the new speed or direction
+    // Restart typing effect
+    function restartTyping() {
+      index = 0;
+      direction = 1;
+      document.getElementById('terminal').innerHTML = '';
+      startTyping();
+    }
 
-            // Prevent default arrow key behavior
-            event.preventDefault();
-        }
+    // Fetch both files and start typing simulation
+    Promise.all([
+      fetchFile('doom-debates/overview.txt'),
+      fetchFile('doom-debates/detailed-summary.txt')
+    ]).then(filesContent => {
+      // Combine the content of both files
+      content = filesContent.join('\n\n'); // Adding a blank line between contents
+      // Start the typing effect
+      startTyping();
+    }).catch(error => {
+      console.error('Error loading files:', error);
+      document.getElementById('terminal').innerHTML = 'Error loading files: ' + error.message;
+    });
 
-        // Function to handle arrow click
-        function handleArrowClick(event) {
-            event.stopPropagation(); // Prevent click from toggling the font
-            const arrowId = event.target.id;
-            if (arrowId === 'arrow-up') {
-                typingSpeed = Math.max(5, typingSpeed - 5); // Increase speed, lower limit to 5 ms per character
-            } else if (arrowId === 'arrow-down') {
-                typingSpeed = Math.min(200, typingSpeed + 5); // Decrease speed, upper limit to 200 ms per character
-            } else if (arrowId === 'arrow-left') {
-                direction = -1; // Reverse direction
-            } else if (arrowId === 'arrow-right') {
-                direction = 1; // Forward direction
-            }
-            startTyping(); // Restart typing to apply the new speed or direction
-        }
+    // Toggle font on interaction, except for arrow clicks
+    function toggleFont() {
+      const terminal = document.getElementById('terminal');
+      const footer = document.querySelector('.footer');
+      if (isSgaFont) {
+        terminal.classList.remove('sga-font');
+        terminal.classList.add('courier-font'); // Switch to Courier
+        footer.style.fontFamily = 'Courier New, Courier, monospace'; // Change footer font to Courier
+      } else {
+        terminal.classList.remove('courier-font');
+        terminal.classList.add('sga-font'); // Switch to SGA
+        footer.style.fontFamily = "'Sga Regular', 'Courier New', Courier, monospace"; // Change footer font to SGA
+      }
+      isSgaFont = !isSgaFont; // Toggle state
+    }
 
-        // Add event listeners to arrow elements
-        document.getElementById('arrow-up').addEventListener('click', handleArrowClick);
-        document.getElementById('arrow-down').addEventListener('click', handleArrowClick);
-        document.getElementById('arrow-left').addEventListener('click', handleArrowClick);
-        document.getElementById('arrow-right').addEventListener('click', handleArrowClick);
-    </script>
+    // Event listeners for interactions
+    document.addEventListener('click', (event) => {
+      if (!event.target.classList.contains('arrow')) {
+        toggleFont();
+      }
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'F5') {
+        event.preventDefault(); // Prevent the default F5 refresh behavior
+        restartTyping();
+      } else if (!['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
+        toggleFont();
+      } else if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(event.key)) {
+        handleArrowKeyPress(event);
+      }
+    });
+    document.addEventListener('touchstart', (event) => {
+      if (!event.target.classList.contains('arrow')) {
+        toggleFont();
+      }
+    });
 
-    <div class="control-arrows">
-        <div id="arrow-up" class="arrow" onclick="handleArrowClick(event)">&#9650;</div>
-        <div class="left-right-arrows">
-            <div id="arrow-left" class="arrow" onclick="handleArrowClick(event)">&#9664;</div>
-            <div id="arrow-right" class="arrow" onclick="handleArrowClick(event)">&#9654;</div>
-        </div>
-        <div id="arrow-down" class="arrow" onclick="handleArrowClick(event)">&#9660;</div>
+    // Function to handle arrow key press
+    function handleArrowKeyPress(event) {
+      if (event.key === 'ArrowUp') {
+        typingSpeed = Math.max(5, typingSpeed - 5); // Increase speed, lower limit to 5 ms per character
+      } else if (event.key === 'ArrowDown') {
+        typingSpeed = Math.min(200, typingSpeed + 5); // Decrease speed, upper limit to 200 ms per character
+      } else if (event.key === 'ArrowLeft') {
+        direction = -1; // Reverse direction
+      } else if (event.key === 'ArrowRight') {
+        direction = 1; // Forward direction
+      }
+      startTyping(); // Restart typing to apply the new speed or direction
+
+      // Prevent default arrow key behavior
+      event.preventDefault();
+    }
+
+    // Function to handle arrow click
+    function handleArrowClick(event) {
+      event.stopPropagation(); // Prevent click from toggling the font
+      const arrowId = event.target.id;
+      if (arrowId === 'arrow-up') {
+        typingSpeed = Math.max(5, typingSpeed - 5); // Increase speed, lower limit to 5 ms per character
+      } else if (arrowId === 'arrow-down') {
+        typingSpeed = Math.min(200, typingSpeed + 5); // Decrease speed, upper limit to 200 ms per character
+      } else if (arrowId === 'arrow-left') {
+        direction = -1; // Reverse direction
+      } else if (arrowId === 'arrow-right') {
+        direction = 1; // Forward direction
+      }
+      startTyping(); // Restart typing to apply the new speed or direction
+    }
+
+    // Add event listeners to arrow elements
+    document.getElementById('arrow-up').addEventListener('click', handleArrowClick);
+    document.getElementById('arrow-down').addEventListener('click', handleArrowClick);
+    document.getElementById('arrow-left').addEventListener('click', handleArrowClick);
+    document.getElementById('arrow-right').addEventListener('click', handleArrowClick);
+  </script>
+
+  <div class="control-arrows">
+    <div id="arrow-up" class="arrow" onclick="handleArrowClick(event)">&#9650;</div>
+    <div class="left-right-arrows">
+      <div id="arrow-left" class="arrow" onclick="handleArrowClick(event)">&#9664;</div>
+      <div id="arrow-right" class="arrow" onclick="handleArrowClick(event)">&#9654;</div>
     </div>
+    <div id="arrow-down" class="arrow" onclick="handleArrowClick(event)">&#9660;</div>
+  </div>
 
-    <!-- Footer section -->
-    <div class="footer">
-        This site is open source. 
-        <a href="https://github.com/standardgalactic/example/edit/volsorium/index.html">Improve this page</a>.
-    </div>
+  <!-- Footer section -->
+  <div class="footer">
+    This site is open source.
+    <a href="https://github.com/standardgalactic/example/edit/volsorium/index.html">Improve this page</a>.
+  </div>
 
-    <!-- Instructions for developers on how to run the file -->
-    <!-- To view this HTML file in a local server, use:
-         1. Open your terminal or command prompt.
-         2. Navigate to the directory where this file is located.
-         3. Run a local server using a command like:
-            - Python 3: python -m http.server
-            - Node.js: npx http-server
-         4. Open your web browser and go to http://localhost:8000 or http://localhost:8080 (depending on the server used).
-    -->
+  <!-- Instructions for developers on how to run the file -->
+  <!-- To view this HTML file in a local server, use:
+       1. Open your terminal or command prompt.
+       2. Navigate to the directory where this file is located.
+       3. Run a local server using a command like:
+          - Python 3: python -m http.server
+          - Node.js: npx http-server
+       4. Open your web browser and go to http://localhost:8000 or http://localhost:8080 (depending on the server used).
+  -->
 </body>
 </html>
