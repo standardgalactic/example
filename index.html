@@ -4,6 +4,60 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AutoHotkey Scripts</title>
+    <style>
+        /* Basic reset for margin and padding */
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            padding: 1rem;
+        }
+        h1, h2 {
+            margin-bottom: 0.5rem;
+        }
+        p {
+            margin-bottom: 1rem;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        /* Navigation menu styling */
+        .menu-toggle {
+            display: none; /* Hidden by default on larger screens */
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            padding: 0.6rem 1rem;
+            font-size: 1rem;
+            cursor: pointer;
+            margin-bottom: 1rem;
+        }
+
+        /* Scripts list (nav) */
+        nav ul {
+            list-style: none;
+        }
+        nav ul li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* Responsive: show the toggle button on smaller screens */
+        @media (max-width: 600px) {
+            .menu-toggle {
+                display: block; /* Show the menu button on small screens */
+            }
+            nav ul {
+                display: none; /* Hide the nav list by default on small screens */
+            }
+            nav ul.show {
+                display: block; /* Show the nav list when toggled */
+            }
+        }
+    </style>
 </head>
 <body>
     <h1>AutoHotkey Scripts for Windows, Linux, and Mac</h1>
@@ -12,15 +66,18 @@
     <!-- Image from README.md -->
     <img src="neofetch-update.png" alt="Neofetch" width="500">
 
-    <h2>Available Scripts</h2>
-    <p>Click to Download</p>
-    <ul>
-        <li><a href="PrintScreen.ahk">PrintScreen.ahk</a> - Script for keyboard shortcuts</li>
-        <li><a href="toitalic.ahk">toitalic.ahk</a> - Unicode Italic Keyboard</li>
-        <li><a href="tophone.ahk">tophone.ahk</a> - Phoenician Keyboard</li>
-        <li><a href="toarabic.ahk">toarabic.ahk</a> - Arabic Keyboard</li>
-        <li><a href="tosga.ahk">tosga.ahk</a> - SGA Keyboard</li>
-    </ul>
+    <!-- Mobile Toggle Button -->
+    <button class="menu-toggle" onclick="toggleMenu()">Menu</button>
+
+    <nav>
+        <ul id="scriptList">
+            <li><a href="PrintScreen.ahk">PrintScreen.ahk</a> - Script for keyboard shortcuts</li>
+            <li><a href="toitalic.ahk">toitalic.ahk</a> - Unicode Italic Keyboard</li>
+            <li><a href="tophone.ahk">tophone.ahk</a> - Phoenician Keyboard</li>
+            <li><a href="toarabic.ahk">toarabic.ahk</a> - Arabic Keyboard</li>
+            <li><a href="tosga.ahk">tosga.ahk</a> - SGA Keyboard</li>
+        </ul>
+    </nav>
 
     <h2>Additional Features</h2>
     <p>Some scripts also include:</p>
@@ -29,7 +86,16 @@
         <li>Random Functions</li>
     </ul>
     
-For more information, see the github repository <a href="https://github.com/standardgalactic/example">here</a>.
+    <p>
+        For more information, see the GitHub repository
+        <a href="https://github.com/standardgalactic/example">here</a>.
+    </p>
 
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById("scriptList");
+            menu.classList.toggle("show");
+        }
+    </script>
 </body>
 </html>
