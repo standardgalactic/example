@@ -1,0 +1,216 @@
+82ddf3c HEAD@{0}: rebase (start): checkout HEAD~3
+85a600b HEAD@{1}: commit (merge): Reflog
+82ddf3c HEAD@{2}: rebase (continue) (finish): returning to refs/heads/main
+82ddf3c HEAD@{3}: rebase (continue): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+86ac224 HEAD@{4}: rebase (squash): # This is a combination of 2 commits.
+1bbc6ec HEAD@{5}: rebase (start): checkout HEAD~4
+736e145 HEAD@{6}: commit (merge): Major Update
+304dd2c HEAD@{7}: rebase (finish): returning to refs/heads/main
+304dd2c HEAD@{8}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+c88fe1b HEAD@{9}: rebase (start): checkout HEAD~2
+4ae878c HEAD@{10}: commit: Accidental Update
+c88fe1b HEAD@{11}: rebase (finish): returning to refs/heads/main
+c88fe1b HEAD@{12}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+1523557 HEAD@{13}: rebase (start): checkout HEAD~2
+069483e HEAD@{14}: commit: Update
+1523557 HEAD@{15}: rebase (finish): returning to refs/heads/main
+1523557 HEAD@{16}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+d13527c HEAD@{17}: rebase (start): checkout HEAD~2
+8f9f0fe HEAD@{18}: commit: Update reflog
+d13527c HEAD@{19}: rebase (finish): returning to refs/heads/main
+d13527c HEAD@{20}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+9390598 HEAD@{21}: rebase (start): checkout HEAD~2
+ebe084a HEAD@{22}: commit: Minor Adjustments
+9390598 HEAD@{23}: rebase (finish): returning to refs/heads/main
+9390598 HEAD@{24}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+e17902b HEAD@{25}: rebase (pick): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+1bbc6ec HEAD@{26}: rebase (start): checkout HEAD~2
+f9a8d59 HEAD@{27}: rebase (finish): returning to refs/heads/main
+f9a8d59 HEAD@{28}: rebase (squash): Add files via upload
+924b943 HEAD@{29}: rebase (pick): Add files via upload
+39ec29d HEAD@{30}: rebase (start): checkout HEAD~2
+faff220 HEAD@{31}: commit: Update
+aa1f627 HEAD@{32}: pull: Merge made by the 'recursive' strategy.
+39ec29d HEAD@{33}: pull: Merge made by the 'recursive' strategy.
+1bbc6ec HEAD@{34}: rebase (finish): returning to refs/heads/main
+1bbc6ec HEAD@{35}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
+79c6c74 HEAD@{36}: rebase (start): checkout HEAD~2
+5a9d711 HEAD@{37}: pull: Fast-forward
+a8c946f HEAD@{38}: checkout: moving from volsorium to main
+e3fb83c HEAD@{39}: commit: Transparent Cursors
+1af6bd1 HEAD@{40}: pull: Merge made by the 'recursive' strategy.
+6d25677 HEAD@{41}: checkout: moving from main to volsorium
+a8c946f HEAD@{42}: commit: Doom Debates
+5393fd9 HEAD@{43}: rebase (finish): returning to refs/heads/main
+5393fd9 HEAD@{44}: rebase (squash): Work In Progress
+96be2a7 HEAD@{45}: rebase (start): checkout HEAD~2
+d5993df HEAD@{46}: commit: Work in Progress
+96be2a7 HEAD@{47}: pull: Fast-forward
+05c3576 HEAD@{48}: rebase (finish): returning to refs/heads/main
+05c3576 HEAD@{49}: rebase (squash): Deploying page
+2a76767 HEAD@{50}: rebase (start): checkout HEAD~2
+2c02de9 HEAD@{51}: commit: Added My Shortcuts
+2a76767 HEAD@{52}: rebase (finish): returning to refs/heads/main
+2a76767 HEAD@{53}: rebase (squash): Deploying page
+f423a3c HEAD@{54}: rebase (start): checkout HEAD~2
+f715304 HEAD@{55}: commit: Added My Shortcuts
+f423a3c HEAD@{56}: rebase (finish): returning to refs/heads/main
+f423a3c HEAD@{57}: rebase (squash): Deploying page
+828134c HEAD@{58}: rebase (start): checkout HEAD~2
+c2b1957 HEAD@{59}: commit: Added My Shortcuts
+828134c HEAD@{60}: pull: Fast-forward
+86510f4 HEAD@{61}: commit: Understanding Machines
+7334e9a HEAD@{62}: rebase (finish): returning to refs/heads/main
+7334e9a HEAD@{63}: rebase (squash): Minor Adjustments
+fe45bcf HEAD@{64}: rebase (start): checkout HEAD~2
+90e426e HEAD@{65}: commit: Added 'getstuff'
+fe45bcf HEAD@{66}: commit: Minor Adjustments
+47d8319 HEAD@{67}: commit (amend): 𝘛𝘩𝘦 𝘖𝘣𝘭𝘪𝘤𝘰𝘴𝘮 𝘗𝘢𝘳𝘢𝘥𝘰𝘹
+d06c004 HEAD@{68}: commit: 𝘛𝘩𝘦 𝘖�ð£𝘭𝘪𝘤𝘰𝘴𝘮 𝘗𝘢𝘳𝘢𝘥𝘰𝘹
+7814182 HEAD@{69}: commit: Minor Fix
+02372f7 HEAD@{70}: commit: Added Note
+634e93f HEAD@{71}: rebase (finish): returning to refs/heads/main
+634e93f HEAD@{72}: rebase (squash): Experiments with Gemini
+b50adda HEAD@{73}: rebase (start): checkout HEAD~2
+d4f7f8a HEAD@{74}: commit: Timeline Options
+b50adda HEAD@{75}: rebase (finish): returning to refs/heads/main
+b50adda HEAD@{76}: rebase (squash): Experiments with Gemini
+289d2c6 HEAD@{77}: rebase (start): checkout HEAD~2
+5f9ca7e HEAD@{78}: commit: Amend
+289d2c6 HEAD@{79}: rebase (finish): returning to refs/heads/main
+289d2c6 HEAD@{80}: rebase (squash): Experiments with Gemini
+7eef0a3 HEAD@{81}: rebase (start): checkout HEAD~2
+a25599b HEAD@{82}: commit: Very Important
+7eef0a3 HEAD@{83}: rebase (finish): returning to refs/heads/main
+7eef0a3 HEAD@{84}: rebase (squash): Experiments with Gemini
+d8381e8 HEAD@{85}: rebase (start): checkout HEAD~2
+acca528 HEAD@{86}: commit: Conversations with Poe
+d8381e8 HEAD@{87}: commit: Experiments with Gemini
+b5135d9 HEAD@{88}: commit: Cross-Platform Shortcuts
+7e50e98 HEAD@{89}: rebase (finish): returning to refs/heads/main
+7e50e98 HEAD@{90}: rebase (squash): Added Shortcuts
+061fa5c HEAD@{91}: rebase (start): checkout HEAD~2
+011ce5c HEAD@{92}: commit: Update
+061fa5c HEAD@{93}: rebase (finish): returning to refs/heads/main
+061fa5c HEAD@{94}: rebase (squash): Added Shortcuts
+db1049d HEAD@{95}: rebase (start): checkout HEAD~2
+41fdbdd HEAD@{96}: commit: Neofetch Update
+db1049d HEAD@{97}: commit: Added Shortcuts
+151ebaf HEAD@{98}: rebase (finish): returning to refs/heads/main
+151ebaf HEAD@{99}: rebase (squash): Minor Experiments
+05eff9d HEAD@{100}: rebase (start): checkout HEAD~2
+e8edbbb HEAD@{101}: rebase (finish): returning to refs/heads/main
+e8edbbb HEAD@{102}: rebase (squash): Minor Experiments
+42ad3e2 HEAD@{103}: rebase (start): checkout HEAD~2
+a37adb8 HEAD@{104}: commit: Minor Experiments
+42ad3e2 HEAD@{105}: commit: Minor Experiments
+05eff9d HEAD@{106}: commit: Protosociology
+58c54fa HEAD@{107}: rebase (finish): returning to refs/heads/main
+58c54fa HEAD@{108}: rebase (squash): 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦
+89b4ce5 HEAD@{109}: rebase (start): checkout HEAD~2
+ffb0ce5 HEAD@{110}: commit: The Power of Now
+89b4ce5 HEAD@{111}: rebase (finish): returning to refs/heads/main
+89b4ce5 HEAD@{112}: rebase (squash): 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦
+f1ae282 HEAD@{113}: rebase (start): checkout HEAD~2
+d7e446c HEAD@{114}: commit: The Power of Now
+f1ae282 HEAD@{115}: rebase (finish): returning to refs/heads/main
+f1ae282 HEAD@{116}: rebase (squash): 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦
+a023eef HEAD@{117}: rebase (start): checkout HEAD~2
+3ef33df HEAD@{118}: commit: Power of Now
+a023eef HEAD@{119}: commit: 𝘊𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘒𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦
+9a695ae HEAD@{120}: commit: Participatory Knowing
+22d30d8 HEAD@{121}: commit: Minor Updates
+73171c1 HEAD@{122}: commit: 𝘜𝘱𝘥𝘢𝘵𝘦
+fe58faf HEAD@{123}: commit: Latent Spaces
+dd02829 HEAD@{124}: commit: 𝘜𝘯𝘪𝘤𝘰𝘥𝘦 𝘐𝘵𝘢𝘭𝘪𝘤 𝘒𝘦𝘺𝘣𝘰𝘢𝘳𝘥
+f72a2cc HEAD@{125}: commit: Open Explorer in Current Folder
+0d5cda7 HEAD@{126}: commit: Minor Updates
+452a3c7 HEAD@{127}: commit: Update
+6be6b62 HEAD@{128}: commit:  
+488e965 HEAD@{129}: commit: Update
+581c053 HEAD@{130}: commit: Autohotkey Commands
+5592f22 HEAD@{131}: commit: Update
+be2ba65 HEAD@{132}: commit: Imported from example
+dd0cec9 HEAD@{133}: commit: update
+aabb6ed HEAD@{134}: checkout: moving from volsorium to main
+6d25677 HEAD@{135}: pull: Merge made by the 'recursive' strategy.
+d538e24 HEAD@{136}: commit: Imported from example
+fc7076c HEAD@{137}: reset: moving to fc7076ceb98129b22142be372d9f358569a28ed1
+40ba8a0 HEAD@{138}: pull: Merge made by the 'recursive' strategy.
+c67bdb2 HEAD@{139}: commit: Imported from example
+f7b1b1e HEAD@{140}: reset: moving to f7b1b1ef173736a815bcd2a165063458ab07996f
+4e210c5 HEAD@{141}: commit: Update
+dab9fe5 HEAD@{142}: pull: Fast-forward
+aabb6ed HEAD@{143}: checkout: moving from main to volsorium
+aabb6ed HEAD@{144}: rebase (finish): returning to refs/heads/main
+aabb6ed HEAD@{145}: rebase (squash): Update Hotstrings
+eba820f HEAD@{146}: rebase (start): checkout HEAD~2
+5945d45 HEAD@{147}: rebase -i (finish): returning to refs/heads/main
+5945d45 HEAD@{148}: rebase -i (start): checkout HEAD~2
+5945d45 HEAD@{149}: commit: Remove Local
+eba820f HEAD@{150}: commit: Update Hotstrings
+4ba3b78 HEAD@{151}: commit: Update
+aa3d881 HEAD@{152}: commit: Emergency Greek Keyboard
+4b7f726 HEAD@{153}: reset: moving to 4b7f7266969d175
+0391907 HEAD@{154}: commit (merge): Emergency Greek Keyboard
+200acff HEAD@{155}: commit: Emergency Greek Keyboard
+33018d8 HEAD@{156}: commit: Emergency Greek Keyboard
+650ed81 HEAD@{157}: commit: Emergency Greek Keyboard
+4b7f726 HEAD@{158}: commit: Change System Font
+f4d87eb HEAD@{159}: reset: moving to HEAD~
+5331bbd HEAD@{160}: commit: Not Recommended
+f4d87eb HEAD@{161}: reset: moving to HEAD~
+e357b53 HEAD@{162}: reset: moving to e357b53
+f4d87eb HEAD@{163}: reset: moving to HEAD~
+e357b53 HEAD@{164}: commit: 𝘈𝘶𝘵𝘰Not Recommended
+f4d87eb HEAD@{165}: commit: Hide Desktop Icons
+1c65cb5 HEAD@{166}: commit: Reading Pacer
+5d5a3f7 HEAD@{167}: commit: Reading Pacer
+96fa83f HEAD@{168}: reset: moving to HEAD~
+60ec6ea HEAD@{169}: checkout: moving from main to main
+60ec6ea HEAD@{170}: commit: Reading Pacer
+96fa83f HEAD@{171}: reset: moving to HEAD~
+2491a41 HEAD@{172}: checkout: moving from main to main
+2491a41 HEAD@{173}: commit: Reading Pacer
+96fa83f HEAD@{174}: commit: Meld Update
+972aa4e HEAD@{175}: reset: moving to HEAD~
+3cb4451 HEAD@{176}: checkout: moving from main to main
+3cb4451 HEAD@{177}: commit: Meld Update
+972aa4e HEAD@{178}: reset: moving to HEAD~
+fc23c4b HEAD@{179}: checkout: moving from main to main
+fc23c4b HEAD@{180}: commit: Meld Update
+972aa4e HEAD@{181}: reset: moving to HEAD~
+0e36d16 HEAD@{182}: reset: moving to HEAD~
+2ab43ae HEAD@{183}: checkout: moving from main to main
+2ab43ae HEAD@{184}: commit: Meld Update
+0e36d16 HEAD@{185}: commit: Meld Update
+972aa4e HEAD@{186}: commit: Update Hotkeys
+eb74481 HEAD@{187}: pull: Fast-forward
+56917c0 HEAD@{188}: pull origin main: Fast-forward
+70023f7 HEAD@{189}: pull: Merge made by the 'recursive' strategy.
+24cf43e HEAD@{190}: commit: Update comments
+1bd6e38 HEAD@{191}: commit: Imported from example
+28b5af0 HEAD@{192}: commit: Normal Update
+9e7d48f HEAD@{193}: reset: moving to 9e7d48fb398bf561bffc8669f41c618a651babb5
+aeec73b HEAD@{194}: checkout: moving from main to main
+aeec73b HEAD@{195}: commit: Normal Update
+9e7d48f HEAD@{196}: commit: Swap CapsLock and Escape
+272301b HEAD@{197}: pull: Merge made by the 'recursive' strategy.
+1f9c4bc HEAD@{198}: commit: Reverse order of lines
+5a442ea HEAD@{199}: commit: Minor updates
+77d1ef4 HEAD@{200}: commit: Fixed error
+192dd70 HEAD@{201}: commit: minor update
+48b9e1b HEAD@{202}: commit: minor update
+a381745 HEAD@{203}: commit: minor update
+ccc7fde HEAD@{204}: commit: Update
+875131a HEAD@{205}: commit: Minor Update
+da3735c HEAD@{206}: commit: Minor adjustments
+7cf4d5d HEAD@{207}: commit: Minor adjustments
+ebfa53a HEAD@{208}: commit: update
+389d44c HEAD@{209}: pull: Fast-forward
+d919046 HEAD@{210}: commit: Riemann Horn Torus
+9b425a1 HEAD@{211}: pull: Fast-forward
+4e70ad1 HEAD@{212}: pull: Fast-forward
+c0f85bf HEAD@{213}: commit: Update title.
+13b8c8d HEAD@{214}: pull: Fast-forward
+434b2ff HEAD@{215}: clone: from https://github.com/standardgalactic/example

@@ -1,0 +1,23 @@
+(base) flyxion@volsorium:~$ neofetch
+            .-/+oossssoo+/-.               flyxion@volsorium
+        `:+ssssssssssssssssss+:`           -----------------
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 22.04.5 LTS on Windows 10 x86_64
+    .ossssssssssssssssssdMMMNysssso.       Kernel: 5.15.167.4-microsoft-standard-WSL2
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 12 hours, 18 mins
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 1410 (dpkg), 5 (snap)
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.1.16
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Adwaita [GTK3]
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Icons: Adwaita [GTK3]
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: tmux
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i7-6700 (8) @ 3.408GHz
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   GPU: fd90:00:00.0 Microsoft Corporation Device 008e
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Memory: 697MiB / 15976MiB
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
+
+(base) flyxion@volsorium:~$
