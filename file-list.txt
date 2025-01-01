@@ -1,0 +1,1410 @@
+.
+├── 001.png
+├── 002.png
+├── 003.png
+├── 004.png
+├── 20220518_191502.jpg
+├── AHK-Studio.ahk
+├── API.ahk
+├── ARBITRARY REPOSITORY CONSTRAINT.txt
+├── Alfa Beta Charlie.ahk
+├── Align Selected Text.ahk
+├── AutoCorrect.ahk
+├── AutoHotkey Scripts.mhtml
+├── AutoHotkey-script-Open-Show-Apps.ahk
+├── AutoHotkey-script-Switch-Windows-same-App.ahk
+├── BlenderShortcuts.ahk
+├── BookMarks.ahk
+├── Class_SQLiteDB.ahk
+├── Clipjump.ahk
+├── Custom Commands.ahk
+├── DebugWindow.ahk
+├── Emergency Greek Keyboard.mhtml
+├── Extended radio alphabet.txt
+├── FlipScreen.ahk
+├── Gdp_All.ahk
+├── HardToRead.ahk
+├── Haskell proof of the ontological argument.txt
+├── History GUI Plug.ahk
+├── HotkeyParser.ahk
+├── Hotstring Helper.mhtml
+├── INTRODUCTION.txt
+├── ImageSearch.ahk
+├── LICENSE
+├── Longer Pauses.mhtml
+├── Middle Scroll.ahk
+├── MsgBox Creator.ahk
+├── MyLog.txt
+├── MyScript.ahk
+├── New.ahk
+├── OTB.ahk
+├── Open Settings.ahk
+├── Paste Script.ahk
+├── Phoenician-Regular.ttf
+├── PrintScreen.ahk
+├── PrtSc.AHK
+├── README.md
+├── Random Functions.AHK
+├── RandomFunctions.AHK
+├── RandomNameGenerator.ahk
+├── RandomNameGeneratorForWindows.ahk
+├── RapidClicker.ahk
+├── Remove Blank Lines.ahk
+├── Remove Comments.ahk
+├── Settings GUI Plug.ahk
+├── Sga-Regular.ttf
+├── Sort Selected.ahk
+├── Split Code.ahk
+├── Swap Key Value.ahk
+├── TT_Console.ahk
+├── Template.ahk
+├── Toggle Fullscreen.ahk
+├── TooltipEx.ahk
+├── Upload.ahk
+├── Vim Navigation Basics.mhtml
+├── WM_MOUSEMOVE.ahk
+├── WinClip.ahk
+├── WinClipAPI.ahk
+├── _registry.ahk
+├── a-new-arabic-keyboard.jpg
+├── aboutGUI.ahk
+├── anticj_func_labels.ahk
+├── autojump.ahk
+├── autospace.ahk
+├── byobu comma separated file.txt
+├── byobu shortcuts ubuntu.txt
+├── bytheway.ahk
+├── case_test.ahk
+├── channelOrganizer.ahk
+├── code to show or hide icons.ahk
+├── curated-list.txt
+├── cursors
+│   ├── Alternate Select v4.1.ani
+│   ├── Alternate Select v4.1.gif
+│   ├── Busy v4.1.ani
+│   ├── Busy v4.1.gif
+│   ├── Diagonal Resize 1 v4.1.ani
+│   ├── Diagonal Resize 1 v4.1.gif
+│   ├── Diagonal Resize 2 v4.1.ani
+│   ├── Diagonal Resize 2 v4.1.gif
+│   ├── Handwriting v4.1.ani
+│   ├── Handwriting v4.1.gif
+│   ├── Help Select v4.1.ani
+│   ├── Help Select v4.1.gif
+│   ├── Horizontal Resize v4.1.ani
+│   ├── Horizontal Resize v4.1.gif
+│   ├── Link Select v4.1.ani
+│   ├── Link Select v4.1.gif
+│   ├── Location Select v4.1.ani
+│   ├── Location Select v4.1.gif
+│   ├── Move v4.1.ani
+│   ├── Move v4.1.gif
+│   ├── Normal Select v4.1.ani
+│   ├── Normal Select v4.1.gif
+│   ├── Person Select v4.1.ani
+│   ├── Person Select v4.1.gif
+│   ├── Precision Select v4.1.ani
+│   ├── Precision Select v4.1.gif
+│   ├── Text Select v4.1.ani
+│   ├── Text Select v4.1.gif
+│   ├── Transparent Aero Cursor.cur
+│   ├── Unavailable v4.1.ani
+│   ├── Unavailable v4.1.gif
+│   ├── Vertical Resize v4.1.ani
+│   ├── Vertical Resize v4.1.gif
+│   ├── Working In Background v4.1.ani
+│   ├── Working In Background v4.1.gif
+│   ├── readme.txt
+│   ├── transparent-windows-10.crs
+│   ├── transparent_alt.cur
+│   ├── transparent_busy.cur
+│   ├── transparent_diag1.cur
+│   ├── transparent_diag2.cur
+│   ├── transparent_help.cur
+│   ├── transparent_hor.cur
+│   ├── transparent_link.cur
+│   ├── transparent_move.cur
+│   ├── transparent_pen.cur
+│   ├── transparent_person.cur
+│   ├── transparent_pin.cur
+│   ├── transparent_precision.cur
+│   ├── transparent_text.cur
+│   ├── transparent_unavailable.cur
+│   ├── transparent_vert.cur
+│   └── transparent_working.cur
+├── cursors.html
+├── customizer.ahk
+├── deleteFileFolder.ahk
+├── desktop.ini
+├── doom-debates
+│   ├── AI Doom Debate with Roman Yampolskiy： 50% vs. 99.999% P(Doom) — For Humanity Crosspost [a3Z3Sc4Hrdg].en.txt
+│   ├── AI Doom Debate： George Hotz vs. Liron Shapira [XnoaRtyYOqY].en.txt
+│   ├── AI Doom Debate： Liron Shapira vs. Kelvin Santos [ObSPSGRw5LQ].en.txt
+│   ├── AI Doom Debate： Tilek Mamutov vs. Liron Shapira [4YWAZEcYeMQ].en.txt
+│   ├── AI Doom Debate： Vaden Masrani & Ben Chugg vs. Liron Shapira [mUpfD9ZoNSM].en.txt
+│   ├── AI Doom Debate： What's a plausible alignment scenario？ [cj5rgWbRyMI].en.txt
+│   ├── AI Doom Debate： Will AGI’s analysis paralysis save humanity？ [FIlUViK5zSY].en.txt
+│   ├── AI Doom Debate： “Cards Against Humanity” Co-Creator David Pinsof [QGYwCv1jwx8].en.txt
+│   ├── AI Doom Q&A with Tony Warner and Liron Shapira [08vZT2LLvtA].en.txt
+│   ├── AI Twitter Beefs #2： Yann LeCun, David Deutsch, Tyler Cowen vs. Eliezer Yudkowsky, Geoffrey Hinton [G6lGA7yPaV8].en.txt
+│   ├── AI Will Kill Us All — Liron Shapira on The Flares [_sksNkjT-wA].en.txt
+│   ├── Andrew Critch vs. Liron Shapira： Will AI Extinction Be Fast Or Slow？ [opIvVzJF8t0].en.txt
+│   ├── Are you ready for this？ [uWL4DPaX8fE].en.txt
+│   ├── Arguing ＂By Definition＂ ｜ Rationality 101 [ueam4fq8k8I].en.txt
+│   ├── Arvind Narayanan Makes AI Sound Normal ｜ Liron Reacts [lehJlitQvZE].en.txt
+│   ├── Ben Horowitz says nuclear proliferation is GOOD？ I disagree. [ueB9iRQsvQ8].en.txt
+│   ├── Bret Weinstein Bungles It On AI Extinction ｜ Liron Reacts [xge8PXFQKEE].en.txt
+│   ├── Can GPT o1 Reason？ ｜ Liron Reacts to Tim Scarfe & Keith Duggar [59PTmetkPCY].en.txt
+│   ├── Can Humans Judge AI's Arguments [loaT9eAjLv0].en.txt
+│   ├── Can LLMs Reason？ Liron Reacts to Subbarao Kambhampati on Machine Learning Street Talk [wXGiV6tVtN0].en.txt
+│   ├── Cosmology, AI Doom, and the Future of Humanity with Fraser Cain [1u07Q7WUVWo].en.txt
+│   ├── David Shapiro Doesn't Get PauseAI ｜ Liron Reacts [58T1Ig56EHU].en.txt
+│   ├── David Shapiro Part II： Unaligned Superintelligence Is Totally Fine？ [nYQsL3dYqds].en.txt
+│   ├── Doom Tiffs #1： Amjad Masad, Eliezer Yudkowsky, Roon, Lee Cronin, Naval Ravikant, Martin Casado [Ppx8_eZ5yt8].en.txt
+│   ├── Dr. Keith Duggar (Machine Learning Street Talk) vs. Liron Shapira — AI Doom Debate [4v-Qh3JQ4Jc].en.txt
+│   ├── Getting ARRESTED for barricading OpenAI's office to Stop AI — Sam Kirchner and Remmelt Ellen [2ql1iq520Kk].en.txt
+│   ├── Is P(Doom) Meaningful？ Epistemology Debate with Vaden Masrani and Ben Chugg [zKz-t_l5yHg].en.txt
+│   ├── Is our brain's superpower just ＂culture＂？ [9iWiA5i1Uy8].en.txt
+│   ├── Jobst Landgrebe Doesn't Believe In AGI ｜ Liron Reacts [GbHTLfTrjAs].en.txt
+│   ├── Lee Cronin vs. Liron Shapira： AI Doom Debate and Assembly Theory Questions [2fg8an1pEaA].en.txt
+│   ├── Liron Reacts to Martin Casado's AI Claims [wwnMVGCAeoI].en.txt
+│   ├── Liron Reacts to Mike Israetel's ＂Solving the AI Alignment Problem＂ [VYB037dXf4M].en.txt
+│   ├── Liron is Anti-AI on Jubilee's ＂Middle Ground＂ [Hp-7gdCyU60].en.txt
+│   ├── Maciej Ceglowski (Pinboard) Rejects AI Doomerism ｜ Liron Reacts [hlvAPAkwq34].en.txt
+│   ├── OpenAI o3 and Claude Alignment Faking — How doomed are we？ [0n6rF48PaJc].en.txt
+│   ├── Optimization and the Intelligence Explosion [_i4Liqj4G0g].en.txt
+│   ├── P(Doom) Estimates Shouldn't Inform Policy？？ Liron Reacts to Sayash Kapoor [vV6JKQ6p918].en.txt
+│   ├── Preparing for my AI Doom Debate with Robin Hanson [darVPzEhh-I].en.txt
+│   ├── Q&A #1 Part 1： College, Asperger's, Elon Musk, Double Crux, Liron's IQ [BXg_HEAEf8s].en.txt
+│   ├── Q&A #1 Part 2： Stock Picking, Creativity, Types of Doomers, Favorite Books [F9ytuPTBeBI].en.txt
+│   ├── Q&A： How scary is a superintelligent football coach？ [Ahq-EMSrskI].en.txt
+│   ├── Rationality 101： Mysterious Answers to Mysterious Questions [RpSsuHyi4pg].en.txt
+│   ├── Rationality 101： The Bottom Line [tf251Ig1Pas].en.txt
+│   ├── Richard Sutton Dismisses AI Extinction Fears with Simplistic Arguments ｜ Liron Reacts [SBm19zCk9HY].en.txt
+│   ├── Robin Hanson AI Doom Debate Highlights and Post-Debate Analysis [i0DxeBhjzlY].en.txt
+│   ├── Robin Hanson debate prep： Liron argues ＊against＊ AI doom! [iNnoJnuOXFA].en.txt
+│   ├── Robin Hanson says AGI might be 100+ years away [xo5d_pCDmmo].en.txt
+│   ├── Robin Hanson vs. Liron Shapira： Is Near-Term Extinction From AGI Plausible？ [dTQb6N3_zu8].en.txt
+│   ├── Robin Hanson vs. Liron Shapira： Is Near-Term Extinction From AGI Plausible？ [dTQb6N3_zu8].live_chat.json
+│   ├── Roon vs. Liron： AI Doom Debate [GfgKQpevnUE].en.txt
+│   ├── SB 1047 AI Regulation Debate： Holly Elmore vs. Greg Tanaka [xUP3GywD0yM].en.txt
+│   ├── Scott Aaronson Makes Me Think OpenAI's “Safety” Is Fake, Clueless, Reckless and Insane [xsGqWeqKjEg].en.txt
+│   ├── Should we gamble on AGI before all 8 billion of us die？ [5wqVR9NjiII].en.txt
+│   ├── Steven Pinker doesn’t get the AI doom argument ｜ Liron Reacts [-tIq6kbrF-4].en.txt
+│   ├── This Yudkowskian Has A 99.999% P(Doom) [Hes10uWGP7Y].en.txt
+│   ├── What this ＂Doom Debates＂ podcast is about [Pjpgx-n78X8].en.txt
+│   ├── Yuval Noah Harari's AI Warnings Don't Go Far Enough ｜ Liron Reacts [rqiunloHu0o].en.txt
+│   ├── detailed-summary.txt
+│   ├── get-summaries.sh
+│   ├── overview.txt
+│   ├── progress.log
+│   ├── to-text.py
+│   └── “AI Snake Oil” Prof. Arvind Narayanan Can't See AGI Coming ｜ Liron Reacts [lyYIK_ATDm4].en.txt
+├── emergency-keyboard.png
+├── essentialsalts
+│   ├── 53 Thieves - Heights (Live in Austin, TX).json
+│   ├── 53 Thieves - Heights (Live in Austin, TX).mp3
+│   ├── 53 Thieves - Heights (Live in Austin, TX).srt
+│   ├── 53 Thieves - Heights (Live in Austin, TX).tsv
+│   ├── 53 Thieves - Heights (Live in Austin, TX).txt
+│   ├── 53 Thieves - Heights (Live in Austin, TX).vtt
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).json
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).mp3
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).srt
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).tsv
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).txt
+│   ├── 53 Thieves - Lost (Live in Austin, Texas).vtt
+│   ├── A Conversation with Uberboyo.mp3
+│   ├── A discussion about Can't Get You Out of My Head by Adam Curtis, Episodes 1 and 2.mp3
+│   ├── A discussion inspired by Can't Get You Out of My Head by Adam Curtis -- episodes 3 and 4.mp3
+│   ├── A week on the road w⧸ DOL (November 22).mp3
+│   ├── Abject Terror - first hours of March, 2019.mp3
+│   ├── Abject Terror wishes you a Happy Saturnalia.mp3
+│   ├── Acid Witch - Witchfynder Finder at ELECTRIC FUNERAL 2019.mp3
+│   ├── Alan Watts   The Religious Game.mp3
+│   ├── Answering Questions on The Nietzsche Podcast.json
+│   ├── Answering Questions on The Nietzsche Podcast.mp3
+│   ├── Answering Questions on The Nietzsche Podcast.srt
+│   ├── Answering Questions on The Nietzsche Podcast.tsv
+│   ├── Answering Questions on The Nietzsche Podcast.txt
+│   ├── Answering Questions on The Nietzsche Podcast.vtt
+│   ├── Archetypes EXPLAINED： Introduction to Jung.json
+│   ├── Archetypes EXPLAINED： Introduction to Jung.mp3
+│   ├── Archetypes EXPLAINED： Introduction to Jung.srt
+│   ├── Archetypes EXPLAINED： Introduction to Jung.tsv
+│   ├── Archetypes EXPLAINED： Introduction to Jung.txt
+│   ├── Archetypes EXPLAINED： Introduction to Jung.vtt
+│   ├── Are ye sleepin, Maggie？.mp3
+│   ├── Asking an Anti-Natalist about： Voluntary Euthanasia ⧸ the Desire for Immortality ⧸ San Junipero.mp3
+│   ├── Bat Lips (13th Floor, Austin TX).json
+│   ├── Bat Lips (13th Floor, Austin TX).mp3
+│   ├── Bat Lips (13th Floor, Austin TX).srt
+│   ├── Bat Lips (13th Floor, Austin TX).tsv
+│   ├── Bat Lips (13th Floor, Austin TX).txt
+│   ├── Bat Lips (13th Floor, Austin TX).vtt
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).json
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).mp3
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).srt
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).tsv
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).txt
+│   ├── Beyond Good & Evil #1： Faith in Opposite Values (preface-I.5).vtt
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).json
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).mp3
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).srt
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).tsv
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).txt
+│   ├── Beyond Good & Evil #4： The Esoteric (II.26 - II.37).vtt
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).json
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).mp3
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).srt
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).tsv
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).txt
+│   ├── Beyond Good & Evil #7： Interlude (IV.63-IV.185).vtt
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).json
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).mp3
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).srt
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).tsv
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).txt
+│   ├── Beyond Good and Evil #10： We Scholars (VI.204 - VI.213).vtt
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).json
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).mp3
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).srt
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).tsv
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).txt
+│   ├── Beyond Good and Evil #11： Immoralist Virtue Ethics (VII.214 - VII.230).vtt
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).json
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).mp3
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).srt
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).tsv
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).txt
+│   ├── Beyond Good and Evil #13： Fatherlandishness (VIII.240 - VIII.256).vtt
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).json
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).mp3
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).srt
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).tsv
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).txt
+│   ├── Beyond Good and Evil #14： The Essence of Life (IX.257 - IX.267).vtt
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).json
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).mp3
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).srt
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).tsv
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).txt
+│   ├── Beyond Good and Evil #15： Conclusion - Struggle Against Platonism (IX.268 - IX.296).vtt
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).json
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).mp3
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).srt
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).tsv
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).txt
+│   ├── Beyond Good and Evil #2： Involuntary, Unconscious Memoir (I.6-I.16).vtt
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).json
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).mp3
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).srt
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).tsv
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).txt
+│   ├── Beyond Good and Evil #3： One Ruling Thought (I.17-II.25).vtt
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).json
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).mp3
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).srt
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).tsv
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).txt
+│   ├── Beyond Good and Evil #5： The Great Hunt (II.38 - III.46).vtt
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).json
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).mp3
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).srt
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).tsv
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).txt
+│   ├── Beyond Good and Evil #6： Self-Denial as Power (III.47 - III.62).vtt
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).json
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).mp3
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).srt
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).tsv
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).txt
+│   ├── Beyond Good and Evil #8： Morality is a Tyrannical Impulse (V.186 - V.196).vtt
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).json
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).mp3
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).srt
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).tsv
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).txt
+│   ├── Beyond Good and Evil #9： Morality as Timidity (V.197 - V.203).vtt
+│   ├── Big Business, Ripplefest Texas 2022.mp3
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).json
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).mp3
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).srt
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).tsv
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).txt
+│   ├── Bridge Farmers Live at Faust Tavern (SATX).vtt
+│   ├── Buzz Electro (The Lost Well, Austin TX).json
+│   ├── Buzz Electro (The Lost Well, Austin TX).mp3
+│   ├── Buzz Electro (The Lost Well, Austin TX).srt
+│   ├── Buzz Electro (The Lost Well, Austin TX).tsv
+│   ├── Buzz Electro (The Lost Well, Austin TX).txt
+│   ├── Buzz Electro (The Lost Well, Austin TX).vtt
+│   ├── Candler IV - The Trooper (Country version, recorded on a night of storms & tornadoes in Bryan TX).mp3
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.json
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.mp3
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.srt
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.tsv
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.txt
+│   ├── Carl Jung： The REAL REASON for Nietzsche's Madness.vtt
+│   ├── Cartesian Dualism.mp3
+│   ├── Categorizing Nietzsche.mp3
+│   ├── Come and see.mp3
+│   ├── Conjurer - Dallas 5⧸11⧸23.json
+│   ├── Conjurer - Dallas 5⧸11⧸23.mp3
+│   ├── Conjurer - Dallas 5⧸11⧸23.srt
+│   ├── Conjurer - Dallas 5⧸11⧸23.tsv
+│   ├── Conjurer - Dallas 5⧸11⧸23.txt
+│   ├── Conjurer - Dallas 5⧸11⧸23.vtt
+│   ├── Crowbar, Ripplefest Texas 2022.mp3
+│   ├── DOOM Over the Countryside： The Road to ELECTRIC FUNERAL FEST.mp3
+│   ├── DUEL - free week Austin at Empire control room.mp3
+│   ├── DUEL at Hot Summer Nights.mp3
+│   ├── Daniel Tutt on The Nietzsche Podcast.json
+│   ├── Daniel Tutt on The Nietzsche Podcast.mp3
+│   ├── Daniel Tutt on The Nietzsche Podcast.srt
+│   ├── Daniel Tutt on The Nietzsche Podcast.tsv
+│   ├── Daniel Tutt on The Nietzsche Podcast.txt
+│   ├── Daniel Tutt on The Nietzsche Podcast.vtt
+│   ├── Dao compared to Logos with Prof. Hans-Georg Moeller.mp3
+│   ├── Daybreak 109： Nietzsche's Guide to Self-Control (Dealing with Vehement Drives).mp3
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).json
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).mp3
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).srt
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).tsv
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).txt
+│   ├── Demons My Friends - Ghost of You (Denton TX, 2024).vtt
+│   ├── Destroyer Of Light Tour 2018 Part 2.mp3
+│   ├── Destroyer Of Light Tour 2018 Part 3.mp3
+│   ├── Destroyer Of Light Tour 2018 Part 4.mp3
+│   ├── Destroyer Of Light Tour 2018 Part 5.mp3
+│   ├── Destroyer Of Light Tour 2018 Part I.mp3
+│   ├── Destroyer of Light - Eternal Death, rehearsal room recording, October 30th 2018.mp3
+│   ├── Destroyer of Light - new song fragment.mp3
+│   ├── Destroyer of Light’s Last Tour.json
+│   ├── Destroyer of Light’s Last Tour.mp3
+│   ├── Destroyer of Light’s Last Tour.srt
+│   ├── Destroyer of Light’s Last Tour.tsv
+│   ├── Destroyer of Light’s Last Tour.txt
+│   ├── Destroyer of Light’s Last Tour.vtt
+│   ├── Did Emperor Pedro II meet Nietzsche？.json
+│   ├── Did Emperor Pedro II meet Nietzsche？.mp3
+│   ├── Did Emperor Pedro II meet Nietzsche？.srt
+│   ├── Did Emperor Pedro II meet Nietzsche？.tsv
+│   ├── Did Emperor Pedro II meet Nietzsche？.txt
+│   ├── Did Emperor Pedro II meet Nietzsche？.vtt
+│   ├── Differing Views on Zen Meditation.mp3
+│   ├── Dionysus v⧸s The Crucified.mp3
+│   ├── Discussion about Can't Get You Out of My Head - Part Three, ＂The Lordly Ones＂.mp3
+│   ├── Dizz Brew (Juarez, Mexico) at Stoner Jam⧸SXSW 22.mp3
+│   ├── Dreadnought (summer 2018 Lost Well).mp3
+│   ├── Dream Snake Teaser.mp3
+│   ├── Duel - Devil (5⧸28⧸22 - at Valhalla, Austin, TX).mp3
+│   ├── Eagles of Death Metal, Ripplefest Texas 2022.mp3
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.json
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.mp3
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.srt
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.tsv
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.txt
+│   ├── Ecce Homo Explained： Nietzsche Reviews His Own Books.vtt
+│   ├── Emerson and Nietzsche： The Children of The Fire.mp3
+│   ├── Endless Summer.json
+│   ├── Endless Summer.mp3
+│   ├── Endless Summer.srt
+│   ├── Endless Summer.tsv
+│   ├── Endless Summer.txt
+│   ├── Endless Summer.vtt
+│   ├── Epicurus - The Hidden Life & influence on Nietzsche.mp3
+│   ├── FAUST Explained： Goethe’s eulogy of the Enlightenment & its philosophical influence.mp3
+│   ├── Final Discussion inspired by Adam Curtis' series, CAN'T GET YOU OUT OF MY HEAD.mp4.part
+│   ├── Forebode - Lost Well, Austin.mp3
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.json
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.mp3
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.srt
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.tsv
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.txt
+│   ├── Foucault DEEP DIVE： Western Civilization's Experience of Insanity.vtt
+│   ├── François de la Rochefoucauld’s “Moral Maxims” and influence on Friedrich Nietzsche.mp3
+│   ├── Freud LIED When He Denied Nietzsche's Influence.json
+│   ├── Freud LIED When He Denied Nietzsche's Influence.mp3
+│   ├── Freud LIED When He Denied Nietzsche's Influence.srt
+│   ├── Freud LIED When He Denied Nietzsche's Influence.tsv
+│   ├── Freud LIED When He Denied Nietzsche's Influence.txt
+│   ├── Freud LIED When He Denied Nietzsche's Influence.vtt
+│   ├── Ghost Hollow.mp3
+│   ├── Ghost choir.mp3
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).json
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).mp3
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).srt
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).tsv
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).txt
+│   ├── Gilles Deleuze： Against the Dialectic (Nietzsche & Philosophy, Part 1 of 2).vtt
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).json
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).mp3
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).srt
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).tsv
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).txt
+│   ├── Gilles Deleuze： Ressentiment, Bad Conscience & Becoming-Active (Nietzsche & Philosophy, Part 2 of 2).vtt
+│   ├── Goethe's Problem With Hegel.json
+│   ├── Goethe's Problem With Hegel.mp3
+│   ├── Goethe's Problem With Hegel.srt
+│   ├── Goethe's Problem With Hegel.tsv
+│   ├── Goethe's Problem With Hegel.txt
+│   ├── Goethe's Problem With Hegel.vtt
+│   ├── Great Electric Quest - Mucho Solo Extendo!!!.mp3
+│   ├── Great Minds Discuss People.json
+│   ├── Great Minds Discuss People.mp3
+│   ├── Great Minds Discuss People.srt
+│   ├── Great Minds Discuss People.tsv
+│   ├── Great Minds Discuss People.txt
+│   ├── Great Minds Discuss People.vtt
+│   ├── Greenbeard - Wyrm.mp3
+│   ├── HERACLITUS, seen through the eyes of NIETZSCHE (Nietzsche podcast — Episode five).mp3
+│   ├── Hegel Explained： The Master-Slave Dialectic.json
+│   ├── Hegel Explained： The Master-Slave Dialectic.mp3
+│   ├── Hegel Explained： The Master-Slave Dialectic.srt
+│   ├── Hegel Explained： The Master-Slave Dialectic.tsv
+│   ├── Hegel Explained： The Master-Slave Dialectic.txt
+│   ├── Hegel Explained： The Master-Slave Dialectic.vtt
+│   ├── Hell Obelisco - Aalborg, Denmark at 1000flyd.mp3
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.json
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.mp3
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.srt
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.tsv
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.txt
+│   ├── Hellfury, at Hole in the Wall, SXSW 2023.vtt
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).json
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).mp3
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).srt
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).tsv
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).txt
+│   ├── High Desert Queen - Xmas Performance (12⧸23⧸23).vtt
+│   ├── High Reeper, live in Dresden.mp3
+│   ├── I believe in you.mp3
+│   ├── Ibn Khaldun’s Muqaddimah (The Nietzsche Podcast #65).mp3
+│   ├── Immanuel Kant’s Perpetual Peace (The Nietzsche Podcast #60).mp3
+│   ├── Interview with John Hunt - On Horror & Realism.json
+│   ├── Interview with John Hunt - On Horror & Realism.mp3
+│   ├── Interview with John Hunt - On Horror & Realism.srt
+│   ├── Interview with John Hunt - On Horror & Realism.tsv
+│   ├── Interview with John Hunt - On Horror & Realism.txt
+│   ├── Interview with John Hunt - On Horror & Realism.vtt
+│   ├── JD Pinkus, Ripplefest Texas.mp3
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.json
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.mp3
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.srt
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.tsv
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.txt
+│   ├── Julius Caesar： Hero of the Proletariat - Michael Parenti’s People’s History of Rome.vtt
+│   ├── Keegan interviews Hans-Georg Moeller： Profilicity & Erscheinung -- The Nietzsche Podcast.mp3
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).json
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).mp3
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).srt
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).tsv
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).txt
+│   ├── Khemmis - The Bereaved (Dallas TX, 5⧸11⧸23).vtt
+│   ├── L7 in Houston TX (July 2018).mp3
+│   ├── Left Nietzscheanism Explained - With Devin Goure.json
+│   ├── Left Nietzscheanism Explained - With Devin Goure.mp3
+│   ├── Left Nietzscheanism Explained - With Devin Goure.srt
+│   ├── Left Nietzscheanism Explained - With Devin Goure.tsv
+│   ├── Left Nietzscheanism Explained - With Devin Goure.txt
+│   ├── Left Nietzscheanism Explained - With Devin Goure.vtt
+│   ├── Let sonic hands embrace you.mp3
+│   ├── Light of the Emerald Quasar.mp3
+│   ├── MESSA - Live in Belluno, IT at Koala Werewolf Bar.mp3
+│   ├── Mac Sabbath - “The Lizard” Live Excerpt.mp3
+│   ├── Machiavelli’s Discourses on Livy (The Nietzsche Podcast 57).mp3
+│   ├── Machiavelli’s Life in Exile.mp3
+│   ├── Machiavelli’s The Prince (The Nietzsche Podcast, episode 58).mp3
+│   ├── Maggot Heart (The Lost Well, Austin, TX).json
+│   ├── Maggot Heart (The Lost Well, Austin, TX).mp3
+│   ├── Maggot Heart (The Lost Well, Austin, TX).srt
+│   ├── Maggot Heart (The Lost Well, Austin, TX).tsv
+│   ├── Maggot Heart (The Lost Well, Austin, TX).txt
+│   ├── Maggot Heart (The Lost Well, Austin, TX).vtt
+│   ├── Man Versus Society (essentialsalts and Karl Nord).mp3
+│   ├── Medicine Horse at Whittier Bar.mp3
+│   ├── Messa (Austin, TX, 5⧸3⧸24).json
+│   ├── Messa (Austin, TX, 5⧸3⧸24).mp3
+│   ├── Messa (Austin, TX, 5⧸3⧸24).srt
+│   ├── Messa (Austin, TX, 5⧸3⧸24).tsv
+│   ├── Messa (Austin, TX, 5⧸3⧸24).txt
+│   ├── Messa (Austin, TX, 5⧸3⧸24).vtt
+│   ├── Messa - Leah (The Lost Well, Austin, TX).json
+│   ├── Messa - Leah (The Lost Well, Austin, TX).mp3
+│   ├── Messa - Leah (The Lost Well, Austin, TX).srt
+│   ├── Messa - Leah (The Lost Well, Austin, TX).tsv
+│   ├── Messa - Leah (The Lost Well, Austin, TX).txt
+│   ├── Messa - Leah (The Lost Well, Austin, TX).vtt
+│   ├── Michels’ Political Parties #8, FINAL.mp3
+│   ├── Monte Luna - Nightmare Frontier Live.mp3
+│   ├── Monte Luna - live at Lost Well (Austin, TX), 2⧸25⧸19.mp3
+│   ├── Moonrise (Kim Robertson cover).mp3
+│   ├── Mothership at Ripple Fest Texas 2022.mp3
+│   ├── Mountain of Smoke at Hot Summer Nights.mp3
+│   ├── Mud Lung.mp3
+│   ├── My Review of School of Life's Nietzsche Video.mp3
+│   ├── My collection of all the books in Skyrim, organized by category.mp3
+│   ├── NIETZSCHE - Birth of Tragedy - Analysis - 11-13 (Euripedes and the Death of Tragedy).mp3
+│   ├── NIETZSCHE - Birth of Tragedy - Analysis - 8-10： The Evolution of the Satyr Chorus and Suffering Hero.mp3
+│   ├── NIETZSCHE - Birth of Tragedy 4-7 Analysis “Subjective v⧸s Objective).mp3
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.json
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.mp3
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.srt
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.tsv
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.txt
+│   ├── NIETZSCHE - Birth of Tragedy Analysis 22-25： CONCLUSION.vtt
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.json
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.mp3
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.srt
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.tsv
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.txt
+│   ├── NIETZSCHE - The Birth of Tragedy Analysis - 18-21： “Alexandrianism”.vtt
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.json
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.mp3
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.srt
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.tsv
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.txt
+│   ├── NIETZSCHE V⧸S SOCRATES： A Love-Hate Relationship.vtt
+│   ├── NIETZSCHE on TRUTH： What JORDAN PETERSON gets WRONG.mp3
+│   ├── NIETZSCHE on the Nature of Consciousness - Deep Dive： “The Genius of the Species” (The Gay Science ).mp3
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.json
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.mp3
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.srt
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.tsv
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.txt
+│   ├── NIETZSCHE'S UNDERWORLD： The Eight Philosophers REQUIRED for Understanding Him.vtt
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).json
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).mp3
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).srt
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).tsv
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).txt
+│   ├── NIETZSCHE’S FAVORITE BOOK (Conversations with Goethe).vtt
+│   ├── NIETZSCHE’S criticism of PHILOSOPHY： The Philosopher & the Will to Truth.mp3
+│   ├── NIETZSCHE： On the figure of The Holy Man.mp3
+│   ├── Napoletronic Bonaparty!! Michels' Political Parties, #5.mp3
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.json
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.mp3
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.srt
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.tsv
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.txt
+│   ├── Nietzsche - Birth of Tragedy - 14-17 - Theoretic v⧸s Tragic.vtt
+│   ├── Nietzsche - Birth of Tragedy Analysis I (1886 Preface⧸Preface to Wagner).mp3
+│   ├── Nietzsche - Birth of Tragedy： Sections 1-3 Analysis.mp3
+│   ├── Nietzsche Contra Capitalism.mp3
+│   ├── Nietzsche Contra Fascism.mp3
+│   ├── Nietzsche Contra Socialism.mp3
+│   ├── Nietzsche hugged a horse？： FICTION!.mp3
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).json
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).mp3
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).srt
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).tsv
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).txt
+│   ├── Nietzsche on Anaxagoras (Part 6 of 8).vtt
+│   ├── Nietzsche on Anaximander (Part 3 of 8).json
+│   ├── Nietzsche on Anaximander (Part 3 of 8).mp3
+│   ├── Nietzsche on Anaximander (Part 3 of 8).srt
+│   ├── Nietzsche on Anaximander (Part 3 of 8).tsv
+│   ├── Nietzsche on Anaximander (Part 3 of 8).txt
+│   ├── Nietzsche on Anaximander (Part 3 of 8).vtt
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).json
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).mp3
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).srt
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).tsv
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).txt
+│   ├── Nietzsche on Democritus & Conclusion (Part 8 of 8).vtt
+│   ├── Nietzsche on Empedocles (Part 7 of 8).json
+│   ├── Nietzsche on Empedocles (Part 7 of 8).mp3
+│   ├── Nietzsche on Empedocles (Part 7 of 8).srt
+│   ├── Nietzsche on Empedocles (Part 7 of 8).tsv
+│   ├── Nietzsche on Empedocles (Part 7 of 8).txt
+│   ├── Nietzsche on Empedocles (Part 7 of 8).vtt
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).json
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).mp3
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).srt
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).tsv
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).txt
+│   ├── Nietzsche on Heraclitus (Part 4 of 8).vtt
+│   ├── Nietzsche on Parmenides (Part 5 of 8).json
+│   ├── Nietzsche on Parmenides (Part 5 of 8).mp3
+│   ├── Nietzsche on Parmenides (Part 5 of 8).srt
+│   ├── Nietzsche on Parmenides (Part 5 of 8).tsv
+│   ├── Nietzsche on Parmenides (Part 5 of 8).txt
+│   ├── Nietzsche on Parmenides (Part 5 of 8).vtt
+│   ├── Nietzsche on Thales (Part 2 of 8).json
+│   ├── Nietzsche on Thales (Part 2 of 8).mp3
+│   ├── Nietzsche on Thales (Part 2 of 8).srt
+│   ├── Nietzsche on Thales (Part 2 of 8).tsv
+│   ├── Nietzsche on Thales (Part 2 of 8).txt
+│   ├── Nietzsche on Thales (Part 2 of 8).vtt
+│   ├── Nietzsche time ⧸ Nature walk.mp3
+│   ├── Nietzsche was WRONG about Christianity： René Girard.json
+│   ├── Nietzsche was WRONG about Christianity： René Girard.mp3
+│   ├── Nietzsche was WRONG about Christianity： René Girard.srt
+│   ├── Nietzsche was WRONG about Christianity： René Girard.tsv
+│   ├── Nietzsche was WRONG about Christianity： René Girard.txt
+│   ├── Nietzsche was WRONG about Christianity： René Girard.vtt
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.json
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.mp3
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.srt
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.tsv
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.txt
+│   ├── Nietzsche's Attack on Language - Peter Sloterdijk's Nietzsche Apostle.vtt
+│   ├── Nietzsche's Attack on ＂Spirit＂.json
+│   ├── Nietzsche's Attack on ＂Spirit＂.mp3
+│   ├── Nietzsche's Attack on ＂Spirit＂.srt
+│   ├── Nietzsche's Attack on ＂Spirit＂.tsv
+│   ├── Nietzsche's Attack on ＂Spirit＂.txt
+│   ├── Nietzsche's Attack on ＂Spirit＂.vtt
+│   ├── Nietzsche's Devotional Poem to Dionysus： The Genius of the Heart.mp3
+│   ├── Nietzsche's Most Important Teaching.json
+│   ├── Nietzsche's Most Important Teaching.mp3
+│   ├── Nietzsche's Most Important Teaching.srt
+│   ├── Nietzsche's Most Important Teaching.tsv
+│   ├── Nietzsche's Most Important Teaching.txt
+│   ├── Nietzsche's Most Important Teaching.vtt
+│   ├── Nietzsche's Time Atom Fragment.json
+│   ├── Nietzsche's Time Atom Fragment.mp3
+│   ├── Nietzsche's Time Atom Fragment.srt
+│   ├── Nietzsche's Time Atom Fragment.tsv
+│   ├── Nietzsche's Time Atom Fragment.txt
+│   ├── Nietzsche's Time Atom Fragment.vtt
+│   ├── Nietzsche's WEIRD Diet.mp3
+│   ├── Nietzschean Halloween Broadcast.mp3
+│   ├── Nietzschean Science - The Will to Power as Physics - Influence of Lange, Democritus, Boscovich.mp3
+│   ├── Nietzsche’s Battle Against Modernity.mp3
+│   ├── Nietzsche’s Critique of Free Will EXPLAINED： Why Nietzsche exchanged “moral responsibility” for Fate.mp3
+│   ├── Nietzsche’s DARKEST Metaphor - The Sipo Matador.mp3
+│   ├── Nietzsche’s Dissertation Analyzed - On Theognis of Megara.mp3
+│   ├── Nietzsche’s Eternal Return - The TOUGHEST CHALLENGE of Philosophy.mp3
+│   ├── Nietzsche’s Life-Changing Thought.mp3
+│   ├── Nietzsche’s Physiologism.json
+│   ├── Nietzsche’s Physiologism.mp3
+│   ├── Nietzsche’s Physiologism.srt
+│   ├── Nietzsche’s Physiologism.tsv
+│   ├── Nietzsche’s Physiologism.txt
+│   ├── Nietzsche’s Physiologism.vtt
+│   ├── Nietzsche’s Politics during The Middle Period.mp3
+│   ├── Nietzsche’s Will to Power Explained - The Basis of All Moral Systems.mp3
+│   ├── Nietzsche’s redemption of The Body： A rejection of Mind-Body Dualism.mp4.part
+│   ├── Nietzsche’s “Great Noontide” Explained.mp3
+│   ├── Nietzsche’s “Return to Nature”.json
+│   ├── Nietzsche’s “Return to Nature”.mp3
+│   ├── Nietzsche’s “Return to Nature”.srt
+│   ├── Nietzsche’s “Return to Nature”.tsv
+│   ├── Nietzsche’s “Return to Nature”.txt
+│   ├── Nietzsche’s “Return to Nature”.vtt
+│   ├── Nietzsche： Pain creates a “Higher Health”.mp3
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).json
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).mp3
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).srt
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).tsv
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).txt
+│   ├── Nietzsche： Philosophy in the Tragic Age of the Greeks (Part 1 of 8).vtt
+│   ├── Nietzsche： Weakness Corrupts..json
+│   ├── Nietzsche： Weakness Corrupts..mp3
+│   ├── Nietzsche： Weakness Corrupts..srt
+│   ├── Nietzsche： Weakness Corrupts..tsv
+│   ├── Nietzsche： Weakness Corrupts..txt
+│   ├── Nietzsche： Weakness Corrupts..vtt
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.json
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.mp3
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.srt
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.tsv
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.txt
+│   ├── Nietzsche： “Forgetfulness is an Active and Positive Force...”.vtt
+│   ├── Nietzsche： “Without music, life would be a mistake.”.mp3
+│   ├── Nihilism (The Nietzsche Podcast 43).mp3
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.json
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.mp3
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.srt
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.tsv
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.txt
+│   ├── OEDIPUS - The Ancient Tragedy That Still Haunts Us.vtt
+│   ├── ORYX at The Mix, San Antonio, TX.mp3
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.json
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.mp3
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.srt
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.tsv
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.txt
+│   ├── PAGAN TERROR ｜ Arthur Machen's THE GREAT GOD PAN.vtt
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.json
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.mp3
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.srt
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.tsv
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.txt
+│   ├── PASCAL & NIETZSCHE： The Enlightenment’s Malcontents.vtt
+│   ├── PLATO’S SYMPOSIUM Explained - NIETZSCHE’S Favorite Classical Work.mp3
+│   ├── Pallbearer - Dropout LIVE.mp3
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).json
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).mp3
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).srt
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).tsv
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).txt
+│   ├── Pallbearer - Fear and Fury (live in Austin, TX).vtt
+│   ├── Pallbearer - Foreigner LIVE.mp3
+│   ├── Pallbearer - Ghost I Used to Be LIVE.mp3
+│   ├── Paralipomena 2018-2019.mp3
+│   ├── Paul Katsafanas： Kantian vs Nietzschean meta-ethics.mp3
+│   ├── Peter Turchin： Why Empires Rise & Fall (The Nietzsche Podcast #66).mp3
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.json
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.mp3
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.srt
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.tsv
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.txt
+│   ├── Philosophers of the Future - Nietzsche Podcast Season Three Finale.vtt
+│   ├── Politics of Plato’s Republic (The Nietzsche Podcast #53).mp3
+│   ├── Postmodernism is just misunderstood + Answering comments on ＂Weakness Corrupts＂.mp3
+│   ├── Question & Answer time on the Nietzsche Podcast.mp3
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.json
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.mp3
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.srt
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.tsv
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.txt
+│   ├── RETURN TRIP - Destroyer of Light & Temptress tour America.vtt
+│   ├── Red Mesa (The Lost Well, Austin TX).json
+│   ├── Red Mesa (The Lost Well, Austin TX).mp3
+│   ├── Red Mesa (The Lost Well, Austin TX).srt
+│   ├── Red Mesa (The Lost Well, Austin TX).tsv
+│   ├── Red Mesa (The Lost Well, Austin TX).txt
+│   ├── Red Mesa (The Lost Well, Austin TX).vtt
+│   ├── Relax and listen to essentialsalts answer patron questions.json
+│   ├── Relax and listen to essentialsalts answer patron questions.mp3
+│   ├── Relax and listen to essentialsalts answer patron questions.srt
+│   ├── Relax and listen to essentialsalts answer patron questions.tsv
+│   ├── Relax and listen to essentialsalts answer patron questions.txt
+│   ├── Relax and listen to essentialsalts answer patron questions.vtt
+│   ├── Restless Spirit (The Lost Well, Austin, TX).json
+│   ├── Restless Spirit (The Lost Well, Austin, TX).mp3
+│   ├── Restless Spirit (The Lost Well, Austin, TX).srt
+│   ├── Restless Spirit (The Lost Well, Austin, TX).tsv
+│   ├── Restless Spirit (The Lost Well, Austin, TX).txt
+│   ├── Restless Spirit (The Lost Well, Austin, TX).vtt
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.json
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.mp3
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.srt
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.tsv
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.txt
+│   ├── Robert Chambers： “The Repairer of Reputations＂ from The King in Yellow ｜ Halloween Special w⧸ Mynaa.vtt
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).json
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).mp3
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).srt
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).tsv
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).txt
+│   ├── Robert Pirsig’s Metaphysics of Quality (Zen & the Art of Motorcycle Maintenance).vtt
+│   ├── Rousseau： Nietzsche’s Mirror Image.mp3
+│   ├── S A L T S T R E A M -- Lo fi philosophical rants to relax⧸study to -- Michel's Political Parties, #3.mp3
+│   ├── S A L T W A V E 24⧸7 lo fi philosophical jams to choom to -- Michel's Political Parties, #4.mp3
+│   ├── SXSW ENNUI 2019.mp3
+│   ├── Sabbath Crow - Lost Well, 4⧸15.mp3
+│   ├── Saltcast — Justice democrats betray the workers! And, Michels’ Political Parties, #6.mp3
+│   ├── Saltvlog — Political Parties #7, featuring： a cat.mp3
+│   ├── Salty Vlog #1 — Michels’ Political Parties part I.mp3
+│   ├── Salty Vlog #2 - Michels' Political Parties, Part II, DO IT LIVE!!.mp3
+│   ├── Schopenhauer & Nietzsche： Overcoming Pessimism.mp3
+│   ├── Schopenhauer In-Depth： The Total Denial of the World by the Greatest Pessimist of Philosophy.mp3
+│   ├── Schopenhauer's father's suicide, & why killing yourself is not an option for Schopenhauer.mp3
+│   ├── Science and Wisdom in Battle.json
+│   ├── Science and Wisdom in Battle.mp3
+│   ├── Science and Wisdom in Battle.srt
+│   ├── Science and Wisdom in Battle.tsv
+│   ├── Science and Wisdom in Battle.txt
+│   ├── Science and Wisdom in Battle.vtt
+│   ├── Serial Hawk, live at Lost Well.mp3
+│   ├── Sleepy Summer 2023.json
+│   ├── Sleepy Summer 2023.mp3
+│   ├── Sleepy Summer 2023.srt
+│   ├── Sleepy Summer 2023.tsv
+│   ├── Sleepy Summer 2023.txt
+│   ├── Sleepy Summer 2023.vtt
+│   ├── Sleepy Summer.json
+│   ├── Sleepy Summer.mp3
+│   ├── Sleepy Summer.srt
+│   ├── Sleepy Summer.tsv
+│   ├── Sleepy Summer.txt
+│   ├── Sleepy Summer.vtt
+│   ├── Slomosa - Scavengers (First ever show in USA).json
+│   ├── Slomosa - Scavengers (First ever show in USA).mp3
+│   ├── Slomosa - Scavengers (First ever show in USA).srt
+│   ├── Slomosa - Scavengers (First ever show in USA).tsv
+│   ├── Slomosa - Scavengers (First ever show in USA).txt
+│   ├── Slomosa - Scavengers (First ever show in USA).vtt
+│   ├── Slumbering Sun - Dream Snake.mp3
+│   ├── Slumbering Sun - Liminal Bridges (New Single Dec. 2022).mp3
+│   ├── Slumbering Sun First Single Teaser.mp3
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).json
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).mp3
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).srt
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).tsv
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).txt
+│   ├── Spinoza： Nietzsche’s Precursor (The Nietzsche Podcast #83).vtt
+│   ├── Spirit Adrift at Ripplefest 2022.mp3
+│   ├── Stephen Hicks on The Nietzsche Podcast.json
+│   ├── Stephen Hicks on The Nietzsche Podcast.mp3
+│   ├── Stephen Hicks on The Nietzsche Podcast.srt
+│   ├── Stephen Hicks on The Nietzsche Podcast.tsv
+│   ├── Stephen Hicks on The Nietzsche Podcast.txt
+│   ├── Stephen Hicks on The Nietzsche Podcast.vtt
+│   ├── Suicide Cult - For Eternity.mp3
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.json
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.mp3
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.srt
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.tsv
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.txt
+│   ├── THE BACCHAE： Dionysus, The God of Illusions.vtt
+│   ├── Temptress - 12⧸4⧸21 Independence Brewery.mp3
+│   ├── Temptress - Stoner Jam⧸SXSW 22.mp3
+│   ├── The Ancient City Explained - Numa Denis Fustel de Coulanges.mp3
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).json
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).mp3
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).srt
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).tsv
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).txt
+│   ├── The Anti-Persuasive Rhetoric of Socrates’ Apology (Nietzsche Podcast #75).vtt
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.json
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.mp3
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.srt
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.tsv
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.txt
+│   ├── The Biggest Myth about Nietzsche ｜ How to Debunk With a Hammer.vtt
+│   ├── The Birth of Tragedy by Friedrich Nietzsche - Full Audiobook.mp3
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.json
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.mp3
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.srt
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.tsv
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.txt
+│   ├── The Cause of Mass Psychosis - An Analysis of Jung's Undiscovered Self.vtt
+│   ├── The Congenital Defect of All Philosophers.mp3
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).json
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).mp3
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).srt
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).tsv
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).txt
+│   ├── The Consciousness of Appearance ｜ The Gay Science #5 (I.45 - I.56).vtt
+│   ├── The Convalescent： The scene in Nietzsche’s Thus Spoke Zarathustra that explains his highest ideas..mp3
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).json
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).mp3
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).srt
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).tsv
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).txt
+│   ├── The Cult of Untruth ｜ The Gay Science #9 (II.98-II.107).vtt
+│   ├── The Dionysmas Special.json
+│   ├── The Dionysmas Special.mp3
+│   ├── The Dionysmas Special.srt
+│   ├── The Dionysmas Special.tsv
+│   ├── The Dionysmas Special.txt
+│   ├── The Dionysmas Special.vtt
+│   ├── The Ever-Living Fire Pre-Order Promo.mp3
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).json
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).mp3
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).srt
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).tsv
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).txt
+│   ├── The Feeling of Power ｜ The Gay Science #2 (I.10 - I.20).vtt
+│   ├── The Great Electric Quest - Wrathchild.mp3
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).json
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).mp3
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).srt
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).tsv
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).txt
+│   ├── The Great Spectacle ｜ The Gay Science #4 (I.30 - I.44).vtt
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).json
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).mp3
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).srt
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).tsv
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).txt
+│   ├── The History of European Nihilism (The Nietzsche Podcast #71).vtt
+│   ├── The Idle Hours of a Psychologist.json
+│   ├── The Idle Hours of a Psychologist.mp3
+│   ├── The Idle Hours of a Psychologist.srt
+│   ├── The Idle Hours of a Psychologist.tsv
+│   ├── The Idle Hours of a Psychologist.txt
+│   ├── The Idle Hours of a Psychologist.vtt
+│   ├── The Iron Law of Oligarchy.json
+│   ├── The Iron Law of Oligarchy.mp3
+│   ├── The Iron Law of Oligarchy.srt
+│   ├── The Iron Law of Oligarchy.tsv
+│   ├── The Iron Law of Oligarchy.txt
+│   ├── The Iron Law of Oligarchy.vtt
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.json
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.mp3
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.srt
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.tsv
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.txt
+│   ├── The Life of Friedrich Nietzsche, As Represented in The Camel, The Lion & The Child.vtt
+│   ├── The Lucid Furs - Faust Tavern, San Antonio.mp3
+│   ├── The Meaning of LIFE, According to NIETZSCHE.mp3
+│   ├── The Meaning of Nietzsche’s Overman - “Arrows of Longing” (Part 1 of 2, The Nietzsche Podcast).mp3
+│   ├── The Nietzsche Podcast - On the Use and Abuse of History for Life.mp3
+│   ├── The Nietzsche Podcast 3： ＂God is Dead!＂ - What Nietzsche REALLY meant by this famous phrase.mp3
+│   ├── The Nietzsche Podcast, episode 1： How the True World Finally Became a Fable.mp3
+│   ├── The Nietzsche Podcast： Chemistry of Feelings - The Artist.mp3
+│   ├── The Nietzsche Podcast： The Tragedy Begins.mp3
+│   ├── The Nietzsche podcast, episode 2： Wandering Through Ice & Mountain-Peaks.mp3
+│   ├── The Obsessed (Scott Wino) perform at the Lost Well, August 8th, 2021.mp3
+│   ├── The Philosophy of Yukio Mishima.json
+│   ├── The Philosophy of Yukio Mishima.mp3
+│   ├── The Philosophy of Yukio Mishima.srt
+│   ├── The Philosophy of Yukio Mishima.tsv
+│   ├── The Philosophy of Yukio Mishima.txt
+│   ├── The Philosophy of Yukio Mishima.vtt
+│   ├── The Ritual Madness of Rock & Roll - Sample Chapter and Q&A.mp3
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.json
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.mp3
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.srt
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.tsv
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.txt
+│   ├── The Secret History by Donna Tartt - A Philosophical Analysis.vtt
+│   ├── The Spirit of Music (According to Nietzsche).mp3
+│   ├── The Sword, Ripplefest Texas 2022.mp3
+│   ├── The Tree, by HP Lovecraft.mp3
+│   ├── The Turin Horse Hugging (Probably) Never Happened.mp3
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).json
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).mp3
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).srt
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).tsv
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).txt
+│   ├── The Veiled Goddess ｜ The Gay Science #6 (II.57-75).vtt
+│   ├── The Well - Mortal Bones (Memphis, 2023).json
+│   ├── The Well - Mortal Bones (Memphis, 2023).mp3
+│   ├── The Well - Mortal Bones (Memphis, 2023).srt
+│   ├── The Well - Mortal Bones (Memphis, 2023).tsv
+│   ├── The Well - Mortal Bones (Memphis, 2023).txt
+│   ├── The Well - Mortal Bones (Memphis, 2023).vtt
+│   ├── The hardest part of touring.mp3
+│   ├── The ＂authentic self＂ is relatively new -- Hans-Georg Moeller on Authenticity v⧸s Sincerity in Art.mp3
+│   ├── Them OM jams tho.mp3
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.json
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.mp3
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.srt
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.tsv
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.txt
+│   ├── Thought Falsifies Reality - NIETZSCHE’S FOUR GREAT ERRORS.vtt
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).json
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).mp3
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).srt
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).tsv
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).txt
+│   ├── Unto Others - Downtown (The Lost Well, Austin TX).vtt
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).json
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).mp3
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).srt
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).tsv
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).txt
+│   ├── Vice that Breeds Virtue ｜ The Gay Science #3 (I.21 - I.29).vtt
+│   ├── WAGNER & NIETZSCHE - What Really Happened.mp3
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).json
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).mp3
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).srt
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).tsv
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).txt
+│   ├── WAKE (Live in Dallas, 5⧸11⧸23).vtt
+│   ├── WAR.json
+│   ├── WAR.mp3
+│   ├── WAR.srt
+│   ├── WAR.tsv
+│   ├── WAR.txt
+│   ├── WAR.vtt
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).json
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).mp3
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).srt
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).tsv
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).txt
+│   ├── War Between Beauty and Truth ｜ The Gay Science #8 (II.84-II.97).vtt
+│   ├── Was Nietzsche Resentful？ Answering a YT Comment..mp3
+│   ├── Watain - clip of Malfeitor (Austin, March 2018).mp3
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).json
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).mp3
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).srt
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).tsv
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).txt
+│   ├── Weedeater - For Evan's Sake + $20 Peanut (Come and Take it Live at Austin, TX).vtt
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).json
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).mp3
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).srt
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).tsv
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).txt
+│   ├── Weedeater - Mancoon + Turkey Warlock (Austin, TX at Come and Take It Live).vtt
+│   ├── Weedeater opens their set, “Thank you for being a friend.” (July 2018).mp3
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.json
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.mp3
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.srt
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.tsv
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.txt
+│   ├── Weltgeist & Essentialsalts： Schopenhauer v⧸s Nietzsche on Art.vtt
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).json
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).mp3
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).srt
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).tsv
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).txt
+│   ├── What Advances the Species ｜ The Gay Science #1 (Preface, I.1 - I.9).vtt
+│   ├── What I wish more people understood about will to power #nietzsche #philosophy #philosophypodcast.mp3
+│   ├── What Nietzsche REALLY SAID about Master & Slave Morality - Twin Origins of Our Modern Values.mp3
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.json
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.mp3
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.srt
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.tsv
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.txt
+│   ├── What is Justice？ Analyzing The Oresteia by Aeschylus.vtt
+│   ├── What it's like to tour in an underground band - Destroyer of Light ＂Far Out ⧸ West Coast＂ (2022).mp3
+│   ├── Why I Create Such Good Podcasts.mp3
+│   ├── Why Jordan Peterson is WRONG about Nietzsche’s metaphor, “God is Dead”.mp3
+│   ├── Why Nietzsche Called Thucydides The “Cure for Plato”.mp3
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.json
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.mp3
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.srt
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.tsv
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.txt
+│   ├── Why YOU Don't Understand Master & Slave Morality ｜ Nietzsche Explained.vtt
+│   ├── Why did Nietzsche do this？.json
+│   ├── Why did Nietzsche do this？.mp3
+│   ├── Why did Nietzsche do this？.srt
+│   ├── Why did Nietzsche do this？.tsv
+│   ├── Why did Nietzsche do this？.txt
+│   ├── Why did Nietzsche do this？.vtt
+│   ├── Witchcryer (4⧸20⧸19) at Independence Brewing Co..mp3
+│   ├── Witchcryer - FINAL AUSTIN SHOW (Stoner Jam⧸SXSW 22).mp3
+│   ├── Witchcryer - Live at the Lost Well.mp3
+│   ├── Woorms (13th Floor, Austin TX).json
+│   ├── Woorms (13th Floor, Austin TX).mp3
+│   ├── Woorms (13th Floor, Austin TX).srt
+│   ├── Woorms (13th Floor, Austin TX).tsv
+│   ├── Woorms (13th Floor, Austin TX).txt
+│   ├── Woorms (13th Floor, Austin TX).vtt
+│   ├── YATRA - live Nov 7.mp3
+│   ├── You win some, you lose some.mp3
+│   ├── Zhaozhou's Dog.mp3
+│   ├── essentialsalts & mynaa miesnowan on the Superficiality of Culture.mp3
+│   ├── get-files.py
+│   ├── guitar daze (and answering Nietzsche⧸philosophy questions？).mp3
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.json
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.mp3
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.srt
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.tsv
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.txt
+│   ├── lo-fi q&a with essentialsalts 🧂 to relax⧸study to.vtt
+│   ├── “Many Lies Tell the Poets” ｜ The Gay Science #7 (II.76-II.83).mp3
+│   ├── “To Philosophize is to Learn to Die”： Michel de Montaigne (The Nietzsche Podcast #81).mp3
+│   └── ＂Seedless Flowers＂： A Conversation with Andrei Georgescu on Materialist Theories of Creativity.mp3
+├── external.historyPathClean.ahk
+├── external.ignoreWmanager.ahk
+├── external.inieditor.ahk
+├── external.translationFileCleaner.ahk
+├── failed-translation-attempt
+│   ├── kraven-arabic.txt
+│   ├── notes.txt
+│   ├── progress-file.log
+│   ├── progress.log
+│   ├── script.sh
+│   ├── summary-overview.txt
+│   └── translation.txt
+├── file-list.txt
+├── fonts
+│   ├── CursiveGalactic-Regular.g2n
+│   ├── CursiveGalactic-Regular.ttf
+│   ├── Sga-Regular.eot
+│   ├── Sga-Regular.svg
+│   ├── Sga-Regular.ttf
+│   ├── Sga-Regular.woff
+│   ├── Sga-Regular.woff2
+│   ├── dactyl.ttf
+│   ├── demo.html
+│   └── stylesheet.css
+├── gdip_min.ahk
+├── hello-world.jpg
+├── hotPaste.ahk
+├── i-use-arch-linux-btw.ahk
+├── index.html
+├── lethal-intelligence
+│   ├── Glowing review by Doom Debates.json
+│   ├── Glowing review by Doom Debates.mp3
+│   ├── Glowing review by Doom Debates.srt
+│   ├── Glowing review by Doom Debates.tsv
+│   ├── Glowing review by Doom Debates.txt
+│   ├── Glowing review by Doom Debates.vtt
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..json
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..mp3
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..srt
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..tsv
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..txt
+│   ├── Lethal Intelligence Guide [Part 1] - The Ultimate Introduction to Existential Risk from upcoming AI..vtt
+│   ├── Stephen Hawking on AI Existential Risk.json
+│   ├── Stephen Hawking on AI Existential Risk.mp3
+│   ├── Stephen Hawking on AI Existential Risk.srt
+│   ├── Stephen Hawking on AI Existential Risk.tsv
+│   ├── Stephen Hawking on AI Existential Risk.txt
+│   ├── Stephen Hawking on AI Existential Risk.vtt
+│   ├── The True Meaning of Artificial Super-Intelligence.json
+│   ├── The True Meaning of Artificial Super-Intelligence.mp3
+│   ├── The True Meaning of Artificial Super-Intelligence.srt
+│   ├── The True Meaning of Artificial Super-Intelligence.tsv
+│   ├── The True Meaning of Artificial Super-Intelligence.txt
+│   ├── The True Meaning of Artificial Super-Intelligence.vtt
+│   ├── The first AI millionaire.json
+│   ├── The first AI millionaire.mp3
+│   ├── The first AI millionaire.srt
+│   ├── The first AI millionaire.tsv
+│   ├── The first AI millionaire.txt
+│   ├── The first AI millionaire.vtt
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).json
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).mp3
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).srt
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).tsv
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).txt
+│   ├── The open problem of AI Corrigibility explained by Liron Shapira (@DoomDebates).vtt
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).json
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).mp3
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).srt
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).tsv
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).txt
+│   ├── [01⧸34] Lethal Intelligence Guide Preface (what to expect).vtt
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.json
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.mp3
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.srt
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.tsv
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.txt
+│   ├── [02⧸34] Job-Loss and Emerging Capabilities.vtt
+│   ├── [03⧸34] Agents - A paradigm shift.json
+│   ├── [03⧸34] Agents - A paradigm shift.mp3
+│   ├── [03⧸34] Agents - A paradigm shift.srt
+│   ├── [03⧸34] Agents - A paradigm shift.tsv
+│   ├── [03⧸34] Agents - A paradigm shift.txt
+│   ├── [03⧸34] Agents - A paradigm shift.vtt
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.json
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.mp3
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.srt
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.tsv
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.txt
+│   ├── [04⧸34] Agendic Architecture - A Surprisingly simple design.vtt
+│   ├── [05⧸34] Moving in Breakneck Speed!!.json
+│   ├── [05⧸34] Moving in Breakneck Speed!!.mp3
+│   ├── [05⧸34] Moving in Breakneck Speed!!.srt
+│   ├── [05⧸34] Moving in Breakneck Speed!!.tsv
+│   ├── [05⧸34] Moving in Breakneck Speed!!.txt
+│   ├── [05⧸34] Moving in Breakneck Speed!!.vtt
+│   ├── [06⧸34] Narrow vs General AI.json
+│   ├── [06⧸34] Narrow vs General AI.mp3
+│   ├── [06⧸34] Narrow vs General AI.srt
+│   ├── [06⧸34] Narrow vs General AI.tsv
+│   ├── [06⧸34] Narrow vs General AI.txt
+│   ├── [06⧸34] Narrow vs General AI.vtt
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.json
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.mp3
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.srt
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.tsv
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.txt
+│   ├── [07⧸34 Human General Intelligence and Freedom of Will.vtt
+│   ├── [08⧸34] Situational Awareness.json
+│   ├── [08⧸34] Situational Awareness.mp3
+│   ├── [08⧸34] Situational Awareness.srt
+│   ├── [08⧸34] Situational Awareness.tsv
+│   ├── [08⧸34] Situational Awareness.txt
+│   ├── [08⧸34] Situational Awareness.vtt
+│   ├── [09⧸34] Self Preservation.json
+│   ├── [09⧸34] Self Preservation.mp3
+│   ├── [09⧸34] Self Preservation.srt
+│   ├── [09⧸34] Self Preservation.tsv
+│   ├── [09⧸34] Self Preservation.txt
+│   ├── [09⧸34] Self Preservation.vtt
+│   ├── [10⧸34] The Bright Side.json
+│   ├── [10⧸34] The Bright Side.mp3
+│   ├── [10⧸34] The Bright Side.srt
+│   ├── [10⧸34] The Bright Side.tsv
+│   ├── [10⧸34] The Bright Side.txt
+│   ├── [10⧸34] The Bright Side.vtt
+│   ├── [11⧸34] Alignment Problem.json
+│   ├── [11⧸34] Alignment Problem.mp3
+│   ├── [11⧸34] Alignment Problem.srt
+│   ├── [11⧸34] Alignment Problem.tsv
+│   ├── [11⧸34] Alignment Problem.txt
+│   ├── [11⧸34] Alignment Problem.vtt
+│   ├── [12⧸34] Misconception of Common Sense.json
+│   ├── [12⧸34] Misconception of Common Sense.mp3
+│   ├── [12⧸34] Misconception of Common Sense.srt
+│   ├── [12⧸34] Misconception of Common Sense.tsv
+│   ├── [12⧸34] Misconception of Common Sense.txt
+│   ├── [12⧸34] Misconception of Common Sense.vtt
+│   ├── [13⧸34] True Meaning of ASI.json
+│   ├── [13⧸34] True Meaning of ASI.mp3
+│   ├── [13⧸34] True Meaning of ASI.srt
+│   ├── [13⧸34] True Meaning of ASI.tsv
+│   ├── [13⧸34] True Meaning of ASI.txt
+│   ├── [13⧸34] True Meaning of ASI.vtt
+│   ├── [14⧸34] We move like plants!.json
+│   ├── [14⧸34] We move like plants!.mp3
+│   ├── [14⧸34] We move like plants!.srt
+│   ├── [14⧸34] We move like plants!.tsv
+│   ├── [14⧸34] We move like plants!.txt
+│   ├── [14⧸34] We move like plants!.vtt
+│   ├── [15⧸34] Sheer Scale Of Complexity.json
+│   ├── [15⧸34] Sheer Scale Of Complexity.mp3
+│   ├── [15⧸34] Sheer Scale Of Complexity.srt
+│   ├── [15⧸34] Sheer Scale Of Complexity.tsv
+│   ├── [15⧸34] Sheer Scale Of Complexity.txt
+│   ├── [15⧸34] Sheer Scale Of Complexity.vtt
+│   ├── [16⧸34] Boundless Disrupting Innovation.json
+│   ├── [16⧸34] Boundless Disrupting Innovation.mp3
+│   ├── [16⧸34] Boundless Disrupting Innovation.srt
+│   ├── [16⧸34] Boundless Disrupting Innovation.tsv
+│   ├── [16⧸34] Boundless Disrupting Innovation.txt
+│   ├── [16⧸34] Boundless Disrupting Innovation.vtt
+│   ├── [17⧸34] Unfathomable.json
+│   ├── [17⧸34] Unfathomable.mp3
+│   ├── [17⧸34] Unfathomable.srt
+│   ├── [17⧸34] Unfathomable.tsv
+│   ├── [17⧸34] Unfathomable.txt
+│   ├── [17⧸34] Unfathomable.vtt
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.json
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.mp3
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.srt
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.tsv
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.txt
+│   ├── [18⧸34] Discontinuities on our planet - Mountains changing shape.vtt
+│   ├── [19⧸34] The Strongest Force in the Universe!.json
+│   ├── [19⧸34] The Strongest Force in the Universe!.mp3
+│   ├── [19⧸34] The Strongest Force in the Universe!.srt
+│   ├── [19⧸34] The Strongest Force in the Universe!.tsv
+│   ├── [19⧸34] The Strongest Force in the Universe!.txt
+│   ├── [19⧸34] The Strongest Force in the Universe!.vtt
+│   ├── [20⧸34] Incompatibility Clashes.json
+│   ├── [20⧸34] Incompatibility Clashes.mp3
+│   ├── [20⧸34] Incompatibility Clashes.srt
+│   ├── [20⧸34] Incompatibility Clashes.tsv
+│   ├── [20⧸34] Incompatibility Clashes.txt
+│   ├── [20⧸34] Incompatibility Clashes.vtt
+│   ├── [21⧸34] Delusion of Control.json
+│   ├── [21⧸34] Delusion of Control.mp3
+│   ├── [21⧸34] Delusion of Control.srt
+│   ├── [21⧸34] Delusion of Control.tsv
+│   ├── [21⧸34] Delusion of Control.txt
+│   ├── [21⧸34] Delusion of Control.vtt
+│   ├── [22⧸34] Core principle.json
+│   ├── [22⧸34] Core principle.mp3
+│   ├── [22⧸34] Core principle.srt
+│   ├── [22⧸34] Core principle.tsv
+│   ├── [22⧸34] Core principle.txt
+│   ├── [22⧸34] Core principle.vtt
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.json
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.mp3
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.srt
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.tsv
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.txt
+│   ├── [23⧸34] Giant Inscrutable Matrices - Mechanistic Interpretability.vtt
+│   ├── [24⧸34] Inner Misalignment.json
+│   ├── [24⧸34] Inner Misalignment.mp3
+│   ├── [24⧸34] Inner Misalignment.srt
+│   ├── [24⧸34] Inner Misalignment.tsv
+│   ├── [24⧸34] Inner Misalignment.txt
+│   ├── [24⧸34] Inner Misalignment.vtt
+│   ├── [25⧸34] Deceptive Alignment.json
+│   ├── [25⧸34] Deceptive Alignment.mp3
+│   ├── [25⧸34] Deceptive Alignment.srt
+│   ├── [25⧸34] Deceptive Alignment.tsv
+│   ├── [25⧸34] Deceptive Alignment.txt
+│   ├── [25⧸34] Deceptive Alignment.vtt
+│   ├── [26⧸34] Specification Gaming.json
+│   ├── [26⧸34] Specification Gaming.mp3
+│   ├── [26⧸34] Specification Gaming.srt
+│   ├── [26⧸34] Specification Gaming.tsv
+│   ├── [26⧸34] Specification Gaming.txt
+│   ├── [26⧸34] Specification Gaming.vtt
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.json
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.mp3
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.srt
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.tsv
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.txt
+│   ├── [27⧸34] Resistance To Modifications - Corrigibility Problem.vtt
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.json
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.mp3
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.srt
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.tsv
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.txt
+│   ├── [28⧸34] Reward Hacking - GoodHart's Law.vtt
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.json
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.mp3
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.srt
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.tsv
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.txt
+│   ├── [29⧸34] FutureProof-Specifications ⧸ Future-Architectures.vtt
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.json
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.mp3
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.srt
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.tsv
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.txt
+│   ├── [30⧸34] Human-Incompatible ⧸ Astronomical Suffering Risk.vtt
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.json
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.mp3
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.srt
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.tsv
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.txt
+│   ├── [31⧸34] Orthogonality Thesis - Calculating-Pi.vtt
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.json
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.mp3
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.srt
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.tsv
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.txt
+│   ├── [32⧸34] Anthropocene - Human General Intelligence.vtt
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.json
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.mp3
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.srt
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.tsv
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.txt
+│   ├── [33⧸34] Bug or Feature？ - Tip of the iceberg.vtt
+│   ├── [34⧸34] End Of Part 1.json
+│   ├── [34⧸34] End Of Part 1.mp3
+│   ├── [34⧸34] End Of Part 1.srt
+│   ├── [34⧸34] End Of Part 1.tsv
+│   ├── [34⧸34] End Of Part 1.txt
+│   ├── [34⧸34] End Of Part 1.vtt
+│   ├── detailed-summary.txt
+│   ├── get-summaries.sh
+│   └── progress.log
+├── locale_test.ahk
+├── logo.png
+├── mac super resolution first session.txt
+├── math code.txt
+├── multi.ahk
+├── mygithub.ahk
+├── newtons method.txt
+├── noformatting_paste.ahk
+├── old-windows.ahk
+├── pformat.commonformats.ahk
+├── pformat.noformatting.ahk
+├── pformat.sentencecase.ahk
+├── pluginManager.ahk
+├── process.sh
+├── publicAPI.ahk
+├── quick-help.ahk
+├── rhinoscript.txt
+├── sample-01.png
+├── sample-02.png
+├── sample-03.png
+├── sample-04.png
+├── sample-05.png
+├── sample-06.png
+├── sample-07.png
+├── searchPasteMode.ahk
+├── settingsHelper.ahk
+├── sharp_enter.ahk
+├── styles.css
+├── swap-escape.reg
+├── test-cursors.html
+├── test.ahk
+├── toarabic.ahk
+├── toarabic.exe
+├── toitalic.ahk
+├── tophone.ahk
+├── tophone.exe
+├── tosga.ahk
+├── translations.ahk
+├── unhtml.ahk
+├── unimono.ahk
+├── untitled.txt
+├── updateClipjumpClipboard.ahk
+├── vim-scripts.ahk
+├── vim-sripts.ahk
+├── volume_control.ahk
+├── vorticon-restore.reg
+└── vorticon.reg
+
+6 directories, 1401 files

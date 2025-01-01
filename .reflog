@@ -1,0 +1,297 @@
+445c413 HEAD@{0}: rebase (finish): returning to refs/heads/volsorium
+445c413 HEAD@{1}: rebase (squash): Simplectomy Generator
+97dbc91 HEAD@{2}: rebase (squash): # This is a combination of 2 commits.
+fd6b62d HEAD@{3}: rebase (start): checkout HEAD~3
+63aed6c HEAD@{4}: commit: Cleanup
+3ba3e99 HEAD@{5}: rebase (finish): returning to refs/heads/volsorium
+3ba3e99 HEAD@{6}: rebase (squash): Simplectomy Generator
+c2f9696 HEAD@{7}: rebase (squash): # This is a combination of 2 commits.
+33b87ac HEAD@{8}: rebase (start): checkout HEAD~3
+0924173 HEAD@{9}: commit: Cleanup
+f0b4534 HEAD@{10}: rebase (finish): returning to refs/heads/volsorium
+f0b4534 HEAD@{11}: rebase (squash): Simplectomy Generator
+dddcb81 HEAD@{12}: rebase (squash): # This is a combination of 2 commits.
+6eb66d9 HEAD@{13}: rebase (start): checkout HEAD~3
+9f22366 HEAD@{14}: commit: Cleanup
+5d8b84a HEAD@{15}: rebase (finish): returning to refs/heads/volsorium
+5d8b84a HEAD@{16}: rebase (squash): Simplectomy Generator
+f4b78e9 HEAD@{17}: rebase (squash): # This is a combination of 2 commits.
+70bbf7d HEAD@{18}: rebase (start): checkout HEAD~3
+38247f2 HEAD@{19}: commit: Cleanup
+f1a08fd HEAD@{20}: commit: Cleanup
+70bbf7d HEAD@{21}: rebase (finish): returning to refs/heads/volsorium
+70bbf7d HEAD@{22}: rebase (squash): Simplectomy Generator
+7b03aa1 HEAD@{23}: rebase (start): checkout HEAD~2
+183b701 HEAD@{24}: commit: Cleanup
+7b03aa1 HEAD@{25}: rebase (finish): returning to refs/heads/volsorium
+7b03aa1 HEAD@{26}: rebase (squash): Simplectomy Generator
+93578cc HEAD@{27}: rebase (start): checkout HEAD~2
+d85bbd4 HEAD@{28}: commit: Cleanup
+93578cc HEAD@{29}: rebase (finish): returning to refs/heads/volsorium
+93578cc HEAD@{30}: rebase (squash): Simplectomy Generator
+f52db6b HEAD@{31}: rebase (start): checkout HEAD~2
+4ca4023 HEAD@{32}: commit: Cleanup
+f52db6b HEAD@{33}: rebase (finish): returning to refs/heads/volsorium
+f52db6b HEAD@{34}: rebase (squash): Simplectomy Generator
+a21eaa6 HEAD@{35}: rebase (start): checkout HEAD~2
+b283832 HEAD@{36}: commit: Cleanup
+a21eaa6 HEAD@{37}: rebase (finish): returning to refs/heads/volsorium
+a21eaa6 HEAD@{38}: rebase (squash): Simplectomy Generator
+8377ea8 HEAD@{39}: rebase (start): checkout HEAD~2
+4d42b91 HEAD@{40}: commit: Cleanup
+8377ea8 HEAD@{41}: rebase (finish): returning to refs/heads/volsorium
+8377ea8 HEAD@{42}: rebase (squash): Simplectomy Generator
+ef63d75 HEAD@{43}: rebase (start): checkout HEAD~2
+9b54f56 HEAD@{44}: commit: Update Reflog
+ef63d75 HEAD@{45}: rebase (finish): returning to refs/heads/volsorium
+ef63d75 HEAD@{46}: rebase (squash): Simplectomy Generator
+14e48f1 HEAD@{47}: rebase (start): checkout HEAD~2
+c0f5346 HEAD@{48}: commit: Update Reflog
+14e48f1 HEAD@{49}: rebase (finish): returning to refs/heads/volsorium
+14e48f1 HEAD@{50}: rebase (squash): Simplectomy Generator
+ff1fcc2 HEAD@{51}: rebase (start): checkout HEAD~2
+ca86411 HEAD@{52}: commit: Update Reflog
+ff1fcc2 HEAD@{53}: rebase (finish): returning to refs/heads/volsorium
+ff1fcc2 HEAD@{54}: rebase (squash): Simplectomy Generator
+c1e72c8 HEAD@{55}: rebase (start): checkout HEAD~2
+4465e3f HEAD@{56}: commit: Update Reflog
+c1e72c8 HEAD@{57}: rebase (finish): returning to refs/heads/volsorium
+c1e72c8 HEAD@{58}: rebase (squash): Simplectomy Generator
+b3c9e39 HEAD@{59}: rebase (start): checkout HEAD~2
+4cf4e72 HEAD@{60}: commit: Update Reflog
+b3c9e39 HEAD@{61}: rebase (finish): returning to refs/heads/volsorium
+b3c9e39 HEAD@{62}: rebase (squash): Simplectomy Generator
+01c1a1b HEAD@{63}: rebase (start): checkout HEAD~2
+fe32053 HEAD@{64}: commit: Update Reflog
+01c1a1b HEAD@{65}: rebase (finish): returning to refs/heads/volsorium
+01c1a1b HEAD@{66}: rebase (squash): Simplectomy Generator
+63842f8 HEAD@{67}: rebase (start): checkout HEAD~2
+6bb8d02 HEAD@{68}: commit: Added Cursive Galactic
+63842f8 HEAD@{69}: rebase (finish): returning to refs/heads/volsorium
+63842f8 HEAD@{70}: rebase (squash): Simplectomy Generator
+70e34a9 HEAD@{71}: rebase (start): checkout HEAD~2
+9546f06 HEAD@{72}: commit: Update Terminal Simulator
+70e34a9 HEAD@{73}: rebase (finish): returning to refs/heads/volsorium
+70e34a9 HEAD@{74}: rebase (squash): Simplectomy Generator
+795e340 HEAD@{75}: rebase (start): checkout HEAD~2
+676704d HEAD@{76}: commit: Update Terminal Simulator
+795e340 HEAD@{77}: rebase (finish): returning to refs/heads/volsorium
+795e340 HEAD@{78}: rebase (squash): Simplectomy Generator
+b78fe63 HEAD@{79}: rebase (start): checkout HEAD~2
+bde32ad HEAD@{80}: commit: Update Terminal Simulator
+b78fe63 HEAD@{81}: rebase (finish): returning to refs/heads/volsorium
+b78fe63 HEAD@{82}: rebase (squash): Simplectomy Generator
+c3dc390 HEAD@{83}: rebase (start): checkout HEAD~2
+184c3d2 HEAD@{84}: commit: Rebasing
+c3dc390 HEAD@{85}: commit (amend): í¸ší¸ªí¸®í¸±í¸­í¸¦í¸¤í¸µí¸°í¸®í¸º
+58628a3 HEAD@{86}: rebase (finish): returning to refs/heads/volsorium
+58628a3 HEAD@{87}: rebase (squash): í¸ší¸ªí¸®í¸±í¸­í¸¦í¸¤í¸µí¸°í¸®í¸º
+74e2ca6 HEAD@{88}: rebase (start): checkout HEAD~2
+3cd8d08 HEAD@{89}: commit: Added italic keyboard
+74e2ca6 HEAD@{90}: rebase (finish): returning to refs/heads/volsorium
+74e2ca6 HEAD@{91}: rebase (squash): Ã­Â¸ÂšÃ­Â¸ÂªÃ­Â¸Â®Ã­Â¸Â±Ã­Â¸Â­Ã­Â¸Â¦Ã­Â¸Â¤Ã­Â¸ÂµÃ­Â¸Â°Ã­Â¸Â®Ã­Â¸Âº
+44303b3 HEAD@{92}: rebase (squash): # This is a combination of 2 commits.
+f54010a HEAD@{93}: rebase (start): checkout HEAD~2
+3d1fd16 HEAD@{94}: pull: Merge made by the 'ort' strategy.
+f54010a HEAD@{95}: commit (amend): í¸ší¸ªí¸®í¸±í¸­í¸¦í¸¤í¸µí¸°í¸®í¸º
+09308ed HEAD@{96}: rebase (finish): returning to refs/heads/volsorium
+09308ed HEAD@{97}: rebase (squash): Symplectomy Generator
+cc15e84 HEAD@{98}: rebase (squash): # This is a combination of 2 commits.
+712e490 HEAD@{99}: rebase (start): checkout HEAD~3
+4f5c3fa HEAD@{100}: rebase (finish): returning to refs/heads/volsorium
+4f5c3fa HEAD@{101}: rebase (squash): Create Index.html
+b95c46c HEAD@{102}: rebase (start): checkout HEAD~2
+5880cbf HEAD@{103}: pull: Fast-forward
+25d2489 HEAD@{104}: commit (amend): Symplectomy Generator
+093f089 HEAD@{105}: rebase (finish): returning to refs/heads/volsorium
+093f089 HEAD@{106}: rebase (squash): Symplectomy Generator
+f25c674 HEAD@{107}: rebase (squash): # This is a combination of 2 commits.
+ec1569c HEAD@{108}: rebase (continue): Symplectomy Generator
+7f1ac33 HEAD@{109}: rebase (continue): Symplectomy Generator
+2e098d6 HEAD@{110}: rebase (continue): Symplectomy Generator
+399d421 HEAD@{111}: rebase (squash): # This is a combination of 4 commits.
+50b7160 HEAD@{112}: rebase (squash): # This is a combination of 3 commits.
+9947549 HEAD@{113}: rebase (squash): # This is a combination of 2 commits.
+d3fc0cf HEAD@{114}: rebase (continue): Symplectomy Generator
+1cb221d HEAD@{115}: rebase (continue): Symplectomy Generator
+d226c66 HEAD@{116}: rebase (continue): Symplectomy Generator
+8f689ee HEAD@{117}: rebase (continue): Symplectomy Generator
+cb00d2f HEAD@{118}: rebase (continue): Symplectomy Generator
+3055c93 HEAD@{119}: rebase (continue): Symplectomy Generator
+206dcfb HEAD@{120}: rebase (squash): # This is a combination of 8 commits.
+346e789 HEAD@{121}: rebase (squash): # This is a combination of 7 commits.
+561d57d HEAD@{122}: rebase (squash): # This is a combination of 6 commits.
+f859ca0 HEAD@{123}: rebase (squash): # This is a combination of 5 commits.
+1497cb7 HEAD@{124}: rebase (squash): # This is a combination of 4 commits.
+3c99bb3 HEAD@{125}: rebase (squash): # This is a combination of 3 commits.
+8bc2d4d HEAD@{126}: rebase (squash): # This is a combination of 2 commits.
+a387fb2 HEAD@{127}: rebase (continue): Symplectomy Generator
+d227071 HEAD@{128}: rebase (squash): # This is a combination of 2 commits.
+98c90be HEAD@{129}: rebase (start): checkout HEAD~3
+ea3d9b0 HEAD@{130}: commit: Update
+55f9ed2 HEAD@{131}: checkout: moving from main to volsorium
+bef0bf0 HEAD@{132}: rebase (finish): returning to refs/heads/main
+bef0bf0 HEAD@{133}: rebase (squash): ğ˜šğ˜ªğ˜®ğ˜±ğ˜­ğ˜¦ğ˜¤ğ˜µğ˜°ğ˜®ğ˜º ğ˜ğ˜¦ğ˜¯ğ˜¦ğ˜³ğ˜¢ğ˜µğ˜°ğ˜³
+4d9a83b HEAD@{134}: rebase (start): checkout HEAD~2
+35dd259 HEAD@{135}: rebase (finish): returning to refs/heads/main
+35dd259 HEAD@{136}: rebase (squash): ğ˜šğ˜ªğ˜®ğ˜±ğ˜­ğ˜¦ğ˜¤ğ˜µğ˜°ğ˜®ğ˜º ğ˜ğ˜¦ğ˜¯ğ˜¦ğ˜³ğ˜¢ğ˜µğ˜°ğ˜³
+b2dc52c HEAD@{137}: rebase (start): checkout HEAD~2
+4d8f246 HEAD@{138}: commit: Neofetch Update
+b2dc52c HEAD@{139}: rebase (finish): returning to refs/heads/main
+b2dc52c HEAD@{140}: rebase (squash): ğ˜šğ˜ªğ˜®ğ˜±ğ˜­ğ˜¦ğ˜¤ğ˜µğ˜°ğ˜®ğ˜º ğ˜ğ˜¦ğ˜¯ğ˜¦ğ˜³ğ˜¢ğ˜µğ˜°ğ˜³
+f64f011 HEAD@{141}: rebase (squash): # This is a combination of 2 commits.
+14ba389 HEAD@{142}: rebase (pick): ğ˜šğ˜ªğ˜®ğ˜±ğ˜­ğ˜¦ğ˜¤ğ˜µğ˜°ğ˜®ğ˜º ğ˜ğ˜¦ğ˜¯ğ˜¦ğ˜³ğ˜¢ğ˜µğ˜°ğ˜³
+4d9a83b HEAD@{143}: rebase (start): checkout HEAD~2
+1b1d4f5 HEAD@{144}: commit: Neofetch Update
+2d676ba HEAD@{145}: pull: Merge made by the 'ort' strategy.
+4d9a83b HEAD@{146}: commit: Neofetch Update
+a8c946f HEAD@{147}: checkout: moving from volsorium to main
+55f9ed2 HEAD@{148}: pull: Merge made by the 'ort' strategy.
+98c90be HEAD@{149}: rebase (finish): returning to refs/heads/volsorium
+98c90be HEAD@{150}: rebase (pick): Transparent Cursors
+712e490 HEAD@{151}: rebase (pick): Cleaning up
+6eb66d9 HEAD@{152}: rebase (pick): Cleaning up
+33b87ac HEAD@{153}: rebase (pick): Test cursors
+fd6b62d HEAD@{154}: rebase (pick): Test cursors
+a1652ee HEAD@{155}: rebase (pick): Experimenting with cursors
+80d985f HEAD@{156}: rebase (pick): Experimenting with cursors
+c2ef650 HEAD@{157}: rebase (pick): Experimenting with cursors
+615cab1 HEAD@{158}: rebase (pick): Doom Debates
+7513de0 HEAD@{159}: rebase (pick): Work in Progress
+7cd84ea HEAD@{160}: rebase (pick): Holistic Summarizer
+3da1004 HEAD@{161}: rebase (pick): Phi-4 Summaries
+bedaef2 HEAD@{162}: rebase (pick): Volsorial Update
+7a6fac3 HEAD@{163}: rebase (pick): Update
+db46185 HEAD@{164}: rebase (pick): Minor Updates
+29a5049 HEAD@{165}: rebase (pick): Mistral Summarizer
+edfc738 HEAD@{166}: rebase (pick): Update
+3b85cfd HEAD@{167}: rebase (pick): Get Github CLI
+dc88c60 HEAD@{168}: rebase (pick): Update
+1edf9ea HEAD@{169}: rebase (pick): Processing
+21717f6 HEAD@{170}: rebase (pick): update
+f0a17c8 HEAD@{171}: commit (rebase): Imported from example
+d538e24 HEAD@{172}: rebase (start): checkout HEAD~5
+e3fb83c HEAD@{173}: pull: Fast-forward
+9496167 HEAD@{174}: commit: Cleaning up
+657f0b2 HEAD@{175}: commit: Test cursors
+3bd8f80 HEAD@{176}: commit: Test cursors
+74c0439 HEAD@{177}: commit: Experimenting with cursors
+65b56f0 HEAD@{178}: commit: Experimenting with cursors
+baf7272 HEAD@{179}: commit: Experimenting with cursors
+09899b6 HEAD@{180}: rebase (finish): returning to refs/heads/volsorium
+09899b6 HEAD@{181}: rebase (squash): Doom Debates
+c87da2a HEAD@{182}: rebase (start): checkout HEAD~2
+7d3a8cd HEAD@{183}: commit: Done for now
+c87da2a HEAD@{184}: rebase (finish): returning to refs/heads/volsorium
+c87da2a HEAD@{185}: rebase (squash): Doom Debates
+97f51fd HEAD@{186}: rebase (start): checkout HEAD~2
+9c1408a HEAD@{187}: commit: Update
+97f51fd HEAD@{188}: rebase (finish): returning to refs/heads/volsorium
+97f51fd HEAD@{189}: rebase (squash): Doom Debates
+95889ed HEAD@{190}: rebase (start): checkout HEAD~2
+fb6b88a HEAD@{191}: commit: Update
+95889ed HEAD@{192}: rebase (finish): returning to refs/heads/volsorium
+95889ed HEAD@{193}: rebase (squash): Doom Debates
+f6487f9 HEAD@{194}: rebase (start): checkout HEAD~2
+74c2209 HEAD@{195}: commit: Update
+f6487f9 HEAD@{196}: rebase (finish): returning to refs/heads/volsorium
+f6487f9 HEAD@{197}: rebase (squash): Doom Debates
+8ee0b5a HEAD@{198}: rebase (start): checkout HEAD~2
+f65bcb4 HEAD@{199}: commit: Update
+8ee0b5a HEAD@{200}: rebase (finish): returning to refs/heads/volsorium
+8ee0b5a HEAD@{201}: rebase (squash): Doom Debates
+b97d334 HEAD@{202}: rebase (start): checkout HEAD~2
+b4357a0 HEAD@{203}: commit: Update
+b97d334 HEAD@{204}: rebase (finish): returning to refs/heads/volsorium
+b97d334 HEAD@{205}: rebase (squash): Doom Debates
+2ed13dd HEAD@{206}: rebase (start): checkout HEAD~2
+c4ed579 HEAD@{207}: commit: Doom Debates
+2ed13dd HEAD@{208}: rebase (finish): returning to refs/heads/volsorium
+2ed13dd HEAD@{209}: rebase (squash): Doom Debates
+e8df6d0 HEAD@{210}: rebase (start): checkout HEAD~2
+2c0cae4 HEAD@{211}: commit: Update
+e8df6d0 HEAD@{212}: rebase (finish): returning to refs/heads/volsorium
+e8df6d0 HEAD@{213}: rebase (squash): Doom Debates
+52f51fb HEAD@{214}: rebase (start): checkout HEAD~2
+25fde39 HEAD@{215}: commit: Update
+52f51fb HEAD@{216}: rebase (finish): returning to refs/heads/volsorium
+52f51fb HEAD@{217}: rebase (squash): Doom Debates
+9989179 HEAD@{218}: rebase (start): checkout HEAD~2
+375de49 HEAD@{219}: rebase (finish): returning to refs/heads/volsorium
+375de49 HEAD@{220}: rebase (squash): Doom Debates
+4d4ba22 HEAD@{221}: rebase (squash): # This is a combination of 3 commits.
+84c011f HEAD@{222}: rebase (squash): # This is a combination of 2 commits.
+df261ae HEAD@{223}: rebase (start): checkout HEAD~4
+fdf0b1e HEAD@{224}: commit: Update
+bb66124 HEAD@{225}: commit: Update
+68b9ac7 HEAD@{226}: commit: Doom Debates
+df261ae HEAD@{227}: commit: Doom Debates
+9989179 HEAD@{228}: checkout: moving from main to volsorium
+a8c946f HEAD@{229}: pull: Fast-forward
+5393fd9 HEAD@{230}: pull: Fast-forward
+aabb6ed HEAD@{231}: checkout: moving from volsorium to main
+9989179 HEAD@{232}: commit: Update
+607456b HEAD@{233}: commit: Work in Progress
+1354049 HEAD@{234}: commit: Holistic Summarizer
+4228d96 HEAD@{235}: commit: Phi-4 Summaries
+6e795be HEAD@{236}: rebase (finish): returning to refs/heads/volsorium
+6e795be HEAD@{237}: rebase (squash): Volsorial Update
+66ccd9f HEAD@{238}: rebase (start): checkout HEAD~2
+641bf60 HEAD@{239}: commit: Minor Adjustments
+66ccd9f HEAD@{240}: rebase (finish): returning to refs/heads/volsorium
+66ccd9f HEAD@{241}: rebase (squash): Volsorial Update
+1f695a6 HEAD@{242}: rebase (start): checkout HEAD~2
+17ee4eb HEAD@{243}: rebase (finish): returning to refs/heads/volsorium
+17ee4eb HEAD@{244}: rebase (squash): Document Summarizer
+40244f9 HEAD@{245}: rebase (start): checkout HEAD~2
+5702478 HEAD@{246}: rebase (finish): returning to refs/heads/volsorium
+5702478 HEAD@{247}: rebase (squash): Document Summarizer
+b975845 HEAD@{248}: rebase (start): checkout HEAD~2
+8520756 HEAD@{249}: commit: Document Summarizer
+b975845 HEAD@{250}: commit: Document Summarizer
+40244f9 HEAD@{251}: commit: Update
+1f695a6 HEAD@{252}: commit: Volsorial Update
+ca1f9d9 HEAD@{253}: commit: Update
+73f4bed HEAD@{254}: commit: Minor Updates
+cd85cb9 HEAD@{255}: commit: Mistral Summarizer
+30a15b2 HEAD@{256}: reset: moving to 30a15b2874f5748183b9883e512861dff3f63ba4
+7bfd54f HEAD@{257}: pull: Merge made by the 'ort' strategy.
+30a15b2 HEAD@{258}: commit (amend): Update
+af23369 HEAD@{259}: commit (amend): â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’
+1d3ef95 HEAD@{260}: commit (amend): í¸œí¸±í¸¥í¸¢í¸µí¸¦
+e2b13cf HEAD@{261}: commit (amend): Update
+4dc571b HEAD@{262}: commit: Update
+5f172db HEAD@{263}: commit: Get Github CLI
+e6a9d3f HEAD@{264}: commit: Update
+53a02cc HEAD@{265}: rebase (finish): returning to refs/heads/volsorium
+53a02cc HEAD@{266}: rebase (squash): Processing
+1c8ac2b HEAD@{267}: rebase (start): checkout HEAD~2
+1be00a4 HEAD@{268}: commit: Processing
+1c8ac2b HEAD@{269}: rebase (finish): returning to refs/heads/volsorium
+1c8ac2b HEAD@{270}: rebase (squash): Processing
+e794046 HEAD@{271}: rebase (squash): # This is a combination of 2 commits.
+3179125 HEAD@{272}: rebase (start): checkout HEAD~2
+d26cc55 HEAD@{273}: pull: Merge made by the 'ort' strategy.
+3179125 HEAD@{274}: rebase (finish): returning to refs/heads/volsorium
+3179125 HEAD@{275}: rebase (squash): Update
+55cda0e HEAD@{276}: rebase (start): checkout HEAD~2
+5a7af2d HEAD@{277}: commit: Processessing
+55cda0e HEAD@{278}: commit: Update
+73162ca HEAD@{279}: commit: update
+5077a9d HEAD@{280}: pull: Merge made by the 'ort' strategy.
+d798f4e HEAD@{281}: rebase (finish): returning to refs/heads/volsorium
+d798f4e HEAD@{282}: rebase (squash): Update
+f7b1b1e HEAD@{283}: rebase: fast-forward
+4e210c5 HEAD@{284}: rebase (start): checkout HEAD~2
+fc7076c HEAD@{285}: commit: update
+f7b1b1e HEAD@{286}: checkout: moving from volsorium to volsorium
+f7b1b1e HEAD@{287}: commit: Update
+4e210c5 HEAD@{288}: pull: Fast-forward
+dab9fe5 HEAD@{289}: commit: Update
+86aad76 HEAD@{290}: commit: Update
+eafe724 HEAD@{291}: commit: Update
+4829a24 HEAD@{292}: commit: Update
+aabb6ed HEAD@{293}: checkout: moving from main to volsorium
+aabb6ed HEAD@{294}: pull: Fast-forward
+272301b HEAD@{295}: reset: moving to HEAD
+272301b HEAD@{296}: clone: from https://github.com/standardgalactic/example

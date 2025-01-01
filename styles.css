@@ -1,0 +1,42 @@
+/* Force dark background and green text */
+body {
+  margin: 0;
+  background-color: black !important; /* Force black background */
+  color: #44ff44 !important;          /* Force green text */
+  font-family: 'Sga Regular', 'Courier New', Courier, monospace !important;
+  cursor: url('cursor/Normal Select v4.1.ani'), default !important;
+
+  /* Allow page to scroll if something extends beyond 100vh */
+  overflow: auto; /* or "hidden" if you truly never want scrollbars */
+}
+
+/*
+  Terminal content area
+  - We use height: calc(100vh - 60px) so there's room for a ~60px footer.
+  - Overflow-y: auto to allow scrolling in the terminal text area.
+*/
+#terminal {
+  position: relative;
+  box-sizing: border-box;
+  padding: 20px;
+  padding-bottom: 20px;   /* Enough so the terminal text won't hide behind a footer */
+  width: 100%;
+
+  /* If you do have a fixed footer ~60px high, subtract it from 100vh */
+  height: calc(100vh - 20px);
+
+  /* Large text size with your custom cursor */
+  font-size: 30px !important;
+  cursor: url('cursor/Text Select v4.1.ani'), text !important;
+  white-space: pre-wrap;
+
+  /* Allow vertical scrolling inside the terminal, hide scrollbars visually */
+  overflow-y: auto !important;
+  -ms-overflow-style: none;   /* IE and Edge hide scrollbars */
+  scrollbar-width: none;      /* Firefox hide scrollbars */
+}
+
+#terminal::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}

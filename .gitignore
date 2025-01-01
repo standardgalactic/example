@@ -1,0 +1,25 @@
+# Ignore all .mp3 files
+*.mp3
+*.mp4
+
+*.w4a
+*.webm
+
+*.mkv
+
+# Ignore all .m4a files
+*.m4a
+
+
+*.json
+
+*.srt
+
+*.tsv
+
+*.vtt
+
+
+
+*.part
+

@@ -1,4 +1,3 @@
-#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -30,6 +29,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
 
+=======
+=======
 ::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
 
 
@@ -48,6 +49,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 )
 Return
 
+
 ::getsubs::
 (
 find . -maxdepth 1 -type d -exec sh -c '
@@ -60,6 +62,64 @@ for dir in "$@"; do
         fi
     done
     cd - >/dev/null  # Go back to the original directory and suppress output
+done
+' sh {} +
+`n
+)
+return
+
+
+
+::getsubs -v::
+(
+find . -maxdepth 1 -type d -exec sh -c '
+shopt -s nullglob
+for dir in "$@"; do
+    echo "Attempting to enter directory: $dir"
+    if cd "$dir"; then
+        echo "Entered directory: $dir"
+        # Process files in each directory
+        for file in *.mp3 *.m4a *.webm; do
+            echo "Found file: $file"
+            if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+                echo "Processing file: $file"
+                # Timeout if whisper takes more than 10 minutes (600 seconds)
+                timeout 600 whisper "$file" || echo "Timeout or failure in processing $file"
+            fi
+        done
+        cd - >/dev/null
+    else
+        echo "Failed to enter directory: $dir"
+    fi
+done
+' sh {} +`n
+)
+return
+
+::logsubs::
+(
+find . -maxdepth 1 -type d -exec sh -c '
+shopt -s nullglob
+logfile="whisper_errors.log"
+for dir in "$@"; do
+    echo "Attempting to enter directory: $dir"
+    if cd "$dir"; then
+        echo "Entered directory: $dir"
+        # Process files in each directory
+        for file in *.mp3 *.m4a *.webm; do
+            echo "Found file: $file"
+            if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
+                echo "Processing file: $file"
+                # Timeout if whisper takes more than 10 minutes (600 seconds)
+                if ! timeout 600 whisper "$file" >"${file%.*}.txt" 2>>"$logfile"; then
+                    echo "Timeout or failure in processing $file, see $logfile for details"
+                fi
+            fi
+        done
+        cd - >/dev/null
+    else
+        echo "Failed to enter directory: $dir" >>"$logfile"
+    fi
 done
 ' sh {} +`n
 )
@@ -94,10 +154,28 @@ return
 output_file="summaries.txt"
 : > "$output_file" # Clear the output file if it exists
 
+# Rename all non-txt files to have a .txt extension
+for file in *; do
+    if [[ "$file" != *.txt ]]; then
+        mv "$file" "$file.txt"
+    fi
+done
+
+# Summarize all txt files
 for file in *.txt; do
+    if [ "$file" == "$output_file" ]; then
+        echo "Skipping output file: $file" >> "$output_file"
+        continue # Skip the summaries file itself
+    fi
+
+    if [ ! -s "$file" ]; then
+        echo "Skipping empty file: $file" >> "$output_file"
+        continue # Skip summarizing if the file is empty
+    fi
+
     echo "Checking $file" | tee -a "$output_file"
     echo "=== Summary for $file ===" | tee -a "$output_file"
-    ollama run vanilj/phi-4 "Summarize:" < "$file" | tee -a "$output_file"
+    ollama run vanilj/phi-4 "Summarize in detail and explain:" < "$file" | tee -a "$output_file"
     echo -e "\n" | tee -a "$output_file" # Add a blank line between summaries
 done`n
 )
@@ -167,25 +245,20 @@ process_files() {
                 echo "Checking $file" >> "$main_dir/$summary_file"
 
                 ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
-                echo "$file_path" >> "$main_dir/$progress_file"
-            fi
-        fi
-    done
-}
+=======
+# Iterate over each .txt file in the current directory
+for file in *.txt; do
+    if [ -f "$file" ]; then
+        file_path=$(pwd)/"$file"
+        if ! is_processed "$file_path"; then
+            echo "Checking $file"
+            echo "Checking $file" >> "$main_dir/$summary_file"
 
-# Recursively process subdirectories
-process_subdirectories() {
-    for dir in "$1"/*/; do
-        if [ -d "$dir" ]; then
-            process_files "$dir" # Call the function for the subdirectory
-            process_subdirectories "$dir" # Recursive call for further subdirectories
+            ollama run wizardlm2 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+            echo "$file_path" >> "$main_dir/$progress_file"
         fi
-    done
-}
-
-# Main execution
-process_files "$main_dir" # Process files in the main directory
-process_subdirectories "$main_dir" # Process files in subdirectories`n
+    fi
+done`n
 )
 return
 
@@ -195,16 +268,6 @@ summary_file="overview.txt"
 progress_file="progress.log"
 main_dir=$(pwd)
 
-# Function to check if a file is already processed
-is_processed() {
-    grep -Fxq "$1" "$main_dir/$progress_file"
-}
-
-# Create progress and summary files if they don't exist
-touch "$main_dir/$progress_file"
-touch "$main_dir/$summary_file"
-
-# Start logging script progress
 echo "Script started at $(date)" >> "$main_dir/$progress_file"
 echo "Summaries will be saved to $summary_file" >> "$main_dir/$progress_file"
 
@@ -213,7 +276,7 @@ process_files() {
     echo "Processing directory: $1"
     
     # Iterate over each .txt file in the specified directory
-    for file in "$1"/*.txt; do
+    for file in "$1"/*.md; do
         # Skip if the glob didn't match or if file doesn't exist
         if [ ! -e "$file" ]; then
             continue
@@ -289,18 +352,20 @@ for file in "$main_dir"/*.txt; do
         
         # Process only if not processed before
         if ! grep -Fxq "$file_path" "$main_dir/$progress_file"; then
-            echo "Processing $file"
-            echo "Processing $file" >> "$main_dir/$progress_file"
-            
-            # Create a temporary directory for the file's chunks
-            sanitized_name=$(basename "$file" | tr -d '[:space:]')
-            temp_dir=$(mktemp -d "$main_dir/tmp_${sanitized_name}_XXXXXX")
-            echo "Temporary directory created: $temp_dir" >> "$main_dir/$progress_file"
-            
-            # Split the file into chunks of 100 lines each
-            split -d -l 100 "$file" "$temp_dir/chunk_"
-            echo "File split into chunks: $(find "$temp_dir" -type f)" >> "$main_dir/$progress_file"
-            
+=======
+# Iterate over each .txt file in the current directory
+for file in "$main_dir"/*.txt; do
+    # Check if the glob didn't match or if file doesn't exist
+    if [ ! -e "$file" ]; then
+        continue
+    fi
+    
+    if [ -f "$file" ]; then
+        file_path=$(realpath "$file")  # Get absolute path of the file
+        
+        # Process only if not processed before
+        if ! is_processed "$file_path"; then
+
             # Summarize each chunk with the "summary of summaries" as context
             for chunk_file in "$temp_dir"/chunk_*; do
                 [ -f "$chunk_file" ] || continue
@@ -319,6 +384,19 @@ $chunk_content"
                 echo "Summarizing chunk $(basename "$chunk_file") with additional context"
                 echo "$combined_input" | ollama run vanilj/phi-4 | tee -a "$main_dir/$holistic_summary_file"
                 echo "" | tee -a "$main_dir/$holistic_summary_file"
+=======
+            # Mention the file name before summarizing its chunks
+            echo ""
+            echo "Summarizing file: $file"
+            echo "===== Summaries for $file =====" | tee -a "$main_dir/$summary_file"
+            
+            # Summarize each chunk without mentioning chunk names
+            for chunk_file in "$temp_dir"/chunk_*; do
+                [ -f "$chunk_file" ] || continue
+                # Summarize the chunk and append directly to the summary file while also displaying to terminal
+                ollama run vanilj/phi-4 "Summarize" < "$chunk_file" | tee -a "$main_dir/$summary_file"
+                echo "" | tee -a "$main_dir/$summary_file"
+
             done
             
             # Remove the temporary directory
@@ -327,13 +405,53 @@ $chunk_content"
             
             # Mark the file as processed
             echo "$file_path" >> "$main_dir/$progress_file"
+# Function to process text files
+process_files() {
+    echo "Processing directory: $1"
+    
+    # Iterate over each .txt file in the specified directory
+    for file in "$1"/*.txt; do
+        # Skip if the glob didn't match or if file doesn't exist
+        if [ ! -e "$file" ]; then
+            continue
         fi
-    fi
-done
+        
+        if [ -f "$file" ]; then
+            file_path=$(realpath "$file")  # Get absolute path of the file
+            
+            # Process only if not processed before
+            if ! is_processed "$file_path"; then
+                echo "Processing $file"
+                echo "Processing $file" >> "$main_dir/$progress_file"
+                
+                # Summarize the file and append to the summary file while displaying to terminal
+                ollama run vanilj/phi-4 "Summarize:" < "$file" | tee -a "$main_dir/$summary_file"
+                echo "$file_path" >> "$main_dir/$progress_file"
+            fi
+        fi
+    done
+}
+
+# Recursively process subdirectories
+process_subdirectories() {
+    for dir in "$1"/*/; do
+        if [ -d "$dir" ]; then
+            process_files "$dir"  # Process files in the subdirectory
+            process_subdirectories "$dir"  # Recursive call for further subdirectories
+        fi
+    done
+}
+
+# Main execution
+process_files "$main_dir"  # Process files in the main directory
+process_subdirectories "$main_dir"  # Process files in subdirectories
 
 echo "Holistic summarization process completed at $(date)" >> "$main_dir/$progress_file"
 EOF`n
 )
+return
+
+::whatdiff::git diff --name-only main..volsorium
 
 ::whichl::cat /etc/os-release
 
@@ -669,12 +787,16 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 ::runall::for FILE in *; do cognac $FILE -run ; done
 
+=======
 ;; Github
 
 ::reflogg::git reflog
 
 ::getdetails::git reflog --format='%H' | xargs -L 1 git log -n 1
 
+=======
+
+=======
 
 ::latest!::git checkout $(git describe --tags $(git rev-list --tags --max-count=1))
 
@@ -818,7 +940,6 @@ mortal(X) :- man(X).
 ::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
 ::croll::Contiguous Rolling Context Mixed Initiative Dialog
-::md::Contiguous Rolling Context Mixed Initiative Dialog
 
 ;; not a counter countersh ;;
 
@@ -834,15 +955,6 @@ mortal(X) :- man(X).
 ;; speed  speedsh ;;
 ::fasle::false
 ::INt::int
-
-/*
-;; test for above ;;
-
-::check::check one two
-::another test::yeah, it really works 
-::really?::yes it works 
-;;
-*/ 
 
 ;; this is annoying
 /*
@@ -863,56 +975,6 @@ NumpadEnter::Send, cr . cr {Enter}
 
 ::lg::ls | grep
 
-/*
-;; logic ;; logicsh ;; logicssh
-
-;; proofs ;; proofsh ;; proofssh
-
-::pc::coq
-::ch::Check
-::sd::Section Declaration.
-::va::Variable
-::hy::Hypothesis
-::pp::Prop
-::pr::Print
-::de::Definition
-::se::Search
-::lo::Locate
-::fi::Fixpoint
-::fa::factorial
-::co::Compute
-::req::Require
-::ex::Extraction
-::im::Import
-::op::Open
-::cl::Close
-::sc::Scope
-::nn::None
-::so::Some
-::ty::Type
-::li::List
-::st::String
-::rec::Record
-::le::Lemma
-::qed::Qed.
-::qd::Qed.
-::qe::Qed.
-
-::des::destruct
-::prf::Proof.
-
-::bbb::Send, negb
-::rfl::reflexivity
-
-
-::qs::Q_scope
-
-::oc::OCaml
-::sm::StandardML
-
-::ind::Inductive
-*/
-
 ::logick::coqtop
 
 ;; authentication
@@ -923,12 +985,8 @@ Send {Space}
 Send `$
 Return
 
+
 ::fixssh::ssh-keyscan -H 192.168.2.233 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
-
-;; spanish spanishsh
-
-;; hasta
-::ahta::# One of the most distinctive features of the Spanish variants is the pronunciation of /s/ when it is not aspirated to [h] or elided. In northern and central Spain, and in the Paisa Region of Colombia, as well as in some other, isolated dialects (e.g. some inland areas of Peru and Bolivia), the sibilant realization of /s/ is an apico-alveolar retracted fricative [s̺], a sound transitional between laminodental [s] and palatal [ʃ]. However, in most of Andalusia, in a few other areas in southern Spain, and in most of Latin America it is instead pronounced as a lamino-alveolar or dental sibilant. The phoneme /s/ is realized as [z] or [z̺] before voiced consonants when it is not aspirated to [h] or elided; [z̺] is a sound transitional between [z] and [ʒ]. Before voiced consonants, [z ~ z̺] is more common in natural and colloquial speech and oratorical pronunciation, [s ~ s̺] is mostly pronounced in emphatic and slower speech.
 
 ;; enxrypt ;; myaliases ;; sga aliases aliash
 
@@ -970,15 +1028,6 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 
 ::dockrun::sudo docker run -ip 127.0.0.1:3000:3000 mechachleopteryx/devenv
 
-;; lua -- luash ;;
-::luarr:: --[[ and       break     do        else      elseif    end       false     for       function  if    in        local     nil       not       or    repeat    return    then      true      until    while --]]
-::leav::os.exit()
-::luuaa::lua -i -e "_PROMPT='luuaa> '"
-
-
-;; considered harmful ;;
-;; ::goto::go to  ;; need it to program basic
-
 ;; hide ip addresses ;;
 
 ::hideip::
@@ -1017,39 +1066,6 @@ perinebula vacuo oriocygnobrachio galacto
 proximasystada virgo laniakeasuperclusto piscescetusfilamentocytosis
 )
 
-:*:crontime::
-(
-@reboot        Run once, at startup.                           │
-@yearly        Run once a year, "0 0 1 1 *".                   │
-@annually      (same as @yearly)                               │
-@monthly       Run once a month, "0 0 1 * *".                  │
-@weekly        Run once a week, "0 0 * * 0".                   │
-@daily         Run once a day, "0 0 * * *".                    │
-@midnight      (same as @daily)                                │
-@hourly        Run once an hour, "0 * * * *".`n
-)
-
-:*:croneg::
-(
-# use /bin/bash to run commands, instead of the default /bin/sh
-# SHELL=/bin/bash
-# │
-# mail any output to `paul', no matter whose crontab this is
-MAILTO=paul
-#
-# run five minutes after midnight, every day  
-5 0 * * *       $HOME/bin/daily.job >> $HOME/tmp/out 2>&1│
-# run at 2:15pm on the first of every month — output mailed to paul 
-15 14 1 * *     $HOME/bin/monthly   
-# run at 10 pm on weekdays, annoy Joe 
-0 22 * * 1-5    mail -s "It's 10pm" joe%Joe,%%Where are your kids?%
-23 0-23/2 * * * echo "run 23 minutes after midn, 2am, 4am ..., everyday"
-5 4 * * sun     echo "run at 5 after 4 every Sunday"
-0 */4 1 * mon   echo "run every 4th hour on the 1st and on every Monday"
-#
-# Execute a program and run a notification every day at 10:00 am
-0 10 * * *  $HOME/bin/program | DISPLAY=:0 notify-send "Program run" "$(cat)"
-)
 
 ;; em dash ;;
 ::---::—
@@ -1081,107 +1097,6 @@ for file in gp``*.*``:
 ::border of the absurd::$[@$(which @($(echo ls).strip())) @('-' + $(printf 'l'))] ;; long listing
 
 
-;; cprogramming c programming ;;
-::rsrvd::
-(
-alignas (since C++11)
-alignof (since C++11)
-and
-and_eq
-asm
-atomic_cancel (TM TS)
-atomic_commit (TM TS)
-atomic_noexcept (TM TS)
-auto (1)
-bitand
-bitor
-bool
-break
-case
-catch
-char
-char8_t (since C++20)
-char16_t (since C++11)
-char32_t (since C++11)
-class (1)
-compl
-concept (since C++20)
-const
-consteval (since C++20)
-constexpr (since C++11)
-constinit (since C++20)
-const_cast
-continue
-co_await (since C++20)
-co_return (since C++20)
-co_yield (since C++20)
-decltype (since C++11)
-default (1)
-delete (1)
-do
-double
-dynamic_cast
-else
-enum
-explicit
-export (1) (3)
-extern (1)
-false
-float
-for
-friend
-goto
-if
-inline (1)
-int
-long
-mutable (1)
-namespace
-new
-noexcept (since C++11)
-not
-not_eq
-nullptr (since C++11)
-operator
-or
-or_eq
-private
-protected
-public
-reflexpr (reflection TS)
-register (2)
-reinterpret_cast
-requires (since C++20)
-return
-short
-signed
-sizeof (1)
-static
-static_assert (since C++11)
-static_cast
-struct (1)
-switch
-synchronized (TM TS)
-template
-this
-thread_local (since C++11)
-throw
-true
-try
-typedef
-typeid
-typename
-union
-unsigned
-using (1)
-virtual
-void
-volatile
-wchar_t
-while
-xor
-xor_eq
-)
 ;; asahi -- asahish ;;
 
 ::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
@@ -2478,8 +2393,8 @@ Return
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
-::phonehome::Mechachleopteryx@192`.168`.2`.40:projects
-::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
+::phonehome::sftp bonobo@192`.168`.2`.40:projects
+::phonemy::ssh bonobo@192.168.2.40 ;WSL
 ::archeo::ssh archeo@192.168.2.126 
 ::mixo::ssh mixo@192.168.2.81
 ::kodak::ssh kodak@192.168.2.142
@@ -2496,7 +2411,9 @@ Return
 
 ;;  Laptops
 
+=======
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
+
 
 ::flyx::ssh flyxion@172.27.178.246
 ::astro::ssh aardvark@192.168.2.73
@@ -2690,66 +2607,6 @@ Return
 ::square!::√ ; square root
 ::infinity!::∞
 
-;; α β γ δ ε ζ η θ ι κ λ μ ν ξ ο ψ χ ω
-
-;; Emergency Greek ;;
-
-; Greek characters for math, etc.
-
-:C*:A*::Α
-:C*:B*::Β
-:C*:G*::Γ
-:C*:D*::Δ
-:C*:E*::Ε
-:C*:Z*::Ζ
-:C*:E*::Η
-:C*:Th*::Θ
-:C*:I*::Ι
-:C*:K*::Κ
-:C*:L*::Λ
-:C*:M*::Μ
-:C*:N*::Ν
-:C*:Ch*::Ξ
-:C*:O*::Ο
-:C*:P*::Π
-:C*:R*::Ρ
-:C*:S*::Σ
-:C*:T*::Τ
-:C*:U*::Υ
-:C*:Ph*::Φ
-:C*:X*::Χ
-:C*:Ps*::Ψ
-:C*:Om*::Ω
-:C*:a*::α
-:C*:b*::β
-:C*:g*::γ
-:C*:d*::δ
-:C*:e*::ε
-:C*:z*::ζ
-:C*:e*::η
-:C*:th*::θ
-:C*:i*::ι
-:C*:k*::κ
-:C*:l*::λ
-:C*:m*::μ
-:C*:n*::ν
-:C*:ch*::ξ
-:C*:o*::ο
-:C*:p*::π
-:C*:r*::ρ
-:C*:ss*::ς
-:C*:s*::σ
-:C*:t*::τ
-:C*:u*::υ
-:C*:ph*::φ 
-:C*:x*::χ 
-:C*:ps*::ψ 
-:C*:om*::ω 
-:C*:th*::ϑ  
-:C*:up*::ϒ 
-:C*:pi*::ϖ
-
-
 ;------------------------------------------------------------------------------
 ; Typography / symbols
 ;------------------------------------------------------------------------------
@@ -2767,9 +2624,9 @@ Return
 
 
 ; Arrows
-:?*:-->::→
+:?*:--->::→
 :?*:==>::⇒
-:?*:<--::←
+:?*:<---::←
 :?*:<==::⇐
 :?*:<->::↔
 :?*:<=>::⇔
