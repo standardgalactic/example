@@ -191,12 +191,30 @@ return
 
 ;; Protosociology https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
 
+::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
+
 ::getdoom::yt-dlp --cookies cookies.txt --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
 
 
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+;; Song of Summer 2017
+
+::despacito::yt-dlp -f bestaudio https://www.youtube.com/watch?v=TG8jxGmOpOg --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::truepath::yt-dlp -f bestaudio https://www.youtube.com/watch?v=Sqq_iQisoK0 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::chompsky::yt-dlp -f bestaudio https://www.youtube.com/watch?v=buHvDwkg8u0 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::ponzi::yt-dlp -f bestaudio https://www.youtube.com/watch?v=PE6CLyCC_IA --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::eliza::yt-dlp -f bestaudio https://www.youtube.com/watch?v=0WQAmmJJ34c --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getsmart::yt-dlp -f bestaudio https://www.youtube.com/watch?v=j1Xu3qLI3r0 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::futureproof::yt-dlp -f bestaudio https://www.youtube.com/watch?v=6WbZPRzrE4o --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; https://www.youtube.com/@hume_ai
 
@@ -590,6 +608,9 @@ mortal(X) :- man(X).
 ;; speed  speedsh ;;
 ::fasle::false
 ::INt::int
+::Wq::wq
+::;s::ls
+::sq::squash
 
 /*
 ;; test for above ;;
