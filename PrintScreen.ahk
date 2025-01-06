@@ -208,6 +208,10 @@ return
 
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
+::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
+
+::getdoom::yt-dlp --cookies cookies.txt --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
+
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
@@ -227,6 +231,8 @@ return
 ;; Song of Summer 2017
 
 ::despacito::yt-dlp -f bestaudio https://www.youtube.com/watch?v=TG8jxGmOpOg --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getcurious::yt-dlp -f bestaudio https://www.youtube.com/watch?v=gg5gtAI7Tb8 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::truepath::yt-dlp -f bestaudio https://www.youtube.com/watch?v=Sqq_iQisoK0 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -680,7 +686,6 @@ mortal(X) :- man(X).
 ::Wq::wq
 ::;s::ls
 ::sq::squash
-
 
 /*
 ;; test for above ;;

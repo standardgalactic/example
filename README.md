@@ -101,4 +101,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel i7-6700 (8) @ 3.408GHz
 
 ```
 (base) flyxion@[volsorium](https://github.com/standardgalactic/example/tree/volsorium):~$
+<<<<<<< HEAD
 -->
