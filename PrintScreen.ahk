@@ -23,6 +23,43 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ^e::Send, explorer.exe .`n
 
+
+;;;;;;; SROLL READER ;;;;;;;;
+
+;; For reading Quadrivium ;;
+;; https://github.com/standardgalactic/quadrivium ;;
+
+::slowtype::pv -q -L 110 < 
+
+::psy cin::pv -q -L 110 < psychocinema-summary.txt
+
+::psycho cin::pv -q -L 110 < psychocinema-summary.txt
+
+
+/*
+::slowtype::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < 
+
+::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
+*/
+
+;; For thematic parsing and critical decoding of cinema ;;
+
+::so big summary::pv -q -L 33 < so-big-summary.txt
+
+/*
+::so big summary::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] and printf "\n"; sleep $DELAY; done < so-big-summary.txt
+
+The narrative script, *So Big*, exhibits an engineered transition of Selina from metropolitan elegance to agrarian drudgery, symbolically compiled as an effort to farm value from personal sacrifice. This module, viewed through SPROLL READER, enhances the linear decoding of narrative data, processing Selina's character development from cultural sophistication to agricultural resilience. Each byte of text unspools her ideological recompilation from socialite to soil-tender, her shifts encoded within a cinematic interface that marries pastoral binaries with urban binaries—ideal for SPROLL's temporal dilation capabilities.
+
+Viewers can adjust textual output velocity to reflect on how the film's programming converts personal sacrifices into societal virtues, an algorithm of existential computation. This strategic reading pace allows a deeper system-level analysis of the film's socio-economic commentary, facilitated by customized font rendering to enhance cognitive engagement and aesthetic processing.
+
+See also:
+https://archive.org/details/so-big-1953
+*/
+
+;;;;;;;;;;;;;;;;;;;;;;;;
+
+
 ::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
 
 
