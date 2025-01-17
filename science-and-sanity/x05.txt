@@ -1,0 +1,500 @@
+Producing  neuro-semantic  relaxation 
+
+liv 
+
+INTRODUCTION  TO  THE  SECOND  EDITION 
+
+Aristotelian  Orientations 
+
+N on- Aristotelian  Orientations 
+
+31. 
+
+Injurious  psychosomatic  effects 
+
+Beneficial  psychosomatic  effects 
+
+32. 
+
+Influencing  toward  un-sanity 
+
+Influencing  toward  sanity 
+
+33. 
+
+‘Action  at  a  distance',  metaphysical 
+false-to-fact  orientations 
+
+‘Action  by  contact*,  neuro-physiological 
+scientific  orientations 
+
+34. 
+
+Two- valued  causality,  and  so  conse¬ 
+quent  ‘final  causation' 
+
+Infinite-valued  causality,  where  the  ‘final 
+causation’  hypothesis  is  not  needed 
+
+35. 
+
+Mathematics  derived  from  ‘logic', 
+with  resulting  verbal  paradoxes 
+
+‘Logic’  derived  from  mathematics,  elimi¬ 
+nating  verbal  paradoxes 
+
+36. 
+
+Avoiding  empirical  paradoxes 
+
+Facing  empirical  paradoxes 
+
+37. 
+
+Adjusting  empirical  facts  to  verbal 
+patterns 
+
+Adjusting  verbal  patterns  to  empirical 
+facts 
+
+38. 
+
+Primitive  static  ‘science'  (religions) 
+
+Modern  dynamic  ‘religions’  (science) 
+
+39. 
+
+Anthropomorphic 
+
+Non-anthropomorphic 
+
+40. 
+
+Non-similarity  of  structure  between 
+language  and  facts 
+
+Similarity  of  structure  between  language 
+and  facts 
+
+41. 
+
+Improper  evaluations,  resulting  in: 
+
+Proper  evaluations,  tested  by: 
+
+42. 
+
+Impaired  predictability 
+
+Maximum  predictability 
+
+43. 
+
+Disregarded 
+
+Undefined  terms 
+
+44. 
+
+Disregarded 
+
+Self-reflexiveness  of  language 
+
+45. 
+
+Disregarded 
+
+Multiordinal  mechanisms  and  terms 
+
+46. 
+
+Disregarded 
+
+defined  character  of  terms 
+
+47. 
+
+Disregarded 
+
+Inferential  terms  as  terms 
+
+48. 
+
+Disregarded 
+
+Neuro-linguistic  environments  consid¬ 
+ered  as  environment 
+
+49. 
+
+Disregarded 
+
+Neuro-semantic  environments  considered 
+as  environment 
+
+50. 
+
+Disregarded 
+
+Decisive,  automatic  effect  of  the  struc¬ 
+ture  of  language  on  types  of  evalua¬ 
+tion,  and  so  neuro-semantic  reactions 
+
+51. 
+
+Elementalistic,  verbal,  intensional 
+‘meaning*,  or  still  worse,  ‘meaning 
+of  meaning* 
+
+Non-elementalistic,  extensional,  by  fact 
+evaluations 
+
+52. 
+
+Antiquated 
+
+Modern,  1941 
+
+The  new  non-aristotelian  orientations  differ  as 
+
+MUCH  FROM  THE  ARISTOTELIAN  AS  THE  ARISTOTELIAN 
+
+DIFFER  FROM  THE  PRIMITIVE  TYPES  OF  EVALUATION. 
+
+INTRODUCTION  TO  THE  SECOND  EDITION 
+
+lv 
+
+The  old  orientations  are  being  perpetuated,  as  a  rule  unknowingly, 
+through  the  aristotelian  structure  of  our  language,  our  institutions,  etc. 
+The  new  orientations  are  simpler  than  the  old  because  they  are  closer  to 
+empirical  facts,  and  so  are  even  more  easily  absorbed  by  children — pro¬ 
+vided  parents,  teachers,  etc.,  are  themselves  aware  of  the  new  methods 
+and  so  can  give  the  children  guidance. 
+
+The  difficulties  we  are  now  facing,  with  the  many  important  new  fac¬ 
+tors  introduced  in  a  non-aristotelian  system,  listed  roughly  in  the  tabula¬ 
+tion,  cannot  be  evaluated  effectively  unless  we  understand  the  role  that 
+new  factors  play  in  our  generalizations. 
+
+(5,12) 
+
+Section  E.  New  factors :  the  havoc  they  play  with  our  generalizations . 
+
+In  mathematics  and  science  we  use  extensively  the  method  of  inter¬ 
+polation.  In  building  curves  we  do  not  have  all  the  points  or  data.  We 
+have  a  number  of  them  and  then  connect  the  points  with  a  smooth  curve, 
+y  The  equation  of  that  curve  is  given  on  the 
+
+basis  of  the  actual  data  at  hand.  The  nervous 
+processes  which  are  involved  in  interpolations 
+and  building  up  equations  are  also  involved  in 
+producing  ordinary  generalizations  in  daily 
+life ;  that  is,  we  interpolate  from  the  data  we 
+have  and  then  generalize  in  words  instead  of 
+equations.  It  is  well  known  that  sometimes 
+when  a  new  datum  is  discovered  it  transforms 
+the  curve  entirely,  with  a  corresponding 
+change  in  the  equation  (generalization) . 
+
+Fig.  2  as  an  illustration  will  make  this 
+clearer.  If  we  measure  the  experimental 
+points  (1,0),  (3,6),  (5,12),  we  would  find 
+them  to  lie  on  the  line  abc  with  the  equation 
+y~3x  -3,  and  we  might  conclude  therefrom 
+that  further  similar  experiments  would  con¬ 
+firm  the  linearity  of  the  relationship  being 
+studied.  But  if  a  further  analysis  yields  the 
+point  (2,6),  the  simplest  curve  fitting  these  data  is  now  the  curve  adbec, 
+expressed  by  the  equation  y  =  x3  - 9x2  +  26x -IS,  which  is  different  and 
+much  more  complex  than  before,  because  it  is  a  cubic  equation  instead  of 
+a  linear  equation.41 
+
+Fig.  2 
+
+*  I  am  indebted  for  this  example  to  Dr.  A.  S.  Householder,  University  of 
+Chicago. 
+
+lvi  INTRODUCTION  TO  THE  SECOND  EDITION 
+
+It  is  not  generally  recognized  what  havoc  the  discovery  of  a  single 
+new,  important,  structural  factor  may  play  with  our  generalizations.  In 
+science  and  ordinary  life  we  are  coming  across  such  new  factors  quite 
+often,  and  we  have  to  change  our  equations  or  generalizations,  and  so 
+our  standards  of  evaluation,  if  we  do  not  want  to  build  up  delusional 
+situations  for  ourselves. 
+
+As  an  example  I  can  suggest  here  the  work  of  Professor  W.  Bur- 
+ridge,*  who  in  his  physiological  investigations  introduced  the  new 
+unavoidable  factor  of  the  electro-colloidal  structure  of  life.  In  this  case 
+it  does  not  matter  whether  the  particular  colloidal  theory  suggested  by 
+Burridge  is  correct  or  not.  The  fact  that  he  introduced  an  important 
+new  structural  factor  leads  to  entirely  different  interpretations,  general¬ 
+izations,  etc.,  although  the  first  order  empirical  facts  remain.  Such  an 
+introduction  requires  a  complete  revision  of  the  generalizations  of  biol- 
+ogy,  physiology,  neurology,  etc.,  and  therefore  even  medicine  and 
+psychiatry.  Incidentally,  psychosomatic  results  become  at  least  intel¬ 
+ligible. 
+
+Other  examples  may  be  given,  such  as  the  work  of  Professor  William 
+F.  Petersen,**  who  introduced  the  new  factor  of  weather  into  medicine ; 
+or  of  Freud,  who  introduced  the  ‘unconscious*,  etc. ;  or  of  Lorentz,  Ein¬ 
+stein  and  others,  who  introduced  the  finite  velocity  of  light  into  the  new- 
+tonian  system,  etc.,  etc.  As  is  well  known,  the  introduction  of  these  new 
+factors  revolutionized  constructively  the  older  theories. 
+
+The  scientific  requirements  of  a  new  theory  are  very  exacting.  A 
+new  theory  must  account  for  the  known  facts  and  predict  new  facts  fol¬ 
+lowing  the  new  generalizations,  which  in  turn  depend  upon  the  new  fac¬ 
+tors  or  structural  assumptions  introduced.  The  predicted  new  facts 
+must  then  be  verified  empirically. 
+
+In  general  semantics  we  introduce  a  number  of  new  unavoidable  struc¬ 
+tural  factors;  among  others,  our  neuro-semantic  (neuro-evaluational) 
+and  neuro-linguistic  environments  as  environment .  Such  introductions 
+also  require  a  radical  revision  of  what  we  know,  and  have  wide  applica¬ 
+tions  in  daily  life,  as  well  as  in  sciences,  including  the  foundation  of 
+mathematics  (see  chapters  XI V,  XV,  XVIII,  and  XIX)  and  physics 
+(see  chapter  XVII).  These  new  factors  should  particularly  interest 
+parents,  educators,  medical  men,  psychiatrists,  and  other  specialists. 
+
+The  introduction  of  new  factors  may  at  first  produce  seeming  diffi- 
+
+*  Dean  of  the  Medical  Faculty  and  Principal  of  King  George's  Medical  College, 
+Lucknow,  India. 
+
+**  Professor  of  Pathology,  University  of  Illinois,  College  of  Medicine. 
+
+INTRODUCTION  TO  THE  SECOND  EDITION  lvii 
+
+culties  because  of  the  unfamiliarity  of  a  new  terminology  which  embodies 
+the  new  structural  assumptions,  and  because  of  the  necessity  of  a  re¬ 
+canalization  of  our  neuro-linguistic  habits,  etc.  Yet  after  the  new  orien¬ 
+tations  are  acquired,  the  new  issues  become  much  simpler  than  the  older, 
+because  they  are  better  understood  (see  p.  97). 
+
+In  at  least  one  historical  case,  it  was  the  omission  of  an  unnecessary 
+artificial  assumption  that  brought  about  a  transformation  of  the  whole 
+system.  I  speak  here  about  euclidean  geometry,  which  assumes  the 
+equal  distance  of  parallels,  and  the  non-eucfidean  geometries,  which 
+eliminated  this  equal  distance  postulate  as  unnecessary.  The  results  were 
+very  striking.  Thus,  in  the  euclidean  system  we  build  curves  out  of  little 
+bits  of  ‘straight  lines’.  We  do  the  opposite  in  the  newer  geometries — we 
+start  with  curves,  shortest  distances,  etc.,  not  ‘straight  lines*  (as  no  one 
+knows  what  that  means),  and  build  up  ‘straight  lines’  as  the  limit  of  an 
+arc  of  a  circle  with  an  ‘infinite  radius’  (see  p.  590). 
+
+Further  explanations  are  given  in  the  text,  but  I  hope  that  I  have  con¬ 
+veyed  to  the  reader  the  fundamental  character  of  these  problems  and 
+some  of  the  difficulties  encountered  at  first  when  new  structural  factors 
+are  introduced.  Even  the  elimination  of  a  postulate  may  be  translated 
+into  an  introduction  of  a  new  negative  factor.  This  translation  is  impor¬ 
+tant  in  life,  although  it  may  be  unimportant  in  technical  mathematics. 
+In  science  as  well  as  in  life  we  deal  all  the  time  with  this  kind  of  problems, 
+and  when  they  are  not  understood  structurally,  we  are  only  plunged  into 
+paradoxes  and  bewilderment,  and  potential  maladjustment. 
+
+Section  F.  Non-aristotelian  methods, 
+
+1.  NEUROLOGICAL  MECHANISMS  OF  EX  TENSION ALIZ  A  T1  ON 
+
+There  is  an  especially  broad  generalization,  already  referred  to,  which 
+empirically  indicates  a  fundamental  difference  between  the  traditional, 
+aristotelian,  intensional  orientations,  and  the  new  non-aristotelian  exten- 
+sional  orientations,  and  in  many  ways  summarizes  the  radical  differences 
+between  the  two  systems.  This  is  the  problem  of  intension  (spelled  with 
+an  s)  and  extension.  Aristotle,  and  his  followers  even  today,  recognized 
+the  difference  between  intension  and  extension.  However,  they  con¬ 
+sidered  the  problem  in  the  abstract ,  never  applying  it  to  human  living 
+reactions  as  living  reactions,  which  can  be  predominantly  intensional  or 
+predominantly  extensional.  The  interested  reader  is  advised  to  consult 
+any  textbook  on  ‘logic’  concerning  ‘intension’  and  ‘extension*,  as  well  as 
+the  material  given  in  this  text  (see  index). 
+
+The  difference  can  be  illustrated  briefly  by  giving  examples  of  ‘defini- 
+
+lviii  INTRODUCTION  TO  THE  SECOND  EDITION 
+
+tions\  Thus  a  ‘definition*  by  intension  is  given  in  terms  of  aristotelian 
+‘properties*.  For  instance,  we  may  verbally  ‘define*  ‘man*  as  a  ‘feather¬ 
+less  biped*,  ‘rational  animal*,  and  what  not,  which  really  makes  no  differ¬ 
+ence,  because  no  listing  of  ‘properties*  could  possibly  cover  ‘all*  the  char¬ 
+acteristics  of  Smithi,  Smith2,  etc.,  and  their  inter-relations. 
+
+By  extension  ‘man*  is  ‘defined*  by  exhibiting  a  class  of  individuals 
+made  up  of  Smithi,  Smith2,  etc. 
+
+On  the  surface  this  difference  may  appear  unimportant ;  not  so  in  liv¬ 
+ing  life  applications .  The  deeper  problems  of  neurological  mechanisms 
+enter  here.  If  we  orient  ourselves  predominantly  by  intension  or  verbal 
+definitions,  our  orientations  depend  mostly  on  the  cortical  region.  If  we 
+orient  ourselves  by  extension  or  facts,  this  type  of  orientation  by  neces¬ 
+sity  follows  the  natural  order  of  evaluation,  and  involves  thalamic  factors, 
+introducing  automatically  cortically  delayed  reactions.  In  other  words, 
+orientations  by  intension  tend  to  train  our  nervous  systems  in  a  split  be¬ 
+tween  the  functions  of  the  cortical  and  thalamic  regions ;  orientations  by 
+extension  involve  the  integration  of  cortico-thalamic  functions. 
+
+Orientations  by  extension  induce  an  automatic  delay  of  reactions, 
+which  automatically  stimulates  the  cortical  region  and  regulates  and  pro¬ 
+tects  the  reactions  of  the  usually  over-stimulated  thalamic  region. 
+
+What  was  said  here  is  elementary  from  the  point  of  view  of  neurology. 
+The  difficulty  is  that  this  little  bit  of  neurological  knowledge  is  not  applied 
+in  practice.  Neurologists,  psychiatrists,  etc.,  have  treated  these  prob¬ 
+lems  in  an  ‘abstract*,  ‘academic*,  detached  way  only,  somehow,  entirely 
+unaware  that  living  human  reactions  depend  on  the  working  of  the  human 
+nervous  system,  from  which  dependence  there  is  no  escape.  No  wonder 
+‘philosophers*,  ‘logicians*,  mathematicians,  etc.,  disregard  the  working  of 
+their  nervous  systems  if  even  neurologists  and  psychiatrists  still  orient 
+themselves  by  verbal  fictions  in  the  ‘ abstract *. 
+
+If  we  investigate,  it  seems  appalling  how  little  of  the  vast  knowledge 
+we  have  is  actually  applied.  Even  the  ancient  Persians  showed  their 
+understanding  of  the  difference  between  learning  and  applying  in  their 
+proverb :  ‘He  who  learns  and  learns  and  yet  does  not  what  he  knows,  is 
+one  who  plows  and  plows  yet  never  sows*.  In  this  new  modem  non- 
+aristotelian  system  we  have  not  only  to  ‘know*  elementary  facts  of  modem 
+science,  including  neuro-linguistic  and  neuro-semantic  researches,  but 
+also  to  apply  them.  In  fact,  the  whole  passage  from  the  aristotelian  to 
+non-aristotelian  systems  depends  on  this  change  of  attitude  from  inten¬ 
+sion  to  extension,  from  macroscopic  to  sub-microscopic  orientations, 
+from  ‘objective*  to  process  orientations,  from  subject-predicate  to  rela¬ 
+tional  evaluations,  etc.  This  is  a  laborious  process  and  months  of  self- 
+
+INTRODUCTION  TO  THE  SECOND  EDITION  lix 
+
+discipline  are  required  for  adults  before  these  new  methods  can  be  applied 
+generally ;  children  as  a  rule  have  no  difficulties. 
+
+If  we  stop  to  reflect,  however,  it  seems  obvious  that  those  who  are 
+trained  in  two-valued,  macroscopic,  ‘objective’,  aristotelian  orientations 
+only,  are  thoroughly  unable  to  have  modern,  electro-colloidal,  sub-micro¬ 
+scopic,  infinite-valued,  process  orientations  in  life,  which  can  be  acquired 
+only  by  training  in  non-aristotelian  methods. 
+
+It  is  sad  indeed  to  deal  with  even  young  scientists  in  the  colloidal  and 
+quantum  fields  who,  after  taking  off  their  aprons  in  the  laboratory,  re¬ 
+lapse  immediately  into  the  two-valued,  prevalent  aristotelian  orientations, 
+thus  ceasing  to  be  scientific  1941.  In  many  ways  these  scientists  are 
+worse  off  than  the  ‘man  on  the  street’,  because  of  the  artificially  accen¬ 
+tuated  split  between  their  scientific  and  their  life  orientations.  Although 
+they  work  in  an  infinite-valued,  non-aristotelian  field,  even  they  need  spe¬ 
+cial  training  to  become  conscious  of  how  to  apply  their  own  scientific  non- 
+aristotelian  methods  to  life  problems. 
+
+Empirically  the  consequences  of  training  in  the  new  methods  are 
+astonishingly  far-reaching.  This  is  easily  understood  after  reflection, 
+because  the  integrating  of  the  functions  of  the  cortical  and  thalamic  re¬ 
+gions  brings  about  better  functioning  of  glands,  organs,  etc.  Although 
+general  semantics  is  not  a  medical  science,  we  can  understand  why  the 
+non-aristotelian  extensional  thalamo-cortical  methods  bring  about  a  great 
+deal  of  stabilization  and  even  psychosomatic  consequences,  as  the  em¬ 
+pirical  results  achieved  by  my  psychiatric  co-workers  and  myself  indicate. 
+
+2.  NEURO-SEMANTIC  RELAXATION 
+
+The  optimum  working  of  the  nervous  system  depends,  among  other 
+things,  on  ‘normal’  blood  pressure,  which  is  predominantly  a  thalamic 
+function,  supplying  the  nervous  system  with  necessary  blood  circulation. 
+As  both  affective,  or  ‘emotional’,  responses  and  blood  pressure  are  neuro- 
+logically  closely  connected,  it  is  fundamental  for  ‘emotional’  balance  to 
+have  ‘normal’  blood  pressure,  and  vice  versa . 
+
+In  general  semantics  we  utilize  what  I  call  ‘neuro-semantic  relaxa¬ 
+tion',  which,  as  attested  by  physicians,  usually  brings  about  ‘normal’ 
+blood  pressure;  that  is,  it  lowers  abnormally  high  pressure  and  raises 
+abnormally  low  pressure,  thus  regulating  the  essential  blood  circulation, 
+and  so  blood  supply.  The  standards  for  ‘normal’  are  given  in  statistical 
+averages  and  are  not  accurate  for  the  given  individual,  and  at  different 
+times.  These  conditions  and  beneficial  consequences  are  strictly  em¬ 
+pirical,  and  must  be  taken  into  account,  regardless  of  the  fact  that  the 
+present  scientific  theories  on  this  subject  are  not  yet  clear.  It  must  be 
+
+lx 
+
+INTRODUCTION  TO  THE  SECOND  EDITION 
+
+realized  that  for  the  'normal’  working  of  the  nervous  system  we  must 
+have  a  proper  blood  circulation,  which  may  be  affected  by  the  tension  of 
+blood  vessels,  and  is  also  connected  with  ‘emotional*  tension .  We  are 
+never  aware  of  this  particular  steady  kind  of  ‘emotional*  tension,  which 
+involves  hidden  fears,  anxieties,  uncertainties,  frustrations,  etc,,  and 
+through  the  nervous  mechanisms  of  projection  colour  harmfully  our  atti¬ 
+tudes  toward  the  world  and  life  in  general.  Such  conditions  result  in 
+defensiveness,  which  is  no  defense,  but  a  wasteful,  useless  drain  on  the 
+limited  nervous  capacities. 
+
+Some  details  of  the  mechanisms  and  techniques  involved,  as  they 
+affect,  among  others,  so-called  ‘speech  difficulties*,  (stuttering,  etc.)  are 
+given  by  Professor  Wendell  Johnson,  University  of  Iowa,  in  his  Lan¬ 
+guage  and  Speech  Hygiene:  An  Application  of  General  Semantics,  pub¬ 
+lished  as  the  first  monograph  of  the  Institute  of  General  Semantics. 
+More  details  concerning  neuro-semantic  relaxation  will  be  presented  in 
+professional  papers. 
+
+3.  EXTENSIONAL  DEVICES  AND  SOME  APPLICATIONS 
+
+To  achieve  extensionalization  we  utilize  what  I  call  ‘extensional 
+devices* : 
+
+1)  Indexes 
+
+2)  Dates 
+
+3)  Etc.  ( et  cetera ) 
+
+4)  Quotes 
+
+5)  Hyphens 
+
+Working  Devices 
+Safety  Devices 
+
+It  should  be  noticed  that  in  a  four-dimensional  world  dating  is  only  a 
+particular  temporal  index  by  which  we  can  deal  effectively  with  space- 
+time.  In  non-aristotelian  orientations  these  extensional  devices  should 
+be  used  habitually  and  permanently,  with  a  slight  motion  of  the  hands 
+to  indicate  absolute  individuals,  events,  situations,  etc.,  which  change  at 
+different  dates,  also  different  orders  of  abstraction,  etc.  Thus  thalamic 
+factors  become  involved,  without  which  the  coveted  thalamo-cortical  inte¬ 
+gration  cannot  he  accomplished . 
+
+I  may  add  that  all  existing  psychotherapy,  no  matter  of  what  school, 
+is  based  on  the  partial  and  particular  extensionalization  of  a  given  patient, 
+depending  on  the  good  luck  and  personal  skill  of  the  psychiatrist.  Un¬ 
+fortunately  these  specialists  are  in  the  main  unaware  of  what  is  said  here, 
+and  of  the  existence  of  a  theory  of  sanity  which  gives  general,  simple,  and 
+workable  thalamo-cortical  methods  for  extensionalization,  and  so  thalamo¬ 
+cortical  integration. 
+
+A  few  illustrations  of  the  wide  practical  applications  of  some  of  the 
+devices  may  be  given  here.  In  many  instances  serious  maladjustments 
+
+INTRODUCTION  TO  THE  SECOND  EDITION  lxi 
+
+follow  when  ‘hate*  absorbs  the  whole  of  the  affective  energy  of  the  given 
+individual.  In  such  extreme  cases  ‘hate’  exhausts  the  limited  affective 
+energy.  No  energy  is  left  for  positive  feelings  and  the  picture  is  often 
+that  of  a  dementia  praecox,  etc.  Thus  an  individual  'hates*  a  generalisa¬ 
+tion  ‘mother*,  ‘father*,  etc.,  and  so  by  identification  ‘hates*  ‘all  mothers’, 
+‘all  fathers’,  etc.,  in  fact,  hates  the  whole  fabric  of  human  society,  and 
+becomes  a  neurotic  or  even  a  psychotic.  Obviously,  it  is  useless  to  preach 
+‘love*  for  those  who  have  hurt  and  have  done  the  harm.  Just  the  oppo¬ 
+site  ;  as  a  preliminary  step,  by  indexing  we  allocate  or  limit  the  ‘hate*  to 
+the  individual  Smithi,  instead  of  a  ‘hate’  for  a  generalization  which 
+spreads  over  the  world.  In  actual  cases  we  can  watch  how  this  alloca¬ 
+tion  or  limitation  of  ‘hate*  from  a  generalization  to  an  individual  helps 
+the  given  person.  The  more  they  ‘hate*  the  individual  Smithi  instead  of 
+a  generalization,  the  more  positive  affective  energy  is  liberated,  and  the 
+more  ‘human*  and  ‘normal*  they  become.  It  is  a  long  struggle,  but  so  far 
+empirically  invariably  successful,  provided  the  student  is  willing  to  work 
+persistently  at  himself. 
+
+But  even  this  indexed  individualised  ‘hate’  is  not  desirable,  and  we 
+eliminate  it  rather  simply  by  dating.  Obviously  Smithi1920  is  not 
+Smithi1940  and  most  of  the  time  hurti1920  would  not  be  a  ‘hurt*  in  1940. 
+With  such  types  of  orientations  the  individual  becomes  adjusted,  and 
+serious  improvements  in  family  and  social  relationships  follow,  because 

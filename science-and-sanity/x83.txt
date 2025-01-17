@@ -1,0 +1,500 @@
+even  apply  to  all  of  a  given  class  of  them.  This  interpretation  would  not  affect 
+unrestricted  propositions,  and  would  merely  show  that  the  determination  of 
+restricted  propositions  is  subject  to  determinations  without  end. 
+
+The  second  possibility  is  suggested  by  the  consideration  of  a  proposition 
+such  as:  “all  truths  are  but  partially  true”.  If  that  were  absolutely  true,  it 
+would  contradict  itself,  and  if  it  were  not,  could  apply  only  to  some  truths. 
+Considered  as  referring  to  the  necessary  limitations  which  any  finite  statement 
+must  have,  it  would  take  itself  as  argument  in  so  far  as  it  was  finite,  thus  indi¬ 
+cating  that  it  was  absolutely  true  about  finite  propositions,  and  yet  not  abso¬ 
+lutely  true  as  regards  all  truths.  By  pointing  out  the  limitations  of  a  finite 
+statement  it  indicates  that  there  is  an  absolute  truth  in  terms  of  which  it  is 
+relatively  true.  On  this  interpretation,  any  condition  which  imposes  universal 
+limitations  is  unlimited  in  terms  of  what  it  limits,  but  limited  in  turn  by  some 
+other  condition.  One  might  hold,  therefore,  that  the  theory  would  be  unre¬ 
+stricted  as  regards  restricted  propositions,  and  restricted  as  regards  all  propo¬ 
+sitions,  and  would  point  to  a  higher  principle  which  limits  it. 
+
+The  third  possibility  is  to  allow  for  “intensive”  propositions  which  are 
+neither  restricted  nor  unrestricted,  being  incapable  of  any  arguments.  The 
+theory  of  types  could  be  viewed  as  such  an  intensive  proposition,  and  what  we 
+have  called  its  arguments,  would  merely  “conform”  to  it.  This  interpretation 
+means  the  downfall  of  a  completely  extensional  logic,  and  a  determination  of  an 
+extensional  logic  as  subordinate  to  an  intensional  one. 
+
+There  are  difficulties  in  each  of  these  interpretations.  The  last  seems  to  me 
+to  be  best.  In  any  of  these  cases,  however,  a  restricted  proposition  which  refers 
+to  some  other  than  the  restricted  aspect  of  the  theory  would  be  subject  to  the 
+theory  and  the  principle  we  have  laid  down  about  unrestricted  propositions 
+could  still  hold.  Those  restricted  propositions  which  refer  to  the  restricted 
+character  of  the  theory  would  not  be  an  argument  to  it  on  the  first,  would  be 
+an  argument  to  it  on  the  second,  and  would  neither  be  nor  not  be  an  argument 
+to  it  on  the  third  solution. 
+
+To  briefly  summarise:  The  theory  of  types  must  be  limited  in  application. 
+Not  all  the  problems  it  was  designed  to  answer  require  it;  another  principle  of 
+greater  logical  import  is  desirable;  while  for  the  resolution  of  the  problems  in 
+which  it  is  itself  involved,  very  drastic  remedies  are  necessary.  No  matter  how 
+the  theory  fares,  the  possibility  of  the  methodological  principle  and  the  pos¬ 
+sibility  of  other  solutions  for  the  so-called  paradoxes,  indicate  that  it  is  at  least 
+not  as  significant  an  instrument  as  it  was  originally  thought  to  be. 
+
+SUPPLEMENT  III 
+
+A  NON-ARISTOTELIAN  SYSTEM  AND  ITS  NECESSITY  FOR 
+RIGOUR  IN  MATHEMATICS  AND  PHYSICS* 
+
+by  Alfred  Korzybski 
+
+We  are  here  dealing  with  a  concrete  mathematical  problem  which  is  not 
+trivial,  but  at  the  same  time  is  solvable,  and  I  cannot  imagine  that  any 
+mathematician  can  find  the  courage  to  elude  its  honest  solution  by  means 
+of  a  metaphysical  dogma,  (549)  Hermann  weyl 
+
+I  protest  against  the  use  of  infinite  magnitude  as  something  completed, 
+which  in  mathematics  is  never  permissible.  Infinity  is  merely  a  fag  on  de 
+parler t  the  real  meaning  being  a  limit  which  certain  ratios  approach  in¬ 
+definitely  near,  while  others  are  permitted  to  increase  without  restrictions. 
+
+<74>  K.  F.  GAUSS 
+
+A  very  extensive  literature  shows  that  the  problems  of  ‘infinity*  pervade 
+human  psycho-logical  reactions,  starting  from  the  lowest  stage  of  human  de¬ 
+velopment  up  to  the  present  and  that  without  some  theory  of  ‘infinity*,  modern 
+mathematics  would  be  impossible.  Up  to  date,  no  satisfactory  theory  of  in¬ 
+finity,  oti  which  all  mathematicians  could  agree,  has  been  produced.  The  results 
+are  rather  bewildering  because  what  appears  to  some  prominent  mathematicians 
+as  perfectly  sound  mathematics  is  evaluated  by  other  equally  prominent  scien¬ 
+tists  as  a  ‘mental*  disease  (Poincare);  or  we  find  opinions  that  a  large  portion 
+of  mathematics  is  devoid  of  proof  and  has  to  be  accepted  on  faith;  or  that  some 
+parts  of  mathematics  must  be  treated  as  non-sense  (Kronecker,  Brouwer, 
+Weyl  .  ,).  ‘There  are  eminent  scholars  on  both  sides  and  the  chance  of  reaching 
+an  agreement  within  a  finite  period  is  practically  excluded’,  says  Brouwer,  and 
+certainly  such  a  state  of  affairs  does  not  allow  us  to  have  any  satisfactory  modern 
+standards  of  proof  and  rigour;  the  last  thing  we  should  expect  in  mathematics. 
+
+The  majority  of  those  mathematicians  who  take  interest  in  the  soundness 
+of  their  science  seem  to  believe  that  the  main  difficulty  centres  around  the 
+validity  of  the  ‘law  of  excluded  third’  (‘A  is  B,  or  not  B’)  of  the  accepted,  sharply 
+two-valued,  chrisippian  form  of  A  ‘logic*.  They  disregard  the  fact  that  we  are 
+born,  bred,  educated,  speak  a  language,  live  under  conditions,  institutions  .  , 
+which  still  remain  desperately  A  or  even  pre-aristotelian.  If  we  attempt  to  re¬ 
+ject  one  of  the  two-valued  ‘laws  of  thought’  or  postulates  of  the  ,4 -system,  but 
+retain  A  or  pre-aristotelian  elementalistic  ‘psychologies’,  ‘logic*,  and  s.r ,  no 
+agreement  in  ‘a  finite  period'  can  be  expected,  and  the  present  mathematical 
+chaos  would  continue. 
+
+♦Paper  presented  before  the  American  Mathematical  Society  at  the  New 
+Orleans,  Louisiana,  Meeting  of  the  A.A.A.S.  December  28,  1931.  I  continue  to  use 
+the  abbreviations  introduced  in  this  book. 
+
+SUPPLEMENT  III 
+
+Among  the  more  important  schools  we  may  distinguish  roughly:1 
+
+1)  The  logistic  school  represented  by  Peano,  Russell,  and  Whitehead,  who 
+accept  the  chrisippian,  two-valued,  restricted  form  of  the  el  'logic*  and  so  may 
+be  called  the  chrisippian  school . 
+
+2)  The  axiomatic  school,  represented  by  Hilbert  and  his  followers,  which 
+may  be  called  the  aristotelian  school . 
+
+.  Th*  *'ntuitionar  school  represented  by  Brouwer  and  Weyl  who  question 
+the  law  of  excluded  third’,  and  so  may  be  called  the  non-ckrisippian  school. 
+
+4)  The  Polish  school  of:  (a)  ‘intuitional’  formalism  with  Lukasiewicz, 
+iarski,  Lesmewski  as  representatives,  which  may  be  called  the  non-aristotelian 
+school.  Lukasiewicz  generalized  the  A  'logic'  to  three-valued  ‘logic’  which 
+TS  ,?10d^'t,y'  ,l“kfsiewicz  and  Tarski  finally  produced  a  general  many- 
+"T  (of  twhlch  the  two-valued  represents  only  a  limiting  case.  LeSniewsW 
+
+4  ^  m°?  genera‘  ‘l0giCa1’ SyStem’ by  introducing  variable 
+funk  tors ,  .  (6)  The  restricted  semantic  school  represented  by  Chwistek  and 
+
+his  pupils,  which  is  characterized  mosdy  by  the  semantic  approach,  and  bv 
+faying  special  attention  to  the  number  of  values,  establishing  the  thesis  that 
+the  older  freedom  from  contradictions’  depends  on  one-valued  formulations  as 
+discovered  by  Skarzenski  and  quoted  by  Chwistek.  This  school  has  already 
+produced  new  foundations  (still  elementalistic)  for  ‘logic’  and  mathematics,  and 
+leads  to  generalized  arithmetics  and  analysis. 
+
+f,  average  prevalent  mathematical  technician,  who  does  not  realize 
+
+that  he  belongs  to  the  numerically  large  class  which  may  be  called  the  ‘Christian 
+science  school  of  mathematics,  which  proceeds  by  faith  and  disregards  entirely 
+
+any  problems  of  the  epistemological  foundations  of  their  supposed  ‘scientific’ 
+activities* 
+
+It  should  be  noticed  that  all  existing  mathematical  schools  accept  implicitly 
+at  least,  A  dementahsm  and  do  not  challenge  identity,  a  principle  which  happens 
+to  be  mvambly  false  to  facts  and  which  therefore  should  be  entirely  abolished. 
+
+J,  .e  above  classification  suggests  that,  in  spite  of  great  achievements  in 
+the  field  of  mathematical  foundations,  no  school  can  expect  to  be  convincing 
+or  accepted  by  other  schools  as  long  as  we  all  flounder  in  the  A  and  el  ambigu¬ 
+ities  which  prevent  any  possibility  of  agreement.  It  becomes  obvious  also  that 
+when  a  A  and  non-el  system  is  formulated  it  will  necessitate  a  new  paradox-free 
+
+oundation  for  mathematics  and  so  a  new  school  of  mathematics  will  arise  which 
+may  be  called : 
+
+6)  The  general  semantic,  non-aristotelian,  non-ekmentalistic  school  of  mathe¬ 
+matics.  It  is  premature  to  give  the  names  of  the  leading  pioneers  in  this  field 
+at  present. 
+
+described  by  the  term  non-aristotelian,  yet  still  elementalistic  'logic’. 
+
+b?vv-raiu^u  uCv 
+
+‘logic’  is  better 
+
+A  PHYSICO-MATHEMATICAL  RIGOUR 
+
+In  a  ^-system,  the  ‘logical1  problems  of  freedom  from  contradiction  become 
+also  semantic  problems  of  one-valued  meanings  made  possible  only  under  oo- 
+valued,  A,  non-el  general  semantics,  and  the  recognition  of  the  A  muUiordinality 
+of  terms  , .  A  A -system  introduces  some  fundamental  innovations,  such  as  com¬ 
+pletely  rejecting  identity,  elementalism  .  ,  and  becomes  based  on  tn.o  structure 
+and  order,  ard  so  ultimately  becomes  non-el.  The  A,  (3 +1) -dimensional  el, 
+(in  the  main)  intensional  system  becomes  a  four-dimensional,  non-el ,  (in  the 
+main)  extensional  system.  In  such  a  system  we  cannot  use  the  formulations  of 
+elementaUstic  ‘logics’  and  ‘psychologies’,  but  must  have  A,  non-el  general 
+semantics ,  which  when  generalized  become  an  entirely  general  discipline  ap¬ 
+plicable  to  all  life,  as  well  as  to  generalized  mathematics.  For  the  above  reasons 
+I  shall  use  the  word  ‘logic’,  in  its  el  sense,  with  quotation  marks;  and  use  the 
+term  general  semantics  for  a  non-el,  A  discipline  corresponding  to  the  el,  A 
+or  A  ‘logics’. 
+
+Investigations  show  that  the  primitive  man  (and  the  ‘mentally’  ill)  use 
+one-valued  semantics  which  have  left  more  or  less  marked  traces  in  all  of  us, 
+reflected  even  in  science  and  mathematics.  The  elimination  of  these  primitive 
+traces  clears  the  foundation  for  an  adult  civilization,  a  theory  of  sanity,  and  the 
+elimination  of  the  scientific  and  mathematical  paradoxes. 
+
+To  assume  that  because  a  many-valued  ‘logic’  has  been  produced,  all  the 
+problems  of  mathematical  infinity,  irrational  numbers,  continuity,  mathematical 
+induction,  validity  of  mathematical  proof,  mathematical  existence  .  ,  have  been 
+solved,  would  be  a  mistake.  The  aim  of  the  present  paper  is  to  analyse  some  of 
+the  fundamental  complexities  produced  by  the  unconscious  operation  of  the 
+one-valued  semantic  identification  concealed  in  the  formulation  of  the  ‘law  of 
+identity’,  which  have  escaped  notice  until  now,  and  which  would  make  the 
+application  of  a  many-valued  'logic'  or  oo-valued  semantics  and  agreement 
+impossible.  Here,  as  in  the  E  and  $  systems,  only  the  most  general  formula¬ 
+tions  help  us  to  discriminate  between  the  particular  cases,  and  so  to  eliminate 
+the  undesirable  traces  of  one-valued  semantics  by  building  a  ^-system,  of 
+which  the  A  and  pre-A  represent  only  particular  cases. 
+
+Let  me  recall  the  ‘philosophical  grammar’  of  our  language  which  we 
+solemnly  call  the  ‘laws  of  thought',  as  given  by  Jevons:2 
+
+1)  The  law  of  identity.  Whatever  is,  is. 
+
+2)  The  law  of  contradiction.  Nothing  can  both  be,  and  not  be. 
+
+3)  The  law  of  excluded  third.  Everything  must  either  be,  or  not  be. 
+
+These  ‘laws’  have  different  ‘philosophical’  interpretations  which  help  very 
+
+little  and  for  my  purpose  it  is  enough  to  emphasize  that:  (1)  The  second  ‘law’ 
+represents  a  negative  statement  of  the  first,  and  the  third  represents  a  corollary 
+of  the  former  two;  namely,  no  third  possible  between  two  contradictories. 
+(2)  The  verb  ‘to  be’,  or  *is\  and  ‘identity’  play  a  most  fundamental  role  in 
+these  formulations.  We  should  not  be  surprised  to  find  that  the  investigation 
+of  these  terms  may  give  us  a  long  sought  solution.  Such  an  investigation  is 
+very  laborious  and  difficult.  ‘The  complete  attempt  to  deal  with  the  term  is 
+would  go  to  the  form  and  matter  of  everything  in  existence,  at  least,  if  not  to 
+
+SUPPLEMENT  III 
+
+the  possible  form  and  matter  of  all  that  does  not  exist,  but  might.  As  far  as 
+it  could  be  done,  it  would  give  the  grand  Cyclopaedia,  and  its  yearly  supplement 
+would  be  the  history  of  the  human  race  for  the  time’,  said  Augustus  de  Morgan 
+in  his  Formal  Logic,  and  this  opinion  I  found  fully  justified. 
+
+So  I  must  be  brief,  and  state  but  roughly,  that  in  the  Indo-european 
+languages  the  verb  ‘to  be’  has  at  least  four  entirely  different  uses:  (1)  as  an 
+auxiliary  verb,  ‘Smith  is  coming’;  (2)  as  the  ‘is’  of  predication,  ‘the  apple  is 
+red’;  (3)  as  the  ‘is’  of  ‘existence’,  ‘I  am’;  (4)  as  the  ‘is’  of  identity,  ‘the  apple 
+is  a  fruit.  The  fact  that  four  semantically  entirely  different  words  should 
+have  one  sound  and  spelling  appears  as  a  genuine  tragedy  of  the  race;  the 
+more  so  since  the  discrimination  between  their  uses  is  not  always  easy. 
+
+The  researches  of  the  present  writer  have  shown  that  the  problems  involved 
+are  very  complicated  and  cannot  be  solved  except  by  a  joint  study  of  mathe¬ 
+matics,  mathematical  foundations,  history  of  mathematics,  ‘logic’,  ‘psychology’, 
+anthropology,  psychiatry,  linguistics,  epistemology,  physics  and  its  history,’ 
+colloidal  chemistry,  physiology,  and  neurology;  this  study  resulting  in  the 
+discovery  of  a  general  semantic  mechanism  underlying  human  behaviour, 
+many  new  interrelations  and  formulations,  culminating  in  a  ^[-system.  This 
+semantic  mechanism  appears  as  a  general  psychophysiological  mechanism  based 
+on  four-dimensional  order,  present  and  abused  in  all  of  us,  the  primitive  man, 
+the  infant,  the  ‘mentally’  ill,  and  the  genius  not  excluded.  It  gives  us  an  ex¬ 
+tremely  simple  means  of  training  our  s.r,  which  can  be  applied  even  in  elementary 
+education. 
+
+The  scientific  problems  in¬ 
+
+(a) 
+
+volved  are  very  extensive  and 
+
+Paris 
+
+Dresden 
+
+Warsaw 
+
+can  be  dealt  with  only  in  a  large 
+
+* 
+
+* 
+
+* 
+
+volume.  Here  I  am  able  to  give 
+
+(b) 
+
+only  a  very  sketchy  summary 
+
+Dresden 
+
+Paris 
+
+Warsaw 
+
+without  empirical  data,  omit¬ 
+
+* 
+
+* 
+
+* 
+
+ting  niceties  and  technicalities. 
+
+If  we  consider  an  actual  territory  (a)  say,  Paris,  Dresden,  Warsaw,  and 
+build  up  a  map  (b)  in  which  the  order  of  these  cities  would  be  represented  as 
+Dresden,  Paris,  Warsaw;  to  travel  by  such  a  map  would  be  misguiding,  wasteful 
+of  effort ,  .  In  case  of  emergencies,  it  might  be  seriously  harmful ,  .  We  could 
+say  that  such  a  map  was  ‘not  true’.  ,  or  that  the  map  had  a  structure  not  similar 
+to  the  territory,  structure  to  be  defined  in  terms  of  relations  and  multi¬ 
+dimensional  order.  We  should  notice  that: 
+
+A)  A  map  may  have  a  structure  similar  or  dissimilar  to  the  structure 
+
+of  the  territory.  ^ 
+
+B)  Two  similar  structures  have  similar  ‘logical’  characteristics.  Thus,  if 
+
+in  a  correct  map,  Dresden  is  given  as  between  Paris  and  Warsaw,  a  similar 
+relation  is  found  in  the  actual  territory.  ^2) 
+
+C)  A  map  is  not  the  territory.  p) 
+
+A  PHYSICO-MATHEMATICAL  RIGOUR 
+
+75 1 
+
+D)  An  ideal  map  would  contain  the  map  of  the  map,  the  map  of  the  map 
+of  the  map  .  ,  endlessly.  This  characteristic  was  first  discovered  by  Royce. 
+We  may  call  it  self-reflexiveness.  (4) 
+
+Languages  share  with  the  map  the  above  four  characteristics. 
+
+A)  Languages  have  structure,  thus  we  may  have  languages  of  elementalistic 
+
+structure  such  as  ‘space’  and  ‘time’,  ‘observer’  and  ‘observed’,  ‘body’  and  ‘soul’, 
+‘senses’  and  ‘mind’,  ‘intellect’  and  ‘emotions’,  ‘thinking’  and  ‘feeling’,  ‘thought’ 
+and  ‘intuition’.  ,  which  allow  verbal  division  or  separation.  Or  we  may  have 
+languages  of  non-elementalistic  structure  such  as,  ‘space- time’,  the  new  quantum 
+languages,  ‘time-binding’,  ‘different  order  abstractions’,  ‘semantic  reactions’.  , 
+which  do  not  involve  verbal*  division  or  separation  .  ;  also  mathematical 
+languages  of  ‘order’,  ‘relation’,  ‘structure’,  ‘function’,  ‘variable’,  ‘invariant’, 
+‘difference’,  ‘addition’,  ‘division’.  ,  which  apply  to  ‘senses’  and  ‘mind’,  that  is, 
+can  be  ‘seen’  and  ‘thought  of’,  .  (5) 
+
+B)  If  we  use  languages  of  a  structure  non-similar  to  the  world  and  our 
+
+nervous  system,  our  verbal  predictions  are  not  verified  empirically,  we  cannot 
+be  ‘rational’  or  adjusted  , .  We  would  have  to  copy  the  animals  in  their  wasteful 
+and  painful  ‘trial  and  error’  performances,  as  we  have  done  all  through  human 
+history.  In  science  we  would  be  handicapped  by  semantic  blockages,  lack  of 
+creativeness,  lack  of  understanding,  lack  of  vision,  disturbed  by  inconsistencies, 
+paradoxes  ,  .  (6) 
+
+C)  Words  are  not  the  things  they  represent.  (7) 
+
+D)  Language  also  has  self-reflexive  characteristics.  We  use  language  to 
+
+speak  about  language,  which  fact  introduces  serious  verbal  and  semantic 
+difficulties,  solved  by  the  theory  of  multiordinality.  (8) 
+
+The  above  unusually  simple  considerations  lead  to  unexpectedly  far- 
+reaching  consequences. 
+
+A)  From  (7)— it  follows  that  the  objective  levels  which  include  the  events, 
+
+ordinary  objects,  objective  actions,  processes,  immediate  feelings,  ‘instincts’, 
+‘ideas’,  s,r  in  general .  ,  represent  un-speakable  levels,  are  not  words .  (9) 
+
+B)  From  (9) — that  the  use  of  the  ‘is’  of  identity ,  as  applied  to  objective, 
+
+un-speakable  levels,  appears  invariably  structurally  false  to  facts  and  must  be 
+entirely  abandoned.  Whatever  we  might  say  a  happening  ‘is’,  it  is  not:  (10) 
+
+C)  From  (10) — structure  appears  as  the  only  possible  link  between  the 
+
+obj ecti ve,  un-speakable,  and  the  verbal  levels.  (11) 
+
+D)  From  (11) — the  only  possible  ‘content  of  knowledge’  becomes 
+
+exclusively  structural .  (12) 
+
+E)  From  (12) — the  only  aim  of  ‘knowledge’  and  science  appears  as  the 
+
+empirical  search  for,  and  verbal  formulation  of,  structure.  (13) 
+
+F)  The  only  method  for  acquiring  ‘knowledge’  is  found  in  an  empirical 
+investigation  of  the  potentially  unknown  structure  of  the  world,  ourselves 
+included,  only  afterwards  adjusting  the  structure  of  languages  so  that  they 
+would  be  similar,  and  so  of  maximum  usefulness;  instead  of  the  delusional 
+
+SUPPLEMENT  III 
+
+reversed  order  of  ascribing  to  the  world  the  structure  of  an  inherited  primitive 
+language.  (Uj 
+
+G)  The  investigation  of  the  potentially  known  structure  of  languages  in 
+which  we  predict  and  then  verify  the  predictions  empirically,  appears  as  an 
+important  method  for  the  discovery  of  the  structure  of  the  world.  (15) 
+
+H)  Investigations  disclose  that  all  A ,  el  languages  and  disciplines  built 
+on  them  (older  'psychologies',  'logics'.,  and,  based  on  them,  economics, 
+sociology,  politics,  ‘ethics’.  ,  reflected  in  turn  in  our  institutions,  systems . , ) 
+are  not  structurally  similar  to  the  world  and  our  nervous  system,  as  they 
+verbally  divide  what  empirically  cannot  be  divided.  Under  such  conditions 
+neither  a  higher  grade  civilization,  nor  general  sanity,  nor  paradox-free  science 
+and  mathematics  are  possible.  In  el  languages,  our  verbal  predictions  are  not 
+verified  empirically,  and  not  being  able  to  foresee  we  must  proceed  by  animal* 
+istic  ‘trial  and  error’. 
+
+I)  Mathematics  appears  as  a  very  limited  but  the  only  language  in 
+existence,  in  the  main  similar  in  structure  to  the  world  around  us  and  the 
+
+nervous  system. 
+
+J)  From  the  study  of  mathematics,  mathematical  physics,  and  physics, 
+
+we  learn,  and  will  continue  to  learn,  the  fundamentals  of  m.o  structure.  It  is 
+no  mystery  that  all  chemistry  has  become  a  branch  of  physics,  all  physics  can 
+be  made  a  branch  of  geometry,  all  geometry  a  part  of  analysis,  and  all  analysis 
+a  part  of  general  semantics.  The  present  work  shows  that  the  analysis  of  all 
+human  problems  of  daily  life  or  science  becomes  dependent  on  general  semantics 
+which  on  the  verbal  levels  becomes  generalized  mathematics.  Thus  mathe¬ 
+matics,  mathematical  physics,  and  physics  become  the  most  important 
+disciplines  from  which  we  learn  most  about  structure, — the  only  ‘content  of 
+knowledge*.  ^g^ 
+
+K)  The  older  el  ‘psychologies’  and  ‘logics’  for  their  maximum  usefulness 
+must  be  transformed  into  unified  non-el  psycho-logics  and  general  semantics, 
+possible  only  after  studying  all  forms  of  human  behaviour,  mathematics 
+included. 
+
+L)  The  study  of  mathematics  as  a  form  of  human  behaviour,  appears 
+necessary  prior  to  the  possibility  of  formulating  any  laws  of  semantics.  (20) 
+
+M)  The  problem  of  mathematical  foundations  do  not  belong  to  mathe¬ 
+
+matics  but  to  psycho-logics  which  would  not  disregard  anthropology,  and 
+would  not  be  vitiated  by  our  persistence  in  the  use  of  structurally  inappropriate 
+el  ‘psychologies’,  'logics’,  and  an  innocence  of  mathematics.  (21) 
+
+N)  The  intuitional’  and  the  'intuitional’  formalist  schools  of  mathematics 
+
+must  be  considered  as  a  legitimate,  yet  not  properly  formulated,  protest 
+against  the  older  elementalism.  (22) 
+
+O)  The  general  semantic  school  will  represent  the  non-el  and  A  school 
+
+of  mathematics.  (23) 
+
+P)  The  present  crisis  of  mathematics  ultimately  depends  on  the  meanings 
+and  use  of  a  few  terms  such  as  ‘all’,  ‘there  is',  ‘infinite’.  ,  which  solution  depends 
+on  a  non-el  theory  of  meanings,  which  ultimately  can  be  solved  by  transforming 
+
+A  PHYSICO-MATHEMATICAL  RIGOUR 
+
+what  might  be  called  the  (3  +  l)-dimensional  el ,  ^-system,  which  divides 
+‘space*  and  ‘time*.  ,  (an  attitude  which  is  carried  all  through  the  system), 
+into  a  four-dimensional  non-elf  A  -system  (an  attitude  which  is  also  carried  all 
+through  the  system).  (24) 
+
+Q)  From  (8) — it  follows  that  statements  about  statements  represent 
+
+results  of  new  neurological  processes,  that  their  content  varies,  and  that  we 
+must  discriminate  and  not  identify  these  different  meanings.  In  other  words, 
+only  through  consciousness  of  abstracting  which  represents  the  most  general 
+s.r  of  discrimination,  or  the  elimination  of  identification,  can  we  assign  single 
+values  to  words  which  have  an  essentially  many- valued  character.  Identification 
+confuses  these  many  meanings  into  one.  (25) 
+
+R)  We  must  differentiate  between  descriptive  and  inferential  words  and 
+
+phrases,  and  never  use  inferential  terms  as  descriptive,  without  realizing  that 
+we  are  doing  so.  (26) 
+
+S)  Certain  words  or  phrases  used  to  speak  about  languages,  such  as  ‘all 
+statements',  ‘proposition  about  all  propositions’.  ,  lead  to  self-contradictions. 
+We  cannot  speak  about  ‘all’  propositions  without  some  limitations,  if  we 
+proceed  introducing  new  propositions.  Even  St.  Paul  felt  the  necessity  for 
+limiting  the  values  of  ‘all’.*  We  are  compelled  to  introduce  some  equivalents 
+to  the  biblical  ‘illegitimate  totalities’  or  the  theory  of  types  of  Russell.  (27) 
+
+T)  Analysis  finds  that  certain  of  the  most  important  terms  we  use;  such 
+as,  ‘yes’,  ‘no’,  ‘true’,  ‘false’,  ‘all’,  ‘fact’,  ‘reality’,  ‘existence’,  ‘definition’,  ‘rela¬ 
+tion’,  ‘structure’,  ‘order’,  ‘number’,  ‘is’,  ‘has’,  ‘there  is’,  ‘variable’,  ‘infinite’, 
+‘abstraction’,  ‘property’,  ‘meaning’,  ‘value’,  ‘love’,  ‘hate’,  ‘knowing’,  ‘doubt’.  ,  .  , 
+may  apply  to  all  verbal  levels  and  in  each  particular  case  may  have  a  different 
+content  or  meanings  and  so  in  general  no  single  content  or  meaning .  I  call  such 
+terms  multiordinal  terms  (m.o).  The  definition  of  such  terms  is  always  given 
+in  other  m.o  terms  preserving  their  fundamental  multiordinality.  In  other 
+words,  a  m.o  term  represents  a  many-valued  term.  If  the  many  values  are 
+identified,  or  disregarded,  or  confused,  we  treat  a  fundamentally  many- valued 
+term  as  one-valued,  and  we  must  have  every  kind  of  paradox  through  such  an 
+identification.  All  known  paradoxes  in  mathematics  and  life  can  be  manu¬ 
+factured  by  the  disregard  of  this  fundamental  multiordinality.  Vice  versa,  by 
+formulating  the  general  semantic  problem  of  multiordinality  we  gain  means 
+to  discriminate  between  the  many  meanings  and  so  assign  a  single  meaning 
+in  a  given  context.  A  m.o  term  represents  a  variable  in  general,  and  becomes 
+constant  or  one-valued  in  a  given  context,  its  value  being  given  by  that  context. 
+Here  we  find  the  main  importance  of  the  semantic  fact  established  by 
+Skarzenski,**  that  the  ‘logical’  freedom  from  contradiction  becomes  a  semantic 
+
+♦Professor  Cassius  J.  Keyser  drew  my  attention  to  a  passage  in  the  first  letter 
+of  St.  Paul  to  the  Corinthians,  Chapter  15,  line  27.  ‘For  he  hath  put  all  things 
+under  his  feet.  But  when  he  saith  all  things  are  put  under  him,  it  is  manifest  that 
+he  is  excepted,  which  did  put  all  things  under  him.’  Italics  are  mine. 
+
+♦♦Quoted  by  Chwistek  in  his  Neue  Grundlagen  der  Logic  und  Mathematik . 
+
+SUPPLEMENT  III 
+
+problem  of  one-value.  But  for  application  we  must  have  a  four-dimensional, 
+non-elr  At  extensional  system,  based  on  structure  .  ,  and  the  complete  elimina¬ 
+tion  of  identity.  (28) 
+
+U)  That  the  disregard  of  multiordinality,  orders  of  abstractions,  may  lead 
+
+to  identification  and  therefore  false  evaluation  resulting  in  disagreement  and 
+maladjustment.  (29) 
+
+V)  From  (25-29) — it  follows  that  identification  or  confusion  of  higher 
+
+order  abstractions  must  be  eliminated.  Because  of  (7,  9,  10,  25-29)— all 
+identification  must  be  eliminated.  (30) 
+
+W)  The  elimination  of  identification  on  all  levels,  or  a  complete  and 

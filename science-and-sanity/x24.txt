@@ -1,0 +1,500 @@
+up  of  doctrinal  functions  of  lower  orders.  We  could  preserve  the  ter¬ 
+minology  of  ‘higher’  and  ‘lower’  order;  but  as  these  conditions  are 
+always  found  in  all  systems,  it  seems  more  expedient  to  call  the  higher 
+body  of  interrelated  doctrinal  functions,  which  ultimately  produce  a 
+system — a  system- function.  At  present,  the  term  ‘system  function’  has 
+been  already  coined  by  Doctor  H.  M.  Sheffer3 ;  but,  to  my  knowledge, 
+Sheffer  uses  his  ‘system  function’  as  an  equivalent  for  the  ‘doctrinal 
+function’  of  Keyser.  For  the  reasons  given  above,  it  seems  advisable  to 
+limit  the  term  ‘doctrinal  function’  to  the  use  as  introduced  by  Keyser, 
+and  to  enlarge  the  meaning  of  Sheffer’s  term  ‘system  function’  to  the 
+use  suggested  in  the  present  work,  this  natural  and  wider  meaning  to 
+be  indicated  by  the  insertion  of  a  hyphen. 
+
+In  a  ^-system,  when  we  realize  that  we  live,  act.,  in  accordance 
+with  non-el  s.r,  always  involving  integrated  ‘emotions’  and  ‘intellect*  and, 
+therefore,  some  explicit  or  implicit  postulates  which,  by  structural  neces¬ 
+sity,  utilize  variable,  multiordinal  and  oo-valued  terms,  we  must  recognize 
+that  we  live  and  act  by  some  system-functions  which  consist  of  doctrinal 
+functions.  The  above  issues  are  not  only  of  an  academic  interest,  as, 
+without  mastering  all  the  issues  emphasized  in  the  present  work,  it  is 
+
+146  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+impossible  to  analyse  the  extremely  complex  difficulties  in  which,  as  a 
+matter  of  fact,  we  are  immersed. 
+
+At  present,  the  doctrinal  functions  and  the  system-functions  have 
+not  been  worked  out,  and  even  in  mathematics,  where  these  notions 
+originated,  we  speak  too  little  about  them.  But  in  mathematics,  as  the 
+general  tendency  is  to  bring  all  mathematical  disciplines  to  a  postulational 
+base,  and  these  postulates  always  involve  multiordinal  and  oo-valued 
+terms,  we  actually  produce  doctrinal  or  system-functions,  as  the  case 
+may  be.  In  this  way,  we  find  the  structure  of  a  given  doctrine  or  sys¬ 
+tem,  and  so  are  able  to  compare  the  structures  of  different,  and  some¬ 
+times  very  complex,  verbal  schemes.  Similar  structure- finding  methods 
+must  be  applied  some  day  to  all  other,  at  present,  non-mathematical 
+disciplines.  The  main  difficulty,  in  the  search  for  structure,  was  the 
+absence  of  a  clear  formulation  of  the  issues  involved  and  the  need  for 
+a  ^-system,  so  as  to  be  able  to  compare  two  systems ,  the  comparison  of 
+which  helps  further  structural  discovery.  It  is  not  claimed  that  either 
+the  A  or  A  system- functions  have  been  formulated  here,  but  it  seems 
+that,  in  the  presence  or  absence  of  identification,  we  find  a  fundamental 
+postulate  which,  once  formulated,  suggests  a  comparison  with  experience. 
+As  we  discover  that  ‘identity'  is  invariably  false  to  facts,  this  A  postu¬ 
+late  must  be  rejected  from  any  future  ^-system. 
+
+It  happens  that  any  new  and  revolutionary  doctrine  or  system  is 
+always  based  on  a  new  doctrinal  or  system- function  which  establishes 
+its  new  structure  with  a  new  set  of  relations.  Thus,  any  new  doctrine  or 
+system,  when  traced  to  its  postulates,  allows  us  to  verify  and  scrutinize 
+the  initial  postulates  and  to  find  out  if  they  correspond  to  experience , . 
+
+A  few  examples  will  make  it  clearer.  Cartesian  analytical  geometry 
+is  based  on  one  system-function,  having  one  system-structure,  although 
+we  may  have  indefinitely  many  different  cartesian  co-ordinates.  The 
+vector  and  the  tensor  systems  also  depend  on  two  different  system- 
+functions,  different  from  the  cartesian ;  they  have  three  different  struc¬ 
+tures.  Intertranslations  are  possible,  but  only  when  the  fundamental 
+postulates  do  not  conflict.  Thus,  the  tensor  language  gives  us  invariant 
+and  intrinsic  relations,  and  these  can  be  translated  into  the  cartesian  rela¬ 
+tions.  It  seems  certain,  however,  although  I  am  not  aware  that  this  has 
+been  done,  that  the  indefinitely  many  extrinsic  characteristics  which  we 
+can  manufacture  in  the  cartesian  system,  cannot  be  translated  into  the 
+tensor  language,  which  does  not  admit  extrinsic  characteristics. 
+
+Similar  relations  are  found  between  other  doctrines  and  systems, 
+once  their  respective  structural  characteristics  are  discovered  by  the 
+
+ON  FUNCTION 
+
+formulating  of  their  respective  functions,  which,  by  the  explicit  or  im¬ 
+plicit  postulates,  determine  their  structure. 
+
+Thus  all  existing  schools  of  psychotherapy,  prior  to  1933,  result 
+from  one  system- function  which  underlies  implicitly  the  system  orig¬ 
+inated  by  Freud.4  The  particular  freudian  doctrine  is  only  one  of  the 
+indefinitely  many  variants  of  similar  system-structure ,  which  can  be 
+manufactured  from  the  one  system-function  underlying  the  particular 
+freudian  system.  In  other  words,  it  is  of  no  importance  what  ‘complex' 
+we  emphasize  or  manufacture,  the  structural  principles  which  underlie 
+this  new  freudian  and  revolutionary  system-function  remain  unchanged. 
+From  this  point  of  view,  all  existing  schools  of  psychotherapy  could  be 
+called  ‘cartesian1,  because,  although  they  all  have  one  general  system- 
+structure,  yet  they  allow  indefinitely  many  particular  variations.  The 
+present  ^-system  suggests  that  the  ‘cartesian'  school  of  psychotherapy  is 
+still  largely  A ,  el  and  fundamentally  of  one  structure. 
+
+The  present  system  involves  a  different  system- function  Of  different 
+structure,  rejecting  identity,  discovering  the  ‘structural  unconscious', 
+establishing  psychophysiology,.  The  mutual  translatability  follows  the 
+rules  of  general  semantic  principles  or  conditions  which  apply  also  to 
+mathematics ;  namely,  that  a  /4-system,  being  based  on  relations ;  on  the 
+elimination  of  identity ;  on  structure . ,  gives  us  only  intrinsic  characteris¬ 
+tics  and  might  be  called  the  ‘tensor'  school  of  psychotherapy.  This  sys¬ 
+tem  allows  all  the  intrinsic  characteristics  discovered,  no  matter  by  whom, 
+but  has  no  place  for  the  indefinitely  many,  quite  consistent,  yet  irrele¬ 
+vant  metaphysical,  extrinsic  characteristics,  which  we  can  manufacture 
+at  will. 
+
+Without  the  realization  of  the  structural  foundations  emphasized  in 
+the  present  system,  it  is  practically  impossible  not  to  confuse  linguistic 
+structural  issues,  which  lead  inevitably  to  semantic  blockages.  When  we 
+deal  with  doctrines  or  systems  of  different  structure,  each  of  which 
+involves  different  doctrinal  or  system-functions,  it  is  of  the  utmost 
+importance  to  keep  them  at  first  strictly  separated;  to  work  out  each  sys¬ 
+tem  by  itself,  and  only  after  this  is  accomplished  can  we  carry  out  an 
+independent  investigation  as  to  the  ways  they  mutually  intertranslate . 
+Let  me  again  repeat,  that  the  mixing  of  different  languages  of  different 
+structures  is  fatal  for  clear  ‘thinking'.  Only  when  a  system  is  traced  to 
+its  system- function,  and  the  many  implications  worked  out  in  their 
+un-mixed  form,  can  we  make  a  further  independent  investigation  of  the 
+ways  in  which  the  different  systems  intertranslate.  As  a  general  rule, 
+every  new  scientific  system  eliminates  a  great  deal  of  spurious  meta¬ 
+physics  from  the  older  systems.  In  practice,  the  issues  are  extremely 
+
+148  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+simple  if  one  decides  to  follow  the  general  rule;  namely,  either  com¬ 
+pletely  to  reject  or  completely  to  accept  provisionally ,  at  a  given  date,  a 
+new  system;  use  exclusively  the  structurally  new  terms;  perform  our 
+semantic  operations  exclusively  in  these  terms ;  compare  the  conclusions 
+with  experience  ;  perform  new  experiments  which  the  structurally  new 
+terminology  suggests ;  and  only  then,  as  an  independent  enquiry,  investi¬ 
+gate  how  one  system  translates  into  the  other.  In  those  translations, 
+which  correspond  to  the  transformation  of  frames  of  reference  in  mathe¬ 
+matics,  we  find  the  most  important  invariant  characteristics  or  relations 
+which  survive  this  translation.  If  a  characteristic  appears  in  all  formu¬ 
+lations,  it  is  a  sign  that  this  characteristic  is  intrinsic ,  belongs  to  the 
+subject  of  our  analysis,  and  is  not  accidental  and  irrelevant,  belonging 
+only  to  the  accidental  structure  of  the  language  we  use.  Once  these 
+invariant,  intrinsic  characteristics  are  discovered,  and  there  is  no  way  to 
+discover  them  except  by  reformulating  the  problems  in  different  lan¬ 
+guages  (in  mathematics  we  speak  about  the  transformation  of  frames  of 
+reference),  we  then  know  that  we  have  discovered  invariant  relations, 
+which  survive  transformation  of  different  forms  of  representations,  and 
+so  realize  that  we  are  dealing  with  something  genuinely  important,  inde¬ 
+pendent  from  the  structure  of  the  language  we  use. 
+
+History  shows  that  the  discovery  of  isolated,  though  interesting, 
+facts  has  had  less  influence  on  the  progress  of  science  than  the  discovery 
+of  new  system-functions  which  produce  new  linguistic  structures  and 
+new  methods .  In  our  own  lifetime,  some  of  the  most  revolutionary  of 
+these  advances  in  structural  adjustment  and  method  have  been  accom¬ 
+plished.  The  work  of  Einstein,  the  revision  of  mathematical  founda¬ 
+tions,  the  new  quantum  mechanics,  colloidal  science,  and  advances  in 
+psychiatry,  are  perhaps  structurally  and  semantically  the  most  important. 
+There  seems  no  escape  from  admitting  that  no  modern  man  can  be 
+really  intelligent  in  1933  if  he  knows  nothing  about  these  structural 
+scientific  revolutions.  It  is  true  that,  because  these  advances  are  so  recent, 
+they  are  still  represented  in  very  technical  terms ;  their  system- functions 
+have  not  been  formulated,  and  so  the  deeper  structural,  epistemological 
+and  semantic  simple  aspects  have  not  been  worked  out.  These  aspects  are 
+of  enormous  human  importance.  But  they  must  be  represented  without 
+such  an  abundance  of  dry  technicalities,  which  are  only  a  means,  and  not 
+an  end,  in  search  for  structure. 
+
+A  scientist  may  be  very  much  up  to  date  in  his  line  of  work,  let  us 
+say,  in  biology ;  but  his  physico-mathematical  structural  knowledge  may 
+be  somewhere  in  the  eighteenth  or  nineteenth  century  and  his  epistem¬ 
+ology,  metaphysics,  and  structure  of  language  of  300  b.c.  This  classifi- 
+
+ON  FUNCTION 
+
+cation  by  years  gives  a  fairly  good  picture  of  his  semantic  status.  Indeed, 
+we  can  fortell  quite  often  what  kind  of  reaction  such  a  man  will  exhibit. 
+
+This  functional,  propositional- function,  and  system- function  struc¬ 
+tural  attitude  is  in  accord  with  the  methods  developed  by  psychiatry.  In 
+psychiatry,  ‘mental’  phenomena  are  considered,  in  some  instances,  from 
+the  point  of  view  of  arrested  development;  in  others,  as  regression  to 
+older  and  more  primitive  levels.  With  this  attitude  and  understanding, 
+we  cannot  ignore  this  peculiar  intermixing  of  different  personalities  in 
+one  man  when  different  aspects  of  him  exhibit  s.r  of  different  ages  and 
+epochs  of  the  development  of  mankind.  In  this  connection  should  be 
+mentioned  the  problem  of  the  multiple  personalities  which  often  occur 
+in  the  ‘mentally’  ill.  Such  splitting  of  personality  is  invariably  a  serious 
+semantic  symptom,  and  a  person  who  exhibits  different  ages  in  his 
+semantic  development,  as,  for  instance,  1933  in  some  respects,  sixteenth 
+century  in  others,  and  300,  or  even  5000,  b.c.  in  still  others,  cannot  be  a 
+well  co-ordinated  individual.  If  we  teach  our  children,  whose  nervous 
+systems  are  not  physically  finished  at  birth,  doctrines  structurally  belong¬ 
+ing  to  entirely  different  epochs  of  human  development,  we  ought  not  to 
+wonder  that  semantic  harm  is  done.  Opr  efforts  should  be  to  co-ordinate 
+and  integrate  the  individual,  help  the  nervous  system,  and  not  split  the 
+individual  semantically  and  so  disorganize  the  nervous  system. 
+
+It  is  necessary  to  remember  that  the  organism  works  as-a-whole. 
+In  the  old  days  we  had  a  comforting  delusion  that  science  was  a  purely 
+‘intellectual’  affair.  This  was  an  el  creed  which  was  structurally  false  to 
+facts.  It  would  probably  be  below  the  dignity  of  an  older  mathematician 
+to  analyse  the  ‘emotional’  values  of  some  piece  of  mathematical  work,  as, 
+for  instance,  of  the  ‘propositional  function’.  But  such  a  mathematician 
+probably  never  heard  of  psychogalvanic  experiments,  and  how  his 
+‘emotional  curve’  becomes  expressive  when  he  is  solving  some  mathemat¬ 
+ical  problem. 
+
+In  1933,  we  are  not  allowed  to  follow  the  older,  seemingly  easier, 
+and  simpler  paths.  In  our  discussion,  we  have  tried  to  analyse  the  prob¬ 
+lems  at  hand  as  oo-valued  manifestations  of  human  behaviour.  We  were 
+analysing  the  doings  of  Smith,  Brown . ,  and  the  semantic  components 
+which  enter  into  these  forms  of  behaviour  must  be  especially  emphasized, 
+emphasized  because  they  were  neglected.  In  well-balanced  persons,  all 
+psycho-logical  aspects  should  be  represented  and  should  work  har¬ 
+moniously.  In  a  theory  of  sanity,  this  semantic  balance  and  co-ordination 
+should  be  our  first  aim,  and  we  should,  therefore,  take  particular  care 
+of  the  neglected  aspects.  The  non-el  point  of  view  makes  us  postulate 
+a  permanent  connection  and  interdependence  between  all  psycho-logical 
+
+150  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+aspects.  Most  human  difficulties,  and  ‘mental’  ills,  are  of  non-el  affective 
+origin,  extremely  difficult  to  control  or  regulate  by  el  means.  Yet,  we 
+now  see  that  purely  technical  scientific  discoveries,  because  structural, 
+have  unsuspected  and  far-reaching  beneficial  affective  semantic  compo¬ 
+nents.  Perhaps,  instead  of  keeping  such  discoveries  for  the  few  ‘high¬ 
+brows',  who  never  use  them  fully,  we  could  introduce  them  as  structural, 
+semantic  and  linguistic  devices  into  elementary  schools,  with  highly  bene¬ 
+ficial  psycho-logical  results.  There  is  really  no  difficulty  in  explaining 
+what  has  been  said  here  about  structure  to  children  and  training  them 
+in  appropriate  s.r .  The  effect  of  doing  so,  on  sanity,  would  be  profound 
+and  lasting. 
+
+CHAPTER  XII 
+
+ON  ORDER 
+
+The  fundamental  importance  of  the  subject  of  order  may  be  inferred 
+from  the  fact  that  all  the  concepts  required  in  geometry  can  be  expressed 
+in  terms  of  the  concept  of  order  alone.  (237)  e.  v.  Huntington 
+
+Dimensions,  in  geometry,  are  a  development  of  order.  The  conception 
+of  a  limit ,  which  underlies  all  higher  mathematics,  is  a  serial  conception. 
+There  are  parts  of  mathematics  which  do  not  depend  upon  the  notion  of 
+order  but  they  are  very  few  in  comparison  with  the  parts  in  which  this 
+notion  is  involved.  (455,  j  f  ,  bertrand  russell 
+
+The  notion  of  continuity  depends  upon  that  of  order ,  since  continuity  is 
+merely  a  particular  type  of  order.  (454,  bertrand  russell 
+
+Logistic  may  be  defined  as  the  science  which  deals  with  types  of  order  as 
+SUch .  (300,  c*  l-  LEWIS 
+
+The  branch  of  physics  which  is  called  Elementary  Geometry  was  long 
+ago  delivered  into  the  hands  of  mathematicians  for  the  purposes  of  in¬ 
+struction.  But,  while  mathematicians  are  often  quite  competent  m  their 
+knowledge  of  the  abstract  structure  of  the  subject,  they  are  rarely  so  in 
+their  grasp  of  its  physical  meaning.  (529)  Oswald  veblen 
+
+We  often  think  that  when  we  have  completed  our  study  of  one  we  know 
+all  about  two ,  because  41  two"  is  "one  and  one".  We  forget  that  we  have 
+still  to  make  a  study  of  "and".  Secondary  physics  is  the  study  of  and  — 
+that  is  to  say,  of  organisation.  (149,  A.  s.  bddington 
+
+...  the  geometry  of  paths  can  be  regarded  as  a  generalization  both  of 
+the  earliest  part  of  elementary  geometry  and  of  some  of  the  most  refined 
+of  physical  theories.  The  study  of  the  projective,  the  affine  and  the  metric 
+geometry  of  paths  ought  to  result  in  a  comprehensive  idea  of  what  types 
+of  physical  tneory  it  is  possible  to  construct  along  the  lines  which  have 
+been  successful  in  the  past.  (529,  .  Oswald  veblen 
+
+What  I  wish  to  emphasize  now  is  the  need  of  logistic  studies  which  will 
+make  it  possible  to  say  more  definitely  than  is  yet  possible  in  this  field 
+what  is  assumed,  what  is  proved,  and  how  the  group  of  theorems  and 
+definitions  hang  together.  (529,  Oswald  veblen 
+
+Memory,  in  fact,  is  nothing  but  the  reinforcement  and  facilitation  of 
+the  passage  of  the  nervous  impulse  along  certain  paths.  (4ii,  henri  pieron 
+Butbefore  dealing  with  the  brain,  it  is  well  to  distinguish  a  second 
+characteristic  of  nervous  organization  which  renders  it  an  organization  in 
+
+levels.  (4ii,  HE.NRI  plfeRON 
+
+This  affective  repercussion  seems  to  take  place  at  the  penultimate  stage 
+of  the  nervous  system  and  governs  complicated  reflexes  or  instinctive  re¬ 
+actions  (411,  HENRI  PIERON 
+
+Furthermore,  there  are  even  symbols  of  symbols,  evocative  of  images 
+onlv  in  the  second  degree,  by  means  of  primary  stations  of  the  co-ordination 
+centres.  (411,  HENRI  pi6ron 
+
+In  this  way  it  is  seen  that  the  order  in  which  a  given  group  of  stimuli 
+taking  part  in  a  stimulatory  compound  are  arranged  and  the  pauses  be¬ 
+tween  them  are  the  factors  which  determine  the  final  result  of  the  stimu- 
+
+152  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+la t ion,  and  therefore  most  probably  the  form  of  the  reaction,  and  we  know 
+already  that  different  intensities  of  the  same  stimulus  can  be  differentiated 
+very  accurately,  one  definite  intensity  being  connected  with  excitation  and 
+another  with  inhibition.  (394)  I.  p.  favlov 
+
+Whoever  studies  Leibniz,  Lambert  and  Castillon  cannot  fail  to  be  con¬ 
+vinced  that  a  consistent  calculus  of  concepts  in  intension  is  either  im¬ 
+mensely  difficult  or,  as  Couturat  has  said,  impossible.  <30o>  C.  i.  lewis 
+The  relation  between  intensions  and  extensions  is  unsymmetrical ,  not 
+symmetrical  as  the  medieval  logicians  would  have  it.  (300)  C.  I.  lewis 
+
+The  old  "law"  of ^  formal  jogic,  that  if  a  is  contained  in  &  in  extension, 
+then  0  is  contained  in  a  in  intension,  and  vice  versa,  is  false .  The  connec¬ 
+tion  between  extension  and  intension  is  by  no  means  so  simple  as  that. 
+^  c.  I.  LEWIS 
+
+I  do  not  suggest  explicit  confusions  of  this  sort,  but  only  that  traditional 
+elementary  logic,  taught  in  youth,  is  an  almost  fatal  barrier  to  clear  think¬ 
+ing  in  later  years,  unless  much  time  is  spent  in  acquiring  a  new  technique. 
+<*57)  BERTRAND  RUSSELL 
+
+Section  A .  Undefined  terms . 
+
+We  can  now  introduce  a  structural  non-el  term  which  underlies  not 
+only  all  existing  mathematics,  but  also  the  present  work.  This  bridging 
+term  has  equal  importance  in  science  and  in  our  daily  life ;  and  applies 
+equally  to  ‘senses'  and  ‘mind’.  The  term  in  question  is  ‘order’,  in  the 
+sense  of  ‘betweenness’.  If  we  say  that  a,  b ,  and  c  are  in  the  order  a,  b ,  c, 
+we  mean  that  b  is  between  a  and  c,  and  we  say,  further,  that  a,  b,  c ,  has 
+a  different  order  from  c,  b,  a ,  or  b,  a,  c , .  .The  main  importance  of  num¬ 
+bers  in  mathematics  is  in  the  fact  that  they  have  a  definite  order.  In 
+mathematics,  we  are  much  concerned  with  the  fact  that  numbers  repre¬ 
+sent  a  definite  ordered  series  or  progression,  1,  2,  3,  4 , . 
+
+In  the  present  system,  the  term  ‘order*  is  accepted  as  undefined.  It 
+is  clear  that  we  cannot  define  all  our  terms.  If  we  start  to  define  all  our 
+terms,  we  must,  by  necessity,  soon  come  to  a  set  of  terms  which  we 
+cannot  define  any  more  because  we  will  have  no  more  terms  with  which 
+to  define  them.  We  see  that  the  structure  of  any  language,  mathematical 
+or  daily,  is  such  that  we  must  start  implicitly  or  explicitly  with  undefined 
+terms.  This  point  is  of  grave  consequence.  In  this  work,  following 
+mathematics,  I  explicitly  start  with  undefined  important  terms. 
+
+When  we  use  a  series  of  names  for  objects,  ‘Smith,  Brown,  Jones’. , 
+we  say  nothing.  We  do  not  produce  a  proposition.  But  if  we  say  ‘Smith 
+kicks  Brown',  we  have  introduced  the  term  ‘kicks’,  which  is  not  a  name 
+for  an  object,  but  is  a  term  of  an  entirely  different  character.  Let  us 
+call  it  a  ‘relation-word’.  If  we  analyse  this  term,  ‘kicks’,  further,  we  will 
+find  that  we  can  define  it  by  considering  the  leg  (objective)  of  Smith 
+(objective),  some  part  of  the  anatomy  of  Brown  (objective),  and, 
+
+ON  ORDER 
+
+finally,  Brown  (objective).  We  must  use  a  further  set  of  terms  that 
+describes  how  the  leg  of  Smith  ‘moves’  through  an  ‘infinity*  of  ‘places  in 
+an  ‘infinity*  of  ‘instants*  of  ‘time*,  ‘continuously*  until  it  reaches  Brown. 
+
+When  a  donkey  kicks  a  donkey,  there  may  be  a  broken  leg;  but 
+that  is,  practically,  the  only  consequence.  Not  so  when  Smith  kicks 
+Brown.  Should  Brown  happen  to  be  a  royal  or  a  business  man  in  Nica¬ 
+ragua  or  Mexico,  this  might  be  considered  ‘a  mortal  offense  of  a  great 
+sovereign  nation  to  another  great  sovereign  nation’,  a  war  might  follow 
+and  many  non-royals  or  non-business  men  might  die.  When  a  symbolic 
+class  of  life  enters  the  arena,  semantic  complications  may  arise  not  exist¬ 
+ing  with  animals. 
+
+In  the  relation  terms,  the  statement,  ‘Smith  kicks  Brown*,  has 
+introduced  still  further  symbolic  complications.  It  involves  a  full-fledged 
+metaphysics,  as  expressed  in  the  terms  ‘moves*,  ‘infinity’,  ‘space*,  ‘time*, 
+‘continuity*,  and  what  not.  It  must  be  emphasized  that  all  human  state¬ 
+ments,  savage  or  not,  involve  a  structural  metaphysics. 
+
+These  relational  terms  should  be  elucidated  to  the  utmost.  Until 
+lately,  the  ‘philosophers*,  in  their  ‘Jehovah  complex’,  usually  said  to  the 
+scientists :  ‘Hands  off ;  those  are  superior  problems  with  which  only  we 
+chosen  ones  can  deal*.  As  a  matter  of  history,  ‘philosophers*  have  not 
+produced  achievements  of  any  value  in  the  structural  line.  But  the  ‘mere* 
+scientists,  mainly  mathematicians  and  mathematical  physicists,  have  taken 
+care  of  these  problems  with  extremely  important  structural  (1933) 
+results.  In  the  solutions  of  these  semantic  problems,  the  term  ‘order* 
+became  paramount. 
+
+Perhaps  this  example  of  an  analysis  of  the  statement,  ‘Smith  kicks 
+Brown*,  shows  the  justice  of  the  contention  of  this  work  that  no  man 
+can  be  ‘intelligent*  if  he  is  not  acquainted  with  these  new  works  and 
+their  structural  elucidations. 
+
+We  see  that  no  statement  made  by  man,  whether  savage  or  civilized, 
+is  free  from  some  kind  of  structural  metaphysics  involving  s.r .  We  see 
+also  that  when  we  explicitly  start  with  undefined  words,  these  undefined 
+words  have  to  be  taken  on  faith.  They  represent  some  kind  of  implicit 
+creed,  or  metaphysics,  or  structural  assumptions.  We  meet  here  with  a 
+tremendously  beneficial  semantic  effect  of  modern  methods,  in  that  we 
+deliberately  state  our  undefined  terms.  We  thus  divulge  our  creeds  and 
+metaphysics.  In  this  way,  we  do  not  blind  the  reader  or  student.  We 
+invite  criticism,  elaboration,  verification,  evaluation . ,  and  so  accelerate 
+progress  and  make  it  easier  for  others  to  work  out  issues.  Compare  the 
+statement  of  Newton,  ( Hypotheses  non  Hugo*  (I  do  not  make  hypothe¬ 
+ses),  in  his  PhUosophiae  Naturalis  Principia  MathemcUica,  when  he  pro- 
+
+154  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+ceeded  to  coin  some  very  doubtful  hypotheses;  and  such  works  as 
+produced  by  Peano,  Whitehead,  Russell,  and  others,  in  which  not  only  all 
+assumptions  are  stated  explicitly,  but  even  the  assumptions,  given  in 
+single  undefined  terms,  are  listed.  It  is  not  assumed  here  that  even 
+Peano,  Whitehead,  Russell,  and  the  others  have  fulfilled  this  program 
+entirely.  It  is  quite  probable  that  not  all  of  their  assumptions  are  stated 
+explicitly.  However,  a  very  serious  and  revolutionary  beginning  has  been 
+made  in  this  direction.  We  have  still  far  to  go,  for  at  present  even 
+mathematicians  disregard  the  threefold  relational  character  of  mathe¬ 
+matics,  and,  by  a  semantic  confusion  of  orders  of  abstraction,  make 
+structurally  el  assumptions  false  to  the  facts  of  1933;  namely,  that 
+mathematics  exists  ‘by  itself,  detached  from  the  producers,  Smith  and 
+others.  This  procedure  reminds  one  of  the  old  N  ‘I  do  not  make 
+hypotheses’,  proffered  just  at  the  moment  he  begins  to  legislate  about  the 
+structure  of  the  universe  and  to  postulate  his  ‘absolute  space*  and  ‘abso¬ 
+lute  time*  ‘without  reference  to  any  external  object  whatsoever*.  This, 
+of  course,  was  structurally  unascertainable,  and  so  was  a  mere  figment  of 
+his  imagination,  inside  of  his  skin,  and  may  become  a  pathological  seman¬ 
+tic  projection  when  externalized  by  affective  pressure. 
+
+That  we  must  all  start  with  undefined  terms,  representing  blind 
+creeds  which  cannot  be  elucidated  further  at  a  given  moment,  may  fill  the 
+hearts  of  some  metaphysicians  with  joy.  ‘Here*,  they  might  say,  ‘we 
+have  the  goods  on  the  scientists ;  they  criticize  us  and  reject  our  theories, 
+and  yet  they  admit  that  they  also  must  start  with  blind  creeds.  Now  we 
+have  full  justification  for  assuming  whatever  we  want  to.’  But  this  joy 
+would  be  short-lived  for  any  reasonably  sane  individual.  In  mathematics, 
+we  deliberately  assume  the  minimum,  and  not  the  maximum,  as  in  meta¬ 
+physics.  The  undefined  terms  selected  for  use  are  the  simplest  of  our 
+experience;  for  instance,  ‘order*  (betweenness).  Also,  in  experimental 
+sciences,  we  assume  the  least  possible.  We  demand  from  a  scientific 
+theory,  according  to  the  standards  of  1933,  that  it  should  account  for  all 
+relevant  facts  known  in  1933  and  should  serve  as  a  basis  for  the  predic¬ 
+tion  of  new  facts,  which  can  be  checked  by  new  experiments.  If  meta¬ 
+physicians  and  ‘philosophers*  would  comply  with  such  scientific  standards, 
+their  theories  would  be  scientific.  But  their  old  theories  would  have  to 
+be  abandoned  and  their  new  theories  would  become  branches  of  science. 
+Under  such  structural  circumstances,  there  is  no  possibility  of  going 
+outside  of  science,  as  we  can  enlarge  the  bounds  of  science  without 
+known  limits,  in  search  for  structure. 
+
+It  must  be  pointed  out  that  no  set  of  undefined  terms  is  ultimate. 
+A  set  remains  undefined  only  until  some  genius  points  out  simpler  and 
+
+ON  ORDER 
+
+more  general  or  structurally  more  satisfactory  undefined  terms,  or  can 
+reduce  the  number  of  such  terms.  Which  set  we  accept  is  determined, 
+in  the  main,  by  pragmatic,  practical,  and  structural  reasons.  Out  of  two 
+systems  which  have  many  characteristics  of  usefulness . ,  in  common,  we 
+would  and  should  select  the  one  which  assumes  least,  is  the  simplest, 
+and  carries  the  furthest.  Such  changes  from  one  set  to  another,  when 
+scientific,  are  usually  epoch-making,  as  exemplified  in  mathematics. 
+
+It  is  important  to  realize  that  this  semantic  attitude  signalizes  a  new 
+epoch  in  the  development  of  science.  In  scientific  literature  of  the  old 
+days,  we  had  a  habit  of  demanding,  ‘define  your  terms’.  The  new  1933 
+standards  of  science  really  should  be,  ( state  your  undefined  terms'.  In 
+other  words,  ‘lay  on  the  table  your  metaphysics,  your  assumed  structure, 
+and  then  only  proceed  to  define  your  terms  in  terms  of  these  undefined 
+terms'.  This  has  been  done  completely,  or  approximately  so,  only  in 
+mathematics.  Yet,  probably  no  one  will  deny  that  the  new  requirements 
+of  science  (1933),  no  matter  how  laborious,  are  really  desirable,  and 
+constitute  an  advance  in  method,  in  accordance  with  the  structure  of 
+human  knowledge. 
+
+In  the  present  work,  this  method  will  be  employed  practically  all 
+through.  Of  course,  names  for  objects  may  be  accepted  without  enquiry. 
+So  we  have  already  a  large  vocabulary  at  our  disposal.  But  names  alone 
+do  not  give  propositions.  We  need  relatipn-words,  and  it  is  here  where 
+our  undefined  terms  become  important.  Up  to  this  stage  of  the  present 
+work,  I  have  accepted,  without  over-full  explanation,  the  vocabularies 
+made  by  the  linguists  of  exact  science,  whom  we  usually  call  mathema¬ 
+ticians.  There  is  an  enormous  benefit  in  doing  so,  because,  no  matter 
+how  imperfect  the  mathematical  vocabulary  may  be,  it  is  an  extensive 
+and  developed  linguistic  system  of  similar  structure  to  the  world  around 
+us  and  to  our  nervous  system  1933.  (See  Part  V.) 
+
+Some  of  the  most  important  undefined  terms  which  play  a  marked 
+role  in  this  work  are  'order*  (in  the  sense  explained),  ‘relation*,  and 
+‘difference*,  although  we  could  define  relation  in  terms  of  multi¬ 
+dimensional  order.  There  is  a  remarkable  structural  characteristic  of 
+these  terms ;  namely,  that  they  are  non-el ,  and  that  they  apply  to  'senses* 
+as  well  as  to  ‘mind*.  It  is,  perhaps,  well  to  suggest  that,  in  future  works, 
+the  terms  selected  should  be  of  the  non-el  type.  Since  these  terms  apply 
+equally  to  'senses*  and  to  ‘mind*,  we  see  that  in  such  terms  we  may 
+attempt  to  give  a  ‘coherent*  account  of  what  we  experience.  The  expres¬ 
+sion  ‘coherent*  implies  ‘mind*,  and  ‘experience*  implies  ‘senses*.  It  is 
+amusing  to  watch  this  peculiar  circularity  of  human  knowledge,  many 
+instances  of  which  will  appear  later  on.  Thus,  there  was  great  difficulty 
+
+156  IV.  STRUCTURAL  FACTORS  IN  A  LANCUAGFS 
+
+in  expressing  organism-as-a-whole  notions;  we  had  to  grope  about  in 
+establishing  the  beginnings  of  a  suitable  vocabulary  before  we  could 
+approach  problems  which  were  antecedent  in  order. 
+
+It  is  necessary  to  notice  a  rather  curious  structural  similarity 
+between  the  R  and  A  systems.  In  both  cases,  we  deal  with  certain  veloci¬ 
+ties  about  which  we  know  positively  that  they  are  Unite .  The  velocity  of 
+light  in  the  ALsystem  was  assumed  to  be  infinite,  although  we  know  it 
+is  not  so,  and  so  ‘simultaneity’  had  absolute  meaning.  The  R  systems 
+introduced  the  finite  velocity  of  light  by  ordering  events,  which  happens 
+to  be  true  to  facts,  and  thus  ‘simultaneity’  lost  its  absolute  character. 
+Likewise  in  the  ^-system  and  language,  the  velocity  of  nervous  impulses 
+was  assumed  to  be  infinite,  to  spread  ‘instantaneously’.  And  so  we  had 
+most  perplexing  ‘philosophical’  rigmaroles  about  ‘emotions',  ‘intellect’., 
+taken  as  independent  separate  entities.  When  we  introduce  explicitly  the 
+finite  velocity  of  nervous  impulses  (on  the  average,  120  metres  per  sec¬ 
+ond  in  the  human  nerves),  we  are  able  to  reach  a  perfectly  clear  under¬ 
+standing,  in  terms  of  order,  of  the  spread  of  impulses.  Some  ‘infinite 
+velocity’  does  not  involve  order.  Conversely,  by  considering  the  order 

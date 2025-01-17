@@ -1,0 +1,500 @@
+The  two  events  which,  for  an  observer  in  the  unprimed  system,  happen 
+'simultaneously',  (/i  =t$ ,  or  t\  —  h  ”0)  at  different  places,  (or  xi  not  equal  to  x2, 
+Xx9^  Xi)t  cannot  be  'simultaneous*  for  the  moving  observer  in  the  primed  sys¬ 
+tem  S',  but  will  happen  at  different  'times'  (ti  is  not  equal  to  ti ,  or  t\  -ti  j*  0). 
+
+It  is  extremely  instructive  to  consider  further  what  happens  in  measuring 
+‘times*  and  'lengths'  in  systems  which  are  moving  relatively  to  each  other. 
+
+If,  in  the  equation  (1)  above,  we  assume  xx  =x2,  this  means  that  both  events 
+occur  at  one  place  in  the  stationary  unprimed  system  S. 
+
+By  changing  the  signs  and  cancelling  the  terms  with  Xx  and  x2,  which  are 
+equal  and  of  opposite  signs,  we  have  ti-ti=P  (h~h)  whence,  substituting 
+for  ft  its  value  I/'n/  1  —v2/c2,  we  obtain 
+
+k'~h'=vi-!*/c2 
+
+This  last  formula  brings  out  a  few  remarkable  issues.  In  terrestrial  velocities 
+the  square  of  the  velocity  of  the  motion  v 2  of  the  observer  in  the  primed  system 
+S’  is  very  small  as  compared  with  the  square  of  the  velocity  of  light  c2,  so  the 
+fraction  v*/c2  is  small,  Vl  -i fi/c2  differs  very  little  from  unity  but  the  whole 
+denominator  is  less  than  unity,  and  so  ti  —t\  is  not  equal  to  t%  —t\t  but  greater. 
+
+In  other  words,  the  interval  of  'time'  between  the  two  events  appears 
+larger  to  the  observer  in  the  primed  moving  system  than  to  the  observer  in  the 
+stationary  unprimed  system.  In  general,  among  all  systems  in  a  state  of  uni¬ 
+form  relative  motion,  that  one  in  which  two  events  occur  at  one  place ,  is  char¬ 
+acterized  by  the  fact  that  the  'time'  interval  between  the  two  events  appears 
+shortest  to  an  observer  in  this  system.  The  shortest  interval  means  that  to  an 
+observer  in  the  system,  the  events  run  their  course  most  rapidly.  A  process 
+which,  with  reference  to  a  given  system,  occurs  in  one  place,  appears  to  run  its 
+course  most  rapidly  to  an  observer  in  that  system,  but  more  slowly  to  a  moving 
+observer  in  any  other  system. 
+
+The  more  rapid  the  relative  motion,  the  slower  the  process  will  appear, 
+and,  in  the  limit,  if  an  observer  could  move  with  the  velocity  of  light,  vt=c2f 
+the  denominator  of  our  equation  would  become  1 — 1=0  and  ti —ti  would 
+become  'infinite'  and  all  events  would  be  at  a  standstill. 
+
+As  the  formulae  for  length,  x  and  x't  involve  the  ‘times'  and,  as  we  see, 
+the  intervals  of  'time'  are  dependent  on  the  relative  velocities,  by  a  similar 
+process  of  reasoning  we  find  that  the  standards  of  length  are  also  relative,  and 
+that  the  length  L’  in  the  primed  system  is  represented  by  V  =  La/  1  —v2/c2. 
+In  other  words,  to  an  observer  who  sees  the  rod  in  motion,  it  will  appear 
+'shortened',  and  among  all  systems  in  a  state  of  uniform  relative  motion,  the 
+one  in  which  the  rod  is  at  rest  is  distinguished  from  all  others  by  the  fact  that 
+in  it  the  rod  appears  longer  than  in  any  other  system.  For  instance,  a  metre 
+rod  lying  on  the  earth  in  the  direction  of  its  motion  would  appear  to  an  observer 
+on  the  sun  to  be  shortened  by  S  X 10”7  cm.  In  the  limit,  when  v  =c,  the  fraction 
+£2  =  L  1  —  1  *=0  and  U  =0,  which  means  that  to  an  observer  moving  with  the 
+velocity  of  light,  a  three-dimensional  body  would  appear  as  two-dimensional, 
+
+SIMULTANEITY 
+
+or  a  two-dimensional  figure  as  one-dimensional.  The  co-ordinates  y  and  s,  as 
+we  have  seen,  do  not  enter  into  consideration  as  they  are  equal  in  both  systems 
+moving  relatively  in  the  X  direction,  and  the  ‘time’  co-ordinates  are  inde¬ 
+pendent  of  them. 
+
+If  a  body  at  rest  appears  to  the  observer  in  the  unprimed  system  as  a 
+sphere,  it  will  appear  as  an  oblate  spheroid  to  an  observer  in  the  primed  system. 
+
+We  see  that  structurally  not  only  ‘simultaneity*  and  ‘time’  are  not  ab¬ 
+solute  but  also  that  length,  and  therefore  shape ,  is  relative. 
+
+We  have  seen  that  the  ‘shortest*  and  ‘longest*  values  are  important  char¬ 
+acteristics  of  the  motion.  This  suggests  why  in  the  general  theory  of  Einstein 
+we  are  interested  in,  and  introduce,  geodetics. 
+
+It  should  be  mentioned  here  that  the  Lorentz  transformation  has  been 
+reached  by  difficult  considerations  involving  Maxwell’s  electromagnetic  field 
+equations,  unrelated  to  the  Einstein  theory.  Einstein  found  the  Lorentz  trans¬ 
+formation  by  the  simplest  consideration  connected  with  his  theory.  The  finding 
+of  such  important  equations  by  two  methods,  entirely  different  structurally, 
+must  be  considered  as  a  convincing  proof  of  the  fundamental  importance  of 
+such  formulae,  the  more  so  since  they  follow  from  very  simple  and  fundamental 
+structural  principles  which  in  themselves  cannot  be  denied  because  they  are 
+negative  in  character.  Negative  statements  are  on  a  different  footing  in  the 
+new  systems;  they  follow  structurally  from  a  A  orientation,  just  as  the  older 
+positive  dogmas  were  the  structural  results  of  aristotelianism  and  the  delusional 
+results  of  identification. 
+
+The  facts  mentioned  concerning  the  measures  of  length  and  the  behaviour 
+of  clocks  do  not  present  any  paradoxes.  They  simply  say  that  these  discrepancies 
+are  mutual  and  inevitable,  as  any  measurement  is  only  a  measurement  when 
+it  can  be  registered  by  an  instrument,  or  seen,  or  recorded  in  some  way.  If  the 
+measuring  rods  and  clocks  are  moving  relatively  to  us,  what  we  see  or  what 
+our  instruments  record  is  not  what  is  happening  on  the  moving  system,  which 
+no  one  can  see  or  record  from  outside  the  system.  What 
+reaches  us  is  simply  what  the  light-waves  or  other  signals 
+moving  with  finite  velocity  (and  therefore  retarded  by  a 
+motion  away  from  us)  bring  to  us.  As  all  existing  methods 
+of  communication  and  all  known  signals  have  finite  veloci¬ 
+ties,  these  structural  differences  which  are  conditioned  by 
+the  inherent  characteristics  of  the  world  should  be  taken 
+into  consideration  in  modern  science. 
+
+If  we  draw  a  square  ABCD  (Fig.  5)  and  an 
+aviator  E  were  to  pass  this  square  sign  with  a  velocity 
+of  161,000  miles  a  second*  in  the  direction  AB , 
+
+*1  deliberately  select  such  a  velocity  so  as  to  make  the  contraction  given  by  the 
+formula  V  —  L V 1  —  tf/c*  —  1/2.  With  this  aim  we  must  make  the  fraction  repre- 
+sented  by  zi’/c’ =  3/4,  then  1-3/4  =  1/4  and  /l/4=J/2;  We  findthe  jquareof 
+our  velocity  v  by  taking  3/4  of  the  square  of  the  velocity  of  light  —  %<r  ana 
+find  u  =  £Vr3  =  161,000  miles  a  second. 
+
+664  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+he  would  see— and  any  instrument  carried  by  him  would  register  it — the  sides 
+of  our  square  (AB=BC  =  CD  =DA)  in  the  direction  of  his  flight,  namely  AB 
+and  CD ,  as  ‘contracted’  to  half  their  length.  If  he  turned  at  right  angles,  the 
+sides  AB  and  CD  would  ‘expand’  and  the  other  sides,  which  are  at  right  angles, 
+BC  and  DA ,  would  ‘contract’.  For  us  the  sides  AB  and  BC  are  equal ,  for  him 
+one  appears  twice  the  other.  To  him  our  square  appears  oblong. 
+
+Under  such  natural  structural  conditions  it  is  a  fundamental  fallacy  to 
+ascribe  to  ‘lengths'  or  ‘shapes’  or  ‘times’  any  ‘absolute’  significance.  If  we  grasp 
+the  structural  fact  that  ‘length’  and  ‘duration’  are  not  things  inherent  in  the 
+external  world,  nor  are  ‘matter’,  ‘space’,  and  ‘time’,  but  that  they  appear  as 
+relations  between  events  and  some  specified  observer,  and  forms  of  representa¬ 
+tions,  then  all  paradoxes  would  disappear. 
+
+A  suggestion  which  concerns  visualization  may  be  helpful.  If  we  realize 
+the  structural  fact  that  words  are  not  the  objects  they  represent,  we  shall  always 
+discriminate  automatically  between  what  we  see,  feel .  ,  on  the  level  of  lower 
+order  abstractions,  and  what  we  say  on  the  level  of  higher  order  abstractions. 
+When  we  have  conquered  that  single  difficulty  we  could  never  then  identify 
+the  two  different  orders  of  abstractions.  We  would  evaluate  the  terms  ‘matter’, 
+space  ,  and  ‘time’  as  forms  of  representation,  and  non-objects,  and  we  would 
+describe  events  in  a  functional,  operational,  behaviouristic  language  of  order. 
+If  we  realize  and  feel  the  finite  velocity  of  propagation  of  all  processes,  we  may 
+visualize  all  that  has  been  explained  here.  Diagrammatizing  and  even  follow¬ 
+ing  with  one’s  hand,  the  visualized  order  of  occurrences,  helps  enormously.  Try 
+to  visualize  how  the  aviator  in  the  last  example  is  flying  away  and  how  much 
+more  slowly  the  light  impressions  from  the  earth  are  reaching  him  or  his  in¬ 
+struments,  and  the  difficulties  will  soon  vanish. 
+
+We  shall  also  be  greatly  helped  in  our  power  of  visualization  when  we 
+become  acquainted  with  the  structure  of  the  Minkowski  four-dimensional 
+world.  An  explanation  of  this  appears  in  the  next  chapter. 
+
+CHAPTER  XXXVIII 
+
+ON  THE  ‘WORLD’  OF  MINKOWSKI 
+
+Moreover,  the  really  fundamental  things  have  a  way  of  appearing  to  be 
+simple  once  they  have  been  stated  by  a  genius,  who  was  in  thiacase  Min- 
+kowski.  (43U  G-  Y-  BAINICH 
+
+We  have  already  freely  used  the  structural  term  ‘dimension’  and  only 
+hinted  at  its  meanings.  Before  we  approach  the  Minkowski  world  we  must 
+summarize  roughly  what  for  our  purpose  we  should  know  about  dimensions. 
+
+There  is  nothing  mysterious  about  the  term  'dimension*.  First  of  all,  the 
+dimensionality  of  a  manifold  is  not  inherent  in  the  manifold  as  such.  It  is  a 
+characteristic  of  order  and  so  of  structure.  A  manifold  can  be  ordered  in  different 
+ways,  so  that  it  follows  that  one  manifold  may  have  different  dimensionality, 
+
+depending  on  how  we  order  it.  ... 
+
+A  manifold  which  has  linear  order  and  structure  is  called  one-dimensional. 
+A  two-dimensional  manifold  is  then  a  linearly  ordered  manifold  of  linearly 
+ordered  manifolds , . 
+
+IT., .ally  we  speak  about  oUr  ‘space’  of  daily  experiences  as  a  three- 
+dimensional  manifold,  but  this  is  true  only  with  reference  to  points,  and  not 
+true  with  reference  to  lines  or  spheres.  The  manifold  of  all  spheres  in  space 
+is,  for  instance,  a  four-dimensional  manifold;  so  also  is  a  manifold  of  lines. 
+
+Let  us  explain  the  line-dimensionality  of  our  ‘space’  in  terms  of  lines. 
+A  line  can  be  given  by  two  points— one,  let  us  say,  in  the  floor  of  our  room, 
+the  other  in  the  ceiling.  Each  of  these  points  is  given  by  two  co-ordinates; 
+it  has  two  degrees  of  freedom;  and  so  our  ‘space’  is  a  four-dimensional  (2x2) 
+manifold  in  lines .  This  means  that  to  distinguish  any  line  in  our  ‘space’  from 
+any  other  line  we  would  have  to  have  four  data .  Similarly,  if  we  deal  with 
+spheres,  a  manifold  made  up  of  spheres  requires  four  data,  three  for  locating 
+the  centre  and  one  giving  the  radius  of  the  sphere.  The  above  examples,  of 
+course,  do  not  exhaust  the  structural  possibilities.1 
+
+The  term  ‘dimension’  does  not  apply  solely  to  what  we  call  ‘space’.  The 
+term  applies  to  any  manifold  which  we  can  order  in  some  particular  way. 
+Manifolds  or  aggregates  abound  everywhere  in  our  lives.  The  domain  of 
+colours,  for  instance,  is  a  manifold;  and  so  is  the  domain  of  tone,  or  of  re¬ 
+membrances  ,  .  No  manifold  in  itself  has  any  dimensionality.  To  ascribe 
+dimensionality  to  the  manifold  we  must  first  order  it  and  the  number  of  its 
+dimensionality,  or  its  ascribed  or  discovered  structure,  may  differ  according 
+to  the  principle  of  ordering  used. 
+
+In  discussing  dimensionality  we  have  two  purposes.  First,  to  dispel  t  e 
+semantic  fright  about  this  simple  term;  and,  second,  to  suggest  means  for 
+visualization,  which  for  our  purpose  are  of  great  neurological  importance. 
+
+When  we  say  that  the  world  is  structurally  a  four-dimensional  manifold, 
+we  mean  only  that  according  to  our  experience  and  the  structure  of  our  nervous 
+
+666  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+system  the  world  of  our  experience  is  represented  by  a  fourfold  order.  We  can 
+order  the  events  as  to  the  right  and  to  the  left,  forward  and  backward,  up  and 
+down  and  sooner  and  later.  In  our  experience  this  fourfold  order  is  completely 
+united,  and  cannot  be  separated  unless  we  deliberately  choose  to  neglect  some 
+of  these  orderings. 
+
+Nor  does  it  mean  that  all  these  dimensions  are  ‘identical’.  We  are  accus¬ 
+tomed,  for  instance,  to  consider  the  three  dimensions  of  ‘space’  as  ‘identical’ 
+or  at  least  equivalent.  Is  this  true  in  life?  Can  we  disregard,  for  instance,  the 
+structural  difference  between  vertical  and  horizontal?  If  we  did,  quite  probably 
+as  Eddington  remarks,  we  should  come  to  an  untimely  end,  and  break  our 
+
+Obviously  if  we  visualise  our  plenum,  as  made  up  of  lines  or  particles  bv 
+necessity  we  visualize  structurally  a  four-dimensional  manifold.  It  should  be 
+noticed  that  a  four-dimensional  ‘absolute  void’,  or  ‘absolute  nothingness’ 
+besides  being  non-sense,  cannot  be  visualized  at  all,  because  it  could  have 
+no  structure. 
+
+We  see  that  all  metaphysical  ‘fourth  dimensions’  are  not  only  non-sense 
+but  usually  indicate  a  pathological  semantic  disturbance.  The  intensity  of 
+such  disturbances  is  often  high,  because  it  is  entirely  impossible  for  a  sane 
+person  to  deal  with  such  meaningless  noises.  The  victim  is  obsessed  with 
+attempts  to  do  the  impossible,— a  semantically  hopeless  and  painful  task. 
+
+Such  objectifications  of  terms  are  very  dangerous  and  science  should  try, 
+y  proper  emphasis,  to  eliminate  them.  Outside  of  science  the  term  ‘dimension’ 
+has  no  meaning  and  ought  to  be  definitely  abandoned  in  our  speculations, 
+for  the  sake  of  sanity. 
+
+The  notion  of  ‘time’  as  a  ‘fourth  dimension’  is  by  no  means  new.  It 
+appeared  in  a  vague  form  centuries  ago.  The  notion  however  was  not  formu¬ 
+lated  properly,  and  therefore  was  unworkable.  Instead  of  helping  science 
+it  only  hindered  it.  ’ 
+
+Inspired  by  Einstein’s  work,  the  mathematician  Minkowski,  whose  work 
+had  been  mainly  in  the  theory  of  numbers,  began  to  work  at  the  theory  of 
+manifolds  of  any  number  of  dimensions.  In  1908  he  delivered  his  famous  and 
+semantically  epoch-making  address  on  Space  and  Time  which  fused  geometry 
+and  physics  structurally.  In  this  address  he  insisted  that  the  connection  between 
+space  and  time’  as  given  by  the  Lorentz-Einstein  formulae  is  not  accidental 
+but  exhibits  that  inner  connection  or  structure  to  which  we  had  not  naid 
+enough  attention.2  v 
+
+In  our  experience,  ‘space’  and  ‘time’  can  never  be  entirely  separated,  as 
+already  explained,  and  so  Minkowski  combined  them  into  a  higher  entity  which 
+is  called  the  Minkowski  world’.  In  the  world  of  experience  the  datum  appears 
+to  be,  not  a  place  and  a  point  of  ‘time’,  but  the  event  or  the  world  point— that  is 
+a  place  at  a  definite  date . 
+
+The  graphic  picture  of  a  moving  point  is  a  world-line .  Rectilinear  uniform 
+motion  corresponds  then  to  a  straight  world-line;  accelerated  motion,  to  one 
+that  is  curved. 
+
+ON  THE  'WORLD'  OF  MINKOWSKI 
+
+The  event  is  the  most  elementary  notion.  We  shall  use  it  from  now  on  in 
+this  work  in  the  sense  of  a  four-dimensional  volume  of  space-time  which  is 
+small  in  all  four  dimensions.  We  do  not  posit  whether  events  themselves  have 
+structure  or  not,  but  it  is  preferable  to  assume  that  they  have  no  space-time 
+structure,  which  means  that  the  event  has  no  parts  which  are  external  to  each 
+other  in  space-time.  The  order  of  events  is  fourfold,  as  previously  shown. 
+
+The  aggregate  or  manifold  of  all  point-events  is  then  called  the  world. 
+The  point-events  are  given  by  four  numbers  representing  the  co-ordinates, 
+three  giving  the  ‘space’  co-ordinates,  and  the  fourth  the  ‘time’  co-ordinate. 
+
+The  term  ‘space-time  continuum’  or  ‘space-time  manifold’  is  used  often 
+and  implies  that  the  numbers  x ,  y,  3,  /,  are  to  vary  continuously. 
+
+In  such  a  space-time  continuum  all  happenings  are  structurally  the  inter¬ 
+sections  of  world-lines,  and  if  we  could  describe  the  world-lines  of  all  points 
+of  the  universe  we  would  have  a  full  account  of  the  universe,  ‘past’  and  ‘future*. 
+We  see  that  all  physics,  with  the  rest  of  our  problems,  must  then  be  considered 
+as  a  chapter  of  the  general  structural  and  semantic  study  of  continuous  mani¬ 
+folds  of  four  dimensions. 
+
+But  we  are  already  acquainted  with  such  theories.  For  instance,  the 
+internal  theory  of  surfaces  may  be  considered  as  a  part  of  the  subject  in  two 
+and  three  dimensions.  We  have  seen  that  different  surfaces  are  characterized 
+by  the  expression  for  the  line  element  d$2  -=gi\dxi  +2gi2dxidx2+g<z2dx227  or  by 
+that  group  of  transformations  which  leaves  the  line  element  invariant.  We 
+know  already  that  in  the  E  as  well  as  riemannian  geometries  we  have  similar 
+expressions  and  characteristic  transformations. 
+
+If  physics  is  to  be  considered  a  branch  of  the  theory  of  four-dimensional 
+manifolds,  we  should  naturally  look  for  some  such  transformations.  The  mani¬ 
+fold  represents  the  world,  the  generalized *  theory  of  relativity  gives  the  desired 
+answer.  Minkowski  proposed  a  postulate,  which  he  calls  the  postulate  of  an 
+absolute  world ,  or  the  world-postulate  which  asserts  the  invariance  of  all  the  laws 
+of  nature  in  relation  to  linear  transformations,  for  which  the  function 
+3C2+y2+32  —cH2  is  invariant. 
+
+The  reader  is  already  familiar  with  the  expression  x2  +  y2*  which  gives 
+the  invariant  length  in  E  geometry  in  two  dimensions,  and  x2  -by2  +s2  which 
+gives  it  in  three  dimensions.  It  would  be  natural  to  expect  that  in  four  dimen¬ 
+sions  we  should  have  an  expression  of  the  type  x2+y2-\-z2+t2  but  in  this  case 
+our  expression  is  x2  -by2  +22  —c2t2.  It  should  be  noticed  that  the  above  different 
+types  of  expressions  haye  different  origins.  The  first  two  arise  in  pure  geometry, 
+and  the  last  has  its  roots  in  physics.  The  problem  was  to  bring  an  experimental 
+expression  into  harmony  with  a  familiar  geometrical  expression.  Minkowski 
+introduced  the  expression  ict^u* ,  where  i  is  as  usual  the  square  root  of  minus 
+one,  (t=V- 1).  Then  of  course  ~cH2  becomes  {id)2  =u?. 
+
+*1  use  the  term  ‘generalized’  to  embrace  the  unified  field  theory  and  eventually 
+the  quantum  theory,  although,  for  our  purpose,  I  utilize  only  the  special  and  gen¬ 
+eral  theory. 
+
+668  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+If  we  change  the  lettering,  and  denote  x~ui ;  y-w,;  then  our 
+
+expression  x*+y*+z*-cH*  becomes  +«*■+««»  W,  a  simple  formula  for 
+distance  in  four-dimensional  geometry.  It  would  not  be  profitable  for  us  to 
+speculate  upon  this  substitution;  it  was  introduced  merely  for  the  sake  of 
+mathematical,  verbal  treatment  and  can  be  easily  translated  back  into  the 
+usual  terms  of  c  and  t. 
+
+We  have  already  seen  that  the  expression  x 2  -f-y2  -\-z2  —  cH2  =  x'2  -j-y'2  -{-s'2  —  c2t'2 
+is  invariant  under  the  L-orentz-Einstein  transformation.  This  fact  of  invariance 
+is  fundamental,  and  it  is  well  to  convince  ourselves  that  it  is  so.  The  Lorentz- 
+'  see  page  xii  Einstein  transformation  was  x’=0(x-vt),  f-y,  s'-*,  ,'=£(, -vx/cy  where 
+
+P  =  1/V1  -*/<*.  As  the  co-ordinates  y  and  z  are  equal  in  both  systems,  we 
+can  disregard  them,  and  verify  that  cH’2 -x’2  -cH2 -x2.  Let  us  substitute  for  f 
+and  xf  the  values  given  by  the  Lorentz-Einstein  transformation.  We  have  then : 
+
+<?t’2 ~c2fP{t -vx/c2)2 -fP{x -vt)2  =c2t2f}2  +yji_2^te  _gW 
+
+c 4  c2 
+
++2(Pxvt’*C2(2(i2(l  -V>/c2)  -**02(1  -v*/c2)  ^  -*/<?  =cHi 
+
+1  —v2/c2  1  —v2/c2  1 
+
+since  =  — Similarly  it  is  easy  to  show,  if  we  take  an  event-particle, 
+
+as,  for  instance,  a  momentary  spark,  which  has  the  co-ordinates  xi,  y\,  zlt  th  in 
+one  system  of  co-ordinates,  say  5,  and  let  another  event-particle  occur  in  that 
+system  at  x2,  y2,  z2,  t2,  that  the  formulae  remain  invariant.  If  we  designate 
+the  distance  between  the  two  events  by  r,  its  value  would  be  given  bv 
+r2  -  (x2 5 +  (y2 -yi)2 + -  Zl)\ 
+
+In  a  different  system,  S',  moving  uniformly  relatively  to  S,  r'2  would  in 
+generai  not  be  equal  to  r2,  but  the  expression  r2-c2{h-h)2  would  be  equal 
+
+to  r,2-c2{ti -t{)2,  r2-c2(t2-t1)2  =  r'2-c2(t2'-t1')2. 
+
+The  above  expression  is  called  the  interval  and  expresses  a  most  funda¬ 
+mental  structural  characteristic;  namely,  that  the  interval  is  invariant  for  all 
+systems  in  uniform  relative  motion.  This  result  is  quite  general  and  independent 
+of  the  relative  orientation  .of  the  axes,  or  of  the  angle  the  velocity  has  to  the 
+axes.  The  interval  plays  in  the  theory  of  Einstein  a  similar  role  which  the 
+Pythagorean  rule  played  in  the  E  geometry. 
+
+Because  of  the  finite  velocity  of  our  measuring  signals,  our  formulae  must 
+involve  finite  velocity.  Therefore  the  interval  is  the  only  actual  measurement 
+
+which  we  can  ever 
+make  in  practice. 
+Hence  its  funda¬ 
+mental  semantic 
+importance. 
+
+Fig.  1  Eddington 
+
+j.  .  ...  gives  a  very  fine 
+
+diagram  in  explaining  how  intervals  are  measured.  I  reproduce  it  here¬ 
+with  (Fig.  1). 
+
+ON  THE  'WORLD'  OF  MINKOWSKI 
+
+The  expression  ci ,  where  c  is  the  velocity  of  light,  300,000  kilometres  per 
+second,  gives  us  the  distance  travelled  by  light  in  the  ‘time’  U  It  is  natural  to 
+regard  the  velocity  of  light,  which  is  a  constant  and  translates  easily  into  the 
+language  of  length,  as  a  unit  of  ‘time’.  In  the  Minkowski  world  it  is  customary, 
+because  of  its  convenience,  to  regard  1  second  as  the  equivalent  of  300,000 
+kilometres  and  measure  lengths  or  ‘times’  in  seconds  or  kilometres  indis¬ 
+criminately. 
+
+Let  us  imagine  a  scale  graduated  in  kilometres,  and  clocks  whose  faces 
+are  also  graduated  in  kilometres  (1/300,000  of  a  second).  If  the  clocks  are 
+set  correctly  and  we  look  at  them  from  A  the  sum  of  the  reading  of  any  clock 
+and  the  scale  division  beside  it  is  one  for  all  because  the  scale  reading  gives 
+the  correction  for  the  ‘time’  taken  by  light,  travelling  with  unit  velocity,  to 
+reach  A. 
+
+If  we  lay  the  scale  in  line  with  the  two  events  and  note  the  clock  and  scale 
+readings,  h  and  *i,  of  the  first  event,  and  the  corresponding  readings,  t%  and  x2t 
+of  the  second  event,  then  s2  —  (h—h)2  —  (*a  —#i)2  where  5  represents  the  interval 
+mentioned  above. 
+
+If  we  set  the  scale  moving  in  the  direction  AB  then  the  divisions  would 
+have  advanced  to  meet  the  second  event  and  the  difference  (x2  “*i)  would  be 
+smaller.  But  this  is  compensatedy  because  (t2  —h)  also  becomes  altered.  When  A 
+is  advancing  to  meet  the  light  coming  from  any  of  the  clocks  on  the  scale  the 
+light  arrives  too  quickly,  and  the  reading  of  the  clock  appears  smaller. 
+
+The  net  result  is,  roughly,  that  it  does  not  matter  what  uniform  motion 
+is  given  to  the  scale,  the  final  results  for  the  interval  5  are  always  equal.3 
+
+We  can  now  understand  the  vital  importance  of  the  minus  sign  with  the 
+‘time’  co-ordinate.  In  fact,  if  in  our  equations  all  the  signs  were  plus,  using 
+the  ‘space’  and  ‘time’  of  one  observer,  one  value  of  5  would  be  obtained;  but 
+using  the  ‘space*  and  ‘time’  of  another  observer,  a  different  value  would  be 
+obtained.  With  the  minus  sign  for  the  ‘time’  co-ordinate,  we  see  that  we  can 
+have  values  of  s  which  are  equal  for  all  observers.  If  the  distances  increase, 
+the  ‘time*  element  increases  also,  and  so  the  difference  may  not  be  changed, 
+but  with  the  positive  sign  this  would  not  be  the  case. 
+
+We  see  that  the  interval  5  represents  something  which  concerns  only  the 
+events  under  consideration.  The  corresponding  entity  in  ordinary  geometry 
+is  distance ,  which  is  independent  of  the  accidental  choice  of  co-ordinates.  The 
+minus  sign  makes  the  geometry  of  space-time  non-euclidean. 
+
+To  familiarize  ourselves  with  what  has  been  already  explained  about 
+simultaneity  and  the  geometry  of  space-time,  we  will  work  it  out  once  more, 
+but  now  by  the  Minkowski  method. 
+
+It  will  be  enough  to  use  two  dimensions,  one  represented  on  the  X  axis, 
+the  other  on  the  T  axis.  Let  us  consider  three  points  A,  B,  C,  at  rest  in  our 
+system  O  on  the  X  axis  (Fig.  2).  In  our  space-time  they  will  be  represented 
+by  three  parallels  to  the  T  axis.  Let  C  be  midway  between  A  and  B  so  that 
+AC  =  CB.  Let  us  assume  that  light  signals  are  sent  in  both  directions  from  C 
+at  the  moment  t  =0.  We  assume  that  the  system  is  ‘at  rest’,  which  means  that 
+
+670  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+the  light  signals  propagate  themselves  to  the  right  and  to  the  left  with  equal 
+velocities.  Hence  we  can  represent  them  by  straight  lines  equally  inclined 
+t°  the  X  axis.  These  lines  are  called  light-lines’. 
+
+T 
+
+Fig.  2 
+
+The  points  A',  B'  which  are  the  inter¬ 
+section  of  the  ‘world-lines'  of  the  points  A 
+and  B  with  the  light-lines-give  us  the  ‘times’ 
+at  which  the  signals  arrive.  It  follows  from 
+the  drawing  that  A*Bf  is  parallel  to  the  X 
+axis,  which  means  that  A'  and  B'  are  ‘simul¬ 
+taneous’  (equal  ‘times’). 
+
+Let  us  now  take  another  case  in  which 
+our  points  A ,  B,  C,  move  uniformly  with  an 
+
+...  ,  .  eQual  velocity  (Fig.  3).  Their  world-lines 
+
+will  also  be  parallel  to  each  other  but  inclined  to  the  axis.  In  the  drawing  the 
+light-lines  will  be  represented  by  similar  lines  but  their  intersections  with  the 
+world-lines  of  A  and  B  will  not  be  on  a  parallel  to  the  X  axis,  and  so  they  will 
+not  be  simultaneous. 
+
+We  should  notice  that  an  observer 
+who  moved  with  the  system  in  the  direc¬ 
+tion  OX*  would  be  perfectly  entitled  to 
+claim  that  A'  and  B'  are  simultaneous  to 
+him.  His  co-ordinate  system  would  be 
+OXfT't  in  which  the  points  A'  and  W 
+are  on  a  parallel  to  his  X '  axis  as  he  is  at 
+test  in  his  system  OXfT* .  The  world¬ 
+lines  A,  B,  C,  are  parallel  to  the  V  axis 
+because  the  points  are  supposed  to  be  at 
+rest  in  this  system  and  hence  the  x’s 
+
+have  equal  values  for  all  *’s. 
+
+An  important  point  should  be  noticed;  namely,  that  we  have  only  one 
+space-time  and  that  the  indefinitely  numerous  ways  different  observers  par- 
+fabon  their  ‘space’  and  ‘time’  represent  merely  the  indefinitely  many  ways  in 
+which  it  can  be  partitioned.  If  we  keep  the  whole  of  it  under  consideration  we 
+see  that  we  cannot  divide  it  into  ‘space’  and  ‘time’,  as  any  subdivision  has  both 
+aspects.4 
+
+The  Minkowski  method  of  representation  makes  the  change  in  our  measure¬ 
+ments  of  length,  as  given  by  the  Lorentz-Einstein  transformation,  very  obvious. 
+
+A  measuring  rod  is  not  purely  a  ‘spatial’  configuration,  as  in  the  actual 
+world  such  a  thing  does  not  exist,  but  it  is  a  space-time  configuration. 
+
+Every  point  of  the  rod  exists  at  each  moment  of  ‘time’.  We  see  that  in 
+space-time  we  cannot  represent  our  rod  as  a  segment  on  the  X  axis  but  must 
+represent  it  structurally  as  a  strip  in  the  XT  plane.  We  assume  here  for  sim- 
+plicity  that  the  rod  is  one-dimensional  (Fig.  4). 
+
+_  ^  r<^|  is  at  rest  in  a  system  is  represented  by  a  strip  parallel  to  the 
+
+T  axis.  If  it  is  moving,  its  strip  is  inclined  to  the  Taxis.  The  ‘contraction’  does 
+
+ON  THE  ‘WORLD’  OF  MINKOWSKI 
+
+not  affect  the  strip  at  all  but  it  is  rather  a  section  cut  out  of  the  X  axis.  In 
+actual  experience,  it  is  only  the  strip  as  a  manifold  of  world  points  which  has 
+physical  reality,  and  not  the  cross  sections,  which,  as  we  see,  are  not  equal  on 
+different  axes.  The  ‘contraction’  is  not  a 
+change  in  ‘physical  reality’  but  merely  a  con¬ 
+sequence  of  our  way  of  regarding  things.  We 
+see  that  the  notorious  argument  as  to  whether 
+the  ‘contraction’  is  ‘real’  or  ‘apparent  is 
+based  on  a  misunderstanding.  Born  gives  an 
+excellent  example.  If  we  slice  a  cucumber  in 

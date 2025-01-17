@@ -1,0 +1,500 @@
+for  different  specialists,  often  running  entirely  counter  to  the  accepted 
+scientific  creeds.  As  they  followed  naturally  from  the  context,  I  inserted 
+them  for  the  specialist,  without  warning,  for  which  I  have  to  apologize 
+to  the  general  reader,  although  they  will  be  useful  to  him  also. 
+
+To  make  issues  sharper,  some  words  will  be  repeated  so  often  that 
+I  abbreviate  them  as  follows : 
+
+Abbreviation 
+
+Stands  for 
+
+Abbreviation 
+
+Stands  for 
+
+A 
+
+aristotelian 
+
+r 
+
+non-newtonian 
+
+A 
+
+non-aristotelian 
+
+el 
+
+elementalistic 
+
+E 
+
+euclidean 
+
+non~el 
+
+non-elementalistic 
+
+E 
+
+non-euclidean 
+
+m.o  or  (fn.o) 
+
+multiordinal 
+
+N 
+
+newtonian 
+
+s.r  or  ( s.r ) 
+
+semantic  reactions, 
+both  singular  and 
+plural 
+
+In  some  instances,  for  special  emphasis,  the  words  will  be  spelled 
+in  full. 
+
+A  A- system,  being  extensional,  requires  the  enumeration  of  long 
+lists  of  names,  which,  in  principle,  cannot  be  exhausted.  Under  such 
+conditions,  I  have  to  list  a  few  representatives  followed  by  an  ‘etc.’,  or 
+its  equivalents.  As  the  extensional  method  is  characteristic  of  a 
+A  treatment,  the  expression  ‘etc/  occurs  so  often  as  to  necessitate  a 
+special  A  extensional  punctuation  whenever  the  period  does  not  indicate 
+another  abbreviation,  as  follows : 
+
+I.  PKKLIMINARIKS 
+
+Abbreviation 
+
+Stands  for 
+
+•  * 
+
+etc., 
+
+t  • 
+
+,etc. 
+
+•  j 
+
+etc. ; 
+
+Abbreviation 
+
+Stands  for 
+
+etc. : 
+
+etc.? 
+
+etc. ! 
+
+This  book  is  intended  as  a  handbook,  and  I  have  avoided  referring 
+the  reader  to  other  books,  but  have  given  as  much  of  structural  data  as 
+I  deemed  useful  for  a  general  orientation.  In  a  work  of  such  wide 
+scope  and  novelty,  it  seemed  desirable  to  give  a  general  outline  rather 
+than  to  elaborate  in  detail  on  some  particular  points,  so  that  this  work 
+is  not  exhaustive  in  any  field ;  nor,  at  present,  can  it  be. 
+
+The  notes  at  the  end  of  the  book  are  given  for  the  purposes 
+(among  others)  of  indicating  sources  of  information,  as  an  acknowl¬ 
+edgement,  and  to  facilitate  the  work  of  the  future  student.  As  much  as 
+I  could,  I  have  avoided  direct  quotations  from  other  authors,  because 
+usually  it  has  seemed  more  expedient  to  change  the  wording  slightly. 
+In  many  instances,  I  have  followed  the  original  wordings  very  closely, 
+always  giving  the  proper  credit. 
+
+I  have  not  avoided  repetitions,  because  I  have  found,  through  sad 
+experience,  that  many  times,  when  I  was  reproached  for  a  repetition,  the 
+hearer  or  reader  was  disregarding  quite  happily  and  unconsciously  the 
+said  ‘repetition',  as  if  he  had  never  heard  it  before.  For  such  a  work 
+as  the  present  one,  the  standard  literary  habits — ‘avoid  repetitions',  ‘let 
+the  reader  discover  it  for  himself'. ,  are  extremely  detrimental  to  the 
+understanding  of  a  few  fundamental  issues  and  to  the  acquiring  of  A 
+habits  and  new  s.r.  To  facilitate  the  student's  task,  I  had  no  other  choice 
+than  to  write  as  I  did. 
+
+In  1933,  scientific  opinion  is  divided  as  to  whether  we  need  more 
+science  or  less  science.  Some  prominent  men  even  suggest  that  scientists 
+should  take  a  vacation  and  let  the  rest  of  mankind  catch  up  with  their 
+achievements.  There  seems  no  doubt  that  the  discrepancy  between 
+human  adjustments  and  the  advances  of  science  is  becoming  alarming. 
+Is,  then,  such  a  suggestion  justified? 
+
+The  answer  depends  on  the  assumptions  underlying  such  opinions. 
+If  humans,  as  such,  have  reached  the  limit  of  their  nervous  development, 
+and  if  the  scientific  study  of  man,  as  man,  should  positively  disclose 
+these  limitations,  then  such  a  conclusion  would  be  justified.  But  is  this 
+the  case? 
+
+AIMS,  MHANS  AND  CONSEOU ENCKS 
+
+The  present  investigation  shows  most  emphatically  that  this  is  not 
+the  case.  All  sciences  have  progressed  exclusively  because  they  have 
+succeeded  in  establishing  their  own  A  languages.  For  instance,  a  science 
+of  thermodynamics  could  not  have  been  built  on  the  terms  of  ‘cold*  and 
+!warm\  Another  language,  one  of  relations  and  structure,  was  needed ; 
+and,  once  this  was  produced,  a  science  was  born  and  progress  secured. 
+Could  modern  mathematics  be  built  on  the  Roman  notation  for  numbers 
+— I,  II,  III,  IV,  V.?  No,  it  could  not.  The  simplest  and  most  child¬ 
+like  arithmetic  was  so  difficult  as  to  require  an  expert ;  and  all  progress 
+was  very  effectively  hampered  by  the  symbolism  adopted.  History  shows 
+that  only  since  the  unknown  Hindu  discovered  the  most  revolutionary 
+and  modern  principle  of  positional  notation — 1,  10,  100,  1000.,  modern 
+mathematics  has  become  possible.  Every  child  today  is  more  skilful  in 
+his  arithmetics  than  the  experts  of  those  days.  Incidentally,  let  us  notice 
+that  positional  notation  has  a  definite  structure . 
+
+Have  we  ever  attempted  anything  similar  in  the  study  of  man? 
+As-a-whole?  In  all  his  activities?  Again,  most  emphatically.  No!  We 
+have  never  studied  man-as-a-whole  scientifically.  If  we  make  an  attempt, 
+such  as  the  present  one,  for  instance,  we  discover  the  astonishing,  yet 
+simple,  fact  that,  even  now,  we  all  copy  animals  in  our  nervous  re¬ 
+sponses,  although  these  can  be  brought  to  the  human  level  if  the  differ¬ 
+ence  in  the  mechanism  of  responses  is  discovered  and  formulated. 
+
+Once  this  is  understood,  we  must  face  another  necessity.  To  abolish 
+the  discrepancy  between  the  advancement  of  science  and  the  power  of 
+adjustment  of  man,  we  must  first  establish  the  science  of  man-as-a- 
+whole,  embracing  all  his  activities,  science,  mathematics  and  ‘mental’  ills 
+not  excluded.  Such  an  analysis  would  help  us  to  discover  the  above- 
+mentioned  difference  in  responses,  and  the  s.r  in  man  would  acquire  new 
+significance. 
+
+If  the  present  work  has  accomplished  nothing  more  than  to  suggest 
+such  possibilities,  I  am  satisfied.  Others,  I  hope,  will  succeed  where  I 
+may  have  failed.  Under  such  conditions,  the  only  feasible  resort  is  to 
+produce  a  science  of  man,  and  thus  have  not  less,  but  more,  science, 
+ultimately  covering  all  fields  of  human  endeavour,  and  thereby  putting 
+a  stop  to  the  animalistic  nervous  reactions,  so  vicious  in  their  effects 
+on  man. 
+
+At  present,  nowhere  in  the  world  are  there  such  psychophysiological 
+researches  being  made.  There  are  large  sums  of  money  invested  in  dif¬ 
+ferent  well-established  institutions  for  scientific  research,  for  ‘mental’ 
+hygiene,  for  international  peace,  and  so  forth,  but  not  for  what  is  pos¬ 
+sibly  the  most  important  of  all  lines  of  research;  namely,  a  general 
+
+I.  PRELIMINARIES 
+
+science  of  man  in  alj  aspects  of  his  behaviour,  science,  mathematics,  and 
+‘mental’  ills  included. 
+
+It  is  to  be  hoped  that,  in  the  not-too-distant  future,  some  individuals 
+and  universities  will  awaken  to  the  fact  that  language  is  a  fundamental 
+psychophysiological  function  of  man,  and  that  a  scientific  investigation 
+of  man  in  all  his  activities,  is  a  necessary,  pressing,  very  promising,  and 
+practical  undertaking.  Then,  perhaps,  special  chairs  will  be  established 
+in  universities,  and  some  such  researches  in  semantic  reactions  and  san¬ 
+ity  will  command  as  much  interest  and  public  encouragement  as  other 
+scientific  investigations. 
+
+I,  personally,  have  no  doubt  that  this  would  mark  the  beginning  of 
+a  new  era,  the  scientific  era ,  in  which  all  human  desirable  characteristics 
+would  be  released  from  the  present  animalistic,  psychophysiological,  A 
+semantic  blockages,  and  that  sanity  would  prevail. 
+
+That  this  is  not  a  dream,  and  that  such  nervous  mechanisms  pro¬ 
+ducing  blockages  do  exist,  has  been  demonstrated  by  Pavlov  on  his  dogs, 
+by  all  psychotherapy,  and  the  experiments  now  being  made  on  the 
+elimination  of  the  disturbances  of  the  s.r.  The  abundance  of  geniuses 
+among  younger  physicists,  since  the  einsteinian  structural  revolution  and 
+semantic  release,  is  also  an  important  empirical  evidence  that  different 
+man-made  verbal  systems  can  stimulate  or  hamper  the  functioning  of  the 
+human  nervous  system. 
+
+What  has  been  said  here  has  very  solid  structural,  neurological 
+foundations.  For  our  purpose,  we  may  consider  a  rough  structural  differ¬ 
+ence  between  the  nervous  systems  of  man  and  animal.  Briefly,  we  can 
+distinguish  in  the  brain  two  kinds  of  nervous  fibres,  the  radiating  pro¬ 
+jection  fibres  and  the  tangential  correlation  and  association  fibres.  With 
+the  increase  of  complexities  and  modifiability  of  the  behaviour,  we  find 
+an  increased  number  and  more  complex  interrelations  of  association 
+fibres.  The  main  difference,  for  instance,  between  the  brain  of  a  man 
+and  the  brain  of  a  higher  ape  is  found  not  in  the  projection  apparatus, 
+but  in  the  association  paths,  which  are  enormously  enlarged,  more  numer¬ 
+ous,  and  more  complex  in  man  than  in  any  animal.  Obviously,  if  these 
+association  paths  are  blocked  to  the  passage  of  nervous  impulses  by 
+some  psychophysiological  process,  the  reactions  of  the  individual  must 
+be  of  a  lower  order,  and  such  blockage  must  give  the  effect  of  the  given 
+individual’s  being  organically  deficient,  and  must,  therefore,  result  in 
+animalistic  behaviour. 
+
+The  present  investigation  discloses  that  the  s.r  may  assume  very 
+diversified  forms,  one  of  which  is  the  production  of  very  powerful 
+psychophysiological  blockages.  These,  when  once  we  understand  their 
+mechanism,  can  be  eliminated  by  proper  education  and  training  in  ap¬ 
+propriate  s.r. 
+
+CHAPTER  II 
+
+TERMINOLOGY  AND  MEANINGS 
+
+The  representation  of  mental  phenomena  in  the  form  of  reactions,  con¬ 
+ditioned  reflexes,  Bechterew’s  ‘psycho-reflexes/  leads  to  a  truly  physio¬ 
+logical  schematization.  .  .  .  (4ii)  henri  piero n 
+
+Now  I  claim  that  the  Ethnographer’s  perspective  is  the  one  relevant 
+and  real  for  the  formation  of  fundamental  linguistic  conceptions  and  for 
+the  study  of  the  life  of  languages,  whereas  the  Philologist’s  point  of  view 
+is  fictitious  and  irrelevant.  ...  To  define  Meaning,  to  explain  the  essential 
+grammatical  and  lexical  characters  of  language  on  the  material  furnished 
+by  the  study  of  dead  languages,  is  nothing  short  of  preposterous  in  the 
+light  of  our  argument.  (332)  b.  Malinowski 
+
+If  he  contend,  as  sometimes  he  will  contend,  that  he  has  defined  all  his 
+terms  and  proved  all  his  propositions,  then  either  he  is  a  performer  of 
+logical  miracles  or  he  is  an  ass;  and,  as  you  know,  logical  miracles  are  im¬ 
+possible.  (264)  CASSIUS  J.  KBYSER 
+
+Finally,  in  semantic  aphasia,  the  full  significance  of  words  and  phrases 
+is  lost.  Separately,  each  word  or  each  detail  of  a  drawing  can  be  under¬ 
+stood,  but  the  general  significance  escapes;  an  act  is  executed  upon  com¬ 
+mand,  though  the  purpose  of  it  is  not  understood.  Reading  and  writing 
+are  possible  as  well  as  numeration,  the  correct  use  of  numbers;  but  the 
+appreciation  of  arithmetical  processes  is  defective.  ...  A  general  concep¬ 
+tion  cannot  be  formulated,  but  details  can  be  enumerated.  (4in 
+
+HENRI  PI&RON 
+
+Moreover,  the  aphasic  patient  in  his  mode  of  life,  in  his  acts  and  in  all 
+his  behaviour  may  seem  biologically  and  socially  normal.  But  he  has 
+nevertheless  suffered  an  unquestionable  loss,  for  he  no  longer  has  any 
+chance  of  undergoing  further  modifications  of  social  origin,  ana  of  reacting 
+in  his  turn  as  a  factor  in  evolution  and  progress.  <4U)  henri  pi£ron 
+
+Particularly  it  expresses  that  most  important  step  in  the  treatment,  the 
+passing  over  from  a  mere  intellectual  acceptance  of  the  facts  of  the  analysis, 
+whether  in  interpretation  of  the  underlying  complexes  or  in  recognition  of 
+the  task  to  be  accepted,  to  an  emotional  appreciation  and  appropriation 
+of  the  same.  Intellectual  acceptance  can  work  no  cure  but  may  prove  seri¬ 
+ously  misleading  to  the  patient  who  is  attempting  to  grasp  the  situation 
+and  to  the  beginner  in  analysis  as  well.  (24i)  smith  ely  jelliffe 
+
+Section  A.  On  semantic  reactions . 
+
+The  term  semantic  reaction  is  fundamental  for  the  present  work  and 
+non-elementalistic  systems .  The  term  ‘semantic*  is  derived  from  the 
+Greek  semantikos,  ‘significant’,  from  semainein  ‘to  signify’,  ‘to  mean*, 
+and  was  introduced  into  literature  by  Michel  Breal  in  his  Essai  de 
+Semantique .  The  term  has  been  variously  used  in  a  more  or  less  gen¬ 
+eral  or  restricted  sense  by  different  writers.  Of  late,  this  term  has  been 
+used  by  the  Polish  School  of  Mathematicians,  and  particularly  L.  Chwis- 
+
+I.  PRELIMINARIES 
+
+tek  (see  Supplement  III),  A.  F.  Bentley1,  and  has  been  given  a  medical 
+application  by  Henry  Head2  in  the  study  of  different  forms  of  Aphasias. 
+‘ Aphasia',  from  the  Greek  aphasia ,  'speechlessness',  is  used  to  describe 
+disorders  in  comprehension  or  expression  of  written  and  spoken  lan¬ 
+guage  which  result  from  lesions  of  the  brain.  Disturbances  of  the 
+semantic  reactions  in  connection  with  faulty  education  and  ignorance 
+must  be  considered  in  1933  as  sub-microscopic  colloidal  lesions. 
+
+Among  the  many  subdivisions  of  the  symbolic  disturbance,  we  find 
+semantic  aphasia >  to  be  described  (after  Head)  as  the  want  of  recogni¬ 
+tion  or  the  full  significance  or  intention  of  words  and  phrases,  combined 
+with  the  loss  of  power  of  appreciating  the  'ultimate  or  non-verbal  mean¬ 
+ing  of  words  and  phrases'  to  be  investigated  presently,  and  the  failure  to 
+recognize  the  intention  or  goal  of  actions  imposed  upon  the  patient. 
+
+The  problems  of  'meaning'  are  very  complex  and  too  little  investi¬ 
+gated,  but  it  seems  that  'psychologists'  and  'philosophers'  are  not  entirely 
+in  sympathy  with  the  attitude  of  the  neurologists.  It  is  necessary  to  show 
+that  in  a  ^-system,  which  involves  a  new  theory  of  meanings  based  on 
+non-el  semantics,  the  neurological  attitude  toward  ‘meaning'  is  the  only 
+structurally  correct  and  most  useful  one. 
+
+The  explanation  is  quite  simple.  We  start  with  the  negative  A 
+premise  that  words  are  not  the  un-speakable  objective  level,  such  as 
+the  actual  objects  outside  of  our  skin  and  our  personal  feelings  inside 
+our  skin.  It  follows  that  the  only  link  between  the  objective  and  the 
+verbal  world  is  exclusively  structural,  necessitating  the  conclusion  that 
+the  only  content  of  all  'knowledge'  is  structural.  Now  structure  can  be 
+considered  as  a  complex  of  relations,  and  ultimately  as  multi-dimensional 
+order. 
+
+From  this  point  of  view,  all  language  can  be  considered  as  names 
+either  for  un-speakable  entities  on  the  objective  level,  be  it  things  or 
+feelings,  or  as  names  for  relations .  In  fact,  even  objects,  as  such,  could 
+be  considered  as  relations  between  the  sub-microscopic  events  and  the 
+human  nervous  system.  If  we  enquire  what  the  last  relations  represent, 
+we  find  that  an  object  represents  an  abstraction  of  low  order  pro¬ 
+duced  by  our  nervous  system  as  the  result  of  the  sub-microscopic  events 
+acting  as  stimuli  upon  the  nervous  system.  If  the  objects  represent 
+abstractions  of  some  order,  then,  obviously,  when  we  come  to  the  enquiry 
+as  to  language,  we  find  that  words  are  still  higher  abstractions  from 
+objects.  Under  such  conditions,  a  theory  of  'meaning'  looms  up  natur¬ 
+ally.  If  the  objects,  as  well  as  words,  represent  abstractions  of  different 
+order,  an  individual,  A,  cannot  know  what  B  abstracts,  unless  B  tells 
+him,  and  so  the  'meaning'  of  a  word  must  be  given  by  a  definition.  This 
+
+TKKMINOUXiY  AN!)  MKANINGS 
+
+would  lead  to  the  dictionary  meanings  of  words,  provided  we  could  define 
+all  our  words.  But  this  is  impossible.  If  we  were  to  attempt  to  do  so, 
+we  should  soon  find  that  our  vocabulary  was  exhausted,  and  we  should 
+reach  a  set  of  terms  which  could  not  be  any  further  defined,  from  lack 
+of  words.  We  thus  see  that  all  linguistic  schemes,  if  analysed  far 
+enough,  would  depend  on  a  set  of  undefined  terms.  If  we  enquire  about 
+the  ‘meaning’  of  a  word,  we  find  that  it  depends  on  the  ‘meaning’  of 
+other  words  used  in  defining  it,  and  that  the  eventual  new  relations 
+posited  between  them  ultimately  depend  on  the  m.o  meanings  of  the 
+undefined  terms ,  which,  at  a  given  period,  cannot  be  elucidated  any 
+further. 
+
+Naturally,  any  fundamental  theory  of  ‘meaning’  cannot  avoid  this 
+issue,  which  must  be  crucial.  Here  a  semantic  experiment  suggests 
+itself.  I  have  performed  this  experiment  repeatedly  on  myself  and 
+others,  invariably  with  similar  results.  Imagine  that  we  are  engaged 
+in  a  friendly  serious  discussion  with  some  one,  and  that  we  decide  to 
+enquire  into  the  meanings  of  words.  For  this  special  experiment,  it  is 
+not  necessary  to  be  very  exacting,  as  this  would  enormously  and  unneces¬ 
+sarily  complicate  the  experiment.  It  is  useful  to  have  a  piece  of  paper 
+and  a  pencil  to  keep  a  record  of  the  progress. 
+
+We  begin  by  asking  the  ‘meaning’  of  every  word  uttered,  being 
+satisfied  for  this  purpose  with  the  roughest  definitions ;  then  we  ask  the 
+‘meaning’  of  the  words  used  in  the  definitions,  and  this  process  is  con¬ 
+tinued  usually  for  no  more  than  ten  to  fifteen  minutes,  until  the  victim 
+begins  to  speak  in  circles — as,  for  instance,  defining  ‘space’  by  ‘length’ 
+and  ‘length’  by  ‘space’.  When  this  stage  is  reached,  we  have  come  usually 
+to  the  undefined  terms  of  a  given  individual.  If  we  still  press,  no  matter 
+how  gently,  for  definitions,  a  most  interesting  fact  occurs.  Sooner  or 
+later,  signs  of  affective  disturbances  appear.  Often  the  face  reddens; 
+there  is  a  bodily  restlessness ;  sweat  appears — symptoms  quite  similar  to 
+those  seen  in  a  schoolboy  who  has  forgotten  his  lesson,  which  he  ‘knows 
+but  cannot  tell’.  If  the  partner  in  the  experiment  is  capable  of  self- 
+observation,  he  invariably  finds  that  he  feels  an  internal  affective  pres¬ 
+sure ,  connected,  perhaps,  with  the  rush  of  blood  to  the  brain  and  prob¬ 
+ably  best  expressed  in  some  such  words  as  ‘what  he  “knows”  but  cannot 
+tell’,  or  the  like.  Here  we  have  reached  the  bottom  and  the  foundation 
+of  all  non-elementalistic  meanings — the  meanings  of  undefined  terms , 
+which  we  ‘know’  somehow,  but  cannot  tell.  In  fact,  we  have  reached  the 
+un-speakable  level.  This  ‘knowledge’  is  supplied  by  the  lower  nerve 
+centres ;  it  represents  affective  first  order  effects,  and  is  interwoven  and 
+interlocked  with  other  affective  states,  such  as  those  called  ‘wishes’, 
+
+I.  PRELIMINARIES 
+
+‘intentions',  ‘intuitions',  ‘evaluation',  and  many  others.  It  should  be 
+noticed  that  these  first  order  effects  have  an  objective  character,  as  they 
+are  un-speakable — are  not  words. 
+
+‘Meaning'  must  be  considered  as  a  multiordinal  term,  as  it  applies 
+to  all  levels  of  abstractions,  and  so  has  no  general  content.  We  can  only 
+speak  legitimately  of  ‘meanings'  in  the  plural.  Perhaps,  we  can  speak 
+of  the  meanings  of  meanings,  although  I  suspect  that  the  latter  would 
+represent  the  un-speakable  first  order  effect,  the  affective,  personal  raw 
+material,  out  of  which  our  ordinary  meanings  are  built. 
+
+The  above  explains  structurally  why  most  of  our  ‘thinking'  is  to 
+such  a  large  extent  ‘wishful'  and  is  so  strongly  coloured  by  affective 
+factors.  Creative  scientists  know  very  well  from  observation  of  them¬ 
+selves,  that  all  creative  work  starts  as  a  ‘feeling',  ‘inclination',  ‘suspicion', 
+‘intuition',  ‘hunch',  or  some  other  un-speakable  affective  state,  which  only 
+at  a  later  date,  after  a  sort  of  nursing,  takes  the  shape  of  a  verbal  ex¬ 
+pression,  worked  out  later  in  a  rationalized,  coherent,  linguistic  scheme 
+called  a  theory.  In  mathematics  we  have  some  astonishing  examples  of 
+intuitively  proclaimed  theorems,  which,  at  a  later  date,  have  been  proven 
+to  be  true,  although  the  original  proof  was  false. 
+
+The  above  explanation,  as  well  as  the  neurological  attitude  toward 
+‘meaning',  as  expressed  by  Head,  is  non-elementalistic .  We  have  not 
+illegitimately  split  organismal  processes  into  ‘intellect'  and  ‘emotions'. 
+These  processes,  or  the  reactions  of  the  organism-as-a-whole,  can  be 
+contemplated  at  different  neurological  stages  in  terms  of  order,  but  must 
+never  be  split  or  treated  as  separate  entities.  This  attitude  is  amply 
+justified  structurally  and  empirically  in  daily  and  scientific  life.  For  in¬ 
+stance,  we  may  assume  that  educated  Anglo-Saxons  are  familiar  with 
+the  Oxford  Dictionary,  although  it  must  be  admitted  that  they  are  handi¬ 
+capped  in  the  knowledge  of  their  language  by  being  born  into  it ;  yet  we 
+know  from  experience  how  words  which  have  one  standard  definition 
+carry  different  meanings  to,  and  produce  different  affective  individual 
+reactions  on,  different  individuals.  Past  experiences,  the  knowledge . ,  of 
+different  individuals  are  different,  and  so  the  evaluation  (affective)  of 
+the  terms  is  different.  We  are  accustomed  to  such  expressions  as  ‘it 
+means  nothing  to  me',  even  in  cases  when  the  dictionary  wording  is 
+accepted ;  or  ‘it  means  a  great  deal  to  me',  and  similar  expressions  which 
+indicate  that  the  meanings  of  meanings  are  somehow  closely  related  to, 
+or  perhaps  represent,  the  first  order  un-speakable  affective  states  or 
+reactions. 
+
+Since  ‘knowledge',  then,  is  not  the  first  order  un-speakable  objective 
+level,  whether  an  object,  a  feeling. ;  structure,  and  so  relations,  becomes 
+
+TKKMlNOUXiY  AN L)  MKAN1NGS 
+
+l ht‘  only  possible  content  of  'knowledge'  and  of  meanings.  On  the  lowest 
+Irvel  of  our  analysis,  when  we  explore  the  objective  level  (the  un¬ 
+speakable  feelings  in  this  case),  we  must  try  to  define  every  ‘meaning'  as 
+;t  conscious  feeling  of  actual,  or  assumed,  or  wished . ,  relations  which 
+pertain  to  first  order  objective  entities,  psycho-logical  included,  and  which 
+can  be  evaluated  by  personal,  varied,  and  racial — again  un-speakable  first 
+order — psychophysiological  effects.  Because  relations  can  be  defined  as 
+multi-dimensional  order,  both  of  which  terms  are  non-el applying  to 
+‘senses'  and  'mind',  after  naming  the  un-speakable  entities,  all  experience 
+ran  be  described  in  terms  of  relations  or  multi-dimensional  order.  The 
+meanings  of  meanings,  in  a  given  case,  in  a  given  individual  at  a  given 
+moment . ,  represent  composite,  affective  psycho-logical  configurations  of 
+all  relations  pertaining  to  the  case,  coloured  by  past  experiences,  state  of 
+health,  mood  of  the  moment,  and  other  contingencies. 
+
+If  we  consistently  apply  the  organism-as-a-whole  principle  to  any 
+psycho-logical  analysis,  we  must  conjointly  contemplate  at  least  both 
+aspects,  the  'emotional'  and  the  'intellectual',  and  so  deliberately  ascribe 
+'emotional'  factors  to  any  'intellectual'  manifestation,  and  'intellectual' 
+factors  to  any  ‘emotional’  occurrence.  That  is  why,  on  human  levels,  the 
+el  term  'psychological'  must  be  abolished  and  a  new  term  psycho-logical 
+introduced,  in  order  that  we  may  construct  a  science. 
+
+From  what  has  been  said,  we  see  that  not  only  the  structure  of  the 
+world  is  such  that  it  is  made  up  of  absolute  individuals,  but  that  mean¬ 
+ings  in  general,  and  the  meanings  of  meanings  in  particular — the  last 
+representing  probably  the  un-speakable  first  order  effects — also  share,  in 
+common  with  ordinary  objects,  the  absolute  individuality  of  the  objective 
+level. 
+
+The  above  explains  why,  by  the  inherent  structure  of  the  world, 
+life,  and  the  human  nervous  system,  human  relations  are  so  enormously 
+complex  and  difficult;  and  why  we  should  leave  no  stone  unturned  to 
+discover  beneath  the  varying  phenomena  more  and  more  general  and 
+invariant  foundations  on  which  human  understanding  and  agreement 
+may  be  based.  In  mathematics  we  find  the  only  model  in  which  we  can 
+study  the  invariance  of  relations  under  transformations,  and  hence  the 
+need  for  future  psycho-logicians  to  study  mathematics. 
+
+It  follows  from  these  considerations  that  any  psycho-logical  occur¬ 
+rence  has  a  number  of  aspects,  an  'affective',  and  an  ‘intellectual',  a 
+physiological,  a  colloidal,  and  what  not.  For  the  science  of  psychophysiol¬ 
+ogy,  resulting  in  a  theory  of  sanity,  the  above  four  aspects  are  of  most 
+importance.  As  our  actual  lives  are  lived  on  objective,  un-speakable 
+levels,  and  not  on  verbal  levels,  it  appears,  as  a  problem  of  evaluation, 
+
+I.  PRELIMINARIES 
+
+that  the  objective  level,  including,  of  course,  our  un-speakable  feelings, 
+'emotions’. ,  is  the  most  important,  and  that  the  verbal  levels  are  only 
+auxiliary,  sometimes  useful,  but  at  present  often  harmful,  because  of  the 
+disregard  of  the  s.r.  The  role  of  the  auxiliary  verbal  levels  is  only  ful¬ 
+filled  if  these  verbal  processes  are  translated  back  into  first  order  effects. 
+Thus,  through  verbal  intercourse,  in  the  main,  scientists  discover  useful 
+first  order  abstractions  (objective),  and  by  verbal  intercourse  again, 
+culture  is  built ;  but  this  only  when  the  verbal  processes  affect  the  un¬ 
+speakable  psycho-logical  manifestations,  such  as  our  feelings,  'emotions’, . 
+
+Some  extraordinary  parrot  could  be  taught  to  repeat  all  the  verbal 
+'wisdom’  of  the  world ;  but,  if  he  survived  at  all,  he  would  be  just  a  par¬ 
+rot.  The  repeated  noises  would  not  have  affected  his  first  order  effects — 
+his  affects — these  noises  would  'mean’  nothing  to  him. 
+
+Meanings,  and  the  meanings  of  meanings,  with  their  inseparable 
+affective  components,  give  us,  therefore,  not  only  the  non-elementalistic 
+foundation  on  which  all  civilization  and  culture  depends,  but  a  study  of 
+the  non-el  mechanisms  of  meanings,  through  psychophysiology  and 

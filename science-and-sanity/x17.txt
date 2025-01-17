@@ -1,0 +1,500 @@
+verse.,  an  inexhaustible  array  of  characteristics  which  could  never  be 
+terminated.  In  general,  physical  abstractions,  including  daily-life  abstrac¬ 
+tions  are  such  that  particulars  are  left  out — we  proceed  by  a  process  of 
+forgetting.  In  other  words,  no  description  or  ‘definition*  will  ever  include 
+all  particulars. 
+
+Linguistic  abstractions  from 
+objective  levers,  particulars  left 
+out.  Deductions  work  relatively, 
+no  matter  how  correctly  made, 
+x 
+
+X 
+X 
+
+Particulars  left  out. 
+
+Fig.  1. 
+
+GENERAL  LINGUISTIC 
+
+Only  and  exclusively  in  mathematics  does  deduction,  if  correct, 
+work  absolutely,  for  no  particulars  are  left  out  which  may  later  be  discov¬ 
+ered  and  force  us  to  modify  our  deductions. 
+
+Not  so  in  abstracting  from  physical  objects.  Here,  particulars  are 
+left  out ;  we  proceed  by  forgetting,  our  deductions  work  only  relatively, 
+and  must  be  revised  continuously  whenever  new  particulars  are  discov¬ 
+ered.  In  mathematics,  however,  we  build  for  ourselves  a  fictitious  and 
+over-simplified  verbal  world,  with  abstractions  which  have  all  particulars 
+included.  If  we  compare  mathematics,  taken  as  a  language,  with  our 
+daily  language,  we  see  readily  that  in  both  verbal  activities  we  are  build¬ 
+ing  for  ourselves  forms  of  representation  for  this  something-going-on, 
+which  is  not  words. 
+
+Considered  as  a  language,  mathematics  appears  as  a  language  of  the 
+highest  perfection,  but  at  its  lowest  development.  Perfect,  because  the 
+structure  of  mathematics  makes  it  possible  to  be  so  (all  characteristics 
+included,  and  no  physical  content),  and  because  it  is  a  language  of 
+relations  which  are  also  found  in  this  world.  At  the  lowest  development, 
+because  we  can  speak  in  it  as  yet  about  very  little  and  that  in  a  very  nar¬ 
+row,  restricted  field,  and  with  limited  aspects. 
+
+Our  other  languages  would  appear,  then,  as  the  other  extreme,  as 
+the  highest  mathematics,  but  also  at  their  lowest  development— highest 
+mathematics,  because  in  them  we  can  speak  about  everything ;  at  their 
+lowest  development  because  they  are  still  A  and  not  based  on  asymmet¬ 
+rical  relations.  Between  the  two  languages  there  exists  as  yet  a  large 
+unbridged  structural  gap.  The  bridging  of  this  gap  is  the  problem  of  the 
+workers  of  the  future.  Some  will  work  in  the  direction  of  inventing  new 
+mathematical  methods  and  systems,  bringing  mathematics  closer  in  scope 
+and  adaptability  to  ordinary  language  (for  instance,  the  tensor  calculus, 
+the  theory  of  groups,  the  theory  of  sets,  the  algebra  of  states  and  observ¬ 
+ables,.).  Others  will  undertake  linguistic  researches  designed  to  bring 
+ordinary  language  closer  to  mathematics  (  for  instance,  the  present  work) . 
+When  the  two  forms  of  representation  meet  on  relational  grounds,  we 
+shall  probably  have  a  simple  language  of  mathematical  structure,  and 
+mathematics,  as  such,  might  then  even  become  obsolete. 
+
+It  is  not  desirable  that  the  reader  should  be  under  the  impression 
+that  all  mathematical  ‘thinking'  is  low-grade  ‘thinking'.  The  mathema¬ 
+ticians  who  discover  or  invent  new  methods  for  relating  and  structures 
+are  the  biggest  ‘mental'  giants  we  have  had,  or  ever  shall  have.  Only 
+the  technical  interplay  of  symbols,  to  find  out  some  new  possible  combina¬ 
+tion,  can  be  considered  as  low-grade  ‘thinking'. 
+
+II.  GENERAL  ON  STRUCTURE 
+
+From  what  has  now  been  said,  it  is  probably  already  obvious  that  if 
+any  one  wants  to  work  scientifically  on  problems  of  such  enormous  com¬ 
+plexity  that  they  have  so  far  defied  analysis,  he  would  be  helped  enor¬ 
+mously  if  he  would  train  his  s.r  in  the  simplest  forms  of  correct 
+'thinking' ;  that  is,  become  acquainted  with  mathematical  methods.  The 
+continued  application  of  this  relational  method  should  finally  throw  some 
+light  on  the  greatest  complexities,  such  as  life  and  man.  In  contrast  to 
+enormous  advances  in  all  technical  fields,  our  knowledge  of  'human 
+nature’  has  advanced  very  little  beyond  what  primitives  knew  about  them¬ 
+selves.  We  have  tried  to  analyse  the  most  baffling  phenomena  while  dis¬ 
+regarding  structural  peculiarities  of  languages  and  thus  failing  to  provide 
+sufficient  fundamental  training  in  new  s.r .  In  practically  all  universities 
+at  present,  the  mathematical  requirements,  even  for  scientists,  are 
+extremely  low,  much  lower,  indeed,  than  is  necessary  for  the  progress  of 
+these  scientists  themselves.  Only  those  who  specialize  in  mathematics 
+receive  an  advanced  training,  but,  even  with  them,  little  attention  is 
+devoted  to  method  and  structure  of  languages  as  such.  Until  lately, 
+mathematicians  themselves  were  not  without  responsibility  for  this.  They 
+treated  mathematics  as  some  kind  of  'eternal  verity’,  and  made  a  sort  of 
+religion  out  of  it ;  forgetting,  o*  not  knowing,  that  these  'eternal  verities’ 
+last  only  so  long  as  the  nervous  systems  of  Smiths  and  Browns  are  not 
+altered.  Besides,  many,  even  now,  disclaim  any  possible  connection 
+between  mathematics  and  human  affairs.  Some  of  them  seem,  indeed,  in 
+their  religious  zeal,  to  try  to  make  their  subjects  as  difficult,  unattractive, 
+and  mysterious  as  possible,  to  overawe  the  student.  Fortunately,  a  strong 
+reaction  against  such  an  attitude  is  beginning  to  take  place  among  the 
+members  of  the  younger  mathematical  generation.  This  is  a  very  hopeful 
+sign,  as  there  is  little  doubt  that,  without  the  help  of  professional  mathe¬ 
+maticians  who  will  understand  the  general  importance  of  structure  and 
+mathematical  methods ,  we  shall  not  be  able  to  solve  our  human  problems 
+in  time  to  prevent  quite  serious  break-downs,  since  these  solutions  ulti¬ 
+mately  depend  on  structural  and  semantic  considerations. 
+
+The  moment  we  abandon  the  older  theological  attitude  toward  mathe¬ 
+matics,  and  summon  the  courage  to  consider  it  as  a  form  of  human 
+behaviour  and  the  expression  of  generalised  s.rt  some  quite  interesting 
+problems  loom  up.  Terms  like  logic’  or  'psychology*  are  applied  in 
+many  different  senses,  but,  among  others,  they  are  used  as  labels  for 
+certain  disciplines  called  sciences.  'Logic’  is  defined  as  the  'science  of 
+the  laws  of  thought’.  Obviously,  then,  to  produce  'logic’  we  should  have 
+to  study  all  forms  of  human  behaviour  connected  directly  with  menta¬ 
+tion  ;  we  should  have  to  study  not  only  the  mentations  in  the  daily  life  of 
+
+GENERAL  LINGUISTIC 
+
+the  average  Smiths,  Browns . ,  but  we  should  have  to  study  the  menta¬ 
+tions  of  Joneses  and  Whites  when  they  use  their  ‘mind’  at  its  best  ; 
+namely,  when  they  mathematize,  scientize . ,  and  we  should  also  have  to 
+study  the  mentations  of  those  whom  we  call  ‘insane’,  when  they  use  their 
+‘mind’  at  its  worst.  It  is  not  our  aim  to  give  a  detailed  list  of  these  forms 
+of  human  behaviour  which  we  should  study,  since  all  should  be  studied. 
+It  is  enough  for  our  purpose  to  emphasize  the  two  main  omissions ; 
+namely,  the  study  of  mathematics  and  the  study  of  ‘insanity’. 
+
+As  a  similar  reasoning  applies  to  ‘psychology’,  we  must  sadly  admit 
+that  we  have  as  yet  no  general  theory  which  deserves  the  name  of  ‘logic’ 
+or  psycho-logics.  What  has  passed  under  the  name  of  ‘logic’,  for  instance, 
+is  not  ‘logic’  according  to  its  own  definition,  but  represents  a  philosoph¬ 
+ical  grammar  of  a  primitive-made  language,  of  a  structure  different  from 
+the  structure  of  the  world,  unfit  for  serious  use.  If  we  try  to  apply  the 
+rules  of  the  old  ‘logic’,  we  find  ourselves  blocked  by  ridiculous  impasses. 
+So,  naturally,  we  discover  that  we  have  no  use  for  such  a  ‘logic’. 
+
+It  follows  also  that  any  one  who  has  any  serious  intention  of  becom¬ 
+ing  a  ‘logician*  or  a  psycho-logician  must,  first  of  all,  be  a  thorough 
+mathematician  and  must  also  study  ‘insanity’.  Only  with  such  prepara¬ 
+tion  is  there  any  possibility  of  becoming  a  psycho-logician  or  semantician. 
+Sometimes  it  is  useful  to  stop  deceiving  ourselves ;  and  it  is  deceiving 
+ourselves  if  we  claim  to  be  studying  human  psycho-logics,  or  human 
+‘logic’,  when  we  are  generalizing  only  from  those  forms  of  human 
+behaviour  which  we  have  in  common  with  the  animals  and  neglect  other 
+forms,  especially  the  most  characteristic  forms  of  human  behaviour,  such 
+as  mathematics,  science,  and  ‘insanity’.  If,  as  psycho-logicians,  we  want 
+to  be  ‘behaviourists’,  it  is  clear  that  we  must  study  all  known  forms  of 
+human  behaviour.  But  it  seems  never  to  have  occurred  to  the  ‘behaviour¬ 
+ists’  that  mathematics  and  ‘insanity’  are  very  characteristic  forms  of 
+human  behaviour. 
+
+Some  readers  may  be  puzzled  by  my  calling  the  daily  forms  of  rep¬ 
+resentation  we  use  ‘primitive-made’.  Let  me  illustrate  what  I  mean  by  a 
+classical  example.  For  more  than  two  thousand  years  the  famous  para¬ 
+dox  of  Zeno  has  puzzled  ‘philosophers’,  without  any  solution,  and  only  in 
+our  own  day  has  it  been  solved  by  mathematicians.  The  paradox  reads : 
+Achilles  was  supposed  to  be  a  very  swift  runner,  and  in  a  race  with  a 
+tortoise,  which  was  given  the  benefit  of  starting  first,  Achilles  could 
+never  overtake  his  slow  competitor,  because,  the  argument  runs,  before 
+he  could  overtake  the  tortoise  he  would  have  to  halve  the  distance  between 
+them,  and  again  halve  the  remaining  half,  and  so  on.  No  matter  how 
+long  this  might  last,  there  still  would  be  some  distance  to  halve,  and  so 
+
+II.  GENERAL  ON  STRUCTURE 
+
+it  was  concluded  he  could  never  pass  the  tortoise.  Now  any  child  knows 
+that  this  conclusion  is  not  true ;  yet  the  verbal  argument  for  the  untrue 
+conclusion  remained,  in  the  hands  of  'philosophers’  and  'logicians’,  per¬ 
+fectly  valid  for  more  than  two  thousand  years.  This  instance  throws 
+light  on  the  stage  of  development  which  we  have  reached  and  of  which 
+we  often  boast. 
+
+Having,  then,  no  scientific  general  theory  of  'logic’  and  psycho-logics 
+to  guide  us,  the  task  of  an  enquiry  like  the  present  is  very  much  handi¬ 
+capped.  We  must  merely  go  ahead  groping  and  pioneering;  and  this  is 
+always  a  difficult,  blundering  task. 
+
+It  is  indeed  very  important  that  not  only  the  scientists  but  also  the 
+intelligent  public,  as  a  whole,  should  understand  that  at  present  we  have 
+no  general  theory  which  may  be  called  'logic’  or  psycho-logics.  Perhaps 
+an  illustration  will  help  to  bring  home  this  really  shocking  state  of  affairs. 
+Imagine,  for  example,  that  we  should  try  to  study  dinosaurs  exhaus¬ 
+tively.  The  standard  methods  of  study  would  centre  about  the  actual 
+fossil  remains  when  such  are  available ;  but,  in  the  case  of  those  extinct 
+forms  of  which  the  fossil  remains  are  very  meagre,  or  entirely  lacking, 
+much  information  is  obtained  from  the  study  of  the  tracks  which  have 
+been  left  on  the  mud  flats  that  have  become  rocks.  It  seems  undeniable 
+that  such  a  study  of  fossil  tracks  would  contribute  a  large  share  to  the 
+formulation  of  any  'general  theory’  of  the  characteristics  of  dinosaurs. 
+We  could  go  further  and  say  that  no  ‘general  theory’  could  be  complete 
+if  such  study  were  entirely  neglected. 
+
+Now,  that  is  precisely  the  situation  in  which  ‘psychologists’  and 
+‘logicians’  find  themselves ;  they  have  made  many  studies,  and  gathered 
+some  facts,  but  they  have  entirely  disregarded  as  yet  these  unique  and 
+peculiar  black  tracks  which  the  mathematicians  and  others  have  left  on 
+white  paper  when  they  mathematized  or  scientized.  The  old  ‘psychologi¬ 
+cal’  generalizations  were  made  from  insufficient  data,  in  spite  of  the  fact 
+that  sufficient  data ;  namely,  these  black  marks  on  white  paper,  exist,  and 
+have  existed  for  a  long  time.  But  these  marks  the  ‘psychologists’  and 
+‘logicians’  were  not  able  properly  to  read,  analyse,  and  interpret. 
+
+Under  such  circumstances,  it  should  not  be  surprising  to  find  that, 
+in  the  study  of  animals,  we  have  vitiated  our  researches  by  reading  into 
+the  animals  our  own  activities,  and  that  we  have  vitiated  our  own  under¬ 
+standing  of  ourselves  by  faulty  generalizations  from  a  few  data  taken 
+mostly  from  those  activities  which  we  have  in  common  with  animals. 
+Thus  we  measure  ourselves  by  animalistic  standards.  This  error  is  mainly 
+due  to  the  ignorance  of  mathematical  method  and  the  disregard  of  struc¬ 
+tural  problems  by  those  who  deal  with  human  affairs.  Indeed,  as  I  have 
+
+GENERAL  LINGUISTIC 
+
+already  shown  in  my  Manhood  of  Humanity ,  what  we  call  ‘civilization’ 
+rests  upon  faulty  generalizations  taken  from  the  lives  of  cows,  horses, 
+cats,  dogs,  pigs . ,  and  self-imposed  upon  Smith  and  Brown. 
+
+The  main  thesis  of  this  ^-system  is  that  as  yet  we  all  ( with  ex¬ 
+tremely  few  exceptions )  copy  animals  in  our  nervous  processes ,  and  that 
+practically  all  human  difficulties,  ‘mental*  ills  of  all  degrees  included, 
+have  this  characteristic  as  a  component.  I  am  glad  to  be  able  to  report 
+that  a  number  of  experiments  undertaken  with  ‘mentally*  or  nervously 
+ill  individuals  have  shown  decided  benefit  in  cases  where  it  proved  possi¬ 
+ble  to  re-educate  them  to  appropriate  human  s.r . 
+
+Here,  perhaps,  it  may  be  advisable  to  interpolate  a  short  explanation. 
+When  we  deal  with  human  affairs  and  man,  we  sometimes  use  the  term 
+‘ought’,  which  is  very  often  used  arbitrarily,  dogmatically,  and  absolutis- 
+tically,  and  so  its  use  has  become  discredited.  In  many  quarters,  this 
+term  is  very  unpopular,  and,  it  must  be  admitted,  justly  so.  My  use  of 
+it  is  that  of  the  engineer,  who  undertakes  to  study  a  machine  entirely 
+unknown  to  him — let  us  say,  a  motorcycle.  He  would  study  and  analyse 
+its  structure,  and,  finally,  would  give  a  verdict  that  with  such  a  structure, 
+under  certain  circumstances,  this  machine  ought  to  work  in  a  particular 
+way. 
+
+In  the  present  volume,  this  engineering  attitude  is  preserved.  We 
+shall  investigate  the  structure  of  human  knowledge,  and  we  shall  con¬ 
+clude  that  with  such  a  structure  it  should  work  in  this  particular  way.  In 
+the  motorcycle  example,  the  proof  of  the  correctness  of  the  reasoning  of 
+the  engineer  would  be  to  fill  the  tank  with  gasoline  and  make  the  motor¬ 
+cycle  go.  In  our  analogous  task,  we  have  to  apply  the  information  we  get 
+and  see  if  it  works.  In  the  experiments  mentioned  above,  the  ^-system 
+actually  has  worked,  and  so  there  is  some  hope  that  it  is  correct.  Further 
+investigations  will,  of  course,  add  to,  or  modify,  the  details,  but  this  is 
+true  of  all  theories. 
+
+Another  reason  why  a  non-mathematician  cannot  study  psycho¬ 
+logical  phenomena  adequately  is  that  mathematics  is  the  only  science 
+which  has  no  physical  content  and,  therefore,  when  we  study  the  per¬ 
+formances  of  Smiths  and  Browns  when  they  mathematize,  we  study  the 
+only  available  working  of  ‘pure  mind*.  Moreover,  mathematics  is  the 
+only  language  which  at  present  has  a  structure  similar  to  that  of  the 
+world  and  the  nervous  system.  It  must  be  obvious  that  from  such  a 
+study  we  should  learn  more  than  by  the  study  of  any  other  ‘mental 
+activity.  In  some  quarters  it  is  believed,  I  think  erroneously,  that  ‘psy¬ 
+chology’  and  ‘logic*  have  no  ‘physical  content*.  ‘Psychology*  and  ‘logic* 
+have  a  very  definite  content — Smith,  Brown  . , — and  we  should  treat  these 
+
+II.  GENERAL  ON  STRUCTURE 
+
+disciplines  in  relation  to  the  living  organism.  Quite  probably,  when  the 
+above  issues  are  fully  realized,  these  specialists,  future  psycho-logicians 
+and  semanticians,  will  begin  to  study  mathematical  methods  and  pay 
+attention  to  structure,  and  a  number  of  mathematicians,  in  their  turn, 
+will  become  psycho-logicians,  psychiatrists,  semanticians,.  When  this 
+happens,  we  may  expect  marked  advance  in  these  lines  of  endeavour.* 
+
+In  the  course  of  this  book,  it  will  be  shown  that  the  structure  of 
+human  knowledge  precludes  any  serious  study  of  ‘mental*  problems  with¬ 
+out  a  thorough  mathematical  training.  We  shall  take  for  granted  all  the 
+partial  light  thrown  on  man  by  existing  disciplines  and  shall  make  some 
+observations  from  the  study  of  the  neglected  forms  of  human  behaviour, 
+such  as  mathematics,  exact  sciences,  and  ‘insanity*,  and  with  these  new 
+data  re- formulate,  in  the  rough,  all  available  data  at  hand  in  1933. 
+
+At  the  present  early  stage  of  our  enquiry,  we  must,  of  necessity,  be 
+often  vague.  Before  we  give  the  new  data,  it  is  impossible  to  speak  in  a 
+more  definite  way.  Besides,  in  such  a  general  survey,  we  shall  have  to 
+use  what  I  call  multiordinal  terms.  At  present,  all  the  most  humanly 
+important  and  interesting  terms  are  multiordinal,  and  no  one  can  evade 
+the  use  of  such  terms.  Multiordinality  is  inherent  in  the  structure  of 
+‘human  knowledge*.  This  multiordinal  mechanism  gives  the  key  to  many 
+seemingly  insoluble  contradictions,  and  explains  why  we  have  scarcely 
+progressed  at  all  in  the  solution  of  many  human  affairs. 
+
+The  main  characteristic  of  these  multiordinal  terms  is  found  in  that 
+they  have  different  meanings  in  general,  depending  on  the  order  of 
+abstractions.  Without  the  level  of  abstraction  being  specified,  a  m.o  term 
+is  only  ambiguous;  its  use  involves  shifting  meanings,  variables,  and 
+therefore  generates,  not  propositions,  but  propositional  functions.  It  may 
+not  be  an  exaggeration  to  say  that  the  larger  number  of  human  tragedies, 
+private,  social,  racial . ,  are  intimately  connected  with  the  non-realization 
+of  this  multiordinality  of  the  most  important  terms  we  use. 
+
+A  similar  confusion  between  orders  of  abstractions  is  to  be  found 
+in  all  forms  of  ‘insanity*,  from  the  mildest,  which  afflicts  practically 
+
+♦There  are  already  signs  that  the  more  serious  workers,  as,  for  instance,  the 
+Gestalt  ‘psychologists’,  begin  to  feel  their  handicaps.  Others,  as  yet,  do  not  seem 
+to  realize  the  hopelessness  of  their  endeavours — as  best  exemplified  by  the  Ameri¬ 
+can  school  of  Behaviourists,  who  seem  to  think  that  the  splendid  name  they  have 
+selected  will  solve  their  problems.  It  would  be  very  interesting  to  see  the  Behav¬ 
+iourists  deny  that  the  writing  of  a  mathematical  treatise,  or  of  some  new  theory  of 
+quantum  mechanics  represents  a  form  of  human  behaviour  which  they  should  study. 
+Some  day  they  must  face  the  fact  that  they  have  neglected  to  consider  a  great 
+many  forms  of  human  behaviour— -the  most  characteristic  forms  at  that— -and  that, 
+therefore,  they  could  not  produce  an  adequate  theory  of  the  nature  of  the  ‘human 
+mind. 
+
+(iKNKRAL  LINGUISTIC 
+
+every  one  of  us,  to  the  most  pronounced  and  violent.  Indeed,  the  discov¬ 
+ery  of  this  mechanism  leads  conversely  to  a  theory  of  sanity.  Imperfect 
+as  this  theory  of  sanity  probably  is,  it  opens  a  wide  field  of  possibilities 
+which  I  myself,  at  this  stage,  am  unable  fully  to  appreciate. 
+
+There  seems  one  thing  certain,  at  present;  namely,  that  the  old 
+theories  and  methods  tended  strongly  to  produce  morons  and  ‘insane* 
+persons,  while  ‘geniuses*  were  only  born  in  spite  of  these  handicaps. 
+Perhaps  in  the  future  we  shall  be  able  to  produce  ‘geniuses*,  while 
+morons  and  ‘insane*  persons  will  be  born  only  in  spite  of  our  precautions. 
+If  this  should  actually  prove  to  be  true,  and  the  experimental  results 
+seem  to  give  some  hope  in  this  direction,  this  world  would  then  become 
+quite  a  different  place  in  which  to  live. 
+
+CHAPTER  VI 
+
+ON  SYMBOLISM 
+
+Philosophers  have  worried  themselves  about  remote  consequences,  and 
+the  inductive  formulations  of  science.  They  should  confine  attention  to 
+the  rush  of  immediate  transition.  Their  explanations  would  then  be  seen 
+in  their  native  absurdity.  (578)  a.  n.  whitehead 
+
+It  is  often  said  experiments  must  be  made  without  a  preconceived  idea. 
+That  is  impossible.  Not  only  would  it  make  all  experiment  barren,  but  that 
+would  be  attempted  which  could  not  be  done.  Every  one  carries  in  his  mind 
+his  own  conception  of  the  world,  of  which  he  can  not  so  easily  rid  himself. 
+We  must,  for  instance,  use  language;  and  our  language  is  made  up  only  of 
+preconceived  ideas  and  can  not  be  otherwise.  Only  these  are  unconscious 
+preconceived  ideas,  a  thousand  times  more  dangerous  than  the  others. 
+
+(417)  H.  POINCAR& 
+
+.  .  .  the  patriotic  archbishop  of  Canterbury,  found  it  advisable — ’ ** 
+“Found  what?”  said  the  Duck. 
+
+“Found  it"  the  Mouse  replied,  rather  crossly:  “of  course  you  know 
+what  ‘it’  means." 
+
+know  what  *it’  means  well  enough,  when  I  find  a  thing,"  said  the 
+Duck:  it  s  generally  a  frog,  or  a  worm."*  lewis  carroll 
+
+...  psychiatry  works  specifically  on  the  social  organ  of  man  itself — 
+the  person  s  assets  and  behavior,  that  which  we  must  adjust  before  we 
+can  expect  the  individual  to  make  proper  use  of  most  of  our  help,** 
+
+ADOLF  MEYER 
+
+Perhaps,  as  has  often  been  said,  the  trouble  with  people  is  not  so  much 
+with  their  ignorance  as  it  is  with  their  knowing  so  many  things  that  are 
+n°j  ??*:*•  S°  that  it  is  always  important  to  find  out  about  these  fears, 
+and  if  they  are  based  upon  the  knowledge  of  something  that  is  not  so,  they 
+may  perhaps  be  corrected.  (568>  william  a.  white 
+
+The  affairs  of  man  are  conducted  by  our  own,  man-made  rules  and 
+according  to  man-made  theories.  Man’s  achievements  rest  upon  the  use 
+of  symbols.  For  this  reason,  we  must  consider  ourselves  as  a  symbolic, 
+semantic  class  of  life,  and  those  who  rule  the  symbols,  rule  us.  Now, 
+the  term  'symbol’  applies  to  a  variety  of  things,  words  and  money 
+included.  A  piece  of  paper,  called  a  dollar  or  a  pound,  has  very  little 
+value  if  the  other  fellow  refuses  to  take  it ;  so  we  see  that  money  must 
+be  considered  as  a  symbol  for  human  agreement,  as  well  as  deeds  to 
+property,  stocks,  bonds , .  The  reality  behind  the  money-symbol  is  doc¬ 
+trinal,  'mental’,  and  one  of  the  most  precious  characteristics  of  mankind. 
+But  it  must  be  used  properly ;  that  is,  with  the  proper  understanding  of 
+
+*  Alice  in  Wonderland. 
+
+♦♦Historical  Sketch  and  Outlook  of  Psychiatric  Social  Work.  Hosp.  Sac.  Serv.  V,  1922.  221. 
+
+ON  SYMBOLISM 
+
+its  structure  and  ways  of  functioning.  It  constitutes  a  grave  danger 
+when  misused. 
+
+When  we  say  ‘our  rulers*,  we  mean  those  who  are  engaged  in  the 
+manipulation  of  symbols.  There  is  no  escape  from  the  fact  that  they  do, 
+and  that  they  always  will,  rule  mankind,  because  we  constitute  a  sym¬ 
+bolic  class  of  life,  and  we  cannot  cease  from  being  so,  except  by  regress¬ 
+ing  to  the  animal  level. 
+
+The  hope  for  the  future  consists  in  the  understanding  of  this  fact ; 
+namely,  that  we  shall  always  be  ruled  by  those  who  rule  symbols,  which 
+will  lead  to  scientific  researches  in  the  field  of  symbolism  and  s.r .  We 
+would  then  demand  that  our  rulers  should  be  enlightened  and  carefully 
+selected.  Paradoxical  as  it  may  seem,  such  researches  as  the  present 
+work  attempts,  will  ultimately  do  more  for  the  stabilization  of  human 
+affairs  than  legions  of  policemen  with  machine  guns,  and  bombs,  and 
+jails,  and  asylums  for  the  maladjusted. 
+
+A  complete  list  of  our  rulers  is  difficult  to  give ;  yet,  a  few  classes  of 
+them  are  quite  obvious.  Bankers,  priests,  lawyers  and  politicians  consti¬ 
+tute  one  class  and  work  together.  They  do  not  produce  any  values,  but 
+manipulate  values  produced  by  others,  and  often  pass  signs  for  no  values 
+at  all.  Scientists  and  teachers  also  comprise  a  ruling  class.  They  pro¬ 
+duce  the  main  values  mankind  has,  but,  at  present,  they  do  not  realize 
+this.  They  are,  in  the  main,  themselves  ruled  by  the  cunning  methods 
+of  the  first  class. 
+
+In  this  analysis  the  ‘philosophers*  have  been  omitted.  This  is  be¬ 
+cause  they  require  a  special  treatment.  As  an  historical  fact,  many  ‘phil¬ 
+osophers*  have  played  an  important  and,  to  be  frank,  sinister  role  in 
+history.  At  the  bottom  of  any  historical  trend,  we  find  a  certain  ‘phil¬ 
+osophy*,  a  structural  implication  cleverly  formulated  by  some  ‘philoso¬ 
+pher*.  The  reader  of  this  work  will  later  find  that  most  ‘philosophers* 
+gamble  on  multiordinal  and  el  terms,  which  have  no  definite  single  ( one- 
+valued)  meaning ,  and  so,  by  cleverness  in  twisting,  can  be  made  to 
+appear  to  mean  anything  desired.  It  is  now  no  mystery  that  some  quite 
+influential  ‘philosophers*  were  ‘mentally*  ill.  Some  ‘mentally*  ill  persons 
+are  tremendously  clever  in  the  manipulation  of  words  and  can  sometimes 
+deceive  even  trained  specialists.  Among  the  clever  concoctions  which 
+appear  in  history  as  ‘philosophic*  systems,  we  can  find  flatly  opposing 
+doctrines.  Therefore,  it  has  not  been  difficult  at  any  period  for  the  rulers 
+to  select  a  cleverly  constructed  doctrine  perfectly  fitting  the  ends  they 
+desired. 
+
+One  of  the  main  characteristics  of  such  ‘philosophers*  is  found  in 
+the  delusion  of  grandeur,  the  ‘Jehovah  complex*.  Their  problems  have 
+
+II.  GENERAL  ON  STRUCTURE 
+
+appeared  to  them  to  be  above  criticism  or  assistance  by  other  human 
+beings,  and  the  correct  procedure  known  only  to  super-men  like  them¬ 
+selves.  So  quite  naturally  they  have  usually  refused  to  make  enquiries. 
+They  have  refused  even  to  be  informed  about  scientific  researches  car¬ 
+ried  on  outside  the  realms  of  their  ‘philosophy’.  Because  of  this  ignor¬ 
+ance,  they  have,  in  the  main,  not  even  suspected  the  importance  of  the 
+problems  of  structure. 
+
+In  all  fairness,  it  must  be  said  that  not  all  so-called  'philosophy* 
+represents  an  episode  of  semantic  illness,  and  that  a  few  'philosophers* 
+really  do  important  work.  This  applies  to  the  so-called  'critical  phil¬ 
+osophy*  and  to  the  theory  of  knowledge  or  epistemology .  This  class  of 
+workers  I  call  epistemologists,  to  avoid  the  disagreeable  implications  of 
+the  term  philosopher .  Unfortunately,  epistemological  researches  are 
+most  difficult,  owing  mainly  to  the  lack  of  scientific  psycho-logics,  general 
+semantics,  and  investigations  of  structure  and  s,r .  We  find  only  a  very 
+few  men  doing  this  work,  which,  in  the  main,  is  still  little  known  and 
+unapplied.  It  must  be  granted  that  their  works  do  not  make  easy  read¬ 
+ing.  They  do  not  command  headlines;  nor  are  they  aided  and  stimu¬ 
+lated  by  public  interest  and  help. 
+
+It  must  be  emphasized  again  that  as  long  as  we  remain  humans 
+(which  means  a  symbolic  class  of  life),  the  rulers  of  symbols  will  rule 
+us,  and  that  no  amount  of  revolution  will  ever  change  this.  But  what 
+mankind  has  a  right  to  ask — and  the  sooner  the  better — is  that  our  rulers 
+should  not  be  so  shamelessly  ignorant  and,  therefore,  pathological  in  their 
+reactions.  If  a  psychiatrical  and  scientific  enquiry  were  to  be  made  upon 
+our  rulers,  mankind  would  be  appalled  at  the  disclosures. 
+
+We  have  been  speaking  about  ‘symbols*,  but  we  have  not  yet  dis¬ 
+covered  any  general  theory  concerning  symbols  and  symbolism.  Usually, 
+we  take  terms  lightly  and  never  'think*  what  kind  of  implication  and  s.r 
+one  single  important  term  may  involve.  ‘Symbol*  is  one  of  those  impor¬ 
+tant  terms,  weighty  in  meanings.  If  we  use  the  term  'food*,  for  instance, 
+the  presupposition  is  that  we  take  for  granted  the  existence  of  living 
+beings  able  to  eat ;  and,  similarly,  the  term  ‘symbol*  implies  the  existence 
+of  intelligent  beings.  The  solution  of  the  problem  of  symbolism,  there¬ 
+fore,  presupposes  the  solution  of  the  problem  of  ‘intelligence*  and  struc¬ 
+ture.  So,  we  see  that  the  issues  are  not  only  serious  and  difficult,  but, 
+also,  that  we  must  investigate  a  semantic  field  in  which  very  little  has 
+been  done. 
+
+In  the  rough,  a  symbol  is  defined  as  a  sign  which  stands  for  some¬ 
+thing.  Any  sign  is  not  necessarily  a  symbol.  If  it  stands  for  something, 
+it  becomes  a  symbol  for  this  something.  If  it  does  not  stand  for  some- 
+
+ON  SYMBOLISM 
+
+thing,  then  it  becomes  not  a  symbol  but  a  meaningless  sign.  This  applies 
+to  words  just  as  it  does  to  bank  cheques.  If  one  has  a  zero  balance  in 
+the  bank,  but  still  has  a  cheque-book  and  issues  a  cheque,  he  issues  a 
+sign  but  not  a  symbol,  because  it  does  not  stand  for  anything.  The 
+penalty  for  such  use  of  these  particular  signs  as  symbols  is  usually  jail¬ 
+ing.  This  analogy  applies  to  the  oral  noises  we  make,  which  occasion¬ 
+ally  become  symbols  and  at  other  times  do  not;  as  yet,  no  penalty  is 
+exacted  for  such  a  fraud. 
+
+Before  a  noise . ,  may  become  a  symbol,  something  must  exist  for 
+the  symbol  to  symbolize.  So  the  first  problem  of  symbolism  should  be 
+to  investigate  the  problem  of  ‘existence’.  To  define  ‘existence’,  we  have 
+to  state  the  standards  by  which  we  judge  existence.  At  present,  the  use 
+of  this  term  is  not  uniform  and  is  largely  a  matter  of  convenience.  Of 
+late,  mathematicians  have  discovered  a  great  deal  about  this  term.  For 
+our  present  purposes,  we  may  accept  two  kinds  of  existence:  (1)  the 
+physical  existence,  roughly  connected  with  our  ‘senses*  and  persistence, 
+and  (2)  ‘logical*  existence.  The  new  researches  in  the  foundations  of 
+mathematics,  originated  by  Brouwer  and  Weyl,  seem  to  lead  to  a  cur¬ 
+tailment  of  the  meaning  of  ‘logical*  existence  in  quite  a  sound  direction ; 
+but  we  may  provisionally  accept  the  most  general  meaning,  as  introduced 
+by  Poincare.  He  defines  ‘logical*  existence  as  a  statement  free  from 
+self-contradictions.  Thus,  we  may  say  that  a  ‘thought*  to  be  a  ‘thought* 
+must  not  be  self -contradictory.  A  self-contradictory  statement  is  mean¬ 

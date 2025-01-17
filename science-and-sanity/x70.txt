@@ -1,0 +1,500 @@
+which  they  are  embedded.  This  theory  perhaps  is  and  will  remain  a  model  on 
+which  all  theories  should  be  built.  He  introduced  also  a  new  kind  of  co-ordinates 
+which  have  become  of  paramount  importance,  and  which  since  Einstein  are 
+called  gaussian  co-ordinates.  Gauss  investigated  the  theory  of  surfaces,  which 
+are  in  general  curved,  embedded  in  three-dimensional  ‘space’.  In  1854  the 
+great  mathematician  Riemann  generalized  the  two-dimensional  gaussian  theory 
+to  a  continuous  manifold  of  any  number  of  dimensions.  Historically,  both 
+Gauss  and  Riemann  can  be  considered  as  the  precursors  of  Einstein. 
+
+Let  us  imagine  a  surveyor  to  have  the  task  of  mapping  a  thickly  wooded 
+hilly  region.  Because  of  the  conditions  of  his  work,  he  can  not  use  optical 
+instruments,  and  he  has  no  ‘straight  lines’  to  deal  with.  So  euclidean  geometry 
+will,  in  general,  not  be  applicable  to  the  region  as  a  whole.  It  can  be  assumed, 
+however,  that  euclidean  geometry  may  be  applied  to  very  small  regions  which 
+
+can  be  considered  flat.  What  we  know  already 
+about  the  differential  and  integral  calculus  shows 
+us  that  such  approximations,  when  taken  on  a 
+very  small  scale,  are  perfectly  reliable  and  jus¬ 
+tifiable. 
+
+The  surveyor  would  lay  out  on  his  ground  a 
+network  of  smoothly  curving  lines,  in  two  fami¬ 
+lies,  an  X  family  and  a  Y  family.  (Fig.  9.)  All 
+the  curves  of  the  X  family  would  intersect  all 
+the  curves  of  the  Y  family  but  no  X  curve 
+would  intersect  another  X  curve,  nor  a  Y  curve 
+another  Y  curve. 
+
+ON  GEOMETRY 
+
+Let  us  take  the  surveyor’s  network  and  label  the  curves  by  consecutive 
+numbers  in  each  family.  The  essential  point  is  that  these  numbers,  (let  us  call 
+them  the  X  and  Y  numbers)  do  not  represent  either  lengths,  or  angles  or  other 
+measurable  quantities,  but  are  simply  labels  for  the  curves,  much  as  when 
+we  label  streets  by  numbers. 
+
+But  such  numbering  does  not  lead  us  far.  We  must  introduce  some  measure 
+relations .  We  have  at  our  disposal  a  measuring  chain  and  the  arbitrary  meshes 
+of  the  network  which  we  have  introduced.  The  next  step  is  to  measure  the 
+small  meshes  one  after  another  and  plot  them  on  our  map.  When  this  is  done 
+we  have  a  complete  map  similar  in  structure  to  our  region.  Because  of  the 
+smallness  of  the  meshes  we  can  consider  them  as  small  parallelograms,  and 
+such  parallelograms  can  be  defined  by  the  lengths  of  two  adjacent  sides  and 
+one  angle. 
+
+We  may,  however,  proceed  differently,  as  shown  on  Fig.  10. 
+
+Let  us  select  one  mesh,  for  instance  the  one  bounded  by  the  curves,  3  and  4, 
+and  by  the  curves  7  and  8,  Let  us  consider  a  point  P  within  the  mesh,  and 
+let  us  denote  its  distance  from  the  point  O  (x  =3,  y  =  7)  by  This  distance 
+could  be  directly  measured.  Let  us  draw  from  the 
+point  P  parallels  to  our  mesh  lines  and  label  the 
+intersections  with  mesh  lines  by  A  and  B,  respec¬ 
+tively.  Let  us  also  draw  PC  perpendicular  to  the 
+x  axis. 
+
+The  points  A  and  B  then  also  have  numbers 
+or  labels  or  gaussian  co-ordinates  in  our  network. 
+
+The  co-ordinate  of  A  may  be  determined  by 
+measuring  the  side  of  the  parallelogram  on  which 
+A  lies  and  the  distance  of  A  from  O.  We  can  *gJ 
+regard  the  relation  called  the  ratio  of  these  two  Fig.  10 
+
+lengths  as  the  increase  of  the  x  co-ordinate  of  .  . 
+
+A  towards  O.  We  shall  denote  this  increase  itself  by  choosing  0  as  the  origin 
+of  the  gaussian  co-ordinates.  Similarly,  we  determine  the  gaussian  co-ordinate 
+of  y  of  B  as  the  ratio  in  which  B  cuts  the  corresponding  side.  We  see  that 
+these  two  ratios ,  which  for  brevity  we  call  x  and  y,  are  the  co-ordinates  of 
+
+our  point  P.  ,  ,  f  .  . 
+
+As  x  and  y  are  ratios  they  of  course  do  not  give  us  the  lengths  of  OA  and 
+OB  but  the  lengths  are  given,  for  example,  by  ax,  and  by,  where  a  and  b  are 
+definite  numbers,  to  be  found  by  further  measurements.  If  we  move  the  point 
+P  about,  its  gaussian  co-ordinates  change  but  the  numbers  a  and  b  which  give 
+the  ratio  of  the  gaussian  co-ordinates  to  the  true  lengths  remain  unchanged . 
+
+We  find  the  length,  s ,  which  is  the  distance  of  the  point  P  from  0 ,  from 
+the  right  triangle  OPC  by  the  pythagorean  rule:  s2  =  0P2  =OC*+CP*.  But 
+OC-OA+AC  and  therefore  by  substituting  and  squaring  we  have 
+s2  ssA02+20A‘AC-hAC2+CP2.  From  the  right  triangle  APC  we  have 
+A&+CP*  =AP2,  whence  substituting  again  we  have  s2  =0A2+20A'AC^-APi. 
+But  OA  =ax,  AP=OB  «&y,  and  as  AC  is  the  projection  of  AP=by,  it  also  has 
+
+624  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+a  faced  ratio  to  it,  whence  we  may  put  AC~cy,  and  so  we  obtain  the  important 
+ormula  s -a  x  +2  acxy  +b*y2,  in  which  a,  b,  c  are  ratios  given  by  fixed  numbers. 
+Usually  this  formula  is  represented  differently,  a 2  is  designated  by  gn,  ac  by  gn 
+and  b  by  fa;  whence  our  formula  becomes  2gllXy+gIiy*  in  which 
+
+the  numbers  1 1, 12  and  22  are  simply  ordering  labels  without  quantitative  values 
+mere  subscripts,  labels,  indices  .  ,  which  indicate  that  the  different  g's  have 
+
+different  values.  We  see  that  the  above  formula  is  the  one  which  was  given 
+previously  by  (2).  5 
+
+The  g’s  with  different  labels  serve  just  as  sides  or  angles  for  the  determina¬ 
+tion  of  the  actual  sizes  of  the  parallelograms  and  we  call  them  the  factors  of 
+the  measure  determination.  They  may  have  different  values  from  mesh  to 
+mesh,  but  if  they  are  known  for  every  mesh,  then,  by  the  last  formula  the 
+true  distance  of  an  arbitrary  point  P,  within  an  arbitrary  mesh  from  the  origin 
+can  be  calculated.2 
+
+The  procedure  by  which  we  can  locate  any  point  on  the  surface  is  simple. 
+If  our  point  P  is  between  the  two  curves  #=3  and  *=4  we  can  draw  nine 
+curves  between  these  two  curves  and  label  them  3,1;  3,2;  .  .  .  ;  3  9  If  P  now 
+lies  between  curves  3,1  and  3,2  we  can  draw  nine  curves  between  these  two 
+curves  and  label  them  3,11;  3,12;.  .  .  j  3,19  ,  .  We  could  do  similarly  with  the 
+y  curves  and  in  this  way  we  would  succeed  in  assigning  to  any  point  as  accurate 
+a  pair  of  numerical  labels  as  we  pleased,  and  so  finally  have  the  gaussian 
+co-ordinates  of  any  point.  We  used  nine  curves  simply  to  get  the  very  con¬ 
+venient  decimal  method  of  labeling.  The  cartesian  co-ordinate  systems  which 
+we  use  in  plane  geometry  obviously  represent  only  special  cases  of  gaussian 
+systems. 
+
+As  we  have  already  seen,  our  g's  are  ratios,  and  so  represent  numbers.  Such 
+numbers  may  be  regarded  as  tensors  of  zero  rank  for  convenience  of  the  mathe¬ 
+matical  treatment;  and  the  quantities  g„,  gxv,  g„,  may  be  treated  as  com¬ 
+ponents  of  a  tensor.  Since  this  tensor  determines  the  measure  relations  in  any 
+particular  region,  it  is  called  the  metric  fundamental  tensor.  Its  value  must  be 
+given  for  the  region  in  which  we  want  to  make  our  calculations.  It  determines 
+the  full  geometry  of  the  surface  in  a  given  region;  and,  conversely,  we  can 
+a  so  determine  the  fundamental  tensor  in  a  given  region  from  measurements 
+made  m  that  regmn,  without  any  previous  knowledge  of  how  our  curved  sur¬ 
+face  is  embedded  m  ‘space’  at  the  place  in  question.  The  fundamental  tensor 
+in  general  varies  continuously  from  place  to  place,  and  so  every  geometric 
+manifold  may  be  regarded  as  the  field  of  its  metric  fundamental  tensor. 
+
+Purely  mathematical  investigations  show  that  the  fundamental  tensor 
+defines  a  number  called  the  ‘Riemann  scalar’,  which  is  completely  independent 
+of  the  co-ordinate  system  and  leads  to  the  definition  of  the  curvature  tensor, 
+which  can  be  connected  with  the  ‘matter  tensor’.3 
+
+The  main  importance  of  the  introduction  of  such  arbitrary  curves  is  to 
+produce  formulae  for  the  surfaces  which  remain  unaltered  for  a  change  of  the 
+gaussian  co-ordinates— in  other  words,  which  remain  invariant.  This  was 
+achieved  by  the  introduction  of  the  relations  called  ratios  which  are  pure 
+
+ON  GEOMETRY 
+
+numbers,  and  so  the  geometry  of  surfaces  becomes  a  theory  of  invariants  of 
+a  very  general  type. 
+
+On  curved  surfaces  there  are  in  general  no  straight  lines— there  are 
+shortest  lines ,  which  are  called  ‘geodetic  lines’.  To  find  them,  we  divide  any 
+arbitrary  lines  joining  two  points  into  small  elements,  which  we  measure,  and 
+select  the  line  for  which  the  sum  of  these  elements  is  less  than  for  any  other 
+line  between  the  two  points.*  Analytically  we  can  calculate  them,  when  the 
+gfs  are  given,  by  the  aid  of  the  generalized  pythagorean  theorem.  The  geodetic 
+lines,  and  also  the  curvature,  are  given  by  invariant  formulae,  which  represent 
+intrinsic  characteristics  of  the  surface,  independent  of  any  co-ordinates.  All 
+higher  invariants  are  obtained  from  these  invariants.4 
+
+We  shall  not  attempt  to  give  an  explanation  of  the  tensor  calculus,  as  at 
+present  there  is  no  elementary  means  of  presenting  a  brief  explanation;  short 
+of  a  small  volume— at  least  the  writer  does  not  know  of  any.5 
+
+The  name  ‘tensor’  originally  came  from  the  Latin  word  tendere-  to  stretch, 
+whence  tensio  *  tension.  Nowadays,  however,  it  is  used  in  a  more  general  way; 
+namely,  to  express  the  relation  of  one  vector  to  another,  and  not  necessarily 
+to  imply  stress  or  tension.  As  an  example,  we  can  give  the  representation  for 
+stresses  occurring  in  elastic  bodies,  which  originally  led  to  the  name.8 
+
+As  we  have  already  seen,  when  we  deal  with  relations  of  vectors  our 
+expressions  become  additionally  independent  of  units.  Such  equations,  inde¬ 
+pendent  of  the  measure  code,  are  called  tensor  equations.7 
+
+As  we  are  interested  in  equations  which  are  invariant  under  arbitrary 
+transformations,  certain  functions,  called  tensors,  are  defined,  with  respect  to 
+any  system  of  co-ordinates  by  a  number  of  functions  of  these  co-ordinates, 
+called  the  components  of  the  tensor,  from  which  we  can  calculate  them  for  any 
+new  system  of  co-ordinates.  If  two  tensors  of  one  kind  are  equal  in  one  system, 
+they  will  be  equal  in  any  other  system.  If  the  components  vanish  in  one  system, 
+they  vanish  in  all  systems.  Such  equations  express  conditions  which  are 
+independent  of  the  choice  of  co-ordinates.  By  the  study  of  structural  laws  of 
+the  formation  of  tensors  we  acquire  means  of  formulating  structural  laws  of 
+nature  in  generally  invariant  forms.  Obviously,  such  methods  and  language 
+are  uniquely  appropriate  for  physics  and  the  formulations  of  the  laws  of  nature. 
+If  a  law  cannot  be  formulated  in  some  such  form,  there  must  be  something 
+wrong  with  the  formulation  and  it  needs  revision. 
+
+The  tensor  calculus  is  also  peculiarly  fitted  to  describe  processes  in  a  plenum. 
+We  do  not  use  it  to  describe  the  metrical  conditions  but  to  describe  the  field 
+which  expresses  the  physical  states  in  a  metrical  plenum. 
+
+Eddington  gives  an  excellent  example  of  the  fact  that  it  is  definitely 
+necessary  to  look  into  the  way  we  build  up  our  formulae  (structure)  and  the 
+method  of  handling  them. 
+
+*M  ore^ generally ,  the  geodetic  represents  a  track  of  minimum  or  maximum 
+interval-length  between  two  distant  events,  either  of  them  being  umque  (one- 
+valued)  in  a  given  case. 
+
+626  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+The  problem  is  to  determine  whether  a  particular  kind  of  space-time  is 
+possible.  We  must  investigate  the  different  g's  which  give  us  different  kinds 
+of  space-time,  and  not  those  which  distinguish  different  kinds  of  mesh  systems 
+in  one  space-time.  This  means  that  our  formulae  must  not  be  altered  in  any 
+way  if  we  change  the  mesh  system. 
+
+The  above  condition  makes  an  extraordinarily  simple  test  of  laws  that 
+have  been  or  may  be  suggested.  Among  others,  Newton’s  law  is  swept  away. 
+How  this  happens  can  be  shown  in  two  dimensions. 
+
+If  in  one  mesh  system  (x,y)  we  have  ds2  =  gudx2+2glidxdy+g22dy2,  and  in 
+another  system  (x  ,y  )  ds2  dx'2  -f-  dx' dy'  -j-gw'dy'2,  one  law  must  be 
+
+satisfied  if  the  unaccented  letters  are  replaced  by  accented  letters.  Let  us 
+suppose  that  the  law  gn  is  assumed.  We  change  the  mesh  system,  for 
+instance,  by  spacing  the  y  lines  twice  as  far  apart,  that  is,  we  take  /  =y/2  and 
+keep  x’-x.  Then  ds2=gndx2  +2gi*lxdy+gt2dy2  =gudx'2  +igl2dx’dy'  +4g22dy’2. 
+We  see  that  £n'  =«n  and  gsj'-4gsl.  Whence  if  gu  is  taken  equal  to 
+cannot  be  equal  to  £22'- 
+
+A  few  examples  would  convince  us  that  it  is  extremely  easy  to  change  a 
+formula  entirely  by  the  mere  change  of  mesh  systems.  It  seems  unnecessary 
+to  emphasize  the  fact  that  'universal  laws',  to  be  ‘universal',  should  not  depend 
+structurally  to  such  an  extent  on  the  accidental  and,  after  all,  unimportant 
+choice  of  reference  systems.8  ' 
+
+To  remedy  such  a  state  of  affairs,  impossible  in  mature  science,  the  tensor 
+calculus  was  invented.  The  whole  general  theory  of  Einstein  seems  to  demand 
+that  the  equations  of  physics  should  ultimately  be  expressed  in  tensor  forms; 
+in  other  words,  that  ‘universal  laws'  should  cease  to  be  ‘local  gossip’;  a  demand 
+which  must  be  granted,  and  on  this  point  the  Einstein  theory  is  beyond  criticism 
+and  is  an  epochal  methodological  advance  of  an  irreversible  structural  lin¬ 
+guistic  character. 
+
+In  dealing  with  co-ordinate  systems  we  have 
+heretofore  used  them  to  represent  only  ‘spatial' 
+entities,  spreads  of  different  dimensions.  It  is 
+desirable  to  become  acquainted  with  a  different 
+use  of  co-ordinates,  in  which  one  of  them  will 
+represent  ‘time’.  The  last  use  is  just  as  simple 
+as  the  former,  but  the  graphs  which  we  obtain 
+are  different. 
+
+Let  us  take  the  simplest  example,  of  a  point 
+P  moving  uniformly  along  a  straight  line  OX 
+with  the  velocity  of  one  inch  per  second.  We 
+could  represent  its  movement  in  one  dimension, 
+as  in  Fig.  11,  and  say  that  our  point  P  is  at  Px 
+after  one  second  (/  =  1),  at  Pa  after  two  seconds 
+(/=*=  2)  .  ;  at  the  point  P„  after  n  seconds  (/=«). 
+
+Section  C.  Space-time . 
+ft?  3  5. 
+
+Fio.-n. 
+
+ON  GEOMETRY 
+
+But  we  could  also  represent  this  movement  in  a  different  way.  We  could 
+choose  two  mutually  perpendicular  axes  OX  and  OT  as  in  Fig.  12,  OX  repre¬ 
+senting  the  ‘spatial*  actual  direction  of  the  movement  and  OT,  which  we  have 
+heretofore  used  to  represent  a  second  ‘spatial*  co-ordinate,  now  representing 
+
+the  ‘time*  co-ordinate.  . 
+
+We  would  lay  off  on  the  X  axis  our  inches,  1,  2,  3, . . .  n,  and  on  the  T  axis 
+our  seconds  1,  2,  3, .  . .  n.  In  our  two-dimensional  space-time  our  point  P  would 
+be  at  the  point  O  (x  -0,  t  -0).  After  one  second  it  would  be  at  the  point  Pi 
+(x  =  1,  t  —  1),  after  two  seconds  at  the  point  P2  (x  =  2f  t=2)  .  ;  after  n  seconds 
+at  the  point  P„  (x=n,  t  =  n).  We  see  that  the  position  of  our  point  P  in  two- 
+dimensional  space-time  would  be  represented  by  a  series  of  points  each  given 
+by  two  data:  one  ‘spatial’,  the  other  a  corresponding  ‘time*.  If  the  intervals 
+are  taken  indefinitely  small,  in  the  limit  our  ‘ moving ’  point  would  be  represented^ 
+by  a  static  line  inclined  to  the  X  axis .  We  could  then  speak  either  of  our  ‘moving* 
+point,  or  else  not  use  the  term  ‘moving’  but  speak  of  infinitely  many  static 
+points ,  each  given  by  two  numbers,  one  representing  a  distance,  the  other 
+‘time’.  Our  ‘moving*  point  would  become  a  static  world-line .  The  reader  should 
+notice  that  in  this  case  we  have  structurally  changed  our  language  from  dynamic 
+to  static,  and  raised  the  dimension.  Our  mathematical  ‘moving*  ‘point ,  which 
+had  no  dimension  in  our  one-dimensional  ‘space’,  is  in  our  two-dimensional 
+space-time  represented  by  a  static  one-dimensional  line. 
+
+In  this  example  we  had  uniform 
+translation.  We  did  not  introduce 
+acceleration.  The  distances  were  pro¬ 
+portional  to  the  ‘times’,  hence  our  line 
+was  ‘straight*  and  inclined  to  the  X 
+axis  at  a  constant  angle. 
+
+Using  such  space-time  representa¬ 
+tion  we  see  that  a  point  when  it  is  not 
+‘moving’,  but  is  stationary,  is  repre¬ 
+sented  by  a  line  parallel  to  the  ‘time 
+axis  T ,  as  shown  at  A  on  Fig.  13.  Our 
+point  A  is  getting  older,  so  to  speak,  but 
+does  not  ‘move’.  In  the  next  case,  the  point  B  does  not  ‘move’  until  it  is  some 
+seconds  old,  when  at  B'  it  begins  to  ‘move’  with  constant  velocity.  Point  C 
+‘moves’  in  the  beginning  at  one  constant  velocity  until  Cf  where  it  acquires  a 
+certain  different  velocity  and  the  direction  changes. 
+
+In  Fig.  13,  D  represents  a  point  experiencing  a  series  of  sudden  changes 
+of  velocities.  The  graph  is  a  succession  of  short  straight  lines  forming  a  broken 
+line  or  open  polygon.  As  the  changes  of  velocity  occur  more  and  more  frequently 
+the  sides  of  our  polygon  become  smaller  and  smaller;  and  in  the  limit,  as  the 
+changes  of  velocity  become  continuous,  our  broken  line  becomes  a  smooth 
+
+curve  E .  , 
+
+Motion  with  continuously  changing  velocity  is  called  accelerated  or 
+
+retarded  motion.  The  rate  of  change  of  velocity  is  called  acceleration  and  is 
+
+Fig.  13 
+
+628  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+represented  by  the  second  derivative  of  the  distance  with  respect  to  the  ‘time’- 
+
+symbolically,  A  =dv /dt  =  d2s /dt%. 
+
+It  is  important  to  notice  that  in  space-time  an  accelerated  motion  is  repre¬ 
+sented  by  a  curved  line.  In  uniform  (constant  velocity)  motion  the  distances 
+are  proportional  to  the  'times',  and  the  line  is  straight  and  its  equation  is  of 
+the  first  degree.  In  accelerated  motion  the  distances  are  not  proportional  to 
+the  'times',  the  lines  are  curved  and  the  'time'  element  dt  enters  in  the  second 
+degree  at  least;  namely,  as  dt 2. 
+
+For  example,  let  us  study  the  graph  of  the  motion  represented  by  the 
+equation  x=At2/2  which  means  that  the  distance  x  is  proportional  to  the 
+
+Let  OX  (Fig.  14)  be  the  'spatial'  axis, 
+and  OT  the  'temporal'  axis.  We  lay  off 
+on  our  T  axis  equally-spaced  points,  repre¬ 
+senting  the  seconds  1,  2,  3,  4  .  ,  and  calcu¬ 
+late  the  distances  x  for  each  of  these  values 
+from  the  equation  x=At2/2  where  A 
+represents  a  constant  acceleration. 
+
+Let  us  assume  that  the  constant  ac¬ 
+celeration  A  is  given  as  4  metres  per 
+second  per  second.  The  equation  x^M1/! 
+becomes  x~2 1\  Corresponding  to  the  values  f=0,  1,  2,  3,  4  .  ,  we  have  the 
+values  x  -0,  2,  8,  18,  32  ,  .  If  we  plot  these  points,  and  assume  that  the  change 
+is  continuous,  we  may  join  the  points  by  a  continuous  curve,  which  represents 
+the  motion  of  the  point  as  a  curved  world-line. 
+
+Similarly,  in  three-dimensional  space- time,  a  point  moving  uniformly  in 
+the  plane  XY  would  be  represented  in  the  plane  XY  by  the  line  AB ,  and  in 
+three-dimensional  space-time  by  the  static  line  AB\  where  the  'times’  are 
+
+As  we  have  already  seen,  non-recti- 
+linear  motion  may  be  considered  as  accel¬ 
+erated  motion.  We  will  generalize  the 
+above  to  the  case  where  any  curved  path 
+is  traversed  with  constant  velocity.  In  this 
+case  the  direction  of  the  velocity  is  changed. 
+If  we  take  the  motion  of  a  point  which 
+describes  a  circular  orbit  with  constant 
+velocity,  it  is  easy  to  find  its  acceleration, 
+which  is  called  in  this  case  centripetal 
+acceleration. 
+
+.  .  Let  us  consider  a  point  P,  moving  in 
+
+a  circular  orbit  with  a  constant  velocity  v,  as  given  in  Fig.  16.  If  at  a  certain 
+time’  it  is  at  At  after  a  short  interval  t,  it  will  be  at  B.  The  direction  of  the 
+velocity  will  be  changed  from  AAf  to  BB'. 
+
+proportional  to  the  distance. 
+
+square  ol  the  ‘time  . 
+T 
+
+ON  GEOMETRY 
+
+If  we  construct  the  triangle  DCE  by  drawing  CD  parallel  and  equal  to 
+AA't  and  CE  parallel  and  equal  to  BB',  we  see  that  the  angle  ZDCE  is  equal 
+to  the  angle  ZA'A"B'  because  the  sides  are  parallel,  and  it  is  also  equal  to  the 
+angle  ZAOB  whose  sides  are  perpendicular  to  A  A'  and  BB'.  The  triangles 
+ABO  and  CDE  are  similar  be¬ 
+cause  they  are  isosceles  and 
+the  angles  between  the  equal 
+sides  are  equal.  Clearly  the 
+side  DE~w,  represents  the 
+supplementary  velocity  which 
+transforms  A  A'  into  BB'.  We 
+know  that  in  similar  triangles 
+the  sides  are  proportional  so 
+we  can  write  DE/  CD  —AB/  OA . 
+
+By  inspection  of  our  figures  we 
+seethatZXE  —w;  CD  —  v;OA  —r, 
+the  radius  of  the  circle.  The 
+chord  AB  may  be  taken  as  the 
+arc  AB  of  the  circle,  provided 
+the  ‘time’-interval  is  taken  sufficiently  small.  Let  us  write  chord  AB  =s.  We 
+have  w/v  -s/r  or  w  =sv/r.  If  we  divide  both  sides  of  our  equation  by  t  we  have 
+w/t-sv/tr .  But  w/t=A,  the  acceleration,  and  s/t  =v  hence  A  =v2/ r.  In  words, 
+the  centripetal  acceleration  is  equal  to  the  square  of  the  velocity  in  the  circle 
+
+divided  by  the  radius.  . 
+
+The  above  formula  is  of  structural  importance  because  it  is  the  foundation 
+for  the  empirical  proof  of  Newton’s  law  of  gravitation.  For  our  purpose  it  is 
+important  for  other  reasons,  to  be  stated  later. 
+
+There  are  two  more  diagrams  which  should  be  considered,  in  this  connec¬ 
+tion.  Fig.  17  represents  the  plane  circular  motion  of  a  point  P  whose  orbit  in 
+the  plane  XY  is  the  circle  PAB.  In  three-dimen¬ 
+sional  space-time  the  plane  circular  orbit  of  J  - - 
+
+motion  would  be  represented  by  the  static  '  s - 
+
+cylindrical  helix  (or  screw-line)  with  axis  parallel 
+to  the  ‘time’  axis  T .  (Fig.  17.)  We  should  note 
+
+that  the  motion  is  dynamically  circular  in  the  XY  *  y 
+
+plane,  yet  a  three-dimensional  space-time  repre-  / 
+
+sentation  gives  us  a  stationary  helix.  /  _  ; 
+
+Similarly  for  vibrational  movements  which  / 
+
+could  be  represented  in  one  dimension  by  to-and-fro  /  a 
+
+movements  on  the  X  axis  from  A  to  B  and  from  B  to  / 
+
+A .  (Fig.  18.)  If  we  introduce  our  space-time  form  of  J L - - >  X 
+
+representation  by  introducing  the  T  axis,  our  vibra-  Fic.  17 
+
+tional  world-line  would  be  represented  structurally 
+
+by  a  wave-line  along  the  T  axis.  In  particular,  if  the  vibrational  motion  is  simply 
+harmonic,  a  proper  choice  of  the  ‘time’  unit  makes  the  wave-line  a  sine  curve.9 
+
+630  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+Becoming  thoroughly  familiar  with  these  few 
+simple  examples  takes  away  a  great  deal  of 
+mystery  from  the  Minkowski-Einstein  and  the 
+new  quantum  world.  We  see  that  after  all  there 
+is  nothing  extraordinary  in  the  fact  that  in 
+languages  of  different  structures  we  get  different 
+x  forms  of  representations  and  pictures,  and  that 
+in  a  world  where  accelerations  abound  we  may 
+very  profitably  use  the  term  ‘curved’. 
+
+When  we  come  to  speak  about  the  Einstein 
+theory,  the  four-dimensional  space- time  world  of 
+Minkowski,  and  the  new  quantum  mechanics, 
+we  shall  have  considerable  use  for  these  few 
+notions  and  illustrations. 
+
+Section  D.  The  application  of  geometrical  notions  to  cerebral  localisation. 
+
+In  the  present  work  we  are  dealing  in  the  main  with  structure  and  the 
+justment  of  the  structure  of  our  languages  to  empirical  structures,  and  at 
+is  point  it  will  be  of  use  to  suggest  some  of  the  consequences  which  follow 
+from  what  has  been  said. 
+
+The  question  of  cerebral  localization  is  a  difficult  and  vital  problem.  In 
+tonner  days  it  was  supposed  that  the  brain  had  individualized  centres  with 
+stnctly  defined  functions.  Attempts  were  made  to  ascribe  to  definite  cerebral 
+parte  definite  functions  such  as  ‘memory’,  ‘intelligence’,  ‘morality’,  ‘talents’ 
+in  the  meantime,  experimental  facte  disproved  such  structural  views,  and  as  a 
+reaction  another  tendency  appeared;  namely,  to  deny  any  localization. 
+
+Modern  researches  show  unmistakably  that  both  of  these  extreme  ten¬ 
+dencies  are  at  variance  with  experimental  structural  facte.  It  appears  that  the 
+lower  centres  play  a  more  important  role  according  as  the  terminal,  or  higher 
+centres,  are  less  developed  and  that  there  is  considerable  variability,  at  least  in 
+man,  not  only  from  the  morphological  and  histological  aspects  but  also  from 
+e  functional  aspect.  It  was  found  impossible  to  generalize  from  the  particular 
+development  of  centralization  and  functional  distribution  in  one  species  to  the 
+distribution  in  another  species.  Localization  may  vary  even  in  one  individual 
+under  different  circumstances.10  Metabolism,  and  slight  disturbances  in  the 
+functioning  of  a  neuron,  were  also  found  to  have  a  most  far-reaching  influence, 
+shown  in  its  relations  to  other  groups  of  neurons.  The  problems  of  localization 
+are  far  too  complex  to  attempt  even  an  account  of  them,  the  more  so  since  the 
+rea  er  will  find  excellent  accounts  of  them  in  the  large  literature  on  the  subject. 
+
+e  general  conclusion  reached  by  practically  all  investigators  is  that  some 
+localization  of  nervous  function  does  exist,  yet  it  has  a  certain  variability  which 
+depends  on  an  enormous  number  of  factors. 
+
+The  methods  explained  in  this  chapter  will  enable  us  to  suggest  a  method 
+by  which  we  can  orient  ourselves  in  the  bewildering  complexity  of  the  function¬ 
+ing  of  the  nervous  system. 
+
+ON  GEOMETRY 
+
+One  of  the  main  difficulties  is  that  the  structure  of  this  world  is  such,  that 
+it  is  made  up  of  absolute  individuals,  each  with  unique  relationship  toward 
+environment  (in  the  broadest  sense) ;  and  we  have  to  speak  about  it  in  terms  of 
+generalities.  ‘Laws’  .  ,  formulated  in  the  old  two-valued  ways ,  can  never  account 
+adequately  for  the  facts  at  hand,  being  only  approximations.  The  mathematical 
+methods  which  have  already  been  explained  give  us  at  once  a  great  advantage. 
+We  have  seen  that  if  we  have  a  function,  y  =/(*),  let  us  say,  and  take  the  graph 
+of  this  function,  to  every  point  of  the  graph  there  corresponds  a  pair  of  values 

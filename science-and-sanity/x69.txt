@@ -1,0 +1,500 @@
+
+Linear  problems  and  linear  equations  play  a  very  important  structural 
+role  in  science  and  there  is  little  doubt  that  linear  equations  preponderate 
+enormously,  although  many  fundamental  events  cannot  be  described  by  such 
+equations.  A  universe  which  can  be  described  by  linear  differential  equations 
+of  the  second  order  has  definite  structural  characteristics— in  the  main  in 
+rough  accord  with  observation.  As  such  differential  equations  give  us  the 
+tendency  of  a  process,  we  may  use  them  to  describe  large-scale  phenomena  by 
+integration,  or  the  statistical  phenomena  of  great  numbers. 
+
+Unfortunately,  the  study  of  non-linear  problems  is  structurally  very 
+difficult  and  largely  a  problem  of  the  future. 
+
+There  is  one  very  important  point  which  we  should  not  miss.  We  know 
+already  that  there  is  a  fundamental  difference  between  different  orders  of 
+abstractions.  Physical  abstractions  have  always  characteristics  left  out,  and 
+our  higher  order  abstractions  are  further  removed  from  life,  but  they  have  all 
+characteristics  included.  The  problem  of  sanity  being  a  problem  of  adjustment, 
+we  must  somehow  correlate  these  abstractions  in  which  characteristics  are 
+left  out  with  those  which  include  all  characteristics,  and  so  must  proceed  by 
+approximations.  Mathematical  methods,  particularly  those  of  the  differential 
+and  integral  calculus,  have  evolved  the  best  technique  of  approximation  in 
+existence  today,  which,  as  we  have  seen,  is  strictly  connected  with  linearity 
+or  additivity . 
+
+A  similar  urge  which  prompted  us  in  the  expression  of  our  additive 
+tendencies  and  methods  in  the  structure  of  language,  has  led  to  the  production 
+of  the  calculus.  For  organisms  which  abstract  in  so  numerous  and  such  different 
+orders,  the  methods  of  the  calculus  are  therefore  fundamental  psycho-logical 
+devices,  conditioning  sanity. 
+
+In  conclusion,  we  should  notice  two  quite  important  facts.  One  of  these 
+is  that  the  nervous  system,  being  in  a  state  of  nervous  tension,  cannot  struc¬ 
+turally  be  a  simple  additive  affair  in  all  its  functions,  a  fact  which  every  one 
+of  us  has  experienced.  Too  many  stimulations  dull,  or  abolish,  or  change 
+reaction  in  an  enormous  variety  of  ways.  Pieron,  as  a  result  of  experimenting 
+in  association,  has  not  only  shown  the  complexity  of  these  processes,  but  also 
+reaches  the  conclusion  that  the  associative  connections  are  non-linear.  ^  The 
+other  most  important  point  is  that  structurally  the  term  ‘and  implies  addition. 
+When  we  confuse  orders  of  abstractions  or  levels  of  analysis,  the  ‘and  additive 
+implications  falsify  the  issues.  Thus  for  instance  two  atoms  of  hydrogen  and 
+one  atom  of  oxygen  and  a  spark  produce  water.  The  second  ‘and’,  at  least, 
+is  used  illegitimately,  as  it  applies  to  an  entirely  different  level  (the  spark) 
+from  that  of  the  atoms.  Linguistically  we  introduced  additive  implications, 
+
+614  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+while  empirically  we  are  dealing  with  most  complex  non-additive,  non-linear 
+higher-degree  functions.  When  we  confuse  orders  of  abstractions,  as  we  all 
+do,  the  ‘and’  is  bound  to  introduce  structurally  false  implications,  which  it  is 
+very  difficult  to  avoid — the  more  so  since  these  semantic  problems  are  generally 
+entirely  neglected. 
+
+CHAPTER  XXXIV 
+
+ON  GEOMETRY 
+
+At  the  same  time  it  will  not  be  forgotten  that  the  physical  reality  of 
+geometry  can  not  be  put  in  evidence  with  full  clarity  unless  there  is  an 
+Abstract  theory  also.  .  .  .  Thus,  for  example,  while  the  term  electron  may 
+have  more  than  one  physical  meaning,  it  is  by  no  mcanssueh  a  P™tean 
+object  as  a  point  or  a  triangle,  <2S9)  Oswald  veblen 
+
+Euclidean  space  is  simply  a  group.  (417, 
+
+HENRI  POINCARfc 
+
+It  is  only  in  Euclidean  “gravitationless”  geometry  that  integrability 
+ht  *n  tSSD  HERMANN  WEYL 
+
+°  The  fundamental  fact  of  Euclidean  geometry  is  that  the  square  of  the 
+distance  between  two  points  is  a  quadratic  form  of  the  relative  co-ordinates 
+of  the  two  points  ( Pythagoras’  Theorem).  But  tf  we  look  upon  this  law  as 
+bring  stricUyvalid  only  for  the  case  when  these  two  points  are  infinitely  near , 
+welmter^he  domain  of  Aiemann's  geometry .  (547,  Hermann  weyl 
+
+parallel  displacement  of  a  vector  must  leave  unchanged  the  distance  which 
+it  determines.  Thus ,  the  principle  of  transference  of  distances  or  lengths  which 
+is  the  basis  of  metrical  geometry,  carries  with  it  a  p nnmpie  °f  «»"■ sf"eg?°{ 
+direction;  in  other  words,  an  affine  relationship  is  Inherentinmetrical 
+apace.  <s«>  Hermann  weyl 
+
+But  before  dealing  noth  the  brain,  it  is  well  to  distinguish  a  second  char- 
+acteristic  of  nervous  organization  which  renders  it  an  organization  in 
+levels.  (411)  HENRY  FrfttON 
+
+Section  A.  Introductory . 
+
+The  main  metrical  rule  in  geometry  is  the  familiar  pythagorean  theorem. 
+In  1933  this  rule  is  no  longer  considered  as  generally  valid  outside  of  the  euclid¬ 
+ean  system*  as  its  proof  depends  on  the  doubtful  postulate  of  parallels.  It  is 
+considered  as  an  empirical  generalization  in  which  the  relative  error  decreases 
+when  the  distances  become  smaller.  Indeed  the  small  element  of  length,  ds, 
+given  by  the  pythagorean  rule  is  considered  con- 
+venient  and  reliable  in  our  exploration  of  the  / 
+
+world. 
+
+The  pythagorean  rule  states  that  in  any  right 
+triangle,  ABC ,  the  square  of  the  side  opposite  the 
+right  angle  (the  hypotenuse)  is  equal  to  the  sum 
+of  the  squares  of  the  two  other  sides  (the  legs). 
+In  symbols,  AB*  C2  +BC2.  If  we  build  squares 
+on  all  three  sides  of  the  triangle  ABC  and  denote 
+the  areas  of  the  squares  by  Cf,  Af,  and  B  then 
+we  have  C  =Af  +5'. 
+
+The  above  rule  is  also  the  main  metrical 
+rule  for  co-ordinate  geometry,  which  gives  us 
+
+A, 
+
+o 
+
+B* 
+
+C 
+
+pi 
+
+Fig.  1 
+
+the  length  of  the  line  segment  joining  any  two 
+
+points.  Consider,  for  example,  two  points  in  two  dimensions,  Pi  and  P2,  whose 
+
+616  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+co-ordinates  referred  to  a  pair  of  axes  in  the  plane  are  (#1,  yi)  and  (x2)  ^2)*  By 
+drawing  the  lines  P\Q  and  P2Q  parallel  to  the  X  and  Y  axes  respectively,  a  right 
+triangle  P1QP2  is  formed  whose  legs  PiQ  and  P2Q  are  equal  to  x2  —Xi  and  y2  -yi 
+respectively,  whence  PiP2 ,  the  hypotenuse  of  the  right  triangle,  or  the  distance 
+s  between  the  points,  is  equal  to  VPiQ2  +P2Q2,  or  $  *  V (x2  ~*i)2  -f  (yz  -  yi)2. 
+If  we  pass  to  indefinitely  small  quantities  and  choose  to  deal  with  differentials 
+we  have  ds2  =dx2  +dy2  where  dx  =x2—xi  and  dy -yz  —yi.  Usually  the  physicists 
+treat  their  differentials  as  very  small  quantities  and  we  may  do  likewise,  although 
+this  is  not  precisely  what  a  differential  represents. 
+
+In  three  dimensions  similar  formulae  appear;  namely,  s2  =x2  +y2  +z2  for 
+the  distance  of  a  point  from  the  origin  and  s  =V (x2  —  Xi)2+(y2—yi)2+(z2—  2i)2 
+
+for  the  distance  between  two  points  Pi  (*1,  zx) 
+and  P2  (x2,  y2f  z2),  and  also  ds2  =dx2  -My2  ~Mz2, 
+for  the  indefinitesimally  small  distance  between 
+two  points. 
+
+In  referring  our  geometrical  entities  to  co¬ 
+ordinate  axes,  or  frames  of  reference,  as  they  are 
+called,  we  are  interested  in  the  properties  of  our 
+geometrical  entities  and  not  in  the  accidental  char¬ 
+acteristics  of  our  f  rames  of  reference,  or  the  acciden¬ 
+tal  characteristics  of  the  form  of  representation  we 
+are  using.  Mathematicians  discovered  long  ago 
+that  the  form  of  representation  is  not  of  indiffer¬ 
+ence  to  the  results  they  obtain.  Speaking  roughly 
+they  have  discovered  that  in  one  form  of  representation,  they  obtained  character¬ 
+istics  a,  b,  c%  d,  .  .  .  w,  n;  in  another  form,  characteristics  a ,  bt  cy  d,  .  .  .  p ,  q;  and 
+in  still  another  form,  characteristics  at  bt  c,  dt  .  .  .  s,  t ,  .  In  cases  where  direct 
+inspection  was  possible  they  find  by  checking  up  predicted  characteristics,  that 
+such  characteristics  as  a,  bf  c,  d  in  our  example  actually  belong  to  the  subject  of 
+our  analysis,  whereas  the  characteristics  m,  n,  q, ...  s,  t, ...  ,  do  not 
+
+belong  to  our  subject  at  all,  but  vary  from  one  form  to  another  depending  on  the 
+form  of  representation.  Such  facts  make  mathematicians  distinguish  between 
+characteristics  which  are  intrinsic ,  which  actually  belong  to  the  subject  inde¬ 
+pendently  of  the  form  of  representation;  and  those  which  are  extrinsic ,  which 
+do  not  belong  to  the  subject,  but  are  accidental  and  vary  with  the  form  of 
+representation  we  happen  to  use. 
+
+If  we  mix  intrinsic  and  extrinsic  characteristics  we  have  a  structurally 
+distorted  knowledge  of  our  subject.  Obviously  we  are  interested  in  methods  by 
+which  these  two  types  of  characteristics  can  be  separated  and  distinguished. 
+
+Such  methods  are  found  in  what  we  call  the  transformation  of  co-ordinates, 
+which  means  the  passing  from  one  form  of  representation  to  another,  from  one 
+system  of  co-ordinates  to  another  which  corresponds  to  translation  from  one 
+language  to  another.  Obviously  those  characteristics  which  are  intrinsic  to  our 
+subject  are  and  must  be  independent  of  the  accidental  selection  of  our  form  of 
+
+Y 
+
+ON  GEOMETRY 
+
+representation,  and  therefore  should  remain  unchanged  when  we  pass  from  one 
+frame  of  reference  to  another.  Any  characteristic  which  is  changed  by  such  a 
+transformation  of  our  systems  of  reference  is  clearly  an  extrinsic  characteristic 
+injected  by  the  form  of  representation  and  not  belonging  to  our  subject;  and  so 
+the  transformation  of  co-ordinates  is  precisely  the  test  we  need  and  use. 
+
+Let  us  take  for  instance  the  line  segment  P i P 2,  as  in  Fig.  3.  We  may  refer 
+PiPt  to  a  system  0,  or  to  a  System  O'.  Obviously  the  length  of  the  line  P\Pi 
+is  independent  of  the  axes  of  reference  used,  and  the  formula  for  the  length  of 
+a  line  is  not  altered,  although  the  values  for  the  *’s  and  y's  are  different  m  the 
+two  systems.  In  other  words,  the  sum  of  the  squares  of  the  differences  of  the 
+co-ordinates  remains  invariant.  In  symbols,  _  _ 
+
+S  -V  .(*,-*!)*+(  yt-yt?  -  v'  (*!'  -*!')* + W  -yiO*. 
+
+Such  expressions,  however,  as  x\+x%  or 
+
+yxyt . ,  are  not  characteristics  of  our  Y  p 
+
+subject  but  characteristics  of  the  par-  fety-y' 
+
+ticular  frame  of  reference  used,  and  so  / j  ' 
+
+are  mostly  of  no  interest  to  us.  j  \ 
+
+In  such  an  elementary  example  Y\  / *v4f  \  . 
+
+as  given  here  we  are  directly  ac-  \  Uy'  ^  > 
+
+quainted  with  our  entities,  and  so  \ 
+we  can  inspect  them  directly  and  \.  i  > 
+
+check  for  intrinsic  and  extrinsic  char-  \  j* 
+
+acteristics.  But  when  we  deal  with  pL-g,  — * 
+
+geometries  of  more  than  three  di-  \ 
+
+mensions,  such  checking  becomes  very 
+
+difficult,  if  at  all  possible,  and  so  new  Fig.  3 
+
+methods  have  to  be  invented. 
+
+If  we  wish  to  eliminate  the  unit  by  which  we  measure  our  lines,  this  can 
+be  done  by  using  a  relation  called  a  ratio.  Let  us,  for  instance,  select  3  points 
+A,  B,C,  and  write  the  invariant  formulae  for  the  distance  AB  and  AC  in  the 
+form  Vte.-x1)i+(yi-yi)2  and  V  (x.-«i),+(ys-yi)2 
+
+V  (xi-*i)2+(ys-yi)2 
+
+then  the  ratio  P  —  ,  ,  ,  ,2 
+
+v  (xj— *i)2+(ys— yi) 
+
+is  independent  of  our  unit  of  measurement.  If,  for  instance,  this  ratio  R  -1.  we 
+conclude  that  AB  =AC,  a  characteristic  which  belongs  to  our  lines  and  which 
+is  independent  not  only  of  our  system  of  reference  but  also  of  the  unit  which  we  have 
+
+US  A  great  step  forward  in  the  formulation  of  methods  which  lead  to  invariant 
+and  intrinsic  formulations  was  made  in  the  invention  of  what  is  called  the  vector 
+calculus  and  its  extension  in  the  modern  tensor  calculus.  A  few  explanations  o 
+
+this  principle  will  be  of  interest. 
+
+A  vector  is  roughly  a  directed  segment  of  a  straight  line  on  which  we  dis¬ 
+tinguish  the  initial  and  the  terminal  points.  A  vector  has  thus  magnitude  and 
+direction.  In  practice  we  deal  with  two  kinds  of  entities;  some  are  purely 
+
+618  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+numerical,  establishing  a  specific,  mostly  asymmetrical,  relation  and  have  no 
+direction,  as  for  instance,  mass,  density,  temperature,  energy,  electrical  charge, 
+population,  mortality  , .  These  quantities  which  do  not  involve  direction  are 
+called  scalar  quantities. 
+
+Such  quantities  as  velocity,  acceleration,  electric  current,  stresses,  flow  of 
+heat  or  fluids  .  ,  which  involve  not  only  magnitude  but  also  a  definite  direction, 
+are  called  vector  quantities,  and  have  given  rise  to  a  special  calculus  called  the 
+vector  calculus. 
+
+The  invention  of  the  vector  calculus  was  a  most  revolutionary  and  bene¬ 
+ficial  structural  and  methodological  step.  It  was  originated  independently  by 
+Hamilton  and  Grassmann.  The  benefits  of  this  method  are  manifold,  but  we 
+are  interested  mainly  in  but  two  of  them.  The  first  is  that  vector  equations 
+are  simpler  and  fewer  in  number  than  co-ordinate  equations.  The  second,  and 
+most  important,  is  that  the  language  of  vectors  is  independent  of  choice  of  axes, 
+and  of  frames  of  reference.  It  is  naturally  invariant  for  any  transformations  of 
+axes.  If  axes  are  needed  we  can  easily  and  simply  introduce  them,  but  we  al¬ 
+ways  have  means  to  discriminate  between  intrinsic  and  extrinsic  characteristics. 
+The  modern  tensor  calculus  which  made  the  general  theory  of  Einstein  possible 
+is  simply  an  extension  of  the  vector  calculus. 
+
+The  above  methodological  and  structural  remarks  are  of  fundamental 
+semantic  importance  to  us  in  all  our  affairs.  Human  life  and  affairs  are  never 
+free  from  linguistic  issues.  Their  role  is  similar  to  that  of  mathematics,  that  is 
+to  say,  a  form  of  representation  gives  us  not  only  the  characteristics  which  are 
+intrinsic  in  our  subject,  but  also  introduces  extrinsic  characteristics  which  do 
+not  belong  to  the  subject  of  our  analysis  but  are  due  to  the  particular  language 
+we  use  and  its  structure .  The  analysis  of  these  linguistic  issues  is  much  belated 
+and  extremely  difficult  because  of  the  structural  complexity  of  our  language. 
+These  issues  were  discovered  first  in  mathematics  because  of  its  clear-cut  struc¬ 
+tural  simplicity ;  and  it  is  important  that  we  should  be  aware  of  such  new  and 
+unexpected  fundamental  semantic  problems.  We  will  not  enlarge  upon  this 
+phase  of  the  problem  here,  except  to  mention  that  the  whole  of  the  present 
+work,  which  uses  a  different  language,  of  a  different  structure ,  already  shows 
+the  usefulness  of  the  new  method.  Sometimes  we  discover  new  characteristics, 
+and  sometimes  we  are  led  to  emphasize  characteristics  which  are  known  but 
+have  not  yet  been  sufficiently  analysed. 
+
+To  carry  our  linguistic  analogy  further,  we  may  take,  for  instance,  the 
+statement,  ‘knowledge  is  useful’.  We  could  translate  this  statement  into  any 
+other  language  and  it  would  preserve  its  meaning.  But  if  we  make  the  state¬ 
+ment,  ‘knowledge  is  a  word  which  has  six  consonants  and  three  vowels',  such  a 
+statement  may  be  false  when  translated  into  another  language.  Mathematics, 
+being  a  language,  has  difficulties  similar  to  ordinary  language,  but  in  mathemat¬ 
+ics  it  is  often  much  more  difficult  to  separate  from  other  statements  those  which 
+are  purely  about  the  language  used.  The  so-called  tensor  calculus  attempts  to 
+perform  this  last  task. 
+
+ON  GEOMETRY 
+
+The  tensor  calculus  is  an  extension  of  the  vector  calculus,  which  has  be¬ 
+come  famous  since  Einstein.  It  gives  us  formulations  independent  of  any  special 
+frame  of  reference.  In  using  it  we  are  automatically  prevented  from  ascribing 
+to  the  events  around  us  characteristics  which  do  not  belong  to  them.  The 
+tensor  equations  give  us  absolute  formulations,  absolute  being  understood  as 
+relative,  no  matter  to  what.  Obviously  the  only  language  fit  to  express  the 
+'laws  of  nature*  should  be  independent  of  the  particular  point  of  view  or  lan¬ 
+guage  of  some  observer.  It  should  give  us  formulations  invariant  for  any  and 
+all  systems  of  reference,  although  we  might  use  preferred  systems  of  reference, 
+as,  for  instance,  the  principal  axes  of  an  ellipse,  without  any  danger.  The 
+reader  should  not  miss  the  point  that  such  an  ideal  should  be  considered  as  the 
+highest  ideal  in  science.  It  is  the  mathematical  species  of  a  theory  of  ‘universal 
+agreement*.  The  above  sounds  simple  and  innocent;  but,  when  actually  applied, 
+plays  havoc  with  most  of  our  old  ‘universal  laws’.  These  laws  do  not  survive 
+this  important  and  uniquely  valid  test,  and  so  become  mere  local  gossip  instead 
+of  being  the  ‘universal  laws’  that  they  claim  to  be.  We  will  return  to  the  struc¬ 
+tural  problem  of  invariant  formulations  later.  At  present  we  must  explain  some 
+other  simple  considerations. 
+
+On  any  surface  we  need  two  numbers  or  ‘co-ordinates  to  specify  the  posi¬ 
+tion  of  a  point,  and  so  a  surface  is  called  a  two-dimensional  manifold.  Points 
+in  three-dimensional  manifolds  require  three  numbers;  points  in  four-dimensional 
+manifolds  four  numbers;  and  similarly  for  any  number  of  dimensions. 
+
+For  our  purpose,  it  is  enough  to  speak  in  two  dimensions,  as  our  statements 
+can  easily  be  generalized  to  any  number  of  dimensions.  If  we  want  to  localize 
+a  point  on  a  surface  it  is  enough  to  divide  the  surface  into  meshes  by  any  two 
+line-systems  which  cross  each  other.  By  labeling  the  lines  of  each  system  with 
+consecutive  numbers,  two  numbers,  one  from  each  system,  will  specify  a  par¬ 
+ticular  mesh.  If  the  meshes  are  small  enough  we  will  be  able  to  locate  any 
+point  accurately. 
+
+These  specifying  labels  or  numbers  require  that  we  know  what  kind  of 
+mesh  we  are  using.  Distances  between  points  are  independent  of  mesh  systems. 
+
+For  the  above  reasons  it  is  important  to  have  more  data  about  the  mesh 
+system  we  are  using,  which  means  that  we  have  formulae  which  express  the 
+distance  between  two  points,  which  is  independent  of  the  mesh  systems,  in 
+terms  of  the  mesh  system. 
+
+We  have  already  seen,  in  our  study  of  the  differential  calculus,  that,  as  a 
+rule,  it  is  simpler  to  deal  with  very  short  distances,  and  that  it  is  easy  to  pass 
+to  larger  distances  by  the  process  of  integration.  As  yet  we  have  used  only 
+plane  rectangular  systems  of  meshes  in  our  illustrations,  but  this  restriction  is 
+not  necessary.  If  we  use  oblique  co-ordinates  (Fig.  4),  the  formula  for  the  ele¬ 
+mental  distance  is  ds2  =dxi2~2kdxidxi+dx22t  where  'k  =  cosine  of  the  angle 
+between  the  lines  of  partition. 
+
+The  polar  co-ordinates  (Fig.  5)  of  the  point  P  are  the  distance  r=OP,  of 
+the  point  from  the  origin  0,  and  the  angle,  6  =  ZXOP,  between  the  line  OP 
+
+620  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+and  the  axis  OX.  The  formula  for  the  elemental  distance  in  polar  co-ordinates 
+
+is  ds 2  -dr2  +r2d82. 
+
+Fig.  6  shows  the  co-ordinates  frequently  used  by  geographers;  namely, 
+geographic  longitude  and  latitude,  where  the  distance  ds 2  =d£2+cos2/SdA2. 
+
+Fig.  4 
+
+Fig,  5 
+
+It  should  be  noticed  that  these  formulae  for  different  systems  of  co-ordinates 
+are  different.  To  make  it  still  more  obvious  to  ocular  inspection,  we  will  tabulate 
+them  in  one  lettering,  thus: 
+
+ds 2  *  dx i2  +dx 22  for  rectangular  systems 
+
+ds 2  —  dx i2  +x\2dx22  for  polar  systems 
+
+ds2  —  dx i2  2kdx\dxi  -\-dx 22  for  oblique  systems 
+
+ds2  =dx i2  +cos2xidx22  for  latitude  and  longitude  systems.1 
+
+It  must  be  noticed  that  the  values  for  the  variables  are  not  equal  in  these 
+different  equations.  It  is  not  necessary  for  the  reader  to  know  in  detail  how 
+these  formulae  are  obtained,  but  it  is  necessary  to  see  that  they  are  different , 
+that  they  have  different  structure.  The  numbers  of  different  co-ordinate  systems 
+we  can  use  are  infinite,  but  in  practice  we  use  only  a  few  well-known  types. 
+There  are  also  definite  and  simple  formulae  for  passing  from  one  system  of 
+co-ordinates  to  another. 
+
+We  should  not  assume  that  in  practice  we  always  know  what  system  of 
+co-ordinates  we  are  employing.  For  instance,  before  we  learned  that  our  earth 
+is  'round',  we  did  not  know  whether  in  our  measurements  we  were  employing 
+the  flat  co-ordinates  of  a  plane  or  spherical  co-ordinates.  We  made  some 
+measurements  and  then  we  had  to  discover  what  kind  of  formulae  would  fit 
+these  measurements. 
+
+To  find  out  what  kind  of  co-ordinate  system  we  are  using,  we  select  two 
+points,  let  us  say  ( X\ ,  ^2)  and  (#i  +dxf  xz  +dx)  very  close  together,  make  our 
+measurements  of  dst  and  then  test  our  ds  to  find  which  formula  it  fits.  If  we 
+find  for  instance  that  our  ds2  is  always  equal  to  dx i2  ~\~dx^  we  may  assume  for 
+simplicity  and  our  purpose  that  our  co-ordinate  system  is  plane  and  rectangular. 
+
+If  our  measurements  fit  any  of  the  first  three  formulae  (1),  we  may  assume 
+for  simplicity  and  our  purpose,  that  we  are  dealing  with  a  plane  surface,  as 
+each  of  these  systems  belongs  to  the  plane.  But  if  we  find  that  the  actual 
+measurements  of  ds2  are  such  that  they  never  fit  these  first  three  formulae, 
+but  only  the  fourth  one,  we  know,  that  our  surface  is  not  plane  but  curved 
+
+ON  GEOMETRY 
+
+like  a  sphere.  Try  as  we  may,  we  Bhall  be  unable  to  build  on  a  plane  any 
+co-ordinate  system  which  will  fit  the  last  formula.  Thus  we  arrive  at  >ni»- 
+portant  conclusion;  namely,  that  from  measurements  we  have  a  structural  hint 
+M  to  the  kind  of  world  we  are  in. 
+
+Section  B.  On  the  notion  of  the  ‘Internal  Theory  of  Surfaced. 
+
+Let  us  imagine  some  two-dimensional  beings  confined  to  their  surface 
+and  unable  to  have  a  look  at  that  surface  from  our  third  dimension.  For  them 
+our  third  dimension  would  be  ‘unthinkable’,  and  therefore  the  surface  of  a 
+sphere  like  our  earth  which  is  curved  in  the  third  dimension  would  also  be 
+‘unthinkable’  or  ‘beyond  them’.  Should  they  conduct  some  measurements  m 
+their  ‘world’  and  find  that  these  measurements  did  not  fit  any  of  the  first  three 
+formulae  but  only  the  fourth,  they  would  have  to  reconstruct  radically  their 
+'world  conception'  and  conclude  that  their  world  was  a  spherical  surface.  Our 
+own  situation  does  not  differ  radically  from  the  situation  of  the  inhabitants 
+of  this  hypothetical  two-dimensional  world. 
+
+If  we  find  ourselves  so  restricted  as  not  to  know  whether  we  are  finally 
+dealing  with  a  flat  or  spherical  surface,  we  can  select  a  point  0  and  with  a 
+definite  radius  R  describe  from  this  point  a  circle  ABC.  Then  we  can  measure 
+the  circumference  of  this  circle.  Now  we  know  from  geometry  that  m  the  plane 
+the  circumference  of  the  circle  L  =  2tR 
+
+where  R  is  the  radius  of  the  circle  and  0 _ 
+
+r  *=3.1415  ...  If  our  surface  is  flat  ~ 
+
+(ABCD)>  our  measurement  of  L  and  R 
+will  satisfy  the  relation  expressed  in 
+
+the  formula.  But  if  the  surface  is  rr  t  . -^C 
+
+curved,  our  R  —  OA  will  be  larger  than  ^  ^ 
+
+K  =AO',  and  we  shall  find  that  our  x 
+
+is  not  3.1415  .  .  .  ,  but  smaller.  We  ^ - -- — 
+
+see  once  more  that  the  metrical  proper -  Yig  7 
+
+ties  of  our  world  throw  some  light' on  its 
+structural  character. 
+
+We  should  notice  also  that  the  curvature  of  a  two- 
+dimensional  surface  is  in  the  third  dimension  and  that 
+it  is  the  means  of  giving  us  data  about  the  surface 
+without  our  leaving  the  surface  and  going  into  a  third 
+dimension.  It  is  easy  to  convince  oneself  about  these 
+facts  by  taking  12  wires  or  strings  of  equal  length  and 
+constructing  the  figure  shown  in  Fig.  8.  If  we  build 
+it  on  a  flat  surface  the  12  equal  wires  will  fit  exactly. 
+
+But  if  we  try  this  experiment  on  a  curved  surface,  for  Fig.  8 
+
+instance  on  a  pillow-,  or  saddle-shaped  surface,  the 
+
+last  closing  wire  will  not  fit,  and  will  be  too  short  or  too  long  depending  on  the 
+kind  of  surfaces  we  have. 
+
+Fig.  8 
+
+622  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+The  formulae  (1)  have  been  generalized  to 
+
+ds2  =gudxi2  +2glidxldxi  +g«dr j*  (2) 
+
+for  two  dimensions  and  to 
+
+ds2  =  gudxi2  +gt2dxi2  +gz*dxi2  +g4*d*42  +2gudx1dxi 
+-\-2g\tflxidxi  -{-Igudxidxt  +  2gttdx2dxt  -\-2gudx2dx4  +  2g%  idxgdx^  ' 
+
+for  four  dimensions.  It  is  easy  to  see  that  ds2  -dxi2  +dxz2  is  obtained  from  (2)  by 
+taking  gn  -1;  gi2  ~0  and  g2j  =  1.  This  applies  to  formula  (3)  opt  of  which  we 
+can  have  any  of  the  other  formulae  by  equating  some  of  the  g’s  to  zeros,  or  to 
+one  or  to  other  values.  Formula  (3)  is  called  ‘the  generalized  pythagorean  rule1, 
+of  which  the  ordinary  form  as  given  previously  is  only  a  particular  case.  We 
+see,  by  comparing  the  formulae  (1)  with  (2)  and  (3),  that  these  g’s  are  not 
+equal  for  different  systems  of  co-ordinates,  and  that  they  are  factors  in  measure- 
+determination  which  represent  the  geometry  of  the  surface  considered.  It  is 
+customary  to  write  the  above  formulae  in  an  abbreviated  form:  thus, 
+=  22  2 gmndxmdXn,  where  we  give  to  tn  and  n  the  values  1,  2,  3,  4,  or, 
+(m,  n  *  1,  2,  3,  4)  and  where  the  symbol  22  means  summation. 
+
+We  will  now  explain  briefly  the  above  generalizations  and  the  meaning 
+of  the  g’s  given  in  the  expressions. 
+
+In  the  beginning  of  the  nineteenth  century  the  mathematician  Gauss 
+formulated  the  internal  theory  of  surfaces  without  reference  to  the  plenum  in 

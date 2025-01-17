@@ -1,0 +1,500 @@
+different  directions  it  is  fallacious  to  argue 
+that  the  smallest  slice  which  is  perpendicular 
+to  the  axis  is  the  ‘real’  one  and  the  larger 
+oblique  slices  only  ‘apparent’.  Similarly  in 
+the  Einstein  theory,  a  rod  has  various  lengths 
+
+according  to  the  motion  of  the  observer.  ( 
+
+One  of  these  lengths,  the  static  length,  is  the  greatest,  but  it  is  no  more  real 
+than  any  other.  Similar  remarks  can  be  made  about  ‘time’. 
+
+Attention  should  be  given  to  one  extremely  important  semantic  point 
+concerning  the  Minkowski  four-dimensional  world.  We  already  know  that  for 
+our  nervous  systems  the  passing  from  dynamic  to  static,  and  vice  versa,  is  a 
+most  vital  structural  problem.  The  first  step  of  this  translation  has  already 
+been  given  in  the  notion  of  the  ‘variable’.  The  calculus  earned  it  a  step  further. 
+In  the  Minkowski  world  we  reach  the  complete  solution  of  the  problem. 
+
+As  Keyser  points  out  in  his  Mathematical  Philosophy ,  we  had  two  verbal 
+methods  of  dealing  with  ‘time’.  One  was  the  method  of  Newton,  the  method 
+of  the  structural  importation  of  ‘time’.  From  the  objective  dynamic  world  of 
+the  lower  order  abstractions,  ‘time’  is  imported  into  the  static  world  of  the 
+higher  order  abstractions.  We  import  it  with  ‘motion’,  we  say  things  ‘move  . 
+Such  language  is  structurally  unsatisfactory,  even  on  the  earlier  level  of  our 
+development.  It  hampers  analysis,  and  is  contrary  to  the  structure  and  function 
+of  the  human  nervous  system.  It  breeds  tremendous  metaphysical  impasses, 
+and  is  ultimately  based  on  semantic  disturbances  due  to  identification. 
+
+If  we  introduce  dynamic,  shifting  entities  into  static  higher  order  abstrac¬ 
+tions,  rationality  is  impossible  and  we  drift  toward  mysticism.  . 
+
+A  very  real  semantic  problem  appears  here.  We  want  to  give  the  best 
+possible  account  of  the  structurally  dynamic  world  around  us;  yet  our  higher 
+order  abstractions  are  structurally  static ,  and  for  their  proper  working  they 
+must  use  static  means.  Here  seemed  to  be  an  impasse  which  for  milleniums 
+had  defied  solution.  ‘Philosophers’  of  different  schools  were  preaching  and 
+teaching  that  we  should  never  be  able  to  be  ‘rational’  and  understand  this 
+world  and  ourselves.  Anti-intellectual  schools  began  to  flourish,  to  the  be¬ 
+wilderment  of  all.  , 
+
+The  issue,  after  all,  was  simple,  the  moment  some  one  discovered  and 
+stated  it.  We  did  not  need  to  change  either  the  world  around  us  or  ourselves; 
+
+672  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+we  simply  had  to  discover  a  structurally  new  method  of  dealing  with  the  old 
+problems  without  changing  them. 
+
+The  new  method  is  given  by  Einstein  and  Minkowski.  Instead  of  making 
+the  static  world  of  higher  order  abstractions  dynamic,  which  cannot  be  done 
+at  all  without  producing  semantic  disturbances,  they  invented  structural 
+methods  for  dealing  with  the  dynamic  world  by  static  means.  The  key  was 
+found  in  the  handling  of  the  troublesome  factor,  ‘time’.  Minkowski  decided  to 
+put  ‘time’  in  its  proper  place  by  introducing  the  structurally  new  four-dimen¬ 
+sional  world. 
+
+In  the  case  of  particle  P,  we  habitually  used  to  say  that  the  point  P  at 
+an  instant  t  was  at  a  ‘space’  point  ( x ,  y,  s).  At  the  instant  t*  it  was  at  the  point 
+(*',  y',  s')  , .  We  always  needed  four  numbers,  which  gave  us  the  where  and 
+when  in  respect  to  some  frame  of  reference. 
+
+As  we  have  seen,  Minkowski  decided  to  look  structurally  at  this  tetrad 
+of  four  numbers  (x,  y,  z,  t)  ‘as-a-whole’.  In  other  words,  he  placed  himself  on 
+a  higher  level  of  abstraction.  He  took  under  consideration  the  older  results, 
+combined  them,  and  called  the  combination  by  one  single  name,  the  ‘world 
+point’.  Such  a  world  point  has  also  four  numbers  (not  3  plus  1,  but  just  4). 
+A  world  made  up  of  such  points  is  a  four-dimensional  world  in  which  all  the 
+points  co-exist.  The  flux  of  the  lower  order  abstractions  and  ‘time’  is  abolished. 
+There  is  no  more  ‘motion’  in  a  ‘flow  of  time’.  In  such  a  world  the  term  ‘where’ 
+has  completer  structural  meanings,  it  has  absorbed  the  when.  If  we  ask,  where 
+in  such  a  world  the  particle  P  is,  we  answer,  at  the  point  (x,  y,  zf  /).  Where  h 
+the  particle  P'?  At  the  point  (*',  y',  /,  *'). 
+
+We  see  that  the  particles  of  such  a  world  are  never  'the  same ’ ;  they  do  not 
+‘change*  or  ‘pass’;  they  co-exist,  and  all  is  static .  In  this  way  the  three-dimen¬ 
+sional  dynamics  become  four-dimensional  statics. 
+
+It  should  be  noticed  that  we  are  now  dealing  with  a  language  of  new  struc¬ 
+ture,  uniquely  befitting  the  structure  and  function  of  our  nervous  system.  Of 
+course  we  have  altered  nothing  in  the  world  around  us.  The  example  of  the 
+moving  picture  and  the  static  film  as  given  before  is  an  excellent  example 
+of  this  structural  innovation. 
+
+The  fact  that  in  this  new  world  nothing  repeats  itself  because  it  has  a 
+different  date,  unless  the  time-lines  are  closed,  has  very  far-reaching  conse¬ 
+quences,  of  which  we  have  already  spoken  and  which  we  will  analyse  in  more 
+detail  later  on. 
+
+CHAPTER  XXXIX 
+
+GENERAL  REFLECTIONS  ON  THE  EINSTEIN  THEORY 
+
+For,  beyond  the  bounds  of  science,  too,  objective  and  relative  reflection 
+is  a  gain,  a  release  from  prejudice,  a  liberation  of  the  spint  from  standards 
+whose  claim  to  absolute  validity  melts  away  before  the  critical  judgment 
+of  the  relativist.  (45)  MAX  B0RN 
+
+It  is  extremely  instructive  to  follow  the  elements  of  identification  as  they 
+appear  in  the  evolution  of  the  Einstein  theory. 
+
+We  know  that  the  results  of  the  Michelson  experiment  which  disclosed  that 
+light  is  propagated  in  all  directions  with  equal  velocities  for  all  observers, 
+irrespective  of  their  relative  velocities,  could  not  be  reconciled  with  the  older 
+mechanics.  These  results  disturbed  the  physicists  profoundly  and  attempts 
+were  made  to  solve  this  apparent  impasse.  In  what  follows  we  shall  have  to 
+analyse  incidentally  the  activities  of  some  of  our  great  scientists,  men  who 
+have  added  enormously  to  our  knowledge,  and  this  fact  should  be  appreciated. 
+What  we  have  to  say  is  not  intended  as  criticism— far  from  it— but  simply  as  a 
+structural  and  a  semantic  analysis. 
+
+The  feeling  that  we  objectify  unduly  and  that  we  should  not  use  a  language 
+of  ‘is*  of  identity,  but  that  we  should  use  an  actional,  behaviouristic,  functional, 
+operational  language  and  methods,  is  not  new  in  science,  although  the  need 
+was  not  formulated  structurally,  it  is  true,  and  therefore  it  never  became  a 
+workable  foundation.  The  main  successes  in  these  fields  were  rather  accidental, 
+and  were  the  personal  prerogatives  of  those  few  men  whose  psycho-logical 
+make-up  urged  them  to  achieve.  Objectification,  which  as  we  know,  is  a  se¬ 
+mantic  ascribing  of  objective  existence  and  values  to  terms,  was  bound  to  make 
+its  appearance  somewhere. 
+
+This  struggle  against  identification  is  apparent  in  all  science,  but  it  will 
+suffice  to  point  out  the  most  striking  example  in  the  relation  of  the  works  of 
+Lorentz  and  Einstein.  Lorentz  objectified,  Einstein  did  not.  We  here  come 
+across  a  tremendous  semantic  fact  which  has  to  do  with  the  interpretation  of 
+mathematical  formulae.  Lorentz  on  elaborate  and  difficult  grounds,  connected 
+with  Maxwell’s  field  equations,  produced  what  is  usually  called  the  Lorentz 
+transformation.  He  gave  it  an  objectified  interpretation.  Einstein  introduced 
+an  entirely  different  fundamental  interpretation  of  the  structural  principle  in¬ 
+volved.  The  formulae  look  alike  but  they  now  have  different  and  very  simple 
+meanings. 
+
+Hertz,  whose  epoch-making  discoveries  made  wireless  possible,  advocated 
+long  ago  what  is  termed  the  phenomenological  point  of  view,  which  in  our 
+language  is  approximately  the  actional,  behaviouristic,  operational,  functional 
+language  and  method.  In  his  writings  he  implicitly  refused  to  use  the  vicious 
+
+674  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+term  ‘is’  of  ‘identity’,  and  so  to  objectify  his  terms,  which  refusal  in  picturesque 
+language  he  expressed  as  a  refusal  to  legislate  about  ‘essences’. 
+
+The  old  E  and  N  language  of  ‘absolute  space’  and  ‘absolute  emptiness’ 
+were  for  a  long  while  structurally  unsatisfactory.  Physicists  felt  that  somehow 
+they  could  not  deal  with  it,  but  it  never  occurred  to  them  that  this  ‘absolute 
+nothingness’  is  objectively  meaningless,  and  that  therefore  no  one  can  possibly 
+deal  with  it.  Not  knowing  that,  they  politely  called  this  non-sense  a  ‘meta¬ 
+physical  question’  and  evaded  issues  by  leaving  the  solution  in  the  hands  of 
+‘philosophers’,  never  to  be  solved. 
+
+By  now  I  hope  that  the  reader  is  quite  aware  that  meaningless  problems 
+cannot  be  solved  by  any  one,  and  that  there  are  no  such  things  as  meto-physical 
+questions.  There  may,  however,  be  a  question  about  enlarging  the  domain  of 
+physics. 
+
+Being  forced  to  abandon  this  ‘absolute  emptiness’,  physicists  went  to  the 
+other  extreme  and  postulated  some  kind  of  ‘material’  ether.  Let  us  note  that 
+such  a  postulate  involves  structurally  the  ‘is’  of  identity  and  objectification. 
+Lorentz  in  opposition  to  Hertz  postulated  an  ‘ether’  which  was  ‘motionless’  in 
+‘absolute  space’.  Note  that  here  we  have  a  perfect  example  of  structural  ob¬ 
+jectification  of  terms.  ‘Absolute  space’  is  for  him  semantically  some  kind  of 
+‘absolute  emptiness’,  which,  not  being  satisfactory  for  the  physicist,  is  filled 
+with  some  ‘material’,  ‘motionless’  ether.  ‘Motionless’  is  itself  an  objectification 
+of  language,  as  such  a  term  has  here  no  physical  or  objective  meanings  at  all. 
+
+In  pursuing  the  speculations  on  objectified  terms  (semantic  disturbances) 
+it  was  natural  to  expect,  as  the  earth  is  not  at  rest  with  respect  to  the  sun,  the 
+other  planets  .  ,  that  some  ‘ether  wind’  or  ‘ether  drift’  should  appear  which 
+would  make  the  constant  velocity  of  light  impossible  for  observers  moving 
+with  different  relative  velocities.  But  these  structural  expectations  were  not 
+fulfilled.  The  velocity  of  light,  as  shown  by  many  experiments,  was  a  constant 
+for  all  observers.  The  ‘motionless  material  ether’  also  became  structurally 
+impossible,  as  might  be  expected,  if  we  stop  objectifying  terms. 
+
+In  1892  FitzGerald  suggested  an  objectified  theory,  assuming  ‘absolute’ 
+‘length’  and  ‘time’  superior  to  measurement ,  which  involve  identification  and 
+do  not  allow  the  use  of  the  actional,  behaviouristic,  operational,  functional 
+attitudes,  language,  and  methods.  FitzGerald  assumed  that  every  body  ‘moving’ 
+with  the  velocity  v  in  the  ‘ether’  is  shortened  in  the  direction  of  motion.  It 
+should  be  noted  that  every  mention  of  ‘shortening’  or  ‘contraction’,  presupposes 
+some  ‘ absolute '  standards  of  ‘rest’  or  ‘motion’  or  ‘length’,  which  do  not,  and 
+cannot,  exist  outside  of  our  skin,  but  are  only  semantic  disturbances,  inside 
+our  skin,  which  occur  when  we  identify  and  ascribe  objective  existence  and  value 
+to  terms. 
+
+How  deeply  and  completely  these  objectifications  permeate  our  daily  and 
+scientific  lives  is  best  shown  again  in  the  case  of  Lorentz.  Even  in  1917,  in  his 
+Haarlem  lectures,  he  expressed  structural  hopes  that  a  ‘material’,  ‘substantial’ 
+ether  can  be  preserved,  that  ‘space’  and  ‘time’  can  be  sharply  separated,  and 
+that  ‘simultaneity’  can  have  an  absolute  meaning. 
+
+REFLECTIONS  ON  THE  EINSTEIN  THEORY  675 
+
+In  the  Theory  of  Relativity  of  Whitehead,  and  in  Borne  others  writers  who 
+deal  with  the  theory  of  Einstein,  and  particularly  in  all  critics  of  Einstein,  we 
+
+find  a  similar  objectification  of  terms. 
+
+They  still  feel  the  older  E  and  JV  ‘absolute  emptiness’,  ‘absolute  space , 
+‘absolute  time’,  to  which  terms  they  ascribe  structural  objectivity.  In  such  works 
+the  term  ‘contraction'  is  used  frequently. 
+
+Let  me  recall  the  mechanism  of  objectification.  If  we  do  not  reject  ex- 
+plicitly  and  implicitly  the  ‘is’  of  identity,  we  automatically  identify  different 
+orders  of  abstractions  and  ascribe  objective  characteristics  to  terms.  Thus  the 
+term  ‘time’  which  represents  a  label  for  a  feeling  inside  our  skin,  is  given  an 
+objective  evaluation.  If  ‘objective’  it  must  have  a  ‘property’  of  ‘simultaneity’, 
+a  semantic  process  taken  over  from  comparing  two  objective  sticks  when  the 
+two  ends  are  made  to  coincide.  On  the  objective  external  level,  we  never  deal 
+with  ‘time’  but  we  simply  compare  processes.  When  we  select  an  arbitrary  unit- 
+process  on  the  objective  level,  whatever  we  might  say  that  it  ‘is’,  well,  it ts  not, 
+and  the  difficulty  is  found  exclusively  in  the  use  of  the  ‘is’  of  identity. 
+
+If  we  abandon  entirely  the  ‘is’  of  identity,  we  stop  objectification,  we  do 
+not  ascribe  objective  existence  and  values  outside  our  skin,  to  terms  and  semantic 
+reactions  inside  our  skin.  But  then  of  course  we  have  to  change  the  structure  of 
+our  language;  as  otherwise  the  old  s.r  will  continue  to  play  tricks  on  us.  An 
+actional,  operational,  functional  language  of  order  is  the  structural  solution  of 
+
+our  semantic  difficulty.  .  t  u 
+
+If  we  objectify  ‘space*  into  ‘absolute  space',  we  must  objectify  it  as  ab¬ 
+solute  emptiness'  for  only  such  an  ‘absolute  space’  can  be  at  ‘absolute  rest , 
+that  is,  static  in  the  E  or  JV  sense.  Similarly  only  objectified  ‘time’  can  have 
+the  ‘property’  of  ‘absolute  simultaneity’.  .  . 
+
+If  we  realize  that  these  ‘absolutes’  are  only  the  semantic  objectifications  of 
+terms,  (where  the  activities  of  the  lower  nerve  centres  are  structurally  ascribed 
+to  the  activities  of  the  higher  nerve  centres  and  vice  versa),  we  begin  to  dif¬ 
+ferentiate  between  different  order  abstractions,  and  to  keep  them  differentiated. 
+In  terms  of  our  structurally  new  language  we  become  ‘conscious  of  abstracting  , 
+and  then  habitually  and  unconsciously  use  the  behaviouristic  language  and 
+
+methods  of  order.  ,  ,  , 
+
+If  we  picture  this  ‘absolute  emptiness’  or  ‘absolute  nothingness  (which 
+cannot  be  done  successfully,  as  it  has  no  meaning),  and  try  to  compare  it  with 
+a  plenum,  or  ‘fulness’  (a  cloud  of  smoke,  for  instance),  we  see  at  once  that  only 
+this  ‘absolute  emptiness’  can  be  static,  homogeneous .  ,  a  condition  that  is 
+
+impossible  with  a  dynamic  fulness.  ....  , 
+
+Perhaps  we  can  now  appreciate  the  tremendous  semantic  significance  of 
+the  Einstein  theory,  which  introduces  structurally  a  non-objectified ,  human, 
+sane  attitude  of  proper  evaluation  toward  this  world.  We  should  not  be  sur- 
+prised  to  find  that  a  A -system  which  is  an  inevitable  general  structural  con¬ 
+comitant  of  the  E  and  N  systems  of  geometry  and  physics  should  formulate  as 
+a  general  structural  and  semantic  issue  what  the  E  and  N  systems  have  done  in 
+their  special  fields,  without  such  general  formulation. 
+
+676  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+From  our  structural  point  of  view  there  is  no  retreat;  the  Einstein  work  is 
+irreversible.  In  the  younger  scientists  of  today  the  non-objectified  attitude 
+toward  terms  of  ‘space’  and  ‘time’  is  already  an  accomplished  semantic  fact, 
+entirely  independent  of  what  future  experiments  may  show.  For  experiments 
+can  never  justify  identification,  and  so  can  have  no  detrimental  effect  upon 
+this  fundamental  and  most  beneficial  structural,  linguistic,  and  semantic  revo¬ 
+lution.  Our  A  task  was  to  formulate  these  issues  in  general  so  as  to  make  us 
+conscious  of  them;  and  I  assume  that  it  is  at  this  semantic  point  that  the  tre¬ 
+mendous  value  of  Einstein’s  work  will  manifest  itself  in  life.  Indeed  we  shall 
+see  later  on  in  this  volume  that  the  newer  quantum  mechanics,  which  have 
+begun  to  spring  up  rather  rapidly,  is  made  possible  only  by  the  semantic  back¬ 
+ground  imparted  unconsciously  (as  yet)  to  younger  physicists  by  the  Einstein 
+theory.  It  is  my  hope  that  the  present  work  may  make  the  above  issues  con - 
+scions ,  and  so  enable  us  not  only  to  impart  this  semantic  attitude  more  easily 
+and  with  less  labour  but  also  to  benefit  by  them  more  universally  in  our  daily 
+life .  The  problems  of  science  and  life  do  not  differ  in  this  respect.  In  both  we 
+are  equally  hampered  by  semantic  disturbances,  ‘emotional  stupors',  identifi¬ 
+cation,  and  similar  difficulties,  the  elimination  of  which  means  better  adjust¬ 
+ment  for  all  of  us,  as  well  as  swifter  progress  in  science. 
+
+A  study  of  the  history  of  science  shows  how  slow  and  painful  scientific 
+progress  has  been.  Now  we  begin  to  see  why.  ‘Geniuses’,  as  history  shows,  are 
+men  who  at  least  in  some  fields  are  freer  from  identification  and  false  evaluation 
+than  others.  They  are  not  hampered  to  a  similar  extent  by  ‘emotional  stupor' j 
+hence  they  can  evaluate  the  old  anew.  Lorentz,  for  instance,  produced  the 
+formulae,  but  his  objectifications  prevented  him  from  evaluating  properly  the 
+new  formulae.  As  a  fact  of  history  the  formulae  of  Lorentz  were  discovered  by 
+Voigt  a  number  of  years  before,  but  identification  made  impossible  the  evalu¬ 
+ation  of  these  formulae,  and  so  delayed  the  discovery  of  the  Einstein  theory. 
+This  factor  of  identification  can  be  found  all  through  recorded  history  as  a 
+retarding  semantic  blockage. 
+
+If  we  could  find  methods  of  eliminating  these  semantic  disturbances,  an 
+extremely  hampering,  paralysing  psycho-logical  factor  would  be  eliminated, 
+and  ‘geniuses'  could  be  made  the  rule  rather  than  the  exception.  Let  me  say 
+again:  in  the  old  days  morons  were  made  and  geniuses  were  born;  in  the  new 
+days,  perhaps,  this  can  be  reversed,  and  morons  will  be  born  but  geniuses  made. 
+We  witness  something  of  this  kind  among  the  younger  post-einsteinian  physicists, 
+where  the  number  of  ‘geniuses’  is  growing  rapidly,  in  spite  of  the  fact  that  the 
+above  structural  issues  are  not  as  yet  consciously  applied  in  general  education. 
+The  secret  of  creative  work  is  freedom  from  structural  bondage,  and  particu¬ 
+larly  the  structural  semantic  bondage  of  words. 
+
+The  reader  should  not  assume  that  the  few  simple  structural  explanations 
+given  in  this  book  exhaust  the  Einstein  theory.  I  have  not  even  attempted  to 
+summarize  the  theory;  I  have  only  given  a  few  semantic  facts,  which  belong  to 
+general  semantics  and  to  the  theory  of  knowledge.  The  Einstein  theory  is 
+
+REFLECTIONS  ON  THE  EINSTEIN  THEORY  677 
+
+indeed  such  a  tremendous  structural  linguistic  achievement  that  quite  probably 
+its  full  semantic  significance  and  meanings  will  not  be  worked  out  for  many 
+years  to  come.  We  have  given  here  only  the  minimum  of  explanation  necessary 
+for  our  special  purpose. 
+
+The  historical  development  of  a  theory  has  usually  little  to  do  with  the 
+semantic  importance  of  the  theory  or  its  deeper  meanings.  The  constancy  of 
+the  velocity  of  light  for  all  observers,  which  started  the  ball  rolling,  was  an  his- 
+torical  beginning  and  it  served  its  purpose  well,  though  the  objectified  contrac¬ 
+tions’  and  formulae  of  FitzGerald  and  Lorentz  also  did  their  share,  as  they 
+helped  Einstein  and  Minkowski  to  produce  their  epoch-making  structural 
+challenge  to  old  prejudices  such  as  'absolute  space’  and  'absolute  time’,  which 
+were  semantic  remains  of  a  primitive,  perhaps  pre-human,  remote  past.  Once 
+this  is  accomplished,  no  matter  how,  there  is  no  return  possible.  Of  physical 
+structural  facts,  all  that  we  need  is  the  finite  velocity  of  the  propagation  of 
+events,*  which  as  we  already  know  involves  far-reaching  structural  and  semantic 
+issues.  Of  the  psycho-logical  issues  involved,  we  need  only  to  eliminate  semantic 
+disturbances  which  still  occur  when  we  copy  animals  in  our  nervous  processes 
+and  do  not  discriminate  between  different  orders  of  abstractions— which  animals 
+do  not  recognize.  This  elimination  can  be  done  by  training  in  the  A  methods 
+explained  before,  with  the  net  result  that  we  become  'conscious  of  abstracting’ 
+on  different  levels  and  so  can  instinctively  and  by  feeling  discriminate  habitually 
+between  orders  of  abstractions,  which  structurally  and  semantically  could  not 
+be  done  by  the  old  disciplines. 
+
+The  theory  of  Einstein  has  manifold  applications  but  we  need  only  mention 
+a  few,  which  we  shall  utilize  later  on. 
+
+First,  and  above  all,  there  are  no  possible  ‘absolute’  meanings  to  'space 
+and  'time’,  beyond  the  relations  established  by  measurements.  The  structure 
+of  our  language  involving  ‘space’  and  ‘time’  should  be  similar  to  the  structure 
+of  experimental  facts,  which  ultimately  show  the  impossibility  of  sharply 
+
+dividing  them.  .  .  . 
+
+If  any  one  challenges  this  statement,  he  could  not  a  priori  be  criticized. 
+Such  criticism  would  be  entirely  against  the  whole  tendency  of  the  present 
+work.  But  such  a  person  might  be  approached  with  no  little  curiosity  and 
+expectation.  He  could  be  asked:  ‘You  claim  that  you  can  absolutely  divide 
+
+♦‘But,’  some  reader  may  ask,  ‘though  you  assume  a  finite  velocity  of  Pr°Pa£a' 
+tion,  may  it  not  happen  that  some  day  an  “infinite  velocity  will  be  discovered. 
+
+Such  a  question  would  show  that  the  reader  has  missed  the  point  m  the  pres¬ 
+ent  work.  We  are  confident  in  saying  that  an  ‘infinite  velocity  has  no  meaning,  and 
+that  no  matter  what  we  discover,  this  will  never  be  discovered.  This  becomes  still 
+clearer  if  we  use  the  differential  definition  of  'velocity.  Velocity  is  defined  as  the 
+‘time’  derivative  of  ‘space’  travelled.  If  W  is  taken  as  zero,  or  if  we  have  no 
+time’,  there  can  be  no  ‘time  derivative  by  our  very  assumption,  and,  ther«°^> 
+‘velocity’.  There  is,  therefore,  no  danger  that  we  shall  ever  discover  m  the  actual 
+world  an  ‘infinite’  velocity. 
+
+678  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+space  and  time  on  the  objective  level.  That  would  be  an  epoch-making 
+structural  discovery.  Please  demonstrate  How  to  do  it' 
+
+The  fact  is,  of  course,  that  he  cannot  demonstrate  the  process,  because  he 
+refers  to  identifications  inside  his  skin;  yet  he  is  claiming  to  be  able  to  show  it 
+objectively  outside  his  skin.  That  ends  this  problem. 
+
+While  speaking  of  Einstein’s  Theory,  it  will  be  well  to  mention  a  few  of  the 
+many  structural  differences  between  the  older  newtonian  and  the  new  einsteinian 
+mechanics. 
+
+In  the  iV-system,  relative  velocities  were  simply  added  WN=v+v\  In  the 
+einsteinian  system  which  we  will  denote  by  N,  it  is  not  so  structurally  simple. 
+We  must  introduce  the  finite  velocity  of  propagation  of  our  signals,  which  alone 
+give  us  the  data,  and  so 
+
+v+v’ 
+
+1  H-w'/c2 
+
+The  above  formula  involves  the  remarkable  constant,  c,  the  velocity  of 
+light.  If  we  assume  in  the  above  formula  that  our  velocity  vf  is  equal  to  the 
+velocity  of  light,  c,  we  would  have 
+
+W--  r+c  _  **+£ 
+
+N  1+vc/c2  1+v/c 
+
+This  means  that  the  addition  of  some  velocity  to  the  velocity  of  light  does  not 
+alter  the  velocity  of  light,  which  thus  appears  as  a  limiting  velocity. 
+
+This  applies  to  the  difference  of  velocities  where 
+
+Wi 
+
+v—v 
+
+1  —w'/c2 
+
+Let  us  here  give  an  example  of  Eddington’s.  Let  us  assume  two  relative  veloci¬ 
+ties  each  differing  by  only  1  km./sec.  from  the  velocity  of  light.  Let  us  say  that 
+one  is  299,999  km./sec.  and  the  other  300,001  km. /sec.  Now  let  us  calculate  the 
+relative  velocity.  This  relative  velocity  will  be  found  to  be  180,000,000,000 
+km./sec.  For  in  our  formula  v—  r'  =  (c+l)  —  (c  —  1)  —2,  and 
+
+(1  -  w'/c*)  - 1  - (- +1)  /~1}  =  1  - 1  - 1  +  l/e*  =  \/c\ 
+
+whence  W$  -  —  =  2c2  =  2  X  300, 000  X  300,000  =  180,000,000,000. 
+
+We  see  that  a  particle  which  might  try  to  overtake  light  by  having  a  velocity 
+of  one  km./ sec.  greater  than  the  velocity  of  light  could  never  succeed.  When  the 
+velocity  299,000,  for  example,  was  reached,  the  particle  would  find  itself  further 
+away  from  its  goal  than  when  it  started.1 
+
+Similar  general  considerations  apply  to  mass.  If  we  designate  the  mass  of 
+a  particle  at  rest  by  wq  its  mass  in  motion 
+
+ge  jcii 
+
+mjj 
+
+1  -i ?/c2 
+
+As  the  denominator  is  smaller  than  unity  the  mass  in  motion,  m&  is  larger 
+than  wo,  the  mass  at  rest.  In  the  limiting  case,  when  the  velocity  would  become 
+equal  to  c  the  denominator  would  become  zero  and  our  mass  would  tend 
+
+REFLECTIONS  ON  THE  EINSTEIN  THEORY  679 
+
+toward  infinite  values,  which  is  another  way  of  saying  that  it  is  physically 
+
+impossible.  „  ,  . 
+
+In  the  iV-system  we  had  two  kinds  of  energy;  one  was  called  ms  viva,  or 
+kinetic  energy,  and  was  represented  by  T  =mv2/2 ;  the  other  was  called  potential 
+energy,  or  capacity  for  work,  and  was  denoted  by  Z7.  The  law  of  conservation 
+of  energy  in  the  N- system  was  expressed  by  the  statement  that  the  sum, 
+T+U =E,  or  the  total  mechanical  energy  of  a  system  remains  constant  (zero 
+
+variation)  during  the  motion  of  the  body. 
+
+We  see  that  as  the  above  formula  involves  the  terms  m  and  v,  the  older 
+formulae  for  energy  must  be  altered,  especially  since  they  do  not  survive  a 
+Lorentz-Einstein  transformation.  It  is  found  that 
+
+2>-c8  or  w=Wo  +  7>/c2, 
+
+which  formula  appears  rigorous  as  a  definition  of  kinetic  energy  even  if  members 
+of  order  higher  than  the  second  are  taken  into  account.  In  words,  the  mass  in 
+motion  differs  from  mass  at  rest  by  the  kinetic  energy  divided  by  the  square 
+
+of  the  velocity  of  light.  *••11 
+
+This  expression  suggests  immediately  that  the  static  mass,  m,  is  similarly 
+related  to  the  energy  content  in  the  body  at  rest.  Generalizing  our  results  we 
+would  have  nt  =E/ct,  an  equation  which  holds  generally  between  mass  and 
+energy.  This  fact  has  been  called  by  Einstein  the  law  of  the  inertia  of  energy. 
+It  has  been  verified  repeatedly  by  experiments,  and  is  one  of  the  most  striking 
+structural  results  of  Einstein’s  theory.  The  above  statement  means  that  the 
+two  fundamental  notions  of  ‘mass’  and  ‘energy’  are  equivalent  and  thus  we 
+have  a  clearer  vision  of  the  structure  of  ‘matter’.  The  two  older  structural  laws 
+of  ‘conservation  of  matter’  and  of  ‘conservation  of  energy’  become  fused  into 
+one.  Mass  becomes  structurally  and  verbally  nothing  else  than  energy  con¬ 
+centrated  at  a  point,  and  it  appears  as  a  form  of  energy  manifestation. 
+
+The  above  considerations  have  also  led  to  a  revision  of  our  structural 
+notions  about  ‘energy’  which  we  do  not  need  to  explain  here.  Suffice  it  to  say 
+that  the  old  ‘potential’  energy  is  not  associated  structurally  any  longer  with 
+any  features  of  this  world.  It  can  be  made  to  vanish  by  a  proper  selection  of 
+co-ordinates,  hence  it  is  no  longer  considered  as  energy  of  any  kind. 
+
+With  the  Minkowski  world  we  became  acquainted  with  a  new  language 
+which  represents  structurally  more  nearly  the  facts  of  experience  (lower  or  er 
+abstractions)  and  shares  the  structure  of  our  higher  order  of  abstractions,  bo 
+we  have  the  language  of  ‘space-time’.  How  about  ’matter’?  The  bumping 
+against  something  hard  is  not  to  be  disregarded.  True,  we  need,  a  language  of 
+new  structure,  but  that  is  all.  In  the  Einstein  theory,  ‘matter’  of  course  is  not 
+treated  separately  as  such.  It  is  an  offspring  of  the  field,  and  is  connected  wit 
+the  curvature  of  the  world.  The  reader  should  not  be  surprised  to  find  that  the 
+Minkowski  world,  which  has  accelerations,  must  be  curved  in  this  structural  y 
+
+new  form  of  representation.  .  .  ,  .  T 
+
+We  have  already  defined  a  most  fundamental  entity  called  action  .  Natur- 
+ally  in  a  space-time  manifold,  energy  multiplied  by  ‘time’  should  be  a  more 
+fundamental  entity  than  energy,  and  we  call  it  ‘action’.  When  we  speak  about 
+
+680  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+some  continuous  material  present  in  ‘space’  and  ‘time’  we  speak  in  terms  of 
+density.  Density  multiplied  by  a  three-dimensional  volume  of  ‘space’  gives  us 
+mass,  or  what  appears  as  its  equivalent— energy.  From  a  four-dimensional,  or 
+space-time  point  of  view,  density  multiplied  by  a  four-dimensional  volume  of 
+space-time  gives  us  action.  We  see  that  the  multiplication  of  density  by  the 
+three  dimensions  of  ‘space’  gives  us  mass  or  energy.  A  fourth  multiplication  by 
+the  dimension  of  ‘time’  gives  us  mass  or  energy  multiplied  by  ‘time’  which 
+becomes  action  by  definition.  It  is  obvious  that,  structurally,  action  must  be 
+more  fundamental  than  the  older  quantities. 
+
+In  terms  of  curvature,  action  represents  the  curvature  of  the  world,  because 
+where  we  find  ‘action’,  we  also  find  ‘matter’,  acceleration,  gravitation  ,  * 
+
+‘Acton’  is  fundamental,  because  structurally  in  a  four-dimensional  metrical 
+manifold  it  takes  the  form  of  the  simplest  integral  invariant  that  can  exist  at 
+a  .  On  this  form  of  action  Maxwell’s  electromagnetic  theory  is  built  The 

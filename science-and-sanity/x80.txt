@@ -1,0 +1,500 @@
+success  into  terms  of  lower  order  abstractions.  This  is  a  task  which  is  facilitated 
+by  this  present  work.  The  newer  quantum  mechanics  gives  us  an  unparalleled 
+example  of  such  translation,  and  hence  our  main  interest  should  be  concentrated 
+on  this  structural  aspect. 
+
+On  neurological  grounds  it  seems  certain  that  visualization  involves  in 
+some  way  the  lower  nerve  centres,  which  again,  by  evolutionary  necessity, 
+involve  macroscopic  forms  of  representation.  Our  macroscopic  experience  led 
+us  to  geometrical  intuitions .  These  were  framed  three-dimensionally  in  ‘ absolute 
+emptiness and  were  impossible  in  higher  dimensions.  The  old  structure 
+represented  a  static  empty  ‘space’  in  which  nothing  could  happen  and  which 
+was  thus  unfit  to  represent  this  world  around  us  where  something  is  going 
+on  everywhere. 
+
+The  new  structure  represents  ‘ fulness ’  or  a  plenum.  We  can  visualize  it  as 
+a  network  of  intervals  or  world-lines  and  then,  by  the  notions  of  the  differential 
+calculus,  as  already  explained,  we  pass  easily  to  the  visualization  of  the  many¬ 
+dimensional  space-time  world  of  Minkowski-Einstein.  Now,  in  such  a  world, 
+the  curves  are  represented  by  functions,  and,  vice  versa,  functions  represent 
+curves.  Thus  it  is  obvious  that  analytical  ‘non-intuitive’  methods  have  ‘in¬ 
+tuitive’  structural  geometrical  counterparts.  From  this  point  of  view  the 
+method  of  operators  represents  a  passing  step  from  the  non-intuitive  to  intuitive 
+
+THE  NEWER  ‘MATTER’ 
+
+methods.  As  soon  as  we  have  functions,  we  can  represent  a  functional  calculus 
+as  an  operational  calculus.  This  involves  a  more  behaviouristic  semantic  attitude 
+and  so  leads  to  the  possibility  of  translation  of  either  method  into  the  other. 
+Ultimately  these  are  psycho-logical  transformations  and  translations. 
+
+We  should  not  be  surprised  to  find  that  in  the  development  of  the  newer 
+quantum  mechanics  the  operational  calculus  plays  just  such  a  role. 
+
+Now  our  older  macroscopic  experience,  which  affected  our  lower  nerve 
+centres,  gave  rise  to  the  elementary  geometrical  structural  notions  of  ‘lines', 
+‘surfaces’,  ‘volumes’,  .  For  the  building  of  physics  we  had  to  introduce  ‘time’, 
+‘motion’,  .  In  older  days  we  did  not  realize  that  these  give  us  forms  of  repre¬ 
+sentation  and  that  it  is  optional  with  us  which  forms  we  will  accept  as  funda¬ 
+mental  or  use  as  a  starting  point. 
+
+The  old  descriptive  apparatus  posited  structurally  an  absolute  and 
+immutable  ‘space’  (emptiness),  ‘time’,  ‘matter’  out  of  which  we  built  up  a 
+verbal  definition  for  ‘motion’.  The  semantic  attitude  of  all  of  us,  scientists 
+included,  depended  upon  identification.  We  ascribed  lower-centre  significance 
+to  higher-centre  abstractions.  We  did  not  discriminate  enough  between  the 
+macroscopic  and  small  scale  events.  So  we  had  ‘geometrical  optics'  in  which 
+we  ‘perceived’  a  ray  of  light  (in  a  dusty  room,  let  us  say)  as  a  ‘straight  line’. 
+Further  investigation  disclosed  that  the  ‘rays'  on  one  level  of  abstraction  were 
+waves  on  another,  but  they  were  not  perceived  as  waves  by  the  lower  centres. 
+
+But  through  our  lower  centres  we  had  acquaintance  with  some  waves, 
+such  as  in  water;  so  representation  for  waves  was  developed.  A  wave- theory 
+still  remained  intuitively  workable,  even  when  we  dealt  with  waves  which  we 
+could  not  see.  Now  the  equations  of  waves  are  well  known.  It  is  then  possible 
+to  translate  a  non-intuitive  matrix  mechanics,  when  we  treat  matrices  as 
+operators,  into  a  functional  calculus  which  has  an  intuitive  geometrical  wave 
+representation. 
+
+This  is  precisely  what  has  happened  and  now,  perhaps  for  the  first  time 
+in  human  history,  we  have  all  the  aspects  of  a  theory  being  worked  out  simul¬ 
+taneously,  with  mutual  co-operation  of  all  workers  and  the  use  of  methods 
+which  are  mutually  complementary  from  the  neurological  side.  There  seems 
+little  risk  in  predicting  that  because  of  these  neurological  factors  the  newer 
+quantum  mechanics  will  give  extremely  rapid  and  far-reaching  results.  When 
+scientists  become  aware  of  the  structural  semantic  and  neurological  issues 
+involved,  perhaps  such  achievements  will  be  multiplied  consciously ,  instead  of 
+being  a  kind  of  coincidence. 
+
+Personally,  I  am  convinced  that  these  new  achievements  are  not  simply 
+coincident.  It  seems  that  the  abolishment  of  the  old,  el>  static  ‘absolute  space’ 
+and  ‘absolute  time’  has  relieved  the  younger  scientists  front  a  semantic  blockage . 
+This  release  was  due  to  the  bold  stroke  of  genius  of  Einstein  in  refusing  to  use 
+the  vicious  aristotelian  ‘is’  of  identity.  As  soon  as  we  realize  that  words  are  not 
+the  objective  levels,  we  gain  an  unconscious  semantic  freedom  in  handling  words, 
+as  words.  At  once  this  freedom  is  bound  to  produce  many  different  forms  of 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER' 
+
+representation  for  events,  according  to  the  personal  make-up  of  the  individual 
+workers.  And  of  course  these  forms  can  be  translated  into  one  another. 
+
+Section  F.  The  wave  mechanics . 
+
+We  have  not  sufficient  space  at  our  disposal  to  discuss  more  fully  the  new 
+wave  mechanics.  I  found  that  short  of  a  small  volume,  no  explanations,  readily 
+intelligible,  could  be  made. 
+
+In  mathematics  and  physics,  which  represent  the  most  developed  sciences, 
+we  consciously  and  unconsciously  strive  for  more  and  more  general  formulations. 
+The  work  of  Einstein,  showing  that  the  classical  mechanics  was  only  a  particular 
+case  of  a  more  general  mechanics,  has  given  a  healthy  stimulation  to  such  a 
+fruitful  line  of  work. 
+
+As  the  quantum  phenomena  could  not  be  accounted  for  by  the  old  me¬ 
+chanics,  it  was  natural  that  physicists  should  try  schemes  of  new  mechanics 
+which  included  classical  mechanics  as  a  particular  case.  Thus,  Sommerfeld, 
+through  his  methods  of  the  application  of  the  Einstein  theory  to  the  quantum 
+mechanics  and  his  generalizations  of  phase-space,  and  his  treatment  of  the 
+relation  of  wave-optics  to  ray-optics  and  of  the  relation  of  mechanics  to  ray- 
+optics,  came  close  to  the  discovery  of  the  wave  mechanics.10 
+
+The  new  wave  mechanics  originated  in  1924  in  Paris,  with  the  thesis  of 
+Louis  de  Broglie,  published  in  1925,  and  republished  in  a  book  form  in  1926. 
+
+The  controversy  between  the  corpuscular  light  theory  of  Newton  (emission 
+theory)  and  the  wave  theory  of  Huygens  is  well  known.  The  emission  theory 
+had  its  support  in  the  ‘rectilinear'  propagation  of  light,  which  followed  from 
+the  inertia  of  light  particles.  Also,  it  explained  the  reflection  and  the  refrac¬ 
+tion  .  ,  of  light,  but  failed  in  other  respects.  It  is  true  that  the  wave  theory 
+also  had  its  weak  structural  spots.  In  it  the  ‘rectilinear'  propagation  of  light 
+remained  a  complete  mystery  and  it  completely  failed  to  account  for  the  dis¬ 
+persion  of  light,  until  this  was  explained  on  the  electron  theory. 
+
+Both  theories  assumed  the  periodicity  of  light  phenomena,  but  the  ac¬ 
+ceptance  of  one  theory  was  generally  held  to  mean  the  rejection  of  the  other. 
+It  did  not  occur  to  many  that  both  theories  might  be  correct  but  only  partial 
+structural  aspects  of  a  more  general  theory. 
+
+With  the  advent  of  the  quantum  theory  of  Planck  (1900)  new  methods 
+were  found.  In  1905  Einstein  propounded  his  theory  of  ‘light  quanta’  success¬ 
+fully.  He  assumed  that  radiation  occurs  in  discrete  quanta  of  energy  hv ,  where 
+v  represents  the  frequency.  From  this  point  of  view  the  quantum  had  the 
+characteristic  discreteness  of  a  corpuscle,  and  yet  the  frequency  characteristic 
+of  a  wave.  We  see  that  the  new  theory  involved  a  kind  of  a  blend  of  the  two 
+older  theories. 
+
+De  Broglie  generalized  still  further  the  above  notions.  His  theory  is  in  a 
+way  the  result  of  the  theory  of  Einstein.  As  we  already  know,  Einstein  shows 
+the  connection  of  mass  and  energy,  so  that  the  conservation  of  mass  becomes 
+also  the  conservation  of  energy,  and  vice  versa.  Starting  with  these  premises 
+de  Broglie  concluded  that  if  any  element,  in  the  most  general  sense,  be  it  an 
+
+THE  NEWER  ‘MATTER* 
+
+electron  or  proton  or  light  quantum  or  what  not,  has  energy  W,  there  must  be 
+in  the  system  a  periodic  phenomenon  of  frequency  t>,  defined  by  W  ~hv.  From 
+this  point  of  view  all  forms  of  energy,  radiation  included,  must  have  an  atomic 
+structure  and  the  atoms  of  energy  must  be  grouped  around  certain  points, 
+forming  what  we  call  ‘electrons’,  ‘light  quanta’, . 
+
+Applying  the  Loren tz- Einstein  transformation,  he  finds  a  rather  startling 
+fact — that  the  frequency  associated  with  any  assumed  mass  mo;  namely, 
+
+represents  no  more  and  no  less  than  a  periodic  phenomenon,  analogous 
+
+to  a  stationary  wave,  which  spreads  around  the  point  of  which  the  mass  is  a 
+singularity.11 
+
+In  other  words,  a  ‘mass  particle'  at  rest  is  the  centre  of  a  pulsation  through¬ 
+out  the  spread,  or  otherwise  it  is  a  singularity  of  the  pulsation.  The  quantity 
+which  pulsates  is  called  and  is  interpreted  as  the  electric  density,  where  y£ 
+is  the  conjugate  of  the  complex  quantity  \p. 
+
+In  the  Minkowski  representation,  the  above 
+astonishing  result  becomes  quite  simple,  and  we 
+can  see  clearly  how  simultaneous  pulsations  be¬ 
+come  travelling  waves.  In  Fig.  2,  we  give  a  two- 
+dimensional  diagram  of  space- time.  OX o  is  the 
+‘space*  co-ordinate,  OTq  the  ‘time*  (icto)  co-ordi¬ 
+nate.  }pi,  >h,  represent  the  traces  of  the  sur¬ 
+faces  of  constant  phase  which  are  perpendicular 
+to  OTq.  The  Loren tz-Einstein  transformation  is 
+equivalent  to  the  transformation  from  rectangular 
+system  XqOTq  to  the  rectangular  system  XOTt 
+forming  an  angle  6 .  In  the  new  system  the  lines 
+fit  fa  fa  .  .  .  ,  are  no  longer  parallel  to  the  X 
+axis  and  so  represent  a  moving  wavefront  In  this 
+new  system  the  ^-lines  represent  the  moving  wave 
+front  for  different  points,  P,  Pf .  ,  on  one  phase 
+
+Fig.  2 
+
+(From  Wave  Mechanics , 
+by  H.  F.  Biggs) 
+
+line  and  have  different  values  of  t  The  smaller  the  velocity  (v)  of  the 
+particle,  the  smaller  the  angle  $  and  the  greater  the  distance  PQ  travelled  by 
+the  phase  in  a  given  ‘time’,  P'Q  or  At,  which  means  the  greater  the  phase  velocity  u. 
+
+The  frequency  of  these  pulsations  or  waves  is  the  ‘total  energy  of  the 
+particle*  divided  by  Planck’s  constant,  h.  in  symbols,  hv-mc2- 1- potential 
+energy,  where 
+
+The  problem  before  us  is  to  connect  structurally,  the  waves  with  two  ob. 
+servations,  one  of  the  radiations,  the  other  of  what  we  call  the  ‘material  particles’. 
+
+Our  interest  at  present  lies  only  in  the  connection  with  the  latter.  Ac¬ 
+cording  to  this  theory,  the  ‘region  occupied  by  the  particle*  is  only  a  region 
+
+X.  ON  THE  STRUCTURE  OF  'MATTER' 
+
+where  a  set  of  ^-waves,  which  vary  continuously  in  direction  and  in  frequency 
+in  a  small  range,  reinforce  each  other  to  give  a  wave-group  travelling  with  what 
+we  usually  call  ‘the  velocity  of  the  particle’. 
+
+As  the  waves  have  different  frequencies,  they  travel  with  different  veloci¬ 
+ties  and  so  we  have  to  face  the  problem  of  the  dispersing  medium,  where,  ac¬ 
+cording  to  classical  theories,  the  region  of  reinforcement  has  a  velocity  different 
+from  that  of  the  phase.  The  ordinary  expression  for  ‘group  velocity*  gives,  on 
+the  wave  interpretation,  the  magnitude  of  the  ‘velocity  of  the  particle’.12 
+
+That  which,  in  the  classical  theories,  we  called  the  ‘motion  of  the  particle’ 
+is  represented  by  the  motion  of  the  region  of  reinforcement  of  V'-waves.  The 
+direction  of  motion  is  represented  by  the  direction  of  a  ray-,  or  wave-normal. 
+The  particular  ray  selected  as  the  position  of  the  ‘path  of  the  particle'  is  repre¬ 
+sented  by  the  ray  cut  in  coinciding  phase  by  a  set  of  ^-waves  with  slightly 
+varying  directions.  The  ‘position  of  the  particle'  is  given  by  the  small  region 
+occupied  by  the  group  of  waves  of  slightly  different  frequencies  and  velocities. 
+
+In  this  connection  we  should  notice  an  important  point  which  is  necessi¬ 
+tated  by  the  methods  of  generalization  and  of  translation  from  macroscopic  to 
+sub -microscopic  events  and  vice  versa.  Schrodinger,  by  formulating  the  dif¬ 
+ferential  equations  for  the  ^-waves,  has  brought  out  clearly  the  important 
+structural  point  that  wave  mechanics  bears  a  similar  relationship  to  classical 
+mechanics  of  particles  as  wave-optics  bears  to  ray-optics. 
+
+Here  again  we  have  the  macroscopic  phenomena  capable  of  being  treated  by 
+mathematical  methods  different  from  those  used  for  the  small-scale  phenomena. 
+
+In  classical  mechanics  the  state  of  a  system  whose  co-ordinates  were 
+qi  .  .  .  q9  and  whose  momenta  were  pi  .  .  .  pt ,  was  represented  by  a  point  in  a 
+2s-dimensionaI  ^-spread  and  the  changes  in  the  system  were  represented  by  the 
+passage  of  the  point  along  some  curve,  a  ‘ray’,  so  to  say. 
+
+Schrodinger  regards  the  classical  mechanics  as  only  an  approximation, 
+while  rigorous  treatment  must  be  made  by  the  aid  of  wave  mechanics. 
+
+The  large-scale,  or  macroscopic,  mechanical  processes  correspond  to  a 
+wave  signal  in  the  5-spread  and  can  be  regarded  as  a  point  in  comparison  with 
+the  geometrical  structure  of  the  path.  In  small-scale  phenomena,  such  as  the 
+atomic  processes,  a  rigorous  wave  formulation  must  be  used. 
+
+This  analysis  can  be  carried  further  and  Hamilton  knew  well  and  used  the 
+analogy  between  mechanics  and  geometrical  optics.  The  Hamilton  variation 
+principle,  bJ'Ldt  =  0,  is  Fermat’s  principle  for  a  wave  motion;  the  Hamilton- 
+Jacobi  equation  expresses  Huygens’  principle  for  wave  motion;  and  the  new 
+wave  mechanics  expresses  the  Kirchhoff  analysis  of  physical  optics.  As  Huygens* 
+principle  could  deal  with  the  problems  of  physical  optics  up  to  a  certain  point, 
+so  the  Hamilton-Jacobi  equations  could  deal  with  atomic  problems  up  to  a 
+certain  point.  At  the  exact  wave  analysis  of  Kirchhoff  was  needed  to  clear  up 
+the  finer  points  of  physical  optics,  so  the  new  wave  mechanics  is  required  for 
+the  exact  solution  of  the  atomic  problems.13 
+
+A  detailed  analysis  shows  that  classical  mechanics  was  associated  with 
+geometrical  optics  (ray-optics).  Obviously,  a  more  exact  system  of  mechanics 
+
+THE  NEWER  'MATTER' 
+
+would  be  one  associated  with  wave-optics,  which  would  give  the  classical  results 
+in  all  cases  where  the  wave-length  was  negligible  in  comparison  with  the  dimen¬ 
+sions  of  the  path.  Schrodinger  suggests  that  a  correct  extension  of  the  analogy 
+would  be  to  regard  the  wave  system  as  sine-waves.  In  this  connection  it  should 
+be  recollected  that  Fourier  has  shown  that  any  given  form  of  waves  can  be 
+represented  by  the  superposition  of  sine-waves ,  and  that  therefore  a  sine-wave 
+(see  Chapter  XXXII)  may  be  considered  as  a  general  formulation. 
+
+The  ray  methods  in  physics  worked  only  to  some  extent,  that  is  to  say,  in 
+the  cases  where  the  radii  of  curvature  of  such  rays  and  the  dimensions  of  the 
+spreads  were  large  in  comparison  with  the  wave-length.  When  this  is  not  the 
+case  we  have  to  consider  waves  and  not  rays.  Naturally,  dealing  with  atomic 
+dimensions,  which  are  very  small,  instead  of  using  the  paths  of  the  particles 
+or  the  i/'-rays,  we  have  to  use  the  ^-waves.  It  appears  that  this  difference  was 
+the  main,  rather  puzzling  distinction  between  the  classical  mechanics  and  the 
+quantum  mechanics,  between  the  macroscopic  theories  and  the  sub-microscopic 
+ones. 
+
+The  above  realization,  and  its  formulation  into  a  mathematical  theory, 
+seems  to  be  an  important  and  extremely  fruitful  generalization,  which  probably 
+will  be  retained  as  a  method. 
+
+One  of  the  puzzling  features  of  the  quantum  theory  was  the  structural 
+appearance  of  the  whole-number  laws  of  the  ‘orbits’.  That  some  such  whole- 
+number  relation  is  justified  seems  to  be  well  established,  yet  it  contradicted 
+the  older  'continuous’  mechanics.  A  new  theory,  to  be  at  all  satisfactory, 
+should  be  able  to  fit  these  whole-number  empirical  data.  The  first  test  of  the 
+new  wave  mechanics,  and  also  its  first  success,  was  precisely  in  this  field. 
+
+If  a  ray  of  the  t/'-wave  was  supposed  to  run  around  in  a  circle  for  a  stationary 
+state,  the  circumference  must  be  a  whole  multiple  of  the  wave-length,  or 
+
+„  ^  h  a  h 
+
+2irr  =n\  -n — ,  and  mvr-n—~ 
+
+mv 
+
+where  n  is  an  integer.  We  see  that  the  quantum  condition  of  the  Bohr  theory, 
+that  the  angular  momentum  must  be  a  whole  multiple  of  h/ is  only  the 
+result  of  the  requirement  that  the  wave-function  \p  shall  be  single- valued, 
+which  is  another  way  of  saying  that  the  circumference  (2irr)  must  contain  a 
+whole  number  of  wave-lengths.  It  may  be  compared  perhaps  with  waves 
+travelling  around  a  circular  loop  of  string.  If  they  travelled  both  ways  we 
+would  have  stationary  waves. 
+
+At  this  point  a  very  important  structural  feature  of  the  new  wave  mechanics 
+makes  its  appearance.  In  the  above  interpretation  the  'velocity  of  the  electron* 
+has  lost  its  physical  meaning,  it  becomes  simply  the  wave  length  of  the  ^-waves. 
+In  the  wave  mechanics,  as  well  as  in  the  matrix  mechanics,  there  is  no  meaning 
+to  the  older  'position  of  an  electron  on  its  orbit'.  So  the  wave  mechanics  again 
+embodies  the  advantages  of  the  matrix  mechanics  by  not  postulating  entities 
+which  can  never  be  observed.  The  whole  numbers,  as  Schrodinger  remarks, 
+'appear  as  naturally  as  do  "integers”  in  the  theory  of  vibrating  strings’.  In 
+the  theory  of  string  vibrations  these  whole  numbers  are  determined  by  certain 
+
+X.  ON  THE  STRUCTURE  OF  'MATTER' 
+
+boundary  conditions  which  have  to  be  satisfied  by  the  solution  of  a  differential 
+equation*  In  the  new  wave  mechanics  there  is  also  a  differential  equation 
+representing  the  Schrodinger  wave  equation.14 
+
+Section  G.  Structural  aspects  of  the  new  theories . 
+
+We  should  notice  the  important  distinction  between  the  two  structural 
+types  of  these  theories.  The  extensional  matrix  theory  can  hardly  be  visualized, 
+with  all  the  consequent  advantages  and  disadvantages.  The  wave  mechanics 
+can  be  visualized.  From  what  we  already  know  of  the  structure  and  working 
+of  the  nervous  system,  we  see  that  the  wave  mechanics  will  have  a  creative 
+element  and  the  matrix  mechanics  will  remain  an  important  checking  method. 
+
+At  present,  all  these  new  theories  seemingly  have  blended  or  perhaps  it 
+would  be  better  to  say  that  they  have  been  translated  from  one  language  to 
+another  and  all  the  workers  in  this  field  work  from  all  angles. 
+
+It  should  be  mentioned  also,  that  Einstein,  Bose,  Jordan,  and  others,  work 
+from  the  point  of  view  of  statistics ,  and  that  these  methods,  too,  are  being 
+retranslated  and  connected  with  the  rest  of  the  new  theories. 
+
+The  new  wave  mechanics  evades  the  difficulties  of  the  matrix  calculus  and 
+brings  the  new  mechanics  within  the  scope  of  the  highly  developed  analysis 
+of  the  theory  of  differential  equations.  It  also  enlists  the  creative  aspects  of 
+'intuition',  ‘visualization’,  . 
+
+Concluding  our  consideration  of  the  subject,  three  remarkable  aspects  of 
+the  wave  mechanics  must  be  referred  to.  We  are  already  acquainted  with  the 
+term  ‘action’.  It  appears  that  the  main  point  of  the  passing  from  the  old 
+mechanics  to  the  new  was  the  stroke  of  genius  of  de  Broglie,  when  he  divided 
+action  by  the  fundamental  constant  h  with  some  definite  numerical  factor 
+which  then  gives  us  the  phase .  In  the  expression  for  }p,  the  energy  appears  as 
+the  ‘time*  component  of  a  space-time  vector  whose  ‘space’  components  are 
+those  of  the  momentum.  When  this  vector  is  divided  by  h,  its  components 
+become  the  frequency ,  or  the  number  of  waves  which  each  axis  cuts  per 
+centimetre. 
+
+These  are  the  methods  by  which  we  can  use  differential  equations,  whereby 
+the  older  discontinuities  disappear  and  the  particle  is  represented  as  a  group 
+of  reinforcing  waves.16 
+
+From  this  point  of  view  we  also  come  to  the  conclusion  that  the  ‘conserva¬ 
+tion  of  energy’,  which  was  very  valuable  in  the  old  days,  is  perhaps  only  a 
+gross  macroscopic  generalization  and  will  give  place  to  a  newer  and  more 
+fundamental  notion  of  the  conservation  of  frequency  or  ‘times’.16 
+
+It  has  been  already  mentioned  that  the  newer  mechanics  must  be  repre¬ 
+sented  in  accordance  with  statistical  data,  probabilities ,  with  due  attention  paid 
+to  the  theory  of  errors  ,  .  While  these  requirements  have  very  little  to  do  with 
+the  world  around  us,  they  are  unconditionally  required  by  our  nervous  structure, 
+which  is,  after  all,  the  general  author  of  all  our  ‘knowledge*  and  ‘theories’. 
+Let  us  be  candid  about  it;  there  is  no  such  thing  as  ‘knowledge’  outside  of  a 
+nervous  system,  and  therefore  the  neurological  requirements,  as  already 
+
+THE  NEWER  'MATTER' 
+
+mentioned,  become  paramount.  The  newer  theories  brilliantly  satisfy  this 
+requirement. 
+
+As  an  example,  we  may  perhaps  mention  an  aspect  of  the  wave  mechanics 
+theory  which  is  not  at  present  settled,  but  which  remains  just  as  interesting. 
+
+Schrodinger  shows  that  in  highly  excited  states  a  suitably  chosen  group 
+of  waves  represents  a  ‘ wave  packet which  behaves  like  a  point-mass  of  the 
+ordinary  mechanics.  It  oscillates  with  frequency  vo  in  a  rectilinear  path.  The 
+number  and  breadth  of  the  waves  which  form  the  packet  vary  with  the  ‘time', 
+but  the  width  of  the  packet  remains  constant.  The  remarkable  part  about  the 
+shape  of  the  curve  is  that  it  represents  the  Gaiiss  error  curve. 
+
+Heisenberg  has  shown 
+that  this  result  is  only  acci¬ 
+dentally  true,  but  for  our 
+purpose  of  illustration  this 
+is  quite  enough. 
+
+The  newer  quantum 
+mechanics  has  shown  once 
+more  the  necessity  for  a 
+re-analysis  of  our  funda¬ 
+mental  notions.  From  a 
+space-time  point  of  view,  which  seems  to  be  a  permanent  acquisition  of  science, 
+since  it  is  a  language  and  method  of  structure  closer  related  to  the  external 
+world  than  the  older  languages  and  methods,  it  seems  beyond  dispute  that 
+even  macroscopic  phenomena  are  the  results  of  repeated  observation .  Now, 
+such  a  point  of  view,  although  it  is  extremely  plausible,  and  close  to  neurological 
+and  physical  data,  necessitates  a  complete  reconstruction  of  our  describing 
+apparatus,  which  is  not  adapted  to  such  an  outlook. 
+
+The  problem  of  'observation*  enters.  Bohr  suggests,  and  rightly,  that  this 
+vocabularly  is  strictly  connected  with  the  older  ‘causal*  vocabulary.  One  of 
+the  main  points  of  the  present  work  is  to  draw  attention  to  the  multiordinal 
+mechanism  and  terms  and  to  show  that  the  analysis  of  these  problems  cannot 
+be  even  attempted  without  first  analysing  the  structure  of  our  languages,  of 
+our  ‘knowledge’,  and  the  neurological  and  semantic  aspects  which  such  analysis 
+involves. 
+
+When  this  analysis  is  carried  through  we  see  that  the  problems  of  ‘con¬ 
+tinuity*  and  ‘discontinuity’  lose  their  absolute  character.  They  become  verbal 
+problems,  to  be  solved  through  the  ingenuity  of  some  one  who  will  suggest 
+the  solutions. 
+
+The  newer  quantum  mechanics  give  us  ample  material  for  work  on  these 
+problems,  but  they  also  illustrate  a  much  more  general  and  important  problem, 
+which  is  the  subject  matter  of  the  present  book;  namely,  that  all  ‘knowledge* 
+is  structural ,  strictly  dependent  on  the  nervous  structure  and  functioning, 
+and  the  language  we  use.  ‘Method’  is  that  aspect  of  the  search  for  structure 
+which  deals  with  the  most  expedient  means  for  finding  structure.  Since  words 
+are  not  the  things  we  speak  about,  the  study  of  linguistic  structure  becomes  a 
+
+n 
+
+■ - i 
+
+VI I 
+
+Fig.  3 
+
+(From  The  New  Quantum  Mechanics ,  p.  115, 
+by  George  Birtwistle) 
+
+X.  ON  THE  STRUCTURE  OF  'MATTER' 
+
+most  important  research  method.  The  more  languages  (theories)  we  have  for 
+analysis  and  structural  comparison,  the  more  glimpses  do  we  get  at  the  structure 
+of  the  world.  The  newer  quantum  mechanics  give  us  enormous  material  of  a 
+linguistic,  structural,  and  semantic  character. 
+
+It  is  natural  that  this  wisdom  can  come  only  from  the  study  of  the  structure 
+of  the  highest  developed  languages  in  existence,  which  are  mathematical 
+languages.  If  we  want  progress  in  any  line  of  human  endeavour,  this  progress 
+is  always  dependent  on  the  languages  we  use,  since  what  we  call  'progress’  is 
+a  co-operative  affair  and  therefore  dependent  on  means  of  communications 
+and  languages. 
+
+From  the  point  of  view  of  structure,  we  deal  with  a  world  of  absolute  in¬ 
+dividuals  and  therefore  our  languages  must  be  such  as  to  reflect  such  individu¬ 
+ality.  We  already  know  that  this  involves  an  extensional  attitude  and  methods, 
+which  historically  have  produced  mathematics  as  the  only  language  which  as 
+yet  reflects  in  structure  the  world  around  us. 
+
+With  the  newer  quantum  mechanics,  the  old  ‘discontinuity’  resolves  itself 
+into  an  essential  individuality ,  as  noticed  by  Bohr,  perfectly  foreign  to  the 
+older  theories. 
+
+History  proves  that  we  were  slow  in  arriving  at  that  point.  Our  tragedies 
+began  when  the  ‘intensional’  biologist  Aristotle  took  the  lead  over  the  ‘ex- 
+tensional’  mathematical  philosopher  Plato,  and  formulated  all  the  primitive 
+identifications,  subject-predicativism  .  ,  into  an  imposing  system,  which  for 
+more  than  two  thousand  years  we  were  not  allowed  to  revise  under  penalty  of 
+persecution.  Mathematics  was  not  particularly  encouraged,  but  at  least,  not 
+persecuted,  so  that  it  was  developed  into  the  present  day  great  linguistic  syste  m. 
+The  theory  of  function  involves  semantic  factors  of  non-identification. 
+
+The  invention  of  the  differential  and  the  integral  calculi,  represents  the 
+two  great  structural  and  psycho-logical  aspects  of  analysis  and  differentiation, 
+versus  synthesis  and  integration. 
+
+The  application  of  these  methods  led  us  to  differential  geometries,  to 
+methods  of  treating  ‘fulness’,  and  to  ‘contact’  methods.  ‘Fulness’  necessitated 
+geometries  of  higher  dimensions,  impossible  in  ‘absolute  emptiness’,  and  so  the 
+fusion  of  geometry  with  physics  became  possible.  The  four-dimensional  world 
+of  Minkowski  and  the  theory  of  Einstein  finally  achieved  this  fusion.  The 
+next  step  was  the  invention  of  the  new  quantum  mechanics,  where  all  these 
+important,  nay,  all-important,  structural,  semantic,  and  linguistic  achievements 
+find  their  culmination.  The  old  primitive  metaphysics  become  too  ‘materialistic’ 
+for  an  enlightened  age. 
+
+Without  legislating  about  the  ‘truth’  or  ‘falsehood’  of  the  newer  mechanics, 
+as  a  matter  of  human  behaviour  these  theories  are  the  best  indications  and 
+examples  of  the  structure  of  human  ‘knowledge’,  which  I  have  attempted  to 
+formulate  in  this  work  as  a  general  theory. 
+
+The  A  -system  was  strictly  interconnected  with  primitive-made  structural 
+assumptions  or  metaphysics,  reflected  in  the  structure  of  the  older  languages 
+and  in  the  el  notions  about  language,  ‘psychology’,  ‘logic’,  and  the  pre-scientific 
+
+THE  NEWER  'MATTER* 
+
+anthropomorphic  astronomy,  physics,  and  other  disciplines.  Of  late,  science 
+has  developed  in  spite  of  all  handicaps  and  persecutions,  and  has  begun  to  de¬ 
+part  structurally  and  semantically  from  the  path  of  aristotelianism  and  the 
+dark  ages.  Every  science  has  had  to  build  its  own  language  and  this  fact  com¬ 
+pletely  condemns  the  A  language,  which,  it  is  shocking  to  notice,  we  continue 
+to  preserve  in  our  daily  life. 
+
+Should  we  wonder  that  we  have  shown  hardly,  any  progress  at  all  in  our 
+purely  human  affairs  and  notions?  We  should  wonder,  rather,  that  we  have 
+been  able  to  survive  until  now — though  with  needless  difficulties  and  suffering. 
+More  wars,  more  revolutions,  more  insanity,  more  morons,  more  struggle  and 
+competition,  and  more  unhappiness  are  what  we  are  entitled  to  expect  and 
+ptedict  as  the  outcome  of  this  structurally  and  semantically  impossible  situation. 
+
+As  the  organism  works  as-a-whole,  such  things  as  ‘pure  intellect*  or  ‘pure 
+emotions’  represent  structurally  el  fictions  and  scientists  should  realize  that 

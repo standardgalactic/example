@@ -1,0 +1,500 @@
+y  =~2  illustrated  in  Fig.  4.  From  the  table  of  values  of  the  function  we  see 
+
+that  the  value  of  the  function  increases  increasingly  more  rapidly  than  the 
+values  of  the  independent  variable  and  so  the  ordinates  are  not  proportional  to 
+the  abscissas.  If  in  Fig.  4  we  connect  O  with  A ,  O  with  B,  O  with  C,  O  with  Dt 
+respectively,  we  see  that  the  lines  OA,  OB,  OC,  and  OD  have  different  angles 
+with  the  axis  X'X ;  the  respective  triangles  are  not  similar,  and  so  there  is  no 
+proportionality.  The  lines  OA,  OB,  OC,  OD  .  ,  do  not  represent  a  straight  line 
+as  they  have  all  different  angles  with  the  axis  XX'  and  so  the  points  A,  B, 
+C,  D  .  ,  cannot  lie  on  a  straight  line  but 'represent  a  broken  line  which,  in  the 
+limit,  when  the  points  plotted  become  sufficiently  near  together,  becomes  a 
+smooth  and  continuous  curve. 
+
+The  fact  that  equations  in  which  the  variables  are  only  of  the  first  degree, 
+represent  straight  lines,  and  that  equations  of  higher  degrees  represent  curved 
+lines  is  very  important,  as  will  appear  later  on.  We  must  notice  also  that  the 
+problem  of  linearity  is  connected  with  proportionality . 
+
+These  few  simple  notions  concerning  the  use  of  co-ordinates  will  allow  us 
+to  explain  the  geometrical  meaning  of  the  derivative  and  the  differential. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  S87 
+
+Consider  Pi  and  P% ,  (Fig.  6)  two  points  on  the  curve,  y**/(x),  referred  to 
+the  axes  OX  and  OF.  Drop  perpendiculars  PXMX  and  P2M%  from  Pi  and  P2 
+to  OX.  These  are  the  ordinates  yi  -/(*  1)  and  y2  =/(*2)  of  the  points  Pi  and  P2, 
+
+and  OM\  and  OM2  are  the  abscissas  xx 
+and  xt  of  the  points  Pi  and  P*.  Through 
+Pi  draw  the  secant  PXP%,  the  tangent  to 
+the  curve  P\T,  and  the  line  P\Q  parallel 
+to  OX.  Then  PxQ  represents  Ax  =x2—xx 
+the  change  in  the  variable  x,  and  P%Q 
+represents  Ay =y2  —  yi  =/(*a)  — fixi)  the 
+change  in  the  function  y. 
+
+In  the  right  triangle  PXQP%  the  ratio 
+PtQ/PxQ  is  a  measure  (the  tangent) 
+of  the  angle  P%PiQ  ( — «)  that  is,  tan  a 
+
+-P»Q/PiQ-^y/^-^r~  or< 
+
+since  x2  =xx  4- Ax 
+we  may  write 
+
+tan  a  = 
+
+/(xi+Ax)-/(xi) 
+
+Ax 
+
+As  P,  approaches  Pi  along  the  curve,  the  secant  PiPj  rotates  about  Pi 
+approaching  PiP  as  its  limit,  and  the  tangent  of  a  approaches  the  tangent 
+of  t,  t  being  the  angle  which  PiT,  the  tangent  to  the  curve  at  Pi,  makes  with 
+PiQ.  But  as  Pj  approaches  Pi,  A*=*s  — =  approaches  zero  or 
+
+symbolically  as  Ax  -4  0;  (Ay/A*)->  tan  r,  that  is  tan  r  =  ]im  (Ay/A*). 
+
+We  see  that  the  lim  yt~—  -  lim  ^  represents  nothing  more  or  less 
+
+X2~*xi  X2—XX  &X—*0 
+
+than  the  derivative  of  the  function  representing  the  curve.  In  other  words, 
+the  geometrical  interpretation  of  the  analytical  process  of  differentiation  is  the 
+finding  of  the  slope  of  the  graph  of  the  function.  The  increment  Ay  of  the 
+function  is  represented  by  P2Q\  the  differential  dy  is  equal  to  NQ  and  Ax  = 
+
+dx~PiQ;  tan  Z  TPxQ^ 
+
+From  the  above  considerations  we  see  that  the  differential  calculus  gives, 
+by  the  application  of  some  extremely  simple  structural  principles,  a  method 
+of  analysis  by  which  we  can  discover  a  tendency  at  a  particular  stage  rather 
+than  the  final  outcome  after  a  definite  interval.  From  such  fundamental  yet 
+simple  beginnings  the  whole  calculus  is  developed.  Most  of  these  developments 
+are  not  needed  for  our  purpose,  but  we  will  explain  one  specially  important 
+theorem.  The  theorem  in  question  is  that  the  derivative  of  the  sum  of  two 
+functions  is  equal  to  the  sum  of  their  derivatives.  In  symbols 
+
+Dx(u  +v)  +Dxv. 
+
+588  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+Let  us  symbolize  «  +e  =>y  and  select  a  special  value 
+
+then 
+we  have 
+
+we  have 
+
+(4) 
+
+yo  +Ay  ** «o  -FA u  +vq  +Av.  By  subtracting  (4), 
+
+Ay  =  A u  +Ai».  Dividing  by  Ax, 
+
+Ay  A u  Av 
+
+T~=T~+T~*  When  Ax  approaches  zero  the 
+
+left-hand  side  approaches  Dxy  =Dx(u+v);  and  the  first  term  of  the  right-hand 
+approaches  Dxut  while  the  second  term  approaches  Dx v  and  so, 
+
+£>x(u  -fv)  =*Dxu  +Dxi>. 
+
+The  symbol  Dx  means  also  that  certain  operations  are  to  be  performed 
+upon  our  function;  namely,  to  find  its  derivative.  When  used  in  this  sense  it 
+is  called  an  operator.  The  operator  Dx  can  be  also  written  in  its  differential 
+
+form  as  and  similarly  for  higher  derivatives. 
+
+2.  MAXIMA  AND  MINIMA 
+
+It  will  be  useful  to  have  some  applications  of  the  differential  calculus 
+explained. 
+
+If  a  function  y=f(x )  is  continuous  in  an  interval  a<x<b  and  has  larger 
+(or  smaller)  values  at  some  intermediate  points  than  it  has  at  or  near  the  ends, 
+then  it  has  a  maximum  (or  minimum)  at  some  point  x  inside  this  interval. 
+If  Fig.  7  represents  the  graph  of  the  function,  it  is  obvious  that  at  the  maximum 
+(or  minimum)  the  tangent  to  the  curve  is  parallel  to  the  axis  and  therefore 
+the  slope  of  this  tangent  is  zero.  As  this  slope  is  given  by  the  derivative  and 
+the  slope  is  zero  we  have  a  simple  method  of  finding  the  maximum  (or  the 
+minimum)  of  a  function  by  equating  the  first  derivative  to  zero;  namely, 
+Dxy  =0  when  x-x0. 
+
+It  is  useful  to  be  able  to  discriminate  between  the  maximum  and  the 
+minimum  of  a  function.  Fig.  7  shows  that  this  can  be  done  by  finding  means 
+to  discriminate  between  the  two  cases  when  our  curve  is  concave  upwards  or 
+concave  downwards.  The  slope  of  a  curve  for  a  particular  value  of  x 
+
+is  given  by  the  value  of  Dxyt  cor¬ 
+responding  to  that  value  of  x.  If 
+the  value  Dxy  is  positive,  y  increases 
+as  x  increases,  and  the  curve 
+slopes  up  as  we  move  to  the  right; 
+if  the  value  of  Dxy  is  negative, 
+X  y  decreases  as  x  increases,  and 
+the  curve  slopes  down  as  we  move 
+to  the  right. 
+
+If  we  consider  the  curve  y  =f(x )  which  has  its  concave  side  turned 
+upward  (Fig.  8),  the  slope  of  the  curve  itself  is  a  function  of  x,  tan  a  =/'(*). 
+If  we  consider  a  variable  point  P  on  a  curve  y  =/(*),  together  with  the  tangent 
+to  the  curve  P ,  as  following  the  curve  in  the  direction  of  increasing  values  of  x , 
+the  curve  is  concave  upward  whenever  the  slope  is  increasing  algebraically, 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  589 
+
+that  is  when  D ,  tan  a«0.  In  other  words,  the  curve  is  concave  upwards  for 
+those  values  of  x  for  which  Dx  tan  a  is  positive,  or  since  tan  a  =Dxy  for  those 
+values  of  x  for  which  Dx  tan  a  ■*  Dx(Dzy)  -  Dx2y  y 
+Is  positive.  Similarly  a  curve  is  concave  down¬ 
+wards  for  those  values  of  x  for  which  Dx  tan  a 
+-Dx{Dxy)  =*D2y  is  negative.  These  results 
+can  be  expressed  thus: 
+
+A  curve  y  =/(x)  is  concave  upward  when 
+Dz*y>  0,  or,  in  words,  when  the  second  de¬ 
+rivative  is  positive,  and  the  curve  is  concave 
+downward  when  the  second  derivative  is 
+negative,  or,  in  symbols,  when  Dx2y  < 0.  0 
+
+From  Fig.  7,  we  see  that  for  a  maximum 
+we  must  have  our  tangent  parallel  to  the  X'X 
+
+and  our  curve  concave  downwards,  hence  for  these  conditions  the  first  deriva¬ 
+tive  [Dxy]x-xo  *  0,  and  the  second  derivative  [Dx2y\x-xo  <0.  For  a  minimum  the 
+first  derivative  must  again  be  zero  and  the  second  derivative  positive,  whence 
+the  concave  side  of  the  curve  is  turned  upwards.  It  should  be  noticed  that 
+the  problems  of  maxima  and  minima  play  an  extremely  important  structural 
+psycho-logical  and  semantic  role  in  our  lives.  All  theories,  somehow,  are  built 
+6n  some  minimum  or  maximum  principle  involving  evaluations  which  are 
+fundamental  factors  of  all  semantic  reactions.  In  daily  life  we  apply  these 
+structural  and  semantic  notions  continually.  In  science  this  tendency,  made 
+its  appearance  quite  early.  The  problem  of  maxima  and  minima  was  treated 
+seriously  as  far  back  as  the  second  century  b.c.  In  the  eighteenth  century 
+Maupertuis  formulated  a  ‘supreme  law  of  nature' ,  that  in  all  natural  processes 
+the  ‘action*  (energy  multiplied  by  'time')  must  be  a  minimum.  Euler  and 
+Lagrange  gave  an  exact  basis  and  form  to  this  principle;  and  finally  Hamilton, 
+in  1834,  established  this  principle  structurally  as  a  variational  principle,  known 
+as  the  hamiltonian  principle,  which  appears  to  be  of  extreme  generality  and 
+usefulness.  It  facilitates  the  derivation  of  the  fundamental  equations  of 
+mechanics,  electrodynamics  and  electron  theory.  It  has  also  survived,  in  a 
+generalized  form,  the  einsteinian  revolution,  for  it  contains  nothing  whatever 
+which  would  connect  it  with  a  definite  co-ordinate  system;  it  involves  only  pure 
+numbers  and  so  is  invariant  to  all  transformations.  It  is  structurally  one  of  the 
+most  important  invariants  ascribed  to  nature,  being  independent  of  the  systems 
+of  reference  of  the  observers. 
+
+It  is  very  desirable  that  this  problem  should  be  investigated  further  from 
+the  structural  psycho-logical  semantic  and  neurological  point  of  view,  as  the 
+very  foundations  of  human  psycho-logics  are  fundamentally  connected  with 
+such  a  principle,  which  itself  is  an  invariant  in  human  psycho-logics. 
+
+Its  importance  is  still  increasing,  and  the  hamiltonian  principle  plays  a 
+most  remarkable  role  in  all  the  newest  advances  of  science.  Any  reader  need 
+only  look  attentively  at  his  daily  life  to  realize  that  there  too  this  principle 
+plays  a  predominant  role. 
+
+Fig.  8 
+
+590  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+3.  CURVATURE 
+
+In  modern  scientific  literature  we  hear  often  the  fundamental  term  'curva¬ 
+ture  mentioned,  and  a  few  words  about  it  will  not  be  amiss.  If  we  take  two 
+perpendicular  lines  X'OX  and  OY  and  select  on  OY  a  number  of  points  A, 
+
+B,  C,  D . ,  further  and  further  away  from  0 
+and  describe  arcs  of  circles  with  these  points  as 
+centres  with  radii  AO ,  BO,  CO,  DO  . ,  respectively 
+Fig.  9f  we  find  each  successive  arc  flatter  and 
+closer  to  the  line  X'X  than  its  predecessor.  In 
+other  words,  the  larger  the  radius  of  our  circle, 
+the  flatter  its  arc  is.  In  the  limit  as  the  radius 
+of  the  circle  becomes  indefinitely  large,  the  arc 
+approaches  a  straight  line  by  intuition  and  by 
+t  definition.  We  notice  also  that  the  curvature 
+
+of  each  circle  is  uniform,  that  is,  one-valued  at  every  point;  but  that  when  we 
+pass  from  one  circle  to  another  of  different  radius,  the  curvature  changes. 
+
+If  we  consider  a  curve  and  two  points  on  it,  M1  and  M2,  (Fig.  10)  and 
+raw  two  tangents  at  these  points;  then  the  angle  between  these  two  tangents 
+will  depend  on  two  factors,  the  sharpness  of  the  curve  and  the  distance  between 
+
+the  points  Mt  and  M2.  If  we  take  the 
+points  near  enough  and  designate  the 
+length  of  the  arc  between  them  by  As, 
+the  angle  between  the  two  tangents 
+by  AS,  then  the  limiting  value  of  the 
+ratio  AS /As,  as  Jlf2  approaches  M\, 
+becomes  dS/ds,  and  is  a  measure  of  the 
+rate  of  change  of  the  direction  of  the 
+tangent  at  M,  as  M  moves  along  the 
+curve.  Let  us  designate  the  rate  at 
+.  which  the  tangent  turns  where  the 
+
+point  describes  the  curve  with  unit  velocity  as  the  curvature,  or  k=±d6/ds, 
+ut  as  is  essentially  a  positive  number  or  zero  we  accept  only  the  absolute 
+value  of  this  ratio.  To  find  dS/ds  we  notice  that  tan  6  =dy/dx 
+
+tan~l  ^  =  tan-1  /,  whence  d8-  dy'  ^>dx 
+
+ax 
+
+or  S 
+
+dJS 
+
+1  +/2  1+y'2* 
+
+But  k  “ds  where  *  =y/(dx)i+(dy)1  =V/ 1  +y'Hx 
+
+whence  k  - - - - 
+
+(l+y2)s/2- 
+
+The  reciprocal  of  the  curvature  is  called  the  radius  of  curvature.  The  radius 
+of  curvature  of  a  circle  is  its  radius.  The  curvature  of  a  curve  is  measured  by 
+the  radius  of  the  osculating  circle,  that  circle  which  fits  the  curve  the  most 
+closely  in  the  neighbourhood  of  our  point. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  591 
+
+4.  VELOCITY 
+
+Until  now  we  have  treated  our  independent  variables  as  any  quantity: 
+but  there  are  many  problems  where  the  independent  variable  represents  'time'. 
+For  instance,  if  we  travel  by  railroad  the  distance  increases  as  'time’  increases, 
+plants  and  animals  grow  with  ‘time’,  .  By  the  average  velocity  with  which  a 
+given  point  moves  for  a  given  length  of  ‘time’  we  mean  the  distance  s  traversed 
+divided  by  the  ‘time’  elapsed.  If,  for  instance,  a  train  makes  5  miles  in  10 
+minutes  we  say  that  its  average  velocity  is  30  miles  per  hour,  or,  in  symbols: 
+
+Velocity,  v  —  -.  In  this  case  we  were  considering  uniform  velocity,  but  very 
+t 
+
+often  we  bave  to  deal  with  velocities  which  are  not  uniform  and  which  might 
+be  increasing  or  decreasing.  In  such  a  case  we  can  describe  the  velocity 
+approximately  at  any  given  moment  if  we  take  a  short  interval  of  ‘time’ 
+immediately  after  the  moment  in  question  and  take  the  average  velocity  for 
+this  short  interval. 
+
+For  instance,  the  distance  a  stone  falls  is  according  to  the  law,  s  =  16  t2.  We 
+want  to  find  how  fast  it  is  going  after  fa  seconds  when  si  =  16  fa2,  and  a  short 
+interval  after  we  have,  let  us  say,  sz  =  16  fa2.  Obviously  the  average  velocity  for 
+
+the  interval  fa— fa  is  — — —  feet  per  second.  If  we  take  fa -l,  $i  =  16,  and  the 
+fa  —  *i 
+
+difference  fa  —fa  =0.1  of  a  second  then  ^2  =  16  fa2  =  16  X  1.21  — 19.36  and 
+
+$2 -Si  19.36-16  3.36  „  ,  .  , 
+
+- — :  * — - - - -33.6  ft.  per  second. 
+
+fa- fa  0.1  0.1 
+
+If  we  take  the  interval  of  ‘time’  smaller,  for  instance,  1/100  of  a  second 
+
+we  would  have  — - — -  =32.2  feet  per  second,  and  if  we  take  the  intervals  as 
+fa  —fa 
+
+1/1000  of  a  second  the  average  velocity  would  be  32.0  feet  per  second.  We  see 
+that  we  could  determine  the  speed  of  the  stone  at  any  instant  with  any  degree 
+of  accuracy  by  direct  calculation,  but  this  is  not  necessary.  If  we  regard  the 
+interval  fa— fa  as  an  increment  of  the  variable  t ,  that  is  as  At,  and  s%—  si=As 
+which  represents  the  increment  of  the  distance  considered  as  a  function  of 
+the  ‘time’  we  would  have  the  average  velocity  =As/At .  As  At  approaches 
+zero  in  the  limit,  the  average  velocity  approaches  a  limit  and  this  limit  is  the 
+velocity  v  at  the  instant  fa,  or  in  symbols 
+
+v  -  lim  —  =— .  In  words,  the  velocity  of  a 
+V^oAt  to 
+
+point  is  the  ‘time’  derivative  of  the  space  traveled. 
+
+If  the  velocity  is  not  uniform,  the  rate  at  which  the  velocity  is  increasing 
+
+is  called  the  acceleration  and  may  be  written  as  a  =  — ,  but  as  we  have  already 
+
+at 
+
+592  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+In  the  above  notes  we  have  not  attempted  to  give  the  reader  more  than 
+some  structural  and  methodological  notions,  and  what  amount  really  to  short 
+structural  explanations  of  definitions  which  will  be  useful  later  on.  The  reader 
+can  find  many  excellent  books  which  give  all  the  additional  information  he 
+may  want. 
+
+Section  C.  On  the  integral  calculus. 
+
+So  far,  we  have  been  studying  a  method  by  which  to  find  the  variation  of 
+a  given  function  corresponding  to  an  indefinitely  small  variation  of  our  variable. 
+We  saw  that  the  rate  of  change  of  our  function  was  given  by  the  first  derivative, 
+which  in  turn  was  also  a  function  (usually  different)  of  our  independent  variable 
+and  so  could  itself  vary  and  have  a  rate  of  change,  and  so  give  us  a  second 
+derivative  ,  , 
+
+And  now  we  must  explain  briefly  the  inverse  problem;  namely,  given  the 
+derivative  to  find  the  function.  In  symbols,  given  u=DxU,  find  U. 
+
+The  function  U  is  called  the  integral  of  u  with  respect  to  x,  or,  in  symbols 
+V  —  J*udx. 
+
+To  integrate  a  function  f(x)  is  to  find  a  function  F(x)  which  when  dif¬ 
+ferentiated  gives  again  the  function  f(x)  with  which  we  started.  As  in  this 
+work  we  are  not  interested  in  computations,  but  only  in  the  structural, 
+methodological,  and  semantic  aspects,  the  inverse  problem  of  differentiation; 
+namely,  integration,  is  less  important  for  us  here,  and  I  will  explain  only  a 
+single  example.  We  have  already  differentiated  the  function  y  =  2x*-x+5  and 
+found  its  derivative  dy/dx  =6x2-l.  Just  as  the  derivative  of  the  sum  of  a 
+number  of  functions  is  equal  to  the  sum  of  their  derivatives,  a  similar  rule  holds 
+for  the  integrals;  namely,  that  the  integral  of  the  sum  of  a  number  of  functions 
+is  equal  to  the  sum  of  their  integrals.  Hence  we  can  take  in  our  example  only 
+the  first  term  of  our  equation.  In  symbols  Dx(2x?)  *6x2;  in  words,  the  deriva¬ 
+tive  of  2x*  is  6x 2. 
+
+In  a  problem  in  integration  we  would  have  6x2  given  and  we  would  have 
+to  find  the  original  function  from  which  6xz  was  obtained  by  differentiation. 
+In  our  case  the  solution  is  already  given;  namely,  J'6xidx  =  2xs*  In  general 
+
+the  solution  of  problems  of  integration  is  largely 
+dependent  on  the  ingenuity  of  the  solver,  al¬ 
+though  we  have  a  number  of  standard1  formulae 
+and  methods.  The  geometrical  meaning  of  in¬ 
+tegration  is  much  more  interesting  for  us  and 
+we  will  give  a  Short  explanation  of  it. 
+
+If  we  consider  the  curve  given  by  an  equa¬ 
+tion  y  ~f(x)  and  the  area  bounded  by  the  X 
+axis,  the  two  ordinates  whose  abscissas  are  x=a 
+and  x—b  and  the  curve,  we  may  find  the  area 
+
+as  follows: 
+
+♦The  constant  of  integration  is  omitted  so  as  not  to  confuse  the  reader. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  593 
+
+If  we  select  an  arbitrary  value  x  *=#1  for  which  y^yi  —fix i),  denoting  the 
+corresponding  value  of  the  area  A  by  A\  (Fig.  11)  and  give  to  x\  an  increment 
+fax,  then  the  area  Ai  Would  receive  the  increment  A^4.  We  can  approximate  AA 
+by  the  help  of  two  rectangles,  one  of  height  yi-/(xi),  the  other  of  height 
+y%  «  yi  +Ay  -/(**)  =/(*i  + Ax) . 
+
+We  see  that  AA  is  larger  than  the  smaller  rectangle.  In  symbols 
+yxAx  <AA  <(yi  +Ay)Ax, 
+
+AA 
+
+hence  yi  <—  <  Cyi  + Ay)  * 
+
+Ax 
+
+As  we  pass  to  the  limit  and  let  Ax  approach  zero,  we  have 
+
+lim  —  =yi.  That  is,  D*A  =yi  =/(xi)  when  x=*xi;  which  means  that  the 
+A*-*o  Ax 
+
+ordinate  of  the  curve  at  any  point  is  equal  to  the  x  derivative  of  the  area  at 
+that  point.  In  general,  D*A  -y,  and  hence,  A  =J*ydx. 
+
+The  consideration  of  what  is  called  the  definite  integral  is  still  more 
+Instructive.  Let  us  take  the  curve  in  Fig.  12  represented  by  an  equation  y  =/(x) 
+and  a  pair  of  ordinates  which  intersect  the  X  axis  at  the  points  x  «x0  and  x=x„. 
+Let  us  divide  the  interval  Xoxn  into  n 
+equal  parts  and  erect  ordinates  at  each 
+point  of  division.  Let  us  construct  a 
+Bet  of  pairs  of  rectangles  with  these 
+ordinates  as  we  constructed  the  single 
+pair  of  rectangles  in  Fig.  11.  By  inspec¬ 
+tion  of  the  figure  we  see  that  the  area 
+under  the  curve  is  slightly  greater  than 
+the  sum  of  the  areas  of  the  included  rect¬ 
+angles  and  slightly  less  than  the  sum  of 
+the  areas  of  the  including  rectangles.  When  n  is  allowed  to  increase  without 
+limit  the  sum  of  the  areas  of  either  set  of  these  rectangles  approaches  the  area 
+bounded  by  the  curve,  the  X  axis,  and  the  end  ordinates.  In  symbols,  the 
+area  of  the  first  rectangle  beneath  the  curve  is  /(x0)Ax,  where  Ax  denotes 
+
+Xx-XQJfn~— \  The  area  of  the  second  rectangle  is  fix i)Ax  ,  .  The  sum  of 
+n 
+
+fi-i 
+
+these  areas  is/(xo)Ax-t-/(xi)Ax  + .  .  .  +/(xn_i)Ax  =  ^/(x,)Ax. 
+
+*“0 
+
+If  we  allow  n  to  increase  without  limit  we  have  the  area  under  the  curve: 
+
+A  =  lim  lf(x0)Ax+f(xi)Ax  +  .  .  .  +/(x„_i)Ax]  =  lim  £  /(x)Ax 
+»->00 
+
+x**xn 
+
+= ffix)dx  ^  [f(x)]  =  F(xn)  -  F(x0)‘ 
+
+In  words,  the  above  formula  indicates  the  fundamental  process  of  the  integral 
+calculus;  namely:  Let  fix)  be  a  continuous  function  of  x  throughout  the 
+interval  x0i>  x^  x„.  If  we  divide  this  interval  into  n  equal  parts  by  the 
+points  x=xo,  xi,  .  .  .  ,  x„,  and  form  the  sum/(x0)Ax-i-/(xi)Ax  + .  .  .  +/(*»-i)Ax, 
+
+Fig.  12 
+
+594  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+as  we  let  n  increase  without  limit,  this  sum  will  approach  a  limit,  which  can  be 
+found  by  integrating  the  function/!*),  that  is,  by  finding  the  function  F(x)  of 
+which  /(*)  is  the  derivative,  and  by  taking  the  integral  between  the  limits 
+*  -*o  and  *  -*„;  that  is,  by  taking  the  difference  between  F(xn)  and  F(*0). 
+
+It  must  be  noticed  that  in  our  first  example,  the  case  of  the  indefinite 
+integral,  we  considered  integration  as  the  inverse  of  differentiation;  in  the 
+second  example,  we  considered  the  definite  integral  as  the  limit  of  a  sum. 
+
+The  symbol  of  the  integral,  J~,  had  its  origin  in  the  letter  5  from  the  latin 
+word  'summa’,  the  integral  being  historically  understood  as  the  definite 
+integral,  or  the  limit  of  a  sum. 
+
+Section  D.  Further  applications. 
+
+1.  partial  DIFFERENTIATION 
+When  we  have  more  than  one  independent  variable,  for  example,  two, 
+we  have  to  become  acquainted  with  what  is  called  partial  differentiation! 
+This  process  is  important,  as  in  practice  we  usually  deal  with  several  independent 
+variables.  It  presents  very  little  that  is  new  from  a  structural  and  method¬ 
+ological  point  of  view,  but  we  give  it  here,  simply  to  explain  the  meaning  of 
+the  term,  as  the  reader  may  find  it  used  in  other  works. 
+
+If  we  have  a  function  z  of  two  independent  variables  *  and  y,  z=f(x,y) 
+which  geometrically  represents  a  surface,  we  may  differentiate  with  respect  to 
+one  of  the  variables,  let  us  say  *,  and  hold  the  other  variable  y  fast,  that  is, 
+treat  it  as  a  constant.  In  this  way  we  should  then  have  a  partial  derivative 
+of  z  with  respect  to  *.  Similarly,  if  we  treat  *  as  a  constant  and  differentiate 
+in  respect  to  y,  we  should  have  the  partial  derivative  of  z  with  respect  to  y. 
+The  above  definitions  give  us  the  rules  for  partial  differentiation— that  is! 
+following  the  ordinary  rules,  considering  each  variable  individually  and  treating 
+all  the  other  variables  as  constant. 
+
+The  notation  for  partial  derivatives  is  similar  to  the  ones  explained  before, 
+except  that  the  lower  case  letter  d  is  replaced  by  the  script  form  d  or  a  subscript 
+is  used  to  indicate  the  variable  with  respect  to  which  the  differentiation  is 
+
+performed;  for  instance,  -Zz' =Dff=Dxz  ,  .  Higher  derivatives  are 
+
+obtained  without  difficulty  in  like  manner.  If  *-/(*, y)  and  —=/,'(*  y)  and 
+
+dz  &X 
+
+the  partial  derivatives  themselves  are  in  general  also  functions 
+
+of  x  and  y  and  can  in  turn  be  differentiated.  Thus,  —  ( — ^  =f„  "(x  v)  or 
+
+,  v  dx\dx)  a**  1  (  ,y>' or 
+

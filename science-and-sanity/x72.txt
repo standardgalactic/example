@@ -1,0 +1,500 @@
+by  this  discovery  that  he  aban¬ 
+doned  the  older  theories  of 
+action  at  a  distance  and  formu¬ 
+lated  a  structurally  new  theory 
+of  contiguous  action  for  electric 
+and  magnetic  events.  Any  one 
+can  convince  himself  of  the  fact  that  the  fields  represent  very  actual  physical 
+conditions  by  taking  a  sheet  of  paper,  sprinkling  some  iron  dust  upon  it  and 
+
+644  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+putting  a  magnet  under  the  paper.  He  will  find  that  the  particles  of  iron  dust 
+arrange  themselves  in  a  very  definite  structure  as  shown  in  Fig.  2. 
+
+Faraday  also  discovered  that  the  forces  between  two  magnetic  poles  like¬ 
+wise  depend  on  the  medium  that  happens  to  be  between  them.  He  concluded 
+correctly  that  the  electric  as  well  as  the  magnetic  forces  are  produced  by  a 
+state  of  tension  in  the  intervening  medium. 
+
+These  two  examples  will  suffice  as  illustrations,  but  it  can  be  said  in  general 
+that  all  modern  physics  gives  ample  proofs  of  the  correctness  of  Faraday's 
+structural  point  of  view.  Some  physicists,  for  instance  Helmholtz,  built  special 
+devices  to  test  the  correctness  of  this  theory.  As  a  matter  of  fact  the  success 
+of  the  whole  electromagnetic  theory  of  Maxwell,  which  is  structurally  built  as 
+a  contact  theory,  in  which  the  velocity  of  propagation  is  considered  finite,  is 
+in  itself  one  of  the  best  proofs  of  the  correctness  of  the  theory. 
+
+The  finite  velocity  of  light  was  discovered  by  Olaf  Romer  in  1676  and  has 
+since  been  repeatedly  verified.  This  velocity  is  usually  denoted  by  c  and  is 
+known  to  be  approximately  300,000  kilometres  per  second,  that  is, 
+c=3xl010cm./sec.,  or  186,000  miles  per  second. 
+
+In  1856  Weber  and  Kohlraush  calculated  a  certain  constant  which  appears 
+in  the  electromagnetic  theory,  and  discovered  that  the  constant  had  the 
+
+dimension  of  velocity,  and  that  its  numerical  value  was 
+
+3  Xl010cm./sec.,  which  is  the  exact  value  for  the  velocity  of  light.  This  fact 
+led  Maxwell  to  associate  light  with  electromagnetic  waves,  a  view  justified  by 
+experiments.  In  1888  Hertz  not  only  established  once  more  the  interrelation 
+of  optics  and  electrodynamics  but  found  that  the  velocity  of  propagation  of 
+electromagnetic  waves  is  finite  and  exactly  equal  to  the  velocity  of  light.4 
+
+Outside  the  exact  sciences  the  principle  of  action  by  contact  is  making  but 
+slow  progress,  perhaps  because  of  A  s,r  and  the  lack  of  structural  formulations 
+of  the  general  issues  at  hand.  We  are  happy  to  find  a  notable  exception  in  the 
+biological  work  of  Professor  C.  M.  Child,  who  has  laid  down  a  foundation  for 
+A  biology  and  his  system  is  structurally  based  on  action  by  contact.  This 
+A  biology  has  been  applied  to  neurology  by  Professor  C.  J.  Herrick.  This 
+present  work,  being  a  ^-system,  must  follow  the  methodological  and  structural 
+advances  explained  here,  and  the  A  biology  and  neurology  founded  by  Child 
+and  Herrick. 
+
+It  is  interesting  to  follow  up  the  structural  merging  of  geometry  and  physics. 
+There  are  certain  Smiths  and  Browns  who  call  themselves  physicists.  There 
+are  some  rooms  with  various  instruments,  which  are  called  physical  labora¬ 
+tories.  The  activities  of  the  physicists  which  interest  us  are  twofold.  First, 
+these  scientists  come  to  their  laboratories,  manipulate  their  instruments,  note 
+the  positions  of  some  pointers,  manipulate  the  instruments  again,  note  posi¬ 
+tions  again  ,  .  This  represents  the  unspeakable  level  of  activity.  Whatever 
+happens  happens,  but  there  is  no  speaking  to  be  done  on  that  level. 
+
+ACTION  BY  CONTACT 
+
+Later  the  scientist  describes  his  experiments  in  words.  Obviously  there  are 
+two  entirely  different  stages  in  building  physics,  which  usually  we  do  not  dis^ 
+
+tinglQui*te  obviously  the  unspeakable  level  cannot  be  called  'physics’  and  so 
+we  must  apply  the  term  to  the  higher  order  abstractions  on  the  verbal  level; 
+namely,  to  the  reasoned  verbal  account  of  what  the  experimenter  saw,  or  felt, 
+or  experienced,  in  general  abstracted  on  the  lower  levels;  summarized,  general¬ 
+ized  .  ,  in  higher  orders. 
+
+Physics  represents  then  a  verbal  discipline.  Being  verbal,  it  needs  a  lan¬ 
+guage.  What  language  shall  we  select?  As  we  want  to  have  a  science  called 
+physics,  we  shall  naturally  try  to  use  the  most  structurally  correct  language  in 
+existence,  so  by  necessity  we  must  look  in  the  direction  of  mathematics. 
+
+In  mathematics  we  find  originally  two  entirely  different  disciplines.  One 
+we  may  call  arithmetic;  the  other,  geometry.  Becoming  acquainted  with  these 
+two  originally  separated  languages,  we  find  that  the  actual  experiments  and 
+the  stimuli  for  many  experiences  of  importance  to  us,  are  outside  our  skins;  so 
+we  try  to  choose  the  one  of  these  two  languages  which  is  the  more  closely  re¬ 
+lated  in  structure  to  the  lower  abstractions— that  is,  to  what  we  see,  feel ,  . 
+Naturally  we  have  an  inclination  toward  the  geometrical  languages,  dealing 
+with  'lines’,  'surfaces’,  'volumes’ . ,  terms  for  which  we  find  immediate  and 
+quite  obvious  applications.  By  further  investigation  we  find  that  of  late  both 
+languages  have  become  so  developed  in  structure,  that  either  can  be  translated 
+perfectly  into  the  other.  This  fact  makes  geometry  the  link  between  the  higher 
+order  abstractions  and  the  lower  order  abstractions.  We  have  seen  that  physics , 
+as  well  as  geometry,  must  be  considered  verbal  disciplines  and  their  fusion 
+
+becomes  a  very  natural  fact.  ^  (  .  , 
+
+It  is  true  that,  as  yet,  ‘time’  appears  as  the  bothersome  factor,  but  time 
+may  very  well  be  represented  geometrically,  except  that  our  diagrams  and 
+figures  look  a  little  different.  For  instance,  a  flat  circular  orbit  in  two-dimensional 
+'space’  becomes  a  helix  in  three-dimensional  space-time,  a  vibrational  motion 
+in  one-dimensional  'space’  becomes  a  wave-line  in  two-dimensional  space-time  ,  . 
+'Time’,  when  properly  represented,  becomes  simply  another  geometrical 
+
+dimension.  ,  .  ,  . 
+
+It  should  not  be  forgotten  that  mathematicians  obtain  most  of  their  struc¬ 
+tural  inspirations  from  physics  and  build  up  mathematical  theories  to  supp  y 
+the  structural  needs  of  the  physicist.  We  see  an  excellent  example  of  this  in  the 
+R  geometries.  In  the  days  of  Euclid,  when  physics  hardly  existed,  we  had 
+‘emptiness’,  ‘action  at  a  distance’,  and  such  notions  as  were  quite  satisfactory 
+for  the  needs  of  surveyors  and  builders.  With  the  development  of  astronomy 
+and  physics,  curved  lines  became  more  and  more  structurally  important,  and 
+the  haziness  of  the  definition  of  'straight  line’  also  became  apparent.  The 
+notion  of  ‘emptiness’  also  became  slowly  structurally  untenable.  Such  geometers 
+as  Gauss,  Lobatchevski,  and  others,  began  to  demand  that  the  axioms  o 
+geometry  be  tested  by  experiment.  With  the  introduction  of  ‘curvature  ,  the 
+‘straight  line’  became  only  a  special  case  of  a  curve  with  zero  curvature. 
+
+646  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+The  invention  of  the  differential  calculus  also  had  a  tremendous  structural 
+influence.  It  introduced  continuity  as  a  basic  assumption  in  the  vast  structure 
+of  science,  and  cleared  the  way  for  psychologically  trained  scientific  workers  in 
+structural  continuity,  and  therefore  in  action  by  contact. 
+
+The  discovery  that  light  appears  as  electromagnetic  waves  and  the  finite 
+velocity  of  both,  made  the  notion  of  ‘absolute  emptiness'  structurally  un¬ 
+tenable;  and  so  E  geometry  with  its  action  at  a  distance,  ‘emptiness’  and  neglect 
+of  gravitation  and  electricity,  became  very  unsatisfactory.  Indeed  if  our  uni¬ 
+verse  were  Et  light  could  not  reach  us. 
+
+Leibnitz,  who  invented  the  differential  calculus  independently  of  Newton 
+formulated  a  postulate  of  action  by  contact,  and  therefore  could  not  become 
+reconciled  to  Newton’s  Law  of  Gravitation  which  was  structurally  a  law  of 
+action  at  a  distance,  corresponding  fully  to  Coulomb’s  law  in  electricity.  The 
+atter  law  states  that  the  force  exerted  by  two  electrically  charged  bodies  upon 
+each  other  is  inversely  proportional  to  the  square  of  the  distance  between  them 
+and  acts  m  the  direction  of  the  line  joining  them.6  * 
+
+f  JHe  lntrodu(;tlon  bV  Faraday  of  the  structural  notion  of  a  ‘field’,  instead 
+of  the  notion  of  electrical  charges  acting  at  a  distance,  introduced  the  notion  of 
+a  strain  of  the  electrical  field,  which  appears  structurally  as  ‘lines  of  forces’. 
+Here  we  already  have  a  ‘fulness’  of  ‘lines’  and  a  big  step  toward  the  structural 
+fusion  of  physics  with  geometry  has  been  taken. 
+
+he  transition  from  E  to  riemannian  geometry  corresponds  structurally 
+to  the  transition  from  physics  based  on  action  at  a  distance  to  physics  based 
+on  action  by  contact.  The  fundamental  metrical  theorem  of  E  geometry  is  the 
+Pythagorean  rule,  which  expresses  the  fact  that  the  square  of  the  distance  be¬ 
+tween  two  points  is  a  quadratic  form  of  the  co-ordinates  of  th«  points.  If  we 
+regard  this  theorem  as  strictly  valid  only  in  the  case  of  points  which  are  very 
+near  each  other,  we  pass  at  once  from  E  geometry  to  differential  geometry. 
+
+y  doing  so  we  gain  a  notable  structural  advantage,  as  we  dispense  with  the 
+necessity  of  defining  our  co-ordinates  more  precisely;  because  the  Pythagorean 
+
+law,  when  expressed  m  differential  form,  is  invariant  for  arbitrary  transfer- 
+mations.6 
+
+Semantically,  Riemann  was  the  immediate  predecessor  of  Einstein,  al¬ 
+though  Einstein  was  not  directly  influenced  by  him.  In  differential  geometry 
+we  ought  to  start  with  indefinitesimaily  near  points,  and  depend  for  the  analysis 
+of  greater  distances,  areas  and  volumes,  on  integration.  The  difficult  notion  of 
+straight  line  has  to  be  replaced  by  the  notion  of  the  shortest  line  (geodetic), 
+which  is  easily  defined  by  differential  methods  and  found  empirically.  In  the 
+o  er  method,  the  length  of  a  curve  was  to  be  found,  in  general,  by  the  process 
+of  integration.  The  length  of  a  ‘straight  line'  between  two  points  was  supposed 
+to  be  defined  as  a  whole,  and  not  as  the  limit  of  a  sum  of  indefinitely  little  bits 
+Riemann  considered  that  a  ‘straight  line'  does  not  differ  in  this  respect  from  a 
+curve.  Measurements  which  are  always  performed  by  means  of  some  instru¬ 
+ment  are  physical  operations,  and  their  results  depend  for  their  interpretation 
+
+action  by  contact 
+
+upon  the  theories  of  physics.  Dealing  with  geodetics  is  therefore  preferable  to 
+dealing  with  ‘straight  lines’.7 
+
+We  see  that  the  problem  was  ripe  for  a  final  stroke  of  genius.  Einstein’s 
+structural  discovery  of  the  dependence  of  ‘space’  and  time  ,  and  Minkowski  s 
+success  in  giving  a  geometrical  interpretation  to  the  Einstein  theory  accom¬ 
+plished  the  probably  irreversible  fusion. 
+
+Three-dimensional  kinematics  becomes  four-dimensional  geometry,  three- 
+dimensional  dynamics  can  be  considered  as  four-dimensional  statics . 
+
+We  see  immediately  the  human,  psycho-logical,  semantic  and  neurological 
+importance  of  this  fact.  Our  nervous  system  by  its  structure  produces  ab¬ 
+stractions  of  different  orders,  dynamic  on  some  levels,  static  on  others.  The 
+problems  of  sanity  and  adjustment  become  problems  of  translation  from  one 
+level  to  another,  for  which  the  structural  advances  in  science  supply  us  with 
+methods  of  solution. 
+
+It  should  be  noticed  that  the  semantic  gain  due  to  the  above  facts  is  con¬ 
+siderable,  and  that  being  structural,  it  is  practical  as  well  as  theoretical.  The 
+fact  that  geometry  has  lost  its  old  restricted  status,  which  formerly  applied 
+principally  to  what  could  be  ‘intuitively  visualized’  and  has  been  further  ab¬ 
+stracted  to  apply  to  what  can  be  ‘conceived’,  has  merged  geometry  with  the 
+rest  of  mathematics.  This  merging  represents  a  great  structural  and  semantic 
+step  forward,  and  makes  possible  the  treatment  of  geometrical  problems  by 
+purely  analytical  means.  It  liberates  geometry  from  the  restrictions  of  lower 
+order  abstractions.  By  using  ‘geometrical  intuition'  (lower  order  abstractions) 
+we  find  again  a  great  help  in  analysis. 
+
+In  the  cyclic  nerve  currents,  our  so-called  ‘intuitions’  (lower  order  ab¬ 
+stractions)  are  not  structurally  isolated  from  our  ‘conceptions'  (higher  order 
+abstractions),  but  both  are  intimately  connected  and  influence  each  other. 
+Modern  advances  are  not  only  in  perfect  accord  with  the  ‘organism-as-a-whole’ 
+principle,  but  indeed  give  us  excellent  proofs  that  this  principle  is  sound.  ‘Psy¬ 
+chologists’  miss  a  great  deal  by  disregarding  this  important  and  unique  form  of 
+human  behaviour  which  we  call  mathematizing. 
+
+CHAPTER  XXXVI 
+
+ON  THE  SEMANTICS  OF  THE  EINSTEIN  THEORY 
+
+It  is  precisely  here,  in  an  improved  understanding  of  our  mental  relations 
+to  nature,  that  the  permanent  contribution  of  relativity  is  to  be  found. 
+
+We  should  now  make  it  our  business  to  understand  so  thoroughly  the 
+character  of  our  permanent  mental  relations  to  nature  that  another  change 
+in  our  attitude  such  as  that  due  to  Einstein,  shall  be  forever  impossible. 
+
+(55)  p.  W.  BRIDGMAN 
+
+It  is  not  my  aim  to  expound  the  Einstein  Theory  as  such.  There  are  many 
+excellent  and  competent  books  written  on  this  subject.  I  have  already  explained 
+and  stressed  several  structural  points  which  in  the  last  analysis  are  the  founda¬ 
+tion  of  Einstein’s  work.  Many  'thinkers’  through  the  ages  have  felt  vaguely  the 
+dangers  of  the  structure  of  language  and  the  viciousness  of  objectification,  that 
+is,  of  the  delusional  ascribing  of  objective  values  to  verbal  forms.  This  vague 
+feeling,  of  course,  is  useful  in  individuals,  but  it  is  a  private  benefit,  which 
+cannot  be  made  public  without  some  sort  of  formulation.  The  stroke  of  genius 
+of  Einstein  was  that  he  produced  a  non-elementalistic,  linguistic  system  of  new 
+structure.  Einstein,  being  a  physicist,  decided  rightly,  as  we  understand  now, 
+to  be  entirely  actional,  behaviouristic,  functional,  and  operational,  and  to  stop 
+gambling  on  words.  The  older  el  linguistic  problems  of  ‘matter’,  ‘space’,  and 
+‘time*  were  in  such  a  mess,  due  to  the  objectification  of  verbal  structures,  that 
+it  was  useless  to  talk  any  more  in  the  old  way.  He  decided  to  describe  what  a 
+physicist  does  when  he  measures  ‘space’  and  ‘time’,  and  to  abandon,  perhaps 
+unconsciously,  the  ‘is’  of  identity. 
+
+It  seems  unnecessary  to  stress  the  simple  fact  that  when  we  measure  a 
+piece  of  wood,  for  example,  we  mark  it  off  with  another  piece  of  material  which 
+we  have  accepted  arbitrarily  as  our  ‘unit  of  length’.  The  coincidence  of  our 
+‘unit’  with  the  intervals  between  the  marks  is  again  judged  by  an  extremely 
+complex  electromagnetic-neural  process,  which  was  quite  disregarded  until 
+Einstein.  Our  judgement  is  conditioned  by  the  light  rays  travelling  with  finite 
+velocity  which  excite  our  nervous  system  through  the  retina,  this  excitation  in 
+turn  also  travelling  with  finite  velocity.  We  see  that  the  apparently  simple 
+measurement  of  a  ‘length’  is  really  an  extremely  complex  process,  in  which  the 
+finite  velocity  of  light  and  of  the  nerve  currents  plays  a  very  important  role. 
+Naturally,  if  we  were  to  assume  an  ‘infinite’  velocity  of  the  propagation  of  light, 
+our  verbal  speculations  about  ‘space’  and  ‘time’  might  be  perhaps  entertaining, 
+but  they  would  nevertheless  be  fundamentally  and  structurally  wrong. 
+
+Similar  remarks  apply  to  the  measurement  of  ‘time*.  What  do  we  mean 
+when  we  say  that  a  train  has  arrived  at  the  station  at  9  o’clock?  We  mean  no 
+more  and  no  less  than  that  the  arrival  of  the  train  coincided  with  the  arrival 
+of  the  pointer  of  a  clock  at  a  point  marked  9  on  the  clock  face.  In  other  words, 
+
+SEMANTICS  OF  THE  EINSTEIN  THEORY 
+
+we  saw  ‘simultaneously’  the  arrival  of  the  train  and  the  pointer  of  the  clock 
+
+reaching  the  mark  9.  r ,  A  n 
+
+Our  judgement  about  the  results  of  measurements  of  time  depends  on  the 
+seen  coincidence  of  events— in  this  case,  of  the  arrival  of  the  train  with  the 
+arrival  of  the  pointer  of  the  clock  at  the  mark  9.  Similar  considerations,  which 
+applied  to  the  measurements  of  lengths’,  apply  also  to  the  measurements  of 
+
+We  see  with  Einstein  that  if  we  want  to  make  any  headway  we  shall  have 
+to  investigate  the  two  key  terms;  namely,  ‘velocity’  and  ‘simultaneity  . 
+
+The  newtonians  take  a  particular  delight  in  accusing  Einstein  of  being  a 
+‘psychologist’  and  not  a  physicist.  We  have  already  stressed  the  physical  sub¬ 
+jectivity  of  physical  instruments.  What  is  said  there  applies,,  not  only  to  t  e 
+retina  of  the  eye,  but  also  to  a  photographic  camera,  or  to  a  microscope  or  tele¬ 
+scope,  or  any  other  instrument.  Before  an  energetic  packet,  be  it  a  light-impulse 
+or  a  bullet,  is  able  to  accomplish  any  result  it  must  first  reach  its  mark  and  so 
+the  finite  velocity  of  propagation  must  be  taken  into  consideration,  which  is  a 
+hard,  established,  empirical  structural  fact.  So  the  criticisms  of  the  newtonians 
+are  simply  shallow  and  unscientific  (1933).  They  disregard  most  important 
+empirical  physical  facts,  and  so  simply  defend  a  semantic  disturbance  without 
+
+aiding  science  (1933).  .  t  j 
+
+With  the  einsteinians,  we  treat  the  eye  on  the  same  footing  as  we  would 
+treat  the  camera  or  any  other  physical  instrument.  Even  the  newtonians  must 
+admit  that  when  they  photograph  some  happening  on  the  sun,  for  example,  t  e 
+happening  actually  occurred  (approximately)  eight  minutes  fee/ore  the  photo¬ 
+graphic  plate  was  affected.  The  eight  minutes  is  the  ‘time’  taken  by  the  light 
+to  reach  the  earth  from  the  sun. 
+
+Let  us  analyse  the  term  ‘velocity’  first.  We  find  ourselves  here,  as  in  any 
+other  human  problem,  on  two  distinct  levels  of  abstraction,  and  we  must  dis¬ 
+
+criminate  between  them.  ..  ,  t 
+
+Let  us  take  up  the  verbal  level  first.  We  see  that  before  we  can  talk  about 
+our  terms  ‘space’  or  ‘time’,  ‘length’  or  ‘seconds’,  we  have  to  know  a  great  deal 
+about  the  term  ‘velocity’.  How  do  we  define  the  term  velocity  ?  We  define 
+it  as  ‘space  divided  by  time’,  v=s/t.  We  see  that  on  the  verbal  level  the  situation 
+is  perfectly  hopeless  and  no  result  can  be  expected  from  verbal  gambling,  ft 
+may  be  added  that  older  notions  were  based  on  objectification,  or  confusion 
+between  the  two  levels  of  abstraction,  and  the  affective  belief  in  the  magic  of 
+words,  identification  playing  most  of  the  structural  havoc. 
+
+How  about  the  instrumental  level,  the  silent  level  of  the  lower  order  ab¬ 
+straction?  On  this  level,  we  find  that  physicists  in  their  actions,  behaviour, 
+operations .  ,  have  elaborated  a  fairly  definite  technique  for  finding  the  data 
+they  require.  So  we  see  that  there  is  no  choice,  we  must  start  on  this  level. 
+
+But  starting  on  this  level  is  not  all,  and  not  enough.  We  must  somehow 
+talk  about  these  doings  and  operations.  Hence  we  must  select  a  language  which 
+in  its  structure  will  reflect  the  structure  of  these  actions  and  operations.  1  here- 
+fore  we  must  abandon  the  ‘is’  of  identity  and  describe  in  the  asymmetrical 
+
+650  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+language  of  order  the  happenings  recorded  by  an  instrument  or  by  our  lower 
+
+nerve  centres. 
+
+Without  going  into  details  we  may  summarize  the  results  as  achieved  by 
+the  physicists.  Experiments  by  the  physicists,  as  indicated  by  the  coincidences 
+of  pointers  on  different  instruments,  have  seemingly  established  the  fact  that 
+the  velocity  of  light,  as  defined  by  behaviouristic,  operational  instrumental 
+means,  is  a  constant ,  c  =  3-1010  cm./sec.,  independent  of  the  relative  velocity  of 
+the  observers.  By  the  'observers’  we  mean  again  the  readings  on  the  instru¬ 
+ments  which  the  observer  carries  with  him.  Now  this  result  contradicts  flatly 
+the  established  verbal  expectations  which  we  reached  on  verbal  levels  through 
+the  elementalistic  structure  of  language  and  the  semantic  disturbance,  of 
+ascribing  objective  existence,  to  the  terms  ‘space’  and  ‘time’. 
+
+•  Til6  jltUati.°"  '?  aCUte‘  Sha11  we  follow  our  semantic  disturbances  and 
+reject  hard  empirical  structural  facts,  or  shall  we  accept  the  experimental  facts 
+and  eliminate  semantic  disturbances? 
+
+As  usual,  the  answer  is  implied  by  the  method  of  putting  the  question. 
+We  accept  the  experimental  facts  and  revise  our  semantic  disturbances.  In 
+this  case  a  psychiatrist  might  be  a  useful  co-worker  with  the  physicist. 
+
+The  einsteinian  revolution  is  structurally  and  semantically  so  fundamental 
+that  every  intelligent  person  should  be  acquainted  with  it.  It  will  therefore  be 
+as  well  to  consider  some  of  its  details. 
+
+In  classical  mechanics  we  had  the  classical  mechanical  principle  of  rela¬ 
+tivity;  namely,  that  all  mechanical  equations  have  one  form  for  two  co-ordinate 
+systems  moving  uniformly  with  respect  to  each  other.  The  above  has  a  very 
+simple  empirical  meaning.  If  we  travel  in  a  train,  let  us  say  at  a  velocity  of 
+50  miles  an  hour,  all  our  activities  in  the  train  have  one  familiar  relative  velocity 
+as  if  the  tram  were  at  rest.  If  we  throw  a  ball  with  a  velocity  of  20  miles  an 
+hour  to  another  passenger  on  the  train  in  the  direction  of  the  movement  of  the 
+train,  the  ball  will  not  reach  the  other  passenger  with  the  velocity  of  20  miles 
+an  hour  plus  the  additional  50  miles  an  hour  velocity  of  the  train  but  will  reach 
+him  with  the  velocity  as  if  the  train  were  standing  still.  Not  so,  however,  if  the 
+ball  were  thrown  to  an  observer,  standing  on  the  tracks.  The  ball  might  hurt 
+
+.umLbnCa?e  ItLwould  have-  relative  to  him,  the  velocity  of  20  miles  an  hour  of 
+the  ball  plus  the  velocity  of  50  miles  an  hour  of  the  train,  or  in  all,  a  velocity 
+of  70  miles  an  hour.  1 
+
+Quite  probably,  even  our  remote  ancestors  who  used  artificial  means  of 
+transportation  on  land  or  water  did  not  overlook  the  structural  fact  that  me¬ 
+chanical  events  happen  in  just  one  way,  whether  the  system  is  at  rest  or  in 
+relative  motion.  With  the  advent  of  verbal  formulations  of  physics  and  me¬ 
+chanics,  such  happenings  were  formulated  verbally;  and  so,  slowly,  the  language 
+of  old  structure  with  its  consequent  objectifications  was  built. 
+
+Now  on  verbal  grounds,  which  seemed  to  be  justified  by  experimental, 
+macro-mechanical  facts,  we  concluded  that  one  law  should  prove  valid  in  the 
+case  of  electrodynamic  and  optical  events. 
+
+SEMANTICS  OF  THE  EINSTEIN  THEORY 
+
+To  reformulate  the  above  in  simple  symbols,  let  us  imagine  two  parallel 
+co-ordinate  systems,  O'  and  0",  of  which  the  second  moves  with  a  velocity  u 
+relative  to  the  first  in  the  common  x  direction.  If  we  denote  the  co-ordinates 
+of  the  first  system  by  single  primes,  and  the 
+co-ordinates  of  the  second  system  by  double  V*  Y" 
+primes,  then,  as  usual,  the  co-ordinates  of  a 
+point,  P,  in  the  second  system  would  be  con¬ 
+nected  with  its  co-ordinates  in  the  first  system  \ 
+
+by  the  equation  x"=x'—utt  which  means  that  ^"j V 
+
+the  x"  co-ordinate  is  less  than  the  x*  co-ordinate  „  i 
+
+by  the  amount  that  our  second  co-ordinate  0«  ■ 
+
+0"  V' 
+
+system  has  moved;  namely,  by  a  =ut.  We  gave  ^  ^ 
+
+the  diagram  in  two  dimensions  because  it  is  simpler, 
+
+and,  as  we  have  assumed  that  the  displacement  is  parallel  to  the  x  axis,  the 
+other  co-ordinates  remain  unaltered,  y"  =yf,  z"  -zf.  'Time'  by  the  older  as¬ 
+sumptions,  being  ‘objective*  and  ‘absolute*  would  be  ‘the  same’;  namely,  /"  =tf 
+(‘absolute  time*).  The  classical  law  of  relative  motion  states  that  if  the  equation 
+of  motion  in  the  first  system  is  f  {x',  y',  s',  /)  =0,  this  function  must  also  be 
+zero  when  xf  is  replaced  by  its  new  value;  namely,  (x'  —ut)  =x"  so  that 
+0-0. 
+
+Let  us  see  if  the  above  conditions  hold  true  when  we  deal  with  the  propa¬ 
+gation  of  light  in  spherical  waves .  - 
+
+OB2=OA2+AB2  Z 
+
+OB2  =*2+y2 
+OP2  =  OB2  +  BP2 
+OP2  =x2+y2H~s2 
+c2t2=x2+f+z2 
+
+If  we  select  a  three  dimensional  co¬ 
+ordinate  system  0,  the  distance  s  of  the 
+point  P  from  O  is  equal,  by  the  Pytha¬ 
+gorean  rule,  to  s2~x2+y2+z2,  If  we 
+assume  that  a  light  ray  is  travelling  from  q 
+0  to  P,  the  distance  s  could  then  be 
+represented  by  the  product  of  the  velocity  Fig*  2 
+
+of  light  c  by  the  ‘time*  or  ct.  The  square  of  this  distance  would  then  be  c2t2  -s2. 
+We  have  x2  -by2  +s2  =c2t2,  or  x2  +y2  ~hz2  -  c2t2  -  0. 
+
+We  can  easily  convince  ourselves  that  if  the  last  equation  for  light-waves 
+holds  good  in  the  first  co-ordinate  system  it  cannot  hold  in  the  second. 
+
+Writing  the  last  equation  in  our  primed  letters,  we  have  x'2  +y'2  ~\rP2  —  cH2  =  0. 
+If  we  pass  to  our  second  system  of  co-ordinates  moving  uniformly  in  the  X 
+direction  with  the  velocity  u  relative  to  the  first  system,  our  y',  s',  /,  do  not  alter 
+by  assumption,  but  only  x”=x'  —  ut.  We  would  have  by  substituting  xf  —ut 
+for  and  retaining  the  primed  values  for  y",  s",  t: 
+
+(x' -ut)2  +y'2  +z'2 -c2t2  =x'2  -  2x'ut  +u2t2  -by'2  +z'2 -cH2 
+=x'2+y'2+z'2-c2t2+(u2t2-2x'ut ). 
+
+■ 
+
+(i) 
+
+652  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+But,  by  assumption,  x'*+y’*+zr* -c*t* -0,  and  therefore  equation  (1) 
+cannot  be  zero  unless  (u2t2—2x'ut)  **0.  This  last  condition  would  mean  that 
+our  second  system  of  co-ordinates  is  also  at  rest.  We  see  that  for  Hght-waves 
+the  older  mechanical  principle  of  relativity  does  not  hold,  as  the  equations  are 
+altered  when  we  pass  from  one  system  of  co-ordinates  to  another  which  moves 
+with  uniform  velocity  relative  to  the  first. 
+
+To  indicate  this  more  obviously,  we  will  express  it  in  formulae.  Consider 
+two  co-ordinate  systems  O'  and  O",  in  which  the  second  moves  with  a  uniform 
+velocity  in  the  X  direction  relative  to  the  first.  If  for  the  light-waves  the  equa¬ 
+tion  x  2 -by  2+2/2  —c2t2  —  0  holds  in  the  first  system,  a  similar  equation  for  the 
+second  moving  co-ordinate  system,  x"2+y"2+z"2 -c2t2  =0,  cannot  be  true.  In 
+other  words,  x/2+y'2+z'2 -cH2^  x”2+y'/2+z"2 -c2t2;  whence  we  have  an 
+inequality ,  fundamentally  contradicting  the  classical  principle  of  relativity. 
+
+This  extraordinary  and  unexpected  inequality,  because  it  contradicted 
+structurally  the  classical  mechanical  principles  of  relativity,  which  apparently 
+had  been  well  established  experimentally,  created  a  baffling  semantic  situation 
+which  was  profoundly  unsatisfactory. 
+
+What  could  we  do  about  it?  Should  we  abandon  the  older  principle  of 
+mechanical  relativity;  or  should  we  have  two  different  laws,  one  for  the  older 
+gross  macroscopic  mechanical  relativity,  and  another  for  optical  and  electro¬ 
+dynamic  events;  or  should  we  investigate  the  fundamental  structural  assump¬ 
+tions  which  underlie  our  formulae,  and  see  if  the  discrepancy  is  not  due  to  some 
+prejudice  or  some  structural  dogma  which  we  have  overlooked  for  centuries? 
+
+If  a  solution  of  the  last  kind  should  be  found  it  would  naturally  be  most 
+satisfactory.  The  admission  of  two  relativities,  one  for  the  mechanical  events, 
+the  other  for  the  optical  events,  would  be  against  the  whole  trend  of  science! 
+which  requires  the  unification  of  theories. 
+
+Such  a  structural  revision;  namely,  the  rooting  out  of  the  old  unjustified 
+dogma  which  made  all  the  trouble,  was  the  work  of  Einstein's  genius.  In  this 
+epoch-making  discovery  he  was  assisted  in  the  beginning  by  the  famous 
+Michelson-Morley  experiment,  since  performed  repeatedly  with  similar  results, 
+seemingly  proving  that  the  velocity  of  light  is  a  constant  no  matter  what  the 
+relative  motion  of  the  observer.  If  we  take  the  equation  for  the  spherical 
+propagation  of  light- waves  x2+y2+z2—  c2t2  -0  or  x2+y2-\-z2  ==c2/2; 
+
+V#2 +y2 -(-s2 
+
+tnerl  c~  "  in  one  system  of  co-ordinates, 
+
+_  j  vV* +✓*+*'*  . 
+
+ana  c=s  ~  m  another  system  of  co-ordinates, 
+
+are  equal,  which  stated  in  another  form  would  mean  that 
+x2  -by2  +z2  -cH2  =x'2  -by'2  +z'2  - cH 2. 
+
+The  experiment  says  this  relation  is  true;  the  arguments  already  advanced  show 
+it  cannot  be  true.  So  we  have  to  hunt  for  some  error  or  compensation. 
+
+With  Einstein  s  explanation,  the  finding  of  the  error  is  simplicity  itself. 
+In  the  older  mechanical  relativity  our  ‘space’  and  ‘time’  were  objectified ,  we 
+
+SEMANTICS  OF  THE  EINSTEIN  THEORY 

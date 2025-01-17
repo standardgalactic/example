@@ -1,0 +1,500 @@
+science.  Because  this  analysis  must  be  independent,  it  can  also  be  made 
+very  simple  and  elementary.  All  exact  sciences  give  us  a  wealth  of 
+experimental  data  to  establish  the  first  thesis  on  similarity  of  structure ; 
+and  it  is  unnecessary  to  repeat  it  here.  I  will  restrict  myself  only  to  a 
+minimum  of  quite  obvious  facts,  reserving  the  second  thesis— about  the 
+similarity  of  structure  with  our  nervous  system — for  the  next  chapter. 
+
+If  we  analyse  the  silent  objective  level  by  objective  means  available 
+in  1933,  say  a  microscope,  we  shall  find  that  whatever  we  can  see, 
+handle . ,  represents  an  absolute  individual ,  and  different  from  anything 
+else  in  this  world .  We  discover,  thus,  an  important  structural  fact  of 
+the  external  world ;  namely,  that  in  it,  everything  we  can  see,  touch . , 
+that  is  to  say,  all  lower  order  abstractions  represent  absolute  individuals, 
+different  from  everything  else. 
+
+On  the  verbal  level,  under  such  empirical  conditions,  we  should  then 
+have  a  language  of  similar  structure;  namely,  one  giving  us  an  indefinite 
+number  of  proper  names,  each  different.  We  find  such  a  language 
+uniquely  in  numbers,  each  number  1,  2,  3 . ,  being  a  unique,  sharply  dis¬ 
+tinguishable,  proper  name  for  a  relation,  and,  if  we  wish,  for  anything 
+else  also. 
+
+Without  some  higher  abstractions  we  cannot  be  human  at  all.  No 
+science  could  exist  with  absolute  individuals  and  no  relations;  so  we  pass 
+to  higher  abstractions  and  build  a  language  of  say  xis  (i=  1,  2,  3,  . . .  «), 
+where  the  x  shows,  let  us  say,  that  we  deal  with  a  variable  x  with  many 
+values,  and  the  number  we  assign  to  i  indicates  the  individuality  under 
+consideration.  From  the  structural  point  of  view,  such  a  vocabulary  is 
+similar  to  the  world  around  us ;  it  accounts  for  the  individuality  of  the 
+external  objects,  it  also  is  similar  to  the  structure  of  our  nervous  sys¬ 
+tem,  because  it  allows  generalizations  or  higher  order  abstractions, 
+emphasizes  the  abstracting  nervous  characteristics , .  The  subscript  em¬ 
+phasizes  the  differences ;  the  letter  x  implies  the  similarities. 
+
+MATHEMATICS  AND  THE  WORLD 
+
+In  daily  language  a  similar  device  is  extremely  useful  and  has  very 
+far-reaching  psycho-logical  semantic  effects.  Thus,  if  we  say  ‘pencil  i\ 
+‘pencils’,  .  .  .  ‘pendin',  we  have  indicated  structurally  two  main  charac¬ 
+teristics:  (1)  the  absolute  individuality  of  the  object,  by  adding  the 
+indefinitely  individualizing  subscript  1,  2,  .  .  .  n ;  and  (2)  we  have  also 
+complied  with  the  nervous  higher  order  abstracting  characteristics,  which 
+establish  similarity  in  diversity  of  different  ‘pencils’.  From  the  point  of 
+view  of  relations ,  these  are  usually  found  empirically ;  besides,  they  may 
+be  invariant,  no  matter  how  changing  the  world  may  be. 
+
+In  general  terms,  the  structure  of  the  external  world  is  such  that 
+we  deal  always  on  the  objective  levels  with  absolute  individuals,  with 
+absolute  differences.  The  structure  of  the  human  nervous  system  is  such 
+that  it  abstracts,  or  generalizes,  or  integrates . ,  in  higher  orders,  and  so 
+finds  similarities,  discovering  often  invariant  (sometimes  relatively 
+invariant)  relations.  To  have  ‘similar  structure’,  a  language  should  com¬ 
+ply  with  both  structural  exigencies,  and  this  characteristic  is  found  in 
+the  mathematical  notation  of  which  can  be  enlarged  to  the  daily  lan¬ 
+guage  as  ‘Smith*’,  ‘Fido*’. ,  where  1,  2,  3,  .  . .  n. 
+
+Further  objective  enquiry  shows  that  the  world  and  ourselves  are 
+made  up  of  processes,  thus,  *Smith190o’  is  quite  a  different  person  from 
+‘SmithiBss’.  To  be  convinced,  it  is  enough  to  look  over  old  photographs 
+of  ourselves,  the  above  remark  being  structurally  entirely  general.  A 
+language  of  ‘similar  structure’  should  cover  these  facts.  We  find  such  a 
+language  in  the  vocabulary  of  ‘function’,  ‘propositional  function’,  as 
+already  explained,  involving  also  four-dimensional  considerations. 
+
+As  words  are  not  objects — and  this  expresses  a  structural  fact — we 
+see  that  the  ‘is’  of  identity  is  unconditionally  false,  and  should  be  entirely 
+abolished  as  such.  Let  us  be  simple  about  it.  This  last  semantic  require¬ 
+ment  is  genuinely  difficult  to  carry  out,  because  the  general  el  structure 
+of  our  language  is  such  as  to  facilitate  identification.  It  is  admitted  that 
+in  some  fields  some  persons  identify  only  a  little ;  but  even  they  usually 
+identify  a  great  deal  when  they  pass  to  other  fields.  Even  science  is  not 
+free  from  identification,  and  this  fact  introduces  great  and  artificial 
+semantic  difficulties,  which  simply  vanish  when  we  stop  identification  or 
+the  confusion  of  orders  of  abstractions.  Thus,  for  instance,  the  semantic 
+difficulties  in  the  foundations  of  mathematics,  the  problems  of  ‘infinity’, 
+the  ‘irrational’. ,  the  difficulties  of  Einstein’s  theory,  the  difficulties  of  the 
+newer  quantum  theory,  the  arguments  about  the  ‘radius  of  the  universe’, 
+‘infinite  velocities’,  the  difficulties  in  the  present  theory.,  .,  are  due,  in 
+the  main,  to  semantic  blockages  or  commitment  to  the  structure  of  the 
+old  language — we  may  call  it  ‘habit’ — which  says  structurally  very  little, 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+and  which  I  disclose  as  a  semantic  disturbance  of  evaluation  by  showing 
+the  physiological ■  mechanism  in  terms  of  order . 
+
+If  we  abolish  the  ‘is’  of  identity,  then  we  are  left  only  with  a  func¬ 
+tional,  actional . ,  language  elaborated  in  the  mathematical  language  of 
+function.  Under  such  conditions,  a  descriptive  language  of  ordered  hap¬ 
+penings  on  the  objective  level  takes  the  form  of  ‘if  so  and  so  happens, 
+then  so  and  so  happens’,  or,  briefly,  ‘if  so,  then  so’ ;  which  is  the  proto¬ 
+type  of  ‘logical’  and  mathematical  processes  and  languages.  We  see  that 
+such  a  language  is  again  similar  in  structure  to  the  external  world 
+descriptively ;  yet  it  is  similar  to  the  ‘logical’  nervous  processes,  and  so 
+allows  us,  because  of  this  similarity  of  structure,  predictability  and  so 
+rationality. 
+
+In  the  traditional  systems,  we  did  not  recognize  the  complete  seman¬ 
+tic  interdependence  of  differences  and  similarities,  the  empirical  world 
+exhibiting  differences,  the  nervous  system  manufacturing  primarily 
+similarities,  and  our  ‘knowledge’,  if  worth  anything  at  all,  being  the 
+joint  product  of  both.  Was  it  not  Sylvester  who  said  that  ‘in  mathe¬ 
+matics  we  look  for  similarities  in  differences  and  differences  in  similari¬ 
+ties’  ?  This  statement  applies  to  our  whole  abstracting  process. 
+
+The  empirical  world  is  such  in  structure  (by  inspection)  that  in  it 
+we  can  add,  subtract,  multiply,  and  divide.  In  mathematics,  we  find  a 
+language  of  similar  structure.  Obviously,  in  the  physical  world  these 
+actions  or  operations  alter  the  relations,  which  are  expressed  as  altered 
+unique  and  specific  relations,  by  the  language  of  mathematics.  Further,  as 
+the  world  is  full  of  different  shapes,  forms,  curves  . ,  we  do  not  only  find 
+in  mathematics  special  languages  dealing  with  these  subjects,  but  we  find 
+in  analytical  geometry  unifying  linguistic  means  for  translation  of  one 
+language  into  another.  Thus  any  ‘quality’  can  be  formulated  in  terms 
+of  relations  which  may  take  the  ‘quantitative’  character  which,  at  present, 
+in  all  cases,  can  be  also  translated  into  geometrical  terms  and  methods, 
+giving  structures  to  be  visualized. 
+
+It  is  interesting,  yet  not  entirely  unexpected,  that  the  activities  of  the 
+higher  nervous  centres,  the  conditional  reflexes  of  higher  order,  the 
+semantic  reactions,  time-binding  included,  should  follow  the  exponential 
+rules,  as  shown  in  my  Manhood  of  Humanity. 
+
+In  our  experience,  we  find  that  some  issues  are  additive — as,  for 
+instance,  if  one  guest  is  added  to  a  dinner  party,  we  will  have  to  add 
+plates  and  a  chair.  Such  facts  are  covered  by  additive  methods  and  the 
+language  called  ‘linear*  (see  Part  VIII).  In  many  instances — and  these 
+are,  perhaps,  the  most  important  and  are  strictly  connected  with  sub- 
+microscopic  processes — the  issues  are  not  additive,  one  atom  of  oxygen 
+
+MATHEMATICS  AND  THE  WORLD 
+
+'plus1  two  atoms  of  hydrogen*  under  proper  conditions,  will  produce 
+water,  of  which  the  characteristics  are  not  the  sum  of  the  characteristics 
+of  oxygen  and  hydrogen  ‘added'  together,  but  entirely  new  characteristics 
+emerge.  These  may  some  day  be  taken  care  of  by  non-linear  equations, 
+when  our  knowledge  has  advanced  considerably.  These  problems  are 
+unusually  important  and  vital,  because  with  our  present  low  development 
+and  the  lack  of  structural  researches,  we  still  keep  an  additive  A  lan¬ 
+guage,  which  is,  perhaps,  able  to  deal  with  additive,  simple,  immediate, 
+and  comparatively  unimportant  issues,  but  is  entirely  unfit  structurally 
+to  deal  with  principles  which  underlie  the  most  fundamental  problems  of 
+life.  Similarly,  in  physics,  only  since  Einstein  have  we  begun  to  see  that 
+the  primitive,  simplest,  and  easiest  to  solve  linear  equations  are  not 
+structurally  adequate. 
+
+One  of  the  most  marked  structural  characteristics  of  the  empirical 
+world  is  ‘change',  ‘motion',  ‘waves’,  and  similar  dynamic  manifestations. 
+Obviously,  a  language  of  similar  structure  must  have  means  to  deal  with 
+such  relations.  In  this  respect,  mathematics  is  unique,  because,  in  the 
+differential  and  integral  calculus,  the  four-dimensional  geometries  and 
+similar  disciplines,  with  all  their  developments,  we  find  such  a  perfect 
+language  to  be  explained  more  in  detail  in  the  chapters  which  follow. 
+
+It  will  be  profitable  for  our  purpose  to  discuss,  in  the  next  chapter, 
+some  of  the  mathematical  structural  characteristics  in  connection  with 
+their  similarity  to  the  human  nervous  system ;  but  here  I  will  add  only 
+that,  for  our  purposes,  at  this  particular  point,  we  must  specially  empha¬ 
+size  arithmetical  language,  which  means  numbers  and  arithmetical  opera¬ 
+tions,  the  theory  of  function,  the  differential  and  integral  calculus 
+(language)  and  different  geometries  in  their  two  aspects,  ‘pure’  and 
+applied.  Indeed,  Riemann  tells  us  bluntly  that  the  science  of  physics 
+originated  only  with  the  introduction  of  differential  equations,  a  state¬ 
+ment  which  is  quite  justified,  but  to  which  I  would  add,  that  physics  is 
+becoming  scientific  since  we  began  to  eliminate  from  physics  semantic 
+disturbances;  namely,  identification  and  elementalism.  This  movement 
+was  originated,  in  fact,  although  not  stated  in  an  explicit  form,  by  the 
+Einstein  theory  and  the  new  quantum  theories,  the  psycho-logical  trend 
+of  which  is  formulated  in  a  general  semantic  theory  in  the  present  work. 
+
+It  is  reasonable  to  consider  that  metric  geometry,  and,  in  particular, 
+the  Zi -system,  was  derived  from  touch,  and,  perhaps,  the  ‘kinesthetic 
+sense',  and  projective  geometry  from  sight. 
+
+Although  the  issues  presented  here  appear  extremely  simple,  and 
+sometimes  even  commonplace,  yet  the  actual  working  out  of  the  verbal 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+schemes  is  quite  elaborate  and  ingenious,  and  impossible  to  analyse  here 
+more  fully ;  so  that  only  one  example  can  be  given. 
+
+The  solution  of  mathematical  equations  is  perhaps  to  be  considered 
+as  the  central  problem  of  mathematics.  The  word  ‘equation*  is  derived 
+from  Latin  aequare ,  to  equalize,  and  is  a  statement  of  the  symmetrical 
+relation  of  equality  expressed  as  a=b  or  a  —  b  =  0  or  a/b  =  1.  An 
+equation  expresses  the  relation  between  quantities,  some  of  which  are 
+known,  some  unknown  and  to  be  found.  By  the  solution  of  an  equation, 
+we  mean  the  finding  of  values  for  the  unknowns  which  will  satisfy 
+the  equation. 
+
+Linear  equations  of  the  type  ax  =  b  necessitated  the  introduction  of 
+fractions.  Linear  equations  with  several  variables  led  to  the  theory  of 
+determinants  and  matrices . ,  which  underwent,  later,  a  tremendous  inde¬ 
+pendent  development ;  yet  they  originated  in  the  attempt  to  simplify  the 
+solution  of  these  equations. 
+
+Quadratic  equations  of  the  type  x1  -}-  ax  +  b  —  0  can  be  reduced 
+to  the  form  z2  =  A,  the  solution  of  which  depends  on  the  extraction  of 
+a  square  root.  Here,  serious  difficulties  arose,  and  seemingly  necessitated 
+the  introduction  of  ‘irrational*  numbers  and  ordinary  complex  numbers, 
+involving  the  square  root  of  minus  one  ( \ / — 1 —»«"),  a  notion  which 
+revolutionized  mathematics. 
+
+Cubic  equations  of  the  form  x*  +  ax2  +  bx  +  c  —  0  necessitated 
+the  extraction  of  cube  roots,  in  addition  to  the  problems  connected  with 
+the  solution  of  quadratic  equations,  and  involved  more  difficulties,  which 
+have  been  analysed  in  an  extensive  literature. 
+
+Biquadratic  equations  of  the  type  x4  +  ax3  -f-  bx2  +  cx  +  d  —  0 
+involve  the  problems  of  quadratic  and  cubic  equations.  When  we  con¬ 
+sider  equations  of  a  degree  higher  than  the  fourth,  we  find  that  we 
+cannot  solve  them  by  former  methods ;  and  mathematicians  have  had  to 
+invent  theories  of  substitutions,  groups,  different  special  functions  and 
+similar  devices.  The  solution  of  differential  equations  introduced  further 
+difficulties,  allied  with  the  theory  of  function. 
+
+The  linear  transformations  of  algebraic  polynomials  with  two  or 
+more  variables  in  connection  with  the  theory  of  determinants,  symmetri¬ 
+cal  functions,  differential  operations . ,  necessitated  the  development  of  an 
+extensive  theory  of  algebraic  forms  which,  at  present,  is  far  from 
+being  complete. 
+
+In  the  above  analysis,  I  have  refrained  from  giving  details,  most 
+of  which  would  be  of  no  value  to  the  layman,  and  unnecessary  for  the 
+mathematician;  but  it  must  be  emphasized  that  the  theory  of  function 
+and  the  theory  of  groups,  with  their  very  extensive  developments, 
+
+MATHEMATICS  AND  THE  WORLD 
+
+involving  the  theory  of  invariance,  and,  in  a  way,  the  theory  of  numbers, 
+rapidly  became  a  unifying  foundation  upon  which  practically  the  whole 
+of  mathematics  is  being  rebuilt.  Many  branches  of  mathematics  have 
+become,  of  late,  nothing  more  than  a  theory  of  invariance  of  special 
+groups. 
+
+As  to  practical  applications,  there  is  no  possibility  to  list  them,  and 
+the  number  increases  steadily.  But,  without  the  theory  of  analytic  func¬ 
+tion,  for  instance,  we  could  not  study  the  flow  of  electricity,  or  heat,  or 
+deal  with  two-dimensional  gravitational,  electrostatic,  or  magnetic  attrac¬ 
+tions.  The  complex  number  involving  the  square  root  of  minus  one  was 
+necessary  for  the  development  of  wireless  and  telegraphy;  the  kinetic 
+theory  of  gases  and  the  building  of  automobile  engines  require  geome¬ 
+tries  of  n  dimensions;  rectangular  and  triangular  membranes  are  con¬ 
+nected  with  questions  discussed  in  the  theory  of  numbers ;  the  theory  of 
+groups  has  direct  application  in  crystallography ;  the  theory  of  invariants 
+underlies  the  theory  of  Einstein,  the  theory  of  matrices  and  operators 
+has  revolutionized  the  quantum  theory ;  and  there  are  other  applications 
+in  an  endless  array.* 
+
+In  Part  VIII,  different  aspects  of  mathematics  are  analysed,  but  the 
+interested  reader  can  be  referred  also  to  the  above-mentioned  book  of 
+Professor  Shaw  for  an  excellent  elementary,  yet  structural,  view  of  the 
+progress  of  mathematics. 
+
+CHAPTER  XIX 
+
+MATHEMATICS  AS  A  LANGUAGE  OF  A  STRUCTURE  SIMILAR 
+TO  THE  STRUCTURE  OF  THE  HUMAN  NERVOUS  SYSTEM 
+
+In  recent  times  the  view  becomes  more  and  more  prevalent  that  many 
+branches  of  mathematics  are  nothing  but  the  theory  of  invariants  of  special 
+&oups.  s  UE 
+
+A  natural  law, — if,  strictly  speaking,  there  be  such  a  thing  outside  the 
+conception  thereof, — is  fundamentally  nothing  more  nor  less  than  a  con¬ 
+stant  connection  among  inconstant  phenomena:  it  is,  in  other  words,  an 
+invariant  relation  among  variant  terms.  (264)  cassius  j.  keyser 
+
+Whatsoever  things  are  invariant  under  all  and  only  the  transformations 
+of  some  group  constitute  the  peculiar  subject-matter  of  some  (actual  or 
+potential)  branch  of  knowledge.  (264)  cassius  j.  keyser 
+
+The  general  laws  of  nature  are  to  be  expressed  by  equations  which  hold 
+good  for  all  systems  of  co-ordinates,  that  is,  are  co-variant  with  respect  to 
+any  substitutions  whatever  (generally  co-variant),  (iss)  A.  einstein 
+
+i 
+
+The  things  hereafter  called  tensors  are  further  characterized  by  the  fact 
+that  the  equations  of  transformation  for  their  components  are  linear  and 
+homogeneous.  Accordingly,  all  the  components  in  the  new  system  vanish, 
+if  they  all  vanish  in  the  original  system.  If,  therefore,  a  law  of  nature  is 
+expressed  by  equating  all  the  components  of  a  tensor  to  zero,  it  is  generally 
+covariant.  By  examining  the  laws  of  the  formation  of  tensors,  we  acquire 
+the  means  of  formulating  generally  covariant  laws,  (iss)  A.  einstein 
+
+The  thalamus  is  a  centre  of  affective  reactivity  to  sensory  stimuli,  while 
+the  cortex  is  an  apparatus  for  discrimination.  (4U>  Henri  pi£ron 
+
+Section  A.  Introductory. 
+
+It  becomes  increasingly  evident  that  we  have  come  to  a  linguistic 
+impasse,  reflected  in  our  historical,  cultural,  economic,  social,  doctrinal . , 
+impasses,  all  these  issues  being  interconnected.  The  structural  linguistic 
+aspect  is  the  most  fundamental  of  them  all,  as  it  underlies  the  others  and 
+involves  the  s.r,  or  psycho-logical  responses  to  words  and  other  events  in 
+connection  with  meanings. 
+
+One  of  the  benefits  of  building  a  system  on  undeniable  negative 
+premises  is  that  many  older  and  controversial  problems  become  relatively 
+simple  and  often  uncontroversial,  disclosing  an  important  psycho-logical 
+mechanism.  Such  formulations  have  often  the  appearance  of  the  'discov¬ 
+ery  of  the  obvious* ;  but  it  is  known,  in  some  quarters,  that  the  discovery 
+of  the  obvious  is  sometimes  useful,  not  always  easy,  and  often  much 
+delayed ;  as,  for  instance,  the  discovery  of  the  equality  of  gravitational 
+and  inertial  mass,  which  has  lately  revolutionized  physics. 
+
+MATHEMATICS  AND  THE  NERVOUS  SYSTEMS  269 
+
+As  words  are  not  the  things  we  are  talking  about,  the  only  possible 
+link  between  the  objective  world  and  the  verbal  world  is  structural.  If 
+the  two  structures  are  similar,  then  the  empirical  world  becomes  intelli¬ 
+gible  to  us — we  ‘understand’,  we  can  adjust  ourselves , .  If  we  carry  out 
+verbal  experiments  and  predict,  these  predictions  are  verified  empirically. 
+
+I  f  the  two  structures  are  not  similar,  then  our  predictions  are  not  verified 
+— we  do  not  ‘know’,  we  do  not  ‘understand’,  the  given  problems  are 
+‘unintelligible’  to  us . ,  we  do  not  know  what  to  do  to  adjust  ourselves , . 
+
+Psychologically,  in  the  first  case  we  feel  security,  we  are  satisfied, 
+hopeful . ;  in  the  second  case,  we  feel  insecure,  a  floating  anxiety,  fear, 
+worry,  disappointment,  depression,  hopelessness,  and  other  harmful  s.r 
+appear.  The  considerations  of  structure  thus  disclose  an  unexpected  and 
+powerful  semantic  mechanism  of  individual  and  collective  happiness, 
+adjustment . ,  but  also  of  tragedies,  supplying  us  with  physiological  means 
+for  a  certain  amount  of  desirable  control,  because  relations  and  structure 
+represent  fundamental  factors  of  all  meanings  and  evaluations,  and, 
+therefore,  of  all  s.r . 
+
+The  present  increasing  world  unrest  is  an  excellent  example  of  this. 
+The  structure  of  our  old  languages  has  shaped  our  s.r  and  suggested  our 
+doctrines,  creeds . ,  which  build  our  institutions,  customs,  habits,  and, 
+finally,  lead  fatalistically  to*  catastrophes  like  the  World  War.  We  fiave 
+learned  long  ago,  by  repeated  sad  experience,  that  predictions  concerning 
+human  affairs  are  not  verified  empirically.  Our  doctrines,  institutions, 
+and  other  disciplines  are  unable  somehow  to  deal  with  this  semantic 
+situation,  and  hence  the  prevailing  depression  and  pessimism. 
+
+We  hear  everywhere  complaints  of  the  stupidity  or  dishonesty  of 
+our  rulers,  as  already  defined,  without  realizing  that  although  our  rulers 
+are  admittedly  very  ignorant,  and  often  dishonest,  yet  the  most  informed, 
+gifted,  and  honest  among  them  cannot  predict  or  foresee  happenings,  if 
+their  arguments  are  performed  in  a  language  of  a  structure  dissimilar 
+to  the  world  and  to  our  nervous  system.  Under  such  conditions,  calling 
+names,  even  under  provocations,  is  not  constructive  or  helpful  enough. 
+Arguments  in  the  languages  of  the  old  structure  have  led  fatalistically  to 
+systems  which  are  structurally  ‘un-natural*  and  so  must  collapse  and 
+impose  unnecessary  and  artificial  stress  on  our  nervous  system.  The  self- 
+imposed  conditions  of  life  become  more  and  more  unbearable,  resulting 
+in  the  increase  of  ‘mental’  illness,  prostitution,  criminality,  brutality, 
+violence,  suicides,  and  similar  signs  of  maladjustment.  It  should  never 
+be  forgotten  that  human  endurance  has  limits.  Human  ‘knowledge’ 
+shapes  the  human  world,  alters  conditions,  and  other  features  of  the 
+
+270  V.  MATHEMATICS  A  A  LANGUAGE 
+
+environment — a  factor  which  does  not  exist  to  any  such  extent  in  the 
+animal  world. 
+
+We  often  speak  about  the  influence  of  heredity,  but  much  less  do 
+we  analyse  what  influence  environment,  and  particularly  the  verbal 
+environment,  has  upon  us.  Not  only  are  all  doctrines  verbal,  but  the 
+structure  of  an  old  language  reflects  the  structural  metaphysics  of  bygone 
+generations,  which  affect  the  s.r .  The  vicious  circle  is  complete.  Primi¬ 
+tive  mythology  shaped  the  structure  of  language.  In  it  we  have  discussed 
+and  argued  our  institutions,  systems . ,  and  so  again  the  primitive  struc¬ 
+tural  assumptions  or  mythologies  influenced  them.  It  should  not  be  for¬ 
+gotten  that  the  affective  interplay,  interaction,  interchange  is  ever  present 
+in  human  life,  excepting,  perhaps,  in  severe  and  comparatively  rare  (not 
+in  all  countries)  'mental’  ills.  We  can  stop  talking,  we  can  stop  reading 
+or  writing,  and  stop  any  'intellectual’  interplay  and  interaction  between 
+individuals,  but  we  cannot  stop  or  entirely  abolish  some  s.r. 
+
+A  structural  linguistic  readjustment  will,  it  is  true,  result  in  making 
+the  majority  of  our  old  doctrines  untenable,  leading  also  to  a  funda¬ 
+mental  scientific  revision  of  new  doctrines  and  systems,  affecting  all  of 
+them  and  our  s.r  in  a  constructive  way.  It  is  incorrect,  for  instance,  to 
+use  the  terms  capitalism  as  opposed  to  'socialism’,  as  these  terms  apply 
+to  different  non-directly  comparable  aspects  of  the  human  problem.  If 
+we  wish  to  use  a  term  emphasizing  the  symbolic  character  of  human  rela¬ 
+tions,  we  can  use  the  term  ‘capitalism’,  and  then  we  can  contrast  directly 
+individual,  group,  national,  international . ,  capitalisms.  If  we  want  to 
+emphasize  the  psycho-logical  aspects,  we  can  speak  of  individualism 
+versus  socialism , .  Obviously,  in  life  the  issues  overlap,  but  the  verbal 
+implications  remain,  preventing  clarity  and  inducing  inappropriate  s.r 
+in  any  discussion. 
+
+In  vernacular  terms,  there  is  at  present  a  ‘struggle’  and  ‘competition* 
+between  two  entirely  different  ‘industrialisms*  and  two  different  ‘com¬ 
+mercialisms*,  based  ultimately  on  two  different  forms  of  ‘capitalism*. 
+One  is  the  ‘individual  capitalism’,  rapidly  being  transformed  into  ‘group 
+capitalism*,  in  the  main  advanced  theoretically  to  its  limits  in  the 
+United  States  of  America  and  to  a  lesser  extent  in  the  rest  of  the  civil¬ 
+ized  world,  and  ‘social  capitalism*,  proclaimed  in  the  United  Socialistic 
+Soviet  Republics.  Both  these  extreme  tendencies,  connected  also  with 
+semantic  disturbances,  are  due  to  a  verbal  or  doctrinal  ‘declaration  of 
+independence*  of  two,  until  lately,  much  isolated  countries.  The  United 
+States  of  America  proclaimed  the  doctrine  that  man  is  ‘free  and  inde¬ 
+pendent’,  while,  in  fact,  he  is  not  free,  but  is  inherently  interdependent. 
+The  Soviets  accepted  uncritically  an  unrevised  antiquated  doctrine  of  the 
+
+M  ATI  I  KM  AT  ICS  AND  TDK  NERVOUS  SYSTEMS  271 
+
+‘dictatorship  of  the  proletarians’,  in  practice,  this  would  mean  the  dic¬ 
+tatorship  of  unenlightened  masses,  which,  if  left  actually  to  their  creeds, 
+and  deprived  of  the  brain-work  of  scientists  and  leaders,  would  revert 
+to  primitive  forms  of  animal  life.  Obviously,  these  two  extreme  creeds 
+violate  every  typically  human  characteristic.  We  are  interdependent,  time- 
+binders,  and  we  are  interdependent  because  we  possess  the  higher  ner¬ 
+vous  centres,  which  complexity  animals  do  not  possess.  Without  these 
+higher  centres,  we  could  not  be  human  at  all;  both  countries  seem  to 
+disregard  this  fact,  as  in  both  the  brain-work  is  exploited,  yet  the  brain¬ 
+workers  are  not  properly  evaluated.  The  ignorant  mob,  with  its  his¬ 
+torically  and  psycho-logically  cultivated  animalistic  s.r,  retards  human 
+progress  and  agreement.  Leaders  do  not  lead,  but  the  majority  play 
+down  to  the  mob  psycho-logics,  in  fear  of  their  heads  or  stomachs. 
+
+In  both  countries,  the  s.r  are  such  that  brain-work,  although  com¬ 
+mercially  exploited,  is  not  properly  evaluated,  and  is  still  persecuted 
+here  and  there.  For  instance,  in  the  United  States  of  America,  we 
+witness  court  trials  and  resolutions  against  the  work  of  Darwin,  in  spite 
+of  the  fact  that  without  some  theory  of  evolution  most  of  the  natural 
+sciences,  medicine  included,  would  be  impossible.  In  Russia,  we  find 
+decrees  against  researches  in  pure  science,  without  which  modern  science 
+is  impossible.  Both  countries  seemingly  forget  that  all  ‘material’  progress 
+among  humans  is  due  uniquely  to  the  brain-work  of  a  few  mostly  under¬ 
+paid  and  overworked  workers,  who  exercise  properly  their  higher  ner¬ 
+vous  centres.  With  science  getting  hold  of  problems  of  s.r  and  sanity, 
+our  human  relations  and  individual  happiness  will  also  become  the  sub¬ 
+ject  matter  of  scientific  enquiry.  If  international  and  interdependent 
+brain-workers  produce  discoveries  and  inventions,  any  one,  even  of  the 
+lowest  development,  can  use  or  misuse  their  achievements,  no  matter 
+what  ‘plan’,  or  ‘no-plan’,  is  adopted.  Both  countries  seem  at  present  not 
+to  understand  that  a  great  development  of  mechanical  means  and  the 
+application  of  scientific  achievements  exclusively  for  animal  comfort  fail 
+to  lead  to  greater  happiness  or  higher  culture,  and  that,  perhaps,  indeed, 
+they  lead  in  just  the  opposite  direction.  Personally,  I  have  no  doubt  that 
+some  day  they  will  understand  it ;  but  an  earlier  understanding  of  this 
+simple  semantic  fact  would  have  saved,  in  the  meantime,  a  great  deal  of 
+suffering,  bewilderment,  and  other  semantic  difficulties  to  a  great  num¬ 
+ber  of  people,  if  the  rulers  in  both  countries  would  be  enlightened  enough 
+and  could  have  foreseen  it  soon  enough. 
+
+The  future  will  witness  a  struggle  between  the  individual  and  group 
+capitalism,  as  exemplified  in  the  United  States  of  America,  and  the  collec¬ 
+tive  or  social  capitalism,  as  exemplified  in  the  Soviet  Republics.  It  does 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+not  require  prophetic  vision  to  foresee  that  some  trends  of  history  are 
+foregone  conclusions  because  of  the  structure  of  the  human  nervous 
+system.  As  trusts  or  groups  have  replaced  the  theoretically  ‘individual* 
+capitalism  in  the  United  States  of  America,  so  will  the  state  capitalism 
+replace  the  trusts,  to  be  replaced  in  its  turn  by  international  capitalism. 
+
+We  are  not  shocked  by  the  international  character  of  science.  We 
+are  not  TOO  per  cent  patriotic*  when  it  comes  to  the  use  in  daily  life  of 
+discoveries  and  inventions  of  other  nations.  Science  is  a  semantic  prod¬ 
+uct  of  a  general  human  symbolic  characteristic ;  so,  naturally,  it  must  be 
+general  and,  therefore,  ‘international*.  But  ‘capitalism*  is  also  a  unique 
+and  general  semantic  product  of  symbolism ;  it  is  also  a  unique  product 
+of  the  human  nervous  system,  dependent  on  mathematics,  and,  as  such, 
+by  its  inherent  character,  must  become  some  day  international.  There  is 
+no  reason  why  our  s.r  should  be  disturbed  in  one  case  more  than  in  the 
+other.  The  ultimate  problem  is  not  whether  to  ‘abolish  capitalism*  or  not, 
+which  will  never  happen  in  a  symbolic  class  of  life,  but  to  transfer  the 
+control  from  private,  socially  irresponsible,  uncontrolled,  and  mostly 
+ignorant,  leaders  to  more  responsible,  professionally  trained ,  and  socially 
+controlled  public  servants ,  not  bosses.  If  a  country  cannot  produce 
+honest,  intelligent,  and  scientifically  trained  public  men  and  leaders,  that 
+is,  of  course,  very  disastrous  for  its  citizens ;  but  this  is  not  to  be  pro¬ 
+claimed  as  a  rule,  because  it  is  an  exception.  Thus,  in  the  Soviet  Repub¬ 
+lics,  graft  is  practically  non-existent  in  the  sense  that  it  exists  in  the 
+United  States;  but  the  mentality  of  the  public  men  is  practically  at  a 
+similar  standstill  because  of  a  deliberate  minimizing  of  the  value  of  brain- 
+work.  I  wonder  if  it  is  realized  at  all,  in  either  country,  that  any  ‘manual 
+worker*,  no  matter  how  lowly,  is  hired  exclusively  for  his  human  brain, 
+his  s.r ,  and  not  primarily  for  his  hands ! 
+
+The  only  problem  which  the  rest  of  mankind  has  to  face  is  how  this 
+struggle  will  be  managed  and  how  long  it  will  last,  the  outcome  admitting 
+of  no  doubt,  as  the  ruthless  elimination  of  individual  capitalism  by  group 
+capitalism  (trusts)  in  the  United  States  is  an  excellent  example.  In  the 
+Soviet  Republics,  they  simply  have  gone  further,  but  in  a  similar  direc¬ 
+tion.  Struggles  mean  suffering ;  and  we  should  reconcile  ourselves  to  that 
+fact.  If  we  want  the  minimum  of  suffering,  we  should  stop  the  animal¬ 
+istic  methods  of  contest.  Human  methods  of  solving  problems  depend  on 
+higher  order  abstractions,  scientific  investigations  of  structure  and  lan¬ 
+guage,  revision  of  our  doctrines.,  resulting  in  peaceful  adjustment  of 
+living  facts,  which  are  actualities  whether  we  like  it  or  not.  If  we  want 
+the  maximum  of  suffering,  let  us  proceed  in  the  stupid,  blind,  animal¬ 
+istic  and  unscientific  way  of  trial  and  error,  as  we  are  doing  at  present. 
+
+MATHEMATICS  AND  THE  NERVOUS  SYSTEMS  273 
+
+My  aim  is  not  to  be  a  prophet,  but  to  analyse  different  structural 
+and  linguistic  semantic  issues  underlying  all  human  activities,  and  so 
+to  produce  material  which  may  help  mankind  to  select  their  lot  con¬ 
+sciously.  What  they  will  do  is  not  my  official  concern,  but  it  seems  that 

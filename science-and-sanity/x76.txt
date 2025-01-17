@@ -1,0 +1,500 @@
+quantity  action  appears  as  a  pure  number,*  a  unique,  specific  relation  which 
+conditions  structure. 
+
+We  should  expect  that  the  action  represented  by  the  number  1  would  be 
+most  interesting  and  would  eventually  represent  the  indivisible  atom  of  action. 
+
+1  he  modern  quantum  theory  seems  to  favour  such  a  point  of  view. 
+
+When  we  encounter  a  pure  number  having  such  crucial  significance  in  this 
+world  we  should  not  wonder  that  such  a  number  intrigues  us.  As  yet  it  is  im¬ 
+possible  to  state  that  action  cannot  have  fractional  numbers.  What,  then 
+would  the  action  represent?  *  ' 
+
+Eddington  suggests  that  the  number  may  represent  a  probability  or  some 
+function  of  a  probability. 
+
+We  combine  probabilities  by  multiplication,  but  we  combine  actions  in 
+two  regions  by  addition.  We  see,  therefore,  that  the  logarithm  of  a  probability 
+gives  the  function  indicated  and  Eddington  suggests  the  provisional  equivalence 
+of  action  with  the  negative  of  the  logarithm  of  the  statistical  probability  of  the 
+state  of  the  world  around  us.  Such  a  suggestion  is  extremely  appealing  and 
+important  because  the  principle  of  Least  Action  can  be  stated  as  the  principle 
+of  greatest  probability.  The  laws  of  nature  appear  to  be  such  that  the  actual 
+state  of  the  world  is  represented  by  that  which  is  statistically  the  most  probable!8 
+
+That  such  structural  conclusion  can  be  drawn  at  all  is  of  tremendous 
+semantic  importance  for  us  because,  as  we  are  abstracting  in  different  orders  all 
+through,  the  only  appropriate  language  in  which  we  can  eventually  hope  to 
+speak  correctly,  is  the  language  of  probabilities,  statistical  averages 
+
+Action  is  one  of  the  terms  of  pre-einsteinian  physics  which  hJs  survived 
+unmodified,  the  only  other  one  being  entropy.  The  law  of  gravitation,  the  laws 
+of  mechanics,  and  the  laws  of  electromagnetism,  can  all  be,  not  only  summed 
+up,  but  also  deduced,  from  a  single  principle  of  least  action.  This  important 
+structural  unification  was  accomplished  even  before  the  advent  of  the  einsteinian 
+theory,  and  only  the  addition  of  gravitation  to  this  list  is  new.7 
+
+REFLECTIONS  ON  THE  EINSTEIN  THEORY  681 
+
+In  this  brief  structural  and  semantic  survey  we  have  had  neither  the  op¬ 
+portunity  nor  the  necessity  of  analysing  the  general  theory  of  Einstein,  which 
+embodies  and  unifies  most  of  the  laws  of  mechanics,  that  of  gravitation  included.* 
+In  this  unification  lies  the  unrivalled  grandeur  of  the  theory.  As  we  shall  see 
+later,  the  newer  quantum  theories  have  been  already  very  much  influenced  by 
+the  Einstein  theory.  As  all  possible  theories  are  dependent  on  human  ingenuity 
+and  never  can  be  the  events  themselves,  we  can  rest  assured  that  once  freed 
+from  ‘emotional  stupors*  and  semantic  disturbances,  the  world  will  not  be  long 
+in  producing  a  whole  structurally  unified  system  of  science. 
+
+In  our  discussions  we  deal  with  ‘apparent’,  ‘real’,  ‘actual’,  and  similar  m.o 
+terms.  We  should  recall  that  mathematics  is  exclusive  in  one  respect;  namely, 
+that  it  has  no  content.  It  is  entirely  a  product  of  higher  abstractions  created 
+by  definition  from  undefined  terms.  We  have  seen  that  mathematics  must  be 
+considered  as  a  language  of  special  structure  which  is,  however,  similar  to  the 
+structure  of  the  world  around  us. 
+
+Our  daily  A  language,  among  others,  being  based  on  the  ‘is’  of  ‘identity’, 
+can  never  give  a  structurally  satisfactory  picture  of  this  world  or  ourselves,  but 
+actually  prevents  such  an  achievement.  Having  abandoned  a  language  which 
+leads  to  identification,  we  shall  be  able  to  apply  a  new  language,  with  new 
+structure,  by  which  we  achieve  better  means  for  representing  the  events  around 
+us.  From  this  point  of  view,  mathematics  and  our  daily  language  do  not  differ. 
+Terms,  being  not  the  things  they  represent,  must  by  necessity  be  creatures  of 
+definitions  and  undefined  terms.  The  solution  of  many  baffling  semantic  prob¬ 
+lems  is  found  in  the  structure  of  a  language  which  involves  different  semantic 
+and  unconscious  attitudes. 
+
+♦In  fact,  a  few  months  ago,  Einstein  and  Mayer  succeeded  in  reducing  the 
+laws  of  gravitational  and  electromagnetic  fields  to  a  single  basis.  This  was 
+accomplished  by  the  aid  of  a  very  revolutionary  mathematical  discovery  that  it  is 
+possible  to  introduce  into  a  ‘space’  of  n  dimensions,  vectors  with  m  components. 
+Although  at  present  the  results  of  the  quantum  theory  are  not  included  in  this 
+theory,  there  is  no  doubt  that  shortly,  because  of  this  mathematical  discovery, 
+these  will  be  included  in  a  generalized  theory  of  relativity. 
+
+PART  X 
+
+ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+Rather  against  my  better  judgment  I  will  try  to  give  a  ro“*k  'mpression 
+of  the  theory  It  would  probably  be  wiser  to  nail  up  over  the  door  of  t 
+new  quantum  theory  a  notice,  “Structural  alterations  in  progress— No 
+admittance  except  on  business”,  and  particularly  to  warn  the  <to°rk«*per 
+to  keep  out  prying  philosophers.  u«>  A.  s.  eddinotow 
+
+CHAPTER  XL 
+
+THE  OLDER  ‘MATTER* 
+
+And  yet  when  I  hear  to-day  protests  against  the  Bolshevism  of  modern 
+science  and  regrets  for  the  old-established  order,  I  am  inclined  to  think 
+that  Rutherford  not  Einstein,  is  the  real  villain  of  the  piece.  (149) 
+
+A.  S.  EDDINGTON 
+
+Micro-mechanics  appears  as  a  refinement  of  macro-mechanics,  which  is 
+necessitated  by  the  geometrical  and  mechanical  smallness  of  the  objects, 
+and  the  transition  is  of  the  same  nature  as  that  from  geometrical  to  physi¬ 
+cal  Optics.  (466)  E.  SCHR6DINGER 
+
+From  the  dawn  of  history,  man  has  had  to  deal  with  different  bits  of 
+materials,  some  hard  and  solid  like  stones,  some  soft  like  fruit  or  flesh,  some 
+liquid.  In  remote  antiquity  air  and  gases  were  not  considered  as  ‘matter*. 
+
+In  those  days  ‘matter’  was  structurally  only  what  could  be  seen,  or  felt, 
+or  touched  .  :  anything  else  was  some  kind  of  ‘spirit’,  and  everything  ‘existed’ 
+in  an  ‘absolute  void*.  But  even  in  remote  antiquity  our  primitive  ancestry 
+could  not  miss  the  fact  that  the  bits  of  materials  they  dealt  with  could  be 
+divided  into  smaller  bits.  Naturally,  if  we  can  subdivide  bits  into  smaller 
+bits,  an  interesting  question  arises:  How  far  can  this  division  be  carried  on? 
+It  seems  that  Democritus  (about  460-360  B.c.)  was  the  first  man  on  record  to 
+formulate  an  atomistic  theory.  He  already  postulated  structurally  a  subjective 
+world  picture,  to  be  contrasted  with  an  ‘absolute*  or  objective  world  in  which 
+‘motion*  was  all  important.  This  theory  started  us  on  the  mechanistic  road 
+formulated  for  macroscopic  events,  and  also  on  the  road  of  individualization, 
+the  study  of  smaller  and  smaller  bits  of  materials  and  the  search  for  some  unit 
+bricks  out  of  which  this  world  appeared  to  be  built;  all  of  which  was  already  a 
+search  for  m.o  structure. 
+
+With  the  advent  of  chemistry  some  further  fundamental  structural  light 
+was  thrown  on  the  problem  of  individualization.  It  was  found  that  certain 
+materials,  as,  for  instance,  iron,  copper .  ,  remain  one  material,  no  matter 
+how  far  we  carry  our  subdivision.  These  were  called  ‘elements’.  At  present 
+we  recognize  92  elements,  a  number  which  is  supposed  to  represent  all  possible 
+elements.  Out  of  these  a  remaining  few  were  at  first  predicted  theoretically, 
+and  just  the  other  day  discovered  experimentally.  All  other  materials  do  not 
+stand  division  so  well.  At  some  stage  they  decompose  into  their  elements. 
+The  smallest  bit  of  one  of  these  last  materials  which  still  has  the  characteristics 
+as  the  bulk,  is  called  a  molecule.  The  molecule  is  found  to  be  built  up  from 
+atoms  of  the  elements.  For  instance,  the  molecule  of  water  still  has  the  charac¬ 
+teristics  of  water,  and  consists  of  two  atoms  of  hydrogen  and  one  atom  of  oxygen, 
+which  are  no  longer  water  but  elements  of  entirely  different  characteristics.* 
+Electrochemistry  taught  us  in  the  meanwhile  an  important  structural 
+lesson;  namely,  that  definite  electrical  charges  are  combined  with  the  atoms. 
+Such  electrified  atoms  are  called  ‘ions’  (Greek  for  traveller).  For  instance,  a 
+
+♦The  above  statements  are  over-simplified,  but  satisfactory  for  my  purpose. 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+molecule  of  water  is  broken  up  into  a  positively  charged  hydrogen  ion  con¬ 
+sisting  of  two  hydrogen  atoms,  and  a  negatively  charged  oxygen  ion  consisting 
+of  one  oxygen  atom. 
+
+But  electricity  had  more  structural  surprises  in  store  for  us.  About  1880 
+new  facts  were  discovered.  One  of  them  was  that  a  moving  electrical  charge 
+has  the  effect  of  an  electrical  current;  namely,  it  can  deflect  a  magnet  just  as 
+a  current  does.  Such  moving  electrical  charges  were  called  convection  currents, 
+and  the  fact  that  they  produce  effects  similar  to  an  electric  current  led  J.  J. 
+Thomson  to  a  surprising  conclusion.  According  to  the  Maxwell  theory  of 
+electromagnetism  a  certain  amount  of  energy  must  be  associated  with  every 
+electric  or  magnetic  field.  If  an  electrical  charge  in  motion  can  produce  mag¬ 
+netic  effects,  hence  energy,  it  was  concluded,  and  verified  by  experiment,  that 
+energy  was  required  to  set  an  electrical  charge  in  motion.  From  which  it 
+follows  structurally  that  an  electrical  charge  possesses  a  characteristic  in  common 
+with  other  materials;  namely,  inertia,  which  can  be  overcome  only  by  the 
+application  of  energy.  This  inertial  mass  of  the  electric  charge  was  called 
+electromagnetic  mass. 
+
+Here  we  see  two  fundamental  structural  issues  involved.  One  is  that 
+electricity  seemingly  has  an  inertial  mass  similar  to  that  of  ‘matter’.  The 
+other  is,  that  in  convection  currents,  we  find  means  to  study  electromechanical 
+parallelism,  and  so  discover  the  relationship  between  electrical  and  mechanical 
+theories. 
+
+In  the  year  1895  Loren tz  proposed  the  electron  theory.  He  assumed 
+structurally  that  moving  molecules  contain  electrical  charges  and  so  produce 
+convection  currents.  These  charges  are  further  assumed  to  be  one  electrical 
+quantum  and  were  called  electrons.  The  electron  theory  proved  to  be  enor¬ 
+mously  fruitful  and  all  further  advance  in  our  structural  knowledge  is  inti¬ 
+mately  connected  with  it. 
+
+As  knowledge  advanced,  the  more  convincing  became  the  structural 
+evidence  for  some  electronic  theory.  As  already  noted,  a  moving  electrical 
+charge  produces  magnetic  effects.  So  also  should  a  moving  electron,  whence 
+we  succeeded  in  accounting  for  magnetic  effects  in  terms  of  moving  electrons 
+which  in  this  case  represent  molecular  convection  currents. 
+
+Granting  this,  a  revolving  electron  should  represent  also  a  small  magnet 
+and  a  mechanical  gyroscope  as  well.  Einstein  in  1915  verified  this  assumption 
+by  an  experiment.  If  these  structural  assumptions  were  true,  then,  by  a  quick 
+reversal  of  magnetism,  a  soft  iron  rod  should  turn  by  a  slight  but  definite 
+amount.  The  reverse  effect  has  also  been  verified ;  namely,  a  soft  iron  rod  when 
+rotated  rapidly  around  its  axis  becomes  magnetized. 
+
+The  discovery  of  radioactive  materials  was  also  of  enormous  structural 
+importance,  as  it  gave  us  a  means  of  studying  directly  the  rays  emitted  from 
+these  materials.  The  rays  were  found  to  be  of  three  kinds  and  were  called 
+by  the  first  letters  of  the  Greek  alphabet.  The  a-rays  have  been  found  to  be 
+similar  to  positive  rays,  the  /3-rays  similar  to  cathode  rays,  and  finally  the  7-rays 
+to  Rontgen-rays.  Further  investigation  revealed  that  the  a-rays  were  atoms 
+
+THE  OLDER  ‘MATTER' 
+
+of  helium  charged  with  a  double  positive  charge  of  electricity,  and  that  the 
+j9-rays  were  negatively  charged  particles  with  the  charge  of  an  electron. 
+
+These  few  remarks  already  make  apparent  the  structural  fact  that  electro¬ 
+magnetic  phenomena  exhibit  characteristics  quite  similar  to  those  of  ‘matter’, 
+some  of  their  processes  are  atomic,  they  have  inertia  ,  . 
+
+In  the  older  days  we  tried  to  apply  macroscopic  mechanical  structural 
+laws  to  electromagnetic  phenomena,  but  were  not  very  successful.  The  laws 
+which  applied  to  those  sub-microscopic  levels  were  seemingly  different  from 
+those  which  applied  to  gross  macroscopic  levels,  just  as  the  psycho-logics  of 
+the  individual  differ  from  the  psycho-logics  of  the  mob. 
+
+An  epoch-making  semantic  step  was  taken  by  Rutherford  when  he  formu¬ 
+lated  the  electromagnetic  theory  of  the  structure  of  ‘matter’.  In  this  theory 
+the  atoms  represent  complex  structures  built  up  of  positive  and  negative 
+electrons,  and  their  number  and  arrangements  (structure)  determine  the 
+chemical  and  physical  characteristics  of  the  atom  in  question.  The  old  struc¬ 
+tural  dogma  of  the  immutability  of  the  elements  became  untenable;  and  today, 
+theoretically,  and  in  a  few  instances  experimentally,  it  has  been  established 
+that  a  transmutation  of  elements  is  not  only  a  possibility  but  a  rather  well- 
+established  structural  fact  of  1933. 
+
+It  should  be  noticed  that  once  more  one  of  the  fanciful  linguistic,  structural, 
+‘infinities’  has  been  abolished.  The  elements  appear  as  transitory  processes 
+with  a  ‘life’  of  a  limited  span  of  years.  The  experimental  structural  evidence 
+which  physicists  and  chemists  have  gathered  is  overwhelming  and,  though  the 
+positive  theories  (verbal  structures)  may  not  always  be  satisfactory,  the  negative 
+results  leading  to  the  rejection  of  the  older  theories  are  conclusive.  This  point 
+
+is  of  supreme  structural  importance  to  us. 
+
+A  short  description  of  the  different  atomic  models  comes  later  in  this 
+chapter,  but  first  something  must  be  said  about  the  old  quantum  theory,  which 
+represents  at  present  the  central  problem  in  science  and  out  of  the  solution 
+of  which  the  most  revolutionary  consequences  are  bound  to  follow. 
+
+The  main  problems  of  the  quantum  theory  may  be  described  and  con¬ 
+trasted  somehow  as  follows.  If  we  take  a  line  X'X  and  select  a  point  O  as  the 
+origin,  we  may  fix  the  position  of  a  point  P  on  this  line  by  the  co-ordinate  x . 
+In  practice  we  find  the  values  of  x  by 
+
+measurement.  If  we  assume  that  x  ^ _ , _ *  ,  ^ 
+
+varies  continuously  we  can  expect  that  0  P 
+
+by  refined  measurements  we  can  find  Fig.  1 
+
+values  of  x  as  close  together  as  we  please. 
+
+Experiments  show  that  for  the  processes  going  on  ‘inside  of  the  atom’  the 
+structural  conditions  are  somehow  radically  different.  In  comparing  them  with 
+
+the  above  example,  we  should  have  to  give  our  point  only  the  freedom  of  occu¬ 
+pying  certain  discrete  points,  let  us  say  1,  2,  3  .  ,  but  all  fractional  values,  such 
+as  1  /2  or  2 /3,  would  be  impossible.  If  the  only  possible  values  of  x  are  whole 
+numbers,  then  the  possibility  of  finding  values  of  x  as  close  together  as  we 
+choose  in  order  to  make  more  precise  measurements  is  excluded.  If  we  find, 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+for  instance,  that  our  x  is  neither  1  nor  2  nor  4,  and  cannot  be  larger  than  4, 
+the  only  solution  is  that  our  x  must  be  3. 
+
+These  conditions,  which  are  actually  found  in  the  atomic  mechanics,  rep¬ 
+resent  an  entirely  new  and  unexpected  structural  state  of  affairs.  The  whole  of 
+the  older  quantum  mechanics  can  be  summarized  in  the  statement,  that  its 
+peculiarity  consists  in  the  fact  that  structurally  characteristic  discrete  numbers 
+make  their  appearance,  and  that  the  processes  'inside  the  atom’  are  to  be 
+described  by  discrete  numbers. 
+
+The  usual  classical  quantum  mechanics  demands  that  x  be  allowed  to  take 
+all  possible  continuous  values,  but  that  the  integral  values  of  x  represent  the 
+so-called  stationary  states  through  the  quantum  conditions.  Under  such  con¬ 
+ditions  the  intermediate  fractional  values  had  no  meanings. 
+
+It  is  safe  to  say  that,  when  in  1900  Planck  formulated  his  quantum  theory 
+along  the  structural  lines  sketched  here,  it  meant  a  complete  and  revolutionary 
+structural  and  semantic  departure  from  all  accepted  standards  in  life  and 
+science,  for  studying  this  world. 
+
+Planck  has  shown  that  it  is  impossible  to  explain  the  spectral  distribution 
+of  the  energy  radiated  by  a  black  body  under  the  older  assumptions  that  energy 
+can  be  divided  indefinitely  into  smaller  and  smaller  parts,  but  that  it  may  be 
+explained  on  the  structural  assumption  that  the  energy  exists  in  quanta  of 
+finite  size  hv ,  where  v  is  the  frequency  of  the  radiation  and  A  is  a  constant 
+(^=6.54x10  27  erg  sec.). 
+
+These  observations  lead  to  the  revolutionary  structural  conclusion  that 
+the  emission  of  radiation  occurs  discontinuously ,  and  so  the  characteristic  dis¬ 
+crete  numbers  make  their  appearance. 
+
+^  H  seems  natural  that  because  of  this  peculiar  appearance  of  whole  numbers, 
+periodic  processes  such  as  rotations  or  oscillations  should  be  closely  related 
+structurally  with  the  quantum  theory.  As  a  matter  of  fact  the  most  important 
+structural  and  semantic  reconciliation  of  continuous  differential  equations  of 
+the  older  mechanics  with  the  appearance  of  discontinuous  whole  numbers  has 
+been  solved  by  the  newer  quantum  mechanics  on  this  basis  as  explained  in 
+the  following  chapter. 
+
+The  kinetic  theory  of  heat  and  the  atomistic  theory  of  electricity  have 
+shown  an  enormous  productivity.  It  is  quite  natural  that  these  theories  (verbal 
+structures)  should  be  highly  workable,  considering  the  structure  of  our  nervous 
+systems,  as  explained  in  the  foregoing  chapters.  It  was  this  principle  of  indi¬ 
+vidualization  which  helped  so  greatly.  The  quantum  theory  is  a  structural 
+attempt  to  extend  this  method  of  individualization,  or  the  atomistic  principle, 
+to  processes  themselves. 
+
+As  in  the  older  days  we  introduced  units  or  elementary  quanta  of  mass, 
+and  later,  an  elementary  quantum  of  electric  charge,  so  in  our  newer  knowledge 
+we  have  need  for  an  elementary  quantum  of  action.  Action  is  defined  as  energy 
+multiplied  by  ‘time’,  or  A  =Et. 
+
+Naturally  such  a  product  as  energy  multiplied  by  'time’  must  play  an 
+extremely  important  structural  and  semantic  role  in  this  world  of  space-time, 
+
+THE  OLDER  'MATTER' 
+
+where  nothing  happens  ‘instantaneously',  but  all  action  requires  'time'.  If  we 
+could  discover  some  unit  of  action,  we  could  change  from  the  language  of 
+‘energy’  and  ‘time’  to  the  language  of  ‘action’  and  ‘times’.  This  language,  by 
+the  way,  is  much  more  satisfactory  and  structurally  closer  to  experience  than 
+the  old  languages.  ‘Action’  as  structurally  defined  (product  of  ‘energy’  by 
+‘time’)  is  one  of  the  two  fundamental  entities  of  pre-relativity  physics  which 
+have  survived  the  Einstein  revolution.  It  is  really  a  universal  term  which  we 
+can  apply  without  danger  of  degrading  science  into  private  gossip.  From  the 
+neurological  standpoint,  as  it  deals  with  definite  units  and  times,  such  a  term 
+has  all  the  structural  earmarks  of  an  abstraction  of  highest  order  and  of  being 
+really  semantically  important.  Energy  in  space-time  must  by  necessity  be 
+reformulated  as  ‘action’.  The  quantum  theory  posits  structurally  that  the 
+action  of  physical  processes  is  built  up  of  a  number  of  elementary  quanta  of 
+action. 
+
+From  the  fact  that  electromagnetic  waves  and  light-waves  have  one  ve¬ 
+locity,  Maxwell  concluded  that  light-waves  are  of  an  electromagnetic  character, 
+a  conclusion  which  further  experiments  have  fully  justified.  Einstein,  in  1905, 
+successfully  applied  the  quantum  structural  principle  to  the  theory  of  light, 
+and  in  1907  to  the  theory  of  heat  of  solid  bodies. 
+
+The  evolution  of  our  theories  concerning  the  internal  structure  of  atoms 
+has,  until  lately,  closely  followed  our  astronomical  theories,  but  with  the  newest 
+quantum  mechanics  this  structural  analogy  seems  less  useful.  The  first  atomic 
+model  on  an  electrical  basis  was  proposed  by  J.  J.  Thomson.  He  assumed  the 
+atom  to  consist  of  a  uniformly  dense  spherical  volume 
+charge  of  positive  electricity,  within  which  electrons 
+described  circular  orbits.  But  the  discovery  of  radio¬ 
+activity  and  the  fact  that  the  alpha-rays  could  pass 
+through  several  centimetres  of  atoms  (which  means  pene¬ 
+trating  through  many  thousands  of  atoms),  without  their 
+direction  being  altered  made  these  assumptions  struc¬ 
+turally  untenable. 
+
+The  Wilson  photographs  (Fig.  2)  show  clearly  that  a 
+single  atom  can  deflect  the  alpha-particle  by  a  large  angle 
+which  makes  it  clear  that  the  nucleus  of  an  atom  must  be 
+considered  as  a  very  small  part  of  the  volume  of  the  atom. 
+
+The  large  deflections  of  the  alpha-particles  show  also  that 
+the  mass  of  the  nucleus  must  be  much  larger  than  the 
+mass  of  the  deflected  particles.  Observations  show  also 
+that  thfe  deflections  increase  with  the  atomic  weight  of  the 
+deflecting  materials.  These  and  similar  facts  led  to  the 
+structural  assumption  that  the  mass  of  the  atom  is  prin¬ 
+cipally  concentrated  in  the  nucleus  and  that  the  mass  of 
+the  electrons  must  be  very  small  in  comparison  with  that  of  the  nucleus. 
+
+As  the  atoms  are  in  general  electrically  neutral,  we  had  to  assume  that  the 
+positive  charges  of  the  nucleus  are  compensated  by  the  negative  charges  of  the 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER* 
+
+electrons.  These  and  other  structural  considerations  led  Rutherford  to  propose 
+a  different  atomic  model,  which  was  much  more  successful  for  a  while. 
+
+The  Rutherford  atom  is  supposed  to  be  composed  of  a  nucleus  of  positive 
+electricity  surrounded  by  negative  electrons.  The  simplest  atom  is  that  of 
+hydrogen,  and  was  assumed  to  consist  of  one  electron  revolving  around  the 
+simplest  positive  nucleus  or  proton,  each  having  a  charge,  e  -4.77  x  1CT10  e.s.u., 
+and  different  masses,  the  mass  of  the  nucleus  or  proton  being  1845  times  the 
+mass  of  the  electron.  The  other  atoms  represent  more  complex  structures  built 
+up  of  protons  and  electrons,  into  the  details  of  which  we  need  not  enter  here. 
+But  this  theory  encountered  difficulties  of  theoretical  as  well  as  of  experimental 
+character.  Niels  Bohr  eliminated  most  of  them  by  the  application  of  the 
+quantum  theory  to  the  atom. 
+
+For  simplicity  of  writing  in  that  which  follows,  I  will  use  a  descriptive 
+language  omitting  in  each  statement  ‘we  assume’  .  ,  but  the  reader  should  be 
+continuously  aware,  that  when  we  deal  with  the  sub-microscopic  levels  we  deal 
+only  with  inferential  units  the  representation  of  which  involves  a  great  many 
+assumptions.  For  my  purpose  it  is  enough  to  stress:  (1)  the  negative  fact,  that 
+the  structure  of  materials  is  definitely  different  from  that  which  was  assumed 
+before  the  advent  of  the  quantum  theories,  (2)  that  in  science ,  inferential  units 
+represent  abstractions  of  higher  order  and  are  as  reliable  as  the  lower  order 
+abstractions  which  we  gather  on  the  macroscopic  levels,  if  they  are  treated 
+semantically  as  hypothetical  units.  The  layman  should  realize  that  his  ‘world- 
+outlook*  appears  as  full  of  assumptions  as  any  scientific  one,  except  that  his 
+assumptions  are  not  conscious  and  cannot  be  verified,  whereas  most  of  the 
+scientific  assumptions  are  conscious  and  are  continually  verified . 
+
+In  the  older  theory  the  orbits  of  the  electrons  were  supposed  to  be  arbi¬ 
+trary;  in  the  Bohr  theory  the  orbits  have  precedence,  for  which  a  definite  mag¬ 
+nitude,  a  whole  number  multiple  of  the  elementary  quantum  of  action  is  specified. 
+We  posit  one-quantum  orbits,  two-quantum  orbits  .  ,  to  which  definite  values 
+of  the  orbits,  the  velocity,  the  number  of  revolutions,  and  the  energy  correspond. 
+In  a  one-quantum  orbit,  for  instance,  the  velocity  is  supposed  to  be  equal  to 
+
+c/140,  that  is  one  140th  of  the  velocity 
+of  light,  and  the  number  of  revolutions 
+equal  to  6000  billions  a  second. 
+
+Bohr  later  modified  his  atomic 
+model  structurally  by  taking  into  ac¬ 
+count  the  movement  of  the  nucleus.  The 
+-€  electron  was  not  supposed  to  revolve  any 
+longer  around  the  proton,  but  both  pro¬ 
+ton  and  electron  were  assumed  to  revolve 
+around  their  common  centre  of  gravity. 
+In  the  simplest  form  the  Bohr  atomic 
+model  is  shown  in  Fig,  3,  representing 
+the  atom  of  hydrogen,  which  we  assume 
+to  consist  of  a  nucleus  with  one  positive 
+
+THE  OLDER  ‘MATTER' 
+
+Helium** 
+(ot  particle} 
+
+Fig.  7 
+P  -  proton 
+
+charge  and  of  an  electron  that  revolves  about  this  nucleus.  The  nucleus  is 
+designated  by  a  star,  the  three  circles  represent  the  possible  orbits  for  the 
+electron.  The  orbit  of  radius  a '  is  the  most  stable,  and  usually  the  hydrogen 
+electron  is  supposed  to  be  found  there,  but  through  the  action  of  heat  or  electric 
+fields  or  collisions .  ,  the  electron  may  be  removed  to  one  of  the  outer  orbits 
+a"  or  a'".  Such  a  condition  is  not  so  stable,  and  sooner  or  later  the  electron  is 
+assumed  to  return  to  the  orbit  a' .  During  these  transitions  of  the  electron,  energy 
+is  radiated.  This  structural  model  is  similar  to  the  copernican  planetary  system, 
+the  planet-electrons  revolving  around  the  sun-nucleus.1 
+
+The  above  diagrams  show 
+schematically  the  supposed 
+structure  of  some  of  the  simpler 
+atoms.  Fig.  4  represents  the 
+hydrogen  atom,  consisting  of 
+one  proton  and  one  electron 
+revolving  around  the  proton. 
+
+The  mass  of  the  proton  is  about 
+1845  times  the  mass  of  the  elec¬ 
+tron,  and  we  assume  that  the 
+proton  effectively  gives  us  the 
+mass  of  the  atom. 
+
+Fig.  5  represents  the  neu¬ 
+tral  atom  of  helium.  Its  nucleus 
+consists  of  four  protons  and  two 
+electrons,  and  it  has  two  re¬ 
+volving  electrons;  in  all,  four 
+protons  with  four  positive 
+charges  and  four  electrons  with 
+four  negative  charges,  the  eight 
+charges  just  neutralizing  each 
+other. 
+
+Fig.  6  represents  a  helium 
+atom  which  has  lost  one  elec¬ 
+tron.  It  has,  therefore,  four 
+positive  charges  and  only  three 
+negative  charges.  Such  an 
+atom  has  a  resultant  positive 
+charge,  and  is  denoted  by  He+ . 
+
+If  the  helium  atom  loses  two 
+electrons  it  is  doubly  charged 
+with  a  positive  charge  (He++) . 
+
+The  helium  nucleus  He++t  as  shown  in  Fig.  7,  represents  the  particle  emitted 
+from  radio-active  materials. 
+
+Lithium  consists  of  two  isotopes;  that  is,  two  elements  which  appear  ex¬ 
+tremely  similar  to  each  other  in  physical  and  chemical  characteristics,  but 
+
+£=  electron 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+differ  from  each  other  in  the  number  of  electrons  and  protons.  In  Fig.  8  is 
+shown  Iithiumg,  with  6  protons  and  3  electrons  in  the  nucleus,  and  3  revolving 
+electrons.  In  Fig.  9  is  shown  lithium?,  with  7  protons  and  4  electrons  in  the 
+nucleus  and  3  revolving  electrons.2 
+
+In  general  terms,  Bohr  tried  to  account  for  all  other  atoms  on  the  base  of 
+the  structure  of  the  hydrogen  atom.  The  next  important  generalization  and 
+extension  of  the  Bohr  theory  was  accomplished  by  Sommerfeld  about  1915. 
+The  achievement  of  Sommerfeld  can  be  compared  with  the  advance  which 
+Kepler  made  over  the  copernican  theory  of  planetary  motions.  Copernicus 
+considered  the  planetary  orbits  as  circular.  Kepler*  considered  them  as  ellip¬ 
+tical,  and  thus  introduced  a  tremendous  structural  advance  in  astronomy. 
+Sommerfeld  replaced  the  circular  orbits  of  Bohr  by  elliptical  ones.  The  theory 
+became  much  more  complicated,  because  a  circle  is  given  by  one  magnitude; 
+namely,  its  radius,  while  an  ellipse  needs  two  data,  its  major  and  minor  axes, 
+and  so  two  quantum  numbers  for  the  specification  of  an  orbit.  Sommerfeld  also 
+introduced  some  of  the  results  of  the  Einstein  theory;  for  example,  that  the 
+mass  of  a  body  also  depends  on  its  velocity.  Since  the  velocity  of  the  negative 
+electrons  in  the  atom  is  supposedly  very  large  it  was  quite  probable  that  the 

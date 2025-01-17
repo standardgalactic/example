@@ -1,0 +1,500 @@
+a/aA  a2z  „ 
+
+dy\dx)~dxdy~*m*"*?e,y)'  The  order  in  which  we  differentiate  is  immaterial 
+
+provided  that  the  derivatives  concerned  are  continuous.  The  total  differential 
+
+of  a  function  of  two  variables,  for  example, /(*,y),  df = dff+dj = ^dx  +^dy  is 
+
+dx  dy 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  595 
+
+equal  to  the  sum  of  the  partial  differentials  of  the  first  order  if  we  neglect  terms 
+of  higher  orders,  whose  values  are  indefinitely  small  quantities  relative  to 
+
+the  first  order  differentials.  In  symbols,  df  - dj +dyf  - *n 
+
+words,  the  total  differential  of  f(xty)  is  found  by  finding  the  partial  derivatives 
+with  respect  to  x  and  y,  multiplying  them  respectively  by  dx  and  dyt  and  adding. 
+
+2.  DIFFERENTIAL  EQUATIONS 
+
+A  natural  development  of  the  invention  of  the  calculus  was  the  introduction 
+of  differential  equations.  Differential  equations  differ  from  the  ordinary 
+equations  of  mathematics  in  that  in  addition  to  variables  and  constants  they 
+contain  also  derivatives  of  one  or  more  of  the  variables  involved.  Differential 
+equations  are  of  extreme  importance,  and  arise  in  many  problems.  Newton 
+solved  his  first  differential  equation  in  1676  by  the  use  of  an  infinite  series, 
+eleven  years  after  his  discovery  of  the  calculus  in  1665.  Leibnitz  solved  his 
+first  differential  equation  in  1693,  the  year  in  which  Newton  first  published 
+his  results.  From  this  date  on,  progress  in  the  development  and  application 
+of  differential  equations  was  very  rapid,  and  today  the  subject  of  differential 
+equations  occupies  in  the  general  field  of  mathematics  a  central  position  from 
+which  important  and  useful  lines  of  development  flow  in  many  different 
+directions. 
+
+To  integrate  or  solve  a  differential  equation  means,  analytically,  to  find 
+all  the  functions  which  satisfy  the  equation.  In  geometry,  it  means  to  find  all 
+the  curves  which  have  the  property  expressed  by  the  equation.  In  mechanics 
+it  means  to  find  all  the  motions  that  may  possibly  result  from  a  given  set  of 
+forces  , .  The  degree  of  the  differential  equation  is  defined  as  the  degree  of  the 
+derivative  of  the  highest  order  which  enters  the  equation.  The  order  of  the 
+differential  equations  is  the  order  of  the  highest  derivative  it  contains. 
+
+Equations  in  x  and  y,  of  the  first  degree  in  y  and  its  derivatives  with  respect 
+to  x ,  y't  y". ,  are  called  linear  equations .  The  main  equations  of  physics  are 
+Unear  differential  equations  of  the  second  order,  since  y,  the  primitive  function, 
+/,  the  first  derivative,  and  y",  the  second  derivative,  appear  only  in  the  first 
+
+degree.  For  instance  the  equation  -f  <xi— -f  o*y =X,  or  y’*  +aiyr  +a*y  =Xf 
+
+dx2  dx 
+
+when  X  represents  a  function  of  x  alone  is  such  an  equation.  It  is  linear,  or  of 
+the  first  degree,  because  the  second  derivative,  y",  appears  only  to  the  first 
+degree.  It  is  of  the  second  order  because  that  is  the  highest  order  derivative 
+in  the  equation.  As  we  may  recall,  the  derivative  of  a  function  gives  us  the 
+rate  of  change  of  the  function  when  we  give  successive  values  to  the  independent 
+variable.  When  we  study  the  rate  of  change  of  the  rate  of  change  of  our  function, 
+we  study  the  rate  of  change  of  the  first  derivative  which  expresses  the  rate  of 
+change  of  the  function,  whence  we  obtain  the  derivative  of  the  second  order, 
+and  so  on.  If  we  equate  our  derivatives  to  zero,  or  choose  a  value  of  the  variable 
+for  which  our  derivative  becomes  zero,  the  rate  of  change  of  our  function 
+
+596  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+becomes  zero.  In  other  words,  the  value  of  our  function  is  momentarily  constant, 
+it  has  a  stationary  value. 
+
+Quite  naturally,  differential  equations  which  involve  derivatives  involve 
+implicitly  and  explicitly  the  whole  fundamental  structural  framework  of  the 
+calculus  as  explained  in  this  chapter  by  expressing  the  ‘rate  of  change’  of  some 
+natural  process.  If  the  rate  of  change  is  zero,  it  might  express  some  ‘natural 
+law*,  or  some  uniformity  as  found  in  nature.  In  other  words,  differential 
+equations  express  differential  laws,  which  in  turn  express  the  momentary  ten¬ 
+dencies  of  processes  whose  outcomes  are  given  by  the  process  of  integration. 
+
+From  what  has  already  been  said  here,  it  is  obvious  that  differential 
+equations  and  the  differential  laws  which  they  express  are  of  extreme  structural 
+importance.  They  formulate  not  only  the  uniformities  and  tendencies  found 
+in  nature,  but  also  of  necessity  somehow  involve  causality.  Besides  which, 
+they  are  also  in  accord  with  the  physical  structure  and  function  of  the  nervous 
+system.  We  shall  return  to  this  most  important  subject  in  the  next  chapter, 
+in  which  we  shall  analyse  the  physical  significance  and  aspects  of  what  has 
+been  explained  here. 
+
+3.  METHODS  OF  APPROXIMATION 
+
+In  discussing  the  above  fundamental  notions  of  the  calculus  we  considered 
+a  portion  AB ,  of  the  curve  given  by  the  equation  y=/(x),  (Fig.  13)  and  two 
+points  on  this  curve  Pi  with  co-ordinates  (*i,  yi)  and  P2  with  co-ordinates 
+
+(*2»  ?2)  moving  along  the  curve,  the 
+secant,  or  chord,  P\P%  rotates  about  Pi, 
+its  length  steadily  diminishing,  and  in 
+the  limit  as  the  length  of  the  chord  PiP2 
+tends  toward  zero,  the  slope  of  the  se¬ 
+cant  approaches  the  slope  of  the  tangent 
+PiP.  We  saw  that  the  slope  of  this  tan¬ 
+gent  was  given  by  the  value  of  the  first 
+derivative  of  the  function  which  repre¬ 
+sented  the  curve.  We  were  trying  to  get 
+some  knowledge  of  the  direction  of  our 
+curve  at  a  given  point  by  considering 
+the  slope  of  a  straight  line  of  smaller  and 
+smaller  length.  When  we  studied  the  curvature  of  our  curve  we  considered  the 
+rate  of  change  of  the  slope  of  our  tangent  and  so,  by  the  aid  of  a  second  deriva¬ 
+tive,  we  found  the  curvature.  In  this  case  we  approximated  our  curve  to  a  circle 
+of  radius  equal  to  the  radius  of  curvature  of  the  curve  at  a  given  point. 
+
+In  attempting  to  determine  the  length  of  a  portion  of  our  curve  a  point 
+cannot  be  regarded  as  a  piece  of  the  curve  but  only  as  marking  a  position  on  it. 
+For  the  purpose  of  determining  the  length  of  an  arc  it  is  convenient  to  replace 
+each  small  element  of  the  arc  by  its  chord,  a  lineal  element .  By  definition  the 
+length  of  an  arc  of  a  curve  is  the  limit,  if  such  limit  exists,  toward  which  the 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  597 
+
+aum  of  the  lengths  of  the  chords  of  its  small  subdivisions  tends  as  the  number 
+of  chords  increases  indefinitely  and  their  individual  lengths  all  approach  zero 
+uniformly.  For  example,  the  circumference  of  a  circle  is  the  limit  approached 
+by  the  perimeter  of  an  inscribed  polygon  as  the  number  of  its  sides  increases 
+Indefinitely,  the  lengths  of  the  individual  sides  all  approaching  zero. 
+
+Similarly  the  length  of  a  curve  may  be  approximated  by  the  sum  of  the 
+lengths  of  segments  of  tangents  at  successive  arbitrarily  chosen  points,  merely 
+by  choosing  the  points  nearer  and  nearer  together.  For  example,  the  circum¬ 
+ference  of  a  circle  is  the  limit  approached  by  the  perimeter  of  a  circumscribed 
+polygon  as  the  number  of  its  sides  increases  indefinitely,  the  lengths  of  the 
+individual  sides  all  approaching  zero.  In  either  case,  a  point  on  a  curve  taken 
+with  a  vanishingly  small  portion  of  the  tangent  to  the  curve  at  that  point  may 
+be  called  the  lineal  element  of  the  curve. 
+
+The  above  definitions  apply  equally  well  in  either  two  or  three  dimensions. 
+The  lineal  element  in  two  dimensions  may  be  defined  by  three  co-ordinates  x , 
+yt  pt  0f  which  x  and  y  are  the  co-ordinates  of  the  point  through  which  the  lineal 
+element  passes  and  p  is  the  slope  of  the  element.  This  slope,  as  we  already 
+know,  is  to  be  found  by  differentiation,  and  is  given  by  the  formula  p  =dy/dx. 
+In  geometrical  problems  which  relate  the  slope  of  a  tangent  to  that  of  other 
+lines,  it  is  not  the  tangent  that  is  of  real  importance  but  the  lineal  element. 
+From  this  point  of  view  a  curve  is  made  up  of  infinite  numbers  of  vanishingly 
+small  lineal  elements  which  are  tangent  to  it,  which  is  the  point  of  view  of  the 
+differential  calculus.  Or  the  curve  is  composed  of  infinite  numbers  of  vanishingly 
+small  chords  which  are  the  sides  of  an  inscribed  polygon,  which  is  the  point  of 
+view  of  the  integral  calculus. 
+
+Obviously,  in  the  limit,  both  points  of  view  are  equivalent,  although  as  a 
+matter  of  convenience  they  may  be  different.  In  any  case,  it  must  be  obvious 
+to  the  reader  that  using  straight  lines  instead  of  pieces  of  a  curve,  or  using  as 
+closer  approximations  arcs  of  circles,  facilitates  our  study  of  the  curves,  indeed 
+renders  such  study  possible  at  all,  and  in  practice  we  can  carry  our  work  to  any 
+degree  of  approximation  we  choose.  But  in  theoretical  work  we  require  pre¬ 
+cision,  hence  we  think  in  terms  of  infinite  numbers  of  vanishingly  small  steps. 
+The  differential  and  integral  calculus  supply  the  only  perfect  technique  for 
+these  processes  of  analysis  and  synthesis. 
+
+4.  PERIODIC  FUNCTIONS  AND  WAVES 
+
+We  have  already  said  that  the  most  important  relations  of  physics  are 
+represented  by  linear  differential  equations  of  the  second  order.  It  is  important 
+to  know  the  connection  of  these  equations  with  the  general  theory  of  waves 
+or  oscillations. 
+
+If  on  a  circle  of  unit  radius,  as  shown  in  Fig.  14,  we  take  several  points 
+Pi,  P2,  P3 ,  P4,  and  connect  these  points  by  straight  lines  with  the  centre  0, 
+we  get  angles  XOPu  XOP2  ,  .  In  trigonometry  we  define  certain  functions  of 
+these  angles  and  a  unit  of  measurement.  For  our  purpose  we  will  only  define 
+the  so-called  sine  and  cosine,  as  we  have  already  met  the  definition  of  tangent 
+
+598  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+tan  6 
+
+M1P1 
+
+OMi  ’  The  angles  XOPu  XOPt .  ,  may  be  specified  by  the  ratios 
+
+MiPi/OPi,  MtPt/OP'i .  ,  respectively  each  of  which  ratios  has  a  definite  value. 
+I  his  ratio  m  any  case  is  called  the  sine  of  the  angle,  and  is  written  in  abbreviated 
+form  sin  0.  If  the  radius  of  our  circle  is  taken  as  unity  then  simply  MiP1  - 
+
+8inCe  0Pl~l-  The  ratio  OM1/OPl  is  called  the  cosine 
+of  the  angle  XOP\,  and  is  written  cos  0. 
+
+Y 
+
+There  are  two  units  of  measurement  of  angles.  In  ordinary,  or  Bevagaa.’moi 
+measure,  the  unit  angle  is  the  degree,  1/360  of  the  entire  angle  about  a  point! 
+1/180  of  a  straight  angle,  or  1/90  of  a  right  angle.  The  degree  is  divided  into 
+60  equal  parts  called  minutes.  The  minute  is  divided  into  60  parts  called 
+seconds.  In  circular  measure  the  unit  angle  is  the  radian,  the  an£l»  at  the 
+centre  of  a  circle  whose  arc  is  equal  to  the  radius  of  the  circle.  This  angle  is 
+a  constant  whether  the  circle  be  large  or  small,  due  to  the  fact  that  the  cir¬ 
+cumferences  of  circles  vary  as  their  radii,  and,  in  one  circle,  angles  at  the  centre 
+are  proportional  to  their  arcs.  The  constant  ratio  of  the  circumference  of  the 
+circle  to  its  radius  is  given  by  the  number  it  =3.14159  ....  this  number  being 
+‘incommensurable’  with  unity.  As  the  length  of  the  circumference  of  a  circle 
+with  radius  R,  is  2  t  R  we  see  that  the  entire  angle  about  the  centre,  which  in 
+degrees  is  360,  is  in  radians  2  x;  that  a  straight  angle  equals  180  degrees  or  x 
+
+radians;  and  that  a 
+Thus  1  radian 
+
+right  angle  equals  90  degrees  or  -  radians. 
+
+180° 
+
+=57°17'44".  806 . . .  which,  as  it  depends  on  the  value 
+
+of  x,  is  itself  an  'irrational'  number.  The  ‘incommensurability'  of  the  radian 
+with  right  and  straight  angles  makes  its  practical  use  inconvenient.  One  of 
+the  mam  uses  of  the  radian  is  in  theory  as  it  introduces  a  marked  simplification 
+in  that  the  ratio  of  the  sine  of  an  indefinitely  small  angle  to  the  angle  itself  is  1, 
+when  riie  angle  is  measured  in  radians.  In  other  words,  the  equivalence  of  an 
+indefinitely  small  arc  and  chord  becomes  apparent  numerically  when  the  angle 
+and  sine  are  expressed  in  one  unit. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  599 
+
+The  following  table  gives  the  ordinary  and  radian  measures,  the  sine, 
+cosine  and  tangent  of  angles  of  0,  1,  2,  3,  and  4  right  angles. 
+
+Angle  in 
+Right  Angles 
+
+Angle  in 
+Degrees 
+
+Angle  in 
+Radians 
+
+Sine 
+
+Cosine 
+
+Tangent 
+
+r/2 
+
+=fcoo 
+
+T 
+
+-1 
+
+St/2 
+
+-1 
+
+=F00 
+
+2* 
+
+From  Fig.  14  and  from  this  table,  it  follows  that  the  values  of  the  trigono¬ 
+metric  functions  are  equal  for  the  angles  0  and  2ir,  or  in  the  language  of  degrees, 
+for  the  angles  0°  and  360°.  We  see  also  from  Fig.  14  that  the  angle  XOPu  or 
+any  other  angle,  has  one  measure  as  expressed  by  its  trigonometric  functions 
+if  we  add  to  it  360°  or  2ir  radians. 
+
+The  structural  importance  of  the  trigonometric  functions  in  analysis  lies 
+in  the  fact  that  they  are  the  simplest  singly  periodic  functions  and  are  therefore 
+adapted  for  the  representation  of  undulations.  As  we  have  already  seen  the 
+sine  and  cosine  have  the  single  real  period  2tt,  which  means  that  they  are  not 
+altered  in  value  by  the  addition  of  2ir  to  the  variable.  The  tangent  has  the 
+period  tt. 
+
+Besides  the  three  functions  defined  above,  we  usually  define  three  others, 
+the  secant,  the  cosecant  and  the  cotangent  as  reciprocals  respectively  of  the 
+cosine,  the  sine,  and  the  tangent.  These  last  three  we  may  disregard  in  our 
+present  discussion. 
+
+Let  us  consider  the  function  y~sin  *,  and  construct  the  curve  which  this 
+equation  represents.  If  we  draw  a  circle  of  unit  radius,  Fig.  14,  the  ordinates 
+corresponding  to  the  different  angles  XOPu  XOPu .  ,  give  the  values  of  y, 
+while  the  angles  measured  in  radians,  give  the  corresponding  values  of  the 
+abscissa  x. 
+
+Plotting  corresponding  values  of  x  and  y  as  thus  obtained  in  Fig.  14  we 
+get  in  Fig.  15  the  partial  graph  of  the  function  y  =  sin  Proceeding  again 
+around  our  circle  in  Fig.  14,  that  is,  adding  360°  or  2ir,  to  each  of  our  angles, 
+hence  to  their  abscissas  of  the  curve  in  Fig.  15,  we  add  to  the  graph  a  second 
+complete  wave.  We  may  thus  proceed  either  forward  or  backward  obtaining 
+as  many  complete  waves,  or  undulations,  as  we  please,  as  in  Fig.  16. 
+
+The  curve  represented  by  y  =  cos  *  is  obtained  in  like  manner  and  is  quite 
+similar  to  the  sine  curve.  (See  Fig.  17.) 
+
+To  differentiate  sin  x  we  give  to  x  the  arbitrary  values  xu  and  xx+Ax  and 
+compute  for  y  the  corresponding  values  yi  = sin  x\  and  yi+Ay  =sin  (xi+Axh 
+
+600  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+y  =sin  x 
+
+Fig.  16 
+
+Fig.  17 
+
+Subtracting  yx  from  yx  -f  Ay,  we  have  *Ay  =  sin  (xx  +Ax)  -sin  xv  Dividing 
+
+by  Ax  we  have  Ay/Ar  -  —  ^Xl  ~~s*n  xi 
+
+Ax 
+
+To  express  the  meaning  of  the  above  geometrically  we  may  take  a  circle 
+of  unit  radius  and  construct  the  angles  Xi  and  (xx+Ax),  (Fig.  18).  Then 
+MiP1  -sin  xu  M2P%  -sin  (xx  +Ax),  QPt  =sin  (xx  +Ax)  -sin  xx  -  Ay,  and  arc 
+P\P%  -  jCPiPi  -  Ax. 
+
+The  limit  approached  by  the  ratio  Ay /Ax  =QP2/P\P2  as  P2->  Pi  or 
+as  Ax-+  0,  is  by  previous  definitions  the  sine  of  the  angle  MtPtPi,  since  in  the 
+/imtf  the  arc  PtP,  becomes  a  straight  line,  the  hypotenuse  of  the  right  triangle 
+PiQPt,  which  is  similar  to  the  righ  t  triangle  PxMvO,  whence  angle  ZMlPiP1  =  Zxu 
+
+In  other  words,  lim  —  =  lim  ; 
+
+Ax— »0  Ax  Ax~+Q  PXP2  Op ,  C°S  *’  °r  Sln  X  COS  X • 
+
+in  other  woixis,  lim  ^-Hm  l=cosx  orD 
+
+Ax-tO  Ax  Ax~*Q  PyP2  QPX  COS  *’  °r  Sin  x  COS  X' 
+
+T  ^  may  be  easily  and  similarly  shown 
+
+s.  \  that  Dx  cos  x  =  -sin  x.  Our  main 
+
+\  interest  is  in  the  second  derivative. 
+
+j^y\/  We  see  that  the  derivative  of  sin  x  is 
+
+cos  x,  and  that  the  derivative  of 
+yr  j  ^  cos  x  is  —sin  x. 
+
+f  Differentiating  again  we  obtain 
+
+^ \  tbe  second  derivative  of  sin  x  as 
+
+y0^0000^  j  j  W  —sin  x,  and  the  second  derivative  of 
+
+j  j  \T*  cos  x  as  -cos  x. 
+
+j  |  j  The  sine  and  cosine  and  their 
+
+- M-"  M  *  linear  combinations  are  the  only  func- 
+
+Fig.  18  Z  *  tions  which  when  differentiated  twice 
+
+c  .  ,  .  ,  give  us  the  second  differential  coef- 
+
+ficient  equal  and  of  opposite  sign  to  the  original  function.  In  symbols 
+
+^(sin  x)  ,  ,  d2(cos  x) 
+
+- -  sin  x;  and 
+
+—  —cos  x. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  601 
+
+In  physics  we  deal  with  many  processes  which  are  structurally  periodic,  which 
+means  that  a  definite  physical  condition  constantly  recurs  after  equal  intervals 
+of  ‘time*.  The  number  of  seconds  or  fractions  of  seconds  within  which  the 
+process  runs  its  course  is  called  the  period.  We  know  already  that  the  simplest 
+periodic  functions  are  sine  and  cosine  functions  of  the  type 
+
+sin  (x+2 me)  =sin  x ,  and 
+
+cos  (x+2«ir)  =  cos  x,  where  n  may  have  any  in¬ 
+tegral  value.  Furthermore  we  have  already  seen  that  the  first  derivatives, 
+therefore  all  derivatives  of  such  functions  are  likewise  simple  sine  and  cosine 
+functions.  In  particular,  the  second  derivatives  of  the  sine  and  cosine  functions 
+are  likewise  sine  and  cosine  functions  taken  with  the  opposite  algebraic  sign. 
+
+If  we  express  the  variability  of  a  process  as  a  function  of  ‘time’,  that  is, 
+by  an  equation  of  the  form  S  -  F(t)7  then  in  a  periodic  process,  F(h  +nT)  =  F(h)7 
+where  T  is  the  period  and  n  any  integer.  If  the  process  repeats  itself,  as  in  a 
+periodic  process,  we  must  have 
+
+dF  I  dF  I  .  &F  I  d2F 
+
+—  1  =  —  1  ana  —~r  ~  •  * 
+
+dt  |twi+nr  dt  jfwi  dt 
+
+but,  as  we  have  already  seen,  the  sine  and  cosine  functions  satisfy  these 
+conditions. 
+
+2  T$ 
+
+A  process  which  can  be  described  by  an  equation  of  the  type  S  *=A  sin  -y 
+
+is  called  a  harmonic  vibration  or,  a  ‘pure  sine  vibration*,  or  simply  a  ‘vibration* 
+or  ‘oscillation*.  The  constant  A ,  which  represents  the  maximum  value  of  the 
+displacement  on  either  side,  is  called  the  amplitude.  The  period  T  is  called 
+the  ‘time  of  vibration*,  its  reciprocal  value  which  gives  the  number  of  vibrations 
+in  a  unit  of  ‘time*  is  called  the  vibration  number  or  frequency. 
+
+As  the  second  derivatives  of  sine  and  cosine  functions  are  equal  to  the 
+original  functions  taken  with  the  opposite  signs,  we  can  describe  harmonic 
+vibrations  by  differential  equations  of  the  first  degree  (linear)  and  of  the  second 
+j2  c  dirt 
+
+order  of  the  special  type  — -  =  —a2Sf  where  S  =A  sin  — +«),  A  representing 
+dr  J 
+
+the  amplitude,  T  the  period,  €  the  phase  of  the  vibration.  The  factor  of  propor¬ 
+tionality  a  is  taken  as  the  square  of  any  arbitrary  real  quantity  to  indicate 
+that  the  right-hand  side  must  always  have  the  opposite  sign  to  that  of  5. 
+
+The  propagation  of  a  vibration  is  called  an  advancing  plane  wave  which 
+has  both  velocity  and  direction. 
+
+Fourier  has  shown  that  any  given  form  of  wave  may  be  represented  by 
+the  superposition  of  a  series  of  sine-waves,  which  gives  sine-waves  great 
+theoretical  and  practical  importance. 
+
+In  writing  this  chapter  I  had  two  main  aims.  One  was  to  briefly  indicate 
+the  essential  semantic  factors  involved  in  the  differential  methods.  The  other, 
+to  make  the  general  reader  and  even  specialists  who  are  not  mathematicians 
+acquainted  with  some  terms  and  rudiments  of  method  which  will  be  necessary 
+for  further  discussion. 
+
+602  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+The  differential  methods  involve  semantic  factors  essential  for  a  ^-system, 
+the  oo-valued  semantics  of  probability  and  for  sanity  and  cannot  be  longer 
+disregarded. 
+
+The  main  pressing  issues  are  twofold.  One,  to  formulate  methods  which 
+would  impart  the  A  semantic  reactions  of  the  calculus,  which  need  not  involve 
+any  technicalities,  and  can  be  imparted  in  the  most  elementary  home  or  school 
+education.  The  other  is  to  draw  the  attention  of  specialists  to  these  semantic 
+problems  so  that  they  will  work  them  out. 
+
+An  attempt  to  solve  the  first  issue  has  been  undertaken  in  the  present 
+volume.  The  second  task  will  probably  be  accomplished  in  the  not  too 
+distant  future. 
+
+It  is  earnestly  suggested  to  all  scientists,  professional  men  and  teachers, 
+who  are  not  mathematicians,  to  become  familiar  with  differential  methods 
+and  so  acquire  the  appropriate  semantic  reactions.  Experience,  in  many  cases, 
+has  shown  that  this  will  assist  them  in  acquiring  semantic  balance  and  'mental* 
+efficiency.  Teachers  and  physicians  in  particular,  would  be  greatly  helped  in 
+their  efforts  to  train  children  and  patients  in  the  A  reactions.  The  benefit 
+is  not  in  any  'calculations'  whatsoever,  but  in  the  method  and  the  related 
+psycho-logical  reactions. 
+
+There  is  an  excellent,  short,  most  elementary  and  amusing  account  of 
+the  calculus  by  Sylvanus  P.  Thompson  Calculus  Made  Easy  (Macmillan)  which, 
+for  the  present,  is  all  that  is  needed  for  this  purpose. 
+
+CHAPTER  XXXIII 
+
+ON  LINEARITY 
+
+The  conception  of  linear  transformation  thus  plays  the  same  part  in 
+affine  geometry  as  congruence  plays  in  general  geometry;  hence  its  funda¬ 
+mental  importance*  <547)  Hermann  weyl 
+
+It  is  instructive  to  compare  the  mathematical  apparatus  of  quantum 
+theory  with  that  of  the  theory  of  relativity.  In  both  cases  there  is  an  ap¬ 
+plication  of  the  theory  of  linear  algebras.  <2is>  w.  Heisenberg 
+
+This  “perturbation  theory"  is  the  complete  counterpart  of  that  of  clas¬ 
+sical  mechanics,  except  that  it  is  simpler  because  in  undulatory  mechanics 
+we  are  always  in  the  domain  of  linear  relations.  (466)  E.  schr6dinger 
+
+As  a  result  of  experimental  research  on  association,  in  1904,  I  was  led 
+to  show  the  complexity  of  the  factors  governing  evocation.  . .  .  And  I 
+have  often  insisted  since  then  on  this  essential  idea,  in  opposition  to  the 
+simple  schema  of  linear  associative  connection.  (411)  henri  fieron 
+
+We  have  already  had  several  occasions  to  mention  the  *plus’  or  additive 
+issues  as  connected  with  linearity.  This  problem  is  of  structural  and  linguistic 
+as  well  as  empirical  and  psycho-logical  semantic  importance.  It  is  sufficient 
+for  our  purpose  at  present  that  we  should  notice  two  facts;  namely,  (1)  That 
+in  one  dimension,  linearity  expresses  the  relation  of  proportionality;  (2)  That 
+the  problems  of  linearity  are  dependent  on  the  relation  of  additivity. 
+
+The  structural  notion  of  additivity  is  of  great  antiquity.  Being  the 
+simplest  of  such  notions,  it  naturally  originated  very  early  in  our  history.  The 
+earliest  records  show  *hat  the  Babylonians  and  the  Egyptians  used  the  additive 
+principle  in  their  notation.  Our  primitive  ancestors,  long  before  any  records 
+were  written,  had  similar  structural  conditions  present,  open  for  investigation 
+and  reflection,  that  we  have  today.  That  this  was  the  case  is  not  a  mere  guess. 
+Otherwise  we  would  still  be  at  their  stage  of  development.  Some  beginning 
+had  to  be  made  somewhere.  There  is  little  doubt  that  the  men  of  remote 
+antiquity  presented  many  types  of  make-up,  as  we  do  today.  Some,  for  instance, 
+were  more  curious  than  others;  some  more  inventive,  some  more  reflective . , 
+which,  as  we  know  today,  is  found  even  among  animals.  These  more  gifted 
+individuals  were,  as  usual,  the  inventors,  discoverers,  and  builders  of  systems 
+and  language  of  their  period.  They  could  not  long  fail  to  recognize  the  fact 
+that  a  stone  and  a  stone,  or  a  fruit  and  a  fruit  are  different  from  one  stone  or 
+one  fruit.  For  instance,  the  two  stones  might  have  saved  the  early  observer’s 
+life  in  defence,  or  the  two  fruits  might  have  satisfied  his  hunger  or  thirst,  where 
+one  would  not  have  done  so.  An  accumulation  of  objects  was  obviously  some¬ 
+how  different  from  a  single  object.  As  these  problems  were  often  of  vital 
+importance  to  their  lives,  names  for  such  accumulations  of  objects  began  to 
+be  invented,  and  one  and  one  was  called  two,  two  and  one  was  called  three  , . 
+Number  and  mathematics  were  born  as  a  structural  semantic  life-necessity 

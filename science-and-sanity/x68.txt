@@ -1,0 +1,500 @@
+
+604  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+for  a  time-binding  class  of  life.  They  were  an  expression  of  the  neurological 
+structure  and  function  and  of  the  tendency  toward  induction. 
+
+In  the  beginning,  names  and  generalizations  were  made  from  the  simplest 
+brute  facts  of  life,  and  our  primitive  ancestors  did  not  realize,  that  these  crude 
+generalizations  might  not  have  a  structural  validity,  which  they  seldom  doubted 
+that  they  possessed,  even  as  we  today,  seldom  doubt.  Those  primitive 
+scientists,  (and  we  today  differ  very  little  from  them),  having  produced  terms , 
+objectified  them,  and  began  to  speculate  about  them.  Let  us  examine  some 
+examples  of  such  primitive  mathematical  speculations.  Addition,  of  course, 
+by  which  we  generate  numbers , — one  and  one  make  two,  two  and  one  make 
+three .  ,  was  all-important.  They  could  not  miss  the  simple  fact  that  three, 
+which  is  equal  to  two  and  one,  by  definition,  is  more  than  two  or  one.  A  primi¬ 
+tive  generalization;  namely,  that  the  sum  is  always  more  than  the  summands 
+taken  separately,  was  still  further  generalized  to  a  postulate  that  a  part  is 
+smaller  than  the  whole.  This  generalization  has  hampered  mathematics  almost 
+up  to  our  own  day,  and  for  many  thousands  of  years  it  prevented  the  discovery 
+of  the  notion  of  mathematical  infinity,  which  we  have  already  discussed  in 
+Chapter  XIV. 
+
+It  must  be  noticed  that  such  generalizations  involve  s.r ,  which  are  objective 
+and  un-speakable.  If  verbally  formulated  they  should  have  a  structure  similar 
+to  that  of  the  facts,  otherwise  they  are  fanciful  and  vicious,  because  not  properly 
+formulated.  When  formulated  they  become  public  structural  facts  ( s.r  are 
+personal,  individual,  non-transmittable,  and  un-speakable)  and  so  they  may  be 
+criticized,  improved,  revised,  rejected  , .  All  human  history  shows  that  the 
+correct  structural  formulation  of  a  problem  is  usually  as  good  as  the  solution 
+of  it,  because  sooner  or  later  a  solution  always  follows  a  formulation. 
+
+After  many  thousands  of  years — in  fact,  practically  only  the  other  day — it 
+was  found  that  these  primitive  generalizations  were  in  general  not  valid. 
+Negative  numbers  were  invented,  and  two  plus  minus-one  was  no  more 
+three  but  one,  2  -h(  —  1)  =  L  The  sum  was  no  longer  greater  than  its  summands. 
+The  usual  tragedy  takes  place  here  also.  A  few  people  know  the  facts,  but  the 
+old  primitive  structural  s.r  remain  in  some  of  these  few,  as  well  as  in  the  great 
+majority  of  us  who  did  not  even  know  the  facts.  That  such  structural  s.r  do 
+not  vanish  quickly,  or  generally,  is  proven  again  and  again  throughout  history. 
+We  see  it  very  clearly  in  the  problems  of  'infinity',  or  £  geometries,  or  pf 
+physics.  But  the  most  pathetic  sight  is  to  see  scientists  who  have  rationalized 
+the  technique  without  a  deeper  re-education  of  their  s.r.  This  is  most  clearly 
+seen  in  the  case  of  many  writers  on  the  foundations  of  mathematics,  the  Einstein 
+theory  or  on  the  newer  quantum  mechanics.  They  feel  in  the  old  structural 
+way,  they  rationalize  in  the  new,  hence  their  works  are  full  of  self-contradictions. 
+Readers  and  students  alike  feel  how  ‘difficult*  and  messy  the  whole  subject  is. 
+As  a  matter  of  fact,  the  new  theories  are  neither  messy  nor  difficult.  They  are 
+really  much  simpler  and  easier  than  the  old  theories,  provided  our  structural  s.r 
+are  purged  of  the  primitive  structural  tendencies  to  which  every  one  of  us  is 
+heir.  When  this  semantic  re-education  of  our  structural  feelings  is  accomplished 
+
+ON  LINEARITY 
+
+It  is  the  old  that  becomes  ‘unthinkable’  and  incomprehensible,  because  it  gives 
+•uch  a  structural  mess. 
+
+Something  similar  might  be  said  about  a  feeling  deep-rooted  in  all  of  us 
+namely,  the  ‘plus’  feeling.  In  all  the  advances  of  science  we  struggle  against  it. 
+For  instance,  the  example  of  the  green  man-made  leaf  given  previously  shows 
+clearly  that  man-made  affairs  may  with  some  plausibility  be  considered  as 
+‘plus’  affairs,  but  not  so  with  non-man-made  natural  leaves,  which  appear 
+not  as  ‘plus’,  but  functional  affairs,  where  the  greenness  was  structurally  not 
+added  but  happened,  or  became.  As  a  structural  fact,  the  world  around  us  is 
+not  a  ‘plus’  affair,  and  requires  a  functional  representation.  In  chemistry,  for 
+instance,  does  hydrogen  ‘plus’  oxygen  produce  water,  H2O?  If  we  mix  the 
+two  gases,  two  parts  of  hydrogen  with  one  of  oxygen  we  do  not  get  water. 
+We  must  first  pass  a  spark  through  the  mixture,  when  an  explosion  occurs 
+and  the  result  becomes  water,  a  new  compound  quite  different  from  its  elements 
+or  from  a  mere  mixture  of  them.  Does  one  gallon  of  water  and  one  gallon  of 
+alcohol  make  two  gallons  of  a  mixture?  No,  it  makes  less  than  two  gallons. 
+Does  light  added  to  light  make  more  light?  Not  always.  The  phenomena  of 
+interference  show  clearly  that  light  ‘added’  to  light  sometimes  makes  darkness. 
+Four  atoms  of  hydrogen,  of  atomic  weight  1.008,  produce,  under  proper  con¬ 
+ditions,  one  atom  of  helium,  not  of  atomic  weight  4.032,  but  of  atomic  weight  4. 
+The  0.032  has  somehow  mysteriously  vanished.  Such  examples  could  be  quoted 
+endlessly.  They  show  unmistakably  that  structurally  this  world  is  not  a  ‘plus’ 
+affair,  but  that  other  than  additive  principles  must  be  looked  for. 
+
+The  struggle  against  this  ‘plus’  feeling  is  quite  evident,  but  often  unsuc¬ 
+cessful,  in  scientific  literature.  Man  ‘is’  an  animal  ‘plus*  something.  Life  ‘is’ 
+‘dead  matter’,  ‘plus’  some  ‘vitalizing  principle’, .  In  scientific  literature  we 
+find  curious  expressions:  as  for  instance,  ‘It  is  impossible  to  express  the  conduct 
+of  a  whole  animal  as  the  algebraic  sum  of  the  reflexes  of  its  isolated  segments’ ; 
+or,  ‘The  individual  represents  heredity  plus  environment’;  or,  ‘That  the 
+abstraction  does  not  merely  take  away  from  a  number  of  engrain  groups  some 
+components  and  combine  the  rest  into  one  sum,  but  forms  thereby  a  new  psychic 
+Structure  is  self  evident  and  is  in  no  way  peculiar  to  the  psyche.  Thus  a  clock 
+work  is  as  little  the  mere  sum  of  its  little  wheels  as  a  human  being  is  the  sum 
+of  his  cells  and  molecules’;  and  later  on,  ‘to  be  exact  the  ego  consists  of  the 
+engrams  of  all  our  experiences  plus  the  actual  psychism’.  There  is  endless 
+material  that  might  be  quoted,  but  for  our  purpose  these  few  samples  will 
+suffice.  We  do  not  give  them  with  the  purpose  of  citing  authoritative  examples 
+of  the  need  of  non-plus  considerations.  Far  from  it.  We  do  it  to  emphasize 
+the  astounding  fact  that,  although  the  best  men  in  their  fields  have  vaguely  felt 
+this  necessity,  yet  even  they  become  a  prey  to  this  very  old  structural  linguistic 
+semantic  tendency.  In  all  three  cases  quoted  the  authors  were  of  the  best 
+we  have.  They  have  fought  all  their  lives  against  the  ‘plus’  tendency  and 
+methods;  and  yet,  if  they  succeed  in  eliminating  this  tendency  from  one  part 
+of  their  subject,  they  plant  it  quite  obviously  somewhere  else.  We  see  that 
+
+VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+k  7“^  an  lngrain-ed  Psycho-logical  tendency  which  can  be 
+remedied  only  by  a  fundamental,  A,  structural,  semantic  investigation. 
+
+Let  us  analyse  these  quotations.  In  the  second  case,  we  hear  after  a 
+
+he^dSU,W«  °"  ^  te"deTnCieS’  3  8tatement  that  *e  ‘individual  represents 
+heredity  plus  environment'.  Is  this  statement  true?  JLet  us  take  examples 
+
+There  are  certain  fishes  which  are  heliotropic  and  swim  toward  the  light  Pbut 
+if  we  change  the  temperature  of  the  water  they  become  negatively  hefiotropic 
+and  swim  away  from  the  light.  Is  this  most  complex  activhy  of  the  oi^anZ- 
+^ma;Wfh0lf  a  P'^  cnvnonmenf  fact,  or  does  the  change  of  temperature  produce 
+some  fundamental  functional  changes?  When,  for  instance,  a  good  mother  rat 
+
+SfTme  m"  T  00  "  diffrnt  th°Ugh  8tiU  abundant  die‘>  -hich  is  depriS 
+aL^  a  “  am°Unt  °{  speaal  vitarains-  begins  to  eat  her  litters,  Ts  this 
+PUS  TfTZ  °T  “  il  3  mosf  complex  functional  change  of  the 
+organism-as-a-whole?  Or  when  a  human  being,  because  he  received  in  childhood 
+an  emotional'  shock  through  outside  events  (action  or  language  of  parkT 
+for  instance)  develops  a  functional  disorder,  or  even  a  physiol  ailment  is  tht 
+again  a  'plus  environment'  problem?  Or,  when  chickens  fed  on  eggs  iaid  by 
+ens  kept  without  sunlight  or  violet  rays,  or  which  have  only  received  sunlight 
+through  a  glass  window,  develop  rickets  and  soon  die,  though  they  do  not 
+do  so  when  the  glass  windows  are  removed  and  the  sunlight  is  allowed  to 
+operate  ra  y  upon  the  hens.  Is  this  again  a  ‘plus  environment’  example? 
+
+t,Vk?  S  ^  t°T  make  two  ‘Smiths’,  as  far  as  theatre  or  railway 
+
+tictets  are  concerned,  but  in  life,  under  proper  conditions,  they  form  a  famfly 
+
+and  very  often  many  more  than  two  ‘Smiths’  come  out  of  such  ‘addition’ 
+
+”°v:  atU  ntflhelr  IS  h  3  ^  SUm?  In  the  °f  -ventors  who  may 
+
+have  been  influenced  by  one  or  many  men  directly  or  indirectly,  do  their  invent 
+
+tions  produce  a  sum  of  the  work  of  as  many  men?  Surely  the  steam  engine  or 
+the  dynamo  produces  more  work  than  not  only  the  inventors,  but  the  series 
+
+inventor  “en  ^  been  ‘“Meetly  responsible  for  the  inspiration  of  the 
+inventors,  could  ever  have  produced.  So  again  it  is  not  a  ‘plus’  affair. 
+
+8  the  third  case  we  see  the  author  attacking  the  ‘plus’  tendency  on  one 
+
+tome  ohtSngr?  ,  PlU-’  *  fCW  PagCS  further  0n’  which  ™PIi  Jat  once 
+ft'1™™1  entity.  In  this  respect  it  must  be  noticed  that 
+this^nddilire  tendency  represents  a  partial  and  important  structural  and 
+semantic  mechanism  of  identification,  and  to  deal  successfully  with  it,  we  must 
+clear  up  the  problem  connected  with  the  additive  tendency 
+
+The  numberless  and  endless  ‘philosophical’  volumes,  for  instance  which 
+
+torn!  iT  Wrltt!n  ab°Ut  tHe  ‘b°dy'sou1’  P^lems,  show  the  tremendous  struc- 
+S  Thr™?  C  “portnnee  of  the  clearing  up  of  this  ‘plus’  versus  ^non-plus’ 
+
+mH  l  ?  may  feCa11  that  the  A,theE,  and  the  N  systems  have  one 
+underlying  structural  metaphysics.  The  E  systems  deal  with  non-linear 
+equarions  and  with  curved  lines,  of  which  the  linear  equation  and  the  straight 
+me.  (one  of  zero  curvature),  are  only  particular  cases.  And  the  general  theory 
+of  Einstein  which  is  the  foundation  of  N  systems,  also  introduces  non-linelr 
+equations.  Ought  we  to  be  surprised  to  find  that  a  ^-system  must  also  solve 
+
+ON  LINEARITY 
+
+this  difficult  structural  and  semantic  problem  of  linearity  versus  non-linearity, 
+of  additivity  versus  non-additivity? 
+
+Indeed  the  problems  demanding  our  attention  are  extremely  baffling  and 
+difficult.  Even  in  such  a  perfected  science  as  physics,  we  have  great  difficulties 
+in  using  non-linear  equations,  and  are  still  at  the  stage  where  we  solve  few 
+equations  other  than  linear  ones.  To  make  any  progress  at  all  we  must  start 
+with  the  simplest  available  problems  in  this  field;  namely,  mathematical 
+problems.  The  main  point  at  this  stage  is  not  a  solution  of  the  problem  but  its 
+formulation.  When  formulated  and  brought  to  the  attention  of  mankind, 
+there  is  no  doubt  that  it  will  be  eventually  solved. 
+
+To  better  understand  the  additive  principle,  let  us  consider  a  group  of 
+elements,  the  individuals  of  which  we  denote  by  letters  tt,  b,  c,  d  , .  Let  us  take 
+two  or  more  of  these  elements  and  produce  a  synthesis  which  results  in  a  third 
+or  tt-th  entity.  Let  this  synthesis  be  of  such  a  nature  that  the  characteristics 
+ascribed  to  the  elements  are  also  present  in  the  resultant  synthesis,  in  other 
+words,  let  them  have  the  so-called  group  characteristic.  If  our  elements  are, 
+for  instance,  numbers,  the  new  synthesis  is  also  a  number  and  belongs  to  the 
+original  group.  We  must  notice  that  the  problem  of  order  is  important  in  the 
+formulation  of  the  additive  principle.  If  a  and  b  are  the  two  elements  the 
+synthesis  of  which  we  define,  we  must  be  clear  that  a  first  and  b  second,  or 
+b  first  and  a  second,  must  be  recognized  in  the  synthesis.  Let  us  assume  also 
+that  only  the  two  alternative  orders  a  and  b,  or  b  and  a,  are  of  importance  in 
+this  case.  The  commutative  law  asserts  that  a  plus  b  is  equal  to  b  plus  o, 
+a  s  b  +a,  which  means  that  the  two  possible  alternative  orders  give  equivalent 
+results.  We  must  notice  that  this  does  not  mean  that  order  does  not  enter 
+into  this  synthesis;  in  such  a  case  the  above  mentioned  commutative  law  would 
+make  no  assertion  at  all.  It  is  of  importance  that  order  should  be  involved  in 
+the  synthesis.  It  is  a  matter  of  indifference  only  as  far  as  equivalence  by  a 
+commutative  law  is  concerned. 
+
+We  should  notice  for  our  purpose  that  the  synthesis  has  the  ‘same'  charac¬ 
+teristics  as  the  elements  had.  In  other  words,  if  we  know  the  characteristics 
+of  the  elements  we  know  the  characteristics  of  the  result.  For  instance,  if  the 
+elements  were  numbers,  the  result  will  be  a  number,  and  no  characteristic 
+absent  in  the  elements  will  appear  in  the  result.  This  predictability  from  the 
+characteristics  of  the  elements  to  those  of  the  result  is  perhaps  one  of  the  most 
+striking  characteristics  of  additivity.  On  the  one  hand,  it  allows  us  to  foretell 
+the  future;  on  the  other  hand,  it  limits  considerably  the  applicability  of  the 
+additive  principle.  It  is  obvious  that  when  we  combine  elements,  and  the 
+results  have  new  characteristics  absent  in  the  original  elements,  the  new 
+problems  are  structurally  no  more  of  an  additive  character,  and  the  synthesis 
+must  be  different. 
+
+Only  a  few  of  the  simplest  entities  in  physics  possess  additive  character¬ 
+istics.  If  we  take,  for  instance,  'weight'  or  ‘length’  or  'time',  we  see  that  these 
+units  are  additive.  One  pound,  or  inch,  or  second,  if  added  respectively  to  one 
+pound,  or  inch,  or  second,  gives  us  two  pounds,  or  two  inches,  or  two  seconds. 
+
+608  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+Not  so,  however,  with  temperature,  or  density,  or  many  other  derived  magni¬ 
+tudes,  as  we  call  them.  If  we  have  a  body  of  temperature  of  one  degree  and 
+combine  it  with  another  body  of  equal  temperature  the  synthesis  will  not 
+have  a  temperature  of  two  degrees,  (as  in  the  case  of  weight),  but  of  one  degree. 
+This  applies  to  density , ,  two  bodies  of  density  one  each  will  not  give  us  a  body 
+of  density  two,  but  of  density  one. 
+
+Before  further  analysis  of  the  problems  of  linearity  and  additivity,  it 
+will  be  well  to  consider  a  few  definitions. 
+
+If  an  entity  u  is  changed  into  an  entity  v  by  some  process,  the  change 
+may  be  regarded  as  the  result  of  an  operation  performed  upon  u,  the  operand, 
+which  has  converted  it  into  v.  If  we  denote  the  operation  by/,  then  the  result 
+might  be  written  as  v  =Ju.  The  symbol  of  the  operation  /  is  called  the  operator . 
+We  are  familiar  with  many  such;  indeed  the  symbols  for  all  mathematical 
+operations  may  be  treated  as  operators.  So  for  instance  the  symbol  V 
+indicates  the  operation  of  extracting  the  square  root.  If  we  deal  with  a  range 
+of  values  for  a  variable  x,  what  we  have  defined  as  the  function  symbol /(x)  may 
+be  treated  as  an  operator  whose  operation  on  x  may  be  indicated  by  the 
+symbol /x.  The  operation  of  differentiation  may  be  symbolized  by  D,  the  result 
+of  whose  operation  on  the  variable  u,  Du  is  the  derivative  of  «.  The  sign  of 
+
+a 
+
+the  definite  integral  f  may  be  taken  as  indicating  an  operation  which  con- 
+b 
+
+verts  a  function  into  a  number  ,  . 
+
+It  is  important  to  know  that  many  of  the  rules  of  algebra  and  arithmetic 
+when  defined  in  this  way,  give  rise  to  a  calculus  of  operations.  The  fundamental 
+notion  in  such  a  calculus  is  that  of  a  product.  If  u  is  operated  upon  by  / 
+the  result  v  is  indicated  by  /#,  or  symbolically,  v  =fu.  If  v  in  turn  is  operated 
+upon  by  g  the  result  w  is  indicated  by  gv,  or  symbolically,  w  =gv=gfu,  whence 
+the  operation  gf  which  converts  u  directly  into  w  is  called  the  product  of  / 
+and  g.  If  this  operation  is  repeated  several  times  in  succession  the  usual  notation 
+of  powers  is  used,  for  instance  ff  fff  =/3, .  Not  applying  the  operator  at 
+all,  which  we  would  denote  by  /°,  leaves  u  unchanged,  which  we  indicate 
+symbolically  by  the  equation  f°u  ~u.  The  operator  /°  is  equivalent  to  multi¬ 
+plication  by  1,  /°-l,  whence/0  may  be  called  the  idem  operator .  We  see  also 
+that  the  law  of  indices  holds;  namely,  th efmXfn—fm+n, 
+
+For  our  purpose  we  will  analyse  only  one  special  case;  namely,  where  we 
+have  «,  v  and  u  -ftf  as  operands,  and  such  an  operator,  /,  that  /(«  +p)  — fu  +fv. 
+Expressed  in  words,  this  means  that  the  operator  applied  to  the  sum  of  the 
+two  operands  gives  a  result  equal  to  the  sum  of  the  results  of  operating  upon 
+each  operand  separately.  Such  a  special  operator  is  called  a  linear ,  or  dis¬ 
+tributive,  operator. 
+
+In  terms  of  functions  we  would  have  /(x+y)  =/(x)~b/(y)  which  may  be 
+called  a  functional  equation.  Lt  has  been  proved  that  such  a  functional  equation 
+has  one  type  of  solutions;  namely,  when  /  is  equivalent  to  a  multiplication 
+by  a  constant ,  or  fx  =  cx.  This  fact  is  of  great  importance  for  us.  Many  problems 
+in  science  are  stated  in  terms  of  variation.  For  purposes  of  analysis  a  statement 
+
+ON  LINEARITY 
+
+that  *x  varies  as  /  is  written  y  -kx,  where  k  is  called  a  factor  of  proportionality, 
+which  enables  Us  to  convert  a  statement  of  variation  into  an  equation.  If 
+y  varies  inversely  as  xf  we  write  y=k(\/x)  or  y  —  k/x.  A  multiplication  by  a 
+constant  thus  introduces  a  relation  of  proportionality,  hence  the  importance  of 
+proportionality  in  a  world  where  constants  are  present. 
+
+It  must  also  be  noticed  that  the  two  fundamental  operations  of  the  calculus 
+are  linear  without  being  equivalent  to  multiplication  by  a  constant.  These 
+are:  ‘the  derivative  of  the  sum  is  the  sum  of  the  derivatives’,  that  is, 
+P(w+v)  =*Du+Dv;  and  ‘the  integral  of  the  sum  is  the  sum  of  the  integrals', 
+that  is  J'(u+v)dx  =  J*ttdx+J'vdx.  But  as  the  fundamental  notion  of  the 
+calculus  is  to  substitute  for  a  given  function  a  linear  function,  in  other  words, 
+to  deal  with  curves  as  the  limits  of  vanishingly  small  straight  lines,  this  linearity 
+underlies  structurally  all  fundamental  assumptions  of  the  calculus,  and  one 
+might  say  with  Weyl  that  ‘one  here  uses  the  exceedingly  fruitful  mathematical 
+device  of  making  a  problem  linear  by  reverting  to  infinitely  small  quantities’.1 
+
+A  vector  is  defined  roughly  as  a  line-segment  which  has  a  definite  direction 
+and  magnitude,  and  any  quantity  which  can  be  represented  by  such  a  segment 
+is  defined  as  a  vector  quantity. 
+
+The  addition  of  vectors  is  defined  by  the  law  of  the  parallelogram,  as  in 
+the  case  of  two  forces.  It  should  be  noticed  that  because  of  this  definition  the 
+sum  of  two  vectors  differs  in  general  from  the  arithmetical  sum  of  the  lengths, 
+and  only  collinear,  or  parallel  vectors  obey  the  arithmetical  summation  law. 
+
+The  introduction  by  definition  of  mathematical  entities  which  obey  dif¬ 
+ferent  laws  from  the  usual  arithmetical  laws  is  an  important  structural  and 
+methodological  innovation.  It  gives  us  the  useful  precedent  of  defining  our 
+operations  to  suit  our  needs.  The  vector  calculus  accepted  as  the  definition  of 
+the  sum  of  two  vectors  the  law  established  experimentally  in  physics  for  the 
+sum  of  two  forces;  and  so  the  vector  calculus  from  the  beginning  was  struc¬ 
+turally  a  particularly  useful  language  in  physics.  Only  since  Einstein  has  the 
+value  and  importance  of  the  vector  calculus  for  physics  become  generally 
+appreciated. 
+
+If  we  have  two  vectors,  a  and  b,  start¬ 
+ing  from  a  common  origin  O  and  complete 
+the  parallelogram  as  in  Fig.  1,  then  the  di¬ 
+agonal  of  the  parallelogram  will  be  the  re¬ 
+quired  sum,  a+b,  by  definition .  Q 
+
+If  we  choose  two  co-initial  vectors  of 
+unit  length,  one  on  the  X  axis,  and  the  other 
+on  the  Y  axis,  and  call  them  I  and  j,  we  can 
+always  represent  any  vector  x  as  the  sum  of  Fig.  1 
+
+two  vectors,  one  of  which  is  the  projection 
+
+of  x  on  the  X  axis,  and  the  other  the  projection  of  x  on  the  Y  axis.  (See  Fig.  2.) 
+Let  us  call  these  vectors  x'  and  x"  respectively.  Then  x  =x'  +  x",  by  definition. 
+But  X'  differs  from  i  in  length  only,  hence  it  can  be  obtained  by  multiplying  1  by 
+
+610  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+an  appropriate  number,  say  a.  Similarly,  x"  can  be  obtained  from  j  by  multi¬ 
+plying  j  by  bf  and  so,  in  symbols,  x'  =ai,  x"  =b},  and  x  =ai+6j.  All  vectors 
+
+of  the  plane  can  be  obtained  from  i  and  j  in  this 
+Y  form.  The  numbers  a  and  b  are  called  com¬ 
+
+ponents  of  x. 
+
+Now  that  we  know  how  to  express  a  vector 
+in  terms  of  its  components;  namely,  x=ai+6j, 
+let  us  consider  a  vector  function /(x)  which  satis¬ 
+fies  the  equation  /(x-f-y)  =/(x)  +/(y).  We  may 
+take  ai  =x  and  b\  =y  and  x+y  =z  then  we  have 
+/(z)  =/(x+y)  =/(ai)+/(&j).  But  since  a  and  b 
+are  numbers,  we  have  /(ai)  =a/(i),  and  likewise, 
+f{bj)  ~bf( j);  so  that/(z)  -a/(i)  +&/(]).  But /(l)  is  itself  a  vector  and  therefore 
+expressible  in  the  form  a'i+6'j,  and,  /(j)  =ci+dj.  Hence,  /( z)  =a(a'i+6'j)-|- 
+fc(d+dj)  =(aa'+&c)i+(a&'+6d)j.  In  general,  the  components  are  the  co¬ 
+efficients  accompanying  i  and  j,  and  so  we  have  the  components  of  /(z)  — /(x  +y) 
+in  terms  of  the  components  of  z;  and  we  see  how  the  components  of  a  vector 
+are  changed  into  the  components  of  the  linear  vector  function  of  the  vector. 
+
+In  general  terms,  a  continuous  vector  function  of  a  vector  is  said  to  be 
+a  linear  vector  function  when  the  function  of  the  sum  of  any  two  vectors  is 
+the  sum  of  the  functions  of  those  vectors;  that  is,  the  function  /  is  linear  if 
+/( ri  +r2)  =/( ri)  +/(r2),  whence,  if  a  be  any  positive  or  negative  number  and 
+if  /  be  a  linear  function  then  the  function  of  a  times  r  is  a  times  the  function 
+of  r;  f(at)  ~a/(r). 
+
+Linear  vector  operators  are  also  defined  by  a  similar  equation;  namely, 
+L(a+b)  =Za-fLb. 
+
+Let  us  recapitulate.  If  we  take  the  functional  equation  f(x+y)  =f(x)  +/(y), 
+which  might  be  used  as  a  definition  of  linearity ,  and  which  is  based  on  additivity , 
+and  take  x  =y  =  1,  then  we  have  /(I  +1)  =/(2)  and  also /(l)  +/(1)  -2/(1) ;  and 
+so  our  original  equation  becomes  by  substitution  /(2)=2/(l).  It  is  obvious 
+that  the  original  equation, /(x+y)  —f(x)  +f(y),  is  the  source  of  indefinitely  many 
+such  relations  for  particular  numbers.  For  instance,  /(3)  =/(2+l)  =/(2)  4*/(l); 
+but,  in  accordance  with  what  we  obtained  before,  /(2)=2/(l);  so  that 
+/(3)  =2/(1)  +/(1)  =3/(1),  and  in  general,  f(x)  =x/(l).  So,  if  we  have  an  equation 
+f(x+y)  =/(x)  +/(y)  for  numbers,  we  know  that  we  can  obtain  the  value  of  this 
+function  for  any  x  if  we  know  it  for  1.  If  we  denote  the  function  of  1,  which 
+is  a  constant ,  by  /( 1)  =k,  we  have  the  general  form  of  the  function  which 
+satisfied  f(x+y)=f(x)+f(y)  expressed  by  f(x)  —kx.  In  words,  a  functional 
+equation  of  the  above  type;  namely,  a  function  of  the  sum  equal  to  the  sum 
+of  the  functions,  has  only  one  possible  type  of  solution;  namely,  when  /  is 
+equivalent  to  a  multiplication  by  a  constant,  or ,/(x)  But  this  last  means 
+
+proportionality.  The  values  of  the  function  are  proportional  to  the  arguments 
+(variables).  In  fact,  let  us  consider  two  arguments,  that  is,  two  values  of  the 
+independent  variables  x  and  y.  We  have,  as  shown  before,  f(x)=kx  and 
+
+ON  LINEARITY 
+
+f(y)  *=ky.  Dividing  the  first  by  the' second,  we  obtain  f(x)/f(y)  ~kx/ky  —  x/y\ 
+or,  in  another  form,  f(x)/x  =f{y)/y  ~k. 
+
+Let  us  consider  an  example.  We  know  from  elementary  geometry  that  if 
+we  take  an  angle  a  and  draw  parallels  which  cut  the  sides  at  AA',  BB',  CC', 
+DDr .  ,  the  corresponding  intercepts  are  propor¬ 
+tional.  In  general,  the  lengths  of  the  segments  on 
+the  left  side  are  not  equal,  neither  are  they  equal 
+to  the  segments  on  the  right  side.  If  we  designate 
+the  segment  AB  as  x  and  BC  as  y,  the  correspond¬ 
+ing  segments  A'B'  and  B'C'  we  may  designate  as 
+f(x)  and/(y),  respectively,  which  means  function 
+of  x  and  function  of  y.  A'B' =f(x),  B'C'=f(y). 
+
+But  the  above  intercepts  are  proportional,  which 
+AB_ _B£  _  AB+BC 
+A'B'~  B'C'~  A'B'+B'Cr 
+
+means  that 
+
+We  easily  see  from  Fig.  3,  that  AB -\-BC —AC  —  x+y;  and  A'B'  +B'C'  —  A'Cr 
+and  so  A'C'  on  the  one  hand  is  f(AC)  =f(x+y)  and  on  the  other  hand  it  is 
+f(x)+f(y)  and  therefore  /(x+y)  =/(x)  4-/(y).  We  could  multiply  examples  by 
+taking  relations  between  central  angles  in  a  circle  and  arcs  of  its  circumference* 
+In  fact,  any  problem  of  measure  in  £  geometry  could  be  used  as  an  example* 
+
+In  our  development  we  started  with  definite  additive  natural  tendencies, 
+not  only  in  our  highest,  yet  undeveloped,  mathematics,  which  we  call  our 
+daily  and  scientific  language,  but  also  in  our  lowest,  but  perfected,  language 
+which  we  call  mathematics.  In  this  perfected  language  the  notion  of  additivity 
+is  connected  with  linearity ,  and  the  methods  of  approximation  are  also  founded 
+on  additivity  and  linearity. 
+
+Yet  the  world  around  us  in  its  more  fundamental  structural  aspects  is  not 
+additive;  and  for  adjustment  we  must  find  means  of  passing  from  additive 
+tendencies  and  formulations  to  non-additive  tendencies  and  formulations. 
+Modern  mathematics  has  developed  these  methods,  and  modern  physics  is 
+beginning  to  apply  them.  Let  us  repeat:  the  importance  of  linear  functions 
+implies  the  importance  of  ‘straight’  lines.  They  are  important  on  two  counts: 
+first,  because  they  are  simpler  than  all  other  curves,  so  that  naturally  we  want 
+to  study  them  before  we  study  other  curves,  such  as,  for  instance,  circles  or 
+the  other  conic  sections  in  elementary  geometry;  and  secondly,  because  all 
+curves  can  be  approximated  by  straight  lines.  This  point  is  very  important, 
+as  approximation  is  the  most  powerful  method  we  have  of  handling  com¬ 
+plicated  situations. 
+
+There  are  two  methods  of  approximating  a  curve  in  the  vicinity  of  a  point. 
+If  we  are  interested  in  the  immediate  vicinity  of  a  point  we  approximate  the 
+curve  by  its  tangent,  as  the  tangent  approximates  the  curve  in  the  vicinity  of 
+a  point  better  than  any  other  straight  line.  If  we  want  to  decrease  the  error 
+which  we  make  in  this  approximation,  we  have  only  to  decrease  the  vicinity 
+in  which  we  consider  it.  If  we  do  not  want  to  restrict  ourselves  to  a  small 
+
+612  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+neighbourhood  we  have  to  use  more  complicated  methods  of  approximation. 
+We  inscribe  into  the  curve  a  broken  line  which  consists  of  segments  of  straight 
+ines.  he  beginnings  of  the  study  of  curves  consist  in  reducing  the  study  of 
+curves  to;  (1)  The  study  of  straight  lines  connected  with  the  curves’  tangents 
+which  is  the  point  of  departure  of  the  differential  calculus;  and  (2)  The  study 
+
+of  the  inscribed  broken  lines,  which  is  the  point  of  departure  of  the  integral 
+calculus. 
+
+Now  curves  represent  only  the  simplest  dependences.  In  other  cases  we 
+have  more  complex  kinds  of  functions;  for  instance,  vector  functions;  but  in 
+every  case  we  have  linear  functions,  the  simplest  of  their  type;  and  other 
+functions  are  studied  by  approximating  them  in  one  way  or  another  by  l.™>a, 
+functions.  In  using  the  term  ‘function’,  we  mean  not  merely  numerical  functions 
+but  also  operators,  which  are  to  the  ordinary  functions  what  ordinary  functions 
+are  to  numbers.  A  general  definition  of  linearity  can  be  connected  with  that 
+of  proportionality  in  the  following  manner.  If  two  variables  are  proportional 
+one  to  another,  then  to  the  sum  of  any  values  of  the  first  corresponds  the  sum 
+oi  the  corresponding  values  of  the  second. 
+
+The  simplest  part  of  any  field  is  the  consideration  of  linear,  additive 
+questions;  linear  equations  (equations  of  first  degree  in  algebra),  linear  dif- 
+erential  equations,  linear  integral  equations,  linear  matrices,  linear  operators 
+But  sooner  or  later  we  come  to  the  more  difficult  and  more  interesting  non-linear 
+problems.  Perhaps  the  main  importance  of  the  General  Theory  of  Einstein 
+les  in  the  fact  that  the  equations  of  physics  become  non-linear.  Now,  although 
+non-linear  equations  can  be  approximated  by  linear  equations,  the  character 
+of  a  world  determined  by  non-linear  equations  must  be  entirely  different  from 
+a  world  determined  by  linear  equations.  In  a  linear  world  electrons  would  not 
+repel  each  other  but  would  travel  independently  of  each  other,  and  there  could 
+be  no  relation  between  the  charges  of  different  electrons.  But  we  know  that 
+electrons  do  repel  each  other,  and  attract  protons,  and  that  their  charges  are 
+equal.  In  physics,  if  a  system  can  be  described  by  linear  differential  equations, 
+the  causal  trains  started  by  different  events  propagate  themselves  without 
+interference ,  with  simple  addition  of  effects. 
+
+The  properties  of  systems  which  can  be  described  by  linear  differential 
+equations  have,  as  we  have  already  seen,  the  property  of  addUivity.  This  means 
+that  the  result  of  the  effects  of  a  number  of  elements  is  the  sum  of  the  effects 
+separately,  and  no  new  effects  will  appear  in  the  aggregate  which  were  not 
+present  in  the  elements.  In  such  a  universe  there  is  ‘continuity’,  fields  are 
+superposable,  wave  disturbances  are  additive,  ‘energy’  and  ‘mass’  are  inde¬ 
+structible  ,  .  In  such  a  universe  we  can  have  two-valued  causality,  as  causal 
+trains  started  by  different  events  propagate  themselves  without  interference , 
+and  with  simple  addition  of  effects,  and  the  present  can  be  analysed  backwards 
+
+possible^  SUm  °f  C  ementary  events’  that  is’  a  two-valued  causal  analysis  is 
+
+If  our  equations  are  not  linear,  the  effects  are  not  additive  and  a  two- 
+valued  causal  analysis  is  not  possible. 
+
+ON  LINEARITY 
+
+The  joint  effect  of  two  causes  working  together  is  not  the  sum  of  their 
+effects  separately2,  and  we  need  oo -valued  causality. 
+
+Analytically,  if  we  have  linear  differential  equations  and  we  have  one 
+solution  yi  =/(*)  and  another  solution  y%  =  F(x)  then  their  sum  is  also  a  solution ; 
+namely,  y3  =/(x)  +F(x).  If  the  differential  equations  are  non-linear  and  if 
+yi=f(x)  and  y2  =  F(x)  are  two  solutions,  then  f(x)  +  F(x)  is  not  a  solution. 

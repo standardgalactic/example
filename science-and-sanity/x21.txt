@@ -1,0 +1,500 @@
+unsatisfactory  and  is  often  supplanted  by  the  term  ‘ colloidal  behaviour \ 
+
+In  general,  a  colloid  may  be  described  as  a  ‘system*  consisting  of  two 
+or  more  ‘phases*.  The  commonest  represent  emulsions  or  suspensions  of 
+fine  particles  in  a  gaseous,  liquid,  or  other  medium,  the  size  of  the  par¬ 
+ticles  grading  from  those  barely  visible  microscopically  to  those  of 
+molecular  dimensions.  These  particles  may  be  either  homogeneous  solids, 
+or  liquids,  or  solutions  themselves  of  a  small  percentage  of  the  medium 
+in  an  otherwise  homogeneous  complex.  Such  solutions  have  one  charac¬ 
+teristic  in  common;  namely,  that  the  suspended  materials  may  remain 
+almost  indefinitely  in  suspension,  because  the  tendency  to  settle,  due  to 
+gravity,  is  counteracted  by  some  other  factor  tending  to  keep  the  par¬ 
+ticles  suspended.  In  the  main,  colloidal  behaviour  is  not  dependent  upon 
+the  physical  state  or  chemistry  of  the  finely  subdivided  materials  or  of 
+the  medium.  We  find  colloidal  behaviour  exhibited  not  only  by  colloidal 
+suspensions  and  emulsions  where  solid  particles  or  liquid  droplets  are  in 
+a  liquid  medium,  but  also  when  solid  particles  are  dispersed  in  gaseous 
+medium  (smokes),  or  liquid  droplets  in  gaseous  media  (mists),. 
+
+Materials  which  exhibit  this  special  colloidal  behaviour  are  always 
+in  a  very  fine  state  of  subdivision,  so  that  the  ratio  of  surface  exposed 
+to  volume  of  material  is  very  large.  A  sphere  containing  only  10  cubic 
+centimetres,  if  composed  of  fine  particles  0.00000025  cm.  in  diameter, 
+would  have  a  total  area  of  all  the  surfaces  of  the  particles  nearly  equal 
+
+*  see  page  xii  to  half  an  acre.1  It  is  easy  to  understand  that  under  such  structural  con¬ 
+
+ditions  the  surface  forces  become  important  and  play  a  prominent  role 
+in  colloidal  behaviour. 
+
+COLLOIDAL  BEHAVIOUR 
+
+The  smaller  the  colloidal  particles,  the  closer  we  come  to  molecular 
+and  atomic  sizes.  Since  we  know  atoms  represent  electrical  structures , 
+we  should  not  be  surprised  to  find  that,  in  colloids,  surface  energies  and 
+electrical  charges  become  of  fundamental  importance,  as  by  necessity  all 
+surfaces  are  made  up  of  electrical  charges.  The  surface  energies  operat¬ 
+ing  in  finely  grained  and  dispersed  systems  are  large,  and  in  their  ten¬ 
+dency  for  a  minimum,  every  two  particles  or  drops  tend  to  become  one ; 
+because,  while  the  mass  is  not  altered  by  this  change,  the  surface  of  one 
+larger  particle  or  drop  is  less  than  the  surface  of  two  smaller  ones — an 
+elementary  geometrical  fact.  Electrical  charges  have  the  well-known 
+characteristic  that  like  repels  like  and  attracts  the  unlike.  In  colloids,  the 
+effect  of  these  factors  is  of  a  fundamental,  yet  opposite,  character.  The 
+surface  energies  tend  to  unite  the  particles,  to  coagulate,  flocculate  or 
+precipitate  them.  In  the  meanwhile  the  electrical  charges  tend  to  pre¬ 
+serve  the  state  of  suspension  by  repelling  the  particles  from  each  other. 
+On  the  predominance  or  intensity  of  one  or  other  of  these  factors,  the 
+instability  or  the  stability  of  a  suspension  depends. 
+
+In  general,  if  'time'  limits  are  not  taken  into  consideration,  colloids 
+are  unstable  complexes,  in  which  continuous  transformation  takes  place, 
+which  is  induced  by  light,  heat,  electric  fields,  electronic  discharges,  and 
+other  forms  of  energy.  These  transformations  result  in  a  great  variation 
+of  the  characteristics  of  the  system.  The  dispersed  phase  alters  its 
+characteristics  and  the  system  begins  to  coagulate,  reaching  a  stable  state 
+when  the  coagulation  is  complete.  This  process  of  transformation  of  the 
+characteristics  of  the  system  which  define  the  colloid,  and  which  ends  in 
+coagulation,  is  called  the  ‘ageing*  of  the  colloid.  With  the  coagulation 
+complete,  the  system  loses  its  colloidal  behaviour — it  is  ‘dead*.  Both  of 
+these  terms  apply  to  inorganic  as  well  as  to  organic  systems. 
+
+Some  of  the  coagulating  processes  are  partial  and  reversible,  and 
+take  the  form  of  change  in  viscosity;  some  are  not.  Some  are  slow; 
+some  extremely  rapid,  particularly  when  produced  by  external  agencies 
+which  alter  the  colloidal  equilibrium. 
+
+From  what  has  been  said  already,  it  is  obvious  that  colloids,  particu¬ 
+larly  in  organisms,  are  extremely  sensitive  and  complex  structures  with 
+enormous  possibilities  as  to  degree  of  stability,  reversibility . ,  and  allow  a 
+wide  range  of  variation  of  behaviour.  When  we  speak  of  ‘chemistry*, 
+we  are  concerned  with  a  science  which  deals  with  certain  materials  which 
+preserve  or  alter  certain  of  their  characteristics.  In  ‘physics',  we  go 
+beyond  the  obvious  characteristics  and  try  to  discover  the  structure 
+underlying  these  characteristics.  Modern  researches  show  clearly  that 
+atoms  have  a  very  complex  structure  and  that  the  macroscopic  character- 
+
+III.  NON-ELEMENTAL1STIC  STRUCTURES 
+
+istics  are  directly  connected  with  sub-microscopic  structure.  If  we  can 
+alter  this  structure,  we  usually  can  alter  also  the  chemical  or  other  char¬ 
+acteristics.  As  the  processes  in  colloids  are  largely  structural  and  phys¬ 
+ical,  anything  which  tends  to  have  a  structural  effect  usually  also  disturbs 
+the  colloidal  equilibrium,  and  then  different  macroscopic  effects  appear. 
+As  these  changes  occur  as  series  of  interrelated  events,  the  best  way  is  to 
+consider  colloidal  behaviour  as  a  physico-electro-chemical  occurrence.  But 
+once  the  word  ‘physical*  enters,  structural  implications  are  involved.  This 
+explains  also  why  all  known  forms  of  radiant  energy,  being  structures, 
+can  affect  or  alter  colloidal  structures,  and  so  have  marked  effect  on 
+colloids. 
+
+As  all  life  is  found  in  the  colloidal  form  and  has  many  characteris¬ 
+tics  found  also  in  inorganic  colloids,  it  appears  that  colloids  supply  us 
+with  the  most  important  known  link  between  the  inorganic  and  the 
+organic.  This  fact  also  suggests  entirely  new  fields  for  the  study  of  the 
+living  cells  and  of  the  optimum  conditions  for  their  development ,  sanity 
+included . 
+
+Many  writers  are  not  agreed  as  to  the  use  of  the  terms  ‘film*, 
+‘membrane*,  and  the  like.  Empirically  discovered  structure  shows  clearly, 
+however,  that  we  deal  with  surfaces  and  surface  energies  and  that  a 
+‘surface  tension  film’  behaves  as  a  membrane.  In  the  present  work,  we 
+accept  the  obvious  fact  that  organized  systems  are  film-partitioned 
+systems. 
+
+One  of  the  most  baffling  problems  has  been  the  peculiar  periodicity 
+or  rhythmicity  which  we  find  in  life.  Lately,  Lillie  and  others  have 
+shown  that  this  rhythmicity  could  not  be  explained  by  purely  physical 
+nor  purely  chemical  means,  but  that  it  is  satisfactorily  explained  when 
+treated  as  a  physico-electro-chemical  structural  occurrence.  The  famous 
+experiments  of  Lillie,  who  used  an  iron  wire  immersed  in  nitric  acid  and 
+reproduced,  experimentally,  a  beautiful  periodicity  resembling  closely 
+some  of  the  activities  of  protoplasm  and  the  nervous  system,  show  con¬ 
+clusively  that  both  the  living  and  the  non-living  systems  depend  for  their 
+rhythmic  behaviour  on  the  chemically  alterable  film,  which  divides  the 
+electrically  conducting  phases.  In  the  iron  wire  and  nitric  acid  experi¬ 
+ment,  the  metal  and  the  acid  represent  the  two  phases,  and  between  the 
+two  there  is  found  a  thin  film  of  oxide.  In  protoplasmic  structures,  such 
+as  a  nerve  fibre,  the  internal  protoplasm  and  the  surrounding  medium  are 
+the  two  phases,  separated  by  a  surface  film  of  modified  plasm  membrane. 
+In  both  systems,  the  electromotive  characteristics  of  the  surfaces  are 
+determined  by  the  character  of  the  film.2 
+
+COLLOIDAL  BEHAVIOUR 
+
+That  living  organisms  are  film-bounded  and  partitioned  systems 
+accounts  also  for  irritability.  It  appears  that  irritability  manifests  itself 
+as  sensitiveness  to  electrical  currents.  These  currents  seem  to  depend  on 
+polarizability  or  resistance  to  the  passage  of  ions,  owing  to  the  presence 
+of  semi-permeable  boundary  films  or  surfaces  enclosing  or  partitioning 
+the  system.  It  is  obvious  that  we  are  here  dealing  with  complex  struc¬ 
+tures  which  are  intimately  connected  with  the  characteristics  of  life. 
+Living  protoplasm  is  electrically  sensitive  only  as  long  as  its  structure  is 
+intact.  With  death,  semi-permeability  and  polarizability  are  lost,  together 
+with  electrical  sensitivity. 
+
+One  of  the  baffling  peculiarities  of  organisms  is  the  rapidity  with 
+which  the  chemical  and  metabolic  processes  spread.  Indeed,  it  is  impos¬ 
+sible  to  explain  this  by  the  transportation  of  material.  All  evidence 
+shows  that  electrical  and,  perhaps,  other  energy  factors  play  an  important 
+role ;  and  that  this  activity  again  depends  on  the  presence  of  surfaces  of 
+protoplasmic  structures  with  electrode-like  characteristics  which  form 
+circuits. 
+
+The  great  importance  of  the  electrical  charges  of  the  colloidal  par¬ 
+ticles  arises  out  of  the  fact  that  they  prevent  particles  from  coalescing; 
+and  when  these  charges  are  neutralized,  the  particles  tend  to  form  larger 
+aggregates  and  settle  out  of  the  solution.  Because  of  these  charges,  when 
+an  electrical  current  is  sent  through  a  colloidal  solution,  the  differently 
+charged  particles  wander  to  one  or  the  other  electrode.  This  process  is 
+called  cataphoresis.  There  is  an  important  difference  in  behaviour  in 
+inorganic  and  organic  colloids  under  the  influence  of  electrical  currents, 
+and  this  is  due  to  the  difference  in  structure.  In  inorganic  colloids,  an 
+electrical  current  does  not  coagulate  the  whole,  but  only  that  portion  of 
+it  in  the  immediate  vicinity  of  the  electrodes.  Not  so  in  living  proto¬ 
+plasm.  Even  a  weak  current  usually  coagulates  the  entire  protoplasm, 
+because  the  inter-cellular  films  probably  play  the  role  of  electrodes  and 
+so  the  entire  protoplasm  structurally  represents  the  ‘immediate  vicinity’ 
+of  the  electrodes.'  Similarly,  structure  also  accounts  for  the  extremely 
+rapid  spread  of  some  effects  upon  the  whole  of  the  organism. 
+
+Electrical  phenomena  in  living  tissue  are  mainly  of  two  more  or  less 
+distinct  characters.  The  first  include  electromotive  energy  which  pro¬ 
+duces  electrical  currents  in  nerve  tissue,  the  membrane  potentials, .  The 
+second  are  called,  by  Freundlich,  electrokinetic,  and  include  cataphoresis, 
+agglutination , .  There  is  much  evidence  that  the  mechanical  work  of  the 
+muscles,  the  secretory  action  of  the  glands,  and  the  electrical  work  of 
+the  nerve  cells  are  closely  connected  with  the  colloidal  structure  of  these 
+tissues.  This  would  explain  why  any  factor  (semantic  reactions  included) 
+
+111.  NON-ELEMENTALISTIC  STRUCTURES 
+
+capable  of  altering  the  colloidal  structure  of  the  living  protoplasm  must 
+have  a  marked  effect  on  the  behaviour  and  welfare  of  the  organism. 
+
+Experiments  show  that  there  are  four  main  factors  which  are  able 
+to  disturb  the  colloidal  equilibrium :  ( 1 )  Physical,  as,  for  instance, 
+X-rays,  radium,  light,  ultra-violet  rays,  cathode  rays . ;  (2)  Mechanical, 
+such  as  friction,  puncture . ;  (3)  Chemical,  such  as  tar,  paraffin,  arsenic . ; 
+and,  finally,  (4)  Biological,  such  as  microbes,  parasites,  spermatozoa , . 
+In  man,  another  (fifth)  potent  factor;  namely,  the  semantic  reactions, 
+enters,  but  about  this  factor,  I  shall  speak  later. 
+
+For  our  purpose,  the  effects  produced  by  the  physical  factors, 
+because  obviously  structural,  are  of  main  interest,  and  we  shall,  there¬ 
+fore,  summarize  some  of  the  experimental  structural  results.  Electrical 
+currents  of  different  strength  and  duration,  as  well  as  acids  of  different 
+concentration,  or  addition  of  metallic  salts,  which  produce  marked  acid¬ 
+ity,  usually  coagulate  the  protoplasm,  these  effects  being  structurally 
+interrelated.  Slow  coagulation  involves  changes  in  viscosity,  all  of  which, 
+under  certain  conditions,  may  be  reversible.8  When  cells  are  active,  their 
+fluidity  often  changes  in  a  sharp  and  rapid  manner.4 
+
+Fat  solvents  are  called  surface-active  materials ;  when  diluted,  they 
+decrease  protoplasmic  viscosity ;  but  more  concentrated  solutions  produce 
+increased  viscosity  or  coagulation.6  The  anaesthetics,  which  always  are 
+fat  solvents  and  surface-active  materials,  are  very  instructive  in  their 
+action  for  our  purpose,  as  they  affect  very  diversified  types  of  protoplasm 
+similarly,  this  similarity  of  action  being  due  to  the  similarity  of  colloidal 
+structure.  Thus,  ether  of  equal  concentration  will  make  a  man  uncon¬ 
+scious,  will  prevent  the  movement  of  a  fish  and  the  wriggling  of  a  worm, 
+or  stop  the  activity  of  a  plant  cell,  without  permanently  injuring  the 
+cells.6  In  fact,  the  action  of  all  drugs  is  based  on  their  effect  upon  the 
+colloidal  equilibrium,  without  which  action  a  drug  would  not  be  effective. 
+It  is  well  known  that  various  acids  or  alkalis  always  change  the  electrical 
+resistance  of  the  protoplasm.7 
+
+The  working  of  the  organism  involves  mostly  a  structural  and  very 
+important  Vicious  circle’,  which  makes  the  character  of  colloidal  changes 
+non-additive .  If,  for  instance,  the  heart,  for  any  reason,  slows  down  the 
+circulation,  this  produces  an  accumulation  of  carbonic  acid  in  the  blood, 
+which  again  increases  the  viscosity  of  the  blood  and  so  throws  more 
+work  on  the  already  weakened  heart.8  Under  such  structural  conditions, 
+the  results  may  accumulate  very  rapidly,  even  at  a  rate  which  can  be 
+expressed  as  an  exponential  function  of  higher  degree. 
+
+Different  regions  of  the  organism  have  different  charges;  but,  in 
+the  main,  an  injured,  or  excited,  or  cooler  part  is  electro-negative  (which 
+
+COLLOIDAL  BEHAVIOUR 
+
+is  connected  with  acid  formation),  and  the  electro-positive  particles  rush 
+to  those  parts  and  supply  the  material  for  whatever  physiological  need 
+there  may  be.® 
+
+The  effects  of  different  forms  of  radiant  energy  on  colloids  and 
+protoplasm  are  being  extensively  studied,  and  the  results  are  very  start¬ 
+ling.  The  different  forms  of  radiant  energy  differ  in  wave-length,  fre¬ 
+quency., — that  is  to  say,  generally  in  structure, — and,  as  such,  may 
+produce  structural  effects  on  colloids  and  organisms,  which  effects  may 
+appear  on  the  gross  macroscopic  level  in  many  different  forms. 
+
+Electrical  currents,  for  instance,  retard  reversibly  the  growth  of 
+roots,  may  activate  some  eggs  into  larval  stages  without  fertilization . , 
+which  makes  it  possible  to  understand  why,  in  some  cases,  a  mere  punc¬ 
+turing  of  the  egg  may  disturb  the  equilibrium  and  produce  the  effects  of 
+fertilization.10 
+
+The  X-,  or  Rontgen-rays  have  been  shown  to  accelerate  150 
+times  the  process  of  mutation.  Muller,  in  his  experiments  with  several 
+thousand  cultures  of  the  fruit  fly,  has  established  the  above  ratio  of 
+induced  mutations,  which  become  hereditary.11  ‘Cosmic  rays*  in  the 
+form  of  radiation  from  the  earth,  in  tunnels,  for  instance,  show  similar 
+results,  except  that  mutation  occurs  only  twice  as  often  as  under  the 
+usual  laboratory  conditions.  Under  the  influence  of  X-rays,  mice  change 
+their  colour  of  hair ;  gray  mice  become  white,  and  white  ones  darker. 
+Sometimes  further  additional  bodily  changes  appear;  as,  for  instance, 
+one  or  no  kidneys,  abnormal  eyes  or  legs,  occur  more  often  than  under 
+ordinary  conditions.  Some  animals  lose  their  power  of  reproduction, 
+although  the  body  is  not  obviously  changed.  Plants  respond  also  to  the 
+X-ray  treatment.  They  grow  faster,  flower  more,  and  produce  new 
+forms  more  readily.  In  humans  the  effect  of  X-ray  irradiation  has  often 
+proven  disastrous  to  the  health  of  experimenters.  There  are  even  data 
+that  the  irradiation  of  pregnant  mothers  may  result  in  deformation  of 
+the  head  and  limbs  of  the  unborn  child  and,  in  one-third  of  the  cases, 
+feeble-mindedness  of  the  children  has  resulted.12 
+
+Ultra-violet  rays  also  show  a  marked  effect.  In  some  instances,  they 
+slow  down  or  stop  the  streaming  of  protoplasm,  because  of  increased 
+viscosity  or  coagulation ;  plants  grow  slowly  or  rapidly ;  certain  valuable 
+ingredients  in  plants  are  increased;  certain  animals,  as,  for  instance, 
+small  Crustacea  or  bacteria  are  killed;  eggs  of  Nereis  (a  kind  of  sea 
+worm),  which  usually  have  28  chromosomes,  after  irradiation  have  70; 
+certain  bone  malformations  in  children  are  cured ;  the  toxin  in  the  blood 
+serum  of  pernicious  anaemia  patients  is  destroyed ,  .18  In  this  respect,  we 
+should  notice  again  that  ultra-violet  irradiation  produces  curative  effects 
+
+III.  NON-ELEMENTALISTIC  STRUCTURES 
+
+like  those  of  cod-liver  oil,  which  shows  that  the  effect  of  both  factors 
+is  ultimately  colloidal  and  structural. 
+
+Extensive  experimentation  with  cathode  rays  is  very  recent,  but 
+already  we  have  a  most  astonishing  array  of  structural  facts.  Moist  air 
+is  converted  into  nitric  acid,  synthetic  rubber  is  produced  rapidly,  the 
+milk  from  rubber  trees  is  made  solid  and  insoluble  without  the  use  of 
+sulphur,  liquid  forms  of  bakelite  are  solidified  without  heating,  linseed 
+oil  becomes  dry  to  the  touch  in  three  hours  and  hard  in  six  hours,  certain 
+materials,  like  cholesterol,  yeast,  starch,  cottonseed  oil,  after  exposure 
+for  thirty  seconds,  heal  rickets,  and  similar  unexpected  results.  What  are 
+usually  called  'vitamins’  do  not  only  represent  'special  substances’,  but 
+become  structurally  active  factors;  and  this  is  why  ultra-violet  rays 
+may  produce  results  like  those  of  some  'substance’.  It  seems  that  in  ‘vita¬ 
+mins  the  surface  activities  are  important;  the  parallelism  shown  by 
+von  Hahn  between  the  surface  activities  of  different  materials  and  the 
+Funk  table  of  vitamin  content  is  quite  suggestive.  Some  data  seem  to 
+show  that,  in  some  instances,  surface-active  materials,  such  as  coffee  or 
+alcohol,  produce  beneficial  surface  activities  similar  to  the  'vitamins’.14 
+
+The  above  short  list  gives  only  an  approximate  picture  of  the  over¬ 
+whelming  importance  of  the  roles  which  structure  in  general,  and  col¬ 
+loids  in  particular,  play  in  our  lives.  We  see  about  us  many  human  types. 
+Some  are  delicate,  some  are  heavy-set,  some  flabby,  some  puffy,  all  of 
+which  indicates  a  difference  in  their  colloidal  structure.  Paired  with  these 
+physical  colloidal  states  are  also  nervous,  'mental*,  and  other  character¬ 
+istics,  which  vary  from  weak  and  nervous  to  the  extreme  limitation  of 
+nervous  activities,  as  in  idiocy,  which  is  a  negation  of  activity. 
+
+It  is  curious  that  in  all  illnesses,  whether  'physical’  or  'mental’,  the 
+symptoms  are  very  few,  and  fundamentally  of  a  standard  type.  In 
+'physical’  illness  we  find  the  following  common  characteristics:  fever, 
+chills,  headaches,  convulsions,  vomiting,  diarrhoea,.  In  'mental’  ills, 
+identifications,  illusions,  delusions,  and  hallucinations — in  general,  the 
+reversed  pathological  order— are  found.  It  is  not  difficult  to  understand 
+the  reason.  Because  of  the  general  colloidal  background  of  life,  different 
+disturbances  of  colloidal  equilibrium  should  produce  similar  symptoms. 
+In  fact,  many  of  these  symptoms  have  been  reproduced  experimentally 
+by  injecting  inert  precipitates  incapable  of  chemical  reactions,  which  have 
+induced  artificial  colloidal  disturbances.  Thus,  if  the  serum  from  an  epi¬ 
+leptic  patient  is  injected  into  a  guinea  pig,  it  results  in  an  attack  of  con¬ 
+vulsions,  often  ending  in  death.  But,  if  the  guinea  pig  is  previously  made 
+immune  by  an  injection  of  some  colloid  which  accustoms  the  nerve- 
+endings  to  the  colloidal  flocculation,  then,  for  a  few  hours  following,  we 
+
+COLLOIDAL  BEHAVIOUR 
+
+can,  with  impunity,  introduce  into  the  circulation  otherwise  fatal  doses 
+of  epileptic  serum.  Epileptic  serum  can  also  be  made  immune  by  filtra¬ 
+tion,  or  by  strong  centrifugation,  or  by  long  standing,  which  frees  it 
+from  colloidal  precipitates.15 
+
+Death  through  blood  transfusion  or  the  injection  of  any  colloid  into 
+the  circulation  has  also,  in  the  main,-  similar  symptoms,  regardless  of 
+the  chemical  character  of  the  colloid,  indicating  once  more  the  importance 
+and  fundamental  character  of  structure.16 
+
+That  illnesses  are  somehow  connected  with  colloidal  disturbances 
+(note  the  wording  of  this  statement)  becomes  quite  obvious  when  we 
+consider  catarrhal  diseases,  inflammations,  swellings,  tumours,  cancer, 
+blood  thrombi.,  which  involve  colloidal  injuries,  resulting  in  extreme 
+cases  in  complete  coagulation  or  fluidification,  the  variation  between  ‘gel* 
+and  ‘sol’  appearing  in  a  most  diversified  manner.17  Other  illnesses  are 
+connected  with  precipitation  or  deposits  of  various  materials.  Gout,  for 
+instance,  results  from  a  morbid  deposit  of  uric  acid,  and  different  con¬ 
+cretions,  such  as  the  ‘stones’,  are  very  often  found  in  different  fluids  of 
+the  organism.  We  have,  thus,  concretions  in  the  intestines,  the  bile,  the 
+urine,  the  pancreas,  the  salivary  glands ;  lime  deposits  in  old  softened 
+tissues,  ‘rice  bodies’  in  the  joints,  ‘brain  sand*,  .18 
+
+In  bacterial  diseases,  the  micro-organisms  rapidly  produce  acids  and 
+bases  which  tend  to  destroy  the  colloidal  equilibrium.  Lately,  it  has 
+been  found  that  even  tuberculosis  is  more  than  a  mere  chapter  in  bac¬ 
+teriology.  All  the  main  tubercular  symptoms  can  be  reproduced,  experi¬ 
+mentally,  by  means  of  colloidal  disturbances  without  the  intervention  of 
+a  single  bacterium.19  This  would  explain  also  why,  in  some  instances, 
+psychotherapy  is  effective  in  diseases  with  tubercular  symptoms.20 
+
+By  structural  necessity,  every  expression  of  cellular  activity  involves 
+some  sort  of  colloidal  behaviour ;  and  any  factor  disturbing  the  colloidal 
+structure  must  be  disturbing  to  the  welfare  of  the  organism.  Vice  versa, 
+a  factor  which  is  beneficial  to  the  organism  must  reach  and  affect  the 
+colloids. 
+
+After  this  brief  account  of  the  structural  peculiarities  of  the  domain 
+in  which  life  is  found,  we  can  understand  the  baffling  ‘body-mind’  prob¬ 
+lem.  We  do  not  yet  know  as  many  details  as  we  could  wish,  but  these 
+will  accumulate  the  moment  a  general  solution  is  clearly  formulated.  It 
+is  a  well-established  experimental  fact  that  all  nervous  and  ‘mental* 
+activities  are  connected  with,  or  actually  generate,  electrical  currents, 
+which  of  late  are  scrupulously  studied  by  the  aid  of  an  instrument  called 
+the  psychogalvanometer.81  It  is  not  suggested  that  electrical  currents  are 
+the  only  ones  which  are  involved.  There  may  be  many  different  forms 
+
+III.  NON-ELEMENT ALI STIC  STRUCTURES 
+
+of  radiant  energy  produced  or  effective,  which  we  have  not  yet  the  instru¬ 
+ments  to  record.  Experiments  suggest  such  a  possibility.  Thus,  for 
+instance,  the  apex  of  a  certain  rapidly  growing  vegetable  or  animal  tissue 
+emits  some  sort  of  invisible  radiation  which  stimulates  the  growth  of 
+living  tissue  with  which  it  is  not  in  contact.  The  tip  of  a  turnip  or  onion 
+root,  if  placed  at  right  angles  to  another  root,  at  a  distance  of  a  quarter 
+of  an  inch,  so  stimulates  the  growth  of  the  latter  that  the  increase  of  the 
+number  of  cells,  on  its  side  nearest  the  point  of  stimulation,  is  as  high  as 
+seventy  per  cent.  These  radiations  accelerate  the  growth  of  some  bac¬ 
+teria.  Other  examples  could  be  given.22 
+
+A  classical  example  of  the  effect  left  on  protoplasm  by  energetic 
+factors  is  given  by  Bovie.23 
+
+As  yet,  we  have  not  assumed  that  the  protoplasm  of  plants  also 
+shows  lasting  structural  and  functional  results  of  stimulation,  some  sort 
+of  ‘learning’  or  ‘habit-formation’  characteristics.  But  such  is  the  case; 
+and  further  experimentation  along  these  lines  will  help  greatly  to  under¬ 
+stand  the  mechanism  of  ‘mental’  processes  in  ourselves. 
+
+If  we  take  the  seed  of  a  plant,  for  instance,  of  a  squash,  and  keep 
+it  in  a  moist  tropism  chamber  in  the  dark,  it  will  grow  a  root.  When  the 
+root  is  about  one  inch  long,  we  begin  our  experiment.  Originally,  under 
+
+the  influence  of  gravitation,  the  root  grows 
+vertically  downwards  (A).  If  we  rotate  the 
+tropism  chamber  90°  so  that  the  root  is  hori¬ 
+zontal  (B),  the  root  will  soon  bend  down¬ 
+wards  under  the  influence  of  positive  geotrop- 
+ism.  But  the  bending  does  not  occur  at  once. 
+There  is  a  latent  period — in  the  case  of  the 
+squash  seed,  about  ten  minutes — after  which 
+pause  the  root  is  bent  downwards.  When  we 
+have  determined  this  latent  period  for  a  given 
+seedling,  we  then  rotate  the  chamber  to  the 
+positions  (B),  (C),  (A),  (B),  (C).,  just 
+within  the  ‘time*  limit  before  the  bending 
+would  occur.  We  repeat  such  procedure  sev¬ 
+eral  times.  When  we  set  the  root  again  in  its  vertical  downward  position 
+(A),  we  notice  that  the'  root,  without  any  more  changes  of  position,  will 
+wag  backwards  and  forward  with  the  period  as  was  used  in  the  experi¬ 
+ment.  This  unexpected  behaviour  will  last  for  several  days.  It  shows 
+that  the  alternating  stimulus  of  gravitation,  as  applied  to  the  root,  has 
+produced  some  structural  changes  in  the  protoplasm  which  persist  for  a 
+comparatively  long  period  after  the  stimulus  has  ceased  to  act.  It  be- 
+
+COLLOIDAL  BEHAVIOUR 
+
+comes  obvious  that  teachability  and  the  structural  tendency  for  forming 
+cngrams  is  a  general  characteristic  of  protoplasm. 
+
+All  the  examples  given  above  show  clearly  that  structure  in  general, 
+and  of  colloids  in  particular,  gives  us  a  satisfactory  basis  for  the  under¬ 
+standing  of  the  equivalence  between  occurrences  which  belonged  for¬ 
+merly  to  'chemistry*  and  those  classified  as  'physical*,  and  ultimately 
+between  these  and  those  we  call  'mental*.  Structure,  and  structure  alone, 
+gives  not  only  the  unique  content  of  what  we  call  'knowledge*,  but  also 
+the  bridge  between  the  different  classes  of  occurrences — a  fact  which,  as 
+yet,  has  not  been  fully  understood. 
+
+To  sum  up:  It  is  known  that  colloidal  behaviour  is  exhibited  by 
+materials  of  very  fine  subdivision,  the  ‘world  of  neglected  dimensions*, 
+which  involves  surface  activities  and  electrical  characters  of  manifold 
+and  complex  structure,  and  therefore  the  flexibility  of  gross  macroscopic 
+characteristics.  It  is  well  known  that  all  life-processes,  'feelings*,  'emo¬ 
+tions*,  'thought*,  semantic  reactions,  and  so  forth,  involve  at  least  elec¬ 
+trical  currents.  As  electrical  currents  and  other  forms  of  energy  are  able 
+to  affect  the  colloidal  structure  on  which  our  physical  characteristics 
+depend,  obviously  'feelings*,  'emotions*,  'thought*. ;  in  general,  s.r,  which 
+are  connected  with  manifestations  of  energy,  will  also  have  some  effect 
+on  our  bodies,  and  vice  versa.  Colloidal  structure  supplies  us  with  an 
+extremely  flexible  mechanism  with  endless  possibilities. 
+
+When  we  analyse  the  known  empirical  facts  from  a  structural  point 
+of  view,  we  find  not  only  the  equivalence  which  was  mentioned  before, 
+but  we  must,  also,  legitimately  consider  the  so-called  ‘mental*,  ‘emotional*, 
+and  other  semantic  and  nervous  occurrences  in  connection  with  manifes¬ 
+tations  of  energy  which  have  a  powerful  influence  on  the  colloidal 
+behaviour,  and  so  ultimately  on  the  behaviour  of  our  organisms  as-a- 
+whole.  Under  such  environmental  conditions,  we  must  take  into  account 
+all  energies  which  have 'been  discovered,  semantic  reactions  not  excluded , 
+as  all  such  energies  have  structural  effect.  As  language  is  one  of  the 
+expressions  of  one  of  these  energies,  we  ought  to  find  it  quite  natural 
+that  the  structure  of  language  finds  its  reflection  in  the  structure  of  the 
+environmental  conditions  which  are  dependent  on  it. 
+
+Until  lately,  the  disregard  of  colloidal  science  and  of  structure  in 
+general  has  greatly  retarded  advance  in  biology,  psychiatry,  and  other 
+sciences.  Biology,  for  instance,  has  mostly  studied  ‘life’  where  none 
+existed ;  namely,  in  death.  If  we  study  corpses,  we  study  death,  not  life, 
+and  life  is  a  function  of  living  cells.  The  living  cell  is  semi-fluid,  and 
+all  the  forces  which  act  in  colloidal  solutions  and  constitute  colloidal 
+
+122  III.  NON-ELEMENTALISTIC  STRUCTURES 
+
+behaviour  are  acting  because  they  can  aet,  while  a  dead  cell  is  coagulated 
+and  so  a  different  set  of  energies  is  operating  there.24 
+
+Should  we  wonder  that  life,  being  a  form  of  colloidal  behaviour  on 
+microscopic  and  sub-microscopic  levels,  conditioned  by  little  colloidal 
+‘wholes’,  and  structures  separated  from  their  environment  by  surfaces, 
+preserves  a  similar  character  on  macroscopic  levels?  We  should,  instead, 
+be  surprised  if  this  did  not  turn  out  to  be  the  raw, 
+
+CHAPTER  X 
+
+THE  ‘  ORGAN  ISM  -  AS- A- WHOLE* 
+
+...  in  hypnotized  children  real  colours  and  suggested  colours  are  blended 
+to  form  the  complementary  colour.  (189>  w.  horsley  gantt 
+
+Section  A.  Illustrations  from  biology. 
+
+Because  of  the  semantic  importance  of  the  structural  non-elemental- 
+istic  principle,  and  the  weighty,  yet  in  the  beginning  odd,  consequences 
+which  follow  the  consistent  application  of  this  principle  in  practice,  we 
+will  give  a  short  account  of  some  other  experimental  structural  facts 
+taken  from  widely  separated  fields. 
+
+A  worm,  a  marine  planarian,  called  a  Thysanozoon  (Brochii),  is 
+common  in  the  bay  of  Naples.  If  we  put  a  normal  Thysanozoon  on  its 
+back,  it  soon  will  right  itself.  When  the  brain  of  the  worm  has  been 
+removed,  under  similar  conditions  of  the  experiment,  the  worm  will  right 
+itself,  but  more  slowly.  In  this  case,  we  see  a  general  tendency  of  the 
+organism-as-a-whole;  the  nervous  system  only  facilitated  a  quicker 
+action.  If  we  cut  the  worm  partly  in  two,  so  that  the  longitudinal  nerves 
+are  severed,  but  a  thin  piece  of  tissue  keeps  the  two  parts  together,  the 
+two  parts  move  in  a  co-ordinated  way,  as  if  not  cut.  The  organism  still 
+works  as-a-whole,  although  the  conditions  seem  not  favourable.1 
+
+If  we  cut  a  fresh-water  planarian  ( Planaria  torva)  in  two,  trans¬ 
+versely,  the  posterior  part,  which  has  no  brain,  moves  about  as  well  as 
+the  anterior  part,  which  has  the  brain.  If  we  try  to  find  the  effect  of  light 
+on  the  part  devoid  of  brain  and  eyes,  we  see  that  the  effect  of  light  is 
+not  changed,  and  that  the  posterior  part  crawls  away  from  light  into 

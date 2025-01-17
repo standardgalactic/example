@@ -1,0 +1,500 @@
+their  professed  detached  scientific  attitude  is  profoundly  and  fundamentally 
+unjustified.  All  science  has  ‘emotional'  components,  which  play  most  important 
+roles  in  life.  If  we  live  in  a  modern  world,  but  keep  the  ‘emotional  attitudes’  of 
+primitive  bygone  days,  then  naturally  we  are  bound  to  be  semantically  un¬ 
+balanced,  and  cannot  be  adjusted  to  a-  fundamentally  primitive  ‘civilization* 
+in  the  midst  of  great  technical  achievements.*  When  scientists  understand  that, 
+then  the  layman  will  have  a  different  attitude  toward  science.  He  will  under¬ 
+stand  that  science  is  not  a  privilege  of  the  few,  something  without  effect  upon 
+all  and  every  one.  He  will  realize  that  while  he  lives  in  a  modern  world,  made  so 
+by  science,  structural  ignorance  of  the  fundamentals  as  discovered  by  science 
+leaves  him  with  primitive  structural  assumptions  or  metaphysics,  which  by 
+necessity  build  for  him  a  delusional  world  leading  to  semantic  unbalance  and 
+ultimately  to  ‘mental’  and  nervous  ills. 
+
+From  the  non-elementalistic  point  of  view,  the  only  escape  is  to  realize  that 
+ignorance  in  an  adult  is,  and  must  be,  pathological,  because  ‘knowledge’  is  to 
+be  considered  as  a  normal  characteristic  of  human  nervous  tissue. 
+
+A  special  structural  and  methodological  brief  and  simplified  account  of 
+scientific  achievements,  such  as  I  have  attempted  in  this  work,  must  be  a  part 
+of  a  theory  of  sanity.  Sanity  means  adjustment  and  without  the  minimum  of 
+the  best  structural  knowledge  of  each  date  concerning  this  world,  such  adjust¬ 
+ment  is  impossible. 
+
+It  is  not  necessary  that  the  reader  should  fully  understand  all  technical 
+details  of  a  theory,  to  be  aware  (instinctive,  affective  .  ,)  of  the  existence  of  the 
+structural  and  semantic  problems  and  to  realize  that  some  of  the  most  competent 
+and  skilled  professionals  are  working  at  these  theories.  Such  awareness  has 
+great  pacifying  semantic  influence;  it  eliminates  the  older  affective  tensions 
+which  were  due  to  identifications,  absolutism,  dogmatism,  flights  into  mystic¬ 
+ism,  and  other  similar  pathological  disturbances. 
+
+*See  my  Manhood  of  Humanity. 
+
+X.  ON  THE  STRUCTURE  OF  'MATTER' 
+
+A  non-aristotelian  system  must  deal  with  all  these  structural  and  semantic 
+issues.  It  is  hoped  that  once  a  J[  -system  is  presented  to  the  public,  scientists 
+and  laymen  will  become  more  interested  in  the  structural  and  semantic  issues 
+emphasized  here,  and  that  new  and  wider  researches  will  be  undertaken. 
+
+History  shows  that  such  hopes  are  not  illusory.  The  greatest  men  of 
+science  have  always  had  wide  human  aims  and  interests.  From  the  non-ele- 
+mentalistic  point  of  view,  they  probably  became  productive  geniuses  because  of 
+this  broad  human  urge.  From  the  point  of  view  of  psychiatry,  it  is  well  known 
+that  'mental’  ills  involve  usually  anti-social  affective  attitudes.  When  we  see 
+men  with  distinctly  anti-social  tendencies,  no  matter  how  they  rationalize  them, 
+they  are  invariably  ill  in  some  way.  A  fully  healthy  individual  is  never  anti¬ 
+social. 
+
+That  science  should  include  structural  and  semantic  factors  of  sanity  may 
+be  a  startling  notion,  but  only  at  first!  In  the  present  analysis  this  turns  out 
+to  be,  rather  unexpectedly,  a  necessity.  But  on  second  consideration  we  should 
+rather  expect  it.  Science  and  mathematics  show  the  working  of  the  'human 
+mind’  at  its  best.  Accordingly,  we  can  learn  from  science  and  mathematics  how 
+this  ‘human  mind’  should  work,  to  be  at  its  best  Then  we  should  make  an 
+analysis  of  science  and  mathematics  from  some  wider  structural  and  semantic 
+point  of  view, — the  task  which  has  been  undertaken  in  the  present  work. 
+
+At  this  early  stage  it  is,  of  course,  of  comparatively  little  importance  to 
+what  extent  this  analysis  turns  out  to  be  satisfactory.  The  main  point  is  that 
+it  has  been  originated .  If  the  present  author  fails,  others,  perhaps  even  because 
+of  his  failure,  may  be  stimulated  to  do  it  better.  The  great  and  vital  thing  is 
+that  it  should  be  done,  by  someone. 
+
+SUPPLEMENT  I 
+
+THE  LOGIC  OF  RELATIVITY 
+by  R.  D.  Carmichael 
+
+In  order  to  be  able  to  deal  with  such  quantities  as  are  involved  in  the 
+measurement  of  motion,  time,  velocity,  etc.,  or  indeed  in  the  quantitative 
+analysis  of  any  physical  phenomena,  it  is  necessary  to  have  some  system  or 
+systems  of  reference  with  respect  to  which  measurements  can  be  made.  Let  us 
+consider  any  set  of  things  consisting  of  objects  and  any  kind  of  physical  quanti¬ 
+ties  whatever,  as  electric  charges  or  magnets  or  light-sources  or  telescopes  or 
+other  objects  and  instruments,  each  of  which  is  at  rest  with  respect  to  each  of 
+the  others.  Let  us  suppose  that  among  the  objects  are  clocks,  to  be  used  for 
+measuring  time,  and  rods  or  rules  to  be  used  for  measuring  length,  and  that 
+time  and  length  may  be  measured  at  any  desired  instant  and  any  assigned 
+place.  Such  a  set  of  objects  and  quantities  and  instruments,  including  the 
+equipment  for  measuring  time  and  length,  all  being  at  rest  relatively  to  each 
+other,  we  shall  call  a  system  of  reference.  Such  a  system  we  shall  denote  by  S. 
+In  case  we  have  to  deal  at  once  with  two  or  more  systems  of  reference  we  shall 
+denote  them  by  S ,  S',  Si,  S2,  .  . . 
+
+In  this  definition  of  systems  of  reference  nothing  specific  has  been  said 
+about  the  units  of  length  and  of  time.  If  we  were  dealing  with  our  usual  prin¬ 
+ciples  of  mechanics  we  might  pass  over  such  a  matter  without  any  feeling  of 
+difficulty  about  it;  it  would  be  sufficient  to  proceed  in  accordance  with  our 
+intuitive  conceptions  of  time  and  length.  But  in  the  theory  of  relativity  these 
+appear  in  a  new  light.  We  can  not  proceed  with  confident  dependence  upon  our 
+intuition.  On  the  other  hand  we  shall  not  attempt  to  give  explicit  definitions 
+of  units  of  time  and  length.  We  shall  proceed  from  certain  principles  or  postu¬ 
+lates,  presently  to  be  stated,  to  an  analysis  of  time  and  length  and  so  arrive  at 
+a  suitable  precision  of  these  conceptions  by  means  of  certain  guiding  principles. 
+It  will  be  seen  that  it  is  not  far  from  the  truth  to  say  that  our  fundamental 
+terms  are  defined  implicitly  and  indirectly  by  means  of  the  statements  made 
+about  them  and  accepted  initially  as  valid  and  that  they  may  mean  anything 
+which  is  consistent  with  the  truth  of  these  fundamental  principles  and  postulates. 
+
+The  restricted  principle  of  relativity  may  now  be  stated  in  the  following 
+form: 
+
+Restricted  Principle  of  Relativity.  If  Si  and  S%  are  two  systems  of 
+reference  having  with  respect  to  each  other  a  uniform  unaccelerated  motion ,  then 
+natural  phenomena  run  their  course  with  respect  to  in  accordance  with  precisely 
+the  same  general  laws  as  with  respect  to  Si. 
+
+This  principle  says  nothing  about  the  suitability  of  any  particular  system 
+of  reference  for  the  convenient  expression  of  the  laws  of  nature;  but  it  does  say 
+
+SUPPLEMENT  I 
+
+that  if  either  Si  or  S2  is  suitable  the  other  is  equally  suitable,  the  relative  motion 
+of  the  two  being  unaccelerated. 
+
+In  order  to  bring  into  suitable  relations  the  measurements  made  on  one 
+system  of  reference  and  those  made  on  another  it  is  necessary  to  have  some 
+agreement  as  to  the  correspondence  of  units  on  the  two  systems.  Accordingly 
+we  shall  make  the  following  assumption  concerning  the  correspondence  of  units: 
+
+Principle  of  Correspondence  of  Units.  The  units  of  any  two  systems 
+Si  and  S2  are  such  that  the  same  numerical  result  will  he  obtained  in  measuring 
+with  the  units  of  S\  a  quantity  L\  and  with  the  units  of  Si  a  quantity ‘  L%  when  the 
+relation  of  Li  to  Si  is  precisely  the  same  as  that  of  L2  to  Si. 
+
+We  shall  agree  that  the  restricted  principle  of  relativity  is  to  be  understood 
+in  a  sense  which  implies  this  assumption  concerning  the  correspondence  of  units; 
+that  is,  the  latter  will  be  taken  as  a  more  precise  formulation  of  a  part  of  the 
+content  of  the  former.  It'  is  clear  that  the  possibility  of  realizing  this  latter  is 
+taken  for  granted  in  the  Galileo-Newtonian  mechanics;  it  is  often  passed  over 
+without  remark  although  it  is  a  profound  fact  and  is  a  part  of  the  essential 
+basis  of  any  theory  of  motion. 
+
+It  is  a  grave  question  whether  the  restricted  principle  of  relativity  can  be 
+maintained  in  the  interpretation  of  natural  phenomena.  Indeed  in  the  more 
+general  theory  of  relativity,  to  be  taken  up  later,  it  is  treated  merely  as  a  sort 
+of  approximation  to  a  more  comprehensive  principle — an  approximation  strictly 
+valid  only  in  the  absence  of  a  gravitational  field  but  very  close  to  the  truth  for 
+a  wide  variety  of  phenomena  including  most  of  those  which  are  purely  terrestrial. 
+
+There  are  two  particular  characteristic  postulates,  or  ‘laws  of  nature’, 
+lying  at  the  base  of  the  restricted  theory  of  relativity.  These  may  be  stated  as 
+follows: 
+
+Postulate  M.  The  unaccelerated  motion  of  a  system  of  reference  S  can  not 
+be  detected  by  observations  made  on  S  alofie ,  the  units  of  measurement  being  those 
+belonging  to  S, 
+
+Postulate  R.  The  velocity  of  light ,  in  free  space ,  measured  on  an  unac¬ 
+celerated  system  of  reference  S  by  means  of  units  belonging  to  St  is  independent  of 
+the  velocity  of  S  and  of  the  unaccelerated  velocity  of  the  light-source . 
+
+For  these  two  particular  postulates  there  is  the  strongest  possible  experi¬ 
+mental  evidence.  Everything,  known  points  toward  their  truth,  and  there  is 
+nothing  known  which  in  any  way  seems  to  be  in  disagreement  with  them.  It 
+is  to  be  observed  that  they  apply  only  to  the  ideal  case,  that  is,  the  case  in  which 
+there  is  supposed  to  be  no  gravitational  field. 
+
+For  the  development  of  the  restricted  theory  of  relativity  there  are  three 
+additional  necessary  postulates,  or  ‘laws  of  nature;’  those  that  theory  shares 
+in  common  with  the  Galileo-Newtonian  mechanics.  Such  assumptions  in  some 
+form  are  essential  to  the  initial  arguments  and  to  the  conclusions  which  are 
+drawn  by  means  of  them.  To  the  present  writer  it  seems  to  be  preferable  to 
+have  these  assumptions  explicitly  stated.  They  may  be  put  into  the  following 
+form : 
+
+THE  LOGIC  OF  RELATIVITY 
+
+Postulate  V.  If  the  velocity  of  a  system  of  reference  Si  relative  to  a  system 
+of  reference  Si  is  measured  by  means  of  the  units  belonging  to  Si  and  if  the  velocity 
+of  Si  relative  to  S%  is  measured  by  means  of  the  units  belonging  to  S2  the  two  results 
+will  agree  in  numerical  value . 
+
+Postulate  T.  If  two  systems  of  reference  Si  and  S2  move  with  unaccelerated 
+relative  velocity  and  if  a  body  moves  relatively  to  one  of  the  systems  in  a  straight 
+line  with  unaccelerated  velocity  then  it  also  moves  in  a  straight  line  relatively  to  the 
+other  and  with  unaccelerated  velocity. 
+
+Postulate  L.  If  two  systems  of  reference  Si  and  S2  move  with  unaccelerated 
+relative  velocity  and  if  a  line  segment  l  is  perpendicular  to  the  line  of  relative  motion 
+of  Si  and  S%  and  is  fixed  to  one  of  these  systems,  then  the  length  of  l  measured  by 
+means  of  the  units  belonging  to  Si  will  be  the  same  as  its  length  measured  by  means 
+of  the  units  belonging  to  S2. 
+
+We  now  have  before  us  the  logical  basis  upon  which  may  be  built  the  re¬ 
+stricted  theory  of  relativity  in  all  its  details.  It  has  been  put  in  essentially  the 
+same  form  as  that  employed  in  my  ‘Theory  of  Relativity”  (published  by  Wiley 
+and  Sons,  New  York)  and  in  my  earlier  articles  in  “The  Physical  Review”. 
+Reference  may  be  made  to  the  book  named  for  the  detailed  development  of  the 
+theory.  Here  we  shall  attempt  to  sketch  only  the  progress  of  ideas  and  to 
+indicate  the  main  conclusions. 
+
+The  first  thing  to  be  done  in  developing  the  theory  on  this  basis  is  to 
+consider  carefully  the  relation  between  the  time  units  of  the  two  systems.  The 
+following  remarkable  conclusion  is  reached  by  a  process  of  reasoning  which  is 
+fully  cogent  in  character: 
+
+If  two  systems  of  reference  Si  and  S2  move  with  a  relative  velocity  v  and 
+/ 3  is  the  ratio  v/c  of  v  to  the  velocity  c  of  light  as  measured  on  either  system, 
+then  to  an  observer  on  Si  the  time  unit  of  5i  appears  to  be  in  the  ratio  Vl  —  /S2:l 
+to  that  which  is  described  to  him  as  a  unit  by  an  observer  on  £2  while  to  an 
+observer  on  £2  the  time  unit  of  S2  appears  to  be  in  the  ratio  a/  1  — /32:1  to  that 
+which  is  described  to  him  as  a  unit  by  the  observer  on  St. 
+
+Thus  we  have  the  extraordinary  conclusion  that  the  time  units  of  the 
+two  systems  of  reference  Si  and  62,  not  at  rest  relatively  to  each  other,  are  of 
+different  lengths  in  such  a  way  that  an  observer  on  either  system  thinks  that 
+the  time  unit  of  the  other  system  is  greater  than  his  own.  It  is  evident  that 
+no  simple  change  of  the  unit  on  either  system  (or  both)  will  bring  the  units 
+into  agreement  for  observers  on  both  systems.  As  postulates  V  and  L  and  T 
+are  generally  accepted  and  have  not  elsewhere  led  to  such  strange  conclusions 
+it  is  natural  to  suppose  that  the  strangeness  here  is  not  due  to  them.  In  the 
+argument  the  restricted  principle  of  relativity  needs  to  be  used  only  in  so  far 
+as  it  is  involved  in  the  conclusion  that  the  units  of  any  two  systems  of  reference 
+and  S2  are  such  that  the  same  numerical  result  is  obtained  in  measuring 
+with  the  units  of  Si  a  quantity  Li  and  with  the  units  of  £2  a  quantity  when 
+the  relation  of  Li  to  5i  is  precisely  the  same  as  the  relation  of  L2  to  62.  But 
+this  principle  is  accepted  in  the  classical  mechanics  and  has  not  elsewhere 
+led  to  strange  results.  The  conclusion  in  postulate  M  appears  to  be  demanded 
+
+SUPPLEMENT  I 
+
+by  the  strongest  experimental  evidence;  it  is  generally  accepted;  if  the  strange 
+dement  in  the  result  concerning  units  of  time  is  due  to  this  postulate,  it  appears 
+that  we  must  accept  it  as  being  required  by  such  experience  as  has  already 
+been  tested  with  due  care.  Hence  the  condusion  seems  to  be  inevitable  that 
+the  strangeness  in  our  result  is  due  prindpally  to  postulate  R. 
+
+We  shall  presently  see  that  the  same  basis  of  postulates  leads  to  the  con- 
+elusion  that  corresponding  units  of  length  in  the  two  systems  are  also  different 
+when  talcen  in  certain  directions.  From  the  transformations  of  time  and  space 
+which  result  from  the  conclusions  thus  obtained  the  whole  restricted  theory 
+of  relativity  may  be  deduced  (as  is  shown  in  the  book  mentioned).  Therefore 
+this  theory  depends  essentially  on  the  principle  of  correspondence  of  units  in 
+two  systems  of  reference  and  on  the  propositions  set  forth  explidtly  in  the 
+postulates;  and  all  of  these  are  dther  generalizations  from  experiment  or 
+statements  of  laws  which  have  usually  been  accepted.  Hence  we  conclude: 
+The  restricted  theory  of  relativity  may  he  developed  by  logical  processes  from  the 
+generalized  results  of  certain  experiments  together  with  certain  laws  which  have 
+jor  a  long  fame  been  accepted . 
+
+•  r?ult  COr,Cerning  the  reIation  of  units  of  length  may  be  put 
+
+in  the  following  form: 
+
+If  two  systems  of  reference  S,  and  St  move  with  a  relative  velodty  t>  and 
+if is  the  ratio  v/c  of  v  to  the  vdodty  c  of  light  as  measured  on  either  system 
+then  to  an  observer  on  5i  the  unit  of  length  of  5!  along  the  line  of  relative 
+motion  appears  to  be  in  the  ratio  VTZ^-.l  to  that  which  is  described  to 
+m  as  a  unit  by  an  observer  on  S2  while  to  an  observer  on  St  the  unit  of  length 
+of  St  along  the  line  of  relative  motion  appears  to  be  in  the  ratio  Vl  —B*:l  to 
+that  which  is  described  to  him  as  a  unit  by  the  observer  on  Si, 
+
+These  remarkable  conclusions  concerning  units  of  length  in  two  systems 
+
+of  reference  rest  on  just  those  postulates  which  led  to  the  strange  results  as 
+to  the  units  of  time. 
+
+What  often  impresses  one  as  the  most  remarkable  conclusion  in  the  theory 
+o  relativity  is  one  which  implies  that  the  notion  of  simultaneity  of  events 
+happening  at  different  places  is  indefinite  in  meaning  until  some  convention 
+is  adopted  as  to  how  simultaneity  is  to  be  determined.  In  fact,  there  is  no  such 
+thing  as  absolute  simultaneity  of  events  happening  at  different  places.  With 
+respect  to  the  measured  time  and  space  of  physics  we  must  conclude  that 
+time  does  not  run  its  course  independently  of  space.  Measured  time  and  space 
+are  indissolubly  bound  together.  The  theorem  which  sets  this  forth  most 
+concretely  may  be  stated  in  the  following  way: 
+
+Let  two  systems  of  reference  *  and  Ss  have  an  unaccelerated  relative 
+velocity  v.  Let  an  observer  on  5,  place  two  clocks  in  the  line  of  relative  motion 
+of  Si  and  St  and  adjust  them  so  that  they  appear  to  him  to  mark  simultaneously 
+the  same  time.  Then  to  an  observer  on  5,  the  clock  on  St  which  is  forward 
+m  point  of  motion  appears  to  be  behind  in  point  of  time  by  the  amount 
+
+THE  LOGIC  OF  RELATIVITY 
+
+H  d 
+
+7*'VxZjp 
+
+where  c  is  the  velocity  of  light,  0  =*v/ct  and  d  is  the  distance  between  the  two 
+clocks  as  measured  by  the  observer  on  Su 
+
+By  means  of  the  foregoing  theorems  we  may  readily  obtain  the  formulae 
+for  the  celebrated  Lorentz  transformation  of  space  and  time  coordinates. 
+(The  non-mathematical  reader  may  omit  the  remainder  of  this  paragraph.) 
+Let  two  systems  of  reference  5  and  S'  have  the  relative  velocity  v  in  the  line  /. 
+Let  systems  of  rectangular  coordinates  be  attached  to  the  systems  of  reference 
+S  and  S'  in  such  a  way  that  the  x-axis  of  each  system  is  in  the  line  l  and  that 
+the  two  ic-axes  have  the  same  positive  direction,  and  let  the  y-axis  and  the 
+z-axis  of  one  system  be  parallel  to  the  y-axis  and  z-axis  respectively  of  the 
+other  system  and  have  their  positive  senses  in  the  same  directions.  Let  these 
+two  systems  of  axes  coincide  at  the  time  zero.  Furthermore,  for  the  sake  of 
+distinction,  denote  the  space  and  time  coordinates  on  S  by  x,  y,  s,  t,  and  those 
+on  S'  by  x',  y,  s',  t'.  Let  us  suppose  that  S'  moves  with  respect  to  5  in  the 
+direction  of  increasing  values  of  x.  Then  it  turns  out  that  the  foregoing 
+theorems  imply  the  following  relations  between  the  two  systems  of  coordinates; 
+
+Vl-,31 
+
+x' 
+
+Vl  -0* 
+
+(*-»/), 
+
+Z-y, 
+
+tf-s. 
+
+where  /S  =t t/e  and  c  is  the  velocity  of  light. 
+
+The  foregoing  theorems,  or  (in  more  compact  language)  the  foregoing 
+equations  of  transformation,  furnish  the  effective  means  for  developing  the 
+whole  of  the  restricted  theory  of  relativity.  Our  purpose  does  not  require  us 
+to  follow  that  development  further  in  detail.  But  we  may  mention  a  few  of 
+the  remarkable  conclusions  which  now  emerge  readily.  If  two  velocities,  each 
+of  which  is  less  than  c,  are  combined  the  resultant  velocity  is  also  less  than  c. 
+The  mass  of  a  body  increases  with  an  increase  in  its  velocity  relative  to  the 
+system  on  which  the  mass  is  measured.  The  mass  of  a  body  at  rest  appears 
+to  be  the  measure  of  its  internal  energy.  Mass  and  energy  in  general  appear 
+to  be  essentially  convertible  terms.  The  velocity  of  light  is  a  maximum  which 
+the  velocity  of  a  material  body  may  approach  but  can  never  equal  or  exceed. 
+
+The  development  by  Einstein  in  1905  of  the  foregoing  restricted  theory 
+of  relativity  led  to  a  fresh  analysis  of  the  whole  foundations  of  physics.  This 
+was  made  inevitable  by  its  effective  attack  upon  such  fundamental  notions  as 
+those  of  length  and  time  and  mass  and  velocity.  Einstein  himself  succeeded 
+in  1915  in  greatly  extending  the  range  of  his  theory,  developing  what  has  since 
+
+SUPPLEMENT  I 
+
+been  called  the  general  theory  of  relativity.  We  shall  now  speak  briefly  con- 
+cerning  the  foundations  underlying  the  latter.  7 
+
+hi  ^Itreadyin  the  restricted  theory  time  and  space  had  become  essentially 
+blended  so  that  we  could  no  longer  speak  of  a  three-dimensional  space  2 
+separate  and  apart  from  the  one  dimension  of  time.  A  sort  of  combination  of  the 
+
+7°  <'ame ,‘ntu  °Uf  C°nCepti0n  and  we  be*an  t0  realize  that  they  can  not  be 
+disentangled  by  the  measurements  of  physics.  We  are  forced  to  consider  a 
+four-dimensional  continuum  of  space  and  time.  It  is  with  this  space-time 
+extension  of  four-dimensions  that  the  general  theory  of  relativity  has  essentially 
+to  do,  and  its  problems  are  intimately  connected  with  the  relations  of  two 
+systems  of  reference  of  the  generalized  sort  which  this  makes  necessary  The 
+Lorentz  transformation  was  a  great  psychological  (and  even  logical)  aid  in 
+the  formation  of  the  new  theory. 
+
+.  ..  Lf, US  consider  a  four-dimensional  extension  in  which  space  and  time  are 
+intimately  connected  and  blended  so  that  each  point  P  in  these  four  dimensions 
+represents  a  definite  place  A  at  a  definite  time  t  at  which  A  is  to  be  considered 
+
+^inJ  PU AM  1 111116  3  maIerkl  PartiC,e  is  repr™d  by  a  succession  of  these 
+ff  f.  „  ‘hfe  P°ln'?  for  a  given  material  particle  lie  on  what  is  called  the 
+world-line  of  that  particle;  and  this  world-line  represents  the  state  of  motion 
+(or  eventually  the  state  of  rest)  of  the  material  particle.  If  two  objects  come 
+into  coincidence  at  an  instant  their  world-lines  have  a  corresponding  inter¬ 
+section.  The  things  which  the  physicist  deals  with  ultimately  are  these  inter- 
+sections  of  world-lines. 
+
+In  order  to  deal  with  them  he  finds  it  necessary  to  introduce  certain  ref¬ 
+erence  numbers  which  we  may  call  the  coordinates  xlt  x2,  x3,  x4.  These  numbers 
+change  m  such  a  way  that  their  variation  along  any  world-line  is  continuous 
+and  thut  no  two  points  ever  have  the  same  ordered  set  of  four  numbers  assigned 
+to  them.  This  gives  us  a  very  general  set  of  coordinates.  It  is  clear  that  co¬ 
+ordinates  can  be  set  up  in  an  immense  variety  of  ways  so  as  to  have  these  few 
+very  general  properties.  One  of  the  first  problems  in  the  general  theory  of 
+relativity  is  that  of  the  character  of  the  transformation  by  means  of  which  we 
+can  pass  from  a  given  choice  *2,  x3l  *4  of  coordinates  to  a  second  one  |2 
+«-  f 4«  It  is  clear  that  we  must  have  relations  of  the  form 
+
+£*•  =fi  (*i,  X2 ,  #3,  Xi),  i  =  1,  2,  3,  4, 
+
+where  the  functions/,-  of  the  variables  *„  **,  *4  are  rather  general  functions 
+
+of  these  four  arguments  and  are  indeed  to  a  large  extent  arbitrary.  Now  suppose 
+that  the  laws  of  nature  are  expressed  in  terms  of  the  coordinates  *  and  also  in 
+terms  of  the  coordinates  |;  the  question  arises  as  to  what  relation  one  ought  to 
+expect  between  these  two  forms  of  the  law.  Now  there  are  no  coordinates  in 
+nature.  These  have  been  inserted  by  us  for  our  convenience.  What  is  more 
+natural,  then,  than  the  demand  that  we  shall  formulate  our  statements  of  these 
+kws  so  that  they  shall  have  the  same  form  in  these  two  systems  of  reference, 
+and  indeed  in  all  possible  systems  of  reference?  This  is  precisely  one  of  the 
+fundamental  basic  requirements  upon  which  Einstein  insists.  The  corresponding 
+
+THE  LOGIC  OF  RELATIVITY 
+
+principle  lie  has  called  the  principle  of  covariance.  In  detailed  and  precise  form, 
+It  may  be  stated  somewhat  as  follows: 
+
+Principle  of  Covariance.  The  laws  of  nature  can  he  { and  are  to  he)  ex¬ 
+pressed  in  such  mathematical  form  in  terms  of  the  space-and-time  coordinates  Xu 
+Xj,  xj,  xa  that  they  shall  remain  invariant  under  every  transformation  of  the  form 
+—f%  (^i)  x<Ly  x$}  Xa)}  i  —  1,  2,  3,  4, 
+where  the  functions  f  are  subject  to  the  following  conditions: 
+
+1)  They  are  {apart  from  exceptional  points  or  regions  of  fewer  than  four 
+dimensions)  finite  and  continuous  and  indefinitely  differentiable; 
+
+2)  They  are  such  that  the  transformation  is  uniquely  reversiblet  the  inverse 
+transformation  having  the  properties  demanded  for  the  direct  transformation ; 
+
+3)  They  are  such  that  in  both  the  transformation  and  its  inverse  the  fourth 
+variable  has  the  character  of  a  time  variable  while  the  other  three  have  the  character 
+of  space  variables. 
+
+This  principle  demands  the  attainment  of  an  ideal  which  is  admittedly 
+mathematical  in  its  character.  By  means  of  it  alone  one  could  not  come  to  grips 
+with  phenomena.  One  needs  some  additional  hypotheses.  One  of  these  is  to 
+the  effect  that  the  restricted  theory  of  relativity  is  valid  in  free  space,  that  is, 
+in  space  free  of  a  gravitational  field.  The  other  is  the  celebrated  law  of  the 
+equivalence  of  gravitational  forces  and  the  apparent  forces  due  to  acceleration. 
+This  may  be  set  forth  as  follows: 
+
+Principle  of  Equivalence.  For  an  indefinitely  small  region  of  the  world 
+{that  is ,  a  region  so  small  that  the  variation  of  gravitation  in  it  in  both  time  and 
+space  is  negligible)  there  exists  a  coordinate  system  So  {Xu  X2,  X3,  Xa)  with  respect 
+to  which  gravitation  has  no  influence  either  upon  the  motions  of  mass  particles  or 
+upon  any  other  physical  phenomena  whatsoever. 
+
+Such  is  the  logical  basis  from  which  the  general  theory  of  relativity  proceeds. 
+We  can  not  here  follow  it  in  its  high  enterprise  of  conquest  over  the  laws  of 
+nature.  The  road  (at  present  and  perhaps  for  a  long  time  to  come)  can  be  fol¬ 
+lowed  only  by  one  who  is  willing  to  give  serious  and  long-continued  attention 
+to  the  study  of  certain  branches  of  mathematics.  In  the  earlier  parts  of  the 
+argument  the  reasoning  is  rather  technical  and  abstruse  in  character  and  the 
+general  steps  are  intelligible  only  to  those  who  have  a  considerable  acquaintance 
+with  a  certain  range  of  mathematical  ideas.  After  a  time  the  exposition  comes 
+down,  if  not  to  earth,  at  least  to  the  solar  system  and  cases  begin  to  appear  in 
+which  it  is  possible  to  find  means  for  choosing  between  the  theory  of  Newton 
+and  that  of  Einstein. 
+
+Three  crucial  phenomena  have  been  brought  to  light  by  means  of  which  to 
+test  between  the  two  theories.  We  shall  now  speak  briefly  of  each  of  these. 
+
+For  a  long  time  astronomers  have  known  that  there  is  a  certain  forward 
+advance  in  the  perihelion  position  of  the  planet  Mercury  which  can  not  be 
+accounted  for  on  Newton’s  theory.  It  amounts  to  about  42  seconds  of  angular 
+measure  per  century.  This  is  well  accounted  for  by  Einstein's  theory. 
+
+Einstein  predicted,  on  the  basis  of  his  theory,  that  a  ray  of  light  from  a 
+star  which  is  seen  apparently  close  to  the  edge  of  the  sun  would  be  found  to  be 
+
+SUPPLEMENT  I 
+
+beni  out  of  a  straight  path  and  that  the  deflection  thus  caused  would  turn  out 
+
+SeC°n^  °f  T'f  n,eaSUre’  the  bendSn*  ^'"8  i"  ^ch  a  direction 
+ttiat  Ae  star  could  actually  be  seen  when  just  behind  the  edge  of  the  sun.  The 
+
+pred.ct.on  has  been  verified  with  a  good  degree  of  precision,  observations  having 
+been  taken  at  two  eclipses  of  the  sun. 
+
+A  third  crucial  phenomenon  is  associated  with  the  vibrations  of  an  atom 
+m  a  gravitational  field.  Since  the  periods  of  an  atom  furnish  a  sort  of  natural 
+clock  it  should  give  an  invariant  measure  of  an  interval  of  time.  Proceeding 
+from  this  hypothesis  one  concludes  that  an  atom  vibrates  more  slowly  on  the 
+sun  than  on  the  earth,  due  to  the  influence  of  the  larger  gravitational  field  of 
+toe  sun.  Hence  the  lines  of  the  spectrum  should  be  displaced  towards  the  red. 
+
+or  e  part  of  the  spectrum  usually  observed  this  amounts  to  about  .008 
+tentt.-meters  (a  tenth-meter  -lO"”  meters).  For  a  long  time  there  was  grave 
+doubt  whether  this  phenomenon  is  actually  existent;  but  the  evidence  for  its 
+existence  now  (1933)  seems  to  be  conclusive. 
+
+Moreover  m  recent  years  it  has  come  to  be  recognized  that  the  stars  known 
+as  wh.te  dwarfs  have  masses  which  are  comparable  with  that  of  the  sun,  while 
+their  radu  are  much  smaller.  The  companion  of  Sirius  is  a  star  whose  radius  is 
+about  1/35  of  that  of  our  sun.  Computation  shows  that  the  shift  in  the  lines  of 
+the  spectrum  produced  by  light  passing  near  this  star  should  be  about  .30 
+tenth-meters.  This  matter  was  put  to  the  test  at  Mount  Wilson  Observatory 
+and  an  actual  shift  of  .32  tenth-meters  was  found.  One  would  conclude  then 
+that  it  is  now  hardly  possible  to  doubt  the  actual  existence  of  the  spectral  shift 
+predicted  by  the  Einstein  theory. 
+
+Whatever  may  be  the  final  verdict  concerning  the  validity  of  the  theory  of 
+relativity  as  a  whole,  it  has  certainly  made  a  fundamental  and  permanent  con- 
+tnbution  to  astronomy  in  developing  a  modification  of  Newton’s  law  of  gravi¬ 
+tation.  It  has  been  checked  experimentally  in  three  very  different  ways  and  is 
+thus  estabhshed  on  a  rather  secure  basis.  Three  such  conquests  as  those  just 
+recorded  have  probably  never  before  been  made  so  nearly  simultaneously  by 
+a  single  theory  developed  from  one  point  of  view  consistently  maintained 
+
+SUPPLEMENT  II 
+
+THE  THEORY  OF  TYPES1 
+by  Paul  Weiss* 
+
+It  would  seem  from  the  interpretation  that  Whitehead  and  Russell  put  on 
+the  theory  of  types,  that  it  is  impossible  or  meaningless  to  state  propositions 
+which  have  an  unrestricted  possible  range  of  values,  or  which,  in  any  sense, 
+are  arguments  to  themselves.  Thus  on  the  acceptance  of  the  principle  that 
+statements  about  all  propositions  are  meaningless,2  it  would  be  illegitimate  to 
+say,  “all  propositions  are  representable  by  symbols,”  “all  propositions  involve 
+judgment,”  “all  propositions  are  elementary  or  not  elementary,”  and  if  no 
+statement  could  be  made  about  all  the  members  of  a  set,8  it  would  be  impossible 
+to  say,  “all  meanings  are  limited  by  a  context,”  “all  ideas  are  psychologically 
+conditioned,”  “all  significant  assertions  have  grammatical  structures,”  etc., 

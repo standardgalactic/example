@@ -1,0 +1,500 @@
+have  structural  evidence  that  even  ‘space*  and  ‘time*  represent  statistical 
+averages  and  do  not  apply  to  the  smallest  scale  events.  It  is  natural  that 
+cause  and  effect  should  join  their  company.  The  above  involves  epis¬ 
+temologically  the  passing  from  the  A  two-valued  system  to  a  i 
+oo-valued  system.  Psychophysiologically,  it  involves  new  s.r. 
+
+In  mathematics,  the  old  religious  attitude  toward  the  ‘infinitesimal* 
+is  rapidly  vanishing.  Many  mathematicians  deliberately,  and  justly,  avoid 
+the  use  of  the  word.  A  term  like  ‘indefinitely  small*  or  ‘indefinitesimal* 
+is  a  better  descriptive  term,  truer  in  its  implications.  We  even  see  scien¬ 
+tists  like  Eddington,  who  had  the  pluck — it  is  still  pluck,  unfortunately — 
+to  treat  enormous  stellar  distances  as  ‘infinitesimals  of  second  order*. 
+(‘Infinitesimal*  is  used  here  in  a  mathematical  sense  of  indefinitesimal.) 
+
+It  has  been  already  mentioned  that  most  of  the  important  discov¬ 
+eries  of  mathematics  were  due  to  a  special  semantic  attitude  on  the  part 
+of  those  who  made  them.  This  attitude  was  an  unconscious  or  conscious 
+treatment  of  mathematics  as  a  form  of  human  behaviour.  We  see  an 
+example  in  the  work  of  Weierstrass  and  his  analysis  of  the  ‘infinitesimal*. 
+He  did  not  take  the  ‘infinitesimal*  as  some  objectified  metaphysical  struc¬ 
+ture  and  remain  content ;  he  analysed  the  genetic  process  by  which  the 
+‘infinitesimal*  was  made  by  Smith  and  Brown,  and  so  treated  mathematics 
+structurally  as  a  form  of  human  behaviour.  Any  deepening  of  the  foun¬ 
+dations,  or  clarification  of  fundamental  notions,  or  investigation  of 
+underlying  assumptions  . ,  must,  by  necessity,  have  this  characteristic.  The 
+man  who  does  it  must  take  into  account  how  the  given  process  was  pro¬ 
+duced — analyse  its  structure,  and  so  start  with  the  ways  and  methods  of 
+production.  In  other  words,  he  must  treat  the  given  problem  as  a  form 
+of  human  behaviour.  The  fact  that  this  simple  and  quite  obvious  method 
+has  been  formulated  and  structurally  explained  as  desirable  is  helpful. 
+It  shows  the  method  and  structure  of  the  path  by  which  advances  can  be 
+reached.  We  can  train  the  semantic  reactions  of  students  to  it  and  make 
+progress  inevitable;  but  now,  instead,  it  takes  a  genius  to  break,  by  him- 
+
+‘INFINITESIMAL’,  ‘CAUSE’  AND  ‘EFFECT’ 
+
+self,  through  the  old  semantic  habits  which  have  been  produced  by  the 
+lack  of  scientific  psycho-logics  and  training. 
+
+The  term  ‘correct  symbolism’  has  already  been  used.  In  this  world 
+of  structurally  absolute  individuals,  the  minimum  of  structurally  desir¬ 
+able  correct  symbolism  must  provide  for  the  possibility  of  labelling  these 
+absolute  individuals  by  separate  names.  For  scientific  purposes,  we  must 
+use  terms  built  on  the  pattern  of  mathematical  symbolism;  i.e.,  accord¬ 
+ing  to  the  extensional  methods.  We  must  adopt  a  behaviouristic  attitude 
+and  habits  in  our  term-making.  As  we  proceed,  we  must  emphasize 
+order,  considering  what  comes  first  and  what  next.  This  is  semantically 
+important,  for  the  usual  procedure  is  entirely  different:  first,  we  have 
+our  structurally  ‘preconceived’  doctrines  and  languages ;  next,  we  observe 
+the  structure  of  the  world;  and  then  we  try  to  force  the  observed 
+facts  into  the  linguistic  structural  patterns.  But,  in  the  new  way,  we 
+start  with  silent  observations,  and  search  empirically  for  structure ;  next, 
+we  invent  verbal  structures  similar  to  tjiem;  and,  finally,  we  see  what 
+can  be  said  about  the  situation,  and  so  test  the  language.  Experience 
+shows  that  the  old  habits  of  labels  first,  objects  next,  instead  of  the 
+structurally  natural  order  of  objects  first,  labels  next,  is  semantically 
+pernicious  and  harmful.  In  Part  VII,  it  is  shown  that  the  semantic 
+structural  reversal  of  the  unnatural  reversed  order  is  crucial  for  sanity. 
+
+From  the  days  of  the  Greeks  an  acute  difficulty  has  made  itself 
+felt;  namely,  how  to  reconcile  the  world  of  physics  with  the  world  of 
+mathematics.  For  mathematics,  we  need  ‘extensionless*  points;  for 
+physics,  we  need  finite-sized  elements.  Whitehead  and  Russell  have 
+suggested  different  structures  by  which  this  may  be  accomplished.  It 
+seems  possible  to  demand  that  none  of  the  material  dealt  with  shall  be 
+smaller  than  an  assigned  finite  size.  That  this  condition  can  be  recon¬ 
+ciled  with  mathematical  continuity  seems  to  be  novel.  Whether  this 
+device  is  valid  or  not,  it  is  yet  too  early  to  decide.  This  problem  of 
+reconciliation  will  become  important  further  on  when  we  come  to  speak 
+of  events  as  made  up  from  point-events.* 
+
+CHAPTER  XVI 
+
+ON  THE  EXISTENCE  OF  RELATIONS 
+
+We  cannot  choose  to  do  without  them,  without  seeking  to  choose,  since 
+choice  is  action,  and  involves,  for  instance,  the  aforesaid  difference  between 
+affirming  and  denying  that  we  mean  to  do  thus  and  thus.  (449) 
+
+JOSIAH  ROYCE 
+
+In  concluding  the  foregoing  remarks,  I  must  explain  one  more 
+general  consideration.  This  concerns  an  extremely  profound  structural 
+psycho-logical  discovery,  made  by  Prof.  Royce,1  which  underlies  any  and 
+all  semantic  problems  of  human  ‘mentality'.  Royce,  although  a  ‘philoso¬ 
+pher',  was  a  lover  of  mathematics  and  was  much  interested  in  the  prob¬ 
+lems  of  order.  He  was  trying  to  reformulate  ‘logic*  in  terms  of  order. 
+We  had  already  encountered  the  inherent  circularity  in  the  structure  of 
+human  knowledge,  which  admittedly  is  semantically  disconcerting  if  not 
+faced  boldly.  But,  when  recognized,  this  circularity  is  not  only  not 
+vicious,  but  even  adds  to  the  interest  and  beauty  of  life  and  makes 
+science  more  interesting.  Besides,  the  structure  of  human  knowledge  is 
+such  that  there  are  activities  of  man  which  are  not  only  circular  but  also 
+‘absolute*,  or  ‘necessary*.  Whatever  we  do,  we  cannot  get  away  from 
+them — a  fact  of  serious  semantic  importance.  Except  from  Royce  and  a 
+few  of  his  students,  these  problems  have  as  yet  received  little  attention. 
+
+Royce  shows  that  there  are  certain  activities  which  we  reinstate  and 
+verify  through  the  very  fact  of  attempting  to  assume  that  these  forms  of 
+activity  do  not  exist,  or  that  these  laws  are  not  valid.  If  any  one  attempts 
+to  say  that  there  are  no  classes  whatsoever  in  his  world,  he  thereby 
+inevitably  classifies.  If  any  one  denies  the  existence  of  relations,  and, 
+in  particular,  a  semantic  relation  between  affirmation  and  denial,  or 
+affirms  that  ‘yes*  and  ‘no*  have  one  meaning,  in  that  breath  he  affirms  and 
+denies.  He  makes  a  difference  between  ‘yes*  and  ‘no*,  and  emphatically 
+asserts  relational  equivalence  even  in  denying  the  difference  between 
+‘yes*  and  ‘no*.  To  use  Royce*s  own  remarkable  words :  ‘In  brief,  what¬ 
+ever  actions  are  such,  whatever  types  of  action  are  such,  whatever 
+results  of  activity,  whatever  conceptual  constructions  are  such,  that  the 
+very  act  of  getting  rid  of  them,  or  of  thinking  them  away,  logically  im¬ 
+plies  their  presence,  are  known  to  us  indeed  both  empirically  and  prag¬ 
+matically  (since  we  note  their  presence  and  learn  of  them  through 
+action)  ;  but  they  are  also  absolute.  And  any  account  which  succeeds  in 
+telling  what  they  are  has  absolute  truth.  Such  truth  is  a  “construction'* 
+
+ON  TilM  KXiSTENCK  OK  RELATIONS 
+
+or  “creation”,  for  activity  determines  its  nature.  It  is  “found”,  for  we 
+observe  it  when  we  act.’ 
+
+We  see  that  we  have  definite  semantic  guides  in  this  enquiry.  One 
+guide  to  follow  is  these  unescapable  characteristics  of  the  structure  of 
+human  knowledge,  which  Royce  called  ‘absolute’,  but  which  I  prefer  to 
+call  ‘necessary’.  The  other  guide  leads  us  to  avoid  ‘impossible’  or  absurd 
+statements,  or  statements  which  have  no  ‘logical  existence’ ;  which,  in  the 
+rough,  means  statements  which  abuse  symbolism  and  produce  noises . , 
+instead  of  symbols.  As  we  have  already  seen,  both  guides  have  sound 
+neurological  justification,  to  be  expressed  in  terms  of  order  and  circu¬ 
+larity ,  terms  uniquely  fit  structurally  to  spe£k  about  processes,  stages  of 
+processes,  orders  of  abstractions  , .  Obviously,  our  task  of  formulating  a 
+theory  of  sanity  can  proceed  along  these  structural  and  semantic  lines. 
+It  should  be  noticed  that  mathematics,  considered  as  a  form  of  human 
+behaviour,  and  ‘mental’  illnesses,  also  considered  as  definitely  human 
+behaviour,  have  yielded  their  share  for  our  structural  guidance. 
+
+Although  many  a  scientist  has  instinctively  proceeded  in  the  way 
+indicated,  yet  the  instinctive  successful  procedure  of  an  isolated  scien¬ 
+tist  is  usually  not  capable  of  being  transmitted  to  others.  It  is  his  personal 
+benefit.  Only  a  methodological  structural  formulation  of  such  private 
+routes  to  semantic  success  can  become  a  public  fact,  to  be  analysed, 
+criticized,  improved,  and  transmitted  or  rejected. 
+
+It  must  be  noticed  that  terms  like  ‘chance’  or  ‘law’  are  fundamentally 
+connected  with  discussions  of  determinism  versus  indeterminism,  and  so 
+involve  problems  in  connection  with  ‘necessary’  semantic  processes.  In 
+the  example  about  the  probability  of  the  M-event,  it  was  shown  how 
+a  ‘chance’  event  on  one  level  may  become  a  ‘law’  on  another.  The  struc¬ 
+tural  possibility  of  such  transformations  is  very  interesting  and  of  basic 
+semantic  importance.  For  scientific  purposes,  we  must  accept  oo-valued 
+determinism  on  the  scientific  level  as  it  is  the  test  of  structure;  but  this 
+has  nothing  to  do  with  the  apparent ,  mostly  two- valued  indeterminism  in 
+our  daily  lives.  To  solve  a  number  of  equations,  we  must  have  as  many 
+equations  as  we  have  unknowns.  If  we  have  fewer  equations  than 
+unknowns,  we  do  not  get  definite  values ;  our  unknowns  are  still  undeter¬ 
+mined.  The  origin  of  ‘indeterminism’  is  similar ;  we  lack  knowledge ;  the 
+number  of  equations  is  less  than  the  number  of  unknowns.  Hence,  it  is 
+impossible  to  discover  determined  values  in  all  cases.  This  gives  an 
+appearance  of  two-valued  indeterminism,  but  with  the  increase  of  our 
+knowledge,  or  with  additional  equations,  the  unknown  may  be  deter¬ 
+mined.  Determinism  is  a  more  fundamental  point  of  view  than  indeter¬ 
+minism  ;  in  it  we  find  a  test  for  structure .  It  is  also  a  more  general  point 
+
+222  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+of  view,  in  which  indeterminism  is  only  a  particular  case  and  does  not 
+allow  of  the  structural  test.  In  a  science  of  man,  in  a  ^-system,  we 
+must  start  with  the  more  fundamental  and  general.  Accordingly,  we 
+have  to  accept  oo-valued  determinism,  which,  in  1933,  becomes  the  broad 
+scientific  point  of  view.  The  unnecessary  semantic  war  between  the 
+advocates  of  the  different  points  of  view  has  been  unduly  bitter  and 
+necessarily  futile. 
+
+As  words  are  not  the  things  we  speak  about,  and  the  only  link  is 
+structural,  the  ‘human  mind*  must  require  linguistic  structural  oo-valued 
+determinism  as  a  condition  of  rationality.  As  soon  as  we  find  that  any 
+linguistic  issues  are  not  deterministic,  it  is  an  unmistakable  sign  that 
+the  language  or  the  ‘logic*  we  are  using  is  not  similar  in  structure  to  the 
+empirical  world  and  so  should  be  changed. 
+
+This  statement  seems  to  be  general.  In  application  to  the  new 
+quantum  mechanics’  special  problem,  it  would  appear  that  the  old  macro¬ 
+scopic  language  of  ‘space’,  ‘time*. ,  is  not  similar  to  the  sub-microscopic 
+structure  and  should,  therefore,  be  changed.  Perhaps  the  electrodynamic 
+language,  instead  of  the  macro-mechanistic,  would  fare  better. 
+
+CHAPTER  XVII 
+
+ON  THE  NOTIONS  OF  4 MATTER* t  ‘SPACE’,  ‘TIME’ 
+
+Common  sense  starts  with  the  notion  that  there  is  matter  where  we  can 
+get  sensations  of  touch,  but  not  elsewhere.  Then  it  gets  puzzled  by  wind, 
+breath,  clouds,  etc.,  whence  it  is  led  to  the  conception  of  “spirit” — I  speak 
+etymologically.  After  “spirit”  has  been  replaced  by  “gas,”  there  is  a 
+further  stage,  that  of  the  aether.  (457)  bertrand  russell 
+
+The  supposition  of  common  sense  and  naive  realism,  that  we  see  the 
+actual  physical  object,  is  very  hard  to  reconcile  with  the  scientific  view 
+that  our  perception  occurs  somewhat  later  than  the  emission  of  light  by  the 
+object;  and  this  difficulty  is  not  overcome  by  the  fact  that  the  time  in¬ 
+volved,  like  the  notorious  baby,  is  a  very  little  one.  (457) 
+
+BERTRAND  RUSSELL 
+
+We  have  certain  preconceived  ideas  about  location  in  space  which  have 
+come  down  to  us  from  ape-like  ancestors.  (149)  A.  s.  Eddington 
+
+But  it  does  not  seem  a  profitable  procedure  to  make  odd  noises  on  the 
+off-chance  that  posterity  will  find  a  significance  to  attribute  to  them. 
+
+(149)  A.  S.  EDDINGTON 
+
+There  is  a  blessed  phrase  “hidden  reserves”;  and  generally  speaking  the 
+more  respectable  the  company  the  more  widely  does  its  balance-sheet 
+deviate  from  reality.  This  is  called  sound  finance.  .  .  . 
+
+Thanks  to  Minkowski  a  way  of  keeping  accounts  has  been  found  which 
+exhibits  realities  (absolute  things)  and  balances .  (i49>  a.  s.  eddington 
+
+The  quest  of  the  absolute  leads  into  the  four-dimensional  world.  (149> 
+
+A.  S.  EDDINGTON 
+
+The  views  of  space  and  time  which  I  wish  to  lay  before  you  have  sprung 
+from  the  soil  of  experimental  physics,  and  therein  lies  their  strength.  They 
+are  radical.  Henceforth  space  by  itself,  and  time  by  itself,  are  doomed 
+to  fade  away  into  mere  shadows,  and  only  a  kind  of  union  of  the  two  will 
+preserve  an  independent  reality.  (352)  h.  minkowski 
+
+It  is  a  thing;  not  like  space,  which  is  a  mere  negation;  nor  like  time, 
+which  is — Heaven  knows  what!  (149>  A.  s.  eddington 
+
+Newton  objectivises  space.  Since  he  classes  his  absolute  space  together 
+with  real  things,  for  him  rotation  relative  to  an  absolute  space  is  also  some¬ 
+thing  real,  usu  a.  einstein 
+
+Space  is  only  a  word  that  we  have  believed  a  thing.  (417)  h.  poincar£ 
+
+In  fact,  our  ordinary  description  of  nature,  and  the  idea  of  exact  laws, 
+rests  on  the  assumption  that  it  is  possible  to  observe  the  phenomena  with¬ 
+out  appreciably  influencing  them.  (215)  w.  Heisenberg 
+
+Even  when  this  arbitrariness  is  taken  into  account  the  concept  “obser¬ 
+vation”  belongs,  strictly  speaking,  to  the  class  of  ideas  borrowed  from  the 
+experiences  of  everyday  life.  It  can  only  be  carried  over  to  atomic  phenom¬ 
+ena  when  due  regard  is  paid  to  the  limitations  placed  on  all  space-time 
+descriptions  by  the  uncertainty  principle.  (2i5>  w.  Heisenberg 
+
+224  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+Section  A.  Structural  considerations . 
+
+The  facts  at  hand  in  1933  show  that  the  language  we  use  for  the 
+purpose  of  describing  events  is  not  the  events ;  the  representation  sym¬ 
+bolizes  what  is  going  on  inside  our  skins;  the  events  are  outside  our 
+skins  and  structural  similarity  is  the  only  link  between  them.  Historically, 
+as  a  race,  we  learned  sooner  and  more  about  the  events  outside  our 
+skins  than  about  the  events  inside  our  skins;  just  as  a  fish  or  a  dog 
+‘knows’  a  lot  about  his  world,  lives  sometimes  happily  and  abundantly, 
+and  yet  ‘knows*  nothing  about  biology,  or  physiology,  or  psycho-logics. 
+Only  recently  did  we  begin  to  study  ourselves  scientifically.  At  some 
+stage  of  our  development,  we  introduced  structurally  simple  forms  of 
+representation,  such  as  a  language  of  subject-predicate,  of  additivity, . 
+We  are  still  perplexed  when  we  find  that  the  events  outside  our  skins 
+cannot  be  pressed  into  schemes  which  are  manufactured  inside  our  skins. 
+Our  nervous  system,  with  its  ordered  and  cyclic  structure  and  function, 
+manufactures  abstractions  of  different  orders,  which  have  quite  distinct 
+structure  and  different  characteristics.  On  different  levels,  we  manu¬ 
+facture  different  abstractions,  dynamic  and  static,  continuous  and  discon¬ 
+tinuous  . ,  which  have  to  take  care  of  our  needs.  If  the  verbal  schemes  we 
+invent  do  not  fit  structurally  the  world  around  us,  we  can  always  invent 
+new  schemes  of  new  structure  which  will  be  more  satisfactory.  It  is 
+not  a  problem  of  the  world  around  us,  for  our  words  cannot  change  that, 
+but  of  our  ingenuity.  In  the  meantime,  we  learn  something  very  impor¬ 
+tant;  namely,  about  the  world’s  structure ,  which  is  the  only  content 
+of  knowledge. 
+
+There  are  good  structural  reasons  why  the  world  should,  or  should 
+not,  be  accounted  for  in  terms  of  differential  equations,  or  in  terms  and 
+language  of  ‘causality*, .  The  term  order  is  structurally  fundamental  and 
+will  help  us  in  a  radical  and  constructive  way,  in  our  quest. 
+
+First,  however,  we  will  investigate  some  further  semantic  problems, 
+remembering  that  a  theory  of  sanity,  which  means  a  theory  of  adjust¬ 
+ment,  should  emphasize  the  methodological  and  structural  means  for 
+such  semantic  adjustment.  The  dynamic-static  translations  are  funda¬ 
+mentally  connected  with  different  orders  of  abstractions  and  involve 
+psycho-logical  issues  connected  with  ‘emotions’  and  ‘intellect’,  linearity 
+versus  non-linearity,  ‘straight’  versus  ‘curved*. ,  explained  in  Parts  VII 
+and  VIII. 
+
+In  life,  as  well  as  in  science,  we  deal  with  different  happenings, 
+objects,  and  larger  or  smaller  bits  of  materials.  We  have  a  habit  of 
+speaking  about  them  in  terms  of  ‘matter’.  Through  a  semantic  disturb - 
+
+‘MATTKR’,  ‘SMACK’,  TIMM* 
+
+ance,  called  identification,  we  fancy  that  such  a  thing  as  ‘matter’  has 
+separate  physical  existence.  It  would  probably  be  a  shock  to  be  invited 
+seriously  to  give  a  piece  of  ‘matter’  (give  and  not  burst  into  speech)  .  I 
+have  had  the  most  amusing  experiences  in  this  field.  Most  people,  scien¬ 
+tists  included,  hand  over  a  pencil  or  something  of  this  sort.  But  did  they 
+actually  give  ‘matter’  ?  What  they  gave  is  not  to  be  symbolised  simply 
+‘matter’.  The  object,  ‘pencil’,  which  they  handed ,  requires  linguistically 
+‘space’ ;  otherwise,  there  would  be  no  pencil  but  a  mathematical  point,  a 
+fiction.  It  also  requires  verbally  ‘time’;  otherwise,  there  would  be  no 
+pencil  but  a  ‘flash’. 
+
+Similarly,  if  any  one  is  invited  to  give  a  piece  of  ‘space’  (again  give 
+it,  and  not  burst  into  speech),  the  best  he  could  do  would  be  to  wave 
+his  hand  and  try  to  show  ‘space’.  But  the  waving  of  the  hand  referred 
+to  what  we  call  air,  dust,  microbes,  gravitational  and  electromagnetic 
+fields , .  In  other  words,  structurally,  the  supposed  ‘space’  was  fulness  of 
+some  materials  already  ‘in  space’  and  ‘in  time*. 
+
+In  the  case  of  giving  ‘time’,  one  could  show  his  watch.  A  similar 
+objection  holds,  also;  namely,  that  he  has  shown  us  so-called  ‘matter’ 
+which  is  ‘moving’  in  ‘space’.  It  is  very  important  to  acquire  the  s.r  that 
+when  we  use  the  term  ‘matter’  we  refer  to  something,  let  us  say,  the 
+pencil,  which,  according  to  the  accepted  el  language ,  also  involves  ‘space’ 
+and  ‘time’,  which  we  disregard.  When  we  use  the  term  ‘space*,  we 
+refer  to  a  fulness  of  some  materials,  which  exists  in  ‘time’.  But  because 
+these  materials  are  usually  invisible  to  the  ‘senses’,  we  again  disregard 
+them.  In  using  the  term  ‘time’,  we  refer  to  ‘matter’  moving  in  ‘space’, 
+which  again  we  disregard. 
+
+What  is  said  here  and  what  will  follow  is  structurally  uncondi¬ 
+tionally  fundamental  for  a  theory  of  sanity,  because  in  most  cases  of 
+‘insanity’  and  un-sanity,  there  is  a  disorientation  as  to  ‘space’  and  ‘time’. 
+In  identification,  the  semantic  disturbance  which  affects  nearly  all  of  us, 
+and  is  at  the  foundation  of  the  majority  of  human  difficulties,  private  or 
+public,  there  invariably  appears  a  special  semantic  disorientation  in  our 
+feelings  toward  ‘matter’,  ‘space’,  and  ‘time’.  This  is  only  natural,  for 
+the  ‘insane*  and  un-sane  are  the  unadjusted ;  the  ‘sane’  are  the  supposedly 
+adjusted. 
+
+Adjusted  to  what?  To  the  world  around  us  and  ourselves.  Our 
+human  world  differs  from  the  world  of  animals.  It  is  more  complex  and 
+the  problems  of  human  adjustment  become  also  more  subtle.  In  animal 
+life,  attitudes  toward  the  world  do  not  matter  in  a  similar  sense;  with 
+us,  they  become  important ;  hence  the  need  of  analysis  of  the  new  human 
+‘semantic  universe’,  which  involves  the  ‘universe  of  discourse’.  This 
+
+226  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+‘universe  of  discourse’  is  strictly  connected  with  the  terms  of  ‘matter’, 
+‘space’,  and  ‘time’,  structure,  and  our  semantic  attitude  toward  these 
+terms. 
+
+Let  us  return  to  the  analysis  of  our  object  which  we  call  the  ‘pencil1. 
+We  have  seen  that  the  object  pencil  is  not  ‘matter’,  nor  ‘space’,  nor 
+‘time’.  A  question  arises,  which  has  been  asked  very  often  and  has  never, 
+to  my  knowledge,  been  answered  satisfactorily:  what  ‘is’  the  object 
+pencil,  and  what  ‘are’  the  terms  ‘matter’,  ‘space’,  and  ‘time’  ?  Here  and 
+there  some  one  has  given  fragments  of  answers  or  some  satisfactory 
+detached  statements.  But  in  every  case  I  know,  the  semantic  disturb¬ 
+ance  called  identification  appears,  and  so  even  the  casual  correct  answer 
+is  not  applied  but  remains  enmeshed  in  some  other  identifications.  I  have 
+spent  much  ‘time’  and  labour  in  overcoming  my  own  identifications,  and 
+now  confront  the  situation  that  nearly  every  work  I  read  from  this  point 
+of  view  cannot  be  criticized,  but  requires  rewriting.  This  task  is  impos¬ 
+sible  for  me,  technically  and  otherwise.  So,  finally,  I  decided  to  formu¬ 
+late  the  present  ^-system,  and  then  see  what  kind  of  reconstruction 
+can  be  accomplished  with  the  new  evaluation. 
+
+The  answer  to  the  questions  set  above  is  childishly  simple,  yet  I 
+will  carry  it  all  through  and  let  the  semantic  consequences  speak  for 
+themselves.  The  chunk  of  nature,  the  specially  shaped  accumulation  of 
+materials . ,  which  we  call  a  pencil,  ‘is’  fundamentally  and  absolutely 
+un-speakable ,  simply  because  whatever  we  may  say  about  it,  is  not  it .  We 
+may  write  with  this  something,  but  we  cannot  write  with  its  name  or  the 
+descriptions  of  this  something.  So  the  object  is  not  words .  It  is  impor¬ 
+tant  that  the  reader  be  entirely  convinced  at  this  point,  and  it  requires 
+some  training,  performed  repeatedly,  before  we  get  our  s.r  adjusted  to 
+this  simple  fact.  Our  statement  had  two  parts.  One  was  rather  unprom¬ 
+ising;  namely,  that  the  object  was  absolutely  un-speakable,  because  no 
+amount  of  words  will  make  the  object.  The  other  was  more  promising, 
+for  we  learned  an  extremely  important,  perhaps  crucial,  semantic  fact ; 
+namely,  what  the  object  pencil  is  not;  namely,  that  the  object  is  not 
+words .  We  must  face  here  an  important  semantic  fact.  If  we  are  told 
+that  we  cannot  get  the  moon,  we  stop  worrying  about  it,  and  we  regard 
+any  dream  about  getting  the  moon  as  an  infantile  phantasy.  In  this 
+example,  we  could  not  even  say  that  such  news  as  the  impossibility  of 
+getting  the  moon  was  sad,  or  unpleasant,  news.  We  might  say  so, 
+jokingly,  to  an  infant,  but  the  majority  of  the  grown-ups  would  not 
+have  their  s.r  perturbed  by  it.  A  similar  situation  arises  with  the  object 
+called  pencil.  The  object  is  not  words.  There  is  nothing  sad  or  depress¬ 
+ing  about  this  fact.  We  accept  it  as  a  fact  and  stop  worrying  about  it,  as 
+
+‘MATTER’,  ‘SPACE’,  ‘TIME’ 
+
+an  infant  would.  The  majority  of  the  old  ‘philosophical’  speculations 
+about  this  subject  belong  to  the  semantic  period  of  our  infancy,  when 
+we  live  in  phantasies  and  structurally  gamble  on  words  to  which  we 
+affectively  ascribe  objective  existence , .  This  represents  full-fledged 
+un-sanity  due  to  identification.  The  answer  to  the  question,  what  ‘are’ 
+the  terms  ‘matter’,  ‘space’,  and  ‘time’,  is,  as  usual,  given  in  the  properly 
+formulated  question.  They  ‘are’  terms, — ‘ Modi  considerandi* ,  as  Leibnitz 
+called  them  without  fully  realizing  the  semantic  importance  of  his  own 
+statement.  Incidentally,  it  must  be  noticed  that  it  was  the  psycho-logical 
+characteristic  of  Leibnitz  who  was  capable  of  such  a  statement,  that 
+was  probably  responsible  for  his  whole  work,  as  will  become  more 
+apparent  later  on.  When  we  abandon  primitive  standards  of  evaluation, 
+geniuses  will  be  made  by  a  semantic  education  which  relieves  the  race 
+from  the  older  blockages. 
+
+So  we  see  clearly  that  outside  of  our  skins  there  is  something  going 
+on,  which  we  call  the  world,  or  a  pencil,  or  anything,  which  is  indepen¬ 
+dent  of  our  words  and  which  is  not  words.  Here  we  come  across  a  very 
+fundamental  irreversible  process.  We  can  say  that  in  this  world  a  man 
+and  his  words  have  happened.  There  is  a  ‘causal’  eventual  complex 
+series  between  the  world,  us,  and  our  words,  but  in  unaided  nature  this 
+process  is,  in  the  main,  irreversible,  a  fact  unknown  to  primitives  who 
+believe  in  the  magic  of  words.  Through  our  ingenuity  we  can  make  this 
+process  partially  reversible ;  namely,  we  can  produce  gramophones,  tele¬ 
+phones  in  all  their  developments,  electromechanical  men  who  obey 
+orders , . 
+
+We  know  in  1933  that  in  the  semantic  world  this  process  is  dra¬ 
+matically  effective.  Words  are  the  result  of  the  activity  of  one  organism, 
+and  they,  in  turn,  activate  other  organisms.  On  the  macroscopic  level  of 
+ordinary  behaviour,  this  last  was  known  long  ago,  but  only  in  the  last 
+few  years  has  psychiatry  discovered  what  kind  of  semantic  and  psycho- 
+physiological  disasters  words  and  their  consequences  may  produce  in  the 
+human  organism.  These  last  are  already  on  sub-microscopic  levels,  not 
+obvious  and,  therefore,  only  recently  discovered. 
+
+The  structure  of  the  language  of  ‘matter’,  ‘space’,  and  ‘time’  is 
+ancient.  The  primitive  saw  something,  ate  something,  was  hurt  by  some¬ 
+thing  , .  Here  was  an  occasion  for  a  grunt  of  satisfaction,  or  of  pain. 
+The  equivalents  of  words  like  ‘matter’,  ‘substance’. ,  originated.  Neither 
+he,  nor  the  majority  of  us,  realized  that  the  small  or  large  bits  of  mate¬ 
+rials  we  deal  with  appear  as  extremely  complex  processes  (explained  in 
+Part  X).  For  him,  as  for  most  of  us,  these  bits  of  materials  ‘are’  ‘con¬ 
+crete’,  whatever  that  means,  and  he  might  know  ‘all  about  them’,  which 
+
+228  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+must  have  led  to  identification . ,  and  other  delusional  evaluations.  Of 
+course,  these  were  phantasies  of  human  infancy,  and,  in  lives  lived  in  a 
+world  of  phantasies,  adjustment,  and,  therefore,  sanity,  is  impossible. 
+Since  he  did  not  see  or  feel,  or  know  about  the  material  he  was  im¬ 
+mersed  in,  the  fulness  he  was  living  in,  he  invented  the  term  ‘space’,  or 
+its  equivalent,  for  the  invisible  materials  which  were  present.  Knowing 
+nothing  of  fulness,  he  objectified  what  appeared  to  him  to  be  empty 
+‘space’  into  ‘absolute  emptiness’,  which  later  became  ‘absolute  space’, 
+‘absolute  nothingness’,  by  ‘definition’. 
+
+There  are  several  important  remarks  which  can  be  made  about 
+this  ‘absolute  emptiness’  and  ‘absolute  nothingness’.  First  of  all,  we  now 
+know,  theoretically  and  empirically,  that  such  a  thing  does  not  exist. 
+There  may  be  more  or  less  of  something,  but  never  an  unlimited  ‘perfect 
+vacuum’.  In  the  second  place,  our  nervous  make-up,  being  in  accord 
+with  experience,  is  such  that  ‘absolute  emptiness’  requires  ‘outside  walls’. 
+The  question  at  once  arises,  is  the  world  ‘finite’  or  ‘infinite’?  If  we  say 
+‘finite’,  it  has  to  have  outside  walls,  and  then  the  question  arises :  What 
+is  ‘behind  the  walls’?  If  we  say  it  is  ‘infinite’,  the  problem  of  the  psycho¬ 
+logical  ‘walls’  is  not  eliminated,  and  we  still  have  the  semantic  need  foi 
+walls,  and  then  ask  what  is  beyond  the  walls.  So  we  see  that  such  a 
+world  suspended  in  some  sort  of  an  ‘absolute  void’  represents  a  nature 
+against  human  nature ,  and  so  we  had  to  invent  something  supernatural 
+to  account  for  such  assumed  nature  against  human  nature.  In  the  third 
+place,  and  this  remark  is  the  most  fundamental  of  all,  because  a  symbol 
+must  stand  for  something  to  be  a  symbol  at  all,  ‘ absolute  nothingness 9 
+cannot  be  objective  and  cannot  be  symbolised  at  all .  This  ends  the  argu¬ 
+ment,  as  all  we  may  say  about  it  is  neither  true  nor  false,  but  non-sense . 
+We  can  make  noises,  but  say  nothing  about  the  external  world.  It  is  easy 
+to  see  that  ‘absolute  nothingness’  is  a  label  for  a  semantic  disturbance, 
+for  verbal  objectification,  for  a  pathological  state  inside  our  skin,  for  a 
+fancy,  but  not  a  symbol,  for  a  something  which  has  objective  existence 
+outside  our  skin. 
+
+Some  other  imaginary  consequences  of  this  semantic  disturbance 
+are  far-fetched  and  very  gloomy.  If  our  world  and  all  other  worlds 
+(island  universes)  were  somehow  suspended  in  such  an  ‘absolute  void’, 
+these  universes  would  radiate  their  energy  into  this  ‘infinite  void’,  what¬ 
+ever  that  means,  and  so  sooner  or  later  would  come  to  an  end,  their 
+energy  being  exhausted.  But,  fortunately,  when  we  eliminate  this 
+pathological  semantic  state  by  proper  education  all  these  gloomy  symp¬ 
+toms  vanish  as  mere  fancies.  It  must  be  noticed  that  this  ‘absolute  space’, 
+‘absolute  void’,  ‘absolute  nothingness’  with  its  difficulties,  which  are  due 
+
+‘MATT ICR’,  ‘SrAtTi’,  ‘T1MK' 
+
+to  very  primitive  structural  speculations  on  words,  and  to  some  un-sane 
+ascribing  of  objectivity  to  words,  can  be  abolished  quite  simply  if  we 
+decide  to  investigate  and  re-educate  our  s.r. 
+
+What  we  know  positively  about  ‘space’  is  that  it  is  not  ‘emptiness*, 
+but  ‘fulness’,  or  a  ‘plenum*.  Now  ‘fulness’  or  a  ‘plenum’,  first  of  all,  is 
+a  term  of  entirely  different  non-el  structure.  When  we  have  a  plenum 
+or  fulness,  it  must  be  a  plenum  of  ‘something’,  ‘somewhere*,  at  ‘some 
+time’,  and  so  the  term  implies,  at  least,  all  three  of  our  former  elemen- 
+talistic  terms .  Furthermore,  fulness  by  some  psycho-logical  process  does 
+not  require  ‘outside  walls’.  If  we  ask  if  such  a  universe  of  fulness  is 
+‘finite’  or  ‘infinite*,  without  any  psycho-logical  difficulties,  we  may  reply 
+that  we  do  not  know,  but  if  we  study  enough  of  the  materials  of  this 
+universe  we  may  know,  A  universe  of  fulness  may  be  assumed  to  have 
+boundaries,  and  then  we  may  ask  again  the  annoying  question :  What  is 
+beyond?  With  the  proper  use  of  language,  this  difficulty  is  again 
+eliminated. 

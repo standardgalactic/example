@@ -1,0 +1,500 @@
+tion  ,  looks  like  the  ‘Einstein  transformation*.  When  manipulated  numerically 
+both  give  equal  numerical  results,  yet  the  meanings,  and  the  semantic  aspects, 
+are  different.  Although  Lorentz  produced  the  ‘Lorentz  transformation*  he  did 
+not,  and  could  not  have  produced  the  revolutionary  Einstein  theory. 
+
+It  is  well  known  that  when  it  comes  to  the  manipulation  of  symbols 
+mathematicians  agree,  but  when  it  comes  to  the  semantic  aspects  or  meanings  .  , 
+they  are  admittedly  hopelessly  at  variance.  In  a  prevailingly  A  world  we  have 
+had  no  satisfactory  theory  of  ‘infinity’,  or  a  A  definition  of  numbers  and 
+mathematics.  This  necessarily  resulted  in  the  fact  that  the  semantic  aspects 
+of  practically  all  important  mathematical  works  by  different  authors  often 
+involve  individual  semantic  presuppositions ,  or  orientations  concerning  funda¬ 
+mentals.  My  presentation  intends  to  be  primarily  semantic  and  elementary, 
+and  is  only  remotely  concerned  with  the  manipulation  of  symbols.  A  ^-system, 
+which  rejects  ‘identity’,  differs  very  widely  from  A  attitudes,  and  introduces 
+distinct  A  requirements.  I  had,  therefore,  to  select  from  many  works,  with 
+their  individual  presuppositions,  those  which  were  less  in  conflict  with  A 
+principles  than  the  others. 
+
+A  survey  of  important  mathematical  treatises  shows  that  although  the 
+majority  of  modern  mathematicians  explicitly  abjure  the  ‘infinitesimal’,  yet, 
+in  some  presentations,  this  notion  persists.  In  my  presentation  I  reject  the 
+‘infinitesimal’  explicitly  and  implicitly,  although  the  formulae  are  not  altered. 
+Modern  calculus  is  based  officially  on  the  theory  of  limits,  but  as  the  theory 
+of  limits  involves  the  unclarified  theory  of  ‘infinity’.  ,  nothing  would  be  gained 
+semantically  and  for  my  purpose,  had  I  stressed  these  formal  possibilities  of 
+the  calculus.  Quite  the  opposite,  if  I  had  done  so,  I  would  have  failed  to  stress 
+the  most  fundamental  A  principle  and  task  of  establishing  the  similarity  of 
+structure  between  languages  and  the  un-speakable  levels  and  happenings  as  the 
+first  and  crucial  consequence  of  the  elimination  of  identity.  For  these  weighty 
+reasons,  in  my  presentation,  I  followed  some  older  textbooks,  particularly 
+Osgood  s,  which,  from  a  A  point  of  view,  are  sounder  than  the  newer,  largely 
+A  rationalizations  and  apologetics. 
+
+However,  it  should  be  realized  that  practically  all  outstanding  and  creative 
+mathematicians  have  had,  and  still  have,  A  attitudes,  yet,  these  private  bene¬ 
+ficial  attitudes,  not  being  formulated  in  a  ^-system,  could  not  become  conscious , 
+simple,  workable,  public,  and  educational  assets.  We  can  be  simple  about  this 
+point.  With  the  elimination  of  identity,  structure  becomes  the  only  possible 
+content  of  ‘knowledge’ — and  structure  of  the  un-speakable  levels  has  to  be 
+discovered .  Discovery  depends  on  the  finding  of  new,  and  therefore  different 
+
+PREFATORY  REMARKS 
+
+5 67 
+
+characteristics.  In  the  formulation  of  the  last  sentence,  we  cannot  make  the 
+*  training  in  discovery*  an  educational  discipline .  The  opposite  is  true  in  a 
+j| -system,  based  on  non-identity,  as  we  can  train  simply  and  effectively  in  non- 
+identity,  which  ultimately  leads  to  differentiation,  and  so  discovery. 
+
+Because  of  the  elementary,  and  purely  semantic  character  of  the  following 
+pages,  I  have  often  restrained  myself  from  giving  technical,  supposedly  Vigorous’, 
+and  often  A  rationalizations,  which  we  occasionally  call  definitions.  In  a 
+semantic  and  A  treatment,  at  this  pioneering  stage,  stressing  old  definitions 
+would  be  seriously  confusing;  and  I  wished  to  avoid  such  witty  wittgensteinian 
+‘definitions’  as  fA  point  in  space  is  a  place  for  an  argument*.  In  a  number  of 
+Instances,  and  for  my  purpose,  I  often  avoided  unsatisfactory  formal  definitions, 
+preferring  to  depend  upon  the  ordinary  meanings  of  words. 
+
+For  the  reader  who  wishes  to  acquaint  himself  with  an  elementary  theory 
+of  limits  and  corresponding  sets  of  definitions,  I  would  suggest  the  book  of  the 
+late  Professor  J.  G.  Leathern,  Elements  of  the  Mathematical  Theory  of  Limits 
+(London  and  Chicago,  1925).  This  theory  is  based  on  Pascal’s  Calcolo  Infini - 
+tesimale,  Borel’s  Theorie  des  fonctions,  and  Godefroy’s  Theorie  des  s'eries. 
+Leathern’s  book  has  been  printed  under  the  supervision  of  Professor  H.  F. 
+Baker,  F.R.S.,  of  the  University  of  Cambridge,  and  Professor  E.  T.  Whittaker, 
+F.R.S.,  of  Edinburgh.  I  give  these  names  for  professional  mathematicians,  to 
+indicate  the  semantic  trend  which  underlies  this  particular  treatment  of  limits 
+and  which  does  not  greatly  conflict  with  a  A  outlook.  This  outlook  may  be 
+summarized  in  part,  in  the  words  of  Borel  somewhat  as  follows:  To  the  evolution 
+of  physics  should  correspond  an  evolution  of  mathematics,  which,  without 
+abandoning  the  classical  and  well-tried  theories,  should  develop  however,^  with 
+the  results  of  experiments  in  view*.  This  statement  implies  vaguely  the  simi¬ 
+larity  of  structure’.  ,  and  so  requires  as  a  modus  operandi  the  rejection  of  identity. 
+
+There  seems  to  be  little  doubt  that  a  complete  and  radical  revision  of  the 
+semantic  aspects  of  human  mathematical  behaviour  is  pending.  Such  a  revision 
+appears  to  be  laborious  and  difficult,  and  should  be  undertaken  from  the  point 
+of  view  of  the  theory  of  the  unique  and  specific  relations,  called  numbers.  I 
+doubt  if  a  single  man  could  accomplish  this  revision.  Such  an  undertaking  will 
+probably  be  the  result  of  group  activities,  and  may,  in  the  beginning,  be  unified 
+by  the  formulation  of  one  fundamental  A  principle  of  non-identity,  the  disregard 
+of  which,  from  science  down  to  ‘mental*  ills,  can  be  found  at  the  bottom  of 
+practically  all  avoidable  human  difficulties. 
+
+The  problems  are  very  complicated  and  extremely  difficult,  and  need  to 
+be  treated  from  many  angles.  At  present,  we  have  many  scientific  societies, 
+grouped  by  their  specialties;  but  we  do  not  have  a  scientific  society  composed 
+of  many  different  specialists  whose  work  could  be  unified  by  some  common  and 
+general  principle.  There  can  be  no  doubt  that  the  principle  of  identity  ,  or 
+‘absolute  sameness  in  all  aspects’,  is  invariably  false  to  facts.  The  main  problem 
+is  to  trace  this  semantic  disturbance  of  improper  evaluation  in  all  fields  of  science 
+and  life,  and  this  requires  a  new  co-ordinating  scientific  body  of  many  specialists, 
+with  branches  in  all  universities.  Each  group  would  meet,  say  monthly,  to 
+
+ADDITIONAL  STRUCTURAL  DATA 
+
+discuss  their  problems,  and  give  mutual  technical  assistance  in  tracing  this  first 
+general  semantic  disturbance .  Such  meetings  would  stimulate  enormously 
+scientific  productivity.  In  fact,  without  such  a  co-ordinating  body,  the  present 
+enormous  technical  developments  in  each  branch  of  science  preclude  the  revision 
+of  general  principles,  on  which,  in  the  last  analysis,  all  other  of  our  activities 
+greatly  depend.  The  first  task  then,  is  to  find  a  co-ordinating  principle,  and 
+present  it  to  the  scientific  world. 
+
+Psychiatry,  and  common  experience,  teach  us,  that  in  heavy  cases  of 
+dementia  praecox  we  find  the  most  highly  developed  'identification'.  A  con¬ 
+siderations  suggest  that  any  identification,  no  matter  how  slight,  represents  a 
+dementia  praecox  factor  in  our  semantic  reactions.  The  rest  is  only  a  question 
+of  degrees  of  this  maladjustment.  From  this  point  of  view,  we  will  find  dementia 
+praecox  factors  even  in  mathematics.  In  physics,  only  since  Einstein  has  this 
+factor  of  un-sanity  been  eliminated,  and  this  elimination  has  already  produced 
+an  ever-growing  crop  of  'geniuses',  which  merely  means,  that  some  inhibitions 
+of  mis-evaluation  have  been  eliminated  from  these  younger  men,  and  that  they 
+are  humanly  more  'normal'  than  the  others. 
+
+In  mathematics,  from  a  A  point  of  view,  we  must  first  of  all  not  identify 
+different  aspects  of  our  mathematical  behaviour,  nor  try  to  cover  up  these 
+identifications  of  endless  aspects  by  the  one  very  old  term  'mathematics'.  This 
+word,  ‘mathematics',  in  its  accepted  sense  covers  a  non-existing  fiction.  What 
+does  exist,  and  the  only  thing  we  actually  deal  with,  is  human  mathematical 
+behaviour ,  human  s.r,  and  the  results  of  human  mathematical  behaviour  and  s.r. 
+A  treatise,  say,  on  a  new  quantum  mechanics,  has  no  value  to  a  monkey  or  a 
+corpse,  and  only  human  mathematical  behaviour  and  s.r,  have  any  actual  non-el 
+existence,  and  is  the  only  thing  which  actually  matters.  So  we  see  that  'mathe¬ 
+matics*  covers  a  non-existent  fiction  if  elementalistically  separated  from  human 
+mathematical  behaviour  and  s.r .  I  use  the  term  'mathematics*  in  the  non-el 
+sense,  and  attempt  to  signalize  some  of  the  difficulties  non-elementalism  involves 
+at  this  transitory  stage. 
+
+From  a  A*  non-identity,  structural,  non-el  point  of  view,  human  mathe¬ 
+matical  behaviour  must  be  treated  uniquely  as  a  physico-mathematical  discipline, 
+and  postulational  methods  to  be  used  exclusively  as  a  most  valuable  checking 
+method.  To  base  mathematical  behaviour  and  s.r  on  postulational  methods 
+exclusively,  is  to  introduce  dementia  praecox  factors  into  science,  which  only 
+induces  the  spread  of  semantic  maladjustment  in  life. 
+
+Our  main  task  in  producing  a  A  revision  of  mathematical  s.r,  is  in  the 
+elimination  of  identification  from  our  s.r  about  'infinity'  and  in  the  formulation 
+of  a  A  definition  of  numbers  in  terms  of  relations.  This  would  enable  us  to 
+rebuild  human  mathematical  s.r  from  a  theory  of  numbers  point  of  view,  as  a 
+physico-mathematical  discipline.  The  intrinsic,  or  internal  theory  of  surfaces, 
+and  the  tensor,  or  absolute  calculus,  are  methodologically  our  most  secure 
+epistemological  guides. 
+
+I  would  suggest  that  mathematical  and  scientific  readers  who  are  interested 
+in  a  ^4  revision  should,  at  first,  in  their  special  fields,  sketch  in  technical  papers, 
+
+PREFATORY  REMARKS 
+
+presented  before  the  local  International  Non-aristotelian  Societies,  A  pitfalls 
+*nd  A  problems  and  outlooks.  Only  after  this  is  done,  shall  we  be  able  to  begin 
+A  co-ordination  of  their  findings,  and  thereby  initiate  a  revised  and  unified  A 
+science,  mathematics,  and  perhaps  ultimately  a  saner  scientific  civilization . 
+
+The  scientific  achievements  dealt  with  in  Book  III,  are  developing  so 
+rapidly,  and  the  technical  points  of  view  alter  so  often,  that  on  a  static  printed 
+page  it  is  impossible  to  do  them  justice.  The  writer  has  spared  no  efforts  to 
+keep  informed  of  these  scientific  developments  until  two  weeks  before  the 
+appearance  of  this  book;  yet  because  these  new  developments  do  not  represent 
+new  and  fundamental  semantic  factors,  I  deliberately  do  not  include  them  here. 
+In  some  instances,  a  given  author  may  seem  to  change  his  opinions,  but,  from 
+a  A  point  °f  view,  it  sometimes  appears  that  the  original  notions  were  more 
+justified,  and  so  I  preserved  them  without  change. 
+
+The  following  pages  are  written  exclusively  from  a  semantic  point  of  view, 
+an  undertaking  which  is  far  more  difficult  than  dealing  with  a  restricted  technical 
+physico-mathematical  problem,  because  it  involves  second  order  observations, 
+of  the  first  order  observations,  of  the  first  order  observer,  and  of  the  relations 
+between  them  ,  .  When  it  came  to  a  final  revision  of  the  manuscript,  and  reading 
+of  the  proofs,  I  found  that  dealing  with  so  many  varied  fields,  languages,  and 
+symbolisms  at  one  period,  was  no  small  task,  and  I  only  hope  that  I  have  not 
+over-looked  too  many  errors  or  misprints. 
+
+If  we  must  have  slogans,  a  A  motto  readily  suggests  itself  ‘Scientists  of 
+the  world  unite’.  Perhaps  this  motto  may  prove  more  constructive  and  workable 
+than  the  familiar  A  elementalislic  slogans  which  have  mostly  led  to  the  dis¬ 
+membering  of  human  society.  Protests  against  any  misrule  should  not  be 
+confused  with  the  proclaiming  of  disrupting  general  principles .  Let  me  repeat 
+once  more,  that  the  most  lowly  manual  worker  is  useful  only  because  of  his 
+human  nervous  system,  which  produced  all  science,  and  which  differentiates 
+him  from  an  animal,  and  not  primarily  for  his  hands  alone;  otherwise  we  would 
+breed  apes  to  do  the  world’s  work. 
+
+In  the  explanations  of  some  geometrical  notions,  and  some  parts  of  the 
+theory  of  Einstein,  I  have  followed  often  very  closely  the  Einstein's  Theory  of 
+Relativity  by  Max  Born,  which  is  easily  the  best  elementary  exposition  I  have 
+read,  and  also  the  books  of  Eddington.  In  the  quantum  field  I  have  followed 
+mostly  the  books  by  Biggs,  Birtwistle,  Bocher,  Haas,  and  Sommerfeld,  and  I 
+wish  to  acknowledge  my  indebtedness  to  the  above  authors. 
+
+I  am  also  under  heavy  obligations  to  Professors  E.  T.  Bell,  P.  W.  Bridgman, 
+B.  F.  Dostal,  R.  J.  Kennedy,  and  G.  Y.  Rainich,  who  were  so  kind  as  to  read 
+the  MS.  and/or  proofs,  and  whose  criticism  and  suggestions  were  invaluable 
+to  me.  However,  I  assume  entire  responsibility  for  the  following  pages,  especially 
+since  I  have  not  always  followed  the  suggestions  made. 
+
+PART  vm 
+
+ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+Being  myself  a  remarkably  stupid  fellow,  I  have  had  to  unteach  myself 
+the  difficulties,  and  now  beg  to  present  to  my  fellow  fools  the  parts  that 
+are  not  hard.  Master  these  thoroughly,  and  the  rest  will  follow.  What 
+one  fool  can  do,  another  can.  (5io)  silvanus  p.  Thompson 
+
+Besides  the  theory  of  surfaces  is  the  model  on  which  all  the  higher  theories 
+are  built  and  must  be  built,  and  it  is  well  to  master  it  completely  before 
+attempting  generalizations.  (425)  G-  Y-  RAINICH 
+
+To  find  such  relations  Einstein  has  applied  a  mathematical  method  of 
+great  power — the  calculus  of  tensors — with  extraordinary  success.  The 
+calculus  threshes  out  the  laws  of  nature,  separating  the  observer's  eccen¬ 
+tricities  from  what  is  independent  of  him,  with  the  superb  efficiency  of  a 
+modern  harvester.  <2i>  E-  T*  BELL 
+
+CHAPTER  XXXII 
+
+ON  THE  SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS 
+
+The  principle  of  gaining  knowledge  of  the  external  world  from 
+the  behaviour  of  its  infinitesimal  parts  is  the  mainspring  of  the  theory 
+of  knowledge  in  infinitesimal  physics  as  in  Riemann’s  geometry,  and,  in¬ 
+deed,  the  mainspring  of  all  the  eminent  work  of  Riemann,  m  particular, 
+that  dealing  with  the  theory  of  complex  function.  (547)  Hermann  weyl 
+
+The  conception  of  tensors  is  possible  owing  to  the  circumstance  that  the 
+transition  from  one  co-ordinate  system  to  another  expresses  itself  as  a 
+linear  transformation  in  the  differentials.  One  here  uses  the  exceedingly 
+fruitful  mathematical  device  of  making  a  problem  “linear”  by  reverting 
+to  infinitely  small  quantities.  (547)  Hermann  weyl 
+
+Section  A.  Introductory. 
+
+In  the  first  draft  of  this  book  written  in  1928,  the  following  pages  preceded 
+Part  VII.  In  a  final  revision  in  1932,  it  seemed  advisable  to  transfer  pages 
+which  to  laymen  look  ‘mathematical’,  to  the  end  of  the  volume,  because  the 
+majority  of  even  intelligent  readers  have  a  sort  of  ‘inferiority  complex’  about 
+anything  ‘mathematical’. 
+
+The  patient  reader  knows  by  now,  I  hope,  that  on  neurological  grounds, 
+he  must  for  the  sake  of  sanity,  be  able  to  translate  the  dynamic  into  the  static, 
+and  the  static  into  the  dynamic;  and  also  that  he  must  know  at  least  about 
+the  modern  structure  of  ‘space’,  ‘time’,  ‘matter*.  These  conditions  seem 
+essential  for  sanity,  and  so  I  had  no  choice  but  to  give  the  minimum  of  a 
+structural  and  semantic  outline,  and  to  acquaint  the  reader  with  the  existence 
+of  modem  scientific  problems  and  vocabularies.  It  is  not  my  aim  to  teach 
+the  reader  mathematics  or  modern  physics.  I  must  limit  myself  to  structural 
+and  semantic  issues,  for  there  are  excellent  elementary  books  which  will  give 
+him  the  necessary  informations. 
+
+The  following  pages  should  in  no  way  intimidate  the  intelligent  reader. 
+Elementary  structural  statements  and  definitions  are  given  in  simple  language, 
+followed  by  illustrations  to  render  their  meanings  more  understandable.  The 
+pages  are  less  technical  than  they  look,  as  each  example  is  carried  through 
+in  the  most  elementary  way  in  all  of  its  details,  so  as  to  make  easy  reading. 
+A  real  difficulty  for  some  readers  may  come  from  the  semantic  blockage  created 
+by  the  use  of  apparently  strange,  and,  to  them,  unknown  terms,  or  from  a 
+feeling  of  fright  or  abhorrence  of  anything  mathematical,  due  to  deplorably 
+faulty  introduction  to  some  branch  of  mathematics  at  the  hands  of  some 
+teacher  innocent  of  the  broader  epistemological  aspects  of  science.  I  am 
+acquainted  with  scientists  of  very  considerable  mathematical  gifts,  who  have 
+had  to  overcome  this  phobia  of  mathematics.  Once  the  word  ‘mathematics* 
+was  mentioned  to  them,  they  became  ‘mentally*  paralysed.  An  ‘emotional’ 
+fright  seized  them  and  it  took  some  months  to  overcome  this  undesirable 
+childish  s.r,  I  use  the  subject  of  mathematics  as  an  illustration  of  this  difficulty, 
+because  I  want  to  contrast  the  comparative  simplicity  of  mathematical  notions 
+
+574  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+with  the  complexity  of  human  problems  and  language.  For  when  we  have 
+understood  the  simplest  notions,  which  happen  to  be  mathematical,  then  only 
+shall  we  be  able  better  to  understand  our  human  problems,  which  are  in 
+comparison  so  difficult  and  so  confused. 
+
+Any  reader  who  has  a  distaste  for  mathematics  will  benefit  most  if  he 
+overcomes  his  semantic  phobia  and  struggles  through  these  pages,  even  several 
+times.  As  a  result  of  so.  doing  he  will  find  it  simple  although  not  always  easy. 
+It  is  always  semantically  useful  to  overcome  ones  phobias;  it  liberates  one  from 
+unjustified  fears,  feelings  of  inferiority ,  .  The  main  point  of  this  whole  dis¬ 
+cussion  is  to  evoke  the  semantic  components  of  a  living  Smith,  when  he 
+habitually  uses  the  method  which  will  be  explained  herewith.  This  method  is 
+so  simple  and  so  fundamental  that  in  the  form  given  by  a  ^-system  and  further 
+simplified  according  to  the  gifts  of  the  teacher,  it  will  some  day  be  introduced 
+into  elementary  schools  without  technicalities,  as  a  preventive  semantic  method 
+against  'insanity’,  un-sanity  and  other  nervous  and  semantic  difficulties,  and 
+as  a  foundation  for  a  training  in  sanity  and  adjustment. 
+
+Section  B.  On  the  Differential  Calculus . 
+
+1.  GENERAL  CONSIDERATIONS 
+
+As  we  have  already  seen,  the  structural  notion  of  a  function  is  strictly 
+connected  with  that  of  the  variable.  The  variable  on  one  level  does  not  Vary’; 
+it  is  a  selection  by  Smith  of  a  definite  value  from  a  given  set.  As  these  processes 
+are  going  on  inside  of  the  skin  of  Smith  he  might  experience  on  a  different 
+level  a  feeling  of  ‘change’.  The  method  of  dealing  with  such  problems  is  given 
+by  the  mathematical  differential  and  integral  calculus. 
+
+The  beginnings  of  methods  dealing  with  ‘change’  are  to  be  found  even 
+among  the  ancients.  Galileo,  Roberval,  Napier,  Barrow,  and  others  were 
+interested  in  ‘fluxional’  methods,  before  Newton  and  Leibnitz.1  The  epoch- 
+making  discoveries  of  the  last  two  mathematicians  consisted  not  only  in 
+perfecting  the  knowledge  they  had  and  in  inventing  new  methods,  but  also— 
+and  this  is  perhaps  the  most  important— they  formulated  a  general  theory  of 
+these  structural  methods  and  invented  a  new  notation  suitable  for  their  purpose. 
+The  definite  abandonment  of  the  old  tentative  methods  of  integration  in  favour 
+of  methods  in  which  integration  is  regarded  as  the  inverse  of  differentiation 
+was  especially  the  work  of  Newton.  Leibnitz’  main  work  was  in  the  field  of 
+precise  formulation  of  simple  rules  for  differentiation  in  special  cases  and  the 
+introduction  of  a  very  useful  notation. 
+
+It  is  not  an  exaggeration  to  say  that  the  calculus  is  one  of  the  most  inspiring, 
+creative,  structural  methods  in  mathematics.  There  is  little  doubt  that  the 
+analysis  of  the  foundations  of  mathematics,  and  their  revision,  was  suggested 
+by  a  study  of  the  methods  of  the  calculus.  It  is  structurally  and  semantically 
+the  ‘ logic ’  of  sanity  and,  as  such,  can  be  given  ultimately  without  technicalities 
+by  the  present  ^-system  and  semantic  training,  with  the  aid  of  the  Structural 
+Differential. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  575 
+
+The  application  of  the  differential  calculus  to  geometry  produced  differential 
+geometry.  This  prepared  the  way  for  the  notions  of  Einstein  and  Minkowski. 
+
+The  whole  of  modern  physics  becomes  possible  through  the  calculus,  and 
+It  will  probably  be  correct  to  say  that  the  achievements  of  the  future  also  will 
+be  dependent  on  it. 
+
+The  present  work  is  also  to  a  large  extent  inspired  by  it,  and  develops 
+simple  non-technical  methods  by  which  the  psycho-logical  structural  s.r 
+necessitated  by  the  calculus  can  be  given  to  the  masses  in  elementary  education 
+without  any  technical  knowledge  of  it.  This  statement  does  not  include 
+teachers,  who  should  be  acquainted  with  at  least  the  rudiments  of  the  calculus.2 
+
+It  is  true  that  in  the  beginning  we  did  not  suspect  that  the  semantics  of 
+the  calculus  are  indispensable  in  education  for  sanity.  It  is  the  only  structural 
+method  which  can  reconcile  the  as  yet  irreconcilable  higher  and  lower  order 
+abstractions.  Without  such  a  reconciliation,  at  our  present  level  of  develop¬ 
+ment,  sanity  is  a  matter  of  good  luck  quite  beyond  our  conscious  or  educational 
+control. 
+
+Let  us  recall  the  rough  definition  of  a  function:  y  is  said  to  be  a  function 
+of  x  if,  when  x  is  given,  y  is  determined.  In  symbols  we  write  y  ~f(x)  which 
+we  read  *y  is  equal  to  a  function  of  x’  or  ly  is  equal  to  /  of  x\  If  y  is  a  function 
+of  x ,  or  y  =f(x),  then  x  is  called  the  independent  variable,  being  the  one  to 
+which  we  arbitrarily  assign  any  value  we  choose  out  of  a  given  set  of  values. 
+The  y  is  called  the  dependent  variable  as  its  value  depends  on  the  value  we 
+assign  to  x. 
+
+A  function  may  have  more  than  one  independent  variable;  in  which  case 
+we  have  a  function  of  several  variables.  It  happens  frequently  that  to  one 
+value  of  the  independent  variable  there  may  correspond  several  values  of  the 
+dependent  variable.  Then  y  is  said  to  be  a  multiple-valued  function  of  x. 
+
+Roughly  speaking,  a  function  is  said  to  be  continuous  if  a  small  increment 
+in  the  variable  gives  rise  to  a  small  increment  of  the  function. 
+
+A  theory  of  functions  can  be  developed  without  any  references  to  graphs 
+and  geometrical  notions  of  co-ordinates  and  lengths;  but  in  practice  (and  in 
+this  work),  it  is  extremely  useful  to  introduce  these  geometrical  notions,  as 
+they  help  intuition.  A  modern  definition  of  an  analytic  function  is  technical 
+and  unnecessary  for  our  purpose.  Suffice  it  to  say  that  it  is  connected  with 
+derivatives  and  power  series,  which  means  structure. 
+
+Geometry  is  a  very  remarkable  science.  It  may  be  treated  as  pure  mathe¬ 
+matics,  or  it  may  be  treated  as  physics.  It  may  therefore  be  used  as  a  link 
+between  the  two  or.  as  a  link  between  the  higher  and  lower  order  of  abstractions. 
+This  fact  is  of  tremendous  psycho-logical  and  semantic  importance.  It  is  not 
+by  pure  ‘chance’  that  the  most  important  writers  on  mathematical  philosophy, 
+authors  who  have  generalized  their  knowledge  of  mathematics  to  include 
+human  results,  were  mostly  geometers. 
+
+Indeed,  Whitehead,  in  his  Universal  Algebra  (p.  32),  says,  and  justly  so, 
+that  a  treatise  on  universal  algebra  is  also  a  treatise  on  certain  generalized 
+notions  of  ‘space*.  ‘Space’  should  be  understood  as  ‘fulness’,  ‘fulness  of  some- 
+
+576  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+thing’,  a  plenum.  Naturally  coherent  speech,  like  universal  algebra,  must  be 
+coherent  speech  about  something.  ‘Generalized  space’  becomes  generalized 
+plenum,  and  so  it  belongs  to  two  realms.  One  is  contentless  and  formal,  hence 
+genera  hzed  algebra;  the  other,  in  that  it  refers  to  a  generalized  plenum,  becomes 
+generalized  geometry,  or  generalized  physics. 
+
+.  n'la‘n  importance,  perhaps,  of  geometry  is  in  the  fact  that  it  can  be 
+
+interpreted  both  ways.  One  way  appears  as  pure  mathematics,  and  therefore 
+as  the  study  of  sets  of  numbers  representing  co-ordinates.  The  other  the 
+form  of  an  interpretation,  in  which  its  terms  imply  a  connection  with  the 
+empirical  entities  of  our  world.  Obviously  if  speech  is  not  the  things  spoken 
+about,  we  must  have  a  special  discipline  which  will  translate  the  coherent 
+anguage  of  pure  mathematics,  which  is  contentless  by  definition,  into  another 
+way  of  speaking  which  uses  a  different  vocabulary  capable  of  both  interpretations. 
+
+Again,  the  different  orders  of  abstractions,  which  our  nervous  structure 
+produces,  are  perfectly  reflected  in  the  very  structure  and  methods  of  mathe¬ 
+matics.  The  possibility  of  the  use  of  the  ‘intuitions’  of  lower  order  abstractions 
+is  extremely  useful  in  pure  mathematics.  This  fact  makes  geometry  also  unique. 
+It  allows  us  to  apply  to  the  development  of  geometry  both  orders  of  abstrac¬ 
+tions  the  intuitions’,  ‘feelings’,  of  the  lower  order  of  abstractions,  and  the 
+static,  quantum’  jumpmethodsof  pure  analysis.  Thisisalso  why  theeinsteinian 
+physics  becomes  four-dimensional  geometry;  which,  because  it  can  be  treated 
+on  both  levels  of  abstraction,  gives  tremendously  powerful  and  important 
+psycho-logieal  means  for  sanity  and  nervous  co-ordination  of  the  individual. 
+
+ince  Einstein,  many  far-sighted  scientists  have  said  that  although  they  do 
+not  know  in  what  respect  the  Einstein  theory  will  affect  our  lives,  yet  they  feel 
+that  it  will  have  a  tremendous  influence.  I  venture  to  suggest  that  the  bearing 
+of  the  Einstein  theory  and  its  development  on  the  problems  of  sanity,  as 
+explained  in  this  work,  is  a  new  and  unexpected  semantic  result  of  the  application 
+of  modern  science  to  our  lives.  As  the  Einstein  theory  could  have  been  formu¬ 
+lated  more  than  two  hundred  years  ago  when  the  finite  velocity  of  light  was 
+discovered,  so  the  present  theory  is  also  several  hundred  years  overdue.  The 
+only  consolation  we  have  left  is  that  it  is  better  late  than  never. 
+
+The  scope  of  this  work  allows  us  to  go  but  a  little  beyond  these  simple 
+remarks,  and  permits  only  a  very  brief  explanation  of  the  most  fundamental 
+and  elementary  beginnings  of  the  calculus.  In  this  presentation  I  shall  appeal 
+very  °ften  to  “tuition  (lower  order  abstractions),  as  this  will  help  the  reader. 
+
+The  notion  of  differentiation  of  a  continuous  function  is  the  process  for 
+measuring  the  rate  of  growth;  that  is  to  say,  the  evaluation  of  the  increment 
+of  the  function  as  compared  with  the  growth  or  increment  of  the  variable. 
+We  may  describe  this  process  as  follows:  If  y  is  a  function  of  *,  it  is  helpful  not 
+to  consider  x  as  having  one  or  another  special  value  but  as  flowing  or  growing 
+just  as  we  feel  ‘time’  or  follow  the  ripples  made  by  a  stone  thrown  into  a  pond’ 
+
+The  function  y  varies  with  *,  sometimes  increasing,  sometimes  decreasing. 
+We  have  already  defined  the  variable  as  any  value  selected  from  a  given  range 
+Let  us  consider  our  *  as  given  in  the  interval  between  1  and  S.  We  are  now 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  577 
+
+interested  in  all  values  which  our  #  may  take  between  these  two  values,  or,  as 
+we  say,  in  this  interval.  Obviously,  we  can  select  a  few  values,  or,  in  other 
+words,  take  big  steps;  as,  for  instance,  assigning  to  *  the  successive  values 
+#1-1,  #2-2,  #8-3,  #4-4,  #6-5.  In  such  a  case  we  would  have  few  values 
+and  the  difference  between  two  successive  values  would  be  rather  large,  for 
+instance,  #3-x2  =  L  But  such  large  differences  are  not  of  much  interest  to  us 
+here.  We  may,  if  we  choose,  select  smaller  differences;  in  other  words,  assign 
+more  values  to  our  variable  in  the  given  range. 
+
+Let  us  take,  for  instance,  for  our  x  the  series  of  values:  1,  Ij,  2,  2\ ,  3, 
+3},  4,  4§,  5.  Here  we  see  that  the  difference  between  two  successive  values 
+is  smaller  than  1,  it  is  $.  So  we  already  have  nine,  instead  of  the  former  five, 
+values  which  We  may  assign  to  our  x.  Thus  we  have  selected  smaller  steps  by 
+which  to  proceed.  Let  us  select  still  smaller  steps;  for  instance,  J.  Our  exten- 
+sional  manifold  of  values  for  #  in  the  interval  between  1  and  5  would  then  be: 
+1,  11,  If.  2,  2i  2£,  2f ,  3,  3j,  3j,  3j,  4,  4j,  4$,  4$ ,  5.  We  see  that  in  the 
+interval  between  1  and  5,  we  have  already  17  values  which  we  may  assign  to 
+our  variable,  but  we  have  followed  the  ‘growth’  of  our  #  by  smaller  steps; 
+namely,  by  steps  of  J.  If  we  choose  to  diminish  the  steps  to  we  would  have 
+for  our  extensional  manifold  of  values:  1,  1.1,  ...»  1.9,  2,  2.1,  .  .  .  ,  2.9,  3, 
+3.1,  .  .  .  ,  3.9,  4,  4.1,  ...»  4.9,  5:  in  all,  41  values  for  #,  any  two  succeeding 
+values  differing  by  n>-  If  we  select  still  smaller  steps— let  us  say,  iro—we  have 
+401  values  for  #  and  the  difference  between  two  successive  values  is  still  smaller; 
+namely,  ife.  This  process  may  be  carried  on  until  we  have  as  many  numbers 
+between  1  and  5  as  we  choose,  since  we  may  make  the  difference  between  suc¬ 
+cessive  numbers  in  the  sequence  as  small  as  we  please.  In  the  limit,  between 
+any  two  numbers,  let  us  say,  1  and  2,  or  any  two  fractions,  there  are  infinite 
+numbers  of  other  numbers  or  fractions.  It  is  obvious  that  in  a  given  interval, 
+let  us  say,  between  1  and  5,  we  can  have  an  indefinitely  large  number  of  inter¬ 
+mediary  numbers  arranged  in  an  increasing  progression,  such  that  the  difference 
+between  two  successive  numbers  can  be  made  smaller  than  any  assigned  value, 
+which  is  itself  greater  than  zero. 
+
+The  above  may  be  made  clearer  by  r  *  _ _ i  A 
+
+a  geometrical  illustration.  Let  us  take 
+
+a  segment  of  a  line  of  definite  length,  / _ _ £ - £i- - 
+
+let  us  say  2  inches.  Let  us  designate 
+
+the  ends  by  numbers  1  and  3.  In  figure  /  *  H  Jl _ £ — — H — it — ic 
+
+(A)  we  divide  the  segment  into  2  equal 
+
+parts  of  one  inch  each,  and  see  that  to  /  $  r  ,  2  -^  ■  ■  ■ 
+
+reach  3  starting  with  1  we  have  to  pro-  "  2 
+
+ceed  by  two  large  jumps  from  1  to  2, 
+
+and  from  2  to  3.  In  figure  (B)  we  have  more  steps  in  the  interval  and  therefore 
+the  steps  are  smaller.  In  figures  (C)  and  (D)  the  steps  are  still  smaller  and  their 
+number  greater.  If  the  number  of  steps  is  very  large,  the  steps  are  very  small. 
+In  the  limit,  if  the  numbers  of  steps  become  infinite,  the  length  of  the  steps  tends 
+
+578  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+toward  zero  and  the  aggregate  of  such  points  of  division  represents  (in  the 
+
+rough  only)  a  continuous  line. 
+
+.  **  *s  *mP°rtant  that  the  reader  should  become  thoroughly  acquainted 
+with  the  above  simple  considerations  as  they  will  be  very  useful  in  any  line  of 
+endeavour.  ^  Here  we  already  have  learned  how,  somehow,  to  translate  dis¬ 

@@ -1,0 +1,500 @@
+X  and  y.  We  have  seen  also  that  each  of  the  four  quadrants  I,  II,  HI,  IV  has 
+a  characteristic  pair  of  signs.  In  quadrant 
+I,  both  x  and  y  are  positive;  in  II,  x  is 
+negative  and  y  positive;  in  III,  both  x and 
+y  are  negative;  and  finally,  in  IV,  x  is  posi¬ 
+tive  and  y  negative.  We  can  easily  see  that 
+the  value  of  the  variables  may  be  thought 
+of  as  variable  conditions  different  for  each 
+individual,  and  that  definite  localizations 
+correspond  to  them.  In  our  example  we 
+had  to  do  with  a  function  of  one  inde¬ 
+pendent  variable,  and  we  had  a  one¬ 
+dimensional  line,  curved  in  two  dimen¬ 
+sions.  When  we  had  a  function  of  two 
+independent  variables  we  had  a  surface, 
+
+which  in  general  was  curved  in  a  third  ,  .  , 
+
+dimension.  By  analogy  we  may  pass  to  any  number  of  dimensions,  where  by 
+dimension  we  do  not  mean  anything  mysterious,  but  roug  y  t  e  num  er  o 
+
+variables  involved  in  the  problem.  , 
+
+We  see  that  if  we  think  of  the  activity  of  the  nervous  system  in  terms  of  a 
+mathematical  function  with  an  enormous  number  of  variables,  we  shall  not 
+only  have  place  for  the  uniqueness  of  each  individual,  determined  by  the  va  ue 
+of  the  variables  and  the  character  of  the  function,  but  that  this  would  a  so 
+imply  a  localization ,  which  is  permanent  in  a  given  individual  at  a  given  time  ; 
+which  again  implies  the  totality  of  ‘circumstances’  ,  .  Our  function  would  be 
+
+Y 
+
+N  =}{x  1,  X2,  *3,  .  .  *  *»)•  f  _  .  . ..  (  .. 
+
+In  fact  it  is  hard  to  see  how  it  is  possible  to  analyse  the  activities  of  the 
+
+nervous  system  in  any  other  way.  The  facts  are,  that  every  organism  is  an 
+individual,  distinct  and  different  from  others,  and  so  we  must  have  means  to 
+take  this  individuality  into  account.  Different  values  for  different  variables 
+take  care  of  this  point.  Similarities  are  accounted  for  by  the  general  structural 
+character  of  the  functions.  For  instance,  any  quadratic  equation  with  two  un¬ 
+knowns  gives  us  a  conic  section.  An  equation  of  the  type  y2  =ax  represents  a 
+parabola,  the  graph  of  any  equation  of  the  form  xy  =a  represents  a  hyperbola  ,  . 
+For  every  definite  set  of  values  of  our  variables  the  implied  localization  is  also 
+definite,  which  corresponds  to  the  fact  that  in  a  given  individual  at  a  given 
+'time’  .  ,  the  localization  is  definite.  One  value  for  the  whole  function  can  be 
+
+632  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+reached  by  giving  different  sets  of  values  to  the  different  variables.  For  in¬ 
+stance,  in  the  function  z=*5x-2y-~  1,  if  x  =  l  and  y- 1,  then  s=  2;  but  we  can 
+have  s  — 2  by  taking  x-2  and  y  —  3.5.  Or  if  one  of  the  conditions  be  non-ex¬ 
+istent,  which  means  that  the  value  of  one  of  our  variables  is  zero,  for  instance, 
+x  =0,  we  still  could  have  the  value  z  -2  by  taking  y  =  —  l.S.  This  fact  accounts 
+for  the  many-to-one  correspondences  of  causal  factors,  typified,  for  instance, 
+by  sunshine  or  cod  liver  oil  producing  a  similar  effect. 
+
+It  should  be  understood  that  in  what  is  said  here,  the  numerical  values  do 
+not  matter.  In  most  of  the  cases  we  are  not  advanced  enough  to  be  able  to 
+deal  with  such  numerical  values.  What  is  to  be  emphasized  is  the  structure  of 
+the  language  we  use.  The  method  should  enable  us,  instead  of  dealing  with 
+generalizations  in  the  old  language,  which  somewhere  have  to  be  contradicted, 
+to  use  a  language  of  mathematical  structure  which  shall  account  for  the  facts 
+and  leave  room  for  the  great  individual  varieties  of  organisms  in  structure  and 
+function. 
+
+After  all,  we  should  not  be  surprised  that  the  theory  of  functions  and 
+language  of  functions  is  structurally  appropriate  in  expressing,  and  so  in  under¬ 
+standing,  the  functioning  of  the  nervous  system,  or  any  other  system.  Per¬ 
+sonally  I  have  benefitted  greatly  through  this  method;  and  many  baffling 
+structural  complexities  have  been  much  simplified. 
+
+Structurally,  when  we  use  the  language  of  functions,  variables .  ,  we 
+automatically  introduce  extensional  structure,  as  already  explained,  and  we 
+have  at  our  disposal  methods  of  translation  of  different  orders  of  abstractions — 
+dynamic  into  static,  and  vice  versa — which  is  a  neurological  structural  necessity 
+for  being  rational  and  sane.  And  surely  science  should  try  to  be  rational.  It 
+should  be  stressed  again  that  in  our  problem  numerical  values  matter  very 
+little,  but  structure  and  method,  for  the  many  reasons  already  explained,  are 
+of  paramount  importance.  Perhaps  even  the  value  of  numbers  is  due  mainly 
+to  the  structural  fact  that  it  has  forced  upon  us  extensional  and  relational 
+methods.  It  is  the  only  language  which  is  in  accordance  with  the  structure  and 
+functioning  of  the  nervous  system,  and  so  helps  to  co-ordinate  these  activities 
+instead  of  disorganizing  them. 
+
+That  these  simple  structural  dependences  have  been  discovered  so  late  is 
+really  astonishing.  The  only  explanation  I  can  give  of  this  is  that  we  have  been 
+so  engrossed  in  generalizing  and  generalizations  that  we  lost  sight  of  the  fact 
+that  in  life  we  deal  structurally  with  absolute  individuals ,  and  that  the  only 
+language  which  preserves  the  extensional  structural  individuality  for  its  elements 
+is  found  in  mathematics — specifically,  in  numbers. 
+
+It  may  be  that  a  study  of  mathematical  structure  and  the  psycho-logics  of 
+mathematics  will  give  results  of  unparalleled  human  values,  particularly  for 
+our  sanity.  The  problems  of  sanity  are  problems  of  adjustment,  and  no  means 
+of  adjustment  should  be  disregarded.  It  may  also  be  that  the  main  importance 
+of  mathematics  will  be  found  some  day  to  be  more  in  the  mathematical  methods 
+and  structure  which  it  has  originated,  methods  forced  upon  the  mathematician 
+
+ON  GEOMETRY 
+
+by  the  relational  character  of  the  entities  he  has  to  deal  with,  than  in  the  pos¬ 
+sible  combinations  of  these  entities  themselves. 
+
+At  any  rate,  we  must  sadly  admit  that  the  problems  of  mathematical 
+methods  and  structure  and  the  psycho-logical  values  of  mathematics  have  so 
+far  received  very  little  attention,  since  we  have  failed  to  realize  their  human 
+Importance.  In  the  future  this  problem  will  be  further,  and  thoroughly,  in¬ 
+vestigated. 
+
+PART  IX 
+
+ON  THE  SIMILARITY  OF  EMPIRICAL 
+AND  VERBAL  STRUCTURES 
+
+The  theory  of  relativity  has  resulted  from  a  combination  of  the  three 
+elements  which  were  called  for  in  a  reconstruction  of  physics:  first,  delicate 
+experiment:  secondly,  logical  analysis;  and  thirdly,  epistemological  con¬ 
+siderations.  (457)  bertrand  russell 
+
+The  essence  of  Einstein’s  generalization  is  its  final  disentanglement  of 
+that  part  of  any  physical  event  which  is  contributed  by  the  observer  from 
+that  which  is  inherent  in  the  nature  of  things  and  independent  of  all  ob- 
+
+E.  T.  BELL 
+
+Even  Leibniz  formulated  the  postulate  of  continuity,  of  infinitely  near 
+action,  as  a  general  principle,  and  could  not,  for  this  reason,  become  recon¬ 
+ciled  to  Newton’s  Law  of  Gravitation,  which  entails  action  at  a  distance 
+and  which  corresponds  fully  to  that  of  Coulomb.  (547)  Hermann  weyl 
+
+This  limitation  to  what  is  directly  observable  is  ultimately  based  on 
+Mach’s  philosophy  and,  directly  inspired  by  Mach,  led  three  decades  ago 
+to  the  propagation  of  the  so-called  theory  of  "Energetics,  which  sought 
+to  recognise  only  quantities  of  energy  as  physically  given  and  observable 
+quantities.  (481)  A*  sommerfeld 
+
+CHAPTER  XXXV 
+
+ACTION  BY  CONTACT 
+
+The  difficulty  involved  is  that  the  proper  and  adequate  means  of  describ- 
+ing  changes  in  continuous  deformable  bodies  is  the  method  of  dtfferenHal 
+equations .  .  .  .  They  express  mathematically  the  physical  conception  of 
+contiguous  action.  (45)  MAX  B0RN 
+
+The  analysis  of  ‘matter’,  ‘space’,  and  ‘time’  from  the  point  of  view  of 
+structure  and  of  orders  of  abstractions  has  led  us  to  far-reaching  conclusions. 
+Let  us  summarize  the  semantic  results,  and  consider  some  of  the  immediate 
+consequences. 
+
+We  may  begin  by  recalling  the  difference  between  the  lower  order  and 
+higher  order  abstractions.  The  lower  order  abstractions  are  given  to  us  by  the 
+lower  nerve  centres.  They  are  ‘dynamic’,  ‘continuous’,  non-permanent,  shifting, 
+unreliable,  and  above  all  un-speakable. 
+
+They  have  a  character  of  immediacy,  because,  structurally  in  terms  of 
+order,  they  are  closest  to  outside  events.  They  come  first  in  order  in  the  func¬ 
+tioning  of  the  nervous  system.  We  always  associate  with  them  some  ‘objectivity’ 
+as,  by  necessity,  the  eventual  definition  o f  an  ‘object’  starts  at  this  level. 
+
+It  should  be  emphasized  over  and  over  again  that,  speaking  correctly, 
+on  this  level  we  cannot  define  anything,  since  abstractions  on  this  level  are 
+fundamentally  un-speakable .  We  may  look,  listen,  handle,  feel .  ,  but  cannot 
+speak  and  therefore  cannot  define.  The  moment  we  define  our  objects,  we 
+are  no  longer  on  the  level  of  lower  order  abstractions.  By  neurological  structural 
+necessity  we  have  passed  to  the  higher  nerve  centres  (speech),  and  higher 
+order  abstractions.  This  is  what  is  meant  when  we  say  that  this  lower  level 
+is  unspeakable . 
+
+Because  these  lower  order  abstractions  are  closer  to  the  outside  events, 
+and  because  they  come  first  in  order ,  they  have  a  special  character  of  immediacy, 
+with  which  we  must  start.  The  struggle  begins  when,  through  some  primitive- 
+made  doctrines  or  structural  assumptions  (metaphysics),  we  try  to  avoid  going 
+any  further  than  these  lower  order  abstractions.  As  a  matter  of  fact,  this  is  an 
+impossibility,  because  of  the  very  structure  of  our  nervous  system.  However 
+intensely  we  believe  that  it  is  possible  to  do  so,  and  however  ‘emotionally’  we 
+attempt  to  do  it,  we  are  cherishing  delusions,  which  easily  become  morbid 
+identifications,  delusions,  illusions,  and  often  hallucinations. 
+
+This  level  being  unspeakable ,  the  only  way  to  function  on  this  level  is 
+to  look,  listen  .,  but  to  be  silent  outwardly  as  well  as  inwardly.  This  last 
+condition  represents  a  most  beneficial  semantic  state,  really  difficult,  perhaps 
+impossible,  to  acquire  without  training. 
+
+The  higher  order  abstractions  appear  to  be  products  of  the  activity  of 
+the  higher  nerve  centres,  further  removed  from  the  external  events  and  lacking, 
+therefore,  in  immediacy.  But  these  higher  abstractions  are  static  and  so  may 
+
+638  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+be  analysed.  They  have  a  separable  unit  ‘quantum*  structure,  which  can  be 
+treated  individually.  It  should  be  carefully  noticed  that  the  static  character 
+of  these  higher  order  abstractions  is  the  origin  of  their  separable  quantum 
+character,  conditioned  by  the  human  nervous  structure.  They  are,  if  properly 
+treated,  reliable  and  are  uniquely  responsible  for  our  being  time-binders. 
+
+Again,  by  the  structural  necessity  of  our  nervous  system,  we  deal  first 
+with  lower  order  abstractions,  and  next  with  higher  order  abstractions.  It 
+must  be  noticed  that  no  one ,  unless  he  is  (pathologically)  entirely  deprived  of 
+the  higher  nerve  centres,  is,  or  can  be,  an  exception.  We  all  deal  with  lower 
+abstractions  first,  and  with  the  higher  next,  no  matter  how  perfect  or  imperfect 
+these  abstractions  may  be. 
+
+The  general  confusion  of  orders  of  abstractions,  the  lack  of  theories,  and 
+therefore  of  structural  understanding  of  the  entirely  different  characters  of 
+these  distinct  orders  of  abstractions,  leads  to,  and  must  result  in,  identification 
+or  confusion  of  orders  of  abstractions.  As  the  different  processes  are  going  on, 
+whether  we  will  it  or  not,  in  every  single  one  of  us,  they  may  result  in  the 
+delusional  ascribing  of  the  characteristics  of  the  higher  order  abstractions  to 
+the  lower  order  abstractions,  as  for  instance,  permanence,  immutability . , 
+somewhere  involving  ‘infinities*.  When  objectified,  we  have  such  semantic 
+disturbances  as  fanaticism,  absolutism,  dogmatism,  finalism  .  ,  which  often 
+become  morbid  semantic  states. 
+
+A  similar  confusion  may  lead  to  the  delusional  ascribing  of  the  charac¬ 
+teristics  of  the  lower  order  abstractions  to  the  higher  ones.  Under  such  delusions 
+we  ascribe  to  the  higher  abstractions  fluidity,  shiftiness,  non-permanence, 
+‘non-knowability*.  ,  which  results  in  pessimism,  cynicism,  disregard  for  science, 
+bitterness,  fright,  hopelessness  and  other  equally  vicious  semantic  disturbances. 
+These  in  turn  affect  by  structural  necessity  the  proper  working  of  the  entire 
+organism,  which  always  works  as-a-whole. 
+
+The  A  -system  and  other  older  systems  were  not  only  built  before  these 
+facts  became  structurally  known  but  were  actually  based  on  such  confusion. 
+Hence  their  viciousness.  By  building  a  language  and  a  method  of  this  nature 
+they  perpetuated  and  made  effective  mechanically  through  the  structure  of 
+language,  a  harmful  confusion.  This  language  being  not  in  accordance  with 
+the  structure  and  functioning  of  the  nervous  system  and  the  world,  must 
+produce  pathological  results  somewhere. 
+
+We  have  already  seen  that  the  use  of  the  ‘is*  of  identity  is  unconditionally 
+delusional.  Naturally,  attitudes  (affective,  lower  order  abstractions)  which 
+can  assert,  (higher  order  abstractions)  that  so  and  so  on  objective  levels  ‘is’ 
+so  and  so,  must  lead  to  pathological  results.  In  science  this  is  a  profoundly 
+unsatisfactory  state  of  affairs  and  needs  structural  revision. 
+
+Mathematicians,  though  in  the  main  unconscious  or  innocent  of  the 
+structural,  semantic,  and  neurological  issues  involved,  nevertheless  have  solved 
+this  problem  by  producing  methods  of  passing  from  one  order  of  abstractions 
+to  another,  from  dynamic  to  static,  and  vice  versa.  The  influence  of  these  dis¬ 
+coveries  has  also  affected  the  other  sciences  unconsciously .  Without  consciously 
+
+ACTION  BY  CONTACT 
+
+^cognizing  it,  the  modern  trend  of  science  is  to  banish  from  its  habits  and 
+methods  the  application  of  the  ‘is’  of  identity.  . 
+
+So  in  science  we  have  to  use  an  actional,  ‘behaviouristic’,  ‘functional , 
+‘operational’  language,  in  which  we  do  not  say  that  this  and  this  ‘is’  so  and  so, 
+but  where  we  describe  extensionally  what  happens  in  certain  order .  We  describe 
+how  something  behaves ,  what  something  does ,  what  we  do  in  our  research  work  ,  . 
+
+If  one  asks,  for  instance,  what  is  ‘length’,  what  is  ‘space’,  what  is  ‘time’,  what 
+is  ‘matter’.  ,  the  only  correct  answer  would  be,  ‘As  you  asked  the  question 
+verbally,  and  I  answer  it  verbally ,  the  above  terms  remain  terms ,  which  beside 
+structure,  have  no  connection  whatsoever  with  the  external  world\  Yet 
+undoubtedly  we  are  interested  in  this  external  world  and  we  should  like  to 
+use  a  language  which  would  help  us  in  understanding  this  world  better.  What 
+shall  we  do?  It  seems  that  if  we  produce  a  language  which  is  similar  in  structure , 
+to  the  external  world,  somehow,  as  a  map  or  picture  is  similar  in  structure 
+to  the  region  it  pictures,  we  should  have  a  uniquely  appropriate  language. 
+How  can  we  do  it?  It  is  quite  simple  the  moment  we  discover  the  principle. 
+First  of  all,  abandon  completely  the  A  ‘is’  of  identity,  and,  instead,  describe 
+ordered  happenings  in  an  actional  and  functional  language.  Such  a  language 
+shares  with  the  external  world  at  least  the  multi-dimensional  order  of  happen¬ 
+ings,  and  it  gives  us  a  solution. 
+
+It  is  easy  to  see  that  arguments  (verbal)  about  ‘matter’,  ‘space’,  ‘time’.  , 
+will  never  become  anything  else  than  verbal.  All  uses  of  the  ‘is’  of  identity, 
+must  lead  to  delusional  evaluation.  The  situation  is  radically  changed  when 
+we  use  an  actional  or  functional  language,  when  we  describe  what  a  physicist 
+does  when  he  finds  his  ‘length’  or  ‘second’  or  any  other  entity  he  is  interested  in. 
+
+We  should  notice  here  that  the  above  procedure  involves  extremely  far- 
+reaching  structural  and  semantic  consequences.  First  of  all,  we  abandon  the 
+vicious  use  of  the  ‘is’  of  identity,  and  eliminate  the  semantic  disturbance  called 
+identification.  We  introduce  automatically  the  full  psycho-logical  working 
+mechanism  of  order ,  extensional  methods  and  discrimination  between  the  orders 
+of  abstractions.  We  introduce  the  four-dimensional  and  differential  methods, 
+we  build  up  static  units,  ‘quanta’,  and  so  introduce  measurement  and  its 
+language  called  mathematics,  which  leads  to  structure  and  so  to  knowledge 
+at  each  date. 
+
+It  will  be  useful  to  recall  why  mathematics  and  measurements  are  somehow 
+so  important  in  our  lives.  Our  nervous  system,  as  we  have  seen,  exhibits  dif¬ 
+ferent  activities  on  different  levels.  On  one  level  the  abstractions  are  shifting, 
+non-permanent;  on  the  other  static  and  permanent  in  principle.  This  is  expressed 
+in  our  lives  in  a  longing  for  some  permanency,  some  security,  some  ‘absolutes’. 
+Mathematics  formulated  this  tendency  first  and  with  full  success.  Mathematics 
+has  not  only  formulated  full  and  successful  theories  of  ‘change’,  as,  for  instance, 
+the  theory  of  functions  and  the  different  calculi,  but  also  full-fledged  and 
+remarkable  theories  of  invariance  under  transformations.  These  new  theories 
+of  invariance  are  actually  absolute  formulations  in  the  only  sense  in  which  the 
+
+640  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+te^‘fbS?1Ute’  ,haS  a  meaning:  name,y-  relative,  no  matter  to  what;  all  of 
+which  leads  to  the  only  content  of  knowledge — structure. 
+
+The  whole  Einstein  theory  should,  in  this  sense,  be  called  the  ‘theory  of 
+the  absolute  ,  and  can  be  expressed  as  the  simple  demand  that  ‘universal  laws’ 
+should  be  formulated  m  an  invariant  form,  a  most  revolutionary  demand  and 
+yet  so  structurally  natural  that  no  one  can  deny  it. 
+
+When  we  mathematize  or  speak  about  potential  or  actual  measurements 
+we  are  dealing  with  ordered,  extension al,  actional,  behaviouristic,  functional  and 
+operational  entities,  and  so  we  build  up  a  language  which  at  least  has  a  similar 
+structure  to  the  external  events.  Numbers  imply  units,  quanta,  but  also  order. 
+It  seems  that  number  is  the  only  abstraction  upon  which  we  all  must  agree 
+We  never  doubt  that  a  statement,  such  as  that  ‘I  have  in  my  pocket  five  pennies’, 
+may  be  perfectly  definite  and  ascertainable  for  all.  The  specific  and  unique 
+relations  called  numbers  seems  to  have  absolute  significance.  It  must  be  added 
+that  the  existence  of  non-quantitative  branches  of  mathematics  does  not  alter 
+what  is  said  here.  In  these  branches,  the  asymmetrical  relation  of  order  remains 
+paramount  and  we  may  treat  numbers  from  either  of  their  two  aspects,  the 
+cardinal  or  the  ordinal.  ’  e 
+
+The  epoch-making  significance  of  the  Einstein-Minkowski  work  consists 
+precisely  in  the  fact  that  they  were  the  first  to  apply  the  above,  though  without 
+it  is  true,  formulating  the  general  principle.  The  lack  of  such  a  general  A 
+epistemological  formulation  retards  considerably  the  understanding  of  their 
+wor  ,  and  so  laymen  miss  the  enormous  structural,  and  semantic  beneficial 
+effect  upon  the  proper  working  of  our  nervous  system  and  our  sanity. 
+
+Before  giving  a  short  methodological  account  of  the  Einstein  theory  it 
+
+T-L  e,.Wf  to  recaU  some  structural  and  semantic  conclusions  which  the 
+differential  calculus  suggests. 
+
+When  we  were  dealing  with  the  notion  of  a  variable,  we  saw  that  the 
+variable  might  be  any  element  selected  out  of  an  ordered  aggregate  of  elements. 
+
+e  can  select  elements  relatively  widely  separated  from  each  other,  as,  for 
+instance,  the  numbers  1  and  2,  or  points,  let  us  say,  an  inch  apart.  It  is  obvious 
+that  if  we  choose,  we  can  make  the  gaps  smaller,  and  postulate  an  infinity  of 
+intermediate  steps.  When  we  make  our  gaps  smaller,  the  elements  are  ordered 
+more  densely  and  closer  together.  In  the  limit,  if  we  choose  indefinitely  many 
+elements  between  any  two  elements,  our  series  become  compact,  if  we  still 
+
+have  a  possibility  of  gaps;  or  they  eventually  become  what  we  call  continuous, 
+when  there  are  no  more  gaps. 
+
+Without  legislating  as  to  whether  the  entities  we  use  in  physics  are  ‘con- 
+tinuous  ,  ‘compact’,  or  ‘discontinuous’,  we  may  grant  that  the  maximum 
+elucidation  of  the  above  terms  in  mathematics  is  very  useful.  We  can  easily 
+see  that  in  terms  of  action  a  continuous  series  gives  us  action  by  contact,  since 
+consecutive  elements  are  indefinitely  near  each  other.  As  the  differential  and 
+integral  calculus  were  built  on  the  structural  assumption  of  continuity,  the  use 
+of  the  calculus  brings  us  in  touch  not  only  with  our  x  but  also  with  its  indefinitely 
+close  neighbour  x+dx.  We  see  that  the  calculus  introduces  a  most  important 
+
+ACTION  BY  CONTACT 
+
+structural  and  semantic  innovation;  namely,  that  it  is  a  language  for  describing 
+action  by  contact,  in  sharp  contradistinction  to  the  structural  assumption  of 
+action  at  a  distance. 
+
+Let  us  illustrate  the  above  by  a  structural  example.  Consider  a  series  of 
+equal  small  material  spheres  connected  with  each  other  by  small  spiral  springs 
+as  shown  on  Fig.  1. 
+
+12  3 
+
+Fig.  1 
+
+These  little  spheres  all  have  inertia,  because  of  which,  and  because  of 
+the  little  springs,  they  resist  displacement.  If  we  displace  the  first  of  our  spheres 
+either  in  the  transverse  or  longitudinal  direction,  it  acts  upon  the  second  sphere, 
+which  in  turn  acts  upon  the  third  , .  We  see  that  the  disturbance  of  equilibrium 
+of  the  first  little  sphere  is  transmitted  like  a  wave  to  the  next  sphere  and  so 
+along  the  whole  series.  The  most  significant  point  in  the  analysis  of  such  a 
+wave  of  excitation  is  that  it  is  not  transmitted  with  some  'infinite  velocity’,  or 
+'infinitely  quickly’  or  in  'no  time’.  The  action  of  each  sphere  is  slightly  delayed 
+owing  to  its  inertia,  that  is,  it  does  not  respond  'instantaneously'  to  an  impulse. 
+It  must  be  noticed  that  the  displacement  is  not  due  to  a  velocity,  but  to  an 
+acceleration,  which  is  a  change  of  velocity  and  requires  a  short  interval  of 
+'time*.  The  change  in  velocity  again  requires  an  interval  of  ‘time’  to  overcome 
+inertia  and  produce  displacement.  Similar  reasoning  applies  to  a  long  train  just 
+being  started  by  the  engine.  The  cars  being  coupled  together  by  more  or  less 
+elastic  means,  the  engine  may  be  moving  uniformly  and  some  of  the  last  cars 
+still  be  stationary.  The  pull  of  the  engine  is  not  transmitted  instantaneously 
+but  with  a  finite  velocity ,  due  again  to  the  inertia  of  the  cars. 
+
+We  see  that  the  only  structurally  adequate  means  of  describing  changes  in 
+continuous,  deformable  materials  is  to  be  found  in  differential  equations  which 
+express  a  method  of  dealing  with  action  by  contact . 
+
+We  have  already  seen  that  this  action  by  contact  involves  also  the  finite 
+velocity  of  propagation,  a  fact  of  crucial  structural  and  semantic  importance. 
+In  the  history  of  science  we  can  distinguish  three  periods.  The  first  was  naturally 
+the  period  of  action  at  a  distance,  the  best  exemplified  by  the  work  of  two 
+great  men,  Euclid  and  Newton.  In  it  we  find  of  course,  a  superabundance  of 
+'infinities’.  With  the  advent  of  the  differential  calculus,  and  the  introduction 
+of  differential  equations  in  the  study  of  nature,  the  notion  of  action  at  a  distance 
+became  more  and  more  untenable.  We  had  a  period  of  pseudo-contiguous 
+action,  which  indeed  involved  differential  equations;  but  the  velocity  of  propa¬ 
+gation  was  not  introduced  explicitly,  and  so  there  remained  an  implicit  structural 
+assumption  of  'infinite  velocity’  of  propagation.  As  an  example  of  such  pseudo- 
+contiguous  action  we  can  cite  the  older  theories  of  potential,  which  give  differen¬ 
+tial  equations  for  the  change  in  the  intensity  of  the  field  from  place  to  place, 
+
+642  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+but  which  do  not  contain  members  that  express  a  change  in  ‘time’,  and  hence 
+do  not  take  into  account  the  transmission  of  electricity  with  finite  velocity.1 
+
+The  modern  theories,  as  for  instance,  the  Maxwell  theory  of  electromag¬ 
+netism,  and  the  Einstein  theory,  are  based  on  action  by  contact .  These  theories 
+not  only  use  the  differential  method,  but  they  also  introduce  explicitly  the 
+finite  velocity  of  propagation. 
+
+The  invention  of  differential  geometry  with  the  recent  contribution  of 
+Weyl,  which  we  have  already  mentioned,  transforms  the  geometry  of  Euclid 
+from  a  language  of  action  at  a  distance  into  contact  geometry,  or  a  language 
+of  indefinitely  near  action. 
+
+It  should  be  mentioned  perhaps  that  the  riemannian  differential  geometry 
+is  more  general  than  all  the  £  geometries  which  preceded  it,  and  includes  them, 
+as  well  as  the  £  geometry,  as  special  cases.  Perhaps,  as  Weyl  points  out,2  the 
+investigation  of  the  famous  fifth  postulate,  which  was  the  beginning  of  £ 
+geometry,  was  accidental  in  importance  and  the  main  structural  value  of  the 
+£  geometries  lies  precisely  in  the  application  of  the  differential  methods  to 
+geometry  which  was  originated  by  the  great  work  of  Riemann.  This  work, 
+we  see,  has  carried  us  from  metaphysical  action  at  a  distance  to  a  physical 
+action  by  contact.  In  passing  from  the  older  mechanics  to  electromagnetic 
+events  a  very  striking  analogy  appears,  which  explains  the  finite  velocity  of 
+propagation. 
+
+In  mechanics,  when  we  have  waves  in  an  elastic  medium,  the  finite  velocity 
+of  propagation  is  due  to  the  delay  which  occurs  due  to  the  inertia  of  materials. 
+Now  inertia  is  determined  by  acceleration  {dts/dP),  which  represents  the  rate 
+of  change  of  the  velocity  ( v=ds/dt ),  velocity  itself  being  a  rate  of  change  of 
+displacement.  We  see  that  this  retardation,  or  negative  acceleration,  is  repre¬ 
+sented  by  a  double  differentiation. 
+
+Something  analogous  occurs  in  electromagnetic  events.  The  rate  of  change 
+of  the  electric  field  (de/dt)  determines  the  magnetic  field;  and  then  the  rate  of 
+change  (dh/dt)  of  the  latter  determines  the  electric  field  at  a  neighbouring 
+point.  The  advance  of  the  electric  field  from  point  to  point  is  thus  conditioned 
+by  two  differentiations  with  respect  to  'time’,  which  is  quite  analogous  to 
+acceleration. 
+
+It  is  due  to  this  double  differentiation  with  respect  to  'time'  that  the 
+formulation  of  electromagnetic  waves  are  structurally  possible.  If  the  partial 
+effects  were  to  occur  without  loss  of  'time’,  no  propagation  of  the  electric  waves 
+would  occur.  The  maxwellian  'field  equations’  not  only  express  the  above- 
+mentioned  relations,  but  introduce  structurally  the  finite  velocity  of  propaga¬ 
+tion  which  makes  the  Maxwell’s  electromagnetic  theory  structurally  a  contact 
+theory. 
+
+The  Einstein  theory  is  also  structurally  a  contact  theory,  and  it  may  be 
+said  that  it  was  originated  by  this  contact  tendency,  and  has  carried  it  to  the 
+limit,  as  we  shall  see  later.  The  gaussian  theory  of  surfaces,  whose  extension 
+to  any  number  of  dimensions  was  made  by  Riemann,  also  represents  action 
+by  contact.  This  theory  does  not  state  the  laws  of  surfaces  on  a  large  scale, 
+
+ACTION  BY  CONTACT 
+
+but  only  their  differential  properties,  the  coefficients  of  the  measure  determina¬ 
+tion,  the  invariants  which  we  can  form,  and  the  curvature  and  its  measure. 
+The  form  of  a  surface  and  its  characteristics  can  then  be  calculated  by  a  process 
+similar  to  the  solution  of  differential  equations  in  physics. 
+
+We  are  now  in  a  position  to  understand  why  the  newer  physics  and  the 
+j systems,  which  are  built  entirely  on  the  foundations  of  action  by  contact, 
+found  the  E-system  unsatisfactory.  The  .E-system  was  built  on  the  structural 
+assumption  of  action  at  a  distance,  and  we  had  to  select  the  E  geometries  as 
+originated  by  Gauss,  Lobatchevski,  Riemann,  and  others,  which  gave  to  physics 
+the  necessary  geometry  of  action  by  contact. 
+
+But  the  question  of  action  at  a  distance  versus  action  by  contact  has 
+also  an  experimental  aspect  which  makes  the  latter  theory  more  satisfactory. 
+
+Faraday  (1791-1867)  was  not  a  learned  academician,  and  he  was  much 
+freer  from  scientific  prejudices  than  any  of  his  contemporaries.  From  a  book¬ 
+binder’s  apprentice  he  became  through  his  genius  one  of  the  founders  of  modern 
+physics.  His  method  of  experimenting  was  to  try  every  possible  experiment 
+and  note  what  happened. 
+
+In  1838  Faraday  made  an  important  structural  discovery;  namely,  that 
+the  mutual  action  between  two  electrically  charged  bodies  depends  upon  the 
+character  of  the  intervening  medium.  Faraday  established  by  this  experiment 
+that  the  capacity  of  a  spherical  condenser  changes  when  another  material  is 
+used  as  the  separating  medium,  rather  than  air.  He  found  that  the  capacity 
+became  twice  as  large  when  the  medium  was  paraffin,  three  times  as  large  for 
+shellac,  six  times  as  large  for  glass,  and  about  eighty  times  as  large  for  water. 
+
+This  experiment  became  the  foundation  of  the  new  theory.  The  old  ‘action 
+at  a  distance*  theory  postulated  that  the  electrostatic  field  was  merely  a 
+geometrical  structure  without  physical  significance,  while  this  new  experiment 
+showed  that  the  field  had  physical  significance.  Every  charge  acts  first  upon 
+its  immediate  surroundings,  and  it  is  only  through  the  medium  of  these  that 
+the  action  is  propagated.  The 
+discovery  of  displacement  cur¬ 
+rents  necessitated  an  extension 
+of  his  point  of  view  to  all 
+distances.3 
+
+Faraday  was  so  impressed 

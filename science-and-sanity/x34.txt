@@ -1,0 +1,500 @@
+mysteries  vanish.  New  generalizations  introduce  new  attitudes  (evalua¬ 
+tion)  which,  as  usual,  seriously  simplify  the  problems  for  a  new  generation. 
+In  the  present  work,  we  are  treating  problems  from  the  point  of  view  of 
+such  a  generalization,  of  wide  application;  namely,  structure,  which  is 
+forced  upon  us  by  the  denial  of  the  ‘is’  of  identity. ;  so  that  structure  be¬ 
+comes  the  only  link  between  the  objective  and  verbal  levels.  The  next  con¬ 
+sequence  is  that  structure  alone  is  the  only  possible  content  of  knowledge. 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+Investigating  structure,  we  have  found  that  structure  can  be  defined 
+in  terms  of  relations ;  and  the  latter,  for  special  purposes,  in  terms  of 
+multi-dimensional  order.  Obviously,  to  investigate  structure,  we  must 
+look  for  relations,  and  so  for  multi-dimensional  order.  The  full  applica¬ 
+tion  of  the  above  principles  becomes  our  guide  for  future  enquiry. 
+
+In  the  recent  past,  we  have  become  accustomed  to  such  arguments 
+as,  for  instance,  that  the  theory  of  Einstein  has  to  be  accepted  on 
+'epistemological'  grounds.  Naturally,  the  scientist  or  the  layman  who 
+has  heard  the  last  term,  but  never  bothered  to  ascertain  that  it  means 
+'according  to  the  structure  of  human  knowledge',  would  recognize  no  neces¬ 
+sity  to  accept  something  which  violates  all  his  habitual  s,r ,  for  reasons 
+about  which  he  does  not  know  or  care.  But  if  we  say  that  the  Einstein 
+theory  has  to  be  accepted,  for  the  'time'  being,  at  least,  as  an  irreversible 
+structural  linguistic  progress ,  this  statement  carries  for  many  quite  a 
+different  verbal  and  semantic  implication,  and  one  worth  considering. 
+
+Mathematics  has,  of  late,  become  so  extremely  elaborate  and  com¬ 
+plex  that  it  takes  practically  a  lifetime  to  specialize  in  even  one  of  its 
+many  fields.  Here  and  there  notions  of  extreme  creative  generality 
+appear,  which  help  us  to  see  relations  and  dependence  between  formerly 
+non-connected  fields.  For  instance,  the  arithmetization  of  mathematics, 
+or  the  theory  of  groups,  or  the  theory  of  aggregates,  has  each  become 
+such  a  supreme  generalization.  At  present,  there  is  a  general  tendency 
+among  all  of  us,  scientists  included,  to  confuse  orders  of  abstractions. 
+This  results  in  a  psycho-logical  semantic  blockage  and  in  the  impossi¬ 
+bility  of  seeing  broader  issues  clearly. 
+
+Some  of  the  structural  issues  are  still  but  little  understood,  and,  in 
+writing  this  chapter,  I  lay  myself  open  to  a  reproach  from  the  layman 
+that  I  have  given  too  much  attention  to  mathematics,  and  from  the  pro¬ 
+fessional  mathematician  that  I  have  given  too  little.  My  reply  is  that 
+what  is  said  here  is  necessary  for  rounding  up  the  semantic  foundations 
+of  the  system,  and  that  I  explain  only  enough  to  carry  the  main  points 
+of  structure  and  as  semantic  suggestions  for  further  semantic  researches. 
+
+I  have  found  that  among  some  physicists  and  some  mathematicians 
+the  thesis  that  mathematics  is  the  only  language  which,  in  1933,  is  simi¬ 
+lar  in  structure  to  the  world,  is  not  always  acceptable.  As  to  the  second 
+thesis,  the  similarity  of  its  structure  to  our  nervous  system,  some  even 
+seem  to  feel  that  this  statement  borders  on  the  sacrilegious!  These 
+objectors,  apparently,  believe  that  I  ascribe  more  to  mathematics  than 
+is  just.  Some  physicists  point  out  to  me  the  non-satisfactory  develop¬ 
+ment  of  mathematics,  and  they  seem  to  confuse  the  inadequacy  of  a 
+given  mathematical  theory  with  the  general  m.o  structure  of  mathematics. 
+Thus,  if  some  physical  experimental  investigation  is  conducted — for 
+
+MATHEMATICS  AND  THE  WORLD 
+
+instance,  on  high  pressure — and  the  older  theories  predict  a  behaviour 
+exemplified  by  the  curve  (A),  while 
+the  experimental  new  data  show  that 
+the  actual  curve  is  (B),  such  a  result 
+would  show  unmistakably  that  the  first 
+theory  is  not  structurally  correct.  But, 
+in  itself,  this  result  does  not  affect  the 
+correctness  of  a  statement  about  the  general  structure  of  mathematics 
+which  can  account  for  both  curves . 
+
+Until  very  lately,  we  had  a  very  genuine  problem  in  physics  with 
+the  quantum  phenomena  which  seem  to  proceed  by  discrete  steps,  while 
+our  mathematics  is  fundamentally  based  on  assumptions  of  continuity. 
+Here  we  had  seemingly  a  serious  structural  discrepancy,  which,  however, 
+has  been  satisfactorily  overcome  by  the  wave  theory  of  the  newer 
+quantum  mechanics,  explained  in  Part  X,  where  the  discontinuities  are 
+accounted  for,  in  spite  of  the  use  of  differential  equations  and,  therefore, 
+of  continuous  mathematics. 
+
+But,  if  we  start  with  fundamental  assumptions  of  continuity,  we 
+always  can  account  for  discontinuities  by  introducing  wave  theories  or 
+some  similar  devices.  Therefore,  it  is  impossible,  in  our  case,  to  argue 
+from  the  wave  theory  (for  instance)  to  the  structure  of  mathematics,  or 
+vice  versa,  without  a  fundamental  and  independent  general  structural 
+analysis,  which  alone  can  elucidate  the  problem  at  hand. 
+
+Mathematicians  may  object  on  the  ground  that  the  new  revision  of 
+the  foundation  of  mathematics,  originated  by  Brouwer  and  Weyl,  chal¬ 
+lenges  the  ‘existence*  of  irrational  numbers . ,  and,  therefore,  destroys  the 
+very  foundations  of  continuity  and  the  legitimacy  of  existing  mathe¬ 
+matics. 
+
+In  answer  to  such  a  criticism,  we  should  notice,  first,  that  the  cur¬ 
+rent  ‘continuity*  is  of  two  kinds.  One  is  of  a  higher  grade,  and  is  usually 
+called  by  this  name;  the  other  continuity  is  of  a  lower  grade  and  is 
+usually  called  ‘compactness*.  The  new  revision  challenges  the  higher 
+continuity,  but  does  not  affect  compactness,  which,  as  a  result,  will,  per¬ 
+haps,  have  to  suffice  in  the  future  for  all  mathematics,  since  compactness 
+is  sufficient  to  meet  all  psycho-logical  requirements,  once  the  problems 
+of  ‘infinity*  are  properly  understood. 
+
+A  structural  independent  analysis  of  mathematics,  treated  as  a 
+language  and  a  form  of  human  behaviour,  establishes  the  similarity  of 
+this  language  to  the  undeniable  structural  characteristics  of  this  world 
+and  of  the  human  nervous  system.  These  few  and  simple  structural 
+foundations  are  arrived  at  by  inspection  of  known  data  and  may  be 
+considered  as  well  established. 
+
+B 
+
+Fig.  1. 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+The  existing  definitions  of  mathematics  are  not  entirely  satisfactory. 
+They  are  either  too  broad,  or  too  narrow,  or  do  not  emphasize  enough 
+the  main  characteristics  of  mathematics.  A  semantic  definition  of  mathe¬ 
+matics  should  be  broad  enough  to  cover  all  existing  branches  of  mathe¬ 
+matics  ;  should  be  narrow  enough  to  exclude  linguistic  disciplines  which 
+are  not  considered  mathematical  by  the  best  judgement  of  specialists,  and 
+should  also  be  flexible  enough  to  remain  valid,  no  matter  what  the  future 
+developments  of  mathematics  may  be. 
+
+I  have  said  that  mathematics  is  the  only  language,  at  present,  which 
+in  structure,  is  similar  to  the  structure  of  the  world  and  the  nervous  sys¬ 
+tem.  For  purposes  of  exposition,  we  shall  have  to  divide  our  analysis 
+accordingly,  remembering,  in  the  meantime,  that  this  division  is,  in  a 
+way,  artificial  and  optional,  as  the  issues  overlap.  In  some  instances,  it 
+is  really  difficult  to  decide  under  which  division  a  given  aspect  should  be 
+analysed.  The  problems  are  very  large,  and  for  full  discussion  would 
+require  volumes ;  so  we  have  to  limit  ourselves  to  a  suggestive  sketch  of 
+the  most  important  aspects  necessary  for  the  present  investigations 
+
+From  the  point  of  view  of  general  semantics,  mathematics,  having 
+symbols  and  propositions,  must  be  considered  as  a  language.  From  the 
+psychophysiological  point  of  view,  it  must  be  treated  as  an  activity  of 
+the  human  nervous  system  and  as  a  form  of  the  behaviour  of  the  organ¬ 
+isms  called  humans. 
+
+All  languages  are  composed  of  two  kinds  of  words :  ( 1 )  Of  names 
+for  the  somethings  on  the  un-speakable  level,  be  they  external  objects . , 
+or  internal  feelings ,  which  admittedly  are  not  words,  and  (2)  of  rela¬ 
+tional  terms ,  which  express  the  actual,  or  desired,  or  any  other  relations 
+between  the  un-speakable  entities  of  the  objective  level. 
+
+When  a  ‘quality’  is  treated  physiologically  as  a  reaction  of  an  organ¬ 
+ism  to  a  stimulus,  it  also  becomes  a  relation.  It  should  be  noticed  that 
+often  some  words  can  be,  and  actually  are,  used  in  both  senses ;  but,  in 
+a  given  context,  we  can  always,  by  further  analysis,  separate  the  words 
+used  into  these  two  categories.  Numbers  are  not  exceptions;  we  can 
+use  the  labels  ‘one’,  ‘two’. ,  as  numbers  (of  which  the  character  will  be 
+explained  presently)  but  also  as  names  for  anything  we  want,  as,  for 
+instance,  Second  or  Third  Avenue,  or  John  Smith  I  or  John  Smith  II. 
+When  we  use  numbers  as  names,  or  labels  for  anything,  we  call  them 
+numerals ;  and  this  is  not  a  mathematical  use  of  ‘one’,  ‘two’. ,  as  these 
+names  do  not  follow  mathematical  rules.  Thus,  Second  Avenue  and  Third 
+Avenue  cannot  be  added  together,  and  do  not  give  us  Fifth  Avenue  in 
+any  sense  whatever. 
+
+Names  alone  do  not  produce  propositions  and  so,  by  themselves, 
+say  nothing.  Before  we  can  have  a  proposition  and,  therefore,  meanings, 
+
+MATHEMATICS  AND  THE  WORLD 
+
+the  names  must  be  related  by  some  relation-word,  which,  however,  may 
+be  explicit  or  implied  by  the  context,  the  situation,  by  established  habits 
+of  speech , .  The  division  of  words  into  the  above  two  classes  may  seem 
+arbitrary,  or  to  introduce  an  unnecessary  complication  through  its  sim¬ 
+plicity  ;  yet,  if  we  take  modern  knowledge  into  account,  we  cannot  fol¬ 
+low  the  grammatical  divisions  of  a  primitive-made  language,  and  such  a 
+division  as  I  have  suggested  above  seems  structurally  correct  in  1933. 
+
+Traditionally,  mathematics  was  divided  into  two  branches:  one  was 
+called  arithmetic,  dealing  with  numbers ;  the  other  was  called  geometry, 
+and  dealt  with  such  entities  as  ‘line',  ‘surface’,  ‘volume’, .  Once  Descartes, 
+lying  in  bed  ill,  watched  the  branches  of  a  tree  swaying  under  the  in¬ 
+fluence  of  a  breeze.  It  occurred  to  him  that  the  varying  distances  of  the 
+branches  from  the  horizontal  and  vertical  window  frames  could  be 
+expressed  by  numbers  representing  measurements  of  the  distances.  An 
+epoch-making  step  was  taken:  geometrical  relations  were  expressed  by 
+numerical  relations ;  it  meant  the  beginning  of  analytical  geometry  and 
+the  unification  and  arithmetization  of  mathematics. 
+
+Further  investigation  by  the  pioneers  Frege,  Peano,  Whitehead, 
+Russell,  Keyser,  and  others  has  revealed  that  ‘number’  can  be  expressed 
+in  ‘logical  terms’ — a  quite  important  discovery,  provided  we  have  a  valid 
+‘logic’  and  structurally  correct  non-el  terms. 
+
+Traditionally,  too,  since  Aristotle,  and,  in  the  opinion  of  the  major¬ 
+ity,  even  today,  mathematics  is  considered  as  uniquely  connected  with 
+quantity  and  measurement.  Such  a  view  is  only  partial,  because  there 
+are  many  most  important  and  fundamental  branches  of  mathematics 
+which  have  nothing  to  do  with  quantity  or  measurement — as,  for  in¬ 
+stance,  the  theory  of  groups,  analysis  situs,  projective  geometry,  the 
+theory  of  numbers,  the  algebra  of  ‘logic’, . 
+
+Sometimes  mathematics  is  spoken  about  as  the  science  of  relations, 
+but  obviously  such  a  definition  is  too  broad.  If  the  only  content  of 
+knowledge  is  structural,  then  relations,  obvious,  or  to  be  discovered, 
+are  the  foundation  of  all  knowledge  and  of  all  language,  as  stated  in  the 
+division  of  words  given  above.  Such  a  definition  as  suggested  would 
+make  mathematics  co-extensive  with  all  language,  and  this,  obviously, 
+is  not  the  case. 
+
+Before  offering  a  semantic  definition  of  mathematics,  I  introduce 
+a  synoptical  table  taken  from  Professor  Shaw’s  The  Philosophy  of 
+Mathematics ,  which  he  calls  only  suggestive  and  ‘doubtless  incomplete 
+in  many  ways*.  I  use  this  table  because  it  gives  a  modern  list  of  the 
+most  important  mathematical  terms  and  disciplines  necessary  for  the 
+purpose  of  this  work,  indicating,  also,  in  a  way,  their  evolution  and 
+structural  interrelations. 
+
+QUALITATIVE  STUDY  OF  STRUCTURE 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+Central  Principles  of  Mathematics* 
+
+f 
+
+WORLDS  g 
+
+MORPHOLOGY 
+
+INVARIANCY 
+
+FUNCTION¬ 
+
+ALITY 
+
+IDEALITY 
+
+Rhythm  Patterns — 
+Arithmetic 
+
+Integers 
+Rationals 
+Irrationals  « 
+Ensembles  jg 
+
+Atomicity 
+
+Integers 
+
+Ensemble  theory 
+Literal  arithmetic 
+Complexes 
+
+Point  geometries 
+Functional  spaces 
+
+Congruences 
+Arithmetic  invari¬ 
+ants 
+
+Modular  geometry 
+
+Arithmetic  func¬ 
+tions 
+
+Algebraic  functions 
+
+Functions  of  real 
+variable 
+
+Infinitesimal  cal¬ 
+culus 
+
+General  analysis 
+
+Arithmetic  ideals 
+Galois  ideals 
+
+Higher  number 
+theory 
+
+Picard-Vessiot 
+
+theory 
+
+Space  Patterns — 
+Geometry 
+
+Points 
+
+Lines 
+
+Surfaces  g 
+
+Varieties  s 
+
+Higher  .& 
+
+elements  ^ 
+
+Continuity 
+
+Point  space  of  two 
+or  more  dimen¬ 
+sions 
+
+Line  geometry 
+Surface  geometry 
+Absolute  geometry 
+Higher  elements 
+Expansions 
+
+Geometric  invari¬ 
+ants 
+
+Algebraic  invari¬ 
+ants 
+
+Symmetric  and  al¬ 
+ternating  forms 
+
+Modular  systems 
+
+Real  functions  of 
+N  variables 
+Vector  fields 
+Functions  of  lines 
+Partial  derivatives 
+Differential 
+geometry 
+
+Systems  of  differ¬ 
+ential  equations 
+Mathematical 
+physics 
+
+Relativity  Theory 
+
+Design  Pat¬ 
+terns — Tactic 
+
+Arrange¬ 
+
+ments 
+
+Configura-  « 
+tions  | 
+
+Conatella-  5 
+tions  w 
+
+Design 
+
+Combinatory 
+analysis 
+Stereochemistry 
+Theory  of  symbols 
+Poincare's  theory 
+of  differential 
+equations 
+
+Stable  systems 
+Irreducibles 
+
+Functions  of  ar¬ 
+rangements, 
+configurations, 
+constellations, 
+and  structures 
+
+Ideal  elements  of 
+construction 
+Mathematical 
+ohemistry 
+
+\ 
+
+Idea  Patterns 
+— Logistic 
+
+Concepts  g 
+
+Relatives  .o 
+
+CONSISTBNCTft 
+
+Foundations 
+
+Postutational 
+
+systems 
+
+Calculus  of  classes, 
+or  of  relatives 
+
+Equivalent  sys¬ 
+tems 
+
+Logical  invariants 
+
+Classes  functions 
+of  classes 
+Functions  of  rela¬ 
+tives 
+
+Implications 
+
+Ideal  classes  or 
+relatives 
+Clasdficatory 
+schemes 
+
+Mutation  Motridties— 
+Operators 
+
+Substitu¬ 
+
+tions 
+
+Transforma¬ 
+
+tions 
+
+Groups  J 
+
+Mutation 
+
+Theory  of  finite  or 
+infinite  groups 
+Calculus  of  opera¬ 
+tions 
+
+Projective  geome- 
+„  try  . 
+
+Inversion  geometry 
+Differential  and  in¬ 
+tegral  invariants 
+Analysis  situs 
+
+Geometric  trans¬ 
+formations 
+Homomorphuma 
+Transmutations 
+
+Automorphic  func¬ 
+tions 
+
+Functional  equa¬ 
+tions 
+
+Calculus  of  varia¬ 
+tions 
+
+Functional  analysis 
+
+Integral  equations 
+
+Difference  equa¬ 
+tions 
+
+Differential  equa¬ 
+tions 
+
+n 
+
+.JL  B 
+
+If 
+
+sj 
+
+.81 
+
+Negatives 
+Imaginaries 
+Hyper-  « 
+
+numbers  -2 
+>. 
+
+Quality 
+
+linear  algebras 
+Functional  trans¬ 
+formations 
+
+Invariant  equa¬ 
+tions 
+
+Invariants  of  ex¬ 
+pressions 
+
+Functions  of  com¬ 
+plex  and  hyper- 
+complex  vari¬ 
+ables 
+
+General  function 
+theory 
+
+Hyperideals 
+
+Routes 
+
+Displace-  « 

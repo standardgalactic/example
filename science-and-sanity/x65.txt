@@ -1,0 +1,500 @@
+continuous  jumps  into  'continuous’  smooth  entities.  Because  of  the  structure 
+of  our  nervous  system  we  'feel’  'continuity’,  yet  we  can  analyse  it  into  a  smaller 
+or  larger  number  of  definite  jumps,  according  to  our  needs.  The  secret  of  this 
+process  lies  in  assigning  an  increasing  number  of  jumps,  which  as  they  become 
+vanishingly  small,  or  tend  to  zero,  as  we  say,  cease  to  be  felt  as  jumps  and 
+are  felt  as  a  ‘continuous’  motion,  or  change,  or  growth  or  anything  of  this  sort. 
+
+An  excellent  example  is  given  by  the  motion  pictures.  When  we  look  at 
+them  we  see  a  very  good  representation  of  life  with  all  its  continuity  of 
+transitions  between  joy  and  sorrow.  If  we  look  at  an  arrested  film  we  find  a 
+definite  number  of  static  pictures,  each  differing  from  the  next  by  a  measurable 
+difference  or  jump,  and  the  joy  or  sorrow  which  moved  us  so  in  the  play  of  the 
+actors  on  the  moving  film,  becomes  a  static  manifold  of  static  pictures  each 
+differing  measurably  from  its  neighbour  by  a  slightly  more  or  less  accentuated 
+grimace.  If  we  increase  the  number  of  pictures  in  a  unit  of  'time'  by  using  a 
+faster  camera  and  then  release  this  film  at  the  ordinary  speed,  we  get  what  is 
+called  slow  motion  pictures  with  which  we  are  all  familiar.  In  them  we  notice 
+a  much  greater  smoothness  of  movements  which  in  life  are  jerky,  as,  for  instance, 
+the  movements  of  a  running  horse.  They  appear  smooth  and  non-jerky,  the 
+horse  looks  as  if  it  were  swimming.  Indeed  we  do  swim  no  less  than  fishes, 
+except  that  our  medium;  namely,  air,  is  less  dense  than  water,  and  so  our 
+movements  have  to  be  more  energetic  to  overcome  gravitation.  The  above 
+example  is  indeed  the  best  analogy  in  existence  of  the  working  of  our  nervous 
+system  and  of  the  difference  between  orders  of  abstractions.  Let  us  imagine 
+that  some  one  wants  to  study  some  event  as  presented  by  the  moving  picture 
+camera.  What  would  he  do?  He  would  first  see  the  picture,  in  its  moving, 
+dynamic  form,  and  later  he  would  arrest  the  movement  and  devote  himself 
+to  the  contemplation  of  the  static  extensional  manifold,  or  series,  of  the  static 
+pictures  of  the  film.  It  should  be  noticed  that  the  differences  between  the 
+static  pictures  are  finite,  definite  and  measurable. 
+
+The  power  of  analysis  which  we  humans  possess  in  our  higher  order 
+abstractions  is  due  precisely  to  the  fact  that  they  are  static  and  so  we  can  take 
+our  ‘time’  to  investigate,  analyse  ,  .  The  lower  order  abstractions,  such  as 
+our  lookmg  at  the  moving  picture,  are  shifting  and  non-permanent  and  thus 
+evade  any  serious  analysis.  On  the  level  of  looking  at  the  moving  film,  we  get 
+a  general  feeling  of  the  events,  with  a  very  imperfect  memory  of  what  we  have 
+seen,  coloured  to  a  large  extent  by  our  moods  and  other  ‘emotional’  or  organic 
+states.  We  are  on  the  shifting  level  of  lower  order  abstractions,  'feelings’, 
+motions  ,  and  'emotions’.  The  first  lower  centres  do  the  best  they  can  in  a 
+given  case  but  the  value  of  their  results  is  highly  doubtful,  as  they  are  not 
+especially  reliable.  Now  the  higher  order  abstractions  are  produced  by  the 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  579 
+
+higher  centres,  further  removed,  and  not  in  direct  contact  with  the  world  around 
+US.  With  the  finite  velocity  of  nerve  currents  it  takes  ‘time’  for  impulses  to 
+reach  these  centres,  as  the  cortical  pathways  offer  higher  neural  resistances 
+than  the  other  pathways.8  So  there  has  to  be  a  survival  mechanism  in  the 
+production  of  nervous  means  for  arresting  the  stream  of  events  and  producing 
+static  pictures  of  permanent  character,  which  may  allow  us  to  investigate, 
+verify,  analyse  ,  .  It  must  be  noticed  that  because  of  this  higher  neural  resistance 
+of  higher  centres  and  the  static  character  of  the  higher  abstractions,  these 
+abstractions  are  less  distorted  by  affective  moods.  For,  since  the  higher  abstrac¬ 
+tions  persist,  if  we  care  to  remember  them,  and  the  moods  vary,  we  can  con¬ 
+template  the  abstractions  under  different  moods  and  so  come  to  some  average 
+outlook  on  a  given  problem.  It  is  true  that  we  seldom  do  this,  but  we  may  do 
+it,  and  this  is  of  importance  to  us. 
+
+As  one  of  the  aims  of  the  calculus  is  to  study  relative  rates  of  change 
+we  will  consider  a  series  of  successive  values  of  our  variable  which  differ  by 
+little  from  each  other.  If  we  have  y=f{x)  we  can  consider  the  change  in  *  for 
+a  short  interval,  let  us  say,  from  Xq  to  Xi,  so  that  we  assign  to  our  x  two  values, 
+x  =Xq  and  x  =xi.  The  corresponding  values  of  our  function  or  y  will  be  y0  =/(* o) 
+and  yi  ~/(x0.  In  general,  small  changes  in  y  will  be  almost  proportional  to  the 
+corresponding  changes  in  x ,  provided  f(x)  is  ‘continuous  . 
+
+Denoting  the  smalt  increment  of  x  byAx,  so  that  xi -x0  = Ax  or  xi  =  x0+Ax, 
+function  y  receives  the  increment  yi~yo-Ay  or  yi=yo-bAy.  Since  yi=/(xi) 
+
+from  both  sides 
+
+by  Ax  we  have 
+
+(1) 
+
+and  xi==xo+Ax  we  have: 
+
+y0  +A y  =/(x0  +Ax) ;  if  we  subtract 
+
+y0  «/(* o)  we  would  have 
+
+Ay  =/(x0  +  Ax)  -f(x o) ;  dividing  both  sides 
+Ay  /(x0+Ax)-/(x0) 
+
+Ax  Ax 
+
+The  above  ratio  represents  the  ratio  of  the  increment  of  the  function  to  the 
+increment  of  the  variable.  In  the  limit  when  the  increment  in  the  variable 
+becomes  vanishingly  small  or  when  Ax  tends  toward  zero,  and  our  function  is 
+
+continuous,  the  limit  of  this  ratio  gives  us  the  law  of  change  or  growth  of 
+
+our  function. 
+
+The  limit  which  the  ratio  (1)  approaches  when  Ax  approaches  0, 
+
+lim  —  —  um  /(*o+A*)-/(*o)  (2) 
+
+A*-*0  Ax  Ax->0  Ax 
+
+is  called  the  derivative  of  y  with  respect  to  x  and  is  denoted  by  D*y,  which 
+we  read  ‘D*  of  y\  in  symbols, 
+
+lim  —~Dxy  (3) 
+
+Al-*0  A  v 
+
+Let  us  illustrate  this  by  a  simple  numerical  example.  Take  the  equation 
+y=x2  and  assume  that  x  =  100,  whence  y  =**  10,000.  Suppose  the  increment  of  x, 
+namely,  Ax  *  1/10.  Then  x+Ax  =  100.1  and  (x+Ax)2  =  100.1  X  100.1  =  10020.01. 
+The  last  1  is  1  /100  and  only  one  millionth  part  of  the  10,000,  and  so,  we  can 
+
+580  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+neglect  it  and  consider  y  +A y  =  10,020 ;  whence  A y  -  20  and  A y /Ax  -  20 /0. 1  -  200. 
+In  the  general  case,  i(  y=x?  and  instead  of  *  we  take  a  slightly  larger  value, 
+x+Ax,  then  our  function  y  also  becomes  slightly  larger;  thus, 
+y  +Ay  =  (x  +Ax)  2=x2  +2xAx + (A*) 2 
+If  we  subtract  y = x2  from  the  last  expression  we  have 
+
+Ay=2xAx+{AxY,  dividing  by  Ax,  we  have 
+Ay/ Ax  =  2x  +Ax. 
+
+In  the  limit  as  Ax  approaches  zero,  the  value  of  the  above  ratio,  or  the  rate  of 
+change  of  our  function,  would  be  2x,  as  Ax  would  disappear.  If  our  *  =  100,  the 
+above  ratio  would  be  200,  as  determined  above  in  the  case  of  the  numerical 
+example.  Another  way  of  symbolizing  the  derivative  is  D,y~dy/dx,  but  this 
+requires  a  short  explanation. 
+
+In  Chapter  XV  we  have  already  discussed  the  problem  of  the  ‘infinitesimal1 
+and  we  have  seen  that  ‘infinitesimal'  is  a  misnomer  and  that  there  is  no  such 
+thing  at  all.  Yet  this  word  is  very  often  uncritically  used  by  mathematicians 
+and  is  therefore  often  confusing.  By  an  ‘infinitesimal'  mathematicians  mean  a 
+varmble  which  approaches  zero  as  a  limit.  The  condition  that  it  should  be  a 
+variable  is  essential.  It  would  probably  be  better  to  call  an  ‘infinitesimal’  an 
+indefinitely  small  quantity  or  ‘indefinitesimal’,  and  that  is  what  the  reader 
+should  understand  when  he  sees  anywhere  the  word  ‘infinitesimal’  or  ‘infinitely 
+small  quantity’. 
+
+These  indefinitely  small  quantities  are  in  general  neither  equal,  nor  even 
+of  one  order.  Some  by  comparison  are  indefinitely  smaller  than  others,  and 
+hence  are  said  to  be  ‘of  higher  order’.  Usually  several  quantities  are  considered 
+which  approach  zero  simultaneously.  In  such  a  case  one  of  them  is  chosen  as 
+the  principal  indefinitely  small  quantity.  Let  us  recall  that  if  we  take  any 
+number,  for  example,  1,  and  divide  it  by  2  we  have  1  /2.  If  we  divide  1  by  4 
+we  have  1/4  which  is  smaller  than  1/2  ;  if  we  divide  1  by  10  we  have  1  /10  which 
+is  still  smaller.  If  we  carry  this  process  on  indefinitely,  taking  larger  and  larger 
+denominators,  the  results  are  fractions  of  smaller  and  smaller  values.  In  the 
+limit,  as  the  value  of  the  denominator  becomes  indefinitely  large  the  value 
+of  the  fraction  approaches  zero.  This  simple  consideration  will  help  us  in  the 
+classification  of  indefinitely  small  quantities. 
+
+Let  us  take  a  as  the  principal  indefinitely  small  quantity  and  b  another 
+indefinitely  small  quantity.  If  the  ratio  b/a  approaches  zero  with  a  we  say 
+that  b  is  an  indefinitely  small  quantity  of  higher  order  with  respect  to  a.  In 
+other  words,  although  a  approaches  zero  in  the  limit  yet  it  is  infinitely  larger 
+than  b  and  so  the  ratio  b/a  also  approaches  zero. 
+
+If  the  ratio  b/a  approaches  a  limit  k  different  from  zero  as  a  approaches 
+zero,  then  b  is  said  to  be  of  the  ‘same  order'  as  a  and  b/a=k  +  t  where  €  is  in¬ 
+definitely  small  with  respect  to  a.  In  such  a  case  b  =a  (£  +  «)  =ka  +acf  and  ka  is 
+called  the  principal  part  of  b.  The  term  at  is  obviously  of  a  higher  order  than  a. 
+
+We  may  say  in  general  that  if  we  have  a  power  of  a,  for  instance  a\  such 
+that  the  ratio  b/an  approaches  a  limit  different  from  zero,  b  is  called  an 
+'infinitesimal'  (indefinitesimal)  of  order  n  with  respect  to  a. 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  581 
+
+Let  us  give  a  numerical  illustration.  We  know  that  there  are  60  minutes 
+in  one  hour,  24  hours  in  a  day,  or  that  there  are  1440  minutes  in  a  day,  and  by 
+multiplying  1440  by  7,  that  there  are  10,080  minutes  in  a  week.  Our  forefathers 
+called  this  1/10,080  part  of  a  week  a  ‘minute’  because  of  its  minuteness.  It  is 
+obvious  that  a  minute  is  very  small  as  compared  with  a  week.  But  if  we  sub¬ 
+divide  a  minute  into  60  equal  parts  we  have  a  still  smaller  quantity,  a  quantity 
+of  second  order  smallness  and  so  we  called  it  a  second.  Indeed  there  are  3600 
+seconds  in  one  hour,  86,400  seconds  in  a  day  and  604,800  seconds  in  a  week. 
+If  we  decide  that  for  some  purpose  a  minute  is  as  short  a  period  of  ‘time’  as  we 
+need  to  consider,  then  the  second,  1/60  of  a  minute,  is  relatively  so  small  that 
+it  could  be  neglected.  In  a  calculation  where  1  / 100  of  some  unit  is  the  smallest 
+value  which  needs  to  be  considered,  we  may  define  this  1/100  as  of  first  order 
+
+smallness.  Then  1/100  of  1/100,  or  1/10,000,  of  that  unit,  which  is  relatively 
+of  second  order  smallness,  is  entirely  negligible.  The  fractions  whose  smallness 
+we  are  considering  here  are  comparatively  large,  and  we  usually  deal  with 
+much  smaller  quantities,  but  the  smaller  a  quantity  is,  the  more  negligible 
+the  correspondingly  smaller  quantity  of  higher  order  becomes. 
+
+Let  us  consider  a  geometrical  interpretation  of  the  above.  If  we  represent 
+a  quantity  X  by  a  line  segment,  and  a  slightly  greater  quantity,  x+dx ,  by  a 
+slightly  longer  line  segment ;  then  the  quantities  x2  and  (x  *f  dx)2  =x2 +2xdx  -f  (dx)2 
+may  be  represented  by  squares  where  sides  are  the  line  segments  which  represent 
+
+the  quantities  x  and  x+dx  respectively. 
+
+If  we  denote  the  areas  by  A ,  2$,  C,  Df  we  see  that  A-x2  and  that 
+A  +B+C+D  *=x2+2xdx+(dx)2.  If  we  select  our  dx  smaller  and  smaller  the 
+areas  B  =C—xdx  diminishing  in  one  dimension  only,  become  also  smaller  and 
+
+smaller,  but  D  =  {dx)2  is  vanishing  much  more  rapidly  as  it  is  diminishing  m 
+each  of  two  dimensions,  whence  it  is  said  to  be  a  quantity  of  second  order 
+smallness,  which  for  all  purposes  at  hand  may  be  neglected. 
+
+If  we  take  y=/(x)  and  its  derivative 
+
+lim  —  ~Dxy. 
+
+Ax— ^0  A  v 
+
+Then 
+
+and 
+
+^=2?xy+cf  where  t  is  an  indefinitesimal, 
+Ax' 
+
+A y  ~DzyAx  -}-  eAx. 
+
+582  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+In  the  above  expression  Dxy Ax  represents  the  principal  part  and  «A*  appears 
+as  an  indefinites, mal  of  higher  order.  This  principal  part  is  called  the  dif¬ 
+ferential  of  y  and  is  denoted  by  dy.  If  we  choose  f(x)  -*  we  have  dx  =»A*  and 
+
+so,  ay*=Dxydx . 
+
+So  we  see  that  the  differential  of  the  independent  variable  x  is  equal  to 
+the  increment  of  that  variable.  This  statement  is  not  generally  true  about 
+the  dependent  variable,  as  t  does  not  generally  vanish. 
+
+The  derivative  is  also  sometimes  denoted  as/(x)  or  y'  and  this  notation 
+
+is  due  to  Lagrange;  all  three  notations  are  used  and  it  is  well  to  be  acquainted 
+with  them. 
+
+The  denyatiye  of  a  function /(x)  is  in  general  another  function  of  x,  let 
+us  say  /  {x).  If  /  (x)  has  a  derivative,  the  new  function  is  the  derivative  of  the 
+derivative  or  the  second  derivative  olf(x)  and  is  denoted  by  y"  or /"(*).  Similarly 
+the  third  derivative  y"’  or  f'"(x)  is  defined  as  the  derivative  of  the  second 
+derivative  and  so  on.  In  the  other  notations  we  have: 
+
+.  .  dx  \dx  /  dx 2 
+
+Having  introduced  these  few  definitions  it  must  be  emphasized  that  the 
+main  importance  of  the  calculus  is  in  its  central  idea;  namely,  the  study  of  a 
+continuous  function  by  following  its  history  by  indefinitely  small  steps,  as  the 
+function  changes  when  we  give  indefinitely  small  increments  to  the  independent 
+variable.  As  was  emphasized  before,  the  whole  psycho-logics  of  this  process  is 
+intimately  connected  with  the  activities  of  the  nervous  structure  and  also  with 
+the  structure  of  science.  In  this  work  we  are  not  interested  in  calculations, 
+comp  1  cations,  or  analytical  niceties.  Mathematicians  have  taken  excellent  care 
+of  all  that.  We  need  only  to  know  about  the  structure  and  method  which  help 
+to  trans  ate  dynamic  into  static,  and  vice  versa;  to  translate  'continuity'  on 
+one  level,  or  order  of  abstraction,  into  ‘steps’  on  another. 
+
+To  illustrate  what  has  been  said  and  to  give  the  reader  the/eel  of  the  process 
+let  us  take  for  instance  a  simple  equation  y  =  2x3-x+5  where  y  represents  the 
+function  of  the  variable  *  expressed  by  a  group  of  symbols  to  the  right  of  the 
+sign  of  equality. 
+
+To  .determme  the  relative  rate  of  growth  of  this  function,  that  is,  to 
+lfferentiate  it,  we  replace  x  by  a  slightly  larger  value;  namely,  x+Ax,  and  see 
+what  happens  to  the  expression.  2x*  becomes  2(x  +Ax)3  =  2x3  +6x*Ax  +6x(Ax)2 
++2(Ax)3;  —x  becomes  -x-Ax  and  the  constant  5  remains  unchanged.  In 
+symbols,  y+Ay  =  2**+6*?Ax+6x(Ax)*+2(.Ax)*-x-Ax+S,  where  Ay  repre¬ 
+sents  the  increment  of  the  function  and  Ax  represents  the  increment  of  the 
+independent  variable. 
+
+Subtracting  the  original  expression  y  =  2x3-x+S  we  get  the  amount  by 
+which  the  function  has  been  increased,  namely: 
+
+Ay  =  6x*Ax+6x(Ax)*+2(Ax)a -Ax. 
+
+To  determine  the  relation,  or  ratio,  of  Ay,  the  increment  of  the  function,  to  Ax 
+Oie  increment  of  the  independent  variable  which  produced  Ay,  we  divide 
+Ay  by  Axt  and  obtain  the  equation 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  583 
+
+^-6*>+6*Ax+2(A*)l-l. 
+
+Ax 
+
+Then  as  Ax  approaches  0  the  terms  in  the  right-hand  side  of  the  equation 
+which  contain  Ax  as  a  factor  also  approach  0  and  replacing  the  left-hand  side 
+
+by  -  we  obtain  the  equation  -p  -  6**  - 1  which  means,  that  as  Ax  approaches  0, 
+
+J  dx 
+
+the  ratio  of  the  increment  of  the  function  to  the  increment  of  the  independent 
+variable  approaches  6x2-l,  true  for  any  value  we  may  arbitrarily  assign  to  *. 
+
+It  should  be  noticed  that  in  our  function  the  left-hand  side  represents 
+the  ‘whole*  as  composed  of  interrelated  elements  which  are  represented  by  the 
+right-hand  side.  When  instead  of  x  we  selected  a  slightly  larger  value;  namely, 
+%+Ax,  we  performed  upon  this  altered  value  all  the  operations  indicated  by 
+our  expression.  We  thus  have  in  mathematics,  because  of  the  self-imposed 
+limitations,  the  first  and  only  example  of  complete  analysis,  impossible  m 
+physical  problems  as  in  these  there  are  always  characteristics  left  out. 
+
+An  important  structural  and  methodological  issue  should  also  be  empha¬ 
+sized.  In  the  calculus  we  introduce  a  ‘small  increment'  of  the  variable;  we 
+performed  upon  it  certain  indicated  operations,  and  in  the  final  results  this 
+arbitrary  increment  disappeared  leaving  important  information  as  to  the 
+rate  of  change  of  our  function.  This  device  is  structurally  extremely  useful 
+and  can  be  generalized  and  applied  to  language  with  similar  results. 
+
+It  has  been  noticed  already  that  the  calculus  can  be  developed  without  any 
+reference  to  graphs,  co-ordinates  or  any  appeal  to  geometrical  notions;  but  as 
+geometry  is  an  all-important  link  between  pure  analysis  and  the  outside  world 
+of  physics,  we  find  in  geometry  also  the  psycho-logical  link  between  the  higher 
+and  lower  orders  of  abstraction.  But  the  appeal  to  geometrical  notions  helps 
+intuition  and  so  is  extremely  useful.  For  this  reason  we  will  explain  briefly  a 
+system  of  co-ordinates  and  show  what  geometrical  significance  the  derivative  has 
+
+We  take  in  a  plane  two  straight  lines  X'X  and  Y'  Y,  intersecting  at  0  at 
+right  angles,  so  that  X'OX  is  horizontal  extending  to  the  left  and  right  of  0, 
+and  YOY ',  is  vertical,  extending  above 
+
+and  below  0,  as  a  frame  of  reference 
+for  the  locations  of  point,  lines,  and 
+other  geometrical  figures  in  the  plane. 
+We  call  this  a  two-dimensional  rec¬ 
+tangular  system  of  co-ordinates.  This 
+method  may  be  extended  to  three  di¬ 
+mensions,  and  our  points,  lines,  and 
+other  geometrical  figures  referred  to  a 
+three-dimensional  rectangular  system  of 
+
+co-ordinates  consisting  of  three  mutually 
+
+Fig.  2 
+
+perpendicular  and  intersecting  planes. 
+
+As  we  see  in  Fig.  2,  we  have  four  quadrants  I,  II,  HI,  IV,  formed  by  the 
+intersecting  axes  X'X  and  Y'Y.  The  co-ordinates  of  a  point  P,  by  which  we 
+
+584  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+mean  the  distances  from  the  axes  determine  the  position  of  the  point  uniquely. 
+We  call  X'X  and  Y'Y  the  axis  of  X  and  the  axis  of  Y  respectively,  and  0  the 
+origin.  If  we  select  a  point  Pi  in  the  plane  of  X'X  and  Y*  Y  and  draw  it  line 
+P\M  perpendicular  to  X'X  then  OM  and  MP\  are  called  the  co-ordinates 
+of  Pi;  OM  is  called  the  abscissa  and  is  denoted  by  x=b;  and  MPi  is  called  the 
+ordinate  and  denoted  by  y  =a.  We  speak  of  Pi  as  the  point  (b,a),  or,  in  general, 
+of  any  point  as  the  point  (x,y). 
+
+Let  us  draw  ON  =  0M =b  and  draw  lines  PXP4  and  P2P3  through  M  and  N 
+respectively  perpendicular  to  X'X,  making  MP4  =*NP2  =NPZ  =MPi  We 
+then  have  four  points  Pi,  P2,  Pj,  P4»  in  each  one  of  the  four  quadrants  and 
+all  of  them  by  construction  would  have  equal  numerical  values  for  their 
+abscissas  and  ordinates.  To  be  able  to  discriminate  between  the  four  quadrants, 
+and  so  avoid  ambiguity,  we  make  the  convention  that  all  values  of  y  above 
+X'X  are  to  be  positive  and  below  X'X  negative;  and  all  values  of  x  to  the  right 
+of  Y'Y  positive,  to  the  left  negative.  Thus  we  see  that  by  such  conventions 
+the  point  Pi  would  have  both  b  and  a  positive;  P2  would  have  b  negative  and 
+a  positive;  P3  both  b  and  a  negative,  and  finally  P4  would  have  b  positive  and 
+a  negative,  or  in  symbols  Pi(b,a);  P2(~b,a);  £*(-&,  -a);  and  finally  P4(b,  -a). 
+
+It  is  obvious  that  for  any  point  on  the  X  axis  (for  instance  M)  the  ordinate 
+y=0.  If  our  point  is  on  the  Y  axis  the  abscissa  x-0  and  the  co-ordinates  of 
+the  origin  0  are  both  zero  (0,0). 
+
+From  the  above  definitions  we  see  at  once  how  to  plot,  or  locate,  a  point. 
+To  plot  the  point  (—4,3),  since  the  abscissa  x  is  negative  and  the  ordinate  y  is 
+positive  we  locate  N  on  X'X,  4  units  to  the  left  of  O.  At  N  we  erect  a  perpen¬ 
+dicular  upon  which  we  locate  the  point  (-4,3),  3  units  above  N.  The  symbol 
+( -4,3)  represents  a  particular  case  of  the  general  symbol  (x,y)  and  is  accordingly 
+plotted  as  a  particular  point  as  just  shown.  If  instead  of  the  pair  or  relations 
+expressed  by  two  equations  x  —  —4,  y  =3,  we  have  a  single  relation  expressed 
+by  one  equation,  for  example,  y  =x~2,  we  have  y  expressed  as  a  function  of  x, 
+whence  by  assigning  to  x  different  values,  corresponding  values  of  y  are 
+determined,  and  a  set  of  points  may  be  plotted  where  abscissas  and  ordinates 
+are  corresponding  values  of  x  and  y  respectively.  Thus,  when  x=X),  y=  -2, 
+when  *  =  1,  y=  -1,  when  x  =  2,  y  =0,  when  x  =  3,  y  =  l,  when  x=4,  y  =  2  ,  . 
+
+We  may  now  plot  the  points  A(0, -2);  B(l, -1);  C(2, 0);  £>(3,1);  £(4,2); 
+or  as  many  more  points  as  we  may  choose  by  giving  x  additional  different 
+
+values. 
+
+If  we  give  to  x  successive  values  with  smaller 
+differences  our  points  would  be  closer  together, 
+for  instance  for 
+
+*=0  y  =  —2  (A) 
+
+*=0.5  y=  —1.5  (A’) 
+
+*  =  1  y=  — 1  (5) 
+
+*  =  1.5  y=  —0.5  ( J3 ') 
+
+*  =  2  y  =  0  (C) 
+
+Y 
+
+SEMANTICS  OF  THE  DIFFERENTIAL  CALCULUS  585 
+
+As  we  plot  larger  and  larger  numbers  of  points  closer  and  closer  together,  in 
+the  limit,  if  we  take  indefinitely  many  such  points,  we  approach  a  smooth  line. 
+It  can  be  proved  that  an  equation  of  the  type  given  in  this  example;  namely, 
+where  both  variables  are  of  the  first  order,  always  represents  a  straight  line. 
+Such  equations  are  called  therefore  Unear  equations,  as  they  represent  straight 
+lines. 
+
+The  problem  of  linearity  and  non-linearity  is  of  extreme  importance,  and 
+we  will  return  to  it  later  on.  Here  we  are  interested  only  in  the  definition  and 
+meaning  of  linearity  of  equations. 
+
+x 2 
+
+Let  us  consider  next  a  simple  equation  of  second  degree,  y  - y.  In  assign¬ 
+ing  arbitrary  values  to  we  note  that  x2  is  always  positive  (by  the  rule  of 
+signs)  whether  x  is  positive  or  negative.  Hence,  we  may  tabulate  values  of  x 
+*vith  the  double  sign  ±  meaning  either  +  or  —  . 
+
+x=0 
+
+y  =0 
+
+(0) 
+
+x-=fcl 
+
+i 
+
+(A) 
+
+X  —  zb2 
+
+y- 2 
+
+(B) 
+
+x  =  ±3 
+
+■** 
+
+(C) 
+
+x  =  ±4 
+
+y=8 
+
+(D) 
+
+We  see  for  each  value  of  y  we  have  two  values  for  x  which  differ  only  in  sign 
+This  means  that  we  have  points  on  two  sides  of  the  V  axis  with  numerically 
+
+equal  abscissas  and,  since  for  #  =0,  y  -0, 
+the  beginning  of  our  curve  is  at  the  origin 
+of  co-ordinates  and  the  curve  is  symmet¬ 
+rical  with  respect  to  the  Y  axis. 
+
+If  we  connect  the  points  D\  C',  B\ 
+A',  0t  A,  B ,  C,  Dt  with  straight  lines  we 
+have  a  broken  line.  But  if  we  choose  smaller 
+and  smaller  differences  between  the  suc¬ 
+cessive  values  of  x,  the  broken  line  be¬ 
+comes  smoother  and  smoother,  and,  in 
+the  limit,  as  we  take  increasingly  smaller 
+steps,  or,  in  other  words,  plot  indefinitely 
+larger  numbers  of  points  in  one  interval,  we 
+approach  a  smooth,  or  continuous  curve. 
+
+variable  x  vary  from  point  to 
+It  is  necessary  to  be- 
+the  two  different  types 
+
+It  must  be  noticed  that  in  equations 
+of  higher  orders  the  ratio  of  changes  in 
+the  function  y  to  corresponding  changes  in  the 
+point,  and  so  we  have  a  curve  instead  of  a  straight  line, 
+come  quite  clear  on  this  point  so  we  may  better  compare 
+of  equations  as  to  the  law  of  their  growth. 
+
+586  VIII.  ON  THE  STRUCTURE  OF  MATHEMATICS 
+
+Let  us  write  down  in  two  columns  the  successive  values  for  the  two  types 
+of  equations.  Let  us  take  the  equation  y-~  with  the  graph  shown  in  the 
+
+preceding  diagram  (Fig.  4)  and  the  equation  y=2x  as  shown  in  Fig.  5. 
+
+V 
+
+Fig.  5 
+
+The  equation  y  =  2x  involves  the  variables  in  the  first  degree  and  we  see  that 
+the  ratio  of  changes  in  the  ordinates  to  corresponding  changes  in  the  abscissas 
+remains  constant  (proportional).  The  triangles  in  Fig.  5,  are  either  equal  or 
+similar,  which  necessitates  the  equality  of  angles  and  so  the  line  OABCD  is 
+of  necessity  a  straight  line.  In  this  case  as  *=0  gave  us  y- 0  the  line  passes 
+through  the  origin  of  co-ordinates. 
+
+The  picture  is  entirely  different  in  the  case  of  the  higher  degree  equation, 
+

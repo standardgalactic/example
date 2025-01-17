@@ -1,0 +1,500 @@
+at  present. 
+
+The  notion  of  a  variable  originated  in  mathematics,  and,  in  the  be¬ 
+ginning,  dealt  only  with  numbers.  Now  numbers,  when  given,  represent, 
+structurally,  a  manifold  or  aggregate  which  is  not  supposed  to  change. 
+So,  when  we  consider  a  variable,  we  should  ‘think’  not  of  a  changing 
+entity,  but  of  any  element  we  choose  out  of  our  perfectly  constant  col¬ 
+lection  (when  given).  Let  me  repeat  that  the  notion  of  change  enters 
+in,  only  in  connection  with  the  volition  and  the  s.r  of  the  one  who 
+operates  these  unchanging  entities.  The  notion  of  a  variable  is  taken 
+always  in  an  extensional  oo -valued  sense,  to  be  explained  later,  as  it 
+always  implies  structurally  a  collection  of  many  individuals,  out  of  which 
+collection  a  selection  of  one  can  be  made.  The  notion  of  a  variable  is 
+general  and,  in  principle,  oo- valued;  a  constant  is  a  special  one- valued 
+case  of  a  variable  in  which  the  collection  contains  a  single  element, 
+making  alternative  selection  impossible. 
+
+Variables  are  usually  symbolized  by  the  end  letters  of  the  alphabet, 
+x,  y,  z , .  The  supply  is  increased  as  desired  by  the  use  of  indices ;  for 
+instance,  x\  /,  <er\ ;  xfft  z". ;  or  xlf  yu  zt . ;  x2,  y2,  z2 , .  This  gives  a 
+flexible  means  of  denoting  numerous  individuals,  and  so  manufacturing 
+them  indefinitely,  as  the  extensional  method  of  mathematics  requires. 
+Another  method,  introduced  not  long  ago,  has  proven  useful  in  dealing 
+with  a  definite  selection  of  variables  in  a  simplified  manner.  One  letter 
+or  one  equation  can  be  used  instead  of  many.  The  variable  sign  x  is 
+modified  by  another  letter  which  may  have  different  values,  in  a  given 
+range ;  for  instance,  Xi ,  Xk , .  The  modifying  letter  i  or  k  can  take  the 
+serial  values ;  let  us  say  i  or  k  —  1,  2,  3 , .  Since  the  one  symbol  stands 
+for  the  array  of  many  different  variables  xXi  x2,  xs . ,  statements  can  be 
+greatly  simplified,  and  yet  preserve  structurally  the  extensional  indi¬ 
+viduality. 
+
+It  is  important  that  the  non-mathematical  reader  should  become 
+acquainted  with  the  above  methods  and  notations,  as  they  involve  a  pro¬ 
+found  and  far-reaching  structural  and  psycho-logical  attitude,  useful  to 
+everybody,  involving  most  fundamental  s.r. 
+
+The  extensional  method  means  dealing  structurally  with  many 
+definite  individuals ;  as,  for  instance,  with  1,  2,  3 . ,  a  series  in  which  each 
+individual  has  a  special  and  unique  name  or  symbol.  This  extensional 
+
+136  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+method  is  structurally  the  only  one  by  which  we  may  expect  to  acquire 
+A  oo -valued  s.r.  In  a  strict  sense,  the  problems  in  life  and  the  sciences 
+do  not  differ  structurally  from  this  mathematical  problem.  In  life  and 
+science,  one  deals  with  many,  actual,  unique  individuals,  and  all  speak¬ 
+ing  is  using  abstractions  of  a  very  high  order  (abstractions  from 
+abstraction  from  abstraction,.).  So,  whenever  we  speak,  the  individual 
+is  never  completely  covered,  and  some  characteristics  are  left  out. 
+
+A  rough  definition  of  a  function  is  simple :  y  is  said  to  be  a  func¬ 
+tion  of  x,  if,  when  x  is  given,  y  is  determined.  Let  us  start  with  a  simple 
+mathematical  illustration ;  y  —  x  +  3.  If  we  select  the  value  1  for  x  our 
+y**  1  +  3  —  4.  If  we  select  x  —  2,  then  y  =  2  +  3  —  5,.  Let  us  take 
+a  more  complicated  example ;  for  instance :  y~=x*  —  x-\- 2.  We  see 
+that  for  x=*  1,  y—  1  —  1  +  2  —  2;for^-=2,y««4— 2  +  2  —  4;  for 
+x  =  3,  y  =“*  9 — 3  +  2  ■=*=  8 , . 
+
+In  general,  y  is  determined  when  we  fulfill  all  the  indicated  opera¬ 
+tions  upon  the  variable  x,  and  so  get  the  final  results  of  these  operations. 
+In  symbols,  y^f(x)t  which  is  read,  y  equals  function  of  x,  or  y  equals 
+f  of  x. 
+
+In  our  example,  we  may  call  x  the  independent  variable,  meaning 
+that  it  is  the  one  to  which  we  may  assign  any  value  at  our  pleasure,  if 
+not  limited  by  the  conditions  of  our  problem,  and  y  would  then  be  the 
+dependent  variable,  which  means  that  its  value  is  no  longer  dependent 
+on  our  pleasure,  but  is  determined  by  the  selection  of  the  value  of  x. 
+The  terms  dependent  and  independent  variables  are  not  absolute,  for 
+the  dependence  is  mutual,  and  we  could  select  either  variable  as  the 
+independent  one,  according  to  our  wishes. 
+
+The  notion  of  a  ‘function'  has  been  generalized  by  Bertrand  Rus¬ 
+sell  to  the  very  important  notion  of  a  ‘propositional  function'.1  For  my 
+purpose,  a  rough  definition  will  be  sufficient.  By  a  propositional  func¬ 
+tion,  I  mean  an  oo -valued  statement,  containing  one  or  more  variables, 
+such  that  when  single  values  are  assigned  to  these  variables  the  expres¬ 
+sion  becomes,  in  principle,  a  one-valued  proposition.  The  oo-valued 
+character  of  propositional  functions  seems  essential,  because  we  may 
+have  a  one-valued  descriptive  function  with  variables,  or  a  one-valued 
+expression  formulating  a  semantic  relational  law  expressed  in  variable 
+terms . ,  yet  these  would  be  propositions.  Thus,  the  oo -valued  statement, 
+x  is  black',  would  exemplify  a  propositional  function ;  but  the  one-valued 
+relation  ‘if  x  is  more  than  y,  and  y  is  more  than  z,  then  x  is  more  than 
+z  exemplifies  a  proposition.  This  extended  m,o  notion  of  a  propositional 
+function  becomes  of  crucial  importance  in  a  ^-system,  because  most  of 
+our  speaking  is  conducted  in  oo-valued  languages  to  which  we  mostly 
+
+ON  FUNCTION 
+
+and  delusionally  ascribe  single  values,  entirely  preventing  proper 
+evaluation. 
+
+An  important  characteristic  of  a  propositional  function,  for  instance, 
+
+- x  is  black',  is  that  such  a  statement  is  neither  true  nor  false,  but  am¬ 
+biguous.  It  is  useless  to  discuss  the  truth  or  falsehood  of  propositional 
+functions,  since  the  terms  true  or  false  cannot  be  applied  to  them.  But 
+if  a  definite,  single  value  is  assigned  to  the  variable  xt  then  the  proposi¬ 
+tional  function  becomes  a  proposition  which  may  be  true  or  false.  ^  For 
+instance,  if  we  assign  to  x  the  value  ‘coal’,  and  say  ‘coal  is  black ,  the 
+oo-valued  propositional  function  has  become  a  one-valued  true  proposi¬ 
+tion.  If  we  should  assign  to  x  the  value  ‘milk',  and  say  milk  is  black , 
+this  also  would  make  a  proposition,  but,  in  this  case,  false.  If  we  should 
+assign  to  x  the  value  ‘blah-blah',  and  say  ‘blah-blah  is  black ,  such  a 
+statement  may  be  considered  as  meaningless,  since  it  contains  sounds 
+which  have  no  meaning ;  or  we  may  say,  ‘the  statement  blah-blah  is  not 
+black  but  meaningless',  and,  therefore,  the  proposition  ‘blah-blah  is 
+
+black1,  is  not  meaningless  but  false. 
+
+We  should  notice— a  fact  disregarded  in  the  Principia  Mathematica 
+—that  there  is  no  hard  and  fast  rule  by  which  we  can  distinguish 
+between  meaningless  and  false  statements  in  general,  but  that  such  dis¬ 
+crimination  depends  on  many  factors  in  each  specific  case.  A  proposi¬ 
+tional  function,  *x  is  black’,  cannot  be  its  own  argument :  for  instance,  if 
+we  substitute  the  whole  propositional  function,  *x  is  black’,  for  the  vari¬ 
+able  x  in  the  original  propositional  function,  and  then  consider  the 
+expression,  *x  is  black,  is  black’,  which  Whitehead  and  Russell  classify  as 
+meaningless r  this  expression  is  not  necessarily  meaningless,  but  may  be 
+considered  false .  For,  the  statement,  is  black’,  is  defined  as  a  proposi¬ 
+tional  function ,  and,  therefore,  the  statement,  *x  is  black,  is  black’,  may 
+be  considered  false . 
+
+The  problems  of  ‘meaning’  and  ‘meaningless’  are  of  great  semantic 
+importance  in  daily  life,  but,  as  yet,  little  has  been  done,  and  little  re¬ 
+search  made,  to  establish  or  discover  valid  criteria.  To  prove  a  given 
+statement  false  is  often  laborious,  and  sometimes  impossible  to  do  so, 
+because  of  the  undeveloped  state  of  knowledge  in  that  field.  But  with 
+meaningless  verbal  forms,  when  their  meaninglessness  is  exposed  in  a 
+given  case,  the  non-sense  is  exploded  for  good. 
+
+From  this  point  of  view,  it  is  desirable  to  investigate  more  fully  the 
+mechanism  of  our  symbolism,  so  as  to  be  able  to  distinguish  between 
+statements  which  are  false  and  verbal  forms  which  have  no  meanings. 
+The  reader  should  recall  what  was  said  about  the  term  ‘unicorn’,  used  as 
+a  symbol  in  heraldry  and,  eventually,  in  ‘psychology’,  since  it  stands  for 
+
+138  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+a  human  fancy ,  but,  in  zoology,  it  becomes  a  noise  and  not  a  symbol, 
+since  it  does  not  stand  for  any  actual  animal  whatsoever. 
+
+A  very  curious  semantic  characteristic  is  shared  in  common  by  a 
+propositional  function  and  a  statement  containing  meaningless  noises; 
+namely,  that  neither  of  them  can  be  true  or  false.  In  the  old  A  way 
+all  sounds  man  made,  which  could  be  written  down  and  looked  like 
+words,  were  considered  words ;  and  so  every  ‘question*  was  expected  to 
+have  an  answer.  When  spell-marks  (noises  which  can  be  spelled)  were 
+put  together  in  a  specified  way,  each  combination  was  supposed  to  say 
+something,  and  this  statement  was  supposed  to  be  true  or  false.  We  see 
+clearly  that  this  view  is  not  correct,  that,  in  addition  to  words,  we  make 
+noises  (spell-marks)  which  may  have  the  appearance  of  being  words, 
+but  should  not  be  considered  as  words,  as  they  say  nothing  in  a  given 
+context.  Propositional  functions,  also,  cannot  be  classified  under  the 
+simple  two  opposites  of  true  and  false. 
+
+The  above  facts  have  immense  semantic  importance,  as  they  are 
+directly  connected  with  the  possibility  of  human  agreement  and  adjust¬ 
+ment.  For  upon  statements  which  are  neither  true  nor  false  we  can 
+always  disagree,  if  we  insist  in  applying  criteria  which  have  no  applica¬ 
+tion  in  such  cases. 
+
+In  human  life  the  semantic  problems  of  ‘meaninglessness*  are  fun¬ 
+damental  for  sanity,  because  the  evaluation  of  noises,  which  do  not  con¬ 
+stitute  symbols  in  a  given  context  as  symbols  in  that  context,  must,  of 
+necessity,  involve  delusions  or  other  morbid  manifestations. 
+
+The  solution  of  this  problem  is  simple.  Any  noises  or  signs,  when 
+used  semantically  as  symbols,  always  represent  some  symbolism,  but  we 
+must  find  out  to  what  field  the  given  symbolism  applies.  We  find  only 
+three  possible  fields.  If  we  apply  a  symbol  belonging  to  one  field  to 
+another  field,  it  has  very  often  no  meaning  in  this  latter.  In  the  follow¬ 
+ing  considerations,  the  theory  of  errors  is  disregarded. 
+
+A  symbol  may  stand  for:  (1)  Events  outside  our  skin,  or  inside 
+our  skin  in  the  fields  belonging  to  physics,  chemistry,  physiology, .  (2) 
+Psycho-logical  events  inside  our  skin,  or,  in  other  words,  for  s.r  which 
+may  be  considered  sane*,  covering  a  field  belonging  to  psycho-logics. 
+(3)  Semantic  disturbances  covering  a  pathological  field  belonging  to 
+psychiatry. 
+
+As  the  above  divisions,  together  with  their  interconnections,  cover 
+the  field  of  human  symbolism,  which,  in  1933,  have  become,  or  are  rap¬ 
+idly  becoming,  experimental  sciences,  it  appears  obvious  that  older  ‘meta¬ 
+physics’  of  every  description  become  illegitimate,  affording  only  a  very 
+fertile  field  for  study  in  psychiatry. 
+
+ON  FUNCTION 
+
+Because  of  structural  and  the  above  symbolic  considerations  based 
+on  A  negative,  non-identity  premises,  these  conclusions  appear  as  final; 
+and,  perhaps,  for  the  first  time  bring  to  a  focus  the  age-long  problem 
+of  the  subject-matter,  character,  value,  and,  in  general,  the  status  of  the 
+older  ‘metaphysics*  in  human  economy.  From  the  non-el,  structural,  and 
+semantic  point  of  view,  the  problems  with  which  the  older  ‘metaphysics* 
+and  ‘philosophy*  dealt,  should  be  divided  into  two  quite  definite  groups. 
+One  would  include  ‘epistemology*,  or  the  theory  of  knowledge,  which 
+would  ultimately  merge  with  scientific  and  non-el  psycho-logics,  based 
+on  general  semantics,  structure,  relations,  multi-dimensional  order,  and 
+the  quantum  mechanics  of  a  given  date;  and  the  rest  would  represent 
+semantic  disturbances,  to  be  studied  by  a  generalized  up-to-date 
+psychiatry. 
+
+Obviously,  considerations  of  structure,  symbolism,  sanity . ,  involve 
+the  solutions  of  such  weighty  problems  as  those  of  ‘fact*,  ‘reality*,  ‘true*, 
+‘false*. ,  which  are  completely  solved  only  by  the  consciousness  of  ab¬ 
+stracting,  the  multiordinality  of  terms . , — in  general,  a  ^-system. 
+
+Let  me  repeat  the  rough  definition  of  a  propositional  function — 
+as  an  oo-valued  statement  containing  variables  and  characterized  by  the 
+fact  that  it  is  ambiguous,  neither  true  nor  false. 
+
+How  about  the  terms  we  deal  with  in  life?  Are  they  all  used  as 
+one-valued  terms  for  constants  of  some  sort,  or  do  we  have  terms  which 
+are  inherently  oo-valued  or  variable?  How  about  terms  like  ‘mankind*, 
+‘science*,  ‘mathematics*,  ‘man*,  ‘education*,  ‘ethics*,  ‘politics*,  ‘religion*, 
+‘sanity*,  ‘insanity^,  ‘iron*,  ‘wood*,  ‘apple*,  ‘object*,  and  a  host  of  other 
+terms  ?  Are  they  labels  for  one-valued  constants  or  labels  for  oo-valued 
+stages  of  processes.  Fortunately,  here  we  have  no  doubt. 
+
+We  see  that  a  large  majority  of  the  terms  we  use  are  names  for 
+oo-valued  stages  of  processes  with  a  changing  content.  When  such  terms 
+are  used,  they  generally  carry  different  or  many  contents.  The  terms 
+represent  oo-valued  variables,  and  so  the  statements  represent  oo-valued 
+propositional  functions,  not  one-valued  propositions,  and,  therefore,  in 
+principle,  are  neither  true  nor  false,  but  ambiguous. 
+
+Obviously,  before  such  propositional  functions  can  become  proposi¬ 
+tions,  and  be  true  or  false,  single  values  must  be  assigned  to  the  vari¬ 
+ables  by  some  method.  Here  we  must  select,  at  least,  the  use  of 
+co-ordinates.  In  the  above  cases,  the  ‘time*  co-ordinate  is  sufficient. 
+Obviously,  ‘science  1933*  is  quite  different  from  ‘science  1800*  or  ‘science 
+300  b.c/. 
+
+The  objection  may  be  made  that  it  would  be  difficult  to  establish 
+means  by  which  the  use  of  co-ordinates  could  be  made  workable.  It 
+
+140  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+seems  that  this  might  involve  us  in  complex  difficulties.  But,  no  matter 
+how  simple  or  how  complex  the  means  we  devise,  the  details  are  vmmor 
+tend,  and,  therefore,  we  can  accept  the  roughest  and  simplest;  let  us 
+say,  the  year,  and  usually  no  spatial  co-ordinates.  The  invaluable  seman¬ 
+tic  effect  of  such  an  innovation  is  structurd,  one-,  versus  oo-valued, 
+psycho-logicd  and  methodological,  and  affects  deeply  our  s.r. 
+
+From  time  immemorial,  some  men  were  supposed  to  deal  in  one¬ 
+valued  ‘eternal  verities*.  We  called  such  men  ‘philosophers*  or  ‘meta¬ 
+physicians*.  But  they  seldom  realized  that  all  their  ‘eternal  verities’ 
+consisted  only  of  words,  and  words  which,  for  the  most  part,  belonged 
+to  a  primitive  language,  reflecting  in  its  structure  the  assumed  structure 
+of  the  world  of  remote  antiquity.  Besides,  they  did  not  realize  that 
+these  ‘eternal  verities*  last  only  so  long  as  the  human  nervous  system  is 
+not  altered.  Under  the  influence  of  these  ‘philosophers’,  two-valued 
+‘logic’,  and  confusion  of  orders  of  abstractions,  nearly  all  of  us  con¬ 
+tracted  a  firmly  rooted  predilection  for  ‘general’  statements— ‘universals*, 
+as  they  were  called — which,  in  most  cases,  inherently  involved  the  seman¬ 
+tic  one-valued  conviction  of  validity  for  all  ‘time*  to  come. 
+
+If  we  use  our  statements  with  a  date,  let  us  say  ‘science  1933*,  such 
+statements  have  a  profoundly  modified  structural  and  psycho-logical 
+character,  different  from  the  old  general  legislative  semantic  mood.  A 
+statement  concerning  ‘science  1933’,  whether  correct  or  not,  has  no  ele¬ 
+ment  of  semantic  conviction  concerning  1934. 
+
+We  see,  further,  that  a  statement  about  ‘science  1933*  might  be 
+quite  a  definite  statement,  and  that  if  the  person  is  properly  informed, 
+it  probably  would  be  true.  Here  we  come  in  contact  with  the  structure 
+of  one  of  those  human  semantic  impasses  which  we  have  pointed  out. 
+We  humans,  through  old  habits,  and  because  of  the  inherent  structure 
+of  human  knowledge,  have  a  tendency  to  make  static,  definite,  and,  in 
+a  way,  absolutistic  one-valued  statements.  But  when  we  fight  absolutism, 
+we  quite  often  establish,  instead,  some  other  dogma  equally  silly  and 
+harmful.  For  instance,  an  active  atheist  is  psycho-logically  as  unsound 
+as  a  rabid  theist. 
+
+A  similar  remark  applies  to  practically  all  these  opposites  we  are 
+constantly  establishing  or  fighting  for  or  against.  The  present  structure 
+of  human  knowledge  is  such,  as  will  be  shown  later,  that  we  tend  to  make 
+definite  statements,  static  and  one-valued  in  character,  which,  when  we 
+take  into  account  the  present  pre-,  and  A  one-,  two-,  three- valued  affec¬ 
+tive  components,  inevitably  become  absolutistic  and  dogmatic  and  ex¬ 
+tremely  harmful. 
+
+ON  FUNCTION 
+
+It  is  a  genuine  and  fundamental  semantic  impasse.  These  static 
+statements  are  very  harmful,  and  yet  they  cannot  be  abolished,  for  the 
+present.  There  are  even  weighty  reasons  why,  without  the  formulation 
+and  application  of  oo-valued  semantics,  it  is  not  possible  (1933)  to  abol¬ 
+ish  them.  What  can  be  done  under  such  structural  circumstances  ?  Give 
+up  hope,  or  endeavour  to  invent  methods  which  cover  the  discrepancy 
+in  a  satisfactory  (1933)  way?  The  analysis  of  the  psycho-logics  of  the 
+mathematical  propositional  function  and  A  semantics  gives  us  a  most 
+satisfactory  structural  solution,  necessitating,  among  others,  a  four¬ 
+dimensional  theory  of  propositions. 
+
+We  see  (1933)  that  we  can  make  definite  and  static  statements, 
+and  yet  make  them  semantically  harmless.  Here  we  have  an  example  of 
+abolishing  one  of  the  old  A  tacitly-assumed  ‘infinities’.  The  old  ‘general’ 
+statements  were  supposed  to  be  true  for  ‘all  time’ ;  in  quantitative  lan¬ 
+guage  it  would  mean  for  ‘infinite  numbers  of  years’.  When  we  use  the 
+date,  we  reject  the  fanciful  tacit  A  ‘infinity’  of  years  of  validity,  and 
+limit  the  validity  of  our  statement  by  the  date  we  affix  to  it.  Any  reader 
+who  becomes  accustomed  to  the  use  of  this  structural  device  will  see 
+what  a  tremendous  semantic  difference  it  makes  psycho-logically. 
+
+But  the  above  does  not  exhaust  the  question  structurally.  We  have 
+seen  that  when  we  speak  about  oo-valued  processes,  and  stages  of 
+processes,  we  use  variables  in  our  statements,  and  so  our  statements  are 
+not  propositions  but  propositional  functions  which  are  not  true  or  false, 
+but  are  ambiguous.  But,  by  assigning  single  values  to  the  variables,  we 
+make  propositions,  which  might  be  true  or  false;  and  so  investigation 
+and  agreement  become  possible,  as  we  then  have  something  definite  to 
+talk  about. 
+
+A  fundamental  structural  issue  arises  in  this  connection;  namely, 
+that  in  doing  this  (assigning  single  values  to  the  variables),  our  attitude 
+has  automatically  changed  to  an  extensional  one.  By  using  our  state¬ 
+ments  with  a  date,  we  deal  with  definite  issues,  on  record,  which  we  can 
+study,  analyse,  evaluate . ,  and  so  we  make  our  statements  of  an  exten- 
+sional  character,  with  all  cards  on  the  table,  so  to  say,  at  a  given  date. 
+Under  such  extensional  and  limited  conditions,  our  statements  then 
+become,  eventually,  propositions,  and,  therefore,  true  or  false,  depending 
+on  the  amount  of  information  the  maker  of  the  statements  possesses. 
+We  see  that  this  criterion,  though  difficult,  is  feasible,  and  makes  agree¬ 
+ment  possible. 
+
+A  structural  remark  concerning  the  ^-system  may  not  be  amiss 
+here.  In  the  -system  the  ‘universal’  proposition  (which  is  usually  a 
+propositional  function)  always  implies  existence.  In  A  ‘logic’,  when  it  is 
+
+142  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+said  that  ‘all  A*s  are  B*,  it  is  assumed  that  there  are  A*s.  It  is  obvious 
+that  always  assuming  existence  leaves  no  place  for  non-existence;  and 
+this  is  why  the  old  statements  were  supposed  to  be  true  or  false.  In 
+practical  life,  collections  of  noises  (spell -marks)  which  look  like  words, 
+but  which  are  not,  are  often  not  suspected  of  being  meaningless,  and 
+action  based  on  them  may  consequently  entail  unexplicable  disaster.  In 
+our  lives,  most  of  our  miseries  do  not  originate  in  the  field  where  the 
+terms  ‘true*  and  ‘false*  apply,  but  in  the  field  where  they  do  not  apply; 
+namely,  in  the  immense  region  of  propositional  functions  and  meaning¬ 
+lessness,  where  agreement  must  fail. 
+
+Besides,  this  sweeping  and  unjustified  structural  assumption  makes 
+the  ^-system  less  general .  To  the  statement,  ‘all  A’s  are  B*,  the  mathe¬ 
+matician  adds  ‘there  may  or  may  not  be  A’s\  This  is  obviously  more 
+general .  The  old  pair  of  opposites,  true  and  false,  may  be  enlarged  to 
+three  possibilities — statements  which  might  be  true,  or  false,  and  verbal 
+forms  which  have  the  appearance  of  being  statements  and  yet  have  no 
+meaning,  since  the  noises  used  were  spell-marks,  not  symbols  for  any¬ 
+thing  with  actual  or  ‘logical*  existence. 
+
+Again  a  ^-system  shares  with  the  E  and  R  systems  a  useful  and 
+important  methodological  and  structural  innovation;  namely,  it  limits 
+the  validity  of  its  statements,  with  weighty  semantic  beneficial  conse¬ 
+quences,  as  it  tends  from  the  beginning  to  eliminate  undue,  and  often 
+intense,  dogmatism,  categorism,  and  absolutism.  This,  on  a  printed  page, 
+perhaps,  looks  rather  unimportant,  but  when  applied ,  it  leads  to  a  fun¬ 
+damental  and  structurally  beneficial  alteration  in  our  semantic  attitudes 
+and  behaviour. 
+
+In  the  present  work,  each  statement  is  merely  the  best  the  author 
+can  make  in  1933.  Each  statement  is  given  definitely,  but  with  the 
+semantic  limitation  that  it  is  based  on  the  information  available  to  the 
+author  in  1933.  The  author  has  spared  no  labour  in  endeavouring  to 
+ascertain  the  state  of  knowledge  as  it  exists  in  the  fields  from  which  his 
+material  is  drawn.  Some  of  this  information  may  be  incorrect,  or 
+wrongly  interpreted.  Such  errors  will  come  to  light  and  be  corrected  as 
+the  years  proceed. 
+
+A  great  source  of  difficulty  and  of  possible  objections  is  that  science 
+is,  at  present,  so  specialized  that  it  is  impossible  for  one  man  to  know  all 
+fields,  and  that,  therefore,  the  use  of  a  term  such  as  ‘science  1933’*  might 
+be  fundamentally  unsound.  This  objection  should  not  be  lightly  dis¬ 
+missed,  as  it  is  serious.  Yet  it  can,  I  believe,  be  answered  satisfactorily. 
+At  this  early  stage  of  our  enquiry,  a  large  number  of  the  facts  of  knowl¬ 
+edge  does  not  affect  my  investigation ;  therefore,  it  has  not  proved  im- 
+
+ON  FUNCTION 
+
+possible  to  keep  sufficiently  well  informed  on  the  points  which  are 
+covered.  Also,  the  further  scientific  theories  advance,  the  simpler  they 
+become.  For  instance,  books  on  physics  are  simpler  and  less  voluminous 
+now  than  twenty  years  ago.  Something  similar  could  be  said  about 
+mathematics.  The  general  outlook  is  simpler. 
+
+The  main  interest  of  the  author  at  this  stage  of  his  work  is  struc¬ 
+tural  and  semantic,  rather  than  technical,  and  so  he  has  only  had  to  know 
+enough  of  the  technique  of  different  sciences  to  be  able  to  understand 
+sufficiently  their  structure  and  method.  Revolutionary  structural  and 
+methodological  advances  are  few  in  the  history  of  mankind ;  and  so  it  is 
+possible,  though  not  easy,  to  follow  them  up  in  1933. 
+
+But  the  main  point  is  that  the  affixing  of  the  date  has  very  far- 
+reaching  structural  methodological  and,  therefore,  psycho-logical  seman¬ 
+tic  consequences.  For  instance,  it  changes  propositional  function  into 
+propositions,  converts  semantically  one-valued  intensional  methods  into 
+oo -valued  extensional  methods,  introduces  four-dimensional  methods . , 
+and  so  the  ‘date’  method  is  to  be  recommended  on  these  structural  and 
+semantic  grounds  alone .  As  it  is  beneficial  to  affix  the  date  in  1933,  we 
+affix  the  date  1933,  not  to  give  the  impression  that  from  a  technical  point 
+of  view  I  am  familiar  with  the  results  of  all  branches  of  science  at  that 
+date,  but  to  indicate  that  no  advance  in  structure  and  method  of  1933 
+has  been  disregarded.  It  will  become  obvious  later  in  this  book,  when 
+additional  data  have  been  taken  into  consideration,  and  a  new  summary 
+and  new  abstractions  made,  that  the  result  is  a  surprising  simplification, 
+which  can  be  clearly  understood  by  laymen  as  well  as  by  scientists.  With 
+the  help  of  the  generalizations  of  new  structure  and  oo-valued  semantics, 
+it  will  be  easier  to  follow  the  advance  of  science,  because  we  shall  then 
+have  a  better  outlook  on  the  psycho-logics  of  science  as-a-whole. 
+
+It  will  become  clear,  too,  that  to  provide  for  a  further  elaboration 
+of  this  work  in  the  future,  the  establishment  of  a  special  branch  of 
+research  in  ^-systems  must  become  a  group  activity ;  for,  as  I  have  been 
+painfully  aware,  the  production  of  even  this  outline  of  that  branch  of 
+research  has  overstrained  the  powers  of  one  man. 
+
+The  most  cheering  part  of  this  work  is,  perhaps,  the  practical 
+results  which  this  investigation  has  accomplished,  combined  with  the 
+simplicity  of  means  employed.  One  of  the  dangers  into  which  the  reader 
+is  liable  to  fall  is  to  ascribe  too  much  generality  to  the  work,  to  forget 
+the  limitations  and,  perhaps,  one-sidedness  which  underlie  it.  The  limita¬ 
+tion  and  the  generality  of  this  theory  lie  in  the  fact  that  if  we  symbolize 
+our  human  problems  (H  =  f(x i,  x2,  x3,  x4,  x5,  .  .  .  xnJ)  as  a  function  of 
+an  enormous  number  of  variables,  the  present  theory  deals  only  with  a 
+
+144  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+few  of  these  variables,  let  us  say  (say,  structure),  xt  (say,  evalua¬ 
+tion)  . ,  but  these  variables  have  been  found,  up  to  the  present,  in  all  our 
+experience  and  all  our  equations. 
+
+A  most  important  extension  of  the  notion  of  ‘function*  and  ‘propo¬ 
+sitional  function*  has  been  further  accomplished  by  Cassius  J.  Keyser, 
+who,  in  1913,  in  his  discussion  of  the  multiple  interpretations  of  postu¬ 
+late  systems,  introduced  the  notion  of  the  ‘doctrinal  function*.  Since, 
+the  doctrinal  function  has  been  discussed  at  length  by  Keyser  in  his 
+Mathematical  Philosophy  and  his  other  writings,  by  Carmichael2,  and 
+others.  Let  us  recall  that  a  propositional  function  is  defined  as  an 
+oo-valued  statement,  containing  one  or  more  variables,  such  that  when 
+single  values  are  assigned  to  these  variables  the  expression  becomes  a 
+one-valued  proposition.  A  manifold  of  interrelated  propositional  func¬ 
+tions,  usually  called  postulates,  with  all  the  consequences  following  from 
+them,  usually  called  theorems,  has  been  termed  by  Keyser  a  doctrinal 
+function .  A  doctrinal  function,  thus,  has  no  specific  content,  as  it  deals 
+with  variables,  but  establishes  definite  relations  between  these  variables. 
+In  principle,  we  can  assign  many  single  values  to  the  variable  terms  and 
+so  generate  many  doctrines  from  one  doctrinal  function.  In  an  oo-valued 
+^-system  which  eliminates  identity  and  is  based  on  structure,  doctrinal 
+functions  become  of  an  extraordinary  importance. 
+
+In  an  oo-valued  world  of  absolute  individuals  on  objective  levels, 
+our  statements  can  always  be  formulated  in  a  way  that  makes  obvious 
+the  use  of  oo-valued  terms  (variables)  and  so  the  postulates  can  always 
+be  expressed  by  propositional  function.  As  postulates  establish  relations 
+or  multi-dimensional  order,  a  set  of  postulates  which  defines  a  doctrinal 
+function  gives,  also  uniquely ,  the  linguistic  structure.  As  a  rule,  the 
+builders  of  doctrines  do  not  start  with  sets  of  postulates  which  would 
+explicitly  involve  variables,  but  they  build  their  doctrine  around  some 
+specific  content  or  one  special  respective  value  for  the  variables,  and  so 
+the  structure  of  a  doctrine,  outside  of  some  mathematical  disciplines,  has 
+never  been  explicitly  given.  If  we  trace  a  given  doctrine  with  specific 
+content  to  its  doctrinal  function  without  content ,  but  variable  terms,  then, 
+only,  do  we  obtain  a  set  of  postulates  which  gives  us  the  linguistic  struc¬ 
+ture.  Briefly,  to  find  the  structure  of  a  doctrine,  we  must  formulate  the 
+doctrinal  function  of  which  the  given  doctrine  is  only  a  special  inter¬ 
+pretation.  In  non-mathematical  disciplines,  where  doctrines  are  not 
+traced  down  to  a  set  of  postulates,  we  have  no  means  of  knowing  their 
+structure,  or  whether  two  different  doctrines  originated  from  one  doc¬ 
+trinal  function,  or  from  two .  In  other  words,  we  have  no  simple  means 
+of  ascertaining  whether  the  two  different  doctrines  have  similar  or  differ- 
+
+UN  FUNCTION 
+
+rut  structure.  Under  aristotelianism,  these  differentiations  were  impos¬ 
+sible,  and  so  the  problems  of  linguistic  structure,  propositional  and 
+doctrinal  functions . ,  were  neglected,  except  in  the  recent  work  of  mathe¬ 
+maticians.  The  entirely  general  semantic  influence  of  these  structural 
+conditions  becomes  obvious  when  we  realize  that,  no  matter  whether  or 
+not  our  doctrines  are  traced  down  to  their  doctrinal  functions,  our 
+semantic  processes  and  all  ‘thinking’  follow  automatically  and,  by  neces¬ 
+sity,  the  conscious  or  unconscious  postulates,  assumptions.,  which  are 
+given  (or  made  conscious)  exclusively  by  the  doctrinal  function. 
+
+The  terms  ‘proposition’,  ‘function’,  ‘propositional  function’,  ‘doc¬ 
+trinal  function’. ,  are  multiordinal,  allowing  many  orders,  and,  in  a  given 
+analysis,  the  different  orders  should  be  denoted  by  subscripts  to  allow 
+a  differentiation  between  them.  When  we  deal  with  more  complex 
+doctrines,  we  find  that  in  structures  they  represent  higher  order  doc¬ 
+trines,  or  a  higher  whole,  the  constituents  of  which  represent  lower  order 
+doctrines.  Similarly,  with  doctrinal  functions,  if  we  take  any  system,  an 
+analysis  will  discover  that  it  is  a  whole  of  related  doctrinal  functions. 
+As  this  situation  is  the  most  frequent,  and  as  ‘thinking’,  in  general,  rep¬ 
+resents  a  process  of  relating  into  higher  order  relational  entities  which 
+are  later  treated  as  complex  wholes,  it  is  useful  to  have  a  term  which 
+would  symbolize  doctrinal  functions  of  higher  order,  which  are  made 

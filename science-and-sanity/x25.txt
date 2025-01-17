@@ -1,0 +1,500 @@
+of  events,  we  introduce  finite  velocities.  We  shall  see  later  that  ‘infinite 
+velocity’  is  meaningless  and  so  all  actual  happenings  can  be  ordered.  The 
+above  is  an  important  factor  in  our  s.r . 
+
+Let  us  give  a  rough  example.  Assume  that  Smith  has  had  a  bad 
+dinner.  Some  nervous  impulse,  originating  from  the  bad  dinner,  starts 
+going.  At  this  stage,  we  may  call  it  an  ‘undifferentiated’  nervous  impulse. 
+It  travels  with  finite  velocity,  reaches  the  brain-stem  and  the  approxi¬ 
+mately  central  part  of  his  brain,  which  we  call  the  thalamus ;  is  affected 
+by  them  and  is  no  longer  ‘undifferentiated’  but  becomes,  let  us  say, 
+‘affective’.  In  the  cortex,  it  is  affected  again  by  the  lessons  of  past 
+experiences.  It  returns  again  to  the  lower  centres  and  becomes,  let  us 
+say,  ‘emotion’ ;  and  then  anything  might  happen,  from  sudden  death  to  a 
+glorious  poem. 
+
+The  reader  must  be  warned  that  this  example  is  rough  and  over¬ 
+simplified.  Impulses  are  reinforced  and  ‘inhibited’  from  a  complex  chain 
+of  nervous  interconnections.  But  what  I  wish  to  show  by  this  example, 
+is  that,  by  accepting  the  finite  velocity  of  nerve  currents,  in  terms  of 
+order,  we  can  build  up  a  definite  vocabulary  to  deal,  not  only  with  the 
+‘organism-as-a-whole’,  but  also  with  the  different  stages  of  the  process. 
+This  is  important  because,  without  some  such  ordinal  scheme,  it  is 
+structurally  impossible  to  evade  enormous  verbal  and  semantic  difficul¬ 
+ties  which  lead  to  great  confusion. 
+
+ON  OKI  >KK 
+
+In  the  analysis  of  the  above  example,  only  the  structural  and 
+methodological  aspects  are  emphasized.  No  attempt  is  made  to  legislate 
+for  neurologists  or  to  instruct  them  how  they  should  define  and  use 
+their  terms. 
+
+Section  B.  Order  and  the  nervous  system . 
+
+We  know  that,  structurally,  not  all  parts  of  the  nervous  system  are 
+of  equal  phylogenetic  age.  The  ventral  part  of  the  brain,  the  thalamus 
+(in  the  rough),  which  is  of  most  interest  in  this  connection,  is  older 
+than  the  cerebral  cortex.  By  the  term  ‘thalamus’  I  denote  all  the  sub¬ 
+divisions  and  most  important  appendages  which  we  need  not  mention 
+by  their  technical  names.  In  man,  both  the  thalamus  and  the  cerebral 
+cortex  are  much  enlarged  and  have  a  complex  structural  cyclic  inter¬ 
+connection.  The  cerebral  cortex  is  a  term  applied  to  a  superficial  layer 
+of  grey  nervous  tissue  covering  the  cerebral  hemispheres.  It  is  called 
+(lie  ‘new  brain*  by  Edinger.  The  higher  correlation  centres  in  the  cere¬ 
+bral  hemispheres  can  act  only  through  the  agency  of  the  lower  centres, 
+
+I  he  brain-stem,  and  the  thalamus.  In  other  words,  the  cerebral  cortex, 
+the  functioning  of  which  is  connected  chiefly  with  the  higher  associa¬ 
+tions,  is  of  such  structure  that  no  nervous  impulse  can  enter  it  without 
+first  passing  through  the  lower  centres  of  the  ventral  parts  of  the  brain 
+and  brain-stem. 
+
+In  the  lower  vertebrates,  which  lack  the  cerebral  cortex,  the  sub¬ 
+cortical  mechanisms  are  adequate  for  all  simple  exigencies  of  life  and 
+simple  association  processes,  these  sub-cortical  mechanisms  being  older 
+phylogenetically  than  the  cerebral  cortex,  yet  younger  than  some  still 
+mure  ventral  parts. 
+
+The  brush-like  connections  between  the  nerves  are  called  synapses, 
+and  although  a  nerve-fibre  seems  to  be  capable  of  transmitting  nerve 
+impulses  in  both  directions,  the  nervous  impulse  can  seemingly  pass 
+the  synapse  in  only  one  direction;  so  a  nervous  polarity  is  established 
+whenever  synapses  are  present.1 
+
+The  following  diagram  and  explanations  are  taken  from  Professor 
+Herrick’s  Introduction  to  Neurology,  pp.  60,  61,  62,  63,  69,  70.  In  the 
+quotations  I  retain  the  spelling  but  change  Herrick’s  Fig.  18  to  my  Fig.  1 ; 
+all  but  one  word  of  the  italics  are  mine* 
+
+♦I  quote  here  from  the  Second  Edition  of  the  Introduction  to  Neurology  an 
+account  of  the  classical  theory  of  reflex  circuits  which  is  quite  satisfactory  for  my 
+purpose.  In  his  later  work  (see  my  bibliography),  Professor  Herrick  forcibly 
+points  out  the  limitations  of  the  reflex  theories  as  partial  patterns,  as  opposed  to  the 
+activity  of  the  organism-as-a-whole.  In  the  Fifth  Edition  (1931),  the  chapter  on 
+reflex  circuits  has  been  entirely  rewritten,  and  the  non-el  attitude  is  expressed  very 
+dearly.  I  am  much  indebted  to  Professor  Herrick  for  drawing  my  attention  to 
+this  rewritten  chapter. 
+
+158  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+)> - 
+
+n 
+
+fti 
+
+Ftt 
+
+C 
+
+FCP 
+
+IS 
+
+Diagrams  representing  the  relations  of  neurons  in  five  types  of  reflex  arcs:  A, 
+simple  reflex  arc ;  B,  chain  reflex ;  C,  a  complex  system  illustrating  allied  and  an* 
+tagonistic  reflexes  and  physiological  resolution;  D,  a  complete  system  illustrating 
+allied  and  antagonistic  reflexes  with  a  final  common  path;  E,  a  complex  system 
+illustrating  the  mechanism  of  physiological  association  A,A ,  association  neurons; 
+C,C\C",Clf  and  C2,  centres  (adjustors)  ;  E,E'fE",  El,  and  E2,  effectors ;  FCPt  final 
+common  path ;  R,R\R",Rlt  and  R2,  receptors. 
+
+'The  structure  of  the  simple  reflex  circuit  is  diagrammatically  illus¬ 
+trated  in  Fig.  1,  A.  The  receptor  ( R )  may  be  a  simple  terminal  expansion 
+of  the  sensory  nerve-fiber  or  a  very  complex  sense  organ.  The  effec¬ 
+tor  (E)  may  be  a  muscle  or  a  gland.  The  cell  body  of  the  afferent  neuron 
+(1)  may  lie  within  the  center  (C)  or  outside,  as  in  the  diagram.  ...  A 
+simple  reflex  act  involving  the  use  of  so  elementary  a  mechanism  as  has 
+just  been  described  is  probably  never  performed  by  an  adult  vertebrate. 
+The  nervous  impulse  somewhere  in  its  course  always  comes  into  rela¬ 
+tion  with  other  reflex  paths,  and  in  this  way  complications  in  the 
+response  are  introduced.  . .  . 
+
+'Separate  reflex  circuits  may  be  so  compounded  as  to  give  the 
+so-called  chain  reflex  (Fig.  1,  B).  Here  the  response  of  the  first  reflex 
+serves  as  the  stimulus  for  the  second,  and  so  on  in  series.  The  units  of 
+
+ON  ORDER 
+
+these  chain  reflexes  are  usually  not  simple  reflexes  as  diagrammed,  but 
+t  omplex  elements  of  the  types  next  to  be  described.  .  .  .  The  chain  reflex 
+...  is  a  very  common  and  a  very  important  type.  Most  of  the  ordinary 
+acts  in  the  routine  of  daily  life  employ  it  in  one  form  or  another,  the 
+completion  of  one  stage  of  the  process  serving  as  the  stimulus  for  the 
+initiation  of  the  next .  .  .  . 
+
+'Figure  1,  C  illustrates  another  method  of  compounding  reflexes  so 
+that  the  stimulation  of  a  single  sense  organ  may  excite  either  or  both 
+of  two  responses.  If  the  two  effectors,  £1  and  £2,  can  cooperate  in  the 
+|)«rformance  of  an  adaptive  response,  the  case  is  similar  to  that  of 
+Fig.  1,  A,  with  the  possibility  of  a  more  complex  type  of  reaction.  This 
+is  an  allied  reflex.  If,  however,  the  two  effectors  produce  antagonistic 
+movements,  so  that  both  cannot  act  at  the  same  time,  the  result  is  a 
+physiological  dilemma.  Either  no  reaction  at  all  results,  or  there  is  a 
+sort  of  physiological  resolution  (sometimes  called  physiological  choice), 
+one  motor  pathway  being  taken  to  the  exclusion  of  the  other.  Which 
+path  will  be  chosen  in  a  given  case  may  be  determined  by  the  physio¬ 
+logical  state  of  the  organs.  If,  for  instance,  one  motor  system,  £2,  is 
+greatly  fatigued  and  the  other  rested,  the  threshold  of  £2  will  be  raised 
+and  the  motor  discharge  will  pass  to  £1. 
+
+'Figure  1,  D  illustrates  the  converse  case,  where  two  receptors 
+discharge  into  a  single  center,  which,  in  turn,  by  means  of  a  final  com¬ 
+mon  path  ( FCP )  excites  a  single  effector  (£).  If  the  two  receptors 
+upon  stimulation  normally  call  forth  the  same  response,  they  will 
+reinforce  each  other  if  simultaneously  stimulated,  the  response  will  be 
+strengthened,  and  we  have  another  type  of  allied  reflex.  But  there  are 
+cases  in  which  the  stimulation  of  £1  and  £2  (Fig.  1,  D)  would  naturally 
+call  forth  antagonistic  reflexes.  Here,  if  they  are  simultaneously  stimu¬ 
+lated,  a  physiological  dilemma  will  again  arise  which  can  be  resolved 
+only  by  one  or  the  other  afferent  system  getting  control  of  the  final 
+common  path. 
+
+‘Figure  1,  E  illustrates  still  another  form  of  combination  of 
+reflexes.  Here  there  are  connecting  tracts  (A,  A)  between  the  two  cen¬ 
+ters  so  arranged  that  stimulation  of  either  of  the  two  receptors 
+(£1  and  £2)  may  call  forth  a  response  in  either  one  of  two  effectors 
+(£1  and  £2).  These  responses  may  be  allied  or  antagonistic,  and  much 
+more  complicated  reflexes  are  here  possible  than  in  any  of  the  preceding 
+cases.  .  .  . 
+
+'It  must  be  kept  in  mind  that  in  higher  vertebrates  all  parts  of  the 
+nervous  system  are  bound  together  by  connecting  tracts  (internuncial 
+pathways) ....  These  manifold  connections  are  so  elaborate  that  every 
+
+160  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+part  of  the  nervous  system  is  in  nervous  connection  with  every  other 
+part,  directly  or  indirectly.  This  is  illustrated  by  the  way  in  which  the 
+digestive  functions  (which  normally  are  quite  autonomous,  the  nervous 
+control  not  going  beyond  the  sympathetic  system,  .  .  .  )  may  be  dis¬ 
+turbed  by  mental  processes  whose  primary  seat  may  be  in  the  association 
+centers  of  the  cerebral  cortex;  and  also  by  the  way  in  which  strychnin- 
+poisoning  seems  to  lower  the  neural  resistance  everywhere,  so  that  a  very 
+slight  stimulus  may  serve  to  throw  the  whole  body  into  convulsions.  .  .  . 
+
+'Our  picture  of  the  reflex  act  in  a  higher  animal  will,  then,  include 
+a  view  of  the  whole  nervous  system  in  a  state  of  neural  tension.  The 
+stimulus  disturbs  the  equilibrium  at  a  definite  point  (the  receptor) ,  and 
+the  wave  of  nervous  discharge  thus  set  up  irradiates  through  the  complex 
+lines  determined  by  the  neural  connections  of  the  receptor.  If  the  stimu¬ 
+lus  is  weak  and  the  reflex  path  is  simple  and  well  insulated,  a  simple 
+response  may  follow  immediately.  Under  other  conditions  the  nervous 
+discharge  may  be  inhibited  before  it  reaches  any  effector,  or  it  may 
+irradiate  widely,  producing  a  very  complex  reflex  pattern.  .  .  . 
+
+The  mechanism  of  the  reflex  should  not  be  regarded  as  an  open 
+channel  through  which  energy  admitted  at  the  receptive  end-organ  is 
+transmitted  to  be  discharged  into  the  effector  organ.  It  is  rather  a 
+complex  apparatus,  containing  reserves  of  potential  energy  which  can  be 
+released  upon  the  application  of  an  adequate  stimulus  in  accordance  with 
+a  pattern  determined  by  the  inherent  structure  of  the  apparatus  itself. 
+In  other  words,  the  nervous  discharge  [italics  of  Professor  Herrick]  is 
+not  a  mere  transmission  of  the  energy  of  the  stimulus,  but  it  implies 
+active  consumption  of  material  and  release  of  energy  ( metabolism ) 
+within  both  the  nerve  centers  and  the  nerve-fibers.  The  energy  acting 
+upon  the  effector  organ  may,  therefore,  be  different  in  both  kind  and 
+amount  from  that  applied  to  the  receptive  end-organ.  The  response 
+likewise  involves  the  liberation  of  the  latent  energy  of  the  effector 
+{muscle  or  gland),  the  nervous  impulse  serving  merely  to  release  the 
+trigger  which  discharges  this  reserve  energy/ 
+
+It  is  necessary  to  warn  the  reader  that  the  human  nervous  system  is 
+structurally  of  inconceivable  complexity.  It  is  estimated  that  there  are  in 
+the  human  brain  about  twelve  thousand  millions  of  nerve  cells  or  neu¬ 
+rons,  and  more  than  half  of  these  afe  in  the  cerebral  cortex.  Most  prob¬ 
+ably,  the  majority  of  the  neurons  of  the  cerebral  cortex  are  directly  or 
+indirectly  connected  with  every  cortical  field.  Were  we  to  consider  a  mil¬ 
+lion  cortical  nerve  cells  connected  one  with  another  in  groups  of  only 
+two  neurons  each,  and  compute  the  possible  combinations,  we  would  find 
+the  number  of  possible  interneuronic  connection-patterns  to  be  repre- 
+
+ON  ORDER 
+
+scnted  by  102-™'000.  What  such  a  number  is  like  is  hardly  possible 
+to  imagine.  For  comparison,  it  may  be  said  that  probably  the  whole 
+visible  sidereal  universe  does  not  contain  more  than  1066  atoms ! 2 
+
+Our  present  knowledge  of  the  nervous  system  is  limited  as  regards 
+its  complexities  and  possibilities,  but  we  know  many  structural  facts 
+which  seem  to  be  well  established.  One  of  these  is  that  the  human 
+nervous  system  is  more  complex  than  that  of  any  animal.  Another  is 
+that  the  human  cortex  is  of  later  origin  than,  and  in  a  way  an  outgrowth 
+from,  the  more  central  parts  of  the  brain  (which  establishes  a  structure 
+of  levels) .  A  third  is  that  the  interconnection  of  the  parts  of  the  ner¬ 
+vous  system  is  cyclic.  A  fourth  is  that  the  velocity  of  nerve  currents  is 
+Unite .  The  last  fact  is  of  serious  structural  importance,  and,  as  a  rule, 
+disregarded. 
+
+Section  C.  Structure ,  relations ,  and  multi-dimensional  order . 
+
+In  such  an  ordered  cyclic  chain,  the  nerve  impulses  reach  and  tra¬ 
+verse  the  different  levels  with  Unite  velocity  and  so,  in  each  case,  in  a 
+definite  order .  ‘Intelligence1  becomes  a  manifestation  of  life  of  the 
+organism-as-a-whole,  structurally  impossible  in  some  fictitious  ‘isolation'. 
+To  ‘be*  means  to  be  related.  To  be  related  involves  multi-dimensional 
+order  and  results  in  structure . 
+
+‘Survival’,  ‘adaptation’,  ‘response’,  ‘habit  formation’,  ‘orientation’, 
+‘learning’,  ‘selection’,  ‘evaluation’,  ‘intelligence’,  ‘semantic  reactions’,  and 
+all  similar  terms  involve  structurally  an  ordered,  interrelated  structural 
+complex  in  which  and  by  which  we  live  and  function.  To  ‘comprehend’, 
+to  ‘understand’,  to  ‘know’,  to  be  ‘intelligent’. ,  in  the  pre-human  as  well  as 
+the  human  way,  means  the  most  useful  survival  adjustment  to  such  an 
+ordered,  interrelated  structure  as  the  world  and  ourselves. 
+
+In  this  vocabulary,  ‘structure’  is  the  highest  abstraction,  as  it  involves 
+a  whole,  taken  as-a-whoie,  made  up  of  interrelated  parts ,  the  relations  of 
+which  can  be  defined  in  still  simpler  terms  of  order.  ‘Knowing*,  in  its 
+broadest  as  well  as  in  its  narrow  human  sense,  is  conditioned  by  struc¬ 
+ture,  and  so  consists  of  structural  knowings.  All  empirical  structures 
+involve  relations,  and  the  last  depend  on  multi -dimensional  order.  A 
+language  of  order ,  therefore,  is  the  simplest  form  of  language,  yet  in 
+structure  it  is  similar  to  the  structure  of  the  world  and  ourselves.  Such 
+a  language  is  bound  to  be  useful  for  adaptation  and,  therefore,  sanity ;  it 
+results  in  the  understanding  of  the  structural,  relational,  multi-dimen¬ 
+sional  order  in  the  environment  on  all  levels. 
+
+We  must  stress  the  structural  fact  that  the  introduction  of  order  as 
+a  fundamental  term  abolishes  some  fanciful  and  semantically  very  harm- 
+
+162  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+ful  ‘infinities*.  If  an  impulse  could  travel  in  ‘no  time*  or  with  ‘infinite 
+velocity*,  which  is  a  structural  impossibility  in  this  world,  such  an  impulse 
+would  reach  different  places  ‘instantaneously*,  and  so  there  would  be  no 
+order  involved.  But,  as  soon  as  the  actual  order  in  which  impulses  reach 
+their  destination  is  found,  ‘infinite  velocities*  are  abolished.  We  shall 
+show  later  that  ‘infinite  velocity*  is  a  meaningless  noise ;  here  we  stress 
+only  the  point  that  it  is  a  structural  impossibility,  as  structure  involves 
+relations  and  orders,  and  order  could  not  exist  in  a  world  where  'infinite 
+velocities*  were  possible. 
+
+Conversely,  if  in  our  analysis  we  disregard  order,  we  are  bound  to 
+disregard  relations  and  structure  and  to  introduce,  by  necessity,  some 
+fanciful  ‘infinite  velocities*.  Any  one  who  treats  ‘mind*  in  ‘isolation* 
+makes  a  structurally  false  assumption,  and,  by  necessity,  unconsciously 
+ascribes  some  meaningless  ‘infinite  velocity’  to  the  nerve  currents. 
+
+We  have  dwelt  upon  this  subject  at  such  length  because  of  its  gen¬ 
+eral  structural  and  semantic  importance.  The  first  step  towards  under¬ 
+standing  the  theory  of  Einstein  is  to  be  entirely  convinced  on  the  above 
+points.  Newton’s  disregard  of  order  introduced  an  unconscious  false  to 
+facts  assumption  of  the  ‘infinite  velocity*  of  light,  which  fatalistically 
+leads  to  an  objectification  called  ‘absolute  time’,  ‘absolute  simultaneity*, 
+and  so  introduces  a  terminology  of  inappropriate  structure.  A  similar 
+remark  applies  to  arguments  about  ‘mind*  in  an  objectified,  ‘isolated*  way. 
+These  arguments  disregard  the  order  in  which  the  nervous  impulses 
+spread  and  so,  by  necessity,  introduce  a  silent  false  to  facts  assumption 
+of  the  ‘infinite  velocity’  of  nerve  currents. 
+
+On  empirical  structural  grounds,  we  know  neurological  and  general 
+facts  on  two  levels.  ( 1 )  Macroscopically,  we  have  a  structure  in  levels, 
+stratified,  so  to  say,  with  complexities  arising  from  the  general  colloidal 
+physico-chemical  structure  of  the  organism-as-a- whole.  (2)  The  general 
+sub-microscopic,  atomic,  and  sub-atomic  structure  of  all  materials  simply 
+gives  us  the  persistence  of  the  macroscopic  characteristics  as  the  relative 
+invariance  of  function ,  due  to  dynamic  equilibrium,  and  ultimately 
+reflected  and  conditioned  by  this  sub-microscopic  structure  of  all  mate¬ 
+rials.  Under  such  actual  structural  conditions,  terms  like  ‘substance*, 
+‘material’*,  and  ‘function*,  ‘energy*,  ‘action*.,  become  interconnected— 
+largely  a  problem  of  preference  or  necessity  of  selecting  the  level  with 
+which  we  want  to  deal. 
+
+On  sub-microscopic  levels,  ‘iron’,  or  anything  else,  means  only  a 
+persistence  for  a  limited  ‘time*  of  certain  gross  characteristics,  represent* 
+ing  a  process  (structurally  a  four-dimensional  notion  involving  ‘time’) 
+which  becomes  a  question  of  structure.  With  the  1933  known  unit  of 
+
+ON  ORDER 
+
+the  world  called  an  ‘electron’,  which  appears  as  an  4 energy*  factor,  the 
+relative  persistence  or  invariance  of  dynamic  sub-microscopic  structure 
+gives  us,  on  macroscopic  levels,  an  average,  or  statistical,  persistence  of 
+gross  macroscopic  characteristics,  which  we  label  ‘iron’. 
+
+The  above  should  be  thoroughly  understood  and  digested.  As  a  rule, 
+we  ail  identify  orders  and  levels  of  abstractions  and  so  have  difficulty  in 
+keeping  them  separate  verbally  (and,  therefore,  ‘conceptually’).  Thor¬ 
+ough  structural  understanding  helps  us  greatly  to  acquire  these  new  and 
+beneficial  s.r . 
+
+Under  such  structural  empirical  conditions,  a  language  of  order, 
+which  implies  relations  and  structure,  as  enlarged  to  the  order  of  abstrac¬ 
+tions  or  level  of  consideration,  largely  volitional,  becomes  the  only 
+language  which,  in  structure ,  is  similar  to  the  structure  of  the  world, 
+ourselves  included,  and  so,  of  necessity,  will  afford  the  maximum  of 
+semantic  benefits. 
+
+It  should  be  understood  that,  on  structural  grounds,  terms  like 
+‘substance’  and  ‘function’  become,  in  1933,  perfectly  interchangeable , 
+depending  on  the  order  of  abstraction.  ‘Substance’,  for  instance,  on  the 
+macroscopic  level  becomes  ‘invariance  of  function’  on  the  sub-microscopic 
+level.  It  follows  that  what  we  know  about  the  macroscopic  (‘anatomical  ) 
+structure  can  be  quite  legitimately  enlarged  by  what  we  know  of  function 
+(structure  on  different  levels).  This  interchangeability  and  complemen¬ 
+tary  value  of  evidence  is  conditioned  by  structural  considerations,  and 
+the  fact  that  ‘structure’  is  multiordinal.  On  gross  anatomical  grounds, 
+we  know  a  great  deal  about  this  structure  of  the  nervous  system.  Because 
+of  experimental  difficulties,  very  little  is  known  of  the  structural  sub- 
+microscopic  happenings,  yet  we  can  speak  about  them  with  benefit  in 
+functional  terms  ;  as,  for  instance,  of  ‘activation  ,  facilitation  ,  resistance  , 
+‘psychogenetic  effects’,  ‘diffusion’,  ‘permeability’,  the  older  ‘inhibition’,. 
+
+In  such  a  cyclic  chain  as  the  nervous  system,  there  is,  as  far  as 
+energy  is  concerned,  no  last  stage  of  the  process.  If  there  is  no  motor 
+reaction  or  other  reflex,  then  there  is  a  semantic  or  associative  reaction 
+with  ‘inhibitory’  or  activating  consequences,  which  are  functionally 
+equivalent  to  a  motor  reaction.  At  each  stage,  a  ‘terminal  receptor  is  a 
+reacting  organ  in  the  chain.3 
+
+We  know  quite  well  from  psychiatry  how  nervous  energy  may 
+deviate  from  constructive  and  useful  channels  into  destructive  and  harm¬ 
+ful  channels.  The  energy  is  not  lost,  but  misdirected  or  misapplied.  For 
+instance,  an  ‘emotional’  shock  may  make  some  people  release  their 
+energy  into  useful  channels,  such  as  concentrated  efforts  in  some  direc¬ 
+tion,  which  would  have  been  impossible  without  this  shock;  but,  in 
+
+164  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+others,  an  ‘emotional'  shock  leads  to  the  building  up  of  morbid  ‘mental’ 
+or  physical  symptoms. 
+
+Since  the  nervous  structure  is  cyclic  in  most  of  its  parts,  as  well  as 
+as-a- whole,  and  since  these  cycles  are  directly  or  indirectly  interconnected, 
+mutual  interaction  of  those  cycles  may  produce  most  elaborate  behaviour 
+patterns,  which  may  be  spoken  of,  in  their  manifestations,  in  terms  of 
+order .  As  each  more  important  nerve  centre  has  incoming  and  outgoing 
+nerve-fibres,  the  activation,  or  reinforcement,  or  diffusion  of  nerve  cur¬ 
+rents  may  sometimes  manifest  itself  in  our  s.r  as  reversal  of  order  in 
+some  aspects.  Neurologically,  considered  on  the  sub-microscopic  level, 
+it  would  only  be  a  case  of  activation,  or  of  diffusion,  or  of  ‘inhibition'. , 
+probably  never  a  problem  of  reversed  order  in  the  actual  nerve  currents. 
+
+The  semantic  manifestations  of  order  and  reversed  order  are  of 
+crucial  importance,  for  we  are  able  to  train  the  individual  to  different 
+orders  or  reversals  of  orders.  This  procedure  neurologically  involves 
+activations,  enforcements,  diffusions,  ‘inhibitions',  resistances,  and  all 
+the  other  types  of  nervous  activities,  which  without  the  formulation  of 
+psychophysiology  were  all  most  inaccessible  to  direct  training.  The 
+structural  fact  that  order  and  reversal  of  order  in  semantic  manifesta¬ 
+tion,  which  all  are  on  the  un-speakable  objective  level,  have  such  intimate 
+and  profound  connection  with  fundamental  nervous  processes,  such  as 
+activation,  enforcement,  diffusion,  permeability,  ‘inhibition',  resistance . , 
+gives  us  tremendous  new  powers  of  an  educational  character  in  building 
+up  sanity,  and  supplies  methods  and  means  to  affect,  direct,  and  train 
+nervous  activities  and  s.r,  which  we  were  not  able  formerly  to  train 
+psychophysiologically.  Perhaps  one  of  the  main  values  of  the  present 
+work  is  the  discovery  of  physiological  means,  to  be  given  presently,  for 
+training  the  human  nervous  system  in  ‘sanity'. 
+
+The  reader  should  be  aware,  when  we  speak  of  order  and  reversal 
+of  order,  that  we  mean  the  order  and  reversal  of  order  in  the  un-speak- 
+able  s.r;  but  the  neurological  mechanism  is  of  a  different  character,  as 
+already  explained.  Our  analysis  of  the  simple  semantic  manifestations 
+involve  evaluation  and  so  order,  permitting  a  most  complex  re-education 
+and  re-training  of  the  nervous  system,  which  were  entirely  beyond  our 
+reach  with  the  older  methods. 
+
+Experimental  evidence  seems  to  corroborate  what  has  been  sug¬ 
+gested  here,  and  the  analysis,  in  terms  of  order,  seems  to  have  serious 
+practical  neurological  significance,  owing  to  similarity  of  structure , 
+resulting  in  evaluation ,  and  so  appropriate  s.r . 
+
+For  our  analysis  in  terms  of  order,  we  start  with  the  simplest  imag¬ 
+inable  nervous  cycle ;  but  it  must  be  explicitly  understood  that  such  simple 
+
+ON  ORDER 
+
+cycles  actually  never  exist,  and  that  our  diagrams  have  value  only  as 
+picturing  the  cyclic  order ,  without  complications.  Let  us  repeat  that  the 
+introduction  of  an  analysis  in  terms  of  order  or  reversal  of  order  in  the 
+manifestation  involves,  under  educational  influence,  various  other  and 
+different  actml  nervous  activities ,  a  class  of  activities  which  hitherto 
+have  always  evaded  our  educational  influences.  For  structural  purpose, 
+it  is  sufficient  to  make  use  of  the  distinction  between  lower  and  higher 
+centres  (a  rough  and  ready  distinction)  and  to  consider  the  lower  centres 
+generally  in  connection  with  the  thalamus  and  brain-stem  (perhaps  also 
+other  sub-cortical  layers),  and  the  higher  centres  generally  in  connection 
+with  the  cortex.  This  lack  of  precision  is  intentional,  for  we  need  only 
+sufficient  structural  stratification  to  illustrate  order,  and  it  seems  advis¬ 
+able  to  assume  only  the  well-established  minimum  of  structure. 
+
+We  have  already  mentioned  the  absolute  individuality  of  the  organ¬ 
+ism  and,  as  a  matter  of  fact,  of  everything  else  on  objective  levels.  The 
+reader  need  have  no  metaphysical  shivers  about  such  extreme  individual¬ 
+ity  on  the  un-speakable  levels.  In  our  human  economy,  we  need  both 
+similarities  and  differences,  but  we  have  as  yet,  in  our  ^-system,  chiefly 
+concentrated  our  attention  and  training  on  similarities,  disregarding  dif¬ 
+ferences.  In  this  work,  we  start  structurally  closer  to  nature  with 
+un-speakable  levels,  and  make  differences  fundamental,  similarities 
+appearing  only  at  a  later  stage  (order)  as  a  result  of  higher  abstractions . 
+In  simple  words,  we  obtain  similarities  by  disregarding  differences,  by 
+a  process  of  abstracting.  In  a  world  of  only  absolute  differences,  with¬ 
+out  similarities,  recognition,  and,  therefore,  ‘intelligence’,  would  be 
+impossible. 
+
+It  is  possible  to  demonstrate  how  ‘intelligence’  and  abstracting  both 
+started  together  and  are  due  to  the  physico-chemical  structure  of  proto¬ 
+plasm.  All  living  material,  usually  called  protoplasm,  has,  in  some 
+degree,  the  nervous  functions  of  irritability,  conductivity,  integration , . 
+It  is  obvious  that  a  stimulus  S  does  not  affect  the  little  piece  of  primitive 
+protoplasm  A  ‘all  over  and  at  once’  (infinite  velocity),  but  that  it  affects 
+it  first  in  a  definite  spot  B ,  that  the  wave  of  excitation  spreads,  with 
+finite  velocity  and  usually  in  a  diminishing  gradient,  to  the  more  remote 
+portions  of  A .  We  notice  also  that  the  effect  of  the  stimulus  S  on  A  is 
+not  identical  with  the  stimulus  itself.  A  falling  stone  is  not  identical 
+with  the  pain  we  feel  when  the  stone  falls  on  our  foot.  Neither  do  our 
+feelings  furnish  a  full  report  as  to  the  characteristics  of  the  stone,  its 
+internal  structure,  chemistry,.  So  we  see  that  the  bit  of  protoplasm  is 
+affected  only  partially,  and  in  a  specific  way,  by  the  stimulus.  Under 
+physico-chemical  conditions,  as  they  exist  in  life,  there  is  no  place  for  any 
+
+166  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+‘all ness’.  In  life,  we  deal  structurally  only  with  ‘non-allness’ ;  and  so  the 
+term,  ' abstracting  in  different  orders',  seems  to  be  structurally  and 
+uniquely  appropriate  for  describing  the  effects  of  external  stimuli  on 
+living  protoplasm.  ‘Intelligence’  of  any  kind  is  connected  with  the 
+abstracting  (non-allness)  which  is  characteristic  of  all  protoplasmic 
+response.  Similarities  are  perceived  only  as  differences  become  blurred, 
+and,  therefore,  the  process  is  one  of  abstracting. 
+
+The  important  novelty  in  my  treatment  is  in  the  structural  fact  that 
+I  treat  the  term  ‘abstracting’  in  the  non-el  way.  We  find  that  all  living 
+protoplasm  ‘abstracts’.  So  I  make  the  term  abstracting  fundamental,  and 
+I  give  it  a  wide  range  of  meanings  to  correspond  to  the  facts  of  life  by 
+introducing  abstractions  of  different  orders .  Such  a  treatment  has  great 
+structural  advantages,  which  will  be  explained  in  Part  VII. 
+
+As  our  main  interest  is  in  ‘Smith*’,  we  will  speak  mostly  of  him, 
+although  the  language  we  use  is  structurally  appropriate  for  character¬ 
+izing  all  life.  Abstracting’  becomes  now  a  physiological  term  with  struc¬ 
+tural,  actional,  physico-chemical,  and  non-el  implications. 
+
+Accidentally,  some  light  is  thus  thrown  on  the  problem  of  ‘evolution’. 
+In  actual  objective  life,  each  new  cell  is  different  from  its  parent  cell,  and 
+each  offspring  is  different  from  its  parents.  Similarities  appear  only  as 
+a  result  of  the  action  of  our  nervous  system,  which  does  not  register 
+absolute  differences.  Therefore,  we  register  similarities,  which  evaporate 
+when  our  means  of  investigation  become  more  subtle.  Similarities  are 
+read  into  nature  by  our  nervous  system,  and  so  are  structurally  less 
+fundamental  than  differences.  Less  fundamental,  but  no  less  important, 
+as  life  and  ‘intelligence’  would  be  totally  impossible  without  abstracting . 
+It  becomes  clear  that  the  problem  which  has  so  excited  the  s.r  of  the 
+people  of  the  United  States  of  America  and  added  so  much  to  the  merri¬ 
+ment  of  mankind,  ‘Is  evolution  a  “fact”  or  a  “theory”?*,  is  simply  silly. 
+Father  and  son  are  never  identical — that  surely  is  a  structural  ‘fact’ — so 
+there  is  no  need  to  worry  about  still  higher  abstractions,  like  ‘man’  and 
+‘monkey’.  That  the  fanatical  and  ignorant  attack  on  the  theory  of  evolu¬ 
+tion  should  have  occurred  may  be  pathetic,  but  need  concern  us  little,  as 
+such  ignorant  attacks  are  always  liable  to  occur.  But  that  biologists 
+should  offer  ‘defences',  based  on  the  confusion  of  orders  of  abstractions, 
+and  that  philosophers  should  have  failed  to  see  this  simple  dependence 
+is  rather  sad.  The  problems  of  ‘evolution’  are  verbal  and  have  nothing  to 
+do  with  life  as  such,  which  is  made  up  all  through  of  different  individ¬ 
+uals,  ‘similarity’  being  structurally  a  manufactured  article,  produced  by 
+the  nervous  system  of  the  observer. 
+
+ON  ORDER 

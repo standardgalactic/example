@@ -1,0 +1,500 @@
+is  formulated  in  terms  of  ‘electrons'  but  the  ‘electron'  is  the  region 
+where  some  waves  reinforce  each  other,  instead  of  being  a  ‘bit'  of  some¬ 
+thing.  It  is  of  no  importance  from  our  point  of  view  whether  the  atoms 
+are  of  a  finite  size  or  whether  they  extend  indefinitely  and  are  noticeable 
+to  us  only  in  the  regions  of  reinforcement  of  the  waves.  Naturally,  this 
+last  hypothesis  has  a  strong  semantic  appeal,  since  it  would  account, 
+when  worked  out,  for  many  other  facts,  such  as  ‘fulness’,  in  a  non-el 
+language ;  but  probably  it  would  necessitate  a  postulation  of  some  sub- 
+electronic  structures. 
+
+What  is  important  for  our  s.r  is  that  we  realize  the  fact  that  the 
+gross  macroscopic  materials  with  which  we  are  familiar  are  not  simply 
+what  we  see,  feel . ,  but  consist  of  dynamic  processes  of  some  extremely 
+fine  structure;  and  that  we  realize  further  that  our  ‘senses'  are  not 
+adapted  to  register  these  processes  without  the  help  of  extra-neural 
+means  and  higher  order  abstractions. 
+
+Let  us  recall,  in  this  connection,  the  familiar  example  of  a  rotary 
+fan,  which  is  made  up  of  separate  radial  blades,  but  which,  when  rotat¬ 
+ing  with  a  certain  velocity,  gives  the  impression  of  a  solid  disk.  In  this 
+
+case  the  ‘disk'  is 
+not  ‘reality*,  but  a 
+nervous  integration, 
+or  abstraction  from 
+the  rotating  blades. 
+We  not  only  see  the 
+‘disk'  (b)  where 
+there  is  no  disk, 
+but,  if  the  blades 
+rotate  fast  enough, 
+we  could  not  throw 
+sand  through  them, 
+as  the  sand  would  be  too  slow  to  get  through  before  being  struck  by  one 
+of  the  blades. 
+
+Fig.  la  Fig.  lb 
+
+ON  ABSTRACTING 
+
+The  ‘disk*  represents  a  joint  phenomenon  of  the  rotating  blades  (a) 
+and  of  the  abstracting  power  of  our  nervous  system,  which  registers 
+only  the  gross  macroscopic  aspects  and  slow  velocities,  but  not  the  finer 
+activities  on  subtler  levels.  We  cannot  blame  ‘the  finite  mind'  for  the 
+failure  to  register  the  separate  blades,  because  physical  instruments  may 
+behave  similarly.  For  instance,  the  illustrations  (a)  and  ( h )  are  photo¬ 
+graphs  of  a  small  fan  which  I  use  -in  lectures,  and  the  photographic 
+camera  also  missed  the  rotating  blades  and  registered  only  a  ‘disk',  in 
+Fig.  lb. 
+
+Something  roughly  similar  may  be  assumed  for  our  purpose  as 
+going  on  in  what  we  usually  call  ‘materials’.  These  are  composed  of 
+some  dynamic,  fine-grained  processes,  not  unlike  the  ‘rotating  blades’  of 
+our  example ;  and  what  we  register  is  the  ‘disk’,  be  it  a  table  or  a  chair 
+or  ourselves. 
+
+For  a  similar  reason,  we  may  assume  that  we  cannot  put  our  finger 
+through  a  table,  as  our  finger  is  too  thick  and  too  slow,  and  that,  for 
+some  materials,  it  takes  X-rays  to  be  agile  enough  to  penetrate. 
+
+The  above  analogies  are  helpful  for  our  purpose  only,  but  are  over¬ 
+simplified  and  should  not  be  taken  as  a  scientific  explanation. 
+
+This  neural  process  seems  to  be  very  general,  and  in  all  our  daily 
+experiences  the  dynamic  fine  structures  are  lost  to  our  rough  ‘senses’. 
+We  register  ‘disks’,  although  investigation  discovers  not  ‘disks’,  but 
+rotating  ‘blades’.  Our  gross  macroscopic  experience  is  only  a  nervous 
+abstraction  of  some  definite  order. 
+
+As  we  need  to  speak  about  such  problems,  we  must  select  the  best 
+language  at  our  disposal.  This  ought  to  be  non-el  and,  structurally,  the 
+closest  to  facts.  Such  a  language  has  been  built,  and  is  to  be  found  in 
+the  differential  and  four-dimensional  language  of  space-time,  and  in  the 
+new  quantum  mechanics.  In  practice,  it  is  simple  to  ascribe  to  every 
+‘point  of  space’  a  date,  but  it  takes  some  training  to  get  this  s.r.  The 
+language  of  space-time  is  non-el.  To  the  new  notion  of  a  ‘point’  in 
+‘space-time’,  such  a  ‘point’,  always  having  a  date  associated  with  it  and 
+hence  never  identical  with  any  other  point,  the  name  of  ‘point-event*,  or 
+simply  ‘event’,  has  been  given. 
+
+How  to  pass  from  point-events  to  extended  macroscopic  events  is  a 
+problem  in  mathematical  ‘logic’.  Several  quite  satisfactory  schemes  have 
+been  given,  into  the  details  of  which  we  do  not  need  to  enter  here.  As 
+the  non-el  structure  of  the  language  of  space-time  appears  different  from 
+the  older  el  language  of  ‘space’  and  ‘time’,  quite  obviously  the  old  term 
+‘matter’,  which  belonged  to  the  descriptive  apparatus  of  ‘space’  and 
+‘time’,  should  be  abandoned  also,  and  the  ‘bits’  of  materials  we  dealt  with 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+should  be  referred  to  by  structurally  new  terms.  In  fact,  we  know  that 
+the  old  term  'matter*  can  be  displaced  by  some  other  term  connected  with 
+the  'curvature*  of  'space-time*. 
+
+There  is  on  record  a  striking  example  of  what  the  structure  of  a 
+form  of  representation  means.  In  a  paper  printed  in  the  Proceedings  of 
+the  National  Academy  of  Science,  February,  1926,  Professor  G.  Y. 
+Rainich,  the  mathematician,  tried -to  introduce  'mass*  into  space-time, 
+the  terms  belonging  to  forms  of  representation  of  different  structure. 
+He  succeeded,  but  at  the  price  of  splitting  space-time  into  the  original 
+space  and  time.  This  is,  as  far  as  my  knowledge  goes,  the  first  proof  of 
+how  intimately  a  form  of  representation  is  inwardly  and  structurally 
+interconnected.  This  fact  is  of  extraordinary  semantic  importance  for 
+psycho-logicians  and  psychiatrists,  who  always  study  symbolism  of  some 
+sort.  It  would  be  of  great  interest  to  have  such  problems  worked  out 
+by  them. 
+
+As  abstracting  in  many  orders  seems  to  be  a  general  process  found 
+in  all  forms  of  life,  but  particularly  in  humans,  it  is  of  importance  to  be 
+clear  on  this  subject  and  to  select  a  language  of  proper  structure.  As 
+we  know  already,  we  use  one  term,  say  'apple*,  for  at  least  four  entirely 
+different  entities;  namely,  (1)  the  event,  or  scientific  object,  or  the 
+sub-microscopic  physico-chemical  processes,  (2)  the  ordinary  object  manu¬ 
+factured  from  the  event  by  our  lower  nervous  centres,  (3)  the  psycho¬ 
+logical  picture  probably  manufactured  by  the  higher  centres,  and  (4)  the 
+verbal  definition  of  the  term.  If  we  use  a  language  of  adjectives  and 
+subject-predicate  forms  pertaining  to  'sense*  impressions,  we  are  using 
+a  language  which  deals  with  entities  inside  our  skin  and  characteristics 
+entirely  non-existent  in  the  outside  world.  Thus  the  events  outside  our 
+skin  are  neither  cold  nor  warm,  green  nor  red,  sweet  nor  bitter . ,  but 
+these  characteristics  are  manufactured  by  our  nervous  system  inside  our 
+skins,  as  responses  only  to  different  energy  manifestations,  physico¬ 
+chemical  processes , .  When  we  use  such  terms,  we  are  dealing  with  char¬ 
+acteristics  which  are  absent  in  the  external  world,  and  build  up  an 
+anthropomorphic  and  delusional  world  non-similar  in  structure  to  the 
+world  around  us.  Not  so  if  we  use  a  language  of  order,  relations,  or 
+structure,  which  can  be  applied  to  sub-microscopic  events,  to  objective 
+levels,  to  semantic  levels,  and  which  can  also  be  expressed  in  words.  In 
+using  such  language,  we  deal  with  characteristics  found  or  discovered  on 
+all  levels  which  give  us  structural  data  uniquely  important  for  knowledge. 
+The  ordering  on  semantic  levels  in  the  meantime  abolishes  identification. 
+It  is  of  extreme  importance  to  realize  that  the  relational.,  attitude  is 
+optional  and  can  be  applied  everywhere  and  always,  once  the  above- 
+
+UN  AHSTKACTINt; 
+
+mentioned  benefits  are  realized.  Thus,  any  object  can  be  considered  as  a 
+set  of  relations  of  its  parts . ,  any  ‘sense’  perception  may  be  considered  as 
+a  response  to  a  stimulus . ,  which  again  introduces  relations , .  As  relations 
+are  found  in  the  scientific  sub-microscopic  world,  the  objective  world, 
+and  also  in  the  psycho-logical  and  verbal  worlds,  it  is  beneficial  to  use 
+such  a  language  because  it  is  similar  in  structure  to  the  external  world 
+and  our  nervous  system;  and  it  is  applicable  to  all  levels.  The  use  of 
+such  a  language  leads  to  the  discovery  of  invariant  relations  usually 
+called  ‘laws  of  nature*,  gives  us  structural  data  which  make  the  only 
+possible  content  of  ‘knowledge*,  and  eliminates  also  anthropomorphic, 
+primitive,  and  delusional  speculations,  identifications,  and  harmful  s.r. 
+
+CHAPTER  XXV 
+
+ON  THE  STRUCTURAL  DIFFERENTIAL 
+
+You  cannot  recognise  an  event;  because  when  it  is  gone,  it  is  gone  .  .  . 
+But  a  character  of  an  event  can  be  recognised.  .  .  .  Things  which  we  thus 
+recognise  I  call  objects.  (573)  A.  N.  whitehead 
+
+When  there  is  a  judgment  of  identity  or  difference,  it  is  because  a  par¬ 
+ticular  associative  reaction  of  the  second  order  is  occurring,  conditioned 
+by  the  primary  reaction,  whether  the  same  or  different;  this  is  a  gain  in 
+perceptive  knowledge.  (4ii)  henri  pi£ron 
+
+To  some  extent,  the  practice  of  thinking,  deciding,  feeling,  appreciating, 
+and  sympathizing  molds  the  personality  of  the  thinker.  Presumably,  the 
+stable  patterns  of  cortical  association  are  changed  by  the  performance  of 
+these  acts  just  as  on  a  lower  plane  muscles  are  changed  by  systematic 
+exercises.  (222)  c.  judson  herrick 
+
+Experimental  analysis  of  the  memory  of  forms  insusceptible  of  symbolic 
+schematization  has  convinced  me  of  the  great  importance  of  ocular  kinaes- 
+thesia  and  the  small  part  played  by  visualization  in  nearly  all  individuals, 
+with  the  general  illusion  of  really  visual  representations,  a  very  strong 
+illusion,  especially  when  symbolic  and  verbal  schematization  is  possible. 
+Ideas  which  are  substituted  for  visual  representation,  and  play  tne  same 
+part,  are  easily  mistaken  for  it.  <4ii)  henri  pi£ron 
+
+The  eyes  of  the  dog  give  to  him  sometimes  a  more  intelligent  expression 
+than  that  of  his  master,  and  there  is  no  doubt  that  he  uses  them  to  very 
+good  advantage;  but  they  are  not  our  eyes.  (221)  c.  judson  herrick 
+
+Before  I  recapitulate,  in  the  form  of  a  structural  diagram,  what 
+has  been  said  in  the  previous  chapter,  I  must  explain  briefly  the  use  of 
+the  term  ‘event’.  The  introduction  of  new  terms  in  a  language  always 
+represents  initial  difficulties  to  the  student.  It  is  always  advisable,  if 
+only  possible,  to  introduce  terms  which  are  structurally  close  to  our 
+daily  experience.  At  present,  in  physics,  we  have  a  dual  language ;  one 
+of  ‘space-time*,  in  which  ‘matter*  is  connected  somehow  with  its  ‘curva¬ 
+ture*,  the  other  of  the  quanta.  The  structure  of  both  languages  is  quite 
+different,  and  at  present  scientists  have  not  succeeded  in  translating  one 
+language  into  the  other.  Einstein,  in  his  latest  unified  field  theory,  has 
+succeeded,  by  the  introduction  of  new  notions,  in  amalgamating  the 
+electromagnetic  phenomena  with  the  general  theory  of  relativity;  but 
+even  this  new  language  does  not  include  the  quantum  theory.  For  my 
+purpose,  it  is  important  to  amalgamate  both  languages  as  an  intuitive  pic¬ 
+torial  device,  which,  from  a  technical  point  of  view,  still  awaits  formula¬ 
+tion.  As  the  ‘space-time*  continuum  is  the  closest  to  our  daily  experience, 
+I  accept  the  language  of  ‘events*  as  fundamental  and  add  only  a  few 
+
+ON  THE  STRUCTURAL  DIFFERENTIAL 
+
+pictorial  notions  taken  from  the  quantum  theory.  There  is  no  doubt  that 
+the  day  is  not  far  off  when  the  unified  field  theory  will  be  extended  to 
+include  the  new  quantum  theory,  and  so  this  anticipation  does  not 
+appear  illegitimate. 
+
+If  we  take  something,  anything,  let  us  say  the  object  already  re¬ 
+ferred  to,  called  ‘pencil1,  and  enquire  what  it  represents,  according  to 
+science  1933,  we  find  that  the  ‘scientific  object'  represents  an  ‘event’,  a 
+mad  dance  of  ‘electrons',  which  is  different  every  instant,  which  never 
+repeats  itself,  which  is  known  to  consist  of  extremely  complex  dynamic 
+processes  of  very  fine  structure,  acted  upon  by,  and  reacting  upon,  the 
+rest  of  the  universe,  inextricably  connected  with  everything  else  and 
+dependent  on  everything  else.  If  we  enquire  how  many  characteristics 
+( m.o )  we  should  ascribe  to  such  an  event,  the  only  possible  answer  is 
+that  we  should  ascribe  to  an  event  infinite  numbers  of  characteristics,  as 
+it  represents  a  process  which  never  stops  in  one  form  or  another; 
+neither,  to  the  best  of  our  knowledge,  does  it  repeat  itself. 
+
+In  our  diagram,  Fig.  1,  we  indicate  this  by  a  parabola  (A),  which 
+is  supposed  to  extend  indefinitely,  which  extension  we  indicate  by  a 
+broken  off  line  (B).  We  symbolize  the  characteristics  by  small  circles 
+(C),  the  number  of  which  is  obviously  indefinitely  great. 
+
+Underneath,  we  symbolize  the  ‘object’  by  the  circle  (O),  which  has 
+a  finite  size.  The  characteristics  of  the  object  we  also  denote  by  similar 
+little  circles  (C').  The  number  of  characteristics  which  an  object  has 
+is  large  but  finite,  and  is  denoted  by  the  finite  number  of  the  small 
+circles  (C). 
+
+Then  we  attach  a  label  to  the  object,  its  name,  let  us  say  ‘pencil ', 
+which  we  indicate  in  our  diagram  by  the  label  (L).  We  ascribe,  also, 
+characteristics  to  the  labels,  and  we  indicate  these  characteristics  by  the 
+little  circles  (C"). 
+
+The  number  of  characteristics  which  we  ascribe  by  definition  to  the 
+label  is  still  smaller  than  the  number  of  characteristics  the  object  has. 
+To  the  label  ‘pencil/  we  would  ascribe,  perhaps,  its  length,  thickness, 
+shape,  colour,  hardness , .  But  we  would  mostly  disregard  the  accidental 
+characteristics,  such  as  a  scratch  on  its  surface,  or  the  kind  of  glue  by 
+which  the  two  wooden  parts  of  the  objective  ‘pencil'  are  held  together, . 
+If  we  want  an  objective  ‘pencil'  and  come  to  a  shop  to  purchase  one, 
+we  say  so  and  specify  verbally  only  these  characteristics  which  are  of 
+particular  immediate  interest  to  us. 
+
+It  is  clear  that  the  object  is  often  of  interest  to  us  for  some  special 
+characteristics  of  immediate  usefulness  or  value.  If  we  enquire  as  to  the 
+neurological  processes  involved  in  registering  the  object,  we  find  that  the 
+
+VII.  THE  MECHANISM  OF  TIM K- BINDING 
+
+Fig.  1 
+
+ON  THK  STRUCTURAL  1)1  IT  LKKNT1 AL  3W) 
+
+nervous  system  has  abstracted,  from  the  infinite  numbers  of  sub-micro¬ 
+scopic  characteristics  of  the  event,  a  large  but  finite  number  of  macro¬ 
+scopic  characteristics.  In  purchasing  a  ‘pencil’  we  usually  are  not 
+interested  in  its  smell  or  taste.  But  if  we  were  interested  in  these 
+abstractions,  we  would  have  to  find  the  smell  and  the  taste  of  our  object 
+by  experiment. 
+
+But  this  is  not  all.  The  object  represents  in  this  language  a  gross 
+macroscopic  abstraction,  for  our  nervous  system  is  not  adapted  for 
+abstracting  directly  the  infinite  numbers  of  characteristics  which  the  end¬ 
+lessly  complex  dynamic  fine  structure  of  the  event  represents.  We  must 
+consider  the  object  as  a  ‘first  abstraction’  (with  a  finite  number  of  char¬ 
+acteristics)  from  the  infinite  numbers  of  characteristics  an  event  has. 
+The  above  considerations  are  in  perfect  accord  not  only  with  the  func¬ 
+tioning  of  the  nervous  system  but  also  with  its  structure.  Our  nervous 
+system  registers  objects  with  its  lower  centres  first,  and  each  of  these 
+lower  specific  abstractions  we  call  an  object.  If  we  were  to  define  an 
+object,  we  should  have  to  say  that  an  object  represents  a  first  abstrac¬ 
+tion  with  a  finite  number  of  m.o  characteristics  from  the  infinite  num¬ 
+bers  oi  m.o  characteristics  an  event  has. 
+
+Obviously,  if  our  inspection  of  the  object  is  through  the  lower 
+nervous  centres,  the  number  of  characteristics  which  the  object  has  is 
+larger  (taste,  smell . ,  of  our  pencili)  than  the  number  of  characteristics 
+which  we  need  to  ascribe  to  the  label.  The  label,  the  importance  of  which 
+lies  in  its  meanings  to  us,  represents  a  still  higher  abstraction  from  the 
+event,  and  usually  labels,  also,  a  semantic  reaction. 
+
+We  have  come  to  some  quite  obvious  and  most  important  structural 
+conclusions  of  evaluation  of  the  non-el  type.  We  see  that  the  object 
+is  not  the  event  but  an  abstraction  from  it,  and  that  the  label  is  not  the 
+object  nor  the  event,  but  a  still  further  abstraction.  The  nervous  process 
+of  abstracting  we  represent  by  the  lines  (N),  (N').  The  characteristics 
+left  out ,  or  not  abstracted,  are  indicated  by  the  lines  (B'),  (B"). 
+
+For  our  semantic  purpose,  the  distinction  between  lower  and  higher 
+abstractions  seems  fundamental ;  but,  of  course,  we  could  call  the  object 
+simply  the  first  order  abstraction,  and  the  label,  with  its  meanings,  the 
+second  order  abstraction,  as  indicated  in  the  diagram. 
+
+If  we  were  to  enquire  how  this  problem  of  abstracting  in  different 
+orders  appears  as  a  limiting  case  among  animals,  we  should  select  a  defi¬ 
+nite  individual  with  which  to  carry  on  the  analysis.  For  our  analysis,  which 
+is  deliberately  of  an  extensional  character,  we  select  an  animal  with  a 
+definite,  proper  name,  corresponding  to  ‘Smith’  among  us.  Such  an 
+animal  suggests  itself  at  once  on  purely  verbal  grounds. 
+
+VJ1.  THE  MECHANISM  OF  TIME-BINDING 
+
+It  is  the  one  we  call  ‘Fido’.  Practically  all  English  speaking  people 
+are  acquainted  with  the  name  ‘Fido’.  Besides,  most  of  us  like  dogs  and 
+are  aware  of  how  ‘intelligent’  they  are. 
+
+Investigations  and  experimenting  have  shown  that  the  nervous 
+system  of  a  Fido  presents,  in  structure  and  function,  marked  similarities 
+to  that  of  a  Smith.  Accordingly,  we  may  assume  that,  in  a  general  way, 
+it  functions  similarly.  We  have  already  spoken  of  the  event  in  terms 
+of  recognition;  namely,  that  we  can  never  recognize  an  event,  as  it 
+changes  continually.  Whitehead  points  out  the  fundamental  difference 
+between  an  event  and  an  object  in  terms  of  recognition ;  namely,  that 
+an  event  cannot  be  recognized,  and  that  an  object  can  be  recognized. 
+He  defines  the  object  as  the  recognizable  part  of  the  event.  The  use  of 
+this  definition  helps  us  to  test  whether  Fido  has  'objects’.  Since  experi¬ 
+ments  show  that  Fido  can  recognize,  we  have  to  ascribe  to  Fido  objects 
+by  definition.  If  we  enquire  what  the  objects  of  Fido  represent,  the 
+structure  and  function  of  his  nervous  system,  which  are  very  similar  to 
+ours,  would  suggest  that  Fido’s  objects  represent,  also,  abstractions  of 
+some  low  order,  from  the  events.  Would  his  objects  appear  the  ‘same’ 
+as  ours?  No.  First  of  all,  the  abstractions  from  events  which  we  call 
+objects  are  not  the  ‘same’,  even  when  abstracted  by  different  individuals 
+among  humans.  An  extreme  example  of  this  can  be  given  in  that  lim¬ 
+ited  form  of  colour-blindness  which  is  called  Daltonism,  when  an  object 
+which  appears  green  to  most  persons  appears  red  to  the  certain  few 
+who  suffer  from  this  disease.  There  is,  at  present,  no  doubt  that  the 
+nervous  abstractions  of  all  organisms  are  individual,  not  only  with  each 
+individual,  but  at  different  'times’  with  one  individual,  and  differ,  also, 
+for  these  higher  groups  (abstractions)  which  we  call  species.  We  can 
+infer  how  the  world  appears  to  a  particular  organism  only  if  its  nervous 
+structure  is  quite  similar  to  our  own.  With  species  widely  separated 
+neurologically,  such  inferences  are  entirely  unjustified.  So,  on  general 
+grounds,  the  'objects’  of  Fido  are  not  the  'same’  as  ours ;  on  neurologi¬ 
+cal  grounds,  they  appear  only  similar.  In  daily  experience,  we  know  that 
+we  should  have  difficulty  in  recognizing  our  own  glove  among  a  thou¬ 
+sand,  but  Fido  could  perform  this  detection  for  us  much  better.  So  the 
+'same’  glove  must  have  been  registered  in  the  nervous  system  of  Fido 
+differently  from  the  way  it  has  been  in  ours. 
+
+We  indicate  this  similarity  of  the  human  object  (O*)  and  the  ani¬ 
+mal  object  (Oa)  by  making  the  circle  (Oa)  smaller,  and  emphasize  the 
+difference  between  the  objects  by  differently  spacing  the  holes  represent¬ 
+ing  the  characteristics.  Whether  we  call  the  objects  (O*)  and  (Oa) 
+'first  order’  abstractions  or  '100th  order’  abstractions,  or  simply  'lower 
+
+ON  TIIK  STRUCTURAL  I )1  FFKKKNT1AI 
+
+Fig.  2 
+
+order*  abstractions,  is  mainly  optional.  There  is  no  neurological  doubt 
+that  all  'objects’  represent  low  order  abstractions  and  the  use  of  a  num¬ 
+ber  to  indicate  the  order  is  simply  a  matter  of  convention  and  con¬ 
+venience.  If  we  were  to  start  with  the  simplest  living  cell,  we  might 
+ascribe  to  its  abstractions  the  term  'first  order*  abstractions.  If  we  were 
+to  survey  in  this  way  all  known  forms  of  life,  we  might  ascribe  to  Fido 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+and  Smith  very  large  numbers  as  their  orders  of  abstractions.  But  this 
+is  unnecessary,  as  we  shall  presently  see. 
+
+We  note  that  Fido  dpes  abstract  from  events,  at  any  rate,  in  lower 
+orders,  ‘has  objects’  (Oa)  which  he  can  recognize.  The  question  is, 
+does  he  abstract  in  higher  orders  ?  We  might  answer  that  he  does  within 
+certain  limits.  Or,  we  might  prefer  to  take  the  limits  of  his  abstracting 
+capacities  for  granted  and  to  include  them  all  as  lower  order  abstractions. 
+For  the  sake  of  convenience  and  simplicity,  we  select  the  last  method  and 
+say  that  he  does  not  abstract  in  higher  orders.  In  our  schematic  repre¬ 
+sentation,  we  shall  discover  some  very  important  differences  between 
+the  abstracting  capacities  of  humans  and  animals,  and  so  we  introduce 
+here  only  as  much  complexity  as  we  need.  As  animals  have  no  speech, 
+in  the  human  sense,  and  as  we  have  called  the  verbal  labelling*  of  the 
+object  ‘second  order  abstraction’  we  say  that  animals  do  not  abstract  in 
+higher  orders. 
+
+If  we  compare  our  diagram  and  what  it  represents  with  the  well- 
+known  facts  of  daily  life,  we  see  that  Smith’s  abstracting  capacities  are 
+not  limited  to  two  orders,  or  to  any  V  orders  of  abstractions. 
+
+In  our  diagrams,  the  label  (L)  stands  for  the  name  which  we 
+assigned  to  the  object.  But  we  can  also  consider  the  level  of  the  first 
+label  (L)  as  a  descriptive  level  or  statement.  We  know  very  well  that 
+Smith  can  always  say  something  about  a  statement  (L),  on  record. 
+Neurologically  considered,  this  next  statement  (Li)  about  a  statement 
+(L)  would  be  the  nervous  response  to  the  former  statement  (L)  which 
+he  has  seen  or  heard  or  even  produced  by  himself  inside  his  skin.  So  his 
+statement  (L*),  about  the  former  statement  (L),  is  a  new  abstraction 
+from  the  former  abstraction.  In  my  language,  I  call  it  an  abstraction 
+of  a  higher  order.  In  this  case,  we  shall  be  helped  by  the  use  of  num¬ 
+bers.  If  we  call  the  level  (L)  an  abstraction  of  second  order ,  we  must 
+call  an  abstraction  from  this  abstraction  an  abstraction  of  third  order , 
+(Li).  Once  an  abstraction  of  third  order  has  been  produced,  it  becomes, 
+in  turn,  a  fact  on  record,  potentially  a  stimulus,  and  can  be  abstracted 
+further  and  a  statement  made  about  it,  which  becomes  an  abstraction  of 
+the  fourth  order  (L2).  This  process  has  no  definite  limits,  for,  when¬ 
+ever  statements  of  any  order  are  made,  we  can  always  make  a  statement 
+about  them,  and  so  produce  an  abstraction  of  still  higher  order.  This 
+capacity  is  practically  universal  among  organisms  which  we  call 
+‘humans*.  Here  we  reach  a  fundamental  difference  between  ‘Smith* 
+
+*In  the  present  system  the  terms  ‘label’,  ‘labelling’.,  are  always  connected  with 
+their  meanings,  and  so,  for  simplicity,  from  now  on  the  reference  to  meanings 
+will  be  omitted. 
+
+ON  THE  STRUCTURAL  DIFFERENTIAL 
+
+Fig.  3 
+
+The  Structural  Differential 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+and  ‘Fido’.  Fido’s  power  of  abstracting  stops  somewhere ,  although  it 
+may  include  a  few  orders.  Not  so  with' ‘Smith* ;  his  power  of  abstracting 
+has  no  known  limit  (see  Part  VI). 
+
+Perhaps  the  reader  is  semantically  perplexed  by  the  unfamiliarity 
+of  the  language  of  this  analysis.  It  must  be  granted  that  the  introduction 
+of  any  new  language  is  generally  perplexing,  and  it  is  justified  only  if 
+the  new  language  accomplishes  something  structurally  and  semantically 
+which  the  old  languages  did  not  accomplish.  In  this  case,  it  has  brought 
+us  to  a  new  sharp  distinction  between  ‘man*  and  ‘animal*.  The  number 
+of  orders  of  abstractions  an  ‘animal’  can  produce  is  limited.  The  number 
+of  orders  of  abstractions  a  ‘man*  can  produce  is,  in  principle,  unlimited . 
+
+Here  is  found  the  fundamental  mechanism  of  the  ‘time-binding* 
+power  which  characterizes  man,  and  which,  allows  him,  in  principle,  to 
+gather  the  experiences  of  all  past  generations.  A  higher  order  abstrac¬ 
+tion,  let  us  say,  of  the  n- (-1  order,  is  made  as  a  response  to  the  stimulus 
+of  abstractions  of  the  «th  order.  Among  ‘humans*  the  abstractions  of 
+high  orders  produced  by  others,  as  well  as  those  produced  by  oneself 
+are  stimuli  to  abstracting  in  still  higher  orders.  Thus,  in  principle,  we 
+start  where  the  former  generation  left  off.  It  should  be  noticed  that,  in 
+the  present  analysis,  we  have  abandoned  the  structurally  el  methods  and 
+language,  and  the  whole  analysis  becomes  simple,  although  non^familiar 
+because  it  involves  new  non-el  s.r. 
+
+The  preceding  explanation  justifies  my  former  statement  that  the 
+ascribing  of  absolute  numbers  to  the  orders  of  abstractions  of  /animal* 
+and  of  ‘man*  is  unnecessary.  In  our  diagram  we  could  ascribe  as  many 
+orders  of  abstractions  to  the  animal  as  we  please  ;  yet  we  should  have 
+to  admit,  for  the  structural  correctness  of  description  of  experimental 
+facts,  that  the  ‘animal’s’  power  of  abstracting  has  limits,  while  the  num¬ 
+ber  of  orders  of  abstractions  a  ‘man*  can  produce  has  no  known  limits. 
+
+From  an  epistemological  and  semantic  point  of  view,  there  is  an 
+important  benefit  in  this  method.  In  this  language,  we  have  discovered 
+sharp  verbal  and  analytical  methods,  in  terms  of  the  non-el  ‘orders  of 
+abstractions*,  by  which  these  two  ‘classes  of  life’,  or  these  two  high 
+abstractions,  can  be  differentiated.  The  terms  ‘animal*  and  ‘man*  each 
+represent, a  name  for  an  abstraction  of  very  high  order,  and  not  a  name 
+for  an  objective  individual.  To  formulate  the  difference  between  these 
+‘classes*  becomes  a  problem  of  verbal  structural  ingenuity  and  methods , 
+as  in  life  we  deal  only  with  absolute  individuals  on  the  un-speakable, 
+objective  levels.  In  our  diagram,  we  could  hang  on  the  ‘animal*  object 
+as  many  levels  of  labels,  which  stand  for  higher  order  abstractions,  as 
+
+ON  THE  STRUCTURAL  DIFFERENTIAL 
+
+we  please ;  yet  somewhere  we  would  have  to  stop ;  but  with  ‘man'  we 
+could  continue  indefinitely. 
+
+This  sharp  difference  between  ‘man’  and  ‘animal’  may  be  called  the 
+1 horizontal  difference?.  The  habitual  use  of  our  hands  in  showing  these 
+different  horizontal  levels  is  extremely  useful  in  studying  this  work,  and 
+it  facilitates  greatly  the  acquiring  of  the  structurally  new  language  and 
+corresponding  s.r.  The  solution  of  the  majority  of  human  semantic 
+difficulties  (evaluation),  and  the  elimination  of  pathological  identifica¬ 
+tion,  lie  precisely  in  the  maintenance,  without  confusion,  of  the  sharp 
+differentiation  between  these  horizontal  levels  of  orders  of  abstractions. 
+
+Let  us  now  investigate  the  possibility  of  a  sharp  ‘vertical  differ¬ 
+ence \  We  have  already  come  to  the  conclusion  that  Fido  abstracts 
+objects  from  events,  and  that,  if  his  nervous  system  is  similar  to  ours, 
+his  lower  order  abstractions  are  similar  to  ours.  Here  we  may  ask  the 
+question:  Does  Fido  ‘know’,  or  can  he  ‘know’,  that  he  abstracts?  It 
+seems  undeniable  that  Fido  does  not  ‘know’  and  cannot  ‘know/  that 
+he  abstracts,  because  it  takes  science  to  ‘know*  that  we  abstract,  and 
+Fido  has  no  science.  It  is  semantically  important  that  we  should  be 
+entirely  convinced  on  this  point.  We  do  not  argue  about  the  kind  of 
+‘knowledge’  animals  may  have  or  about  the  relative  value  of  this  ‘knowl¬ 
+edge’  as  compared  with  ours.  Science  was  made  possible  by  the  human 
+nervous  system  and  the  invention  of  extra-neural  means  for  investiga¬ 
+tion  and  recording,  which  animals  lack  entirely.  Whoever  claims  that 
+animals  have  science  should,  to  say  the  least,  show  libraries  and  scientific 
+laboratories  and  instruments  produced  by  animals. 
+
+We  see  that,  although  Fido  has  abstracted,  he  not  only  does  not 
+‘know’  but  cannot  ‘know’  that  he  abstracts,  as  this  last  ‘knowledge’  is 
+given  exclusively  by  science,  which  animals  do  not  have.  In  this  con¬ 
+sciousness  of  abstracting,  we  find  a  most  important  ‘ vertical  difference ’ 
+between  Smith  and  Fido .  The  difference  is  sharp  again. 
+
+If,  in  our  diagram,  Fig.  4,  we  ascribe  to  Fido  more  horizontal 
+orders  of  abstractions,  let  us  say  two,  (Hi)  and  (H2),  nevertheless,  the 
+‘animal’  stops  somewhere.  This  extended  diagram  illustrates  that  ‘man’ 
+is  capable  of  abstracting  in  higher  and  higher  orders  indefinitely.  In 
+this  diagram,  we  symbolize  the  fact  that  Fido  does  not  and  cannot 
+‘know’  that  he  abstracts,  by  not  connecting  the  characteristics  of  his 

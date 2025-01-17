@@ -1,0 +1,500 @@
+a  definition  which  is  entirely  satisfactory  theoretically,  and  also  practically,  as 
+can  be  verified  from  our  example. 
+
+From  this  point  of  view  we  may  consider  a  matrix  as  a  complex  quantity 
+with  mn  or  m2  components.  A  matrix  would  then  represent  a  complex  quantity, 
+as  a  special  case  under  the  general  method  sketched  above. 
+
+We  could  then  define  our  further  operations.  A  matrix  would  be  said  to 
+be  zero  when  all  elements  are  equal  to  zero.  Two  matrices  would  be  said  to  be 
+equal  when  they  have  equal  numbers  of  rows  and  columns  and  every  element 
+of  one  is  equal  to  the  corresponding  element  of  the  other. 
+
+By  setting  up  some  such  rules  we  could  develop  a  calculus  of  matrices,  and 
+matrices  would  be  considered  as  complex  numbers.  In  general,  the  algebraic 
+rules  would  be  found  to  be  applicable  to  matrices,  which  would  further  justify 
+us  in  treating  matrices  as  complex  numbers. 
+
+One  of  the  notable  exceptions  in  our  operations  would  be  found  in  the 
+application  of  the  classical  operation  of  multiplication  and  its  dependencies. 
+In  ordinary  algebra  and  arithmetic,  multiplication  is  what  is  called  commu¬ 
+tative’  which  means  that  2  X3  =  3x2=6,  or  axb-b  Xa* 
+
+In  defining  the  multiplication  of  matrices  we  have  no  a  priori  grounds  for 
+determining  why  one  definition  or  restriction  should  be  preferable  to  another. 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER* 
+
+Only  practice  can  show  which  definition  is  more  workable  or  more  fruitful  in 
+results.  In  the  matrix  calculus  the  definition  of  Cayley  is  generally  accepted, 
+as  it  has  led  to  the  most  workable  results.  It  was  based  on  considerations  of 
+the  composition  of  linear  tranformations. 
+
+The  definition  is  approximately  as  follows:  The  product  ab  of  two  square 
+matrices  of  the  n- th  order  gives  a  square  matrix  of  the  n-th  order  in  which  the 
+element  which  lies  in  the  i~ th  row  andj-th  column  is  obtained  by  multiplying 
+each  element  of  the  f-th  row  of  a  by  the  corresponding  element  of  the  j-th 
+column  of  b  and  adding  the  results. 
+
+If  we  denote  by  a and  b a  the  elements  in  the  V-th  row  and  j-th  column  of 
+a  and  b  respectively,  then  by  definition  the  element  (ij)  of  our  product  ab 
+would  give, 
+
++Gt2&2j  +  *  *  *  (5) 
+
+and  the  (ij)  element  in  the  matrix  ba  would  be 
+
+aijbn  +<Hj^*2  +  *  •  *  +flB /&<»•  (6) 
+
+In  general,  the  quantities  (5)  and  (6)  are  not  equal  and  therefore  we  see 
+that  the  multiplication  of  matrices  is,  in  general,  not  commutative.  The  order  in 
+which  we  perform  our  multiplication  is  of  importance  and  ab  is  not  generally 
+equal  to  ba,  (ab^  ba).5 
+
+It  should  be  noticed  that  the  vector  calculus  has  made  us  familiar  with 
+new  operations  which  differ  from  arithmetical  operations.  For  instance,  the 
+sum  of  two  vectors  differs  in  general  from  the  arithmetical  sum  and  is  defined 
+by  the  law  of  the  parallelogram  (see  Chapter  XXXIII).  This  definition  is 
+more  general,  and  the  arithmetical  definition  expresses  only  the  particular  case 
+in  which  the  vectors  have  one  direction.  Similarly,  the  non-commutative  law 
+of  multiplication  corresponds  more  closely  to  vector  multiplication  than  to 
+arithmetical  multiplication. 
+
+We  will  not  go  further  into  the  details  of  the  matrix  calculus,  which  is  a 
+well-developed  mathematical  discipline  with  a  large  literature,  but  will  empha¬ 
+size  some  methodological  points  of  importance. 
+
+One  of  the  main  applications  of  the  theory  of  matrices  is  found  in  the 
+subject  of  linear  transformations . 
+
+In  mathematics,  instead  of  using  the  given  variables,  we  very  often  intro¬ 
+duce  new  variables  which  are  functions  of  the  old.  Such  transformations,  or 
+change  of  variables,  are  particularly  simple  and  important  when  the  functions 
+in  question  are  homogeneous  and  linear. 
+
+If  xu  xz,  .  .  .  ,  xn  represent  the  original  variables,  and  xi,  .  .  .  ,  xnf  the 
+new  variables,  we  have,  by  definition,  the  formulae  of  transformations: 
+
+- \-alnxn 
+
+Xn=aniXi-i - bannXn- 
+
+The  square  matrix  made  up  of  the  coefficients  is  called  the  matrix  of  the  trans¬ 
+formation  and  the  determinant  is  called  the  determinant  of  the  transformation 
+and  is  completely  determined  by  the  matrix.  We  have  already  seen  the  import¬ 
+ance  of  linear  equations  and  linear  transformations  in  physics  and  therefore  in 
+
+THE  NEWER  ‘MATTER1 
+
+the  investigation  of  the  world  around  us.  The  theory  of  matrices  is  connected 
+with  such  transformations,  hence  the  importance  of  the  theory  of  matrices  for 
+physics. 
+
+For  our  purpose  another  characteristic  of  the  matrix  calculus  is  of  interest 
+and  that  is  the  fact  that  in  physics  we  usually  have  a  large  number  of  empirical 
+numerical  data  which  enter  as  coefficients  in  equations  and  which  can  always 
+be  put  in  the  form  of  a  two-dimensional  array  of  numbers,  or  a  table,  which 
+we  have  just  called  a  matrix. 
+
+It  appears  that  every  physical  quantity,  however  complicated,  can  be 
+represented  by  such  a  table  giving  the  values  of  the  parameters  which  determine 
+its  character.  From  the  definition  of  the  term  ‘variable'  as  any  value  out  of 
+a  possible  range  of  values,  we  might  treat  our  variables  in  two  distinct  ways, 
+one  from  the  point  of  view  of  function  or  operations,  the  other  from  the 
+extensional  point  of  view,  when  the  function  or  operations  are  unknown,  although 
+the  particular  values  of  the  variable  are  given.  The  matrix  calculus  takes  this 
+last  point  of  view. 
+
+In  physical  research  work  we  deal  for  the  most  part  with  arrays  of  numbers 
+or  unique  and  specific,  mostly  asymmetrical,  relations  which  the  experiments 
+give  us.  Our  usual  problem  is  to  find  the  structure,  the  function,  and  the 
+operations  which  are  satisfied  by  the  given  experimental  relations. 
+
+We  see  that  the  dual  approach  to  our  solutions  is  due  entirely  to  the  defini¬ 
+tion  which  we  have  accepted  for  the  variable.  We  have  two  issues:  Either  to 
+find  the  values  of  the  variable  which  satisfy  the  given  function  and  operations 
+or,  having  particular  values  of  the  variable  (experimental),  to  find  the  function 
+and  operations. 
+
+Obviously  every  physical  quantity  can  be  represented  by  a  matrix,  which 
+may  be  a  sequence,  and  every  mathematical  theorem  can  be  reduced  to  a 
+property  of  matrices.  Once  the  proper  mathematical  theories  are  worked  out 
+it  will  be  always  possible  to  pass  from  one  form  of  representation  to  the  other.6 
+
+In  the  older  mechanics  the  functions  were  rather  obvious  and  so  the  use 
+of  the  matrix  calculus  was  not  so  imperative.  In  the  newer  mechanics,  the 
+opposite  is  the  case.  We  have  a  large  amount  of  numerical  experimental 
+relations,  but  the  functions  and  operations  connecting  these  variables  are 
+unknown  and  the  problem  is  to  find  them.  From  this  point  of  view  the  matrix 
+calculus  represents  an  extensional  calculus,  a  calculus  of  observation .  In  using 
+the  descriptive  term  ‘observation’  we  must  add  that  some  objections  have 
+been  advanced  to  such  a  use  of  the  term.  The  answer  is  that  the  term  ‘observa¬ 
+tion’,  like  most  of  our  most  important  terms,  must  be  considered  a  multiordinal 
+term .  Once  this  is  understood  the  objections  to  the  use  of  the  term  do  not  hold. 
+
+There  is  no  limitation  as  to  what  the  elements  of  a  matrix  may  represent; 
+they  may  be  functions,  functions  of  functions  ,  . 
+
+Section  D .  The  operator  calculus. 
+
+The  use  of  the  operator  calculus  is  interesting,  structurally  and  psycho¬ 
+logically,  in  that  attention  is  concentrated,  not  on  the  numerical  quantities, 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+but  on  the  semantic  operations  of  combining  them.  The  calculi  used  in  the 
+newer  quantum  mechanics  are  peculiar,  because,  while  they  retain  the  numerical 
+data  and  as  far  as  possible,  the  classical  equations,  they  alter  the  operations 
+by  which  these  quantities  are  combined,  or  the  interpretation  of  the  equations. 
+
+As  an  illustration  of  such  a  procedure  we  can  take  two  different  formulae 
+for  the  addition  of  velocities!  one  from  the  classical  mechanics,  where 
+
+^13  =  ^12  +  ^23,  (1) 
+
+and  the  other,  the  formula  for  velocity  as  given  by  the  Einstein  theory;  namely, 
+
+yn-Y*  +  V»  . 
+
+(2) 
+
+c2 
+
+In  these  formulae  Vlt  represents  the  velocity  of  body  1  relative  to  body  2 
+!n  formuk  (1)  the  sign  '+’  symbolizes  the  ordinary  arithmetical  operation  of 
+addition.  As  we  already  know,  this  formula  has  proven  too  simple  to  represent 
+accurately  the  experimental  data,  and  Einstein  has  replaced  it  by  the  more 
+elaborate  formula  (2). 
+
+The  above  statement  is  the  usual  way  of  speaking  about  the  modification 
+m  formulation  which  has  taken  place  in  physics  since  Einstein.  But  we  could 
+equally  well  say  that  the  formula  has  not  been  altered  except  that  the  '  +’  has 
+no  longer  the  old  meaning  and  does  not  now  represent  the  arithmetical  operation 
+of  addition.  Both  points  of  view  lead  ultimately  to  one  value,  F18,  and  the 
+computations  are  similar  in  both  cases. 
+
+We  should  notice  especially  the  great  freedom  with  which  we  can  treat 
+mathematical  entities.  Our  voluntary  selection  of  the  point  of  view  becomes 
+important.  A  similar  freedom  of  selection  of  interpretation  appears  to  a  still 
+larger  extent  in  all  verbal  problems,  a  fact  of  considerable  structural  and  semantic 
+importance  m  any  theory  of  sanity,  as  we  have  already  seen. 
+
+Further  illustration  of  this  freedom  can  be  seen  in  the  way  in  which  the 
+ordinary  notion  of  multiplication  is  re-interpreted  in  the  operator  calculus 
+Let  us  denote  by  g  and/,  two  numerical  quantities,  and  g/as  their  product. 
+But  we  could  view  this  problem  differently.  We  could  say  that  qf  results  from 
+a  semantic  operation  q  performed  on  /,  or  a  semantic  operator  (g  x)  acting 
+upon  /  which  transformed  /  into  qf.  We  could  denote  the  operation  of  multi¬ 
+plying  by  g  or  the  operator  (g  x)  by  a  single  symbol  Q.  Quite  obviously  the 
+operator  Q  is  not  the  number  g;  in  other  words,  the  semantic  operation  of 
+multiplying,  say  by  two,  is  not  the  number  2. 
+
+The  operation  of  multiplying  integer  1  by  integer  2  gives  the  result  2. 
+Similarly,  the  operation  of  multiplying  1  by  q,  or,  in  our  new  language,  the 
+application  of  the  operator  Q  to  the  integer  1,  gives  q.  In  symbols,  01  =g. 
+If  we  take  any  arbitrary  function/,  the  result  of  the  operation  of  Q  upon  /  is 
+
+THE  NEWER  ‘MATTER’ 
+
+written  Qf-qf.  If  we  were  to  follow  the  operation  Q  by  the  differential  operation 
+i/dx  the  result  would  be*: 
+
+But  as  /  is  arbitrary,  it  jnay  be  omitted  from  the  equations  and  the  result 
+written  in  the  operator  form  as 
+
+The  symbol 
+
+dQ 
+
+dX' 
+
+defined  by  this  equation,  should  be  read  as  'the  operation  of 
+
+multiplying  by  dq/dx\  Similarly, 
+
+d(QF)_dQp  dP 
+dX  dX  VdX  * 
+
+In  translating  the  ordinary  equations  into  the  language  of  operators  nothing 
+new  is  introduced.  This  translation  involves  only  a  change  of  lmentaV  focus. 
+Instead  of  concentrating  our  attention  on  the  numerical  values  we  concentrate 
+on  the  operations  of  combining  them.  Since  the  great  problems  of  the  quantum 
+mechanics  consist  in  finding  new  methods  of  computation,  or  of  combining 
+numerical  values,  such  a  change  of  attitude  may  prove  to  be  structurally  useful. 
+
+It  should  be  noticed  here  that  once  matrices  are  considered,  and  treated, 
+as  quantities,  or  unique  and  specific  relations,  by  similar  reasoning  they  can 
+be  treated  as  operators.  This  problem  is  of  fundamental  structural  and  semantic 
+importance  because  in  the  quantum  theory  we  deal  with  matrices  which  have 
+infinite  numbers  of  terms  and  since  this  complexity  presents  great  technical 
+difficulties  it  is  of  enormous  advantage  to  be  able  to  pass  to  some  more 
+developed  methods  of  calculation. 
+
+At  the  preliminary  stage  in  the  operator  calculus  we  have  assumed  that 
+multiplication  was  commutative,  that  QP=PQ;  but  in  the  further  and  more 
+general  development  of  the  theory,  this  does  not  hold. 
+
+In  general  we  must  assume  in  the  operator  calculus  that  multiplication  is 
+not  commutative,  that  QP 9^  PQ .  For  instance,  if  ()  =  (?X)  and  P  =d/dq,  the 
+two  operations  are  certainly  not  commutative.  Naturally,  the  validity  of 
+2X2  -  4  is  not  doubted,  but  generalized  non-commutative  multiplication  has  a 
+definite  asymmetrical  and  so  structural  geometrical  interpretation,  to  be  found 
+in  the  vector  calculus.  When  we  associate  with  each  numerical  quantity  its 
+own  operation  of  multiplication  we  thus  obtain  a  more  general  calculus. 
+Operators  may  be  regarded  as  compound,  or  built  up  from  the  elementary 
+arithmetical  operations  of  addition  and  multiplication.  They  represent,  so  to 
+say,  functions  of  these  operations.7 
+
+♦The  operator  Dxt  also  written  d/dxy  is  called  a  differential  operator.  If  applied 
+to  a  product  (mp)  the  results  are  given  by  the  formula  Dx(uv)  =  uDxv+vDxu . 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER* 
+
+Section  E.  The  new  quantum  mechanics . 
+
+The  mam  problem  of  the  quantum  theory  is  to  determine  these  functions 
+o  the  operations,  so  that  the  solution  of  certain  equations  (hamiltonian)  may 
+represent  the  experimental  facts.  The  original  equations  of  the  new  mechanics 
+o  Heisenberg,  Born,  and  Jordan  were  frankly  founded  on  an  empirical  basis. 
+As  Dirac  puts  it,  m  seeking  for  the  new  equations,  the  classical  equations  were 
+to  be  retained  as  far  as  possible  and  only  the  operations  by  which  these  quantities 
+are  combined  were  to  be  altered. 
+
+To  gain  this  freedom  to  alter  multiplication  the  data  were  first  interpreted 
+as  matrices.  Then  it  was  found,  by  Born  and  Wiener,  that  the  matrices  could 
+be  interpreted  as  a  special  kind  of  operator,  which  furnished  means  to  calculate 
+the  matrices.  Carl  Eckart  independently  developed  a  simple  operator  calculus 
+or  the  solution  of  the  quantum  problems.  In  this  present  work  I  follow  closely 
+the  paper  of  Eckart.7 
+
+The°r.!gin°f  thC  ”eW  t»uantum  mechanics  was  an  epoch-making  paper  by 
+Werner  Heisenberg,  in  July,  1925.  The  older  quantum  theory  had  postulated 
+the  existence  of  stationary  states  of  the  atom,  which  were  calculated  with  the 
+aid  of  the  older  mechanics.  In  the  new  mechanics  the  equations  have  similar 
+form  as  in  the  classical  theory,  but  the  variables  no  longer  obey  the  commutative 
+aw  of  multiplication.  In  general  pq  is  not  equal  to  qp,  (pq  =gp  and  pq  -qp  =0 
+
+in  the  classical  theory)  but  =  where  h  represents  the  Planck  co„. 
+
+slant,  q  the  generalized  co-ordinate,  p  the  momentum,  1  stands  for  the  unit 
+matrix,  and  n  and  t  have  the  usual  meaning.  The  fact  that  multiplication  is 
+not  commutative  m  our  calculus  allows  us  to  give  a  definite  value  to  the  above 
+difference  and  by  introducing  the  Planck  constant  h,  we  are  enabled  to  intro¬ 
+duce  the  quantum  conditions  in  our  calculations. 
+
+The  quantum  conditions  of  the  older  theory  led  to  an  algebraic  equation, 
+y  using  the  classical  equation  with  a  non-commutative  multiplication  law  for 
+the  variables  it  is  possible  to  perform  calculations  in  the.  new  and  wider  scheme 
+of  dynamics.  The  difference  between  pq  and  qp  is  expressed  in  terms  of  the 
+Planck  constant  h  When  h  is  made  to  approach  zero,  pq  approaches  qp,  and 
+so  we  pass  to  the  classical  mechanics.  Thus  we  see  that  the  classical  mechanics 
+appear  only  as  a  particular  case  of  this  more  general  theory. 
+
+In  introducing  his  theory,  Heisenberg  pointed  out  that  the  older  mechanics 
+uses  quantities  which  are  never  observable,  and  can  never  be  observed,  such  as,  for 
+instance,  orbital  frequencies  and  amplitudes,  or  the  position  and  ‘time’  of 
+revolution  of  an  ‘electron’.  ,  which,  as  such,  have  no  physical  meaning.  He 
+proposes  to  use  observable  data,  such  as  the  frequencies  and  intensities  of  the 
+radiations  ,  .  Now  these  frequencies  are  always  differences  between  two  terms 
+pven  by  integers.  If  Tn  and  Tm  are  two  such  terms,  the  observable  frequency 
+is  eoretica  y  represented  by  vnm  =  Tn  —  Tm.  Such  numbers  as  v„m  characterize 
+riie  atom  as  far  as  it  is  observable.  It  was  natural  that  such  a  collection  (‘sum’ 
+m  this  case  has  no  longer  any  physical  meaning)  of  terms  could  best  be 
+represented  by  a  matrix.  In  the  classical  theory  a  dynamical  quantity  was 
+
+THE  NEWER  'MATTER* 
+
+represented  structurally  by  a  trigonometrical  Fourier  series;  in  the  new,  it 
+is  represented  by  a  two-dimensional  table  of  values;  that  is,  by  a  matrix  giving 
+the  frequencies  and  the  intensities  of  radiations. 
+
+An  important  and  interesting  structural  issue  now  appears.  It  is  that  the 
+Heisenberg  theory  gives  a  new  formulation  for  the  hamiltonian  equations  of 
+motion,  whereby  their  form  is  preserved,  yet  they  are  made  applicable  both  to 
+periodic  and  to  non-periodic  motion.  It  becomes  possible  to  fuse  the  classical 
+mechanics  with  the  quantum  mechanics.  The  distinction  between  ‘quantised’ 
+and  ‘unquantised’  motion  loses  all  meaning,  and  a  fundamental  equation, 
+h 
+
+pq~~qp  — —  1,  is  formulated  which  is  valid  for  all  motion . 
+
+2  wi 
+
+The  Heisenberg  theory  is  also  characterized  by  its  thoroughly  behaviour- 
+istic,  actional,  functional,  and  operational  character.  The  number  of  unjusti¬ 
+fiable  assumptions  is  the  lowest  in  existence  and  most  of  the  identifications  are 
+eliminated.  According  to  Heisenberg,  electrons  and  atoms  do  not  have  the 
+‘same’  kind  of  ‘reality’  as  ordinary  objects  of  lower  order  abstractions.  This  con¬ 
+clusion,  which  underlies  his  whole  work,  is  of  particular  importance  structurally. 
+As  we  know,  differences  in  character  separate  different  orders  of  abstraction 
+and  since  the  quantum  phenomena  belong  to  a  higher  order  of  abstraction  they 
+must  differ  from  objects  which  belong  to  a  lower  order  of  abstraction.  In  this 
+theory  the  feelings  of  ‘space’  and  ‘time’  are  no  longer  applicable  to  the  ‘inside’ 
+of  the  atom — as  might  be  expected. 
+
+The  distinction  between  ‘inner’  and  ‘outer’  electrons  in  an  atom  becomes 
+meaningless,  since  it  is  impossible  to  recognize  a  particular  entity  among  a 
+series  of  similar  entities.  In  accordance  with  the  new  ‘space- time’  outlook  we 
+gain  a  physical  basis  for  the  absolute  individuality  of  some  eventual  unit. 
+
+Because  of  its  structure,  the  Heisenberg  theory  is  a  very  fundamental  one 
+and  there  is  little  doubt  that  the  Heisenberg  methods  will  be  elaborated  further 
+and  will  be  kept  as  a  permanent  checking  method  in  physics.  A  theory  which  is 
+thoroughly  behaviouristic,  with  a  minimum  of  assumptions,  will  probably  re¬ 
+main  both  a  most  important  instrument  of  research  and  an  inspiration  to 
+physicists  and  mathematicians. 
+
+The  Heisenberg  theory,  again,  because  of  its  structure  and  method,  does 
+not  lend  itself  easily  to  visualization.  This  is  not  against  the  theory.  The 
+pictorial  representations  of  lower  order  abstractions  are  not  to  be  relied  upon. 
+Besides,  visualization  depends  on  the  lower  centres  and  therefore  must  be  rep¬ 
+resented  by  a  macroscopic  representation  of  a  continuous  (rather  than  a  discrete) 
+character,  such  as  waves  ,  . 
+
+^f  we  were  to  try  to  describe  the  Heisenberg  theory  pictorially,  which  is 
+obviously  difficult  to  do,  we  would  have  to  give  a  negative  description.  We 
+should  have  to  say  that  what  we  observe  must  be  considered  only  as  radiations 
+from  the  location  which  the  atom  was  supposed  to  occupy.8 
+
+There  remains  but  to  mention  some  more  characteristics  of  the  Heisenberg 
+theory  which  seem  to  have  very  far-reaching  structural  and  semantic  bearings 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER* 
+
+This  theory  appears  frankly  statistical  and  introduces  fundamental  probability 
+assumptions.  The  moment  we  realize  that  the  human  organism  is  essentially 
+an  abstracting  affair  and  that  the  abstracting  is  performed  on  different  levels, 
+or  in  different  orders,  it  becomes  obvious  that  statistical  methods  and  proba¬ 
+bility  notions  become  fundamental. 
+
+In  the  earlier  days  we  used  to  assume  that  statistical  laws  were  laws  with 
+exceptions.  Such  an  outlook  was  conditioned  by  our  dealings  with  macroscopic 
+events.  Now,  we  analyse  such  macroscopic  events  in  terms  of  microscopic  and 
+sub -microscopic  events,  the  statistical  laws  become  accurate  laws,  not  for  in¬ 
+dividuals  but  for  groups  of  individuals.  Because  we  abstract  in  different  orders, 
+we  deal  only  with  statistical  data,  mass  effects  of  different  ‘packets’  of  nervous 
+excitement,  as  is  best  illustrated  by  different  thresholds  in  different  nervous 
+tissues. 
+
+The  processes  in  the  higher  centres,  more  remote  from  the  external  world , 
+deal  with  a  special  material,  no  more  with  statistical  data  of  ‘packets'  and 
+averages,  but  with  what  we  used  to  call  ‘inferences’,  ‘inductions’.  ,  which  give 
+only  the  probability  of  happenings.  But  as  we  have  already  seen,  probability 
+has  become  a  well-developed  structural  mathematical  discipline,  which  has  not 
+yet  made  much  effect  upon  our  primitive-made  macroscopic  metaphysics  and 
+language.  It  should  be  noticed  that  the  highest  activities  of  the  nervous  centres 
+are  based  on  statistical  data  furnished  by  the  lower  centres.  So  we  see  that,  to 
+the  best  of  our  knowledge  about  ourselves  and  the  world  around  us,  a  modern 
+structural  and  semantic  outlook,  in  science  or  in  life,  must  be  based  on  statistical 
+and  probability  methods. 
+
+In  space-time  every  point  has  a  date,  and  therefore  in  the  language  of 
+space- time  all  points  are  different  and  do  not  repeat  themselves.  Such  structural 
+outlook  is,  of  course,  again  conditioned,  and  leads  toward  the  statistical  and 
+probability  methods.  The  main  psycho-logical  importance  of  the  new  methods 
+is  to  diminish  affective  tension,  which  is  always  wasteful  and  harmful.  In¬ 
+ferences  may  involve  belief.  When  belief  is  too  strongs  although  this  is  never 
+justified  according  to  the  best  modern  knowledge,  we  very  easily  fall  into 
+identification,  delusions,  illusions,  and  the  like.  It  should  be  emphasized  that 
+the  last-mentioned  pathological  states  are  always  compound.  They  involve  at 
+least  two  components.  One  of  these  consists  of  some  ignorance  somewhere;  the 
+other  of  strong  affective  belief  in  the  ‘truth’  of  our  mistaken  notions.  The 
+stronger  the  affective  tension  is,  the  more  dangerous  the  semantic  disturbance 
+becomes. 
+
+The  Heisenberg  theory  has  succeeded  in  formulating  (verbal)  structural 
+methods  which  are  best  suited  to  represent  the  experimental  facts  which  underlie 
+physics,  as  well  as  being  structurally  in  accord  with  the  working  of  the  human 
+nervous  system.  That  is  why  I  venture  to  assert  that  this  theory  will  never 
+be  abandoned  as  a  checking  and  research  instrument. 
+
+In  an  hypothetical  experiment  in  the  quantum  field,  we  may  assume  what 
+may  be  called  a  gamma-ray  microscope.  If  we  were  to  illuminate  an  ‘electron’ 
+
+THE  NEWER  ‘MATTER’ 
+
+by  gamma-rays,  the  rays  would  disturb  the  experiment,  and  in  our  fundamental 
+
+equation,  pq  —gp - — ,  1,  by  which  the  ‘position’  was  to  be  determined,  the 
+2m 
+
+'momentum’  would  thereby  be  disturbed.  This  change  of  ‘momentum’  would 
+be  greater  the  shorter  the  wave-length  of  the  rays  used;  and  the  shorter  the 
+wave-length  of  the  ray,  the  more  accurate  the  determination  of  ‘position  would 
+be.  Hence,  the  more  exactly  a  co-ordinate  q  could  be  found,  the  less  exactly 
+could  its  momentum  p  be  found,  and  vice  versa. 
+
+So  we  have  to  introduce  corrections  for  errors,  and  have  to  introduce 
+'mean  values’  and  ‘probability  functions’,  which  we  can  develop  and  compute. 
+Lately,  Bohr  has  further  developed  the  probability  aspects  of  the  newer  quantum 
+mechanics  but  I  have  not  seen  this  work.  Heisenberg  introduces  ‘probability 
+packets’  which  correspond  to  the  ‘wave  packets’  of  Schrodinger. 
+
+It  is  difficult  to  speak  briefly,  and  yet  in  a  satisfactory  way,  about  these 
+new  developments,  and  particularly  difficult  to  give  credit  properly  to  different 
+authors.  All  their  works  are  interwoven  and  at  present  they  all  really  work 
+together  in  spite  of  the  fact  that  historically  some  of  these  theories  have  been 
+developed  independently. 
+
+What  we  call  today,  for  the  sake  of  brevity,  the  Heisenberg  theory,  because 
+
+of  its  originator,  has  been  further  developed  by  Heisenberg,  Born,  Jordan,  and 
+others.  Later,  when  the  wave-mechanics  appeared,  all  the  new  theories  were 
+finally  fused  into  a  very  elaborate  and  impressive  structure. 
+
+Historically,  P.  A.  M.  Dirac  worked  at  the  theory  from  a  different  mathe¬ 
+matical  point  of  view,  utilizing  what  is  called  the  ‘Poisson  bracket  method. 
+In  this  treatment  the  difficulties  of  the  matrix  calculus  were  avoided.  He 
+introduced  dynamical  variables  which  he  called  the  q  numbers.  These  do  not 
+obey  the  commutative  law  of  multiplication  although  the  c  numbers  (classical) 
+do.  He  also  considered  the  difference  of  the  non-commutative  products  xy -yx, 
+where  x  and  y  are  functions,  respectively,  of  the  co-ordinates  q\  ...  q 8,  and  of 
+the  momenta  pi .  .  .  pa  of  a  multiple  periodic  system  with  5  degrees  of  freedom. 
+
+Dirac  has  generalized  the  matrix  theory  and  the  Schrodinger  equations. 
+His  work  seems  to  be  most  important,  in  physics  and  mathematics,  but  it  is 
+not  possible  for  us  to  consider  it  here  in  any  detail.9 
+
+Let  us  recall  once  more  that  there  are  fundamental  differences  between 
+the  different  orders  of  abstraction,  and  that  we  all  have  to  abstract  in  different 
+orders.  From  this  point  of  view  it  is  natural  that  every  theory,  even  if  expressed 
+at  present  in  a  form  which  cannot  be  visualized ,  like  the  Heisenberg  theory  or 
+the  original  Dirac  theory,  has  sooner  or  later  to  be  expressed  in  a  structural 
+form  which  can  be  visualized.  These  problems  have  really  nothing,  or  at  most 
+very  little,  to  do  with  the  world  around  us.  They  are  concerned  with  the 
+neurological  structure  which  produces  all  theories. 
+
+Theories  of  a  structure  such  as  that  of  the  Heisenberg  theory  are  extremely 
+important,  as  already  explained,  but  in  them  we  lose  the  help  of  ‘intuition’. 
+Now  ‘intuition’  (lower  centres)  has  two  quite  different  effects — sometimes  it 
+leads  us  astray,  but  on  other  occasions  it  helps  greatly. 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER* 
+
+An  ‘intuitive1  theory  has  a  creative  aspect,  but  always  ought  later  to  be 
+revised  and  scrutinized  by  non-intuitive  means.  In  fact,  because  of  our  nervous 
+structure,  we  should  always  strive  to  produce  both  aspects  of  theories — strive 
+consciously — for  thus  we  facilitate  progress.  Historically,  we  can  never  com¬ 
+pletely  avoid  producing  both  types  of  theories,  as  they  are  inherent  in  our 
+nervous  structure  and  in  the  different  orders  of  abstractions  we  produce. 
+
+It  is  precisely  in  the  newer  quantum  mechanics  that  a  typical  example  of 
+this  simple  neurological  fact  is  found.  The  non-intuitive  handling  of  data  was 
+introduced  by  Heisenberg:  the  translation  of  the  matrix  calculus  into  opera¬ 
+tional  and  ‘Poisson  brackets’  methods;  and,  finally,  the  new  ‘wave  mechanics’ 
+of  de  Broglie,  Schrodinger,  and  others,  gives  us  a  perfect  translation  into 
+intuitive  methods. 
+
+It  should  be  noticed  that  according  to  the  old  notions  such  two  methods, 
+the  intuitive  and  the  non-intuitive,  were  not  supposed  to  be  a  neurological 
+necessity .  We  still  assumed  that  they  were  separated  ‘absolutely’,  and  even 
+today  in  many  quarters  we  argue  as  if  they  were  absolutely  separable.  If  we 
+accept  the  principle  of  non-elementalism,  we  realize  that  this  distinction  is 
+verbal  only  and  that  the  invention  of  verbal  means  has  little  or  nothing  to  do 
+with  the  world  around  us,  but  that  it  depends  on  human  structural  ingenuity. 
+
+Investigation  of  the  ordered  cyclic  nerve  currents  shows  unmistakably 
+that  such  sharp  differentiation  is  unjustifiable;  and  we  must  conclude,  in  accord¬ 
+ance  with  historical  experience,  that  translation  from  one  method  to  the  other 
+must  be  a  necessity,  and  so  will  be  accomplished  some  day  in  every  field.  It  is 
+true  that  at  present  the  Einstein  theory  has  not  been  translated  with  entire 

@@ -1,0 +1,500 @@
+
+This  briefly  reviews  the  activities  in  the  field  of  general  semantics  and 
+shows  that,  as  with  any  system  that  represents  a  challenge  to  its  own  culture, 
+there  remains  much  work  to  be  done,  but  also  that  this  work  proceeds 
+vigorously. 
+
+In  the  sixty  years  since  Korzybski  offered  the  first  (not  the  last)  non- 
+aristotelian  system  in  Science  and  Sanity  public  reaction  has  been  both 
+enthusiastic  and  critical.  What  about  Korzybski’s  work  continues  to  generate 
+such  interest  and  activity?  If  it  were  so,  as  some  critics  have  asserted,  that  "all’ 
+he  did  was  to  organize  scattered  insights,  formulations  and  data  into  a  system. 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+that  alone  would  have  constituted  a  major  achievement  worthy  of  the  gratitude 
+of  succeeding  time-binders  for  centuries  to  come.  Korzybski  did  that.  He 
+enunciated  a  system,  incorporating  aspects  of  but  going  beyond  its 
+predecessors,  and  proposed  a  methodology  for  making  his  system  a  living  tool: 
+general  semantics  (the  name  he  selected),  the  first  non-aristotelian  system 
+applied  and  made  teachable. 
+
+In  addition,  I  can  list  here  the  following  selected  formulations  and  points 
+of  view ,  emphases ,  etc.,  which  I  consider  to  be  original  with  Korzybski.5 
+
+1 .  Time-binding ;  time-binding  ethics.  Rejecting  both  theological  and 
+zoological  definitions,  Korzybski  adopted  a  natural  science,  operational 
+approach  and  defined  humans  by  what  they  can  be  observed  doing  which 
+differentiates  them  from  other  classes  of  life;  he  defined  them  as  the  time¬ 
+binding  class  of  life,  able  to  pass  on  knowledge  from  one  generation  to  another 
+over  Time.’6 
+
+Derived  from  this  definition,  which  evaluates  humans  as  a  naturally 
+cooperative  class  of  life  (the  mechanisms  of  time-binding  are  descriptively 
+social,  cooperative),  Korzybski  postulated  time-binding  'ethics’  —  modes  of 
+behavior,  choices  appropriate  to  time-binding  organisms. 
+
+2.  Korzybski  recognized  that  language  {symbolizing  in  general) 
+constitutes  the  basic  tool  of  time-binding.  Others  before  him  had  noted  that 
+language ,  in  the  complex  human  sense,  was  one  of  the  distinguishing  features 
+of  humans.  WhatKotzybski  fully  recognized  was  the  central,  defining  role  of 
+language.  No  language,  no  time-binding.  If  so,  then  structures  of  languages 
+must  be  determinative  for  time-binding. 
+
+3.  The  neurologically  focused  formulation  of  the  process  of 
+abstracting .  No  one  before  Korzybski  had  so  thoroughly  and  unflinchingly 
+specified  the  process  by  which  humans  build  and  evolve  theories,  do  their 
+mundane  evaluating,  thrill  to  'sunsets’,  etc.  Korzybski’s  formulating  of 
+abstracting,  particularly  in  the  human  realm,  can  constructively  serve  as  a 
+guide  to  on-going  neuroscientific  research. 
+
+4.  Asa  function  of  the  above,  but  deserving  separate  mention  with  the 
+rigorously  formulated  notion  of  orders  of  abstracting,  is  the  concurrent 
+admonition  that  we  should  not  confuse  (identify)  them.  Given  the  hierarchical, 
+sequential  character  of  the  nervous  system  (allowing,  too,  for  horizontally 
+related  structures  and  parallel  processing),  it  is  inevitable  that  results  along  the 
+way  should  manifest  as  (or  'at’)  differing  orders  or  levels  of  abstracting.  These 
+results  are  inevitable.  That  they  would  be  formulated  at  a  given  historical 
+moment  is  not  inevitable.  Korzybski  did  it  in  the  1920’s,  publishing  his 
+descriptions  in  their  mature  form  in  1933. 
+
+5.  Consciousness  of  abstracting.  If  human  organisms-as-a-whole-cum- 
+nervous  systems/brains  abstract  as  claimed  above  and  described  herein  (pp. 
+369-45 1  and  passim ),  surely  consciousness  of  these  events  must  be  crucial  for 
+
+xvi  PREFACE  TO  THE  FIFTH  EDITION 
+
+optimum  human  functioning.  Animals  (non-time-binders)  abstract;  but,  so  far 
+as  we  know  (1993),  they  do  not  know  that  they  abstract.  Indeed,  many  humans 
+don’t  either  —  but  they  have  the  potentiality  to  do  so.  Korzybski  recognized 
+this,  realized  that  consciousness  of  abstracting  is  essential  for  “fully 
+functioning”  humans,  and  made  of  it  a  primary  goal  of  general  semantics 
+training. 
+
+6.  The  structure  of  language.  Among  Korzybski *s  most  original 
+formulations  was  the  multiordinal  character  of  many  of  the  terms  we  most 
+often  use.  He  insisted  that,  with  multiordinal  terms,  the  ‘meaning’  is  strictly 
+a  function  of  the  order  or  level  of  abstraction  at  which  the  term  is  used  and  that 
+its  ‘meaning’  is  so  context-driven  that  it  doesn’t  ‘mean’  anything  definite  until 
+the  context  is  specified  or  understood. 
+
+7.  Structure  as  the  only  ‘content*  of  knowledge.  This  represents  the 
+height/depth  of  non-elementalism;  that  what  used  to  be  designated  as  ‘form’ 
+(structure)  and  ‘content’  are  so  intimately  related  as  to  be,  practically  speaking, 
+fused,  that  structure  and  ‘content’  are  functions  of  ‘each  other’.  Further,  and 
+more  deeply,  all  we  can  ever  know  expresses  a  set  or  sets  of  relationships  and, 
+most  fundamentally,  a  relationship  (‘singular’)  between  the  ‘known’  and  the 
+knowing  organism:  the  famous  joint  product  of  the  observer-observed 
+structure.  “Structure  is  the  only  ‘content’  of  knowledge”  may  qualify  as 
+Korzybski’ s  deepest  expression  of  anti-essentialism.  We  can  not  know 
+‘essences’,  things  in  themselves ;  all  we  can  know  is  what  we  know  as 
+abstracting  nervous  systems .  Although  we  can  on-goingly  know  more,  we 
+can  not  ‘transcend’  ourselves  as  organisms  that  abstract. 
+
+8.  Semantic  reactions;  semantic  reactions  as  evaluations.  Growing  out 
+of  his  awareness  of  the  transactive  character  of  human  evaluating  and  wishing 
+to  correct  for  the  elementalistic  splitting  involved  in  such  terms  as  ‘meaning’, 
+‘mental’,  ‘concept’,  ‘idea’  and  a  legion  of  others,  Korzybski  consciously, 
+deliberately  formulated  the  term  semantic  reaction.  It  is  central  to  his  system. 
+
+9.  The  mathematical  notion  of  function  as  applied  to  the  brain- 
+language  continuum.  Boldly  grasping  the  neurophysiology  of  his  day, 
+Korzybski  formulated  what  research  increasingly  finds:  language  is  a  function 
+of  (derives  from,  is  invented  by)  brain;  reciprocally,  as  a  function  of  feedback 
+mechanisms,  brain  is  a  function  of  (is  modified  by  the  electro-chemical 
+structuring  called)  language. 
+
+10.  Neuro-semantic  environments  as  environments.  The  neuro- 
+semantic  environment  constitutes  a  fundamental  environmental  issue  unique 
+to  humans. 
+
+1 1 .  Non-aristotelian  system  as  system.  Korzybski  had  non-aristotelian 
+predecessors,  as  he  well  knew.  What  distinguishes  his  non-aristotelian  stance 
+is  the  degree  of  formulational  consciousness  he  brought  to  it,  and  the 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+energetic  courage  with  which  he  built  it  into  a  system  —  offered  to  his  fellow 
+humans  as  a  better  way  to  orient  themselves. 
+
+12.  The  Structural  Differential  as  a  model  of  the  abstracting  process 
+and  a  summary  of  general  semantics.  Korzybski  realized  the  importance  of 
+visualization  for  human  understanding.  He  knew,  then,  that  to  make  some  of 
+the  higher  order,  overarching  relationships  of  his  system  accessible,  visible , 
+he  must  make  a  diagram,  a  model,  a  map ,  that  people  could  see  and  touch. 
+Thus  the  Structural  Differential,  a  device  for  differentiating  the  structures  of 
+abstracting.  As  far  as  I  know,  this  is  the  first  structurally  appropriate  model 
+of  the  abstracting  process. 
+
+1 3 .  Languages,  formulational  systems,  etc . ,  as  maps  and  only  maps  of 
+what  they  purport  to  represent .  This  awareness  led  to  the  three  premises 
+(popularly  expressed)  of  general  semantics: 
+
+the  map  is  not  the  territory 
+
+no  map  represents  all  of  ‘its’  presumed  territory 
+
+maps  are  self-reflexive,  i.e.,  we  can  map  our  maps  indefinitely.  Also, 
+
+every  map  is  at  least,  whatever  else  it  may  claim  to  map,  a  map  of  the 
+
+map-maker:  her/his  assumptions,  skills,  world-view,  etc. 
+
+By  ‘maps’  we  should  understand  everything  and  anything  that  humans 
+formulate  —  including  this  book  and  my  present  contributions,  but  also 
+including  (to  take  a  few  in  alphabetical  order),  biology.  Buddhism, 
+Catholicism,  chemistry.  Evangelism,  Freudianism,  Hinduism,  Islam,  Judaism, 
+Lutheranism,  physics,  Taoism,  etc.,  etc., ...! 
+
+14.  AUness/non-allness  as  clear,  to  be  dealt  with,  formulations.  If  no 
+map  can  represent  all  of  ‘its’  presumed  territory,  we  need  to  eschew  habitual 
+use  of  the  term  ‘all’  and  its  ancient  philosophical  correlates,  absolutes  of 
+various  kinds. 
+
+15.  Non-identity  and  its  derivatives,  correlates,  etc.  At  every  turn  in 
+Korzybski ’s  formulating  we  encounter  his  forthright  challenge  to  the  heart  of 
+uristotelianism  —  and  its  non-Westem,  equally  essentialist  counterparts. 
+“Whatever  you  say  a  thing  is,  it  is  not”  This  rejection  of  the  Taw  of  identity’ 
+(’everything  is  identical  with  itself)  may  be  Korzybski ’s  most  controversial 
+formulation.  After  all,  Korzybski’s  treatment  directly  challenges  the  ‘Laws  of 
+Thought*,  revered  for  over  two  thousand  years  in  the  West  and,  differently 
+expressed,  in  non-Westem  cultures.  Korzybski’s  challenge  is  thus  planetary. 
+Wc  ‘Westerners’  can’t  (as  some  have  tried)  escape  to  the  ‘East’. 
+Identifications,  confusions  of  orders  of  abstracting,  are  common  to  all  human 
+nervous  systems  we  know  of 
+
+16.  Extension  of  Cassius  Keyser's  " Logical  Fate”:  from  premises, 
+conclusions  follow,  inexorably.  Korzybski  recognized  that  conclusions 
+constitute  behaviors ,  consequences,  doings ,  and  that  these  are  not  merely 
+logical  derivatives  but  psycho-logical  inevitabilities.  If  we  want  to  change 
+
+xviii 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+behaviors ,  we  must  first  change  the  premises  which  gave  birth  to  the 
+behaviors.  Korzyb ski’s  strong  version  of  Keyser’s  restrictedly  iogicaF 
+formulation  was  first  adumbrated  in  Korzybski’s  paper,  “Fate  and  Freedom” 
+of  1 923  and  received  its  full  expression  in  the  “Foreword”  (with  M.  Kendig) 
+to  A  Theory  of  Meaning  Analyzed  in  1942,  both  available  in  the  Collected 
+Writings.  Both  expressions  well  antedate  Thomas  Kuhn’s  “paradigm  shifts” 
+and,  more  pointedly  than  Kuhn,  formulate  the  behavioral  implications  of 
+logical  and  philosophical  systems. 
+
+17.  The  circularity  of  knowledge  (spiral-character-in- ‘time’). 
+Korzybski  noted  that  our  most  ‘abstract’  formulations  are  actually  about  non¬ 
+verbal  processes/events,  and  that  how  we  formulate  about  these  at  a  given  date, 
+how  we  talk  to  ourselves,  through  neural  feedback  mechanisms,  relatively 
+determines  how  we  will  subsequently  abstract-formulate:  healthfully  if  our 
+abstracting  is  open,  non-finalistic  (non-absolute);  pathologically  if  not. 
+
+18.  Electro-colloidal  (macro-molecular-biological)  and  related 
+processes.  Korzybski  emphasized  awareness  of  these  as  fundamental  for 
+understanding  neuro-linguistic  systems/organisms. 
+
+19.  Non-elementalism  applied  to  human  organisms-as-a-whole-in-an- 
+environment.  Some  of  Korzybski’s  predecessors  in  the  study  of  language  and 
+human  error  may  have  pointed  to  what  he  labeled  ‘elementalism  (verbally 
+splitting  what  cannot  be  split  empirically)  as  a  linguistically-embedded  human 
+habit,  but  none  I  know  of  had  so  thoroughly  built  against  it  and  recommended 
+replacing  it  with  habitual  non-elementalism.  Korzybski  s  practical  insistence 
+that  adopting  non-elementalistic  procedures  and  terms  would  benefit  the 
+humans  (including  scientists)  who  adopt  them  is  original  and,  for  him,  urgent. 
+
+20.  Extensions  of  logics  (plural)  as  subsets  of  non-aristotelian 
+evaluating,  including  the  limited  usefulness  (but  usefulness )  of  aristotelian 
+logic.7 
+
+21.  Epistemology  as  centered  in  neuro-linguistic ,  neuro-semantic 
+issues.  Korzybski  built  squarely  on  the  neuroscience  of  his  day  and  affirmed 
+the  fundamental  importance  of  epistemology  (the  study  of  how  we  know  what 
+we  say  we  know)  as  the  sine  qua  non  for  any  sound  system  upon  which  to 
+organize  our  interactions  with  our  children,  students,  friends,  lovers,  bosses, 
+trees,  animals,  government  —  the  ‘universe’.  Becoming  conscious  of 
+abstracting  constitutes  applied  epistemology:  general  semantics. 
+
+22.  The  recognition  of  and formulation  of  extensional  and  intensional 
+orientations  as  orientations.  Here  we  see  Korzybski  at  his  most  diagnostic 
+and  prognostic.  Realizing  that  a  person’s  epistemological-evaluational  style , 
+a  person’s  habitual  way  with  evaluating  determines  how  life  will  go,  he 
+recommends  adoption  of  an  extensional  orientation,  with  its  emphasis  on 
+4 facts’.  If  a  person  is  over-committed  to  verbal  constructs,  definitions, 
+formulae,  'conventional  wisdom*,  etc.,  that  person  may  be  so  trapped  in  those 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+a  priori  decisions  as  to  be  unable  to  appropriately  respond  to  new  data  from 
+the  non-verbal,  not-yet-anticipated  world.  By  definition,  the  extensionally 
+oriented  person,  while  remaining  as  articulate  as  any  of  her/his  neighbors,  is 
+habitually  open  to  new  data,  is  habitually  able  to  say,  “I  don’t  know;  let’s 
+see.”  As  an  aid  toward  this  more  healthy  orientation,  Korzybski  formulated  the 
+“extensional  devices”  explained  in  his  Introduction  to  the  Second  Edition 
+herein. 
+
+23.  Neuro-linguistic  and  neuro-semantic  factors  applied  to 
+psychotherapeutic  procedures  and  to  the  prevention  of  psycho-logical 
+problems. 
+
+24.  Mathematics.  Korzybski ’s  use  of  mathematical  formulations  and 
+point  of  view  qualifies  as  one  of  his  most  daring  contributions. 
+
+25.  Science  and  mathematics  as  human  behaviors.  Perhaps  showing 
+some  korzybskian  influence  (much  of  it  has  come  to  be  ‘in  the  air’),  writers  on 
+science  and  mathematics  are  increasingly  addressing  the  human  being  who 
+does  science  and/or  mathematics.  But  Korzybski  seems  the  first,  to  the  degree 
+that  he  did,  to  point  to  understanding  these  human  behaviors  as  a  necessary 
+prerequisite  or  accompaniment  to  fully  understanding  science  and  mathematics 
+as  such.  As  Gaston  Bachelard  observed. 
+
+The  psychological  and  even  physiological  conditions  of  a 
+non-Aristotelian  logic  have  been  resolutely  faced  in  the 
+great  work  of  Count  Alfred  Korzybski,  Science  and 
+Sanity .8 
+
+26.  Limitations  of  subject-predicate  languages  (modes  of 
+representation)  when  employed  without  consciousness  of  abstracting. 
+Korzybski  addresses  this  central  formulation  fully  in  his  book. 
+
+27 .  Insistence  on  relative  ‘ invariance  under  transformation  ’ .  Korzybski 
+was  concerned  that  invariance  of  relations  not  be  confused  with  ‘invariance’ 
+of  processes. 
+
+28.  General  uncertainty  (all  statements  merely  probable  in  varying 
+degrees)  as  an  inevitable  derivative  of  korzybskian  abstracting ,  non-identity , 
+etc.  Korzybski,  drawing  partly  on  his  Polish  milieu,  anticipated  and  exceeded 
+Heisenberg’s  mid-nineteen-twenties  formulation  of  (restricted)  uncertainty. 
+
+29.  The  mechanism/machine-ism  distinction .  This  may  seem  too  simple 
+to  list  as  an  ‘original’  or  even  major  point.  Yet  it  is  vital,  indicating  as  it  does 
+Korzyb ski’s  strong  commitment  to  finding  out  how  something  works  as 
+opposed  to  vague,  ‘spiritual’  explanations. 
+
+Korzybski  and  some  of  his  Institute  successors  who  have  worked  to 
+present  korzybskian  general  semantics  have  sometimes  met  this  resistance: 
+"I’m  not  a  machine!”  People  trained  in  the  myriad  ‘intellectual’,  ‘mystical’  in 
+varying  degrees  systems/traditions  they  bring  to  seminars  often  react  as  if  they 
+fear  to  lose  their  ‘humanity’  by  being  asked  to  consider  the  mechanisms  which 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+underpin  or  constitute  their  functioning.  Korzybski  took  pains  to  explain  that 
+mechanism  should  not  be  confused  with  ‘machine-ism’.  His  concern  for 
+investigations  at  this  level  was  bracing  and  central  to  his  approach. 
+
+30.  ‘Infinite ’-valued  evaluating  and  semantic  methods  of  science  ( not 
+‘content’  of  science  or  non-professional  behavior  of  scientists  at  a  given  date) 
+as  methods  for  sanity.  Thus  the  title  of  his  book.  General  semanticists  are 
+obliged  to  evaluate ,  to  analyze,  criticize  and  sometimes  reject  the  products  of 
+‘science’  at  a  given  date.  The  approach  is  scientific,  not  scientistic. 
+
+31.  Predictability  as  the  primary  measure  of  the  value  of  an 
+epistemological formulation .  Korzybski  was  by  no  means  an  ‘anti-aesthete’. 
+He  was  deeply  sensitive  to  (and  knowledgeable  about)  music,  married  a 
+portrait  painter,  read  literature  (Conrad  was  a  favorite)  including  poetry,  and 
+even  liked  to  relax  with  a  good  detective  story.  But  he  insisted  that,  for  life 
+issues,  beauty  or  cleverness  or  mere  consistency  (logical  coherence,  etc.)  were 
+not  enough. 
+
+Korzybski  offered  his  non-aristotelian  system  with  general  semantics  as 
+its  modus  operandi  as  an  on-going  human  acquisition,  negentropic,  ordering 
+and  self-correcting  through  and  through,  since  it  provides,  self-reflexively,  for 
+its  own  reformulation,  and  assigns  its  users  responsibility  to  do  so  should  the 
+need  arise. 
+
+The  above  considerations  have  led  me  to  the  conclusion  that  Korzybski 
+was  not  only  a  bold  innovator,  but  also  a  brilliant  synthesizer  of  available  data 
+into  a  coherent  system.  This  system,  when  internalized  and  applied,  can  create 
+a  saner  and  more  peaceful  world,  justifying  the  title  of  this  book.  Science  and 
+Sanity. 
+
+Robert  P.  Pula 
+
+September  1993 
+
+END  NOTES 
+
+1 .  Karol,  Janicki,  Toward  Non-Essentialist  Sociolinguistics.  Berlin  and  New 
+
+York:  Mouton  de  Gruyter,  1990. 
+
+2.  Bibliographic  Note:  sample  of  books  since  1970. 
+
+J.  Samuel  Bois,  Breeds  of  Men:  Toward  the  Adulthood  of  Humankind, 
+Harper  and  Row,  1970 
+
+Lee  Thayer,  ed..  Communication:  General  Semantics  Perspectives , 
+Spartan/Macmillan,  1970  (critique) 
+
+William  Youngren,  Semantics,  Linguistics,  and  Criticism ,  Random 
+House,  1972  (critique) 
+
+Kenneth  G.  Johnson,  ed.,  Research  Designs  in  General  Semantics , 
+Gordon  and  Breach,  1974 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+xxi 
+
+Donald  E.  Washburn  and  Dennis  R.  Smith,  eds..  Coping  With  Increasing 
+Complexity :  Implications  of  General  Semantics  and  General 
+Systems  Theory ,  Gordon  and  Breach,  1 974 
+Kenneth  G.  Johnson,  Lineamenti  di  Semantica  Generate,  Roma:  Editore 
+Armando  Armando,  1978 
+
+Ross  Evans  Paulson,  Language ,  Science ,  and  Action :  Korzybski's 
+General  Semantics  — A  Study  in  Comparative  Intellectual  History , 
+Greenwood  Press,  1 983  (critique) 
+
+Harold  L.  Drake,  General  Semantics  Views ,  Millersville,  PA:  Millersville 
+State  College,  1 983 
+
+Mary  Morain,  ed.,  Bridging  Worlds  Through  General  Semantics , 
+International  Society  for  General  Semantics,  1 984;  and  Enriching 
+Professional  Skills  Through  General  Semantics ,  International 
+Society  for  General  Semantics,  1 986 
+Gerard  I.  Nierenberg,  Workable  Ethics ,  Nierenberg  and  Zeif,  1 987 
+Sanford  I.  Berman,  ed.,  Logic  and  General  Semantics :  Writings  of  Oliver 
+Reiser  and  Others ,  International  Society  for  General  Semantics, 
+1989 
+
+Karol  Jamcki,  Toward Non-Essentialist  Sociolinguistics,  Berlin:  Mouton 
+de  Gruyter,  1990 
+
+Kenneth  G.  Johnson,  ed..  Thinking  Creatically :  A  Systematic , 
+Interdisciplinary  Approach  to  Creative-Critical  Thinking , 
+“Foreword”  by  Steve  Allen,  Institute  of  General  Semantics,  1991 
+D.  David  Bourland,  Jr.  and  Paul  Dennithome  Johnston,  eds..  To  Be  or 
+Not:  An  E-Prime  Anthology ,  International  Society  for  General 
+Semantics,  1991 
+
+3.  Korzybski,  Alfred,  Collected  Writings:  1920-1950.  Collected  and  arranged 
+
+by  M.  Kendig.  Final  editing  and  preparation  for  printing  by  Charlotte 
+Schuchardt  Read,  with  the  assistance  of  Robert  Pula.  Englewood,  NJ: 
+Institute  of  General  Semantics,  1 990. 
+
+4.  The  following  have  delivered  lectures  in  the  series  (listed  chronologically): 
+
+William  Vogt,  M.  F.  Ashley  Montagu,  F.  J.  Roethlisberger,  F.  S.  C. 
+Northrop,  Buckminster  Fuller,  Clyde  Kluckhohn,  Abraham  Maslow, 
+Russell  Meyers  (twice),  Warren  S.  McCulloch,  Robert  R.  Blake,  Harold 
+G.  Cassidy,  Henri  Laborit,  Joost  A.  M.  Meerloo,  Henry  Lee  Smith,  Jr., 
+Alvin  M.  Weinberg,  Jacob  Bronowski,  Alastair  M.  Taylor,  Lancelot  Law 
+White,  Gregory  Bateson,  Heniy  Margenau,  George  Steiner,  Harley  C. 
+Shands,  Roger  W.  Wescott,  Ben  Bova,  Elwood  Murray,  Don  Fabun, 
+Barbara  Morgan,  Thomas  Sebeok,  Robert  R.  Blake  and  Jane  Srygley 
+Mouton,  Allen  Walker  Read,  Karl  H.  Pribram,  George  F.  F.  Lombard, 
+Richard  W.  Paul,  Jerome  Bruner,  William  V.  I  laney,  Warren  M.  Robbins, 
+Albert  Ellis,  Steve  Allen,  and  William  Lutz.  The  following  have 
+
+XXII 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+participated  in  colloquia  in  the  series:  William  J.  Fry,  James  A.  Van  Allen, 
+Charles  M.  Pomerat,  Jesse  H.  Shera,  Allen  Kent,  Paul  Ptacek,  J.  Samuel 
+Bois,  Elton  S.  Carter,  Walter  Probert,  Kenneth  G.  Johnson  and  Neil 
+Postman. 
+
+5.  For  Korzybski  as  a  system-builder,  see  Dr.  Stuart  A.  Mayper,  “The  Place  of 
+
+Aristotelian  Logic  in  Non-Aristotelian  Evaluating:  Einstein,  Korzybski 
+and  Popper,”  General  Semantics  Bulletin  No.  47,  1980,  pp.  106-110. 
+For  discussions  of  the  continuing  appropriateness  of  ‘ Korzybski’ s 
+science’,  see  Stuart  A.  Mayper,  “Korzybski’ s  Science  and  Today’s 
+Science,”  General  Semantics  Bulletin,  No.  51,1 984,  pp.  6 1  -67  ;  Barbara 
+E.  Wright,  “The  Heredity-Environment  Continuum:  Holistic  Approaches 
+at  ‘One  Point  in  Time’  and  ‘All  Time’,”  General  Semantics  Bulletin  No. 
+52,  1985,  pp.  36-50;  Russell  Meyers,  MD,  “The  Potentials  of  Neuro- 
+Semantics  for  Modem  Neuropsychology”  (The  1 985  Alfred  Korzybski 
+Memorial  Lecture),  General  Semantics  Bulletin,  No.  54,  1989,  pp.  13-59, 
+and  Jeffrey  A.  Mordkowitz,  “Korzybski,  Colloids  and  Molecular  Biology: 
+A  View  from  1985,”  General  Semantics  Bulletin ,  No.  55,  1990,  pp.  86- 
+89.  For  a  detailed  updating  in  the  neurosciences  by  a  non-general- 
+semanticist  which  shows  Korzybski ’s  1933  formulations  as  consistent 
+with  1 993  formulations,  see  “Part  I”  of  Patricia  Smith  Churchland’s 
+Neurophilosophy.  Toward  a  Unified  Science  of  the  Mind/Brain,  MIT 
+Press,  1986,  pp.  14-235.) 
+
+6.  Korzybski,  Alfred,  Manhood  of  Humanity. 
+
+7.  See  Dr.  Mayper ’s  paper:  “The  Place  of  Aristotelian  Logic  in  Non- 
+Aristotelian  Evaluating...,”  listed  above,  and  his  earlier  “Non-Aristotelian 
+Foundations:  Solid  or  Fluid?”  ETC.:  A  Review  of  General  Semantics,  Vol. 
+XVIII,  No.  4,  Feb.,  1962,  pp.  427-443. 
+
+8.  Bachelard,  Gaston,  The  Philosophy  of  No.  Translated  from  the  French  by 
+
+G.  C.  Waterson.  New  York:  Orion  Press,  1968,  p.  108. 
+
+PREFACE  TO  THE  FOURTH  EDITION  1958 
+
+A  quarter  of  a  century  has  now  elapsed  since  the  first  edition  of 
+Alfred  Korzybski’s  principal  work,  Science  and  Sanity ,  appeared.  The 
+second  edition  was  published  in  1941  and  the  third  was  prepared  in  1948, 
+two  years  before  the  author’s  death.  Although  the  second  and  third  edi¬ 
+tions  provided  clarification  and  amplification  of  certain  aspects  of  the 
+non-aristotelian  orientation  originally  proposed  by  the  author,  and  while 
+they  cited  important  new  data  illustrating  the  rewards  accruing  to  cer¬ 
+tain  fields  of  human  endeavor  (e.g.,  psychotherapy)  in  consequence  of 
+the  utilization  of  the  orientations  earnestly  espoused  by  him,  they  repre¬ 
+sented  no  important  departures  from  the  first  edition  in  respect  of  basic 
+principles  at  theoretic  and  pragmatic  levels.  Nor,  in  serious  retrospec¬ 
+tion,  did  any  such  appear  to  have  been  indicated. 
+
+Considering  that  the  author  himself,  in  applying  the  formulation  of 
+‘the  self -reflexive  map’  to  his  own  work,  asserted  on  more  than  one  occa¬ 
+sion  that  perceptible  revisions  of  his  formulations  must  be  anticipated 
+and  that  such  would  very  likely  prove  fairly  compelling  within  a  period 
+estimated  at  twenty-five  years,  it  comes  as  something  of  a  surprise  that 
+as  the  1958  reprinting  of  Science  and  Sanity  goes  to  press  no  major  al¬ 
+terations  seem  as  yet  to  be  required.  In  this  modern  world  of  rapid 
+change — in  which  Man  has  acquired  information  regarding  the  intra-  and 
+extraorganic  realms  of  his  Universe  at  an  unprecedented  exponential 
+rate ;  in  which  the  Atomic  Age  has  come  into  actual  being ;  in  which  con¬ 
+quests  of  space  that  were  but  fanciful  dreams  only  yesteryear  have  be¬ 
+come  astonishing  realities;  in  which  new  specialties,  bridging  freely 
+across  the  gaps  of  the  unknown  between  conventional  scientific  disci¬ 
+plines,  have  sprung  into  life  and  become  full-fledged  within  a  matter  of 
+months;  and  in  which  far-seeing  men  of  good  will  have  organized  their 
+endeavors  to  unify  the  sciences,  arts  and  humanitarian  pursuits-at-large 
+and  appear  as  never  before  determined  (despite  recalcitrant  and  reac¬ 
+tionary  private  interests)  to  implement  a  One  World  such  as  might  befit 
+the  dignity  of  humanity  in  its  manhood — the  continuing  substantiality  of 
+Korzybski’s  1933  formulations  must  be  regarded  as  a  tribute  to  his  vision 
+and  integrative  genius.  Now  that  we  are  able  to  stand  a  little  apart  from 
+historical  developments  and  view  his  life’s  work  in  some  perspective,  it 
+can  hardly  be  doubted  that  he  grasped,  as  few  had  done  before  him  and 
+certainly  none  had  so  systematically  and  comprehensively  treated,  the 
+abiding  significance  of  linguistic  habits  and  the  communicative  processes- 
+
+xxiii 
+
+XXIV 
+
+PREFACE  TO  THE  FOURTH  EDITION 
+
+in-general  to  all  of  Man’s  thinking-and-doing,  from  his  loftiest  metaphysi¬ 
+cal,  epistemological  and  mathematical  efforts  to  the  most  casual,  trivial 
+and  mundane  performances  of  his  everyday  living. 
+
+Like  a  skillful  diagnostician,  Korzybski  penetrated  deeply  into  the 
+etiologic  and  pathologic  substrates  of  what  he  perceived  to  be  the  more 
+serious  deterrents  to  current  human  endeavors  and  there  succeeded  in 
+identifying  certain  grave  strictures  imposed  upon  Man’s  creative  poten¬ 
+tials  and  problem-solving  proclivities  by  one  of  the  least  suspected  of  all 
+possible  agencies,  namely,  the  academically-revered  and  ubiquitously- 
+exercised  aristotelian  formulations  of  logic.  This  diagnostic  act  was,  of 
+course,  the  analogical  equivalent  of  finding  a  positive  Wasserman  reac¬ 
+tion  in  the  blood  serum  of  some  long  honored  and  beloved  patriarch.  Its 
+disclosure  promised  and,  in  point  of  fact,  proved  to  be  no  more  popular. 
+In  this  sense,  Korzybski’s  position  was  wholly  comparable  to  that  of 
+Copernicus  and  Galileo,  who  had  been  impelled  by  their  private  inquiries 
+during  the  early  Renaissance  to  challenge  the  popular  ptolemaic  cos¬ 
+mology  and  aristotelian  mechanics  of  their  day.  It  required  an  uncom¬ 
+mon  personal  integrity,  an  unusual  brand  of  courage  and  a  plenum  of 
+physical  energy  to  spell  out  the  overt  and  covert  effects  produced  by 
+these  widely-pervading,  pathologic  neuro-semantic  processes  in  the  com¬ 
+munity  of  humans.  Korzybski  was,  as  we  now  know,  quite  up  to  this 
+formidable  task. 
+

@@ -1,0 +1,500 @@
+be  able  to  indicate  what  it  is  by  analysing  further  the  scheme  outlined 
+above. 
+
+Tt  may  happen,  and  in  fact  it  happens  often,  that  the  same  mathe¬ 
+matical  theory  can  be  applied  to  the  same  physical  facts  in  more  than  one 
+way ;  for  instance,  instead  of  assigning  to  the  physical  quantities  a,b ,  .  .  . 
+the  mathematical  quantities  A,B,  ...  we  might  have  assigned  to  them 
+,Br ,  .  .  .  with  the  same  results,  that  is,  the  relations  for  physical  quan¬ 
+tities  are  the  same  as  for  the  mathematical  quantities  corresponding  to 
+them  now  (think  of  space  considered  from  the  experimental  point  of 
+view — and  of  coordinate  geometry  ;  different  ways  of  establishing  a 
+correspondence  result  from  different  choices  of  coordinate  axes).  If 
+this  happens  it  means  that  the  mathematical  theory  possesses  a  peculiar 
+property,  namely,  that  if  A'  is  substituted  for  A,  Bf  for  B  and  so  on,  no 
+relation  of  the  type  R(A,B)=C  which  was  correct  before  the 
+substitution  is  destroyed ;  in  other  words,  there  are  substitutions  or  trans¬ 
+formations  for  which  all  relations  are  invariant.  All  such  transforma¬ 
+tions  constitute  what  we  call  a  group ;  the  existence  and  the  properties  of 
+such  a  group  present  a  very  important  characteristic  of  the  mathematical 
+theory.  Moreover  it  is  clear  that  if  two  different  mathematical  theories 
+can  be  applied — in  the  sense  described  above — to  the  same  physical 
+theory,  the  groups  of  these  two  theories  will  be  essentially  the  same,  so 
+that  the  groups  reflect  some  of  the  most  fundamental  properties  of 
+physical  systems/2 
+
+The  connection  between  groups  and  structure  is  described  by 
+Professor  Shaw  as  follows :  The  first  branch  of  dynamic  mathematics 
+is  the  theory  of  operations.  It  includes  the  general  theory  of  operators 
+
+V.  MATHEMATICS  A  A  LANHUACE 
+
+of  any  type  and  in  particular  the  theory  of  groups  of  operators.  The 
+structure  of  such  groups  is  evidently  a  study  of  form.  It  may  often  be 
+exemplified  in  some  concrete  manner.  Thus  the  groups  of  geometric 
+crystals  exemplify  the  structure  of  thirty-two  groups  of  a  discontinuous 
+character,  and  the  230  space-groups  of  the  composition  of  crystals 
+exemplify  the  corresponding  infinite  discontinuous  groups.  The  study 
+of  the  composition  series  of  groups,  the  subgroups  and  their  relations, 
+whether  in  the  case  of  substitution  groups,  linear  groups,  geometric 
+groups,  or  continuous  groups,  is  a  study  of  form.  Also,  the  study  of  the 
+construction  of  groups,  whether  by  generators,  or  by  the  combination  of 
+groups,  or  in  other  ways,  is  also  a  study  of  structure  or  form.  The 
+calculus  of  operations  in  general,  with  such  particular  forms  as  differ¬ 
+ential  operators,  integral  operators,  difference  operators,  distributive 
+operations  in  general,  is  for  the  most  part  a  study  of  structure.  In  so  far 
+as  any  of  these  is  concerned  with  the  synthesis  of  compound  forms  from 
+simple  elements,  it  is  to  be  classed  as  a  study  of  form,  as  the  term  is 
+here  used/3  ( 
+
+In  the  notion  of  a  group,  we  have  become  acquainted  with  two 
+terms ;  namely,  transformation  and  invariance.  The  first  implies  ‘change* ; 
+the  other,  a  lack  of  ‘change*  or  ‘permanence*.  Both  of  these  characteris¬ 
+tics  are  semantically  fundamental,  but  involve  serious  complexities. 
+
+The  world,  ourselves  included,  can  be  considered  as  processes  which 
+can  be  analysed  in  terms  of  transformed  stages  with  all  their  derivative 
+notions.  In  the  objective  world,  ‘change*  is  ever  present  and  is,  perhaps, 
+the  most  important  structural  characteristic  of  our  experience.  But 
+when  a  highly  developed  nervous  system,  a  process  itself,  is  acted  upon 
+by  other  processes,  such  nervous  system  discovers,  at  some  stage  of  its 
+development,  a  certain  relative  permanence,  which,  at  a  still  later  stage,  is 
+formulated  as  invariance  of  function  and  relations.  The  latter  formula¬ 
+tion  is  non-el  because  it  can  be  discovered  empirically,  which  means  by 
+the  lower  nerve  centres,  but  also  is  the  main  necessity  and  means  of 
+operating  of  the  higher  nerve  centres,  so-called  ‘thought*.  All  that  we 
+usually  call  &  process  of  ‘association*  is  nothing  else  than  a  process  of 
+relating ,  a  direct  consequence  of  the  structure  of  the  nervous  system, 
+where  stimuli  are  registered  in  a  certain  four-dimensional  order,  which, 
+on  the  psycho-logical  level,  take  the  form  of  relations.  From  this  point 
+of  view,  it  is  natural  that  the  higher  nerve  centres,  as  a  limit  of  integrat¬ 
+ing  processes,  should  produce  and  discover  invariance  of  relations,  which 
+appears  then  as  the  supreme  product  and  so,  ultimately,  a  necessity  of 
+the  activity  of  the  higher  centres.  Obviously,  if  the  invariance  of  rela¬ 
+tions  has  any  objective  counterpart  whatsoever  in  the  external  world, 
+
+MATI I  KM  ATK'S  AND  T1IK  NKRVOUS  SYSTKMS  285 
+
+this  invariance  is  impressed  on  the  nervous  system  more  than  other  char¬ 
+acteristics  ;  and  so,  at  a  certain  stage,  a  nervous  system  which  is  capable 
+of  producing  and  using  a  highly  developed  symbolism,  must  discover 
+and  formulate  this  invariance. 
+
+It  seems  that  relations ,  because  of  the  possibility  of  discovering 
+them  and  their  invariance  in  both  worlds,  are,  in  a  way,  more  ‘objective’ 
+than  so-called  objects.  We  may  have  a  science  of  ‘invariance  of  rela¬ 
+tions’,  but  we  could  not  have  a  science  of  permanence  of  things ;  and  the 
+older  doctrines  of  the  permanence  of  our  institutions  must  also  be 
+revised.  Under  modern  conditions,  which  change  rather  rapidly  nowa¬ 
+days,  obviously,  some  relations  between  humans  alter,  and  so  the  institu¬ 
+tions  must  be  revised.  If  we  want  their  invariance ,  we  must  build  them 
+on  such  invariant  relations  between  humans  as  are  not  altered  by  the 
+transformations.  This  present  work,  indeed,  is  concerned  with  investi¬ 
+gating  such  relations,  and  they  are  found  in  the  mechanism  of  time¬ 
+binding,  which,  once  stated,  becomes  quite  obvious  after  reflection. 
+
+As  Professor  Shaw  says  :  ‘We  find  in  the  invariants  of  mathematics 
+a  source  of  objective  truth.  So  far  as  the  creations  of  the  mathematician 
+fit  the  objects  of  nature,  just  so  far  must  the  inherent  invariants  point 
+to  objective  reality.  Indeed,  much  of  the  value  of  mathematics  in  its 
+applications  lies  in  the  fact  that  its  invariants  have  an  objective  meaning. 
+When  a  geometric  invariant  vanishes,  it  points  to  a  very  definite  charac¬ 
+ter  in  the  corresponding  class  of  figures.  When  a  physical  invariant 
+vanishes  or  has  particular  values,  there  must  correspond  to  it  physical 
+facts.  When  a  set  of  equations  that  represent  physical  phenomena  have 
+a  set  of  invariants  or  covariants  which  they  admit,  then  the  physical 
+phenomena  have  a  corresponding  character,  and  the  physicist  is  forced 
+to  explain  the  law  resulting.  The  unnoticed  invariants  of  the  electro¬ 
+magnetic  equations  have  overturned  physical  theories,  and  have  threat¬ 
+ened  philosophy.  Consequently  the  importance  of  invariants  cannot  be 
+too  much  magnified,  from  a  practical  point  of  view’.4 
+
+It  should  be  noticed  that  the  non-el  character  of  the  terms  relation, 
+invariance  . ,  which  apply  both  to  ‘senses’  and  ‘mind’,  is  particularly  impor¬ 
+tant,  as  it  allows  us  to  apply  them  to  all  processes ;  and  that  such  a  lan¬ 
+guage  is  similar  in  structure  not  only  to  the  world  around  us,  but  also  to 
+our  nervous  processes.  Thus,  a  process  of  being  iron,  or  a  rock,  or  a 
+table,  or  you,  or  me,  may  be  considered,  for  practical  purposes,  as  a 
+temporal  and  average  invariance  of  function  on  the  sub-microscopic  level. 
+Under  the  action  of  other  processes,  the  process  becomes  structurally 
+transformed  into  different  relational  complexes,  and  we  die,  and  a  table 
+or  rock  turns  into  dust,  and  so  the  invariance  of  this  function  vanishes. 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+The  notion  of  a  function  involves  the  notion  of  a  variable.  The 
+functional  notion  has  been  extended  to  the  propositional  function  and, 
+finally,  to  the  doctrinal  function  and  system- function.  The  term  trans¬ 
+formation  is  closely  related  to  that  of  function  and  relation.  This  notion 
+is  based  on  our  capacity  to  associate,  or  relate,  any  two  or  more  ‘mental* 
+entities.  We  can,  for  instance,  associate  a  with  b  or  b  with  a.  We  say 
+that  we  have  transformed  a  into  b ,  or  vice  versa. 
+
+An  excellent  example  of  transformation,  given  by  Keyser,  is  an 
+ordinary  dictionary,  which  would  be  genuinely  mathematical  if  it  were 
+more  precise.  In  a  dictionary,  every  word  is  transformed  into  its  verbal 
+meaning,  and  vice  versa.  A  telephone  directory  is  another  example. 
+Quite  obviously,  the  term  ‘transformation*  has  far-reaching  implica¬ 
+tions.  If  a  is  transformed  into  b,  this  implies  that  there  is  a  relation 
+between  a  and  b  which  is  being  established,  by  the  fact  of  transforma¬ 
+tion,  Once  a  relation  is  established,  we  have  a  propositional  function  of 
+two  or  more  variables  which  define  an  extensional  set  of  all  elements 
+connected  by  this  relation.5  i 
+
+We  see  that  these  three  terms  are  inseparably  united  and  are  three 
+aspects  of  one  psycho-logical  process.  If  we  have  a  transformation,  we 
+have  a  function  and  a  relation ;  if  we  have  a  function,  we  have  a  relation 
+and  a  transformation ;  if  we  have  a  relation,  we  have  a  transformation 
+and  a  function.  Transformation,  as  we  see,  is  a  psycho-logical  term  of 
+action.  A  relation  has  a  psycho-logically  mixed  character.  A  proposi¬ 
+tional  function  is  a  static  statement,  on  record,  with  blanks  for  the  values 
+of  the  variables.  In  it  the  form  is  invariant,  but  it  may  take  an  indefinite 
+number  of  values.  The  extensional  manifold  of  the  values  for  the  vari¬ 
+able  is  static,  given  once  for  all  in  a  given  context.  It  is  extensional 
+and,  therefore,  may  be  empirical  and  experimental. 
+
+Let  us  take  as  an  example,  for  instance,  the  transformation  of  a  set 
+of  integers  1,  2,  3 , .  Let  us  suppose  that  the  given  law  of  transformation 
+is  given  by  the  function  2x .  The  result  would  be  the  manifold  of 
+
+even  integers  2,  4,  6 , .  We  see  that  integers  are  transformed  into  integers ; 
+therefore,  the  characteristic  of  being  an  integer  is  preserved;  in  other 
+words,  this  characteristic  is  an  invariant  under  the  given  transformation 
+y  —  2x,  but  the  values  of  the  integers  are  not  preserved. 
+
+The  theory  of  invariance  is  an  important  branch  of  mathematics, 
+made  famous  of  late  through  the  work  of  Einstein.  Einstein  fulfilled 
+the  dearest  dream  of  Riemann  and  attained  the  methodological  and  scien¬ 
+tific  ideal,  that  a  ‘law  of  nature*  should  be  formulated  in  such  a  manner 
+as  to  be  invariant  under  groups  of  transformations.  Such  a  semantic 
+ideal,  once  stated,  cannot  be  denied ;  it  expresses  exactly  a  necessity  of 
+
+MAT  1 1 KMATICS  AND  TI-IK  NERVOUS  SYSTEMS  287 
+
+the  proper  working  of  the  human  nervous  system.  In  fact,  a  ‘law*  of 
+nature  represents  nothing  else  than  a  statement  of  the  invariance  of  some 
+relations.  When  the  Einstein  criterion  is  applied,  it  renders  most  of 
+the  old  ‘natural  laws'  invalid,  as  they  cannot  stand  the  test  of  invari¬ 
+ance.  The  older  ‘universal  laws'  then  appear  as  local  private  gossips, 
+true  for  one  observer  and  false  for  another. 
+
+The  method  of  the  theory  of  invariance  gives  us  the  trend  of  rela¬ 
+tions  that  abide,  and  so  expresses  important  psycho-logical  characteristics 
+of  the  human  ‘mind'.  Its  further  significance  is  revealed  by  Keyser  in 
+the  suggestion  that  when  a  group  of  transformations  leaves  some  speci¬ 
+fied  psycho-logical  activity  invariant,  it  defines  perfectly  some  actual  or 
+potential  branch  of  science,  some  actual  or  potential  doctrine.® 
+
+We  all  know  how  deeply  rooted  in  us  is  the  feeling,  the  longing  for 
+stability,  how  worried  we  are  when  things  become  unstable.  Worries 
+and  fear  are  destructive  to  semantic  health  and  should  be  taken  into 
+account  in  a  theory  of  sanity.  A  similar  semantic  urge  apparently 
+moved  mathematicians  when  they  worked  out  the  theory  of  invariance ; 
+it  was  a  formulation  of  a  necessity  of  the  activities  of  the  human  ner¬ 
+vous  system.  That  similar  semantic  methods,  if  applied,  would  give 
+similar  results  in  our  daily  lives,  scarcely  needs  to  be  emphasized. 
+
+We  have  already  spoken  of  the  mathematical  theory  of  invariance 
+as  a  mathematical  species  of  a  semantic  theory  of  universal  agreement. 
+Similarly,  in  a  ^-system  based  on  relations  and  structure,  it  is  possible 
+to  formulate  a  theory  of  universal  agreement  which  would  be  structur¬ 
+ally  impossible  in  the  ^-system,  and  so  the  dreams  of  Leibnitz  become 
+a  sober  reality ;  but  we  must  first  re-educate  our  s.r. 
+
+Section  D.  Similarity  in  structure  of  mathematics  and  of  our  nervous 
+system. 
+
+In  the  chapter  on  the  Semantics  of  the  Differential  Calculus,  the 
+fundamental  notions  and  method  of  this  calculus  are  explained.  Here 
+we  may  say,  briefly,  that  it  consists  in  stratifying,  or  expanding  into  a 
+series,  of  an  interval  of  any  sort  which  proceeded  by  large  steps.  The 
+large  steps  are  divided  into  a  great  number  of  smaller  and  smaller  steps, 
+which,  in  the  limit,  when  the  numbers  of  steps  become  infinite,  take  on 
+the  aspect  of  ‘continuity*  so  that  we  can  study  the  ‘rate  of  change*. 
+When  ‘time'  is  taken  into  consideration,  the  dynamic  may  be  translated 
+into  static,  and  vice  versa;  processes  can  be  analysed  at  any  stage,. 
+This  short  description  is  far  from  exact  or  exhaustive;  I  emphasize 
+only  in  an  intuitive  way  what  is  of  main  semantic  importance  for  our 
+purpose. 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+The  main  object  of  the  present  chapter  is  to  explain  that  the  struc¬ 
+ture  of  the  human  nervous  system  is  such  that,  on  some  levels,  we 
+produce  dynamic  abstractions ;  on  others,  static.  As  the  organism  works 
+as-a-whole,  for  its  optimum  working,  and,  therefore,  for  sanity,  we  need 
+a  language,  a  method,  which  may  be  translated  into  a  s.r  by  which  to 
+translate  the  dynamic  into  the  static,  and  vice  versa ;  and  such  a  language, 
+such  a  method,  is  produced  and  supplied  by  mathematicians.  To  some 
+readers,  these  remarks  may  appear  so  obvious  as  to  make  it  unnecessary 
+to  write  them,  but  I  have  found,  through  personal  observation  of 
+reactions  of  different  individuals,  and  by  a  careful  survey  of  the  litera¬ 
+ture  of  the  subject,  that  even  many  mathematicians  and  physicists  do 
+not  have  this  s.r  in  all  problems — or,  at  least,  they  do  not  know  how 
+to  apply  it. 
+
+In  Part  VII,  elementary  A  methods  are  worked  out,  which  supply 
+the  neurological  semantic  benefits  of  the  calculus,  very  easily  imparted  to 
+even  small  children  without  any  mathematical  technique ,  and  establishing 
+in  them  a  mathematical  attitude  toward  all  language  in  general,  training 
+them  in  the  only  structural  psycho-logics  of  sanity ;  namely,  that  of  the 
+calculus,  which  thus  becomes  the  foundation  of  healthy  and  normal 
+human  s.r .  And  this,  let  us  repeat  again,  without  any  mathematical  tech¬ 
+nique.  We  find,  also,  that  there  are  simple  and  physiological  means,  based 
+on  structure,  of  training  our  s.r  and  imparting  the  feel  for  the  structural 
+stratification  inherent  in  the  consciousness  of  abstracting. 
+
+To  start  with,  let  me  mention  briefly  a  quite  unexpected,  unconscious, 
+structural  biological  characteristic  of  mathematics;  namely,  its  (in  the 
+main)  non-el%  organism-as-a- whole  character. 
+
+From  the  time  of  Aristotle,  biologists,  physiologists,  neurologists, 
+‘psychologists',  psychiatrists  and  others  have  spoken  a  great  deal  about  the 
+organism-as-a-whole ;  yet,  they  have  not  seemed  to  realize  that  if  they 
+produce  el  terms,  they  cannot  apply  the  non~el  principle. 
+
+It  will  probably  not  be  an  exaggeration  to  say  that  the  majority  of 
+mathematicians  have  never  heard  of  this  principle,  and  that,  if  they 
+have,  they  paid  no  attention  to  it;  yet ,  in  practice,  they  have  applied  it 
+very  thoroughly.  The  main  mathematical  terms  are  non-elt  organism-as^ 
+a-whole  terms  which  apply  to  ‘senses'  as  well  as  to  ‘mind'.  For  instance, 
+relation,  order,  difference,  variable,  function,  transformation,  invariance . , 
+can  mostly  be  seen  as  well  as  ‘thought'  of.  The  use  of  such  terms  pre¬ 
+vents  our  speculation  from  degenerating  into  purely  el  speculations  on 
+words,  a  process  always  closely  related  to  the  morbid  semantic  manifes¬ 
+tations  of  the  ‘mentally’  ill.  and  obviously  based  on  the  pathological 
+confusion  of  orders  of  abstractions,  involving  inappropriate  evaluation. 
+
+MAT1 IKMAT1CS  AND  THE  NKRVOUS  SYSTEMS  289 
+
+This  fact  alone  is  of  serious  importance,  as  it  indicates  that  mathe¬ 
+matics  is  a  language  of  similar  structure  to  the  structure  of  organisms 
+and  is  a  correct  language,  not  only  neurologically,  but  also  biologically . 
+This  characteristic  of  mathematics,  quite  unexpectedly  discovered,  made 
+the  fusion  of  geometry  and  physics  possible.  It  underlies,  also,  the 
+theory  of  space-time  and  the  Einstein  theory.  It  will  be  seen  later  that 
+it  has  also  serious  psycho-neurological  importance. 
+
+It  was  already  emphasized  that  the  existing  'psychologies’  are  ani¬ 
+malistic  or  metaphysical,  because  either  they  disregard  one  of  the  most 
+unique  human  characteristics,  such  as  the  behaviour  called  mathematiz- 
+ing,  or  they  indulge  in  speculations  on,  and  in,  el  terms.  It  was  suggested 
+that  no  human  'psychologist*  can  actually  perform  his  official  task  unless 
+he  is  an  equipped  student  of  mathematics.  Unless  we  actually  apply  the 
+non-el  principle,  and  take  into  account  that  the  structure  of  languages 
+introduces  implications,  unconscious  in  the  main,  and  that  no  man  is  ever 
+free  from  some  doctrines  and  some  so-called  'logical’  processes  involving 
+physiological  and  semantic  concomitants,  no  general  theory  of  human 
+'psychology’  can  be  produced. 
+
+The  above  solves  a  very  knotty  semantic  problem,  for  we  see  that  if 
+we  apply  the  non-el  principle,  any  'psychology’  on  the  human  level  must 
+become  psycho-logics,  though  the  old  term  ‘psychology’  could  be  retained 
+as  applying  to  animal  researches  only.  The  very  name  'psychology’,  or 
+the  'theory  or  science  of  mind’,  is  obviously  el,  and  treats  ‘mind’  as  an 
+objective  separate  entity.  As  these  results  were  originally  reached  inde¬ 
+pendently,  it  is  interesting  to  notice  that  the  modem  methods  and  the 
+application  of  the  structural  positive  knowledge  1933  lead  to  very  many 
+analogies  and  similarities,  though  this,  after  all,  might  be  expected. 
+
+Notice  the  hyphen  which,  out  of  the  el  and  delusional  objectified 
+‘space’  and  ‘time’,  made  the  einsteinian  space-time  a  language  of  non-el 
+structure  similar  to  the  world  around  us ;  and  the  hyphen  which  out  of  el 
+‘psychology’  makes  a  non-el  human  discipline  of  psycho-logics.  It  seems 
+that  a  little  dash  here  and  there  may  be  of  serious  semantic  importance 
+when  we  deal  with  symbolism. 
+
+To  facilitate  exposition,  it  is  useful  to  stress,  in  the  present  section, 
+the  neurological  and  psychiatrical  side,  as  an  outline  of  the  methods  of 
+the  calculus,  and  related  subjects  will,  of  necessity,  require  separate 
+treatment. 
+
+When  rats  are  trained  to  perform  a  simple  experiment  requiring 
+some  'mentality*  and  afterwards  a  large  part  of  the  cerebral  cortex  is 
+removed,  their  training  may  be  wholly  lost.  If  such  decorticated  rats  are 
+trained  again,  they  re-acquire  the  habit  as  readily  as  before.  It  appears 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+that,  with  rats,  the  cortex  is  not  essential  for  these  learning  processes. 
+They  ‘learn’  as  well,  or  nearly  as  well,  with  their  sub-cortical  and  thal¬ 
+amic  regions.7  In  what  follows,  to  avoid  misstatements,  I  will  use  the 
+rather  vague  term,  yet  sufficient  for  my  purpose,  ‘thalamic  region*  or 
+‘lower  centres’  instead  of  more  specific  terms,  the  use  of  which  would 
+complicate  the  exposition  unnecessarily.  With  dogs,  apes,  and  men,  the 
+situation  is  increasingly  different.  Their  nervous  systems  are  more  dif¬ 
+ferentiated.  Their  functional  interchangeability  is  impaired.  In  the  most 
+complex  human  brain  there  still  exists  some  interchangeability  of  func¬ 
+tion.  When  an  arm,  for  instance,  is  paralysed  through  a  brain-lesion,  the 
+arm  may  re-acquire  a  nearly  normal  function,  though  there  is  no  regen¬ 
+eration  of  the  destroyed  brain  tissue.  However,  the  interchangeability  is 
+less  pronounced  than  in  the  lower  brains.  There  seems  to  be  no  doubt 
+that  the  thalamic  regions  are  not  only  a  vestibule  through  which  all  im¬ 
+pulses  from  the  receptors  have  to  pass  in  order  to  reach  the  cortex,  but 
+also  that  the  affective  characteristics  are  strictly  connected  with  processes 
+in  these  regions.  It  seems  that  some  very  primitive  and  simple  associa¬ 
+tions  can  be  carried  on  by  the  thalamic  regions. 
+
+The  cortex  receives  its  material  as  elaborated  by  the  thalamus.  The 
+abstractions  of  the  cortex  are  abstractions  from  abstractions  and  so 
+ought  to  be  called  abstractions  of  higher  order.  In  neurology,  similarly, 
+the  neurons  first  excited  are  called  of  ‘first  order’ ;  and  the  succeeding 
+members  of  the  series  are  called  neurons  of  the  ‘second  order’,.  Such 
+terminology  is  structurally  similar  to  the  inherent  structure  and  function 
+of  the  nervous  system.  The  receptors  are  in  direct  contact  with  the  out¬ 
+side  world  and  convey  their  excitation  and  nerve  currents  to  the  lower 
+nerve  centres,  where  these  impulses  are  further  elaborated  and  then 
+abstracted  by  the  higher  centres. 
+
+According  to  our  daily  experience  and  scientific  knowledge,  the  out¬ 
+side  world  is  an  ever-changing  chain  of  events,  a  kind  of  flux;  and, 
+naturally,  those  nerve  centres  in  closest  contact  with  the  outside  world 
+must  react  in  a  shifting  way.  These  reactions  are  easily  moved  one  way 
+or  another,  as  in  our  ‘emotions’,  ‘affective  moods’,  ‘attention’,  ‘concen¬ 
+tration’,  ‘evaluation’,  and  other  such  semantic  responses.  In  these  pro¬ 
+cesses,  some  associative  or  relational  circuits  exist,  and  there  may  be 
+some  very  low  kind  of  ‘thinking*  on  this  level.  Birds  have  a  well-devel¬ 
+oped,  or,  perhaps,  over-developed,  thalamus  but  under-developed  and 
+poor  cortex,  which  may  be  connected  with  their  stupidity  and  excitability. 
+
+Something  similar  could  be  said  about  the  ‘thalamic  thinking’  in 
+humans;  those  individuals  who  overwork  their  thalamus  and  use  their 
+cortex  too  little  are  ‘emotional*  and  stupid.  This  statement  is  not  exag- 
+
+MATHEMATICS  AND  THE  NERVOUS  SYSTEMS  291 
+
+gerated,  because  there  are  experimental  data  to  show  how  through  a 
+psycho-neural  training  the  s.r,  in  some  cases,  can  be  re-educated,  and 
+that  with  the  elimination  of  the  semantic  disturbances  there  is  a  marked 
+development  of  poise,  balance,  and  a  proportional  increase  of  critical 
+judgement,  and  so  ‘intelligence’.  Idiots,  imbeciles,  and  morons  are  usually 
+‘emotional’  and  excitable,  as  well  as  deficient  in  their  ‘mental’  processes. 
+A  similar  characteristic  can  be  found  in  other  unclassified  ‘mentally’  de¬ 
+ficient,  and  their  name  is  legion — a  characteristic  strictly  connected  with, 
+and  often  produced  by,  disturbances  of  the  s.r.  When  these  shifting, 
+dynamic,  affective,  thalamic-region,  lower  order  abstractions  are  ab¬ 
+stracted  again  by  the  higher  centres,  these  new  abstractions  are  further 
+removed  from  the  outside  world  and  must  be  somehow  different. 
+
+In  fact,  they  are  different;  and  one  of  the  most  characteristic  dif¬ 
+ferences  is  that  they  have  lost  their  shifting  character.  These  new 
+abstractions  are  relatively  static.  It  is  true  that  one  may  be  supplanted 
+by  another,  but  they  do  not  change.  In  this  fact  lies  the  tremendous 
+value  and  danger  of  this  mechanism,  as  disclosed  clearly  by  the  disturb¬ 
+ances  of  the  s.r.  The  value  is  chiefly  in  the  fact  that  such  higher  order 
+abstractions  represent  a  perfected  kind  of  memory,  which  can  be  recalled 
+exactly  in  the  form  as  it  was  originally  produced.  For  instance,  the 
+circle,  defined  as  the  locus  of  points  in  a  plane  at  equal  distance  from  a 
+given  point  called  the  centre,  remains  permanent  as  long  as  we  wish  to 
+use  this  definition.  We  can,  therefore,  recall  it  perfectly,  analyse  it . , 
+without  losing  the  definiteness  and  the  stability  of  this  memory.  Thus, 
+critical  analysis,  and,  therefore,  progress,  becomes  possible.  Compare  this 
+perfected  memory,  which  may  last  indefinitely  unchanged,  with  memories 
+of  ‘emotions*  which,  whether  dim  or  clear,  are  always  distorted.  We  see 
+that  the  first  are  reliable,  that  the  others  are  not. 
+
+Another  most  important  characteristic  of  the  higher  order  abstrac¬ 
+tions  is  that,  although  of  neural  origin,  they  may  be  preserved  and  used 
+over  and  over  again  in  extra-neural  forms,  as  recorded  in  books  and 
+otherwise.  This  fact  is  never  fully  appreciated  from  a  neurological  point 
+of  view.  Neural  products  are  stored  up  or  preserved  in  extra-neural 
+form,  and  they  can  be  put  back  in  the  nervous  system  as  active  neural 
+processes.  The  above  represents  a  fundamental  mechanism  of  time¬ 
+binding  which  becomes  overwhelmingly  important,  provided  we  discover 
+the  physiological  mechanism  of  regulating  the  s.r,  on  the  one  hand,  and 
+discover  the  mechanism  by  which  these  extra-neural  factors  can  be  made 
+physiologically  effective,  on  the  other. 
+
+If  humans  are  characterized  by  the  fact  that  they  build  up  this 
+cumulative  affair  called  ‘civilization*,  this  is  possible  through  those  higher 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+order  abstractions  and  the  time-binding  ability  to  extend  our  nervous 
+system  by  extra-neural  means,  which,  in  the  meantime,  may  play  a  most 
+important  neural  role  and  become  active  nervous  impulses.  The  last  is 
+only  possible  if  some  abstractions  are  static,  and  so  can  be  recorded, 
+leading  ultimately  to  further  extensions  of  the  human  nervous  system 
+by  extra-neural  means,  such  as  microscopes,  telescopes,  and  practically 
+all  modern  scientific  instruments,  books,  and  other  records. 
+
+To  illustrate  what  has  been  said  here,  I  know  of  no  better  example 
+than  is  found  in  moving  pictures.  When  we  watch  a  moving  picture 
+representing  some  life  occurrence,  our  ‘emotions*  are  aroused,  we  ‘live 
+through*  the  drama;  but  the  details,  in  the  main,  are  blurred,  and  a 
+short  time  after  seeing  it  either  we  forget  it  all  or  in  parts,  or  our 
+memory  falsifies  most  effectively  what  was  seen.  It  is  easy  to  verify 
+the  above  experimentally  by  seeing  one  picture  twice  or  three  times, 
+with  an  interval  of  a  few  days  between  each  seeing.  The  picture  was 
+‘moving*,  all  was  changing,  shifting,  dynamic,  similar  to  the  world  and 
+our  feelings  on  the  un-speakable  levels.  The  impressions  were  vague, 
+shifting,  non-lasting,  and  what  was  left  of  it  was  mostly  coloured  by  the 
+individual  mood.,  while  seeing  the  moving  picture.  Naturally,  under 
+such  conditions,  there  is  little  possibility  of  a  rational  scientific  analysis 
+of  a  situation. 
+
+But  if  we  stop  the  moving  film  which  ran,  say,  thirty  minutes,  and 
+analyse  the  static  and  extensional  series  of  small  pictures  on  the  reel,  we 
+find  that  the  drama  which  so  stirred  our  ‘emotions*  in  its  moving  aspect 
+becomes  a  series  of  slightly  different  static  pictures,  each  difference 
+between  the  given  jerk  or  grimace  being  a  measurable  entity,  establish¬ 
+ing  relations  which  last  indefinitely. 
+
+The  moving  picture  represents  the  usually  brief  processes  going  on 
+in  the  lower  nerve  centres,  ‘close  to  life*,  but  unreliable  and  evading 
+scrutiny.  The  arrested  static  film  which  lasts  indefinitely,  giving  measur¬ 
+able  differences  between  the  recorded  jerks  and  grimaces,  obviously 
+allows  analysis  and  gives  a  good  analogy  of  the  working  of  higher  nerve 
+centres,  disclosing  also  that  all  life  occurrences  have  many  aspects,  the 
+selection  of  which  is  mostly  a  problem  of  our  pleasure  and  of  the  selec¬ 
+tion  of  language.  The  moving  picture  gives  us  the  process ;  each  static 
+film  of  the  reel  gives  us  stages  of  the  process  in  chosen  intervals.  In 
+case  we  want  a  moving  picture  of  a  growing  plant,  for  instance,  we 
+photograph  it  at  given  intervals  and  then  run  it  in  a  moving-picture  pro¬ 
+jector,  and  then  we  see  the  process  of  growth.  These  are  empirical 
+facts,  and  the  calculus  supplies  us  with  a  language  of  similar  structure 
+with  many  other  important  consequences. 
+
+MATHEMATICS  AND  THE  NERVOUS  SYSTEMS  293 
+
+It  is  characteristic  that  those  who  claim  to  be  most  interested  in 
+human  affairs  and  human  processes,  whom  we  call,  among  others, 
+‘philosophers',  ‘psychologists'. ,  should  not  have  discovered  much  of  value 
+in  these  fields.  But  mathematicians,  who  disclaim  meaning  in  their  un¬ 
+defined  terms,  or  ‘truth'  in  their  postulates,  or  interest  in  human  affairs, 
+have  had  a  most  astonishing  and  unique  success  by  elaborating  methods 
+for  the  translation  of  the  dynamic  into  static  and  the  static  into  dynamic. 
+Claims  and  disclaims  matter  little,  but  working  in  accordance  with  the 
+survival  order  of  the  nerve  structure  and  currents  has  produced  most 
+valuable  results. 
+
+The  different  methods  of  mathematics  and  the  four-dimensional 
+‘world'  of  Minkowski  form  the  means  for  translating  the  dynamic  into 
+static  and  vice  versa.  Minkowski  established  a  language  of  a  new  struc¬ 
+ture,  closer  to  actual  facts  of  the  world  around  us  and  ourselves, 
+making  the  general  theory  of  Einstein  possible.  Further  analysis  of  these 
+issues  is  carried  out  in  Part  IX,  and  it  is  one  of  the  semantic  founda¬ 
+tions  upon  which  a  positive  theory  of  sanity  can  be  built. 
+
+Disclaiming  definite  meanings,  mathematicians  have  an  intuitive 
+predilection  for  selecting  their  terms  and  pursuing  their  line  of  enquiry 
+among  possible  meanings ,  although  formally  these  meanings  are  disre¬ 
+garded.  The  feeling  which  directs  the  selection  of  material  which  is 
+formally  interesting  and  important  is  akin  to  the  artistic  sense,  but, 
+unfortunately,  in  spite  of  its  importance,  it  has  been  neglected  by 
+‘psychologists'.  Quite  often  it  is  the  ‘feel'  which  directs  the  mathema¬ 
+ticians  in  their  researches  and  suggests  or  modifies  lines  of  development 
+or  the  selection  of  one  set  of  postulates  in  preference  to  other  sets.  This 
+is  why  the  ordinary  sense  of  the  terms  used  in  mathematics  is  so  im¬ 
+portant,  although  it  represents  only  some  of  the  possible  meanings. 
+These,  with  their  implications,  usually  represent  most  important  struc¬ 
+tural  characteristics  of  the  human  nervous  system  and  the  world. 
+
+This  is  to  be  expected  because  of  the  reasons  given  above ;  the  more 
+so  that  invariance  in  this  shifting  world  is  a  characteristic  of  relations, 
+and  mathematics  is  a  language  of  exact  relations  which,  in  the  mean¬ 
+time,  have  mostly  objective  counterparts.  The  highest  abstractions  at 
+every  date  are  detached  from  the  outside  world  neurologically,  and 
+should  remain  detached,  to  represent  ‘pure  mind'  in  action.  These  higher 
+abstractions  are  on  the  public  level,  as  they  are  transmittable  verbally 
+with  all  characteristics  included.  They  are  static,  unhampered  directly 

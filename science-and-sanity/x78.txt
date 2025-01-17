@@ -1,0 +1,500 @@
+
+U  \  /  be  illustrated  by  a  diagram  of 
+
+$  \\  \  /  a  special  case.  In  Fig.  1,  the 
+
+g  0.5  *\  crosses  indicate  the  experi- 
+
+i!  Experimental  Data  mental  data,  the  curves  indi- 
+
+\\  cate  the  results  as  predicted  by 
+
+\VNew  Quantum  tbe  classical  theory,  by  the 
+
+-25  \\  Theory  Compton  theory,  and  by  the 
+
+Compto&V  new  quantum  mechanics.  It 
+
+Theory  **5^^  should  be  noticed  that  the  new 
+
+0  h  y  — —  quantum  theory  appears  much 
+
+O  45  30  ig0  more  in  accordance  with  the 
+
+Angle  of  Scattering  experimental  data  than  the 
+
+(After  The  New  Quantum  Mechanics  older  theories.  This  fact  is  of 
+
+by  G.  Birtwistle,  p.  192)  great  structural  and  semantic 
+
+Fig.  1  importance  to  us  as  well  as  to 
+
+-  .  ‘  the  physicist. 
+
+^^-Experimental  Data 
+
+_  _  \V^New  Quantum 
+
+Theory 
+
+Compton 
+
+Theory 
+
+O  L_  .  "  u  «- 
+
+O  45  30  735 
+
+Angle  of  Scattering 
+(After  The  New  Quantum  Mechanics 
+by  G.  Birtwistle,  p.  192) 
+
+Fig.  1 
+
+Section  B.  The  nature  of  the  problem . 
+
+“y  “pI“  ,h«  ”*•"»  <* ,h'  p™1"'”  •»..  w„ 
+
+We  have  become  familiar  with  the  use  of  co-ordinates.  This  procedure  has 
+been  generalized  and  has  given  rise  to  ‘generalized  co-ordinates’.  These  are 
+defined  as  arbitrary  variables  which  represent  not  merely  lengths  but  may  also 
+represent  angles,  surfaces,  volumes  .  ,  though  they  must  be  capable  of  repre¬ 
+senting  the  3n  orthogonal  co-ordinates.  If,  in  a  special  case,  we  make  the 
+"*:0f  generalized  co-ordmates  equal  to  the  number  of  degrees  of  freedom 
+which  the  system  has,  these  5  generalized  co-ordinates  can  be  regarded  as  inde- 
+pendent  of  each  other.  If  we  denote  by  g{  the  generalized  co-ordinate,  (i  =  1  to  s) 
+t  en  the  orthogonal  co-ordinates  of  any  of  the  n  particles  can  be  represented  as 
+definite  functions  of  the  generalized  co-ordinates,  so  that 
+
+Xh  fen  ?2,  93,  .  .  .  q8)  .  (1) 
+
+We  know  that  kinetic  energy  is  represented  by  mv2/2  where  m  represents 
+the  mass  and  v  the  velocity,  or  the  ‘time’  derivative  of  the  ‘space’  travelled. 
+
+we  want  to  find  the  value  for  the  energy  we  must  differentiate  each  of  the 
+,  e<?Uatl°nS  (1)  w,th  resPect  to  ‘time’,  which  gives  the  components  of  the 
+ve  ocity,  square  them,  multiply  them  by  the  corresponding  masses  and  add 
+them  together  to  find  the  double  value  for  the  energy. 
+
+THE  NEWER  'MATTER' 
+
+For  simplicity  we  will  denote  the  ‘time’  derivatives  by  the  chosen  letter 
+but  with  a  dot  over  it  (newtonian  method).  Thus, 
+
+dxi, .  dx*  ,  d** . 
+
+**=^2l  +  ^9S+  W 
+
+Squaring  (2),  we  have 
+
+“■-(£)‘s‘I+(S)v+ "+(S>' 
+
+,  „dxh  dxh  .  .  dxh  ...  ... 
++  2  —  —  M2  +  2  —  —  Ms  + 
+dqi  dq2  dqi  dqz 
+
+♦  see  page  xii 
+
+ndxh  dxh  .  .  , 
++  2-—  —  2s23  + 
+052  023 
+
+The  last  expression  (3)  can  be  simplified : 
+
+.  v'1  dxh  .  .  (41 
+
+Xh2  =2  22  ^  TT  2<®>  ■  W 
+
+Pi  fe-i  32<  32*, 
+
+It  is  easy  to  see  that  if  in  (4)  we  put  k  =i  we  will  have  square  members, 
+and  when  k,  every  term  will  occur  twice  and  so  the  above  abbreviation  (  ), 
+
+covers  the  formula  (3).  f  , 
+
+If  we  write  similar  expressions  for  all  of  the  3 n  orthogonal  co-ordinates, 
+multiply  by  the  corresponding  masses  and  then  add  them  together  we  obtain 
+twice  the  value  for  the  kinetic  energy  2 L. 
+
+i—s  k**s 
+
+2L  =  X)  X  c*  ft  ft*  where 
+
+i-i  k=i 
+
+to  \dxhdxh  dyndyk 
+
+C*k  mh  |_  dqi  dqje  dqi  dqu  dqi  dqk  J 
+
+The  coefficients  in  the  expansion  of  Ok  depend  only  on  the  values  of  the  general¬ 
+ized  co-ordinates  and  are  independent  of  the  value  of  the  time-derivatives. 
+The  time-derivatives  can  be  properly  called  generalized  velocities ,  and  we  may 
+
+denote  them  by  q ».2 
+
+In  establishing  formulae  for  the  quantum  theory  we  want  to  be  as  general 
+as  possible  and  not  restrict  ourselves  to  vibrational  energy  only.  But  we  want 
+to  take  into  consideration  any  arbitrary  point-mass,  independently  of  whether 
+
+we  assume  this  point  to  be  charged  or  not. 
+
+We  define  the  momentum  or  impulse  as  the  product  of  the  mass  and  the 
+velocity,  or,  p  =mv.  If,  instead  of  denoting  our  co-ordinates  by  *,  y,  and  2,  we 
+use  the  generalized  co-ordinates  qit  we  would  have  for  the  magnitude  and 
+direction  of  the  velocities  the  time-derivatives  of  the  co-ordinates;  namely, 
+qit  where  qx=x=dx/dt,  q2=y=dy/dt ,  . 
+
+If  Pu  Pit  Pit  represent  the  corresponding  components  of  the  momentum 
+or  impulse,  then  we  would  have  pi=mqi. 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+We  should  notice  that  the  dynamical  triplet  of  impulse  co-ordinates  occurs 
+conjointly  with  the  geometrical  triplet  of  the  co-ordinates  of  position.  The 
+second  law  of  motion  tells  us  that  ‘the  change  in  momentum  is  proportional  to 
+the  impressed  force  and  takes  place  in  the  direction  in  which  that  force  acts’. 
+If  we  assume  that  the  force  K  is  derivable  from  the  potential  energy  Epot,  (a 
+
+function  of  $*•),  then  we  have  pi  =K<  =~^Epo\  (6) 
+
+dqi  *  w 
+
+The  kinetic  energy  ( Ekin )  is  represented  by 
+
+2  2m 
+
+where  by  We  call  the  total  energy,  which  is  represented  as 
+
+the  sum  of  the  kinetic  and  the  potential  energy,  as  expressed  in  terms  of  the 
+generalized  co-ordinates  and  momenta,  the  hamiltonian  function  H.  Then 
+we  have: 
+
+H  (q,  p)  =Ekin+Epct,  9H=dEMn  =Pi 
+
+dq%  dqi  dpi  dpi  m 
+
+From  (5),  (6),  and  (7),  we  get  the  fundamental  equations  of  motion, 
+
+(7) 
+
+dt  dpi  dt  dqi 
+
+The  above  hamiltonian,  or  canonical,  form  of  the  equations  is  remarkable 
+because  it  preserves  its  form  if  any  arbitrary  co-ordinates  are  introduced;  it  is 
+invariant  under  the  transformation  of  co-ordinates.  The  equations  hold  not 
+only  for  an  individual  point-mass  but  also  for  any  arbitrary  mechanical  system. 
+For  arbitrary  co-ordinates  and  systems  the  momentum  or  impulse  p  is  defined  by 
+
+A  _&Ekin 
+
+P*  so  that  the 
+
+dqi 
+
+kinetic  energy  is  expressed  as  a  function  of  the  g.-'j  and  their  derivatives  the  g,’s. 
+
+To  help  visualization  we  can  construct  and  consider  the  p  and  q  as  rect¬ 
+angular  co-ordinates  in  two  dimensions  in  the  phase  plane  of  our  system.  In 
+this  plane  the  sequence  of  those  graph-points  that  correspond  to  the  successive 
+states  of  motion  of  the  system  represent  the  phase  paths  or  phase-orbits.  The 
+characteristic  structural  feature  of  the  quantum  theory  is  that  it  selects  a  dis¬ 
+crete  family  of  phase-orbits  from  the  infinity  of  possible  orbits. 
+
+We  next  consider  a  point-mass  m  that  is  bound  elastically  to  its  position 
+of  rest,  and  which  can  move  to  either  side  of  the  central  position  only  in  the 
+direction  x  =q,  or  its  reverse,  when  experiencing  a  restoring  force.  We  call  such 
+point-mass  a  linear  oscillator.  If  we  wish  to  emphasize  that  our  oscillator  is 
+capable  only  of  definite  vibrations,  on  account  of  its  elastic  attachment,  we 
+call  it  a  ‘harmonic  oscillator’.  If  the  vibration  number,  or  the  frequency  of  the 
+oscillator,  winch  is  represented  by  the  number  of  its  free  vibrations  per  unit 
+of  time  ,  is  denoted  by  v,  then  the  vibration  is  represented  by  x  =q  =a  sin  2irvt. 
+
+THE  NEWER  'MATTER' 
+
+The  impulse  becomes  p-mv-mq-2irvma  cos  2 rvt.  The  phase-orbit  is  repre- 
+
+g2  P 2 
+
+sented  by  an  ellipse  in  the  p-g-plane  and  is  given  by  the  equation  - +“2  =  1. 
+where  the  minor  axis  b  =  2irvma. 
+
+In  our  family  of  orbits  the  phase  area  between  two  orbits  is  equal  to  the 
+quantum  of  action  h.  Sommerfeld  regards  h  as  an  elementary  region  or  element 
+of  the  phase  area,  and  considers  it  as  the  definition  of  the  Planck  quantum 
+of  action  h.  If  Wn  represents  the  energy  of  the  oscillator  when  it  describes  the 
+w-th  orbit,  then  Wn=nhv.  In  these  orbits  the  energy  appears  as  a  whole 
+multiple  of  the  elementary  quantum  of  energy;  €  =hv,  and  Wn  =ne. 
+
+We  call  stationary  states  of  the  oscillator  those  states  which  the  oscillator 
+may  pass  through  without  cessation  and  without  loss  of  energy,  or,  without 
+radiation. 
+
+When  an  oscillator  retains  its  stationary  state,  its  energy  is  constant  and 
+its  graph  appears  as  an  ellipse  of  the  family  in  the  phase  plane.  However, 
+when  the  energy  of  the  oscillator  changes  and  jumps  over  to  a  smaller  orbit, 
+it  emits  energy.  When  it  passes  to  a  larger  orbit  it  absorbs  energy.  The  emission 
+and  absorption  of  energy  occurs  in  multiples  of  the  energy  quantum,  6. 
+
+The  graphs  of  the  system  in  the  phase  plane  are  restricted  to  certain 
+‘quantised*  orbits.  Between  each  orbit  and  its  successor  there  is  an  elementary 
+region,  of  area  h.  The  w-th  orbit,  if  closed,  has  as  area  nh>  Or,  expressed  sym¬ 
+bolically,  fpdg=nh.  This  integral  is  called  the  phase  integral  and  is  taken 
+along  the  «-th  orbit. 
+
+The  quantum  hypothesis  can  be  structurally  formulated  so  that  the  phase 
+integral  must  be  a  whole  multiple  of  the  quantum  of  action  h.  This  forin  of 
+the  classical  quantum  postulate  is  more  general  than  the  original  formulation 
+of  Planck,  although  it  includes  the  latter  as  a  particular  case. 
+
+pi 
+
+In  case  of  a  rotating  point-mass,  a  similar  analysis  gives  us  Ekin  =-r 
+
+and  when  ,  Ew»  = vf  =  T  where  v  represents  the  rotation  frequency 
+
+2 re  2  2tc  l 
+
+of  the  rotator,  or  the  number  of  full  revolutions  per  unit  of  ‘time’,  and  takes  the 
+place  of  the  vibration  number  of  the  oscillator. 
+
+In  the  classical  theory,  the  quantised  states  were  distinguished  from  all 
+other  possibilities  by  the  characteristic  whole  numbers,  and  so  we  had  a  network. 
+In  a  quantum  orbit  the  ‘electron’,  if  undisturbed,  was  supposed  to  move  per¬ 
+manently  without  resistance  and  not  to  emit  radiation.  The  phase-space, 
+representing  the  manifold  of  the  possible  states,  including  non-stationary  states, 
+is  crossed,  mesh-like,  by  the  graph  curves  of  the  stationary  orbits.  The  size 
+of  the  meshes  is  determined  by  Planck’s  constant  h ,3 
+
+Section  C .  Matrices . 
+
+The  older  quantum  mechanics  forms  an  elaborate  system,  and  we  have  a 
+large  accumulation  of  numerical  data  on  record.  Some  of  these  data  corroborated 
+the  older  theories  nicely,  but  some  data  were  in  contradiction  to  the  classical 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+theory.  The  problem  was  not  to  discard  the  numerical  data,  which,  whatever 
+they  mean  structurally,  represent  quite  solidly  established  data,  but  to  find 
+new  equations  which  would  be  satisfied  by  these  facts.  Now  ‘new  equations’ 
+
+really  mean  languages  of  new  structure,  and  therefore  new  formulations  had 
+to  be  discovered. 
+
+Dealing  with  tables  which  give  special  theoretical  data,  it  was  natural  to 
+start  with  a  calculus  which  deals  with  such  numerical  special  tables.  Such  a 
+calculus  had  been  developed  long  ago,  and  was  called  the  matrix  calculus 
+Later  on,  when  matrices  themselves  were  treated  as  complex  quantities,  and 
+still  later,  as  operators,  we  were  enabled  to  pass  to  the  more  developed  calculi 
+which  use  ordinary  differential  equations.  The  new  quantum  theories  give  us 
+a  unique  case,  in  which  several  mathematical  methods  have  been  used  at  once 
+and  of  which  the  results  are  fairly  in  accord. 
+
+At  this  point  it  is  advisable  to  give  a  few  structural  explanations  of  these 
+mathematica1  notions,  including  the  matrix  calculus.  If  we  have  two  equations 
+of  the  first  degree  with  two  variables;  namely,  a1x+b1y  =  c1  and  a2x+b2y=c2, 
+
+the  solution  of  these  equations  takes  the  form;  x-btCl  -cia,. 
+
+j  .  ai&2—  a\b%—a?b\ 
+
+The  common  denominator  of  the  two  solutions  can  be  written  in  a  two- 
+dimensional  table  u 
+
+lai,  &i| 
+
+.  I  *2  f  (1) 
+
+rivhtV8  "ndersf°d  as. the  Product  of  the  upper  left-hand  number  and  the  lower 
+hand  nMte^mber’  mmUS  ^  produCt  of  the  Iower  left-hand  and  upper  right- 
+
+Similarly,  the  numerators  of  these  solutions  can  also  be  represented  in 
+the  form  of  two-dimensional  tables;  namely, 
+
+(2)  and  ciai  —  ciOj 
+
+(3) 
+
+4*»-6i»-|Cl’  bl 
+
+I  ^2,  ^2  , 
+
+to  which  the  above-mentioned  rule  appHes.  Expressions  like2’(lT'  (2),  (3)  are 
+called  determinants  of  the  second  order.  W 
+
+The  numbers  in  the  first,  second  .  ,  horizontal  lines  are  called  the  first 
+second  ,  rows,  respectively;  the  vertical  lines  are  called  first,  second  .  ,  columns'. 
+
+enuJin  abT  definit|°nS  a"d  method  0411  be  aPP,ied  to  a»y  "umber  of 
+
+wouH  b  s  “  T  "Umber  °f  variables-  and  in  case  our  determinant 
+would  have  n%  numbers,  n  rows  and  n  columns. 
+
+We  may  use  another  notation  which  employs  one  letter  for  the  coefficients 
+o  four  variables,  with  indexes  or  suffixes  to  indicate  that  their  values  are 
+dirterent.  Let  us  consider  »2  elements  in  the  table: 
+
+fli.i»  ai.2>  ^1.3,  .  .  .  ,  ai >n 
+<*2,2,  <*2,3,  •  •  •  ,  a2,n 
+
+™  an,2f  <*n,3,  ...»  <*n,H  | 
+
+The  expression  (4)  is  called  a  determinant  of  the  n- th  order. 
+
+(4) 
+
+THE  NEWER  'MATTER' 
+
+The  notation  by  suffixes  is  very  convenient  and  is  very  much  used  these 
+days.  The  first  suffix  denotes  the  row,  the  second  the  column  in  which  the 
+element  is  situated.  Usually  the  comma  dividing  the  two  numbers  in  the  index 
+is  dropped  and  the  coefficients  are  written  simply  an,  instead  of  ai,i.  In  general 
+the  element  a*t*,  or  a represents  the  element  in  row  i  and  column  k. 
+
+The  elements  lying  in  the  diagonal  joining  the  upper  left-hand  to  the  lower 
+right-hand  number  are  called  the  principal  diagonal.  In  our  example  we  notice 
+that  the  elements  in  the  diagonal  are  such  that  i—k. 
+
+We  have  definite  rules  by  which  we  can  arrive  at  the  solution  of  our 
+equations,  once  the  coefficients,  which  are  the  elements  of  the  determinant, 
+are  given.  In  general,  the  determinants  are  treated  as  a  functional  form. 
+
+If  m  and  n  are  positive  integers,  a  manifold,  or  system  of  mn  ordered 
+quantities  or  elements  arranged  in  m  horizontal  and  n  vertical  rows,  will  be 
+called  a  rectangular  matrix  and  we  may  use  the  notation  A  =  (a(mn)) : 
+
+(a(ll)  a(12)  a(13) 
+a(21)  a(22)  a(23) 
+a(31)  a  (3*2)  a(33) 
+
+^  ,  or  (a(nm)). 
+
+The  numbers  m  and  n  are  called  the  orders  of  the  matrix.  If  m—n  the  matrix 
+is  called  a  square  matrix.  Without  loss  of  generality  we  can  treat  any  rectangular 
+matrix  in  which  m  n  as  a  square  matrix  by  supplementing  the  missing  rows 
+
+and  columns  with  zeros. 
+A  matrix  of  the  type, 
+
+or  (5(wm))f 
+
+where  8(nm)  «1  for  n=m,  and  6(nm)  *0  for  n  ^  m,  is  called  a  unit  matrix. 
+
+The  matrix 
+
+a(33) 
+
+^  or  ( a(tm )  S(nm)), 
+
+is  called  a  diagonal  matrix.  In  the  new  quantum  mechanics  a  diagonal  matrix 
+is  independent  of  t  and  represents  a  constant  of  the  classical  theory.  The 
+reverse  is  not  necessarily  true.  The  operation  of  differentiation  can  be  expressed 
+in  terms  of  multiplication  of  matrices  with  the  aid  of  the  unit  matrix.4 
+
+Equations  in  which  matrices  are  equated  are  called  matrix  equations.  If 
+the  equations  involve  only  one  unknown  matrix,  which  does  not  occur  more 
+than  once  as  a  factor,  such  equations  are  called  matrix  equations  of  the  first 
+degree. 
+
+X.  ON  THE  STRUCTURE  OF  ‘MATTER’ 
+
+The  m  scalar  equations 
+
+011*1+012*2  +  .  • 
+
+•  +01n*n  — C\ 
+
+021*1  +022*2  +  •  • 
+
+•  +02»*n  =  C% 
+
+0ml*l+0m2*2+  •  . 
+
+•  +0m«*n  =  Cm 
+
+are  together  equivalent  to  one  single  matrix  equation.  There  are  several  ways 
+in  which  the  notation  can  be  simplified. 
+
+The  difference  between  a  determinant  and  a  matrix  is  subtle,  but  important 
+By  a  determinant  we  understand,  by  definition,  a  certain  homogeneous  poly¬ 
+nomial  of  the  n-th  degree,  in  the  «2  elements  aH.  Accordingly,  a  determinant 
+gives  a  definite  number  when  calculated. 
+
+But  m  many  instances  we  are  interested  in  the  table ,  or  the  n2  elements 
+arranged  in  a  certain  order  but  not  combined  into  a  polynomial.  Such  an  array, 
+or  table,  is  called  a  matrix.  Thus,  from  this  point  of  view,  a  matrix  does  not 
+represent  a  definite  quantity,  but  a  system  of  quantities,  and  so  a  matrix  is 
+not  a  determinant. 
+
+We  can  illustrate  this  difference  by  an  example.  If  we  take  a  determinant 
+of  the  second  order 
+
+Iai,  I 
+
+02,  b%  I 
+
+and  change  the  rows  into  columns,  or  vice  versa,  thus: 
+
+0i t  02  I 
+b\,  I 
+
+the  value  of  both  determinants  will  be  equal;  namely, 
+
+01&2  —  02&1, 
+
+by  the  definition  rule  already  given;  yet  the  matrices  of  the  two  determinants 
+are  different . 
+
+Although  different,  a  determinant  nevertheless  defines  a  matrix,  called  the 
+matrix  of  the  determinant;  conversely,  a  matrix  defines  a  determinant,  called 
+the  determinant  of  the  matrix. 
+
+We  have  said  that  a  matrix  does  not  represent  a  quantity,  while  a  deter¬ 
+minant  does.  At  this  stage,  and  from  this  point  of  view,  we  may  say  so  legiti¬ 
+mately.  However,  we  might  eventually  treat  a  matrix  as  a  quantity  also;  but 
+for  this  purpose  we  should  have  to  enlarge  the  meaning  of  the  term  'quantity'. 
+
+In  our  present  use  of  the  term  'quantity'  we  mean  the  real  and  complex 
+quantities  of  ordinary  algebra. 
+
+It  may  be  said  that  mathematicians  have  had  a  peculiar  tendency,  which 
+has  proven  of  great  value  in  the  development  of  mathematics,  gradually  to 
+extend  the  meaning  of  terms  in  order  to  embrace  new  notions  as  they  arise. 
+For  instance,  we  have  enlarged  the  primitive  meaning  applied  to  positive  in¬ 
+tegers  to  embrace  negative  numbers,  which  formerly  would  not  have  been  con¬ 
+sidered  as  quantities.  Similarly,  if  we  here  use  the  ordinary  notion  of  algebraic 
+quantity,  then  a  matrix  is  not  a  quantity  but  a  system  of  quantities.  The 
+problem  is,  how  shall  we  enlarge  this  meaning  to  include  the  matrices? 
+
+THE  NEWER  'MATTER’ 
+
+Mathematics  recognizes  that  this  generalization  of  mathematical  notions  is 
+extremely  useful  and  legitimate .  This  structural  issue  appears  to  be  of  very 
+general  application,  as  all  of  us  exhibit  a  tendency  towards  it.  It  is  a  purely 
+mathematical  and  useful  tendency  in  mathematics,  but  it  leads  to  disastrous 
+results  when  applied  to  daily-L-j  abstractions,  as  explained  in  Part  VII.  In 
+this  connection  we  should  recall  the  difference  between  the  mathematical  con¬ 
+tentless  abstractions  and  the  abstractions  with  physical  content,  with  which 
+we  are  generally  concerned  in  science  and  life. 
+
+Let  us  now  follow  up  the  method  by  which  a  matrix  can  be  considered  as 
+a  quantity.  If  we  have  objects  of  two  or  more  kinds  which  can  be  counted  or 
+measured,  and  if  we  consider  an  aggregate  of  such  objects,  say  5  horses,  3  cows 
+and  2  sheep,  we  could  denote  such  a  complex  quantity  by  the  symbol  (5,3,2). 
+In  this  case,  the  first  place  in  our  symbol  would  be  reserved  for  horses,  the 
+second  for  cows,  and  the  third  for  sheep. 
+
+In  mathematics,  we  do  not  specify  horses,  or  cows,  or  sheep,  but  consider 
+sets  of  quantities,  and  distinguish  them  by  the  position  which  they  have  in  our 
+symbolism.  We  may  denote  such  a  complex  quantity  by  a  single  letter, 
+A  =  (atb,c,).  (For  instance,  we  denote  a  fraction  by  a  single  letter,  although  a 
+fraction  is  specified  by  two  numbers.) 
+
+In  such  an  instance,  we  should  call  a  complex  quantity  equal  to  another 
+when,  and  only  when,  the  components  are  respectively  equal.  And  a  complex 
+quantity  is  said  to  vanish  only  in  case  all  the  components  vanish. 
+
+Ordinary  mathematical  operations  can  be  applied  to  such  complex  quan¬ 
+tities.  For  instance,  we  may  define  a  sum  or  difference  of  two  complex  quantities 
+A '  =  (ai,  bit  ci)  and  A”  =  (a2,  b2,  c2)  as 
+A'±A"  —  (aid=a2,  biztb2j  ci±C2)  •  * 
+

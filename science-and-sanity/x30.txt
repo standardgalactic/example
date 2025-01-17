@@ -1,0 +1,500 @@
+
+From  a  A  point  of  view,  we  must  treat  infinity  in  the  first  can- 
+torian  sense;  namely,  as  a  variable  finite,  the  term  variable  pertaining 
+to  the  semantic  process  but  not  to  number,  the  term  finite  pertaining  to 
+both  the  semantic  arrest  of  the  infinite  semantic  process,  and  so  charac¬ 
+terizing  also  its  result ;  namely — a  number. 
+
+In  the  meantime,  the  numerical  technique  is  indefinitely  flexible  in 
+the  sense  that  no  matter  how  great  a  number  we  take,  we  always  can,  by 
+a  semantic  process,  produce  a  greater  number,  and  no  matter  how  small 
+the  difference  between  two  numbers  might  be,  we  always  can  find  a 
+third  number  which  will  be  greater  than  the  smaller,  and  smaller  than 
+the  given  greater  number.  Thus,  we  see  that  the  numerical  technique  is 
+such  as  to  correspond  in  flexibility  exactly  to  the  semantic  processes,  but 
+
+208  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+there  is  nothing  flexible  about  a  definite  number  once  it  is  selected. 
+What  has  been  already  said  about  a  variable  applies,  also,  to  a  number ; 
+namely,  that  a  ‘variable*  does  not  ‘vary*  in  the  ordinary  sense ;  but  this 
+term  applies  only  to  the  semantic  processes  of  the  mathematician.  The 
+older  intensional  A  definition  of  ‘number*  must  have  led  to  the  older 
+identifications.  The  A,  extensional,  and  non-el  semantic  definition  of 
+numbers  does  not  allow  such  identifications.  The  A  term  ‘number* 
+applied  to  a  definite  number,  but  also  to  an  intensional  definition  of 
+numbers.  The  A ,  or  semantic  definition  of  numbers,  is  different  in 
+the  sense  that  it  finds  extensional  characteristics  of  each  number,  applic¬ 
+able  to  all  numbers,  and  so  helps  not  to  identify  a  definite  number 
+with  the  process  of  generating  numbers,  which  the  use  of  one  term  for 
+two  entirely  different  entities  must  involve. 
+
+Cantorian  alephs ,  then,  are  the  result  of  identification  or  confusion 
+of  entirely  different  issues  and  must  be  completely  eliminated.  The 
+rejection  of  alephs  will  require  a  fundamental  revision  of  those  branches 
+of  mathematics  and  physics  which  utilize  them ;  yet,  as  far  as  I  know, 
+with  a  very  few  exceptions,  the  alephs  are  not  utilized  or  needed, 
+although  the  ‘wiw/  is  used,  which  spell-mark  has  become  fashionable  in 
+many  mathematical  and  physical  circles.  In  the  case  of  alephs,  history 
+may  repeat  itself  and  the  alephs,  like  the  ‘infinitesimal*,  when  their 
+self-contradictory  character  becomes  understood,  will  be  eliminated 
+without  affecting  the  great  body  of  mathematics,  but  only  the  small 
+portions  which  are  built  on  the  alephs. 
+
+As  to  the  existence  of  infinite  processes,  we  know  positively  only 
+about  the  semantic  process  of  generating  numbers  and  the  semantic 
+process  of  infinite  divisibility.  These  processes  are  evident  in  our 
+common  experience.  We  cannot  a  priori  know  if  such  infinite  processes 
+can  be  found  in  the  world  which  must  be  discovered  by  investigation  and 
+experimentation. 
+
+The  existing  terminology  is  still  A  and  is  based  on,  and  leads 
+to,  identification,  and  so  in  my  A  presentation  I  cannot  use  it  and 
+expect  to  clear  up  some  of  the  issues  involved.  The  terms  such  as 
+‘class*,  ‘aggregate*,  ‘set’.,  imply  a  definite  static  collection.  The  term 
+‘infinite*,  in  the  meantime,  can  only  be  correctly  and  significantly  used 
+as  applied  to  a  dynamic  semantic  process.  We  cannot  speak  of  ‘infinite’ 
+classes,  aggregates,  sets.,  and  evade  the  issues  of  identification  of 
+entirely  different  entities.  The  term  ‘series*  has  a  technical  meaning  in 
+connection  with  numbers  and  so,  for  a  general  discussion  of  processes, 
+is  a  little  too  specific.  The  term  ‘array*  is  more  general,  yet  extensional, 
+of  which  ‘series*  would  be  a  special  case.  The  general  term  ‘number* 
+
+ON  Till-;  NOTION  or  INFINITY 
+
+is  multiordinal  and  intensional  and  so,  in  the  A  extensional  system, 
+revalued,  and  must  be  used  in  the  plural;  namely,  ‘numbers’.  The 
+term  ‘number’  in  the  singular  will  be  used  to  indicate  a  definite  number. 
+The  term  ‘denumerable’  has  been  introduced  by  Cantor  and  means  any 
+extensional  array  of  terms,  facts,  states,  observables . ,  which  can  be  put 
+in  one-to-one  correspondence  with  the  infinite  array  of  positive  integers. 
+
+Let  me  repeat  once  more :  the  semantic  process  may  be  carried  on 
+without  limits,  and  the  infinite  series  of  positive  integers  is  an  exten¬ 
+sional,  technical,  and  verbal  expression  of  this  semantic  process  and  the 
+only  infinite  array  of  which  existence  we  are  certain. 
+
+We  shall  be  able  to  explain,  and  to  give  a  better  definition  of, 
+mathematical  infinity  if  we  introduce  an  extremely  useful  structural 
+term,  ‘equivalence’.  Two  processes,  arrays . ,  between  which  it  is  possible 
+to  set  up,  by  some  law  of  transformation,  a  one-to-one  correspondence 
+are  said  to  be  equivalent .  A  process,  array . ,  which  is  equivalent  to  a 
+part  of  itself,  is  said  to  be  infinite.  In  other  words,  a  process,  array. , 
+which  can  be  put  into  a  one-to-one  correspondence  with  a  part  of  itself 
+is  said  to  be  infinite.  We  can  define  a  finite  process,  array.,  (class, 
+aggregate.,)  as  one  which  is  not  infinite.  The  following  is  valid  exclu¬ 
+sively  because  of  the  use  of  the  ‘etc-’ 
+
+A  few  examples  will  make  this  definition  clearer.  If  we  take  the 
+series  of  positive  integers,  1,  2,  3,  4,  ...  etc.,  we  can  always  double 
+every  number  of  this  row  provided  we  retain  the  process-character ,  hut 
+not  otherwise.  Let  us  write  the  corresponding  row  of  their  doubles  under 
+the  row  of  positive  integers,  thus : 
+
+1,  2,  3,  4,  5,  .  .  .  .etc. 
+
+2,  4,  6,  8,  10,  ...etc. 
+
+or  we  can  treble  them,  or  «-ble  them,  thus : 
+
+1,  2,  3,  4,  5,  ....  etc. 
+
+3,  6,  9,  12,  15,  ..etc* 
+
+there  are  obviously  as  many  numbers  in  each  row  below  as  in  the  row 
+above,  provided  we  retain  the  ‘etc./,  so  the  numbers  of  numbers  in 
+the  two  rows  compared  must  be  equal.  All  numbers  which  appear  in 
+each  bottom  row  also  occur  in  the  corresponding  upper  row,  although 
+they  only  represent  a  part  of  the  top  row,  again  provided  that  we  retain 
+the  ‘etc.’ 
+
+The  above  examples  show  another  characteristic  of  infinite  pro¬ 
+cesses,  arrays , .  In  the  first  example,  we  have  a  one-to-one  correspondence 
+between  the  natural  numbers  and  the  even  numbers,  which  are  equal  in 
+number  at  each  stage.  Yet,  the  second  row  results  from  the  first  row  by 
+
+210  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+taking  away  all  odd  numbers,  which,  itself,  represents  infinite  numbers 
+of  numbers. 
+
+This  example  was  used  by  Leibnitz  to  prove  that  infinite  arrays 
+cannot  exist,  a  conclusion  which  is  not  correct,  since  he  did  not  realize 
+that  both  finite  and  infinite  arrays  depend  on  definitions.  We  should  be 
+careful  not  to  approach  infinite  processes,  arrays . ,  with  prejudices,  or 
+silent  doctrines  and  assumptions,  or,  in  general  s.r ,  taken  over  from 
+finite  processes,  arrays , . 
+
+Thus  we  see  that  the  process  of  generating  natural  numbers  is 
+structurally  an  infinite  process  because  its  results  can  be  put  in  a  one-to- 
+one  correspondence  with  the  results  of  the  process  of  generating  even 
+numbers . ,  which  is  only  a  part  of  itself.  Similarly,  a  line  AB  has 
+infinitely  many  points,  since  its  points  can  be  put  into  a  one-to-one 
+correspondence  with  the  points  on  a  segment  CD  of  AB.  Another 
+*  see  page  xii  example  can  be  given  in  the  Tristram  Shandy  paradox  of  Russell. 
+
+Tristram  Shandy  was  writing  his  autobiography,  and  was  using  one 
+year  to  write  the  history  of  one  day.  The  question  is,  would  Shandy 
+ever  complete  his  biography  ?  He  would,  provided  he  never  died,  or  he 
+lived  infinite  numbers  of  years.  The  hundredth  day  would  be  written  in 
+the  hundredth  year,  the  thousandth  in  the  thousandth  year,  etc.  No 
+day  of  his  life  would'  remain  unwritten,  again  provided  his  process  of 
+living  and  writing  would  never  stop . 
+
+Such  examples  could  be  given  endlessly.  It  is  desirable  to  give  one 
+more  example  which  throws  some  light  on  the  problems  of  ‘probability", 
+‘chance*, .  The  theory  of  probability  originated  through  consideration  of 
+games  of  chance.  Lately  it  has  become  an  extremely  important  branch 
+of  mathematical  knowledge,  with  fundamental  structural  application  in 
+physics,  general  semantics,  and  other  branches  of  science.  For  instance. 
+Boltzman  based  the  second  law  of  thermodynamics  on  considerations  of 
+probability.  Boole*s  ‘laws  of  thought*,  and  the  many-valued  ‘logic*  of 
+Lukasiewicz  and  Tarski  are  also  closely  related  to  probability;  and  the 
+new  quantum  mechanics  uses  it  constantly , . 
+
+The  term  ‘probability*  may  be  defined  in  the  rough  as  follows :  If 
+an  event  can  happen  in  a  different  ways,  and  fails  to  happen  in  b  differ¬ 
+ent  ways,  and  all  these  ways  are  equally  likely  to  occur,  the  probability  of 
+
+the  happening  of  the  event  is _ _ _ ,  and  the  probability  of  its  failing 
+
+a  +  b 
+
+is  . 
+a  -j-  b 
+
+Let  us  assume  that  in  a  certain  city  a  lecture  is  held  each  day,  and 
+that,  though  the  listeners  may  change  each  day,  the  numbers  of  listeners 
+
+ON  THK  NOTION  OF  INFINITY 
+
+are  always  equal.  Suppose  that  one  in  each  twenty  inhabitants  of  this 
+town  has  M  as  the  first  letter  of  his  name.  What  is  the  probability  that, 
+‘by  chance * ,  all  the  names  of  the  audience  would  begin  with  M  ?  Let  us 
+call  such  a  happening  the  M-event.  In  the  simplest  case,  when  the  daily « 
+number  of  listeners  is  only  one,  the  probability  of  an  M-event  is  1  in  20, 
+or  1/20.  The  probability  of  an  M-event  for  an  audience  of  2  is  1  in 
+20  X  20  «  400,  or  1/400.  The  probability  that  an  audience  of  three 
+members  should  have  all  three  names  begin  with  M  would  decrease 
+twenty  times  further.  Only  once  in  8000  lectures,  on  an  average,  would 
+an  M-event  happen.  For  five  people  it  would  amount  to  1  in  20  X  20  X 
+20  X  20  X  20  =  3,200,000  days,  or  1/3,200,000,  or  once  in  approxi¬ 
+mately  9000  years ;  for  ten  people,  about  once  in  thirty  billion  years; 
+for  twenty  people,  about  once  in  a  third  of  a  quadrillion  years.  For  one 
+hundred  people,  the  recurrence  period  of  the  M-event  would  be  given 
+as  once  in  a  number  of  years  represented  by  more  than  a  hundred  figures. 
+If  the  town,  in  this  last  example,  should  be  as  old  as  the  solar  system,  and 
+if  the  lectures  had  been  delivered  daily  to  an  audience  of  one  hundred 
+people  through  this  inconceivably  long  period,  the  probability  is  ex¬ 
+tremely  small  that  the  M-event  would  happen  at  all.2 
+
+From  the  human,  anthropomorphic ,  point  of  view,  we  would  say 
+that  such  an  event  is  impossible.  But  it  must  be  remembered  that  this  is 
+only  an  anthropomorphic  point  of  view,  and  our  judgements  are  coloured 
+by  the  temporal  scale  of  our  own  lives.  Of  course,  to  carry  such  an 
+anthropomorphic  viewpoint  into  cosmic  speculations  is  simply  silly,  a 
+survival  of  the  primitive  structure  of  language  and  its  progeny — meta¬ 
+physics  and  mythologies. 
+
+The  theory  of  infinity  throws  considerable  structural  light  on  such 
+primitive  speculations.  In  this  external  world,  we  deal  with  processes, 
+and,  as  we  measure  ‘length*  by  comparison  with  freely  selected  conve¬ 
+nient  units  of  length*,  let  us  say,  an  inch;  or  we  measure  ‘volume*  by 
+freely  selected  convenient  units  of  ‘volume*;  so,  also,  we  compare  pro¬ 
+cesses  with  some  freely  selected  and  convenient  unit-process .  The  diurnal 
+rotation  of  our  earth  is  such  a  process,  and,  if  we  choose,  we  can  use  it 
+as  a  measuring  unit  or  as  a  comparison  standard.  Of  late,  we  have 
+become  aware  that  the  rotation  of  the  earth  is  not  quite  regular,  and  so, 
+for  accurate  measurements,  the  old  accepted  unit-process  of  a  day,  or  its 
+subdivision,  a  second,  is  not  entirely  satisfactory.  For  scientific  purposes, 
+we  are  trying  to  find  some  better  unit-process,  but  we  have  difficulty,  as 
+the  problem  is  naturally  circular.  When  we  speak  in  terms  of  a  ‘number 
+of  years*,  or  of  seconds,  we  speak  about  perfectly  good  observational 
+experimental  facts,  about  quite  definite  relations,  the  best  we  know  in 
+
+see  page  xii 
+
+212  IV,  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+1933,  We  do  not  make  any  metaphysical  assertions  about  ‘time'  and  we 
+should  not  be  surprised  to  find  that  statements  involving  ‘years'  are 
+generally  propositions,  but  that  statements  involving  ‘time'  often  are  not. 
+It  is  necessary  not  to  forget  this  to  appreciate  fully  what  follows. 
+
+The  theory  of  infinity  will  clear  away  a  troublesome  stumbling- 
+block.  We  will  use  the  expression  ‘infinite  numbers  of  years',  remember¬ 
+ing  the  definition  of  ‘infinite  number,?'  and  what  was  said  about  the 
+unit-process  which  we  call  a  year.  We  have  seen  in  an  example  above 
+that  if  only  a  hundred  individuals  attend  a  lecture,  and  all  ‘by  chance' 
+have  their  names  begin  with  M,  such  an  event  happens,  on  an  average, 
+only  once  in  an  inconceivably  large  number  of  years,  represented  by  a 
+number  with  a  hundred  figures.  If  we  would  ask  how  many  times  an 
+occurrence  would  happen,  we  would  have  to  state  the  period  in  years  for 
+which  we  ask  the  how  many .  It  is  easy  to  see  that  in  infinite  numbers 
+of  years,  this  humanly  extremely  rare  occurrence  would  happen  precisely 
+infinite  numbers  of  times ,  or,  in  other  words,  ‘just  as  often',  this  last 
+statement  being  from  a  non-anthropomorphic  point  of  view.  An  event 
+that  appears,  from  our  human,  limited,  anthropomorphic  point  of  view, 
+as  ‘rare',  or  as  ‘chance',  when  transposed  from  the  level  of  finite  process, 
+arrays . ,  to  that  of  infinite  processes,  arrays . ,  is  as  ‘regular',  as  much  a 
+‘law',  involving  ‘order',  as  anything  else.  It  is  the  old  primitive  s.r  to 
+suppose  that  man  is  the  only  measure  of  things. 
+
+Here  the  reader  might  say  that  infinite  number?  of  years  is  a  rather 
+large  assumption  to  be  accepted  so  easily.  This  objection  is  indeed 
+serious,  but  a  method  which  can  dispose  of  it  is  given  later  on.  At  this 
+stage,  it  is  sufficient  to  say  that,  on  the  one  hand,  this  problem  is  con¬ 
+nected  with  the  semantic  disturbance,  called  identification  (objectifica¬ 
+tion  of  ‘time'),  which  afflicts  the  majority  of  us,  excepting  a  few 
+younger  einsteinists ;  and  that,  on  the  other  hand,  it  involves  the  struc¬ 
+turally  reformulated  law  of  the  ‘conservation  of  energy',  ‘entropy', . 
+
+Before  parting  with  the  problem  of  infinity,  let  me  say  a  word  about 
+the  notion  of  ‘continuity',  which  is  fundamental  in  mathematics.  Mathe¬ 
+matical  continuity  is  a  structural  characteristic  connected  with  ordered 
+series.  The  difficulties  originated  in  the  fact  that  a  ‘continuous'  series 
+must  have  infinite  number,?  of  terms  between  any  two  terms.  Accord¬ 
+ingly,  these  difficulties  are  concerned  with  infinity.  That  mathematicians 
+need  some  kind  of  continuity  is  evident  from  the  example  of  two  inter¬ 
+secting  lines.  If  the  lines  have  gaps,  as,  for  instance, - , 
+
+there  would  be  the  possibility  that  two  gaps  would  coincide,  and  the  two 
+lines  not  intersect ;  although  in  a  plane  the  first  line  would  pass  to  the 
+other  side  of  the  second  line.  At  present,  we  have  two  kinds  of  ‘con- 
+
+ON  T1IK  NOTION  OK  INFINITY 
+
+tinuity’  used  in  mathematics.  One  is  a  supposedly  ‘high-grade’  continuity ; 
+the  other,  supposedly,  is  a  ‘low-grade’  continuity,  which  is  called  ‘com¬ 
+pactness’  or  ‘density’,  with  the  eventual  possibility  of  gaps.  I  am  pur¬ 
+posely  using  rather  vague  language,  since  these  fundamental  notions  are 
+now  being  revised,  with  the  probability  that  we  shall  have  to  be  satisfied 
+with  ‘dense*  or  ‘compact’  series  and  abandon  the  older,  perhaps  delu¬ 
+sional,  ‘high-grade’  continuity.  It  is  interesting  to  note  that  the  differ¬ 
+ential  and  integral  calculus  is  supposedly  based  on  the  ‘high-grade 
+continuity,  but  the  calculus  will  not  be  altered. if  we  accept  the  ‘low- 
+grade’  compactness,  all  of  which  is  a  question  of  an  A  or  A  orientation. 
+
+Vague  feelings  of  ‘infinity’  have  pervaded  human  s.r  as  far  back  as 
+records  go.  Structurally,  this  is  quite  natural  because  the  term  infinity 
+expresses  primarily  a  most  important  semantic  process.  The  majority  of 
+our  statements  can  also  be  reformulated  in  a  language  which  explicitly 
+involves  the  term  ‘infinity’.  An  example  has  been  already  given  when  we 
+were  speaking  about  the  universal  propositions  which  were  supposed  to 
+be  of  permanent  validity,  in  other  language ,  valid  for  ‘infinite  numbers 
+of  years*.  We  see  how  the  trick  is  done — a  vague  quasi-qualitative 
+expression  like  ‘permanent’  or  ‘universal’  is  translated  into  a  quantitative 
+language  in  terms  of  ‘numbers  of  years’.  Such  translation  of  qualitative 
+language  into  quantitative  language  is  very  useful,  since  it  allows  us  to 
+make  more  precise  and  definite  the  vague,  primitive  structural  assump¬ 
+tions,  which  present  enormous  semantic  difficulties.  This  brings  to  our 
+attention  more  clearly  the  structural  facts  they  supposedly  state,  and  aids 
+analysis  and  revision.  In  many  instances,  such  translations  make  obvious 
+the  illegitimacy  of  the  assumptions  of  ‘infinite  velocities’  and  so  clear 
+away  befogging  misunderstandings,  and  beneficially  affect  our  s.r . 
+
+CHAPTER  XV 
+
+THE  ‘INFINITESIMAL*  AND  ‘CAUSE  AND  EFFECT’ 
+
+But  we  are  not  likely  to  find  science  returning  to  the  crude  form  of 
+causality  believed  in  by  Fijians  and  philosophers,  of  which  the  type  is 
+hghtnmg  causes  thunder.”  <457>  bertrand  russell 
+
+The  notion  of  causality  has  been  greatly  modified  by  the  substitution  of 
+space-time  for  space  and  time.  .  .  .  Thus  geometry  and  causation  becomes 
+inextricably  intertwined.  (457)  bertrand  russell 
+
+In  classical  mechanics,  and  no  less  in  the  special  theory  of  relativity, 
+there  is  an  inherent  epistemological  defect  which  was,  perhaps  for  the  first 
+time,  clearly  pointed  out  by  Ernst  Mach.  .  .  .  No  answer  can  be  admitted 
+as  epistemologically  satisfactory,  unless  the  reason  given  is  an  observable 
+fact  of  experience.  The  law  of  causality  has  not  the  significance  of  a  state¬ 
+ment  as  to  the  world  of  experience,  except  when  observable  facts  ultimately 
+appear  as  causes  and  effects,  (iss)  a.  einstein 
+
+The  chain  of  cause  and  effect  could  be  quantitatively  verified  only  if 
+the  whole  universe  were  considered  as  a  single  system — but  then  physics 
+has  vanished,  and  only  a  mathematical  scheme  remains.  The  partition  of 
+the  world  into  observing  and  observed  system  prevents  a  sharp  formula¬ 
+tion  of  the  law  of  cause  and  effect.  (2i5>  w.  Heisenberg 
+
+Of  late,  another  perplexing  semantic  problem  concerning  ‘causality* 
+or  ‘non-causality*  has  arisen  in  connection  with  the  newer  quantum 
+mechanics.  It  is  possible  to  examine  this  question  by  different  methods. 
+The  simpler  one  is  connected  with  vague  feelings  of  ‘infinity*  and  its 
+supposed  opposite,  the  ‘infinitesimal* ;  the  more  fundamental  method  is 
+based  on  the  orders  of  abstractions  leading  toward  the  oo-valued 
+semantics  of  probability. 
+
+Because  of  man*s  natural  tendency  to  speak  in  terms  of  ‘infinity*, 
+and  his  further  marked  tendency  of  having  opposites,  such  as  ‘yes*,  ‘no*, 
+‘right*,  ‘left*,  ‘positive*,  ‘negative*,  ‘love*,  hate’,  ‘honesty*,  ‘dishonesty*. , 
+quite  naturally  the  notion  of  ‘infinity*  carried  with  it  the  tendency  to 
+invent  the  ‘infinitesimal*.  Even  mathematicians  have  had  great  semantic 
+difficulties  in  breaking  away  from  this  habit.  Analysis  persistently  reveals 
+that  structurally  no  matter  how  far  we  go  in  dividing  something,  let  us 
+say  an  inch,  whatever  is  left  may  be  extremely  small,  but  yet  it  is  a  per¬ 
+fectly  good  finite  quantity.  Thus,  structural  difficulties  were  encountered 
+with  the  postulated  infinitesimal*.  The  none  implies  that  they  are  not 
+finite,  yet  analysis  shows  only  finites.  Mathematicians  supposed  that  an 
+‘infinitesimal*  was  necessary  for  mathematics,  and  so  they  were  reluctant 
+to  abandon  it. 
+
+The  ‘infinitesimal*,  like  so  many  other  baffling  suppositions,  was 
+invented  by  the  Greeks,  who  regarded  a  circle  as  differing  ‘infinitesimally* 
+
+‘INFINITESIMAL*,  ‘CAUSE*  AND  ‘EFFECT* 
+
+from  a  polygon  with  a  very  large  number  of  very  small  equal  sides.  With 
+the  invention  of  the  differential  and  integral  calculus,  ‘infinitesimal  cal¬ 
+culus*,  as  it  was  called,  the  importance  of  the  ‘infinitesimal*  increased, 
+and  even  mathematicians  used  it  as  a  fundamental  notion.  Finally, 
+Weierstrass  succeeded  in  showing  the  meaningless  character  of  the 
+‘infinitesimal*,  and  also  that  the  ‘infinitesimal*  was  not  structurally  neces¬ 
+sary  for  the  calculus.  Up  to  that  date,  the  problem  was  baffling;  we 
+knew  that  the  calculus  required  ‘continuity*,  which,  in  turn,  seemed  to 
+require  ‘the  infinitely  little*,  and  yet  no  one  could  tell  what  this  ‘infinitely 
+little*  might  represent.  It  was  quite  obviously  not  zero,  because  a  suffi¬ 
+cient  number  of  them  was  able  to  make  up  a  finite  whole ;  and  we  knew 
+no  fraction  which  was  not  zero  and  yet  not  finite.  The  discovery  by 
+Weierstrass  that  the  calculus  does  not  require  the  ‘infinitesimal*,  and 
+that  all  deductions  could  be  made  without  it,  abolished  a  very  serious 
+structural,  verbal,  metaphysical,  and  semantic  bugaboo.  Common  sense, 
+of  course,  is  much  simpler,  although  unreliable  in  such  matters,  and 
+was  satisfied  also. 
+
+The  elimination  of  the  ‘infinitesimal*  is  a  great  semantic  step  for¬ 
+ward,  and  helps  to  clarify  structurally  some  deeply  rooted,  vague,  falla¬ 
+cious  notions,  which  are  overloaded  with  affective  components  and  are 
+extremely  vicious  in  their  effects. 
+
+If  there  is  no  ‘infinitesimal*,  there  is  no  ‘next  moment*;  for  the 
+interval  between  any  two  moments  must  be  finite,  and  so  there  are 
+always  other  moments  in  the  interval  between  them.  Also,  two  moments 
+cannot  be  consecutive,  for  between  any  two  there  are  always  other 
+moments,  no  matter  how  far  we  go;  similarly,  the  ‘present*  becomes  a 
+very  vague  notion. 
+
+For  our  purpose,  the  most  fundamental  semantic  application  of 
+what  has  been  said  above  is  in  the  vast  field  embraced  by  the  old  struc¬ 
+tural  notions  of  ‘cause*  and  ‘effect*.  These  terms  are  of  great  antiquity, 
+of  a  distinctly  pre-scientific  one-,  two-valued  semantic  epoch.  They 
+originated  in  the  rough  experience  of  our  race,  and  are  firmly  rooted 
+in  the  habits  of  ‘thought*  and  the  structure  of  our  old  two-valued  ‘logic* 
+and  language,  and  because  of  that  are  even  now  unduly  baffling.  These 
+terms,  in  the  two-valued  sense,  were  and  are  the  structural  assumptions 
+of  our  ‘private*  and  ‘official*  ‘philosophies’.  The  unenlightened  use  of 
+these  terms  has  done  much  to  prevent  the  formulation  of  a  science  of 
+man  and  to  build  up  vicious  anti-scientific  metaphysics  of  various  sorts 
+involving  pathological  s.r.  With  the  new  quantum  mechanics,  a  better 
+understanding  of  these  notions,  based  on  the  oo-valued  semantics  of 
+probability,  becomes  a  paramount  issue  for  all  science.  In  daily  life,  the 
+
+216  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+indiscriminate  use  of  two-valued  'cause'  and  'effect'  leads  structurally  to 
+a  great  deal  of  absolutism,  dogmatism,  and  other  harmful  semantic 
+disturbances,  which  I  call  confusion  of  orders  of  abstraction. 
+
+We  usually  follow  the  'philosophers*  and  ascribe — or,  rather  feel, 
+as  conscious  ascribing  would  not  stand  criticism — some  mysterious  struc¬ 
+tural  continuity,  some  mysterious  overlapping  of  'cause*  and  'effect*.  We 
+'feel',  and  try  to  ‘think*,  about  'cause  and  effect*  as  contiguous  in  'time*. 
+But  'contiguous  in  time*  involves  the  impossible  'infinitesimal*  of  some 
+unit  of  'time*.  But,  since  we  have  seen  that  there  is  no  such  thing,  we 
+must  accept  that  the  interval  between  ‘cause*  and  'effect*  is  finite.  This 
+structural  fact  changes  the  whole  situation.  If  the  interval  between 
+'cause*  and  'effect'  is  finite,  then  always  something  might  happen  between, 
+no  matter  how  small  the  interval  may  be.  The  'same  cause*  would  not 
+produce  the  'same  effect*.  The  expected  result  would  not  follow.  This 
+means  only  that  in  this  world,  to  be  sure  of  some  expected  effect,  requires 
+that  there  must  be  nothing  in  the  environment  which  can  interfere  with 
+the  process  of  passing  from  the  conditions  labelled  'cause*  to  the  condi¬ 
+tions  labelled  'effect*.  In  this  world,  with  the  structure  which  it  has,  we 
+can  never  suppose  that  a  'cause*,  as  we  know  it,  is  alone  sufficient  to 
+produce  the  supposed  'effect*.  When  we  consider  the  ever-changing 
+environment,  the  number  of  possibilities  increases  enormously.  If  it  were 
+possible  to  take  into  account  the  whole  of  the  environment,  the  probabil¬ 
+ity  that  some  event  would  be  repeated,  in  all  details,  thus  exhibiting 
+the  assumed  two-valued  relation  of  'cause*  and  'effect',  which  we  took 
+for  granted  in  the  old  days,  would  practically  be  nil.  The  principle  of 
+non-elementalism,  as  we  see,  requires  an  oo -valued  semantics  of 
+probability. 
+
+The  reader  should  not  take  what  is  said  here  as  a  denial  that  in  this 
+external  world  some  regularities  of  sequence  occur ;  but  the  above  analy¬ 
+sis,  which  is  mainly  due  to  Russell,1  shows  clearly  that  the  verbal  prin¬ 
+ciple  of  'same  cause,  same  effect*  is  structurally  untenable.  We  can 
+never  manage  to  observe  the  'same  cause*  in  detail.  As  soon  as  the  ante¬ 
+cedents  have  been  sufficiently  ascertained,  so  as  to  calculate  the  conse¬ 
+quences  with  some  plausible  accuracy  as  to  details,  the  relations  of  these 
+antecedents  have  become  so  complex  that  there  is  very  little  probability 
+that  they  will  ever  occur  again. 
+
+The  clearing  up  of  the  problems  of  'cause*  and  ‘effect*  is  of  serious 
+importance,  because  powerful  semantic  reactions  are  connected  with  it. 
+To  begin  with,  we  must  differentiate  between  the  terms  'cause*  and 
+'effect',  which,  linked  together,  imply  a  two-term  relation  nowhere  to  be 
+found  in  this  world,  and  thus  represent  a  language  and  a  two-valued 
+
+MNKINITKS1MA1/,  ‘CAUSM’  AND  ■KKFKCT* 
+
+‘logic’  of  a  structure  not  similar  to  the  structure  of  the  world,  and  the 
+general  oo-valued  notion  of  causality.  This  last  notion  is  the  psycho¬ 
+logical  foundation  of  all  explanations  leading  toward  oo-valued  determin¬ 
+ism,  and  is  an  exclusive  test  for  structure ;  and  so  of  extreme  semantic 
+importance. 
+
+Besides  the  analysis  from  the  point  of  view  of  the  impossible 
+‘infinitesimal’,  the  term  ‘cause-effect’  represents  a  two-term  relation, 
+and,  as  such,  is  a  primitive  generalization  never  to  be  found  in  this  world, 
+as  all  events  are  serially  related  in  a  most  complex  way,  independent  of 
+our  way  of  speaking  about  them.  If  we  expand  our  two-term  relation 
+‘cause-effect’  into  a  series,  we  pass  from  the  inferential  level  to  the 
+descriptive  level,  and  so  can  apply  a  behaviouristic,  functional,  actional 
+language  of  order.  In  such  series,  we  could  only  use  the  language  of 
+‘cause’  and  ‘effect’  if  we  could  select  neighbouring  factors,  a  selection 
+which  is  often  impossible.  Also,  if  we  pass  from  macroscopic  to  micro¬ 
+scopic  or  sub-microscopic  levels,  we  could  use  such  language,  but  then 
+the  terms  would  have  different  meanings,  supplied  by  the  theory  of 
+probability. 
+
+The  semantic  side  of  this  problem  is  of  importance,  because,  in  the 
+old  el  way,  it  was  neglected.  General  speculations  about  such  m.o  terms 
+as  ‘cause’  and  ‘effect’  are  useless.  Such  statements  are  not  propositions, 
+but  involve  variable  meanings  and,  therefore,  generate  propositional 
+functions  which  are  neither  true  nor  false.  Our  expanding  of  the  too 
+simple,  two-term  relation  ‘cause-effect’  into  a  complex  series  is  closer  to 
+the  structure  of  this  world,  as  far  as  we  know  it. 
+
+The  understanding  and  habitual  application  of  what  has  just  been 
+said  would  not  only  save  us  from  silly  dogmatizing  and  inappropriate  s.r, 
+but  would  teach  us  not  to  disregard  any  regularity,  and  to  investigate 
+any  relation  which  might  appear.  Then,  in  a  specific  case ,  we  could  again 
+use  the  restricted  principle  of  causality,  based  on  probability  and  aver¬ 
+ages.  The  old  absolute  and  objectified  semantic  attitude  toward  ‘cause- 
+effect’  was  and  often  is  a  serious  hindrance  in  observing  impartially  the 
+sequence  of  events  (order)  and  relations.  Preconceived  notions  and 
+old  s.r  played  havoc,  for  it  is  well  known  that  we  usually  find  what  we 
+want  to  find.  If  we  approach  a  problem  with  definite  unconscious 
+' emotional ’  wants,  and  cannot  satisfy  these  s.r ,  we  become  bewildered, 
+down-hearted,  and  perhaps  utter  some  such  non-sense  as  the  ‘finite  mind’, 
+or  the  like.  Under  such  semantic  pressure,  our  power  of  observation  and 
+analysis  is  reduced  by  a  kind  of  ‘emotional  stupor’.  Such  an  occurrence 
+is  harmful  in  science  and  in  life.  ‘Human  knowledge’  depends  on  human 
+ingenuity,  power  of  observation,  power  of  abstraction , .  It  is  an  activity 
+
+218  IV.  STRUCTURAL  FACTORS  IN  A  LANGUAGES 
+
+of  the  human  nervous  system  inside  of  our  skin  and  can  never  be  the 
+events  themselves. 
+
+We  see  that  the  old  two-valued  verbal  structure  of  ‘cause*  and 
+‘effect*  is  not  similar  to  the  structure  of  the  world,  but  a  rash  limiting 
+generalization  from  probability.  Since  these  expressions  belong  to  the 
+class  of  statistical  averages  and  depend  on  the  scale  of  the  events  and 
+intervals  dealt  with,  we  must  not  expect  that  such  terms  as  two- valued 
+‘causality*,  which  is  a  term  of  statistical  macroscopic  averages,  will  apply 
+in  that  sense  to  small-scale  events  when  the  intervals  are  much  smaller 
+and  when  entirely  different  conditions  and  ‘causes’  prevail.  Today  we 

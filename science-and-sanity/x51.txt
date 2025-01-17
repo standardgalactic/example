@@ -1,0 +1,500 @@
+find  that  after  his  ^-system  was  formulated,  this  simple  and  natural, 
+actional,  functional,  operational,  non-el  theory  covers  the  theory  of 
+mathematical  types  and  generalizes  it,  making  the  theory  applicable  not 
+only  to  the  solution  of  mathematical  paradoxes  but  to  the  solution  of  the 
+majority  of  purely  human  and  scientific  difficulties.  One  general  rule  of 
+‘non-confusion  of  orders  of  abstractions’,  and  the  acquiring  of  the  simple 
+and  workable  ‘consciousness  of  abstracting’  based  on  the  denial  of  the 
+‘is’  of  identity,  offers  a  full  structural  and  semantic  solution.  The  dis¬ 
+regard  of  the  issues  involved  leads  fatalistically  to  the  manufacture  of 
+endless  and  unnecessary  human  sufferings  and  unhappiness,  the  elimina¬ 
+tion  of  which  is  one  of  the  main  points  in  a  theory  of  sanity.  There  is 
+no  mystery  in  1933  that  continuous  small  painful  shocks  may  lead  to 
+serious  semantic  and  physical  disturbances.  Psycho-logicians  and  psychi¬ 
+atrists  will  find  it  increasingly  difficult  to  work  at  their  problems  if  they 
+disregard  these  semantic  issues.  Parents  arid  teachers  will  find  simple 
+yet  effective  structural  means  for  training  the  reactions  of  children  in 
+sanity ,  with  all  the  ensuing  semantic  benefits  to  the  individuals  and  to 
+society. 
+
+When  Whitehead  and  Russell  were  working  at  the  foundations  of 
+mathematics,  they  came  across  endless  paradoxes  and  self-contradictions, 
+which,  of  course,  would  make  mathematics  impossible.  After  many 
+efforts  they  found  that  all  these  paradoxes  had  one  general  source,  in 
+the  rough,  in  the  expressions  which  involve  the  word  ‘all’,  and  the  Solu¬ 
+tion  was  found  by  introducing  ‘non-allness’,  a  semantic  forerunner  of 
+non-identity.  Consider,  for  example,  ‘a  proposition  about  all  proposi- 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+tions’.  They  found  that  such  totalities,  or  such  ‘air  statements,  were  not 
+legitimate,  as  they  involved  a  self-contradiction  to  start  with.  A  propo¬ 
+sition  cannot  be  made  legitimately  about  ‘air  propositions  without  some 
+restriction,  since  it  would  have  to  include  the  new  proposition  which  is 
+being  made.  If  we  consider  a  m.o  term  like  ‘propositions’,  which  we  can 
+manufacture  without  known  limits,  and  remember  that  any  statement 
+about  propositions  takes  the  form  of  a  proposition,  then  obviously  we 
+cannot  make  statements  about  all  propositions.  In  such  a  case  the  state¬ 
+ment  must  be  limited ;  such  a  set  has  no  total,  and  a  statement  about  ‘all 
+its  members’  cannot  be  made  legitimately.  Similarly,  we  cannot  speak 
+about  all  numbers. 
+
+Statements  such  as  ‘a  proposition  about  dll  propositions’  have  been 
+called  by  Russell  ‘illegitimate  totalities’.  In  such  cases,  it  is  necessary 
+to  break  up  the  set  into  smaller  sets,  each  of  which  is  capable  of  having 
+a  totality.  This  represents,  in  the  main,  what  the  theory  of  types  aims 
+to  accomplish.  In  the  language  of  the  Princtpia  Mathematica,  the  prin¬ 
+ciple  which  enables  us  to  avoid  the  illegitimate  totalities  may  be  expressed 
+as  follows :  ‘Whatever  involves  all  of  a  collection  must  not  be  one  of  the 
+collection’,  or,  ‘If,  provided  a  certain  collection  had  a  total,  it  would  have 
+members  only  definable  in  terms  of  that  total,  then  the  said  collection 
+has  no  total’.1  The  above  principle  is  called  the  ‘vicious-circle  principle’, 
+because  it  allows  us  to  evade  the  vicious  circles  which  the  introduction 
+of  illegitimate  totalities  involve.  Russell  calls  the  arguments  which  in¬ 
+volve  the  vicious-circle  principle,  ‘vicious-circle  fallacies’. 
+
+As  an  example,  Russell  gives  the  two-valued  law  of  ‘excluded 
+third’,  formulated  in  the  form  that  ‘all  propositions  are  true  or  false’. 
+We  involve  a  vicious-circle  fallacy  if  we  argue  that  the  law  of  excluded 
+third  takes  the  form  of  a  proposition,  and,  therefore,  may  be  evaluated 
+as  true  or  false.  Before  we  can  make  any  statement  about  ‘all  proposi¬ 
+tions’  legitimate,  we  must  limit  it  in  some  way  so  that  a  statement  about 
+this  totality  must  fall  outside  this  totality. 
+
+Another  example  of  a  vicious-circle  fallacy  may  be  given  as  that  of 
+the  imaginary  sceptic  who  asserts  that  he  knows  nothing,  but  is  refuted 
+by  the  question — does  he  know  that  he  knows  nothing?  Before  the  state¬ 
+ment  of  the  sceptic  becomes  significant,  he  must  limit,  somehow,  the 
+number  of  facts  concerning  which  he  asserts  his  ignorance,  which  repre¬ 
+sent  an  illegitimate  totality.  When  such  a  limitation  is  imposed,  and  he 
+asserts  that  he  is  ignorant  of  an  extensional  series  of  propositions,  of 
+which  the  proposition  about  his  ignorance  is  not  a  member,  then  such 
+scepticism  cannot  be  refuted  in  the  above  way. 
+
+HIGHER  ORDER  ABSTRACTIONS 
+
+We  do  not  need  to  enter  into  further  details  concerning  the  elabo¬ 
+rate  and  difficult  theory  of  types.  In  my  A  psychophysiologicai  formula¬ 
+tion,  the  theory  becomes  structurally  extremely  simple  and  natural,  and 
+applies  to  mathematics  as  well  as  to  a  very  large  number  of  daily  experi¬ 
+ences,  eliminating  an  unbelievably  large  number  of  misunderstandings, 
+vicious  circles,  and  other  semantic  sources  of  human  disagreements  and 
+unhappiness. 
+
+It  should  be  noticed  that,  in  the  given  examples,  we  always  made  a 
+■tutement  about  another  statement,  and  that  the  vicious  circle  arose 
+from  identifying  or  from  the  confusion  of  the  orders  of  statements. 
+1  he  way  out  is  found  in  the  consciousness  of  abstracting,  which  leads  to 
+the  semantic  discrimination  between  orders  of  abstractions.  If  we  have 
+certain  propositions,  pu  p2t  p3t  .  .  .  pn ,  and  make  a  new  proposition  about 
+these  propositions,  say  P,  then,  according  to  the  present  theory,  the 
+statement  P  about  the  statements  pu  p2 . ,  must  be  considered  as  an 
+abstraction  of  higher  order,  and  so  different,  and  must  not  be  identified 
+an  to  order  with  the  propositions  pu  p2,  .  .  .  />». 
+
+The  above  psychophysiologicai  formulation  is  entirely  general,  yet 
+simple  and  natural  in  a  ^-system.  To  make  this  clearer,  I  shall  take  sev¬ 
+eral  statements  concerning  the  theory  of  types  from  the  Principia 
+Mathematica ,  shall  designate  them  by  (Pr.),  shall  reformulate  them  in 
+my  language  of  orders  of  abstractions ,  and  shall  designate  them  as  gen¬ 
+eral  semantics  (G.  S.). 
+
+Thus,  ‘The  vicious  circles  in  question  arise  from  supposing  that  a 
+collection  of  objects  may  contain  members  which  can  only  be  defined 
+by  means  of  the  collection  as  a  whole*  (Pr.).  Objects  as  individuals 
+and  ‘collections  of  objects*  obviously  belong  to  different  orders  of  ab¬ 
+ut  ractions  and  should  not  be  confused  (G.S.).  A  ‘Proposition  about  all 
+propositions’  (Pr.).  This  involves  a  confusion  of  orders  of  abstractions, 
+for  if  we  posit  propositions  pu  p2y  .  .  .  pn,  then  a  proposition  P  about 
+these  propositions  represents  a  higher  order  abstraction  and  should  not 
+be  identified  with  them  (G.S.).  ‘More  generally,  given  any  set  of  objects 
+such  that,  if  we  suppose  the  set  to  have  a  total,  it  will  contain  members 
+which  presuppose  this  total,  then  such  a  set  cannot  have  a  total.  By 
+saying  that  a  set  has  “no  total”,  we  mean,  primarily,  that  no  significant 
+statement  can  be  made  about  “all  its  members”  ’  (Pr.).  A  set  of  state¬ 
+ments  or  objects  or  elements,  or  the  like,  and  a  statement  about  them 
+Iwlong  to  different  orders  of  abstractions  and  should  not  be  confused 
+(G.S.).  In  the  language  of  Wittgenstein:  ‘No  proposition  can  say  any¬ 
+thing  about  itself,  because  the  propositional  sign  cannot  be  contained  in 
+Itself  (that  is  the  “whole  theory  of  types”).’2 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+In  the  language  of  the  present  general  semantics  a  statement  about 
+a  statement  is  not  the  ‘same’  statement,  but  represents,  by  structural  and 
+neurological  necessity,  a  higher  order  of  abstraction,  and  should  not  be 
+confused  with  the  original  statement. 
+
+Similar  reformulations  apply  to  all  cases  given  in  the  Principia 
+Mathematica,  and  so  it  becomes  evident  that  the  present  theory  covers 
+a  similar  ground  as  the  theory  of  types,  and  also  covers  an  endless  list 
+of  daily-life  applications  which  are  of  crucial  semantic  importance  in  a 
+theory  of  sanity.  We  must  stress  here  a  simple,  natural,  and  single 
+semantic  law  of  non-identity  which  covers  all  confusions  of  orders  of 
+abstraction .  This  one  rule  and  training  teach  us  not  to  confuse  the  higher 
+orders  with  the  lower,  not  to  identify  words  with  objects  (not  to  ob¬ 
+jectify),  as  well  as  not  to  confuse  higher  abstractions  of  different  orders. 
+This  generality  and  structural  simplicity  constitute  an  argument  in  favor 
+of  the  present  A- system.  It  is  easier  to  teach  a  single,  simple,  and  natural 
+rule  which  covers  a  vast  field  of  semantic  sources  of  human  difficulties. 
+For  when  the  rule  is  explained,  and  the  learner  is  trained  with  the 
+Structural  Differential,  the  semantic  problem  resolves  itself  simply  into 
+the  showing  with  one’s  finger  different  orders  of  abstractions,  and  insist¬ 
+ing  that  ‘this  is  not  this'. 
+
+If  we  consider  the  natural,  structural,  and  empirical  fact  that  our 
+lives  are  lived  in  a  world  of  non-identical  abstractions  of  different 
+orders,  the  discrimination  between  different  orders  becomes  of  para¬ 
+mount  semantic  importance  for  evaluation.  Under  such  conditions  we 
+should  become  thoroughly  acquainted  with  the  mechanism  of  these  dif¬ 
+ferent  orders  of  abstractions.  We  should  notice,  first,  that  the  language 
+of  the  Principia  Mathematica  is  Ay  and  involves  the  ‘is’  of  identity,. 
+Such  a  language  leads  to  identifications  and  to  confusions,  and  makes 
+simple  issues  difficult  and  perplexing.  The  term  ‘class’  is  very  confusing. 
+What  do  we  mean  by  this  term  ?  In  life  we  have,  and  deal  with,  indi¬ 
+viduals  on  objective,  un-speakable  levels.  If  we  take  a  number  of  indi¬ 
+viduals,  we  have  a  number  of  them,  yet  they  all  remain  individual.  If 
+we  produce  an  abstraction  of  higher  order,  so  that  the  individuality  of 
+each  member  is  lost,  then  we  have  an  abstraction  of  a  higher  order 
+(‘idea’  in  the  old  language),  but  no  more  the  absolute  individuals  of  our 
+collection.  The  term  ‘class’  in  this  respect  is  seriously  confusing,  as  it 
+tends  to  conceal  a  simple  experimental  fact,  and  leads  to  confusion  of 
+the  orders  of  abstractions  if  the  multiordinality  of  the  term  ‘class’  is  not 
+formulated. 
+
+Many  critics  and  reviewers  of  the  Principia  Mathematica  somehow 
+feel  this  to  be  so,  but  their  criticisms  are  not  bold  enough,  and  do  not 
+
+HIGHER  ORDER  ABSTRACTIONS 
+
+go  to  the  roots  of  the  A  semantic  difficulty.  They  do  not  pay  attention 
+to  the  Af  ‘logical’,  ‘philosophical’,  and  ‘psychological’  elementalistic 
+method  and  language  involving  the  ‘is’  of  identity,  in  which  the  Intro¬ 
+duction  of  the  Principia  is  written.  Doctor  Alonzo  Church  is  the  first, 
+as  far  as  my  knowledge  goes,  to  suggest  that,  following  Peano,  numbers 
+should  be  defined  in  the  language  of  abstractions.  He  does  not  carry  his 
+analysis  further,  however,  and  does  not  state  that  it  involves  a  language 
+of  entirely  different  A  structure.3  If  we  abandon  the  term  ‘class’  and 
+accept  the  language  of  ‘abstractions  of  different  orders’,  then  we  are  led 
+to  the  rejection  of  the  ‘is’  of  identity  and  to  the  present  system,  of  which 
+the  theory  of  mathematical  types  becomes  a  necessary  part.  The  prob¬ 
+lems  of  ‘class’  cease  to  be  an  ‘assumption’,  as  the  different  orders  of 
+abstractions  are  descriptions  of  experimental  facts ;  and  so  the  ‘axiom 
+of  reducibility’  becomes  unnecessary.  In  my  language,  this  axiom  is 
+also  an  aristotelian  description  of  the  experimental  fact  that  we  can 
+abstract  in  different  orders. 
+
+Section  B .  Multiordinal  terms . 
+
+In  the  examples  given  in  Section  A,  we  used  words  such  as  ‘propo¬ 
+sition’,  which  were  applied  to  all  higher  order  abstractions.  We  have  al¬ 
+ready  seen  that  such  terms  may  have  different  uses  or  meanings  if 
+applied  to  different  orders  of  abstractions.  Thus  originates  what  I  call 
+the  multiordinality  of  terms.  The  words  ‘yes’,  ‘no’,  ‘true’,  ‘false’,  ‘func¬ 
+tion’,  ‘property’,  ‘relation’,  ‘number’,  ‘difference’,  ‘name’,  ‘definition’, 
+‘abstraction*,  ‘proposition’,  ‘fact’,  ‘reality’,  ‘structure’,  ‘characteristic’, 
+‘problem’,  ‘to  know’,  ‘to  think’,  ‘to  speak’,  ‘to  hate’,  ‘to  love*,  ‘to  doubt’, 
+‘cause’,  ‘effect’,  ‘meaning’,  ‘evaluation’,  and  an  endless  array  of  the  most 
+important  terms  we  have,  must  be  considered  as  multiordinal  terms . 
+There  is  a  most  important  semantic  characteristic  of  these  m,o  terms; 
+namely,  that  they  are  ambiguous,  or  oo-valued,  in  general,  and  that  each 
+has  a  definite  meaning,  or  one  value,  only  and  exclusively  in  a  given 
+context,  when  the  order  of  abstraction  can  be  definitely  indicated. 
+
+These  issues  appear  extremely  simple  and  general,  a  part  and  parcel 
+of  the  structure  of  ‘human  knowledge’  and  of  our  language.  We  cannot 
+avoid  these  semantic  issues,  and,  therefore,  the  only  way  left  is  to  face 
+them  explicitly.  The  test  for  the  multiordinality  of  a  term  is  simple.  Let 
+us  make  any  statement  and  see  if  a  given  term  applies  to  it  (‘true’, 
+‘false*,  ‘yes’,  ‘no’,  ‘fact’,  ‘reality’,  ‘to  think’,  ‘to  love’,.).  If  it  does,  let 
+us  deliberately  make  another  statement  about  the  former  statement  and 
+test  if  the  given  term  may  be  used  again.  If  so,  it  is  a  safe  assertion 
+that  this  term  should  be  considered  as  m.o.  Any  one  can  test  such  a  m.o 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+term  by  himself  without  any  difficulty.  The  main  point  about  all  such 
+m.o  terms  is  that,  in  general >  they  are  ambiguous ,  and  that  all  arguments 
+about  them,  ‘in  general’,  lead  only  to  identification  of  orders  of  abstrac¬ 
+tions  and  semantic  disturbances,  and  nowhere  else.  Multiordinal  terms 
+have  only  definite  meanings  on  a  given  level  and  in  a  given  context. 
+Before  we  can  argue  about  them,  we  must  fix  their  orders,  whereupon 
+the  issues  become  simple  and  lead  to  agreement.  As  to  ‘orders  of  ab¬ 
+straction',  we  have  no  possibility  of  ascertaining  the  ‘absolute'  order  of 
+an  abstraction ;  besides,  we  never  need  it.  In  human  semantic  difficulties, 
+in  science,  as  well  as  in  private  life,  usually  no  more  than  three,  perhaps 
+even  two,  neighbouring  levels  require  consideration.  When  it  comes  to 
+a  serious  discussion  of  some  problem,  errors,  ambiguity,  confusion,  and 
+disagreement  follow  from  confusing  or  identifying  the  neighbouring 
+levels.  In  practice,  it  becomes  extremely  simple  to  settle  these  three  (or 
+two)  levels  and  to  keep  them  separated,  provided  we  are  conscious  of 
+abstracting,  but  not  otherwise . 
+
+For  a  theory  of  sanity,  these  issues  seem  important  and  structurally 
+essential.  In  identifications,  delusions,  illusions,  and  hallucinations,  we 
+have  found  a  confusion  between  the  orders  of  abstractions  or  a  false 
+evaluation  expressed  as  a  reversal  of  the  natural  order. 
+
+One  of  the  symptoms  of  this  confusion  manifests  itself  as  ‘false 
+beliefs',  which  again  imply  comparison  of  statements  about  ‘facts'  and 
+‘reality',  and  involve  such  terms  as  ‘yes',  ‘no',  ‘true',  ‘false', .  As  all  these 
+terms  are  multiordinal,  and,  therefore,  ambiguous,  ‘general'  ‘philosophi¬ 
+cal'  rigmaroles  should  be  avoided.  With  the  consciousness  of  abstracting, 
+and,  therefore,  with  a  feel  for  this  peculiar  stratification  of  ‘human 
+knowledge',  all  semantic  problems  involved  can  be  settled  simply. 
+
+The  avoidance  of  m.o  terms  is  impossible  and  undesirable.  Sys¬ 
+tematic  ambiguity  of  the  most  important  terms  follows  systematic 
+analogy.  They  appear  as  a  direct  result  and  condition  of  our  powers 
+of  abstracting  in  different  orders,  and  allow  us  to  apply  one  chain  of 
+oo-valued  reasoning  to  an  endless  array  of  different  one-valued  facts,  all 
+of  which  are  different  and  become  manageable  only  through  our  ab¬ 
+stracting  powers. 
+
+For  further  details  about  the  theory  of  types,  the  reader  is  referred 
+to  the  literature  on  the  subject  and  Supplement  II4  ;  here  I  shall  give 
+only  a  few  examples  of  the  complexities  and  difficulties  inherent  in  lan¬ 
+guage,  and  show  how  simply  they  become  solved  by  the  aid  of  A  gen¬ 
+eral  semantics  and  the  resulting  ‘consciousness  of  abstracting'. 
+
+As  an  example,  I  quote  Russell's  analysis  of  the  ‘simple'  statement 
+‘I  am  lying',  as  given  in  the  Principia .  ‘The  oldest  contradiction  of  the 
+
+HIGHER  ORDER  ABSTRACTIONS 
+
+kind  in  question  is  the  Epimenides .  Epimenides  the  Cretan  said  that  all 
+Cretans  were  liars,  and  all  other  statements  made  by  Cretans  were  cer¬ 
+tainly  lies.  Was  this  a  lie?  The  simplest  form  of  this  contradiction  is 
+afforded  by  the  man  who  says  “I  am  lying” ;  if  he  is  lying,  he  is  speaking 
+the  truth,  and  vice  versa. . . . 
+
+'When  a  man  says  “I  am  lying”,  we  may  interpret  his  statement 
+as :  “There  is  a  proposition  which  I  am  affirming  and  which  is  false.” 
+That  is  to  say,  he  is  asserting  the  truth  of  some  value  of  the  function 
+“I  assert  p ,  and  p  is  false.”  But  we  saw  that  the  word  “false”  is  ambigu¬ 
+ous,  and  that,  in  order  to  make  it  unambiguous,  we  must  specify  the 
+order  of  falsehood,  or,  what  comes  to  the  same  thing,  the  order  of  the 
+proposition  to  which  falsehood  is  ascribed.  We  saw  also  that,  if  p  is  a 
+proposition  of  the  «th  order,  a  proposition  in  which  p  occurs  as  an 
+apparent  variable  is  not  of  the  «th  order,  but  of  a  higher  order.  Hence 
+the  kind  of  truth  or  falsehood  which  can  belong  to  the  statement  “there 
+is  a  proposition  p  which  I  am  affirming  and  which  has  falsehood  of  the 
+nth  order”  is  truth  or  falsehood  of  a  higher  order  than  the  nth.  Hence 
+the  statement  of  Epimenides  does  not  fall  within  its  own  scope,  and 
+therefore  no  contradiction  emerges. 
+
+Tf  we  regard  the  statement  “I  am  lying”  as  a  compact  way  of 
+simultaneously  making  all  the  following  statements :  “I  am  asserting  a 
+false  proposition  of  the  first  order,”  “I  am  asserting  a  false  proposition 
+of  the  second  order,”  and  so  on,  we  find  the  f  ollowing  curious  state  of 
+things :  As  no  proposition  of  the  first  order  is  being  asserted,  the  state¬ 
+ment  “I  am  asserting  a  false  proposition  of  the  first  order”  is  false. 
+This  statement  is  of  the  second  order,  hence  the  statement  "I  am  mak¬ 
+ing  a  false  statement  of  the  second  order”  is  true.  This  is  a  statement 
+of  the  third  order,  and  is  the  only  statement  of  the  third  order  which  is 
+being  made.  Hence  the  statement  “I  am  making  a  false  statement  of  the 
+third  order”  is  false.  Thus  we  see  that  the  statement  “I  am  making  a 
+false  statement  of  order  2n+  1”  is  false,  while  the  statement  “I  am 
+making  a  false  statement  of  order  2n”  is  true.  But  in  this  state  of  things 
+there  is  no  contradiction/5 
+
+Clearly,  if  we  should  apply  the  language  of  orders  of  abstractions 
+to  the  above  case,  a  similar  outcome  is  reached  more  generally  and  more 
+simply.  If  we  should  confuse  the  orders  of  abstractions,  we  might 
+naturally  have  an  endless  argument  at  hand  This  example  shows  how 
+a  confusion  of  orders  of  abstractions  might  lead  to  insoluble  verbal 
+problems,  and  how  semantically  important  it  is  that  we  should  not  iden¬ 
+tify,  and  that  we  should  be  conscious  of  abstracting,  with  the  resulting 
+instinctive  feeling  for  this  peculiar  structural  stratification  of  'human 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+knowledge*.  We  should  notice  that  with  the  confusion  of  orders  of 
+abstractions,  and  by  the  use  of  m.o  terms,  without  realizing  their 
+go -valued  character,  we  may  always  construct  an  endless  array  of  such 
+verbal  arguments  to  befog  the  issues,  but  that  as  soon  as  we  assign  a 
+definite  order  to  the  m.o  terms,  and  so  settle  a  specific  single  meaning  in 
+a  given  context  for  the  many  meanings  any  m.o  term  may  have,  the  dif¬ 
+ficulties  vanish. 
+
+As  the  above  analysis  applies  to  all  m.o  terms,  and  these  terms  hap¬ 
+pen  to  be  most  important  in  our  lives,  there  is  no  use  in  trying  to  avoid 
+these  terms  and  the  consequences  of  using  them.  Quite  the  contrary; 
+often  it  is  structurally  necessary  to  build  a  m.o  term — for  instance, 
+‘abstracting* — we  must  take  for  granted  that  it  has  many  meanings,  and 
+indicate  these  meanings  by  assigning  to  the  term  the  definite  order  of 
+abstraction.  Thus,  such  a  term  as  ‘abstracting*  or  ‘characteristic*., 
+might  be  confusing  and  troublesome;  but  ‘abstracting  in  different 
+orders*. ,  is  not,  as  in  a  given  context  we  may  always  assign  the  definite 
+order  and  single  meaning  to  the  term. 
+
+It  has  been  repeatedly  said  that  a  m.o  term  has,  by  structural  neces¬ 
+sity,  many  meanings.  No  matter  how  we  define  it,  its  definition  is  again 
+based  on  other  m.o  terms.  If  we  try  to  give  a  general  'meaning*  to  a 
+m.o  term,  which  it  cannot  have,  further  and  deeper  analysis  would  dis¬ 
+close  the  multiordinality  of  the  terms  by  which  it  is  defined,  restoring 
+once  more  its  multiordinality.  As  there  is  no  possibility  of  avoiding  the 
+above  structural  issue,  it  is  more  correct  and  also  more  expedient  to 
+recognize  at  once  the  fundamental  multiordinality  of  a  term.  If  we  do 
+so,  we  shall  not  get  confused  as  to  the  meaning  of  such  a  term  in  a  given 
+context,  because,  in  principle,  in  a  context  its  meaning  is  single  and  fixed 
+by  that  context. 
+
+The  semantic  benefits  of  such  a  recognition  of  multiordinality  are, 
+in  the  main,  sevenfold:  (1)  we  gain  an  enormous  economy  of  'time*  and 
+effort,  as  we  stop  ‘the  hunting  of  the  snark*,  usually  called  ‘philosophy*, 
+or  for  a  one-valued  general  definition  of  a  m.o  term,  which  would  not 
+be  formulated  in  other  m.o  terms;  (2)  we  acquire  great  versatility  in 
+expression,  as  our  most  important  vocabulary  consists  of  m.o  terms, 
+which  can  be  extended  indefinitely  by  assigning  many  different  orders 
+and,  therefore,  meanings;  (3)  we  recognize  that  a  definition  of  a  m.o 
+term  must,  by  necessity,  represent  not  a  proposition  but  a  propositional 
+function  involving  variables;  (4)  we  do  not  need  to  bother  much  about 
+formal  definitions  of  a  m.o  term  outside  of  mathematics,  but  may  use 
+the  term  freely,  realizing  that  its  unique,  in  principle,  meaning  in  a  given 
+context  is  structurally  indicated  by  the  context;  (5)  under  such  struc- 
+
+HIGHER  ORDER  ABSTRACTIONS 
+
+tural  conditions,  the  freedom  of  the  writer  or  speaker  becomes  very 
+much  accentuated ;  his  vocabulary  consists  potentially  of  infinite  numbers 
+of  words,  and  psycho-logical,  semantic  blockages  are  eliminated;  (6) 
+he  knows  that  a  reader  who  understands  that  oo -valued  mechanism  will 
+never  be  confused  as  to  the  meaning  intended;  and  (7)  the  whole 
+linguistic  process  becomes  extremely  flexible,  yet  it  preserves  its  essen¬ 
+tial  extensional  one- valued  character,  in  a  given  case. 
+
+In  a  certain  sense,  such  a  use  of  m.o  terms  is  to  be  found  in  poetry, 
+and  it  is  well  known  that  many  scientists,  particularly  the  creative  ones, 
+like  poetry.  Moreover,  poetry  often  conveys  in  a  few  sentences  more  of 
+lasting  values  than  a  whole  volume  of  scientific  analysis.  The  free  use 
+of  m.o  terms  without  the  bother  of  a  structurally  impossible  formalism 
+outside  of  mathematics  accomplishes  this,  provided  we  are  conscious  of 
+abstracting;  otherwise  only  confusion  results. 
+
+It  should  be  understood  that  I  have  no  intention  of  condemning 
+formalism.  Formalism  of  the  most  rigorous  character  is  an  extremely 
+important  and  valuable  discipline  (mathematics  at  present)  ;  but  for¬ 
+malism,  as  such,  in  experimental  science  and  life  appears  often  as  a 
+handicap  and  not  as  a  benefit,  because,  in  empirical  science  and  life,  we 
+are  engaged  in  exploring  and  discovering  the  unknown  structure  of  the 
+world  as  a  means  for  structural  adjustment.  The  formal  elaboration  of 
+some  language  is  only  the  consistent  elaboration  of  its  structure,  which 
+must  be  accomplished  independently  if  we  are  to  have  means  to  compare 
+verbal  with  empirical  structures.  From  a  A  point  of  view,  both  issues 
+are  equally  important  in  the  search  for  structure. 
+
+Under  such  structural  empirical  conditions  the  m.o  terms  acquire 
+great  semantic  importance,  and  perhaps,  without  them,  language,  mathe¬ 
+matics,  and  science  would  be  impossible.  As  soon  as  we  understand  this, 
+we  are  forced  to  realize  the  profound  structural  and  semantic  difference 
+between  the  A  and  A  systems.  What  in  the  old  days  were  considered 
+propositions,  become  propositional  functions,  and  most  of  our  doctrines 
+become  the  doctrinal  functions  of  Keyser,  or  system-functions,  allowing 
+multiple  interpretations. 
+
+Terms  belong  to  verbal  levels  and  their  meanings  must  be  given  by 
+definitions,  these  definitions  depending  on  undefined  terms,  which  consist 
+always,  as  far  as  my  knowledge  goes,  of  m.o  terms.  Perhaps  it  is  neces¬ 
+sary  for  them  to  have  this  character,  to  be  useful  at  all.  When  these 
+structural  empirical  conditions  are  taken  into  account,  we  must  conclude 
+that  the  postulational  method  which  gives  the  structure  of  a  given  doc¬ 
+trine  lies  at  the  foundation  of  all  human  linguistic  performances,  in 
+daily  life  as  well  as  in  mathematics  and  science.  The  study  of  these  prob- 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+lems  throws  a  most  important  light  on  all  mysteries  of  language,  and  on 
+the  proper  use  of  this  most  important  human  neurological  and  semantic 
+function,  without  which  sanity  is  impossible. 
+
+From  a  structural  point  of  view,  postulates  or  definitions  or  assump¬ 
+tions  must  be  considered  as  those  relational  or  multi-dimensional  order 
+structural  assumptions  which  establish,  conjointly  with  the  undefined 
+terms,  the  structure  of  a  given  language.  Obviously,  to  find  the  struc¬ 
+ture  of  a  language  we  must  work  out  the  given  language  to  a  system  of 
+postulates  and  find  the  minimum  of  its  (never  unique)  undefined  terms. 
+This  done,  we  should  have  the  structure  of  such  a  system  fully  dis¬ 
+closed  ;  and,  with  the  structure  of  the  language  thoroughly  known,  we 
+should  have  a  most  valuable  tool  for  investigating  empirical  structure  by 
+predicting  verbally,  and  then  verifying  empirically. 
+
+To  pacify  the  non-specialist,  let  me  say  at  once  that  this  work  is 
+very  tedious  and  difficult,  although  a  crying  need ;  nevertheless,  it  may 
+be  accomplished  by  a  single  individual.  Because  of  the  character  of  the 
+problem,  however,  when  this  work  is  done,  the  semantic  results  have 
+always  proved  thus  far — and  probably  will  continue  so — quite  simple 
+and  comprehensible  to  the  common  sense,  even  of  a  child. 
+
+One  very  important  point  should  be  noted.  Since  language  was  first 
+used  by  the  human  race,  the  structural  and  related  semantic  conditions 
+disclosed  by  the  present  analysis  have  not  been  changed,  as  they  are 
+inherent  in  the  structure  of  ‘human  knowledge*  and  language.  Histori¬ 
+cally,  we  were  always  most  interested  in  the  immediacy  of  our  daily 
+lives.  We  began  with  grunts  symbolizing  this  immediacy,  and  we  never 
+realize,  even  now,  that  these  historically  first  grunts  were  the  most  com¬ 
+plex  and  difficult  of  them  all.  Besides  these  grunts,  we  have  also  devel¬ 
+oped  others,  which  we  call  mathematics,  dealing  with,  and  elaborating, 
+a  language  of  numbers,  or  (as  I  define  it  semantically)  a  language  of 
+two  symmetrical  and  infinitely  many  asymmetrical  unique,  specific  rela¬ 
+tions  for  exploring  the  structure  of  the  world,  which  is,  at  present,  the 
+most  effective  and  the  simplest  language  yet  formed.  Only  in  1933,  after 
+many  hundreds  of  thousands  of  years,  have  the  last  mentioned  grunts 
+become  sufficiently  elaborate  to  give  us  a  sidelight  on  structure.  We 
+must  revise  the  whole  linguistic  procedure  and  structure,  and  gain  the 
+means  by  which  to  disclose  the  structure  of  ‘human  knowledge*.  Such 
+semantic  means  will  provide  for  the  proper  handling  of  our  neurological 
+structure,  which,  in  turn,  is  the  foundation  for  the  structurally  proper 
+use  of  the  human  nervous  system,  and  will  lead  to  human  nervous  adjust¬ 
+ment,  appropriate  s.r,  and,  therefore,  to  sanity. 
+
+HIGHER  ORDER  ABSTRACTIONS 
+
+Human  beings  are  quite  accustomed  to  the  fact  that  words  have 
+different  meanings,  and  by  making  use  of  this  fact  have  produced  some 
+rather  detrimental  speculations,  but,  to  the  best  of  my  knowledge,  the 
+structural  discovery  of  the  multiordinality  of  terms  and  of  the  psycho- 
+physiological  importance  of  the  treatment  of  orders  of  abstractions 
+resulting  from  the  rejection  of  the  ‘is*  of  identity — as  formulated  in  the 
+present  system — is  novel.  In  this  mechanism  of  multiordinality,  we 
+shall  find  an  unusually  important  structural  problem  of  human  psycho¬ 
+logies,  responsible  for  a  great  many  fundamental,  desirable,  undesirable, 
+and  even  morbid,  human  characteristics.  The  full  mastery  of  this 
+mechanism  is  only  possible  when  it  is  formulated,  and  leads  automati¬ 
+cally  to  a  possibility  of  a  complete  psychophysiological  adjustment.  This 
+adjustment  often  reverses  the  psycho-logical  process  prevailing  at  a 
+given  date ;  and  this  is  the  foundation,  among  others,  of  what  we  call 
+‘culture*  and  ‘sublimation*  in  psychiatry. 
+
+Let  me  recall  that  one  of  the  most  fundamental  functional  differ¬ 
+ences  between  animal  and  man  consists  in  the  fact  that  no  matter  in  how 
+many  orders  the  animal  may  abstract,  its  abstractions  stop  on  some  level 
+beyond  which  the  animal  cannot  proceed.  Not  so  with  man.  Structurally 
+and  potentially,  man  can  abstract  in  indefinitely  many  orders,  and  no 
+one  can  say  legitimately  that  he  has  reached  the  ‘final*  order  of  abstrac¬ 
+tions  beyond  which  no  one  can  go.  In  the  older  days,  when  this  semantic 
+mechanism  was  not  made  structurally  obvious,  the  majority  of  us  copied 
+animals,  and  stopped  abstracting  on  some  level,  as  if  this  were  the 
+‘final*  level.  In  our  semantic  training  in  language  and  the  ‘is*  of  identity 
+given  to  us  by  our  parents  or  teachers  or  in  school,  the  multiordinality 
+of  terms  was  never  suspected,  and,  although  the  human  physiological 
+mechanism  was  operating  all  the  while,  we  used  it  on  the  conscious  level 
+in  the  animalistic  way,  which  means  ceasing  to  abstract  at  some  level. 
+Instead  of  being  told  of  the  mechanism,  and  of  being  trained  consciously 
+in  the  fluid  and  dynamic  s.r  of  passing  to  higher  and  higher  abstractions 
+as  normal,  for  Smith,  we  preserved  a  sub-normal,  animalistic  semantic 
+blockage,  and  ‘emotionally*  stopped  abstracting  on  some  level. 
+
+Thus,  for  instance,  if,  as  a  result  of  life,  we  come  to  a  psycho¬ 
+logical  state  of  hate  or  doubt,  and  stop  at  that  level,  then,  as  we  know 
+from  experience,  the  lives  of  the  given  individual  and  of  those  close  to 
+him  are  not  so  happy.  But  a  hate  or  doubt  of  a  higher  order  reverses 
+or  annuls  the  first  order  semantic  effect.  Thus,  hate  of  hate,  or  doubt 
+of  doubt — a  second  order  effect— has  reversed  or  annulled  the  first  order 
+effect,  which  was  detrimental  to  all  concerned  because  it  remained  a 
+structurally-stopped  or  an  animalistic  first  order  effect. 
+
+VII.  THE  MECHANISM  OF  TIME-BINDING 
+
+The  whole  subject  of  our  human  capacity  for  higher  abstracting 
+without  discernible  limits  appears  extremely  broad,  novel,  and  unana¬ 

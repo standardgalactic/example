@@ -1,0 +1,500 @@
+number  in  parenthesis  indicates  the  number  of  the  book  in  the  bibli¬ 
+ography  from  which  the  quotation  is  taken. 
+
+tion  of  the  non~elementalistic  methods  of  Einstein,  has  succeeded  in  making  & 
+major  contribution  to  the  formulation  of  a  unified  field  theory  which  now  in* 
+eludes  the  quantum  mechanics.  Should  this  announcement  be  verified  in  its  scien¬ 
+tific  aspects,  our  understanding  of  the  structure  of  'matter*,  'electron*,  etc.,  would 
+be  greatly  advanced,  and  would  involve  of  course  most  important  practical  appli¬ 
+cations.  For  the  semantic  aspects  of  these  problems,  see  pp.  378,  386  f.,  541,  667, 
+698-701,  and  Chapter  XXXIX. 
+
+xcviii  PREFACE  TO  THE  FIRST  EDITION 
+
+I  have  tried  to  avoid  footnotes  as  much  as  possible.  The  small 
+numbers  after  some  words  in  the  text  refer  to  the  Notes  on  p.  763  if., 
+where  the  references  to  the  bibliography  are  given. 
+
+Book  II  is  largely  self-contained  and  therefore  can  be  read  inde¬ 
+pendently  of  the  others,  after  the  reader  has  become  acquainted  with 
+the  short  tables  of  abbreviations  given  on  pp.  15  and  16,  and  with 
+Chapters  II  and  IV.  I  believe,  however,  that  for  the  best  results  the 
+book  should  be  read  consecutively  without  stopping  at  passages  which  at 
+first  are  not  entirely  clear,  and  read  at  least  twice.  On  the  second  read¬ 
+ing,  passages  which  at  first  were  not  clear  will  become  obvious  because, 
+in  such  a  wide  system,  the  beginning  presupposes  the  end,  and  vice 
+versa. 
+
+The  discovery  of  such  important  and  entirely  general  delusional 
+factors  in  the  older  systems  leads  to  a  far-reaching  revision  of  all 
+existing  disciplines.  Because  of  modern  complexities  of  knowledge 
+this  revision  can  only  be  accomplished  by  the  activities  of  specialists 
+working  together  as  a  group,  and  unified  by  one  principle  of  non¬ 
+identity,  which  necessitates  a  structural  treatment. 
+
+To  facilitate  this  most  urgent  need,  and  to  present  the  results  of 
+this  work  to  the  public  at  reasonable  prices,  an  International  Non- 
+aristotelian  Library  has  been  organized,  to  be  printed  and  distributed 
+by  The  Science  Press  Printing  Company,  Lancaster,  Pennsylvania, 
+U.  S.  A.,  and  Grand  Central  Terminal,  New  York  City. 
+
+It  is  also  intended  to  organize  an  International  Non-aristotelian 
+Society  with  branches  in  connection  with  all  institutions  of  learning 
+throughout  the  world,  where  co-operative  scientific  work  for  the  elimi¬ 
+nation  of  identity  can  be  carried  out,  as  this  work  is  beyond  the  capaci¬ 
+ties  of  any  one  man. 
+
+Since  the  scope  of  the  Library  and  Societies  is  international,  I 
+have  accepted,  in  the  main,  the  Oxford  spelling  and  rules,  which  are 
+a  happy  medium  between  the  English  used  in  the  United  States  of 
+America  and  that  of  the  rest  of  the  world.  In  certain  instances  I  had 
+to  utilize  some  forms  of  expressions  which  are  not  entirely  customary, 
+but  these  slight  deviations  were  forced  upon  me  by  the  character  of  the 
+subject,  the  need  for  clarity,  and  the  necessity  for  cautiousness  in 
+generalizations.  The  revision  of  the  manuscript  and  reading  of  the 
+proofs  in  connection  with  other  editorial  and  publishing  duties  has  been 
+a  very  laborious  task  for  one  man,  and  I  only  hope  that  not  too  many 
+mistakes  have  been  overlooked.  Corrections  and  suggestions  from  the 
+readers  are  invited. 
+
+The  International  Non-aristotelian  Library  is  a  non-commercial, 
+
+PREFACE  TO  THE  FIRST  EDITION 
+
+XCIX 
+
+scientific  venture,  and  the  interest  and  help  of  scientists,  teachers,  and 
+those  who  are  not  indifferent  to  the  advancement  of  science,  civilization, 
+sanity,  peace,  and  to  the  improvement  of  social,  economic,  international, 
+etc.,  conditions,  will  be  greatly  appreciated. 
+
+From  one  point  of  view,  this  enquiry  has  been  independent;  from 
+another,  much  material  has  been  adapted.  In  some  instances  it  is  im¬ 
+possible  to  give  specific  credit  to  an  author,  particularly  in  a  text¬ 
+book,  and  it  is  simpler  and  fairer  to  state  that  the  works  of  Professors 
+H.  F.  Biggs,  G.  Birtwistle,  E.  Bleuler,  R.  Bonola,  M.  Bom,  P.  W. 
+Bridgman,  E.  Cassirer,  C.  M.  Child,  A.  S.  Eddington,  A.  Einstein, 
+A.  Haas,  H.  Head,  L.  V.  Heilbrunn,  C.  J.  Herrick,  S.  E.  Jelliffe, 
+C.  J.  Keyser,  C.  I.  Lewis,  J.  Loeb,  H.  Minkowski,  W.  F.  Osgood,  H. 
+Pieron,  G.  Y.  Rainich,  B.  Russell,  C.  S.  Sherrington,  L.  Silberstein, 
+A.  Sommerfeld,  E.  H.  Starling,  A.  V.  Vasiliev,  H.  Weyl,  W.  A. 
+White,  A.  N.  Whitehead,  E.  B.  Wilson,  L.  Wittgenstein  and  J.  W. 
+Young  have  been  constantly  consulted. 
+
+Although  I  have  had  no  opportunity  to  use  directly  the  funda¬ 
+mental  researches  of  Doctor  Henry  Head  on  aphasia,  and  particularly 
+on  semantic  aphasia,  my  whole  work  has  been  seriously  influenced  by 
+his  great  contributions.  Doctor  Head's  work,  in  connection  with  a 
+non-elementalistic  analysis,  makes  obvious  the  close  connection  be¬ 
+tween:  (1)  identifications;  (2)  structural  ignorance;  (3)  lack  of 
+proper  evaluations  in  general,  and  of  the  full  significance  of  words  and 
+phrases  in  particular;  and  (4)  the  corresponding  necessary,  at  least 
+colloidal  lesions  of  the  nervous  system. 
+
+I  am  under  heavy  obligations  to  Professors:  E.  T.  Bell,  P.  W. 
+Bridgman,  C.  M.  Child,  B.  F.  Dostal,  M.  H.  Fischer,  R.  R.  Gates 
+(London),  C.  Judson  Herrick,  H.  S.  Jennings,  R.  J.  Kennedy,  R.  S. 
+Lillie,  B.  Malinowski  (London),  R.  Pearl,  G.  Y.  Rainich,  Bertrand 
+Russell  (London),  M.  Trainer  (Bern),  W.  M.  Wheeler,  H.  B.  Wil¬ 
+liams,  W.  H.  Wilmer;  and  Doctors:  C.  B.  Bridges,  D.  G.  Fairchild,  W. 
+H.  Gantt,  P.  S.  Graven,  E.  L.  Hardy,  J.  A.  P.  Millet,  P.  Weiss,  W.  A. 
+White,  Mr.  C.  K.  Ogden  (London),  and  Miss  C.  L.  Williams,  for  read¬ 
+ing  the  manuscript  and/or  the  proofs  as  a  whole,  or  in  part,  and  for 
+their  invaluable  criticism,  and  suggestions. 
+
+I  also  owe  much  to  Doctor  C.  B.  Bridges  and  Professor  W.  M. 
+Wheeler,  not  only  for  their  important  criticisms  and  constructive  sug¬ 
+gestions,  but  also  for  their  painstaking  editorial  corrections  and  in¬ 
+terest. 
+
+Needless  to  say,  I  assume  full  responsibility  for  the  following 
+pages,  the  more,  that  I  did  not  always  follow  the  suggestions  made. 
+
+c 
+
+PREFACE  TO  THE  FIRST  EDITION 
+
+I  wish  to  express  my  deep  appreciation  to  Doctor  W.  A.  White 
+and  the  staff  of  St.  Elizabeth's  Hospital,  Washington,  D.  C.,  who,  during 
+my  two  years  of  study  in  the  hospital,  gave  me  every  assistance  to 
+facilitate  my  research  work  there.  I  am  indebted  to  Doctor  P.  S. 
+Graven  for  supplying  me  with  his  as  yet  unpublished  experimental 
+clinical  material,  which  was  very  useful  to  me. 
+
+Three  important  terms  have  been  suggested  to  me ;  namely,  ‘enviro- 
+genetic’  by  Doctor  C.  B.  Bridges,  'actional*  by  Professor  P.  W.  Bridg¬ 
+man,  and  ‘un-sane’  by  Doctor  P.  S.  Graven,  which  debt  I  gladly 
+acknowledge. 
+
+I  am  also  deeply  grateful  to  Professor  R.  D.  Carmichael  for  writ¬ 
+ing  Supplement  I  for  this  book  on  the  Theory  of  Einstein,  and  to 
+Doctor  P.  Weiss  for  his  kind  permission  to  reprint  as  Supplement  II 
+his  article  on  the  Theory  of  Types. 
+
+I  warmly  appreciate  the  kindness  of  those  authors  who  gave  me 
+their  permission  to  utilize  their  works. 
+
+During  my  twelve  years  of  research  work  in  the  present  subject 
+and  preparation  of  this  volume  I  have  been  assisted  by  a  number  of 
+persons,  to  whom  I  wish  to  express  my  appreciation.  My  particular 
+appreciation  is  extended  to  my  secretary,  Miss  Lily  E.  MaDan  who, 
+besides  her  regular  work,  made  the  drawings  for  the  book;  to  Miss 
+Eunice  E.  Winters  for  her  genuine  assistance  in  reading  the  proofs 
+and  compiling  the  bibliography;  and  to  Mr.  Harvey  W.  Culp  for  the 
+difficult  reading  of  the  physico-mathematical  proofs  and  the  equally 
+difficult  preparation  of  the  index. 
+
+The  technical  efficiency  in  all  departments  of  the  Science  Press 
+Printing  Company,  and  the  zealous  and  courteous  co-operation  of  its 
+compositors  and  officials,  have  considerably  facilitated  the  publication 
+of  this  book,  and  it  is  my  pleasant  duty  to  extend  my  thanks  to  them. 
+
+My  heaviest  obligations  are  to  my  wife,  formerly  Mira  Edgerly. 
+This  work  was  difficult,  very  laborious,  and  often  ungrateful,  which 
+involved  the  renouncing  of  the  life  of  ‘normal’  human  beings,  and  we 
+abandoned  much  which  is  supposed  to  make  ‘life  worth  living’.  With¬ 
+out  her  whole-hearted  and  steady  support,  and  her  relentless  encourage¬ 
+ment,  I  neither  would  have  formulated  the  present  system  nor  written 
+the  book  which  embodies  it.  If  this  book  proves  of  any  value,  Mira 
+Edgerly  is  in  fact  more  to  be  thanked  than  the  author.  Without  her 
+interest,  no  non-aristotelian  system,  nor  theory  of  sanity  would  have 
+been  produced  in  1933. 
+
+New  York,  August,  1933. 
+
+A.  K. 
+
+ACKNOWLEDGEMENT 
+
+The  author  and  the  publishers  gratefully  acknowledge  the  following 
+permissions  to  make  use  of  copyright  material  in  this  work : 
+
+Messrs.  G.  Allen  and  Unwin,  London,  for  permission  to  quote  from 
+the  works  of  Bertrand  Russell. 
+
+The  publishers  of  the  Archives  of  Neurology  and  Psychiatry,  for 
+permission  to  quote  from  a  paper  by  W.  A.  White. 
+
+Messrs.  Blackie  and  Son,  London  and  Glasgow,  for  permission  to 
+quote  from  the  works  of  E.  Schrodinger. 
+
+Messrs.  Gebriider  Borntraeger,  Berlin,  for  permission  to  utilize 
+material  from  the  work  of  L.  V.  Heilbrunn. 
+
+The  Cambridge  University  Press,  Cambridge,  England,  for  per¬ 
+mission  to  quote  from  the  works  of  G.  Birtwistle,  A.  S.  Eddington, 
+A.  N.  Whitehead,  A.  N.  Whitehead  and  Bertrand  Russell. 
+
+The  Chemical  Catalog  Company,  New  York,  for  permission  to 
+quote  from  Colloid  Chemistry >  edited  by  J.  Alexander. 
+
+Messrs.  J.  and  A.  Churchill,  London,  for  permission  to  quote  from 
+the  work  of  E.  H.  Starling. 
+
+Messrs.  Constable  and  Company,  London,  for  permission  to  utilize 
+material  from  the  works  of  A.  Haas. 
+
+Messrs.  Doubleday,  Doran  and  Company,  Garden  City  and  New 
+York,  for  permission  to  quote  from  the  work  of  J.  Collins. 
+
+Messrs.  E.  P.  Dutton  and  Company,  New  York,  for  permission  to 
+quote  from  the  works  of  C.  J.  Keyser. 
+
+The  Franklin  Institute,  Philadelphia,  Pa.,  for  permission  to  quote 
+from  the  paper  of  G.  Y.  Rainich  printed  in  the  Journal  of  the  Franklin 
+Institute. 
+
+Messrs.  Harcourt,  Brace  and  Company,  New  York,  for  permission 
+to  quote  from  the  work  of  W.  M.  Wheeler. 
+
+Messrs.  Henry  Holt  and  Company,  New  York,  for  permission  to 
+quote  from  the  works  of  C.  M.  Child,  A.  Einstein,  and  C.  J.  Herrick. 
+
+Messrs.  Kegan  Paul,  Trench,  Trubner  and  Company,  London,  and 
+Messrs.  Harcourt,  Brace  and  Company,  New  York,  for  permission  to 
+quote  from  the  works  of  C.  K.  Ogden  and  I.  A.  Richards,  H.  Pieron, 
+and  Bertrand  Russell. 
+
+Messrs.  Macmillan  and  Company,  London  and  New  York,  for 
+permission  to  quote  from  the  works  of  L.  Couturat,  W.  S,  Jevons,  J. 
+Royce,  and  S.  P.  Thompson. 
+
+The  Macmillan  Company,  New  York  and  London,  for  permission 
+to  quote  from  the  works  of  E.  Bleuler,  M.  Bocher,  P.  W.  Bridgman, 
+A.  S.  Eddington,  E.  V.  McCollum,  W.  F.  Osgood,  and  A.  N.  White- 
+head. 
+
+Messrs.  Methuen  and  Company,  London,  and  Messrs.  Dodd,  Mead 
+and  Company,  New  York,  for  permission  to  quote  from  the  works  of 
+A.  Einstein,  H.  Minkowski,  and  H,  Weyl. 
+
+ci 
+
+cii  PREFACE  TO  THE  FIRST  EDITION 
+
+Messrs.  Methuen  and  Company,  London,  and  Messrs.  E.  P.  Dutton 
+and  Company,  New  York,  for  permission  to  quote  from  the  works  of 
+M.  Born,  A.  Haas,  A.  Sommerfeld,  and  H.  Weyl. 
+
+The  publishers  of  ‘Mind’,  Cambridge,  England,  for  permission  to 
+reprint  the  article  of  P.  Weiss. 
+
+Sir  John  Murray,  London,  and  Messrs.  P.  Blakiston’s  Son  and 
+Company,  Philadelphia,  Pa.,  for  permission  to  quote  from  the  work  of 
+W.  D.  Halliburton. 
+
+The  Nervous  and  Mental  Disease  Publishing  Company,  Washing¬ 
+ton,  D.  C.,  for  permission  to  quote  from  the  works  of  S.  E.  Jelliffe  and 
+W.  A.  White. 
+
+Messrs.  W.  W.  Norton  and  Company,  New  York,  for  permission 
+to  quote  from  the  works  of  H.  S.  Jennings. 
+
+The  Open  Court  Publishing  Company,  Chicago,  Ill.,  for  permission 
+to  quote  from  the  works  of  R.  Bonola,  R.  D.  Carmichael,  Bertrand 
+Russell  and  J.  B.  Shaw. 
+
+The  Oxford  University  Press,  London  and  New  York,  for  a  ten 
+dollar  permission  to  quote  from  the  works  of  I.  P.  Pavlov  and  H.  F. 
+Biggs. 
+
+The  publishers  of  Physical  Review,  New  York,  for  permission  to 
+quote  from  the  paper  of  C.  Eckart. 
+
+The  Princeton  University  Press,  Princeton,  New  Jersey,  for  per¬ 
+mission  to  quote  from  the  work  of  A.  Einstein. 
+
+Messrs.  G.  P.  Putnam's  Sons,  New  York  and  London,  for  permis¬ 
+sion  to  utilize  the  works  of  J.  Loeb. 
+
+The  W.  B.  Saunders  Company,  Philadelphia,  Pa.,  for  permission 
+to  quote  from  the  works  of  W.  T.  Bovie,  A.  Church  and  F.  Peterson, 
+and  C.  J.  Herrick. 
+
+The  Science  Press,  New  York  and  Lancaster,  Pa.,  for  permission 
+to  quote  from  the  work  of  H.  Poincare. 
+
+Messrs.  Charles  Scribner's  Sons,  New  York,  for  permission  to 
+quote  from  the  works  of  G.  Santayana. 
+
+The  University  of  California  Press,  Berkeley,  Calif.,  for  permission 
+to  quote  from  the  work  of  C.  I.  Lewis. 
+
+The  University  of  Chicago  Press,  Chicago,  Ill.,  for  permission  to 
+quote  from  the  works  of  W.  Heisenberg,  C.  J.  Herrick,  R.  S.  Lillie, 
+and  J.  Loeb. 
+
+The  publishers  of  the  University  of  Washington  Chapbooks,  Seat¬ 
+tle,  Wash.,  for  permission  to  quote  from  the  work  of  E.  T.  Bell. 
+
+The  Williams  and  Wilkins  Company,  Baltimore,  Md.,  for  permis¬ 
+sion  to  quote  from  the  work  of  E.  T.  Bell. 
+
+In  several  instances  I  have  quoted  a  few  lines  from  other  publi¬ 
+cations,  without  asking  special  permission.  I  now  wish  to  express  my 
+gratitude  to  these  respective  publishers. 
+
+In  all  instances  the  sources,  from  which  the  quotations  and  the 
+material  used  were  taken,  are  explicitly  indicated  in  the  text  of  the 
+book. 
+
+BOOK  I 
+
+A  General  Survey  of 
+Non-Aristotelian  Factors 
+
+Allow  me  to  express  now,  once  and  for  all,  my  deep  respect  for  the  work 
+of  the  experimenter  and  for  his  fight  to  wring  significant  facts  from  an  in¬ 
+flexible  Nature,  who  says  so  distinctly  "No”  and  so  indistinctly  "Yes”  to 
+our  theories.  (5  so  Hermann  weyl 
+
+The  firm  determination  to  submit  to  experiment  is  not  enough;  there  are 
+still  dangerous  hypotheses;  first,  and  above  all,  those  which  are  tacit  and 
+unconscious.  Since  we  make  them  without  knowing  it,  we  are  powerless  to 
+abandon  them.  <4i7>  H*  poincare 
+
+The  empiricist .  .  .  thinks  he  believes  only  what  he  sees,  but  he  is  much 
+better  at  believing  than  at  seeing.  (46D  g.  santayana 
+
+For  a  Latin,  truth  can  be  expressed  only  by  equations;  it  must  obey  laws 
+simple,  logical,  symmetric  and  fitted  to  satisfy  minds  in  love  with  mathe¬ 
+matical  elegance.  ,  , 
+
+The  Anglo-Saxon  to  depict  a  phenomenon  will  first  be  engrossed  in  mak¬ 
+ing  a  model ,  and  he  will  make  it  with  common  materials,  such  as  our  crude, 
+unaided  senses  show  us  them.  ...  He  concludes  from  the  body  to  the  atom. 
+
+Both  therefore  make  hypotheses,  and  this  indeed  is  necessary,  since  no 
+scientist  has  ever  been  able  to  get  on  without  them.  The  essential  thing  is 
+never  to  make  them  unconsciously.  (417)  h.  poincar6 
+
+If  a  distinction  is  to  be  made  between  men  and  monkeys,  it  is  largely 
+measurable  by  the  quantity  of  the  subconscious  which  a  higher  order  of 
+being  makes  conscious.  That  man  really  lives  who  brings  the  greatest 
+fraction  of  his  daily  experience  into  the  realm  of  the  conscious.* 
+
+MARTIN  H.  FISCHER 
+
+The  thought  of  the  painter,  the  musician,  the  geometrician,  the  trades¬ 
+man,  and  the  philosopher  may  take  very  different  forms;  still  more  so  the 
+thought  of  the  uncultivated  man,  which  remains  rudimentary  and  revolves 
+for  ever  in  the  same  circles.  (4ii>  henri  pi£ron 
+
+One  need  only  open  the  eyes  to  see  that  the  conquests  of  industry  which 
+have  enriched  so  many  practical  men  would  never  have  seen  the  light,  if 
+these  practical  men  alone  had  existed  and  if  they  had  not  been  preceded  by 
+unselfish  devotees  who  died  poor,  who  never  thought  of  utility,  and  yet 
+had  a  guide  far  other  than  caprice.  (417)  h.  poincare 
+
+*  Soinal  Cord  Education.  III.  Med .  Jour.  Dec.,  1928. 
+
+NON-ARISTOTELIAN  FACTORS 
+
+The  men  most  disdainful  of  theory  get  from  it,  without  suspecting  it, 
+their  daily  bread;  deprived  of  this  food,  progress  would  quickly  cease,  and 
+we  should  soon  congeal  into  the  immobility  of  old  China.  (417)  h.  poincar£ 
+
+If  one  wishes  to  obtain  a  definite  answer  from  Nature  one  must  attack 
+the  question  from  a  more  general  and  less  selfish  point  of  view.  (415) 
+
+M. PLANCK 
+
+In  particular — if  we  use  the  word  intelligence  as  a  synonym  for  mental 
+activity,  as  is  often  done — we  must  differentiate  between  the  primitive  forms 
+of  sensory  intelligence,  with  their  ill-developed  symbolism  beyond  which 
+backward  children  cannot  advance,  .  .  .  and  the  forms  of  verbal  intelligence 
+created  by  social  education,  abstract  and  conceptual  forms.  (411) 
+
+HENRI  PI&RON 
+
+A  civilisation  which  cannot  burst  through  its  current  abstractions  is 
+doomed  to  sterility  after  a  very  limited  period  of  progress,  (575) 
+
+A.  N.  WHITEHEAD 
+
+.  .  .  almost  any  idea  which  jogs  you  out  of  your  current  abstractions 
+may  be  better  than  nothing.  (575)  a.  n.  whitehead 
+
+That  is  precisely  what  common  sense  is  for,  to  be  jarred  into  uncommon 
+sense.  One  of  the  chief  services  which  mathematics  has  rendered  the  human 
+race  in  the  past  century  is  to  put  ‘common  sense’  where  it  belongs,  on  the 
+topmost  shelf  next  to  the  dusty  canister  labeled  ‘discarded  nonsense.’  (23) 
+
+E.  T.  BELL 
+
+If  you  have  had  your  attention  directed  to  the  novelties  in  thought  in 
+your  own  lifetime,  you  will  have  observed  that  almost  all  really  new  ideas 
+have  a  certain  aspect  of  foolishness  when  they  are  first  produced.  (575) 
+
+A.  N.  WHITEHEAD 
+
+To  know  how  to  criticize  is  good,  to  know  how  to  create  is  better.  (417) 
+
+H.  poincarG 
+
+The  explanatory  crisis  which  now  confronts  us  in  relativity  and  quantum 
+phenomena  is  but  a  repetition  of  what  has  occurred  many  times  in  the  past. 
+. . .  Every  kitten  is  confronted  with  such  a  crisis  at  the  end  of  nine  days.  (55) 
+
+P.  W.  BRIDGMAN 
+
+The  concept  does  not  exist  for  the  physicist  until  he  has  the  possibility 
+
+of  discovering  whether  or  not  it  is  fulfilled  in  an  actual  case _ As  long  as 
+
+this  requirement  is  not  satisfied,  I  allow  myself  to  be  deceived  as  a  physicist 
+(and  of  course  the  same  applies  if  I  am  not  a  physicist),  when  I  imagine 
+that  I  am  able  to  attach  a  meaning  to  the  statement  of  simultaneity.  (I 
+would  ask  the  reader  not  to  proceed  farther  until  he  is  fully  convinced  on 
+this  point.)  (150)  A.  EINSTEIN 
+
+Einstein,  in  thus  analyzing  what  is  involved  in  making  a  judgment  of 
+simultaneity,  and  in  seizing  on  the  act  of  the  observer  as  the  essence  of  the 
+situation,  is  actually  adopting  a  new  point  of  view  as  to  what  the  concepts 
+of  physics  should  be,  namely,  the  operational  view  ...  if  we  had  adopted  the 
+operational  point  of  view,  we  would,  before  the  discovery  of  the  actual 
+physical  facts,  have  seen  that  simultaneity  is  essentially  a  relative  concept, 
+and  would  have  left  room  in  our  thinking  for  the  discovery  of  such  effects 
+as  were  later  found.  (55)  p,  w.  bridgman 
+
+NON  ARISTOTELIAN  FACTORS 
+
+Let  any  one  examine  in  operational  terms  any  popular  present-da  v  dis¬ 
+cussion  of  religious  or  moral  questions  to  realize  the  magnitude  of  the  re¬ 
+formation  awaiting  us.  Wherever  we  temporize  or  compromise  in  applying 
+our  theories  of  conduct  to  practical  life  we  may  suspect  a  failure  of  opera¬ 
+tional  thinking.  (55)  p*  w*  bridgman 
+
+I  believe  that  many  of  the  questions  asked  about  social  and  philosophical 
+subjects  will  be  found  to  be  meaningless  when  examined  from  the  point  of 
+view  of  operations.  It  would  doubtless  conduce  greatly  to  clarity  of  thought 
+if  the  operational  mode  of  thinking  were  adopted  in  all  fields  of  inquiry  as 
+well  as  in  the  physical.  Just  as  in  the  physical  domain,  so  in  other  domains, 
+one  is  making  a  significant  statement  about  his  subject  in  stating  that  a 
+certain  question  is  meaningless.  (55)  P.  w.  bridgman 
+
+There  is  a  sharp  disagreement  among  competent  men  as  to  what  can  be 
+proved  and  what  cannot  be  proved,  as  well  as  an  irreconcilable  divergence 
+of  opinion  as  to  what  is  sense  and  what  is  nonsense.  (22)  e.  t.  bell 
+
+Notice  the  word  “nonsense”  above.  It  was  their  inability,  among  other 
+things,  to  define  this  word  .  .  .  that  brought  to  grief  the  heroic  attempt  of 
+Russell  and  Whitehead  to  put  mathematical  reasoning  on  a  firm. basis.  (22) 
+
+E.  T.  BELL 
+
+The  structure  of  all  linguistic  material  is  inextricably  mixed  up  with,  and 
+dependent  upon,  the  course  of  the  activity  in  which  the  utterances  are 
+embedded.  (332)  b.  malinowski 
+
+To  sum  up,  we  can  say  that  the  fundamental  grammatical  categories, 
+universal  to  all  human  languages,  can  be  understood  only  with  reference 
+to  the  pragmatic  Weltanshauung  of  primitive  man,  and  that,  through  the 
+use  of  Language,  the  barbarous  primitive  categories  must  have  deeply  in¬ 
+fluenced  the  later  philosophies  of  mankind.  (332)  b.  malinowski 
+
+Since  no  two  events  are  identical,  every  atom,  molecule,  organism,  per¬ 
+sonality,  and  society  is  an  emergent  and,  at  least  to  some  extent,  a  novelty. 
+And  these  emergents  are  concatenated  in  such  a  way  as  to  form  vast  rami¬ 
+fying  systems,  only  certain  ideal  sections  of  which  seem  to  have  elicited  the 
+attention  of  philosophers,  owing  to  their  avowedly  anthropocentric  and 
+anthropodoxic  interests.  (555)  william  morton  wheeler 
+
+The  words  is  and  is  not,  which  imply  the  agreement  or  disagreement  of 
+two  ideas,  must  exist,  explicitly  or  implicitly,  in  every  assertion.  (354) 
+
+AUGUSTUS  DE  MORGAN 
+
+The  little  word  is  has  its  tragedies;  it  marries  and  identifies  different 
+things  with  the  greatest  innocence;  and  yet  no  two  are  ever  identical,  and 
+if  therein  lies  the  charm  of  wedding  them  and  calling  them  one,  therein  too 
+lies  the  danger.  Whenever  I  use  the  word  is,  except  in  sheer  tautology,  I 
+deeply  misuse  it;  and  when  I  discover  my  error,  the  world  seems  to  fall 
+asunder  and  the  members  of  my  family  no  longer  know  one  another.  (461) 
+
+G. SANTAYANA 
+
+The  complete  attempt  to  deal  with  the  term  is  would  go  to  the  form  and 
+matter  of  every  thing  in  existence,  at  least,  if  not  to  the  possible  form  and 
+matter  of  all  that  does  not  exist,  but  might.  As  far  as  it  could  be  done,  it 
+would  give  the  grand  Cyclopaedia,  and  its  yearly  supplement  would  be  the 
+history  of  the  human  race  for  the  time.  (354)  Augustus  de  Morgan 
+
+Consciousness  is  the  feeling  of  negation:  in  the  perception  of  ‘the  stone 
+as  grey,’  such  feeling  is  in  barest  germ;  in  the  perception  of  ‘the  stone  as 
+not  grey,'  such  feeling  is  full  development.  Thus  the  negative  perception 
+is  the  triumph  of  consciousness.  (578)  A.  N.  whitehead 
+
+NON  AK ISTOTKLI AN  FACTORS 
+
+But,  if  we  designate  as  intelligence,  quantitatively,  the  totality  of  mental 
+functioning,  it  is  evident  that  the  suppression  of  verbal  thought  involves 
+a  defect,  relatively  very  important  among  cultivated  individuals  leading  a 
+complex  social  life:  the  uneducated  person  from  this  point  of  view  is  a  de¬ 
+fective.  (411)  HENRI  PlfeRON 
+
+The  philosophy  of  the  common  man  is  an  old  wife  that  gives  him  no 
+pleasure,  yet  he  cannot  live  without  her,  and  resents  any  aspersions  that 
+strangers  may  cast  on  her  character.  (46i)  G.  Santayana 
+
+It  is  terrible  to  see  how  a  single  unclear  idea,  a  single  formula  without 

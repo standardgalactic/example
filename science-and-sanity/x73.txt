@@ -1,0 +1,500 @@
+
+endowed  them  with  objective  values  of  definiteness  and  rigidity,  we  dealt  with 
+‘absolute  space*  and  with  ‘absolute  time’,  which  was  ‘unchanging’  and  ‘the 
+same  for  all’.  In  the  older  assumptions  our  velocities  varied .  If  A  had  a  velocity 
+of  5  centimetres  per  second,  for  instance,  and  B  was  overtaking  A  with  a  ve¬ 
+locity  of  7  centimetres  per  second,  the  relative  velocity  between  A  and  B  would 
+be  7-5  =2  cm.  per  second.  The  units  of  *  space*  and  ‘ time *  were  definite ,  immutable 
+and  did  not  and  could  not  vary ,  which  followed  directly  from  the  assumptions  of 
+an  ‘objective*  ‘absolute  space*  and  ‘absolute  time  . 
+
+In  the  case  of  light,  we  came  in  contact  with  a  velocity  which  did  not  vary 
+for  any  observer  no  matter  what  his  relative  motion.  The  velocity  c  was  found 
+to  be  constant,  so  the  natural  assumption  to  make  is  that  our  ‘ space*  and  * time * 
+vary  for  different  observers. 
+
+In  the  above  equations  as  they  stand,  ‘absolute  time’,  t  =/,  the  ‘same’  for 
+all  observers  is  assumed,  which  made  such  equality  impossible.  Assuming  dif¬ 
+ferent  ‘times*  for  different  observers,  t  for  the  first,  and  t'  for  the  second,  such 
+a  compensation  transforms  our  inequality  into  an  equality,  as  demanded  both 
+
+by  the  experiment  and  by  the  theory.  Instead  of  writing 
+
+*2  +y2  +z2  „c2t2  =x'2  +y/2  +z'2  _c2^  (*«*), 
+
+which  cannot  be  true ,  we  write, 
+
+*»+y*  +s2  -  cV  -*'2  +/2  +z'2  -c2f'2  — 0,  (t tf) 
+which  can  be  true.  We  should  notice  that  in  the  first  equation  we  have  on  both 
+sides  t,  which  makes  the  equation  impossible,  whereas  in  the  second  equation 
+we  have  on  the  left-hand  side  t  and  on  the  right-hand  side  a  different  t ;  namely ,  tf. 
+
+The  above  considerations  mean  that  there  is  a  definite  structural  discrepancy 
+between  the  old  language  and  the  empirical  world,  requiring  a  fundamental 
+structural  linguistic  revision.  This  revision  has  been  accomplished,  and  is  known 
+as  the  Einstein  theory.  It  is  not  implied  that  Einstein’s  work  is  final,  but  that 
+it  shows  clearly  the  structural  errors  of  the  old  elementalism  to  which  we  can 
+never  return. 
+
+In  other  words,  in  the  older  mechanics  we  had  definite  and  permanent 
+‘time’  (absolute)  and  varying  relative  velocities.  Dealing  with  light-waves  we 
+find  experimentally  that  the  velocity,  c,  of  light  does  not  vary  with  the  relative 
+motions  of  the  observers  and  we  must  assume  a  variable  time  to  preserve  our 
+equations. 
+
+An  obvious  objection  can  be  raised  to  this:  why  alter  our  habitual  notions 
+of  ‘time’?  Can  we  not  keep  the  old  $.r  and  find  some  other  method  of  compen¬ 
+sation,  less  bothersome  and  less  revolutionary?  The  older  physicists  and  Einstein 
+give  a  long  and  convincing  list  of  perfectly  sufficient  reasons  for  such  a  change, 
+yet  their  arguments  always  leave  us  somehow  in  doubt,  with  the  feeling  of  a 
+lurking  possibility  that  the  old  can  be  preserved. 
+
+What  has  already  been  said  in  this  work  about  structure  and  semantic 
+disturbances  and  the  fact  that  the  terms  ‘matter’,  ‘space’,  and  ‘time’  are  not 
+objects ,  which  they  cannot  be,  removes  perhaps  for  good  and  all,  the  last  doubt 
+as  to  the  revolutionary  and  epoch-making  significance  and  value  of  the  struc¬ 
+tural  linguistic  discoveries  of  Einstein.  On  these  grounds  alone  the  return  to 
+
+654  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+the  old  is  impossible.  The  old  is  due  to  objectification  of  the  structural  peculi¬ 
+arities  of  the  old  el  language,  and  to  semantic  disturbances,  which  at  the  present 
+low  level  of  our  development  is  inevitably  the  result  of  copying  lower  animals 
+in  our  'thinking',  a  pathological  process  for  'man'. 
+
+It  will  be  well  to  explain  at  this  point  why  I  said  that  the  Michelson-Morley 
+experiment  only  assisted  Einstein,  and  only  seemingly  proved  the  constant 
+velocity  of  light.  Historically,  there  is  no  doubt  that  the  beginning  of  the 
+theory  of  Einstein  was  suggested  by,  and  had  its  physical  basis  in  this  ex¬ 
+periment.  In  reality,  as  the  whole  of  this  present  work  about  structure  shows, 
+the  two  issues  are  quite  independent.  The  fact  of  the  finite  velocity  of  light  has 
+never  been  challenged,  on  the  contrary  it  is  becoming  more  and  more  solidly 
+established,  both  empirically  and  theoretically,  simply  because  an  ‘infinite 
+velocity1  has  no  meaning. 
+
+With  the  structural  results  of  this  present  work,  and  the  establishment  of 
+the  fact  of  the  finite  velocity  of  light,  the  whole  Einstein  theory  has  a  perfectly 
+solid  structural,  linguistic  foundation  (1933).  Nevertheless  it  is  extremely 
+gratifying  that  the  latest,  very  important,  and  painstaking  work  of  Doctor 
+Roy  J.  Kennedy  seems  once  more  to  add  fundamental  experimental  support 
+to  the  correctness  of  the  Einstein  theory,*  From  the  point  of  view  of  structure, 
+Einstein  merely  eliminated  some  primitive,  perhaps  even  animalistic,  remains 
+of  objectification  which  still  lingered  in  the  structure  of  our  language  of  ‘matter’, 
+‘space*,  and  ‘time’.  These,  being  animalistic,  were  unfit  for  humans;  vitiating 
+not  only  our  daily  lives  but  science  as  well.  (Eddington  in  The  Mathematical 
+Theory  of  Relativity ,  p.  196,  uses  the  term  ‘pre-human’  in  a  similar  connection.) 
+
+It  must  be  recalled  that  the  definition  of  velocity  is  connected  in  a  circular 
+way  with  ‘space’  and  ‘time’.  That  is,  in  the  definition  of  the  relation  of  velocity, 
+0 V=s/i ),  ‘space*  and  ‘time’,  the  definition  of  any  one  of  our  three  terms  depends 
+upon  our  definition  of  the  other  two;  whence  there  are  many  possible  ways  of 
+verbal  adjustment. 
+
+As  we  saw,  the  mechanical  verbal  principle  of  relativity  with  which  we  are 
+all  familiar  was  not  structurally  able  to  account  satisfactorily  for  a  similar 
+relativity  of  optical  and  electrodynamic  events.  The  older  formulae  of  trans¬ 
+formations  were,  as  already  given,  x'  =x-ut,  y'  «*y,  z'  =z,  t  =t.  These  formulae 
+are  called  the  Galileo  transformations  in  honour  of  the  founder  of  mechanics; 
+and,  as  we  have  seen,  structurally  they  are  not  general  enough. 
+
+If  we  consider  the  equation  x2 +y2 -\~z2  —c2t2  =0  and  x'2  -f/2  +z'2  —  c2t'2  =  0, 
+we  find  that  the  galilean  transformations  do  not  satisfy  them.  Lorentz  and 
+Einstein  have  found  another  set  of  transformations  which  satisfies  uniquely  the 
+above  equations.  These  formulae  of  new  structure  are  called  the  Lorentz- 
+Einstein  transformation,  and  are  given  by  the  following  equations :  x'  =j3  (x  —vt), 
+y'  =?,  z'  =z,  tf  =/3  (t—vx/c2);  where  v  is  the  relative  velocity  of  one  system  with 
+
+*See  ‘The  Velocity  of  Light’,  in  Nature,  Aug.  20,  1932,  by  R.  J.  Kennedy,  and 
+his  latest  paper  (No.  261)  in  the  Bibliography. 
+
+SEMANTICS  OF  THE  EINSTEIN  THEORY 
+
+respect  to  the  other,  c,  as  usual,  represents  the  velocity  of  light,  and  the  factor 
+
+/9=1/V  (1  -»7eJ). 
+
+The  most  striking  characteristic  of  these  formulae  is  that  if  we  assume 
+that  c,  the  velocity  of  light,  is  ‘infinite’,  all  the  expressions  containing  e11  would 
+become  zero,  c2  entering  only  in  the  denominators  of  fractions.  In  such  a  limiting 
+case  /S  =  1  /V  (1-0)  =  1/1-1  and  x'  =  (x  -ut),  j  =y,  s'  =s,  t'  =f  which  are  the 
+
+older  galilean  transformations.  , 
+
+Thus  there  appears  the  astonishing  fact  that  all  the  pre-einsteinian  physics 
+and  mechanics  which  involved  the  structural  assumption  of  the  galilean  trans¬ 
+formation,  had  a  tacit  structural  assumption  of  the  infinite  velocity  of  light. 
+This  assumption,  known  since  1676  to  be  false  as  to  facts,  remained  unnoticed 
+before  Einstein. 
+
+As  c  =3Xl010  cm. /sec.,  c2^9xl020  is  a  very  large  number,  whence  the 
+fractions  vx/c 2  and  v2/c2  are  very  small,  and  0  differs  very  little  from  unity. 
+
+If  we  apply  the  Lorentz-Einstein  transformation  instead  of  the  older 
+galilean  transformation  to  mechanical  problems,  the  changes  are  so  small  that 
+they  can  hardly  be  detected  by  experiments,  the  terrestrial  velocities  v  or  vx 
+being  so  small  in  comparison  with  the  square  of  the  velocity  of  light. 
+
+The  galilean  transformations  are  experimentally  shown  to  be  structurally 
+invalid  for  optical  and  electrodynamic  events.  The  Lorentz-Einstein  transfor¬ 
+mations  satisfy  structurally  the  optical  and  electrodynamic  events,  and  also 
+apply  to  the  older  mechanical  problems.  We  see  that  the  Lorentz-Einstein 
+transformations  are  more  general ,  as  they  include  the  galilean  transformations 
+as  a  particular  case  when  we  assume  c  -oo. 
+
+In  a  few  instances,  where  we  deal  with  large  velocities,  the  values  of  the 
+fractions  containing  the  square  of  the  velocity  of  light  become  appreciable  and 
+allow  experimental  testing.  As  yet  all  such  experiments  have  verified  the 
+
+Einstein  theory.  t 
+
+We  should  repeat  again  that  the  achievement  of  Einstein  was  the  building 
+
+of  a  linguistic  system  similar  in  structure  to  the  world,  which  eliminated  a  patho¬ 
+logical  pre-human  factor  of  objectification  of  terms.  Such  structural  elimination 
+was  bound  to  bring  some  sanity  to  our  theories;  and  this  fact  is  independent  of 
+experiments  in  physical  laboratories.  However,  it  is  gratifying  to  find  that  ex¬ 
+periments  support  (1933)  the  Einstein  theory.  It  was  particularly  gratifying 
+in  the  beginning,  when  physicists  and  Einstein  himself  believed  that  his  theory 
+would  stand  or  fall  by  experiment.  Today  we  see  that  this  theory  represents 
+such  an  enormous  general,  structural,  epistemological,  psycho-logical,  and 
+methodological  non-elementalistic  advance,  that  no  matter  what  the  experiments 
+show  or  may  show  in  the  future  we  cannot  return  to  a  language  of  the  old,  el, 
+obviously  wrong,  structure  of  the  pre-einsteinian  days.  As  usual,  the  negative 
+results  are  the  important  ones.  No  matter  what  experiments  may  show  we  shall 
+never  again  accept  the  silent  structural  assumption  of  ‘infinite  velocity  for 
+light,  when  we  know  positively  that  the  velocity  is  finite.  We  shall  never  again 
+treat  terms  of  ‘matter',  ‘space',  and  ‘time’  as  objects— lower  order  abstractions, 
+when  we  know  that  they  represent  terms — higher  order  abstractions.  When 
+
+656  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+once  this  is  realized,  we  cannot  ascribe  'finiteness’  or  ‘infiniteness’,  'definiteness’, 
+‘rigidity*.  ,  to  terms ,  verbal  forms,  forms  of  representation.  From  this  point  of 
+view  we  may  consider  the  Einstein  theory  as  an  irreversible  gain.  If  it  had 
+achieved  only  the  elimination  of  various  structural  prejudices  and  dogmas,  it 
+has  done  well;  and  at  least  this  much  Einstein  has  already  achieved. 
+
+The  structural,  verbal,  cortical  quest  for  invariance  in  our  formulations 
+also  becomes  apparent.  The  older  mechanics  were  invariant  under  the  galilean 
+transformation,  equations  preserved  their  form  in  different  systems  of  co¬ 
+ordinates.  In  the  special  theory  of  relativity  the  new  laws  are  invariant  under 
+the  Lorentz-Einstein  transformation.  In  this  special,  or  restricted,  theory  of 
+relativity  only  uniform  relative  motion  was  taken  into  account.  If  we  generalize 
+the  principle  of  relativity  to  any  kind  of  relative  motion  we  pass  from  the 
+restricted  to  the  general  theory,  which  demands  that  the  laws  of  physics  should 
+be  formulated  in  a  generally  invariant  form  for  any  arbitrary  transformations. 
+
+For  this  structural,  cortical  reason  it  is  necessary  to  express  all  the  laws  of 
+physics  in  tensor  equations,  which  satisfy  such  conditions  of  general  invariance. 
+If  this  cannot  be  done,  there  must  be  something  wrong  with  our  language,  as 
+such,  and  with  our  verbal  laws.  We  require  structural  revision  of  those  laws  so 
+as  to  be  able  to  express  them  in  tensor  equations.  The  newtonian  law  of  gravi¬ 
+tation  and  the  older  form  of  the  law  of  conservation  of  energy  are  perhaps  the 
+most  remarkable  examples.  They  do  not  survive  such  minimal,  and  yet  entirely 
+justified,  structural  requirements  as  those  of  the  general  theory  of  Einstein,  and 
+therefore  they  cannot  be  structurally  satisfactory. 
+
+We  have  already  seen  that  the  equation  jc2  -j-y2  -fz2  =  c2t2  or  x2  f  y2  -fz2  — c2/2  =  0 
+represents  the  equation  of  the  spherical  propagation  of  light  with  the  finite  veloc¬ 
+ity  c .  The  discovery  that  the  velocity  of  light  is  a  universal  constant  for  all 
+observers,  and  the  above  equation,  led  historically  to  the  re-discovery  by  Einstein 
+of  the  Lorentz  transformation  which,  as  we  have  seen,  has  assumed  such  over¬ 
+whelming  structural  importance.  The  meaning  of  these  facts  is  worth  considering. 
+
+^  In  Chapter  XVII  we  analysed  briefly  the  elementalistic  language  of  ‘matter’, 
+space  ,  and  ‘time  ,  and  came  to  the  conclusion  that  to  eliminate  objectification 
+we  must  abandon  the  semantic  disturbance  and  the  use  of  the  term  ‘is*  of 
+identity.  Instead,  we  must  use  an  actional  functional  language  to  describe 
+ordered  functioning,  behaviour,  or  operations.  By  necessity  we  were  led  to  a 
+‘contact’  method.  We  also  discovered  that  in  accepting  the  above  structural 
+methods  we  were  compelled  to  discriminate  between  different  orders  of  ab¬ 
+straction,  since  what  we  see,  feel,  and  experience  is  not  what  we  say  about  it. 
+We  found  that  on  the  ‘objective’  level  of  our  actual  activities,  (manipulating 
+instruments .  ,)  which  represent  the  silent  unspeakable  level,  we  could  never 
+find  a  situation  in  which  the  old  language  of  ‘matter’,  ‘space’,  and  ‘time’  could 
+be  used  without  coming  violently  into  conflict  with  the  properly  analysed 
+facts.  We  came  to  the  conclusion  that  this  language  was  not  structurally  satis¬ 
+factory,  for  verbally ,  ‘space’,  ‘time*,  and  ‘matter*  were  supposed  to  be  quite 
+clear-cut  and  separate  entities,  while  in  actual  experience  we  never  could  find 
+such  separated  objective  entities.  It  became  obvious  that  the  structure  of  the 
+
+SEMANTICS  OF  THE  EINSTEIN  THEORY 
+
+old  language  of  'matter1,  ‘space*,  and  ‘time’  was  different  from  the  structure  of 
+the  outside  world  as  we  now  know  it.  We  found  ourselves  in  a  situation  where 
+we  had  to  choose  either  to  keep  the  old  language  which,  as  it  differed  from  them 
+in  structure,  could  never  give  a  coherent  account  of  facts  at  hand,  or  else  to 
+build  up  a  new  language  with  structure  similar  to  that  of  the  outside  world,  in 
+order  to  have  the  possibility  of  coherent  conversation  about  it. 
+
+The  invention  of  such  a  new  language  is  of  course  an  extremely  difficult 
+undertaking.  In  fact,  it  requires  some  genius  to  invent  new,  more  structurally 
+similar,  forms  of  representation  for  the  old  facts.  Lorentz,  Einstein,  and  Min¬ 
+kowski  prepared  and  finally  produced  such  a  structurally  new  language.  The 
+difficulty  was  that  verbally  we  had  already  separated  what  empirically  could 
+not  be  separated.  The  problem  was  to  amalgamate  somehow  the  old  struc¬ 
+turally  elementalistic  language  of  ‘space*  and  ‘time’  into  a  noh-elementalistic 
+language.  The  key  to  such  an  amalgamation  is  found  in  the  light-wave  equation 
+which  gives  us  the  structural  information  about  the  world,  x2+^+z2 —cH2, 
+
+This  equation  represents  an  equality.  The  left-hand  side  is  expressed  in 
+‘spatial’  terms  only — the  distance  between  two  points  O  and  P,  The  right-hand 
+side  expresses  the  ‘spatial’  length,  but  in  a  ‘temporal*  term.  We  see  that  here 
+we  have  means  of  translation,  and  a  possibility  of  amalgamation  of  two  ele¬ 
+mentalistic  languages,  which  were  not  supposed  to  be  intertranslatable. 
+
+The  Lorentz-Einstein  transformation  formulae  are  x'  =£  (x—  vt),  y'=y, 
+zf  -zt  tr  - j8  (t—vx/c2)  where  v  is  the  relative  velocity  of  the  two  systems  of  co¬ 
+ordinates,  c,  the  constant  velocity  of  light,  and  0  -  l/v  (1  ~v2/c2). 
+
+The  formulae  for  x '  and  t*  which  typify,  on  the  left-hand  side,  xr  a  ‘spatial’ 
+length  and  tf  a  ‘time’,  are  of  particular  interest.  We  see  that  on  the  right-hand 
+side  of  the  expressions  the  value  of  the  ‘spatial’  xf  is  given  by  0  ( x  —vt)  which 
+involves  ltime\  The  value  of  ‘time’,  t(  is  given  by  j8  (/—  iw/c2),  which  involves 
+the  ‘spatial’  length  x.  So  we  see  that  our  amalgamation  is  complete,  and  separa¬ 
+tion  impossible.  The  above  formulae  express  structurally  the  simple  experi¬ 
+mental  fact  that  ‘space’  and  ‘time*  cannot  be  separated.  At  this  point  we  are 
+not  ready  to  discuss  ‘matter*.  This  will  be  considered  further  on  in  this  work 
+(see  Chapters  XL  and  XLI). 
+
+The  above  formulae  have  also  a  very  important  physical  and  experimental 
+meaning,  as  they  introduce  the  ‘contact’  methods  into  our  language.  Our 
+actual  measurements  of  ‘space’  and  ‘time’  are  strictly  connected  with  readings 
+on  some  instruments,  and  involve  therefore  coincidences  between  pointers  and 
+‘simultaneity’.  In  all  instances  the  finite  velocity  of  propagation  of  signals  must 
+be  taken  into  consideration.  When  our  instrument,  or  the  eye,  is  affected  by 
+signals  there  is  always  a  delay  due  to  the  finite  velocity  of  the  propagation  of 
+the  signals;  These  delays  are  part  and  parcel  of  our  experiment,  and  so  our 
+formulae  must  contain  terms  explicitly  involving  this  finite  velocity  of  propaga¬ 
+tion.  This  innovation  involves  not  only  a  most  profound  structural  epistemo¬ 
+logical  and  semantic  revolution  but  supplies  the  very  factor  that  enables  us  to 
+formulate  more  structurally  satisfactory  languages  (theories),  which  Lorentz, 
+Einstein,  and  Minkowski  have  produced. 
+
+658  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+We  have  been  contrasting  finite  and  ‘infinite’  velocities.  Let  us  say  frankly 
+that  ‘infinite’  velocity  is  a  polite  way  of  speaking  about  blunders  of  observation. 
+‘Infinite’  velocity  is  meaningless.  Velocity  is  defined  as  v  -s/t  and  if  t  is  taken 
+as  zero  or  in  other  words,  if  one  of  the  fundamental  factors  in  our  definition  is 
+lacking,  our  definition  ceases  to  define  the  term  in  question — in  this  case,  velocity. 
+So  when  the  term  ‘time’  is  lacking,  we  have  no  velocity ,  by  definition;  so,  to 
+speak  or  speculate  about  ‘infinite’  velocity  is  simply  making  noises,  and  not 
+saying  anything.  The  negative  of  this  noise ;  namely,  saying  that  velocity  is  not 
+‘infinite’,  or  in  a  positive  sense,  that  velocity  is  ‘finite’,  is  on  a  different  verbal 
+footing,  although  it  remains  a  polite  invitation  to  stop  talking  non-sense. 
+
+It  should  be  noticed  carefully  that  the  general  theory  of  Einstein  is  a  high 
+structural  generalization  of  the  special  theory;  and  that  both  of  them  are 
+generalizations  of  the  classical  mechanical  principle  of  relativity.  It  is  founded, 
+not  on  the  introduction  of  any  extraordinary  structural  assumptions,  but  on 
+the  elimination  of  some  unjustified  and  false-as-to-facts  structural  assumptions, 
+such  as  that  of  the  ‘infinite’  velocity  of  light. 
+
+Both  the  theory  of  Einstein,  and  the  theory  presented  in  this  work  are  long 
+overdue.  The  Einstein  theory  could  have  been  formulated  as  soon  as  we  dis¬ 
+covered  the  finite  velocity  of  light,  in  1676.  It  should  be  noticed  that  this  last 
+discovery  was  also  overdue,  as  it  did  not  require  experiments  to  establish  the 
+finite  velocity  of  light.  It  was  sufficient  to  establish  the  meaningless  character 
+of  ‘infinite’  velocity,  which  on  symbolic  grounds,  could  have  been  accomplished 
+much  earlier,  and  to  conclude,  that  the  velocity  of  light  must  be  finite.  This 
+example  shows  the  hampering,  blocking,  semantic  effect  which  different  mean¬ 
+ingless  verbal  structures  have  on  us.  To  express  this  high  and  satisfactory 
+structural  generalization,  Einstein  had  to  select  the  most  general  and  struc¬ 
+turally  appropriate  language  in  existence.  He  chose  at  some  stage  of  his  work 
+the  language  of  E  and  four-dimensional  geometries  in  general  and  that  of  the 
+differential  geometry  and  the  tensor  calculus  in  particular.  In  the  latest  field 
+theory,  Einstein  and  Mayer  introduce  a  new  more  general  and  very  revolutionary 
+mathematical  language  where  vectors  and  tensors  in  an  w-dimensional  spread 
+may  have  m  components. 
+
+At  present  it  appears  that  two  other  very  general  mathematical  disciplines 
+will  be  used  increasingly  in  the  future.  One  of  them  is  the  theory  of  groups ;  the 
+other  is  analysis  situs .  In  the  latter  we  study  only  these  characteristics  of  figures 
+that  are  unaffected  (invariant)  by  continuous  deformation  produced  without 
+tearing.  Two  structural  points  are  relevant  for  us  in  this  connection:  namely, 
+that  the  analysis  situs  is  fundamentally  a  differential  and  also  an  ordinal  dis¬ 
+cipline,  based  on  asymmetrical  relations.  In  the  next  chapter,  as  an  illustration 
+of  the  actional,  behaviouristic,  functional,  operational,  differential,  contact 
+method  a  short  account  will  be  given  of  the  way  Einstein  structurally  treated 
+‘simultaneity’.  The  elimination  of  the  old  structural  dogma  about  ‘simul¬ 
+taneity’  resulting  from  the  semantic  disturbance  of  objectification  of  ‘time’,  is 
+one  of  the  outstanding  achievements  of  Einstein  and  is  historically  the  begin¬ 
+ning  of  his  theory. 
+
+CHAPTER  XXXVII 
+
+ON  THE  NOTION  OF  ‘SIMULTANEITY* 
+
+So  we  see  that  we  cannot  attach  any  absolute  signification  to  the  concept 
+of  simultaneity,  but  that  two  events  which,  viewed  from  a  system  of  co¬ 
+ordinates,  are  simultaneous,  can  no  longer  be  looked  upon  as  simultaneous 
+events  when  envisaged  from  a  system  which  is  in  motion  relatively  to  that 
+
+/I.'*  A.  EINSTEIN 
+
+In  the  older  days  we  accepted  as  self-evident  the  structural  assumption 
+that  there  is  sense  in  such  a  statement  as  that  an  event  A  on  the  sun  was  Simul¬ 
+taneous’  with  an  event  B  on  the  earth.  We  assumed  also  that  the  ‘moments  of 
+our  consciousness’  had  a  universal  ‘meaning’.  We  tacitly  assumed,  for  instance, 
+that  when  we  saw  or  photographed  an  event  on  the  sun,  that  it  happened  just 
+the  moment  we  saw  it.  Such  structural  assumptions  were  rudely  disturbed  by 
+the  discovery  of  the  finite  velocity  of  light.  Today  we  know  that  when  we  see 
+or  photograph  an  event  on  the  sun,  that  event  happened  approximately  eight 
+minutes  earlier,  as  it  takes  about  eight  minutes  for  the  light  from  the  sun  to 
+reach  our  earth.  We  begin  to  realize  that  the  moments  of  our  perceptions  have 
+no  universal  significance. 
+
+We  inquire  first  what  we  mean  structurally  by  simultaneity.  We  do  not 
+need  to  go  into  details.  The  application  of  functional  and  contact  methods, 
+even  in  the  rough,  will  assist  us.  We  can  speak  in  terms  of  instruments.  For 
+instance,  we  can  build  a  special,  very  fast  moving  picture  camera,  C,  with  two 
+lenses  D  and  E,  at  two  opposite  sides,  and  a  calibrated  film,  F,  running  rapidly 
+through  the  middle  of  the  camera  as  shown  in.  Fig.  1.  If  we  focus  our  double 
+camera  on  two  flashes,  A  and  B,  occurring  at  ‘equal  distances  ,  L,  from  the  film, 
+
+we  say  that  the  flashes  occur  simultane¬ 
+ously  by  definition  if  the  pictures,  a  and 
+b  of  the  flashes  A  and  B,  appear  exactly 
+opposite  each  other  on  the  film,  or  if  we 
+have  one  picture.  If,  under  the  condi¬ 
+tions  of  the  experiment,  where  the  dis¬ 
+tances  between  the  origins  of  the  flashes 
+and  the  film  are  equal,  and  our  film  is 
+moving  very  rapidly,  the  pictures  of  the 
+flashes  do  not  occur  exactly  opposite 
+each  other,  but  one  picture  is  separated 
+from  the  other,  then  we  have  two 
+pictures,  and  conclude,  by  definition , 
+
+r 
+
+Fig.  1 
+
+that  the  flashes  are  not  simultaneous. 
+
+We  introduce  this  hypothetical  instrument  to  show  that,  in  discussing 
+physics,  and  the  theory  of  Einstein  in  physics,  we  do  not  speak  of  ‘psychology’ 
+or  personal  ‘subjectivity’,  but  that  we  do  deal  with  the  inherent  physical  sub- 
+
+660  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+
+jectivity  of  the  instruments  and  the  finite  velocity  of  propagation.  When  we 
+discuss  the  psycho-logical  or  methodological  or  semantic  significance  of  science 
+and  scientific  method,  we  deal  with  different  subjects. 
+
+When  we  use  the  term  ‘observer'  we  mean  an  observer  so  equipped  that  he 
+can  do  whatever  is  demanded  of  him. 
+
+What  was  said  about  the  definition  of  ‘simultaneity*  by  the  aid  of  the 
+camera,  applies  also  to  ourselves. 
+
+The  problem  of  prime  importance  before  us  is  to  find  out  if  ‘simultaneity*, 
+as  defined,  has  an  ‘absolute’  and  universal  significance,  or  if  it  is  perhaps  a 
+private  and  relative  notion. 
+
+We  will  carry  out  the  analysis  in  two  ways,  the  first  by  example,  which 
+will  be  instructive,  though  perhaps  not  completely  conclusive;  the  other,  by 
+the  use  of  the  Lorentz-Einstein  transformation. 
+
+Let  us  perform  our  last  experiment,  which,  with  modern  methods  seems  to 
+be  feasible,  in  a  slightly  more  complicated  form. 
+
+We  can  select  a  dark  night  in  which 
+flashes  will  photograph  well  even  at 
+considerable  distances.  We  can  place 
+powerful  projectors  at  A  and  B,  and  we 
+place  our  camera  so  that  the  film  will 
+come  exactly  at  C,  midway  between  A 
+and  B.  We  can  start  the  mechanism  of 
+the  rapidly  moving  film  and,  by  an 
+electrical  contact  made  at  C,  we  can 
+produce  a  short  flash  from  each  of  the 
+two  projectors.  Because  of  the  assump¬ 
+tions,  AC— CB,  and  equal  velocity  of 
+the  propagation  of  electrical  currents 
+and  light-waves  in  all  directions  we  shall 
+have  by  the  structural  definitions  which 
+condition  the  experiment,  one  picture 
+in  Fig.  2,  say  at  the  spot  of  our  moving 
+film  marked  by  5.  The  rays  of  light  from 
+A  and  B  would  arrive  ‘simultaneously* — 
+that  is,  ‘at  the  same  time’ — and  would 
+affect  our  moving  film  in  one  spot .  Our 
+definition  was  for  a  stationary  observer, 
+and  under  the  conditions,  the  experi¬ 
+ment  was  fairly  definite — all  the  under¬ 
+lying  structural  assumptions,  of  course, 
+being  taken  for  granted. 
+
+Now  consider  an  observer,  as  shown  in  Fig.  3,  moving  uniformly  in  the 
+direction  from  A  to  B. 
+
+Let  us  assume  that  he  is  also  equipped  with  a  similar  sort  of  moving  picture 
+camera  as  the  stationary  observer,  and  that  just  before  he  passes  the  point  C 
+
+SIMULTANEITY 
+
+the  electrical  impulse  to  the  projectors  is  sent.  Let  us  assume  further  that  the 
+mark  5  on  his  moving  film  is  exactly  at  the  focal  point  of  the  camera  as  C  is 
+passed.  The  electrical  impulses  travelling  from  C  to  A  and  B  would  travel  the 
+distance  AC  =BC(  produce  the  flashes  A  and  B  which  again  would  travel  with 
+finite  velocity  in  all  directions.  During  the  interval  these  impulses  and  light¬ 
+waves  are  travelling,  our  observer  is  moving  from  A  toward  B,  and  spot  5  on  his 
+moving  film  is  no  more  at  the  focus  of  the  camera.  Obviously  he  will  meet  the 
+light-wave  from  B  first,  at  C',  let  us  say,  when  mark  6  on  his  film  is  at  the  focus 
+(Fig.  3).  After  another  short  interval  when  he  reaches  C "  and  mark  7  on  his 
+film  is  at  the  focus,  the  light-wave  from  A  overtakes  him  (Fig.  4). 
+
+So  we  see  that  what  was  ‘simultaneous’  (by  definition)  and  produced  one 
+impression  on  the  moving  film  of  the  stationary  observer,  was  not  ‘simultaneous  , 
+(again  by  definition),  for  the  moving  observer,  as  his  film  registers  two  pictures. 
+
+As  both  observers  use  similar  instruments  and  one  set  of  definitions,  ob¬ 
+viously  both  are  entitled  to  claim  that  their  records  on  the  film  are  conclusive. 
+So  the  first  can  claim  that  the  flashes  were  ‘simultaneous’,  the  second  can  claim 
+that  they  were  not  ‘simultaneous’.  The  reverse  is  equally  true.  If  the  moving 
+observer  had  one  picture,  and  claimed  ‘simultaneity’,  the  stationary  observer 
+would  have  two  pictures,  and  deny  ‘simultaneity’. 
+
+But  when  two  observers  are  equally  justified  in  making  two  opposing  claims 
+where,  by  their  very  meanings,  there  is  only  one  possible,  we  must  conclude 
+that  the  claim  itself  is  meaningless.  We  see  that  ‘absolute  simultaneity  is  a 
+fiction  and  impossible  to  ascertain,  as  it  would  depend  on  some  impossible 
+'absolute  motion’,  or  ‘infinite  velocity’  of  propagation  of  signals.  .  ^ 
+
+The  analytical  form  of  showing  the  impossibility  of  ‘absolute  simultaneity 
+is  very  simple,  and  follows  directly  from  the  Lorentz-Einstein  transformation. 
+
+Let  us  imagine  two  observers,  one  in  an  S  system  of  co-ordinates  (s,  y,  z,  0 
+and  another  in  an  S'  system  of  co-ordinates  (#',  /,  z',  t')  moving  relatively  with 
+the  velocity  v. 
+
+Let  us  assume  two  events  happening  in  the  unprimed  system  at  the  point 
+(#i,  yi,  si)  at  the  ‘time’  k,  and  the  other  at  the  point  ( x2 ,  yz,  )  at  the  ‘time  k. 
+According  to  the  Lorentz-Einstein  transformation  the  ‘times’  at  which  the  two 
+events  occur  relatively  to  the  primed  system  are  given  by  the  formula^ — 
+h'  =0  (h -x& /c2),  k'  =0  (k -x2v A2),  where  as  usual  0  =  l/v  1  -v2 /cK 
+If  we  assume  that  in  our  unprimed  system  S  the  two  events  were  simul¬ 
+taneous',  which  means  that  they  ‘occurred  at  the  same  time’,  h  would  be  equal 
+to  k,  that  is,  h=k,  or  h-k=Q.  Let  us  find  the  difference  between  the  two 
+primed  ‘times'  in  the  moving  system  5',  and  see  if  this  difference  is  zero,  which 
+
+would  mean  that  the  primed  times  are  equal.  . 
+
+Returning  to  our  formulae  which  give  us  the  values  for  the  primed  system 
+
+(1) 
+
+‘times’,  we  express  their  difference  as 
+
+k'-k'  =0  (h-xiv/c2)  -0  (k-x2v/c2)  =0  (i h-k+x2v/c2-xiv/c  ). 
+
+But  we  assumed  h -k  =0;  therefore  h' -t2  «0  {x2vfc2 -xy/c2).  . 
+
+This  last  formula  shows  clearly  that  //  ~k'  cannot  be  zero ;  or  in  other  words, 
+
+ti  cannot  be  equal  to  t2  unless  x\  —  x2. 
+
+662  IX.  ON  EMPIRICAL  AND  VERBAL  STRUCTURES 
+

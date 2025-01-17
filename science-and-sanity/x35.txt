@@ -1,0 +1,500 @@
+
+menta  f 
+
+Combina-  8 
+
+tions  £ 
+
+Action 
+
+Composite  actions 
+Actional  structures 
+
+Equivalents  of 
+actions 
+Invariants  of 
+processes 
+
+Processes  depen¬ 
+dent  on  processes 
+Functions  of 
+action 
+
+Ideal  processes 
+
+Transpoai- 
+tions  j| 
+
+Syllogisms  g 
+Implications  ^ 
+
+Deduction 
+
+Syllogisms 
+
+Calculus  of  de¬ 
+duction 
+
+Laws  of  inference 
+Equivalent  de¬ 
+ductions 
+Invariants 
+
+Functions  of  in¬ 
+ferences 
+
+Ideal  entities  that 
+satisfy  inferences 
+Scientific  theories 
+
+♦This  table  differs  slightly  from  the  one  printed  in  The  Philosophy  of  Mathe¬ 
+matics .  The  corrections  have  been  made  by  Professor  Shaw  and  kindly  communi¬ 
+cated  to  me  by  letter. 
+
+MATHEMATICS  AND  THE  WORLD 
+
+A  semantic  definition  of  mathematics  may  run  somehow  as  follows : 
+Mathematics  consists  of  limited  linguistic  schemes  of  multiordinal  rela¬ 
+tions  capable  of  exact  treatment  at  a  given  date. 
+
+After  I  have  given  a  semantic  definition  of  number,  it  will  be 
+obvious  that  the  above  definition  covers  all  existing  disciplines  consid¬ 
+ered  mathematical.  However,  these  developments  are  not  fixed  affairs. 
+Does  that  definition  provide  for  their  future  growth?  By  inserting  as  a 
+fundamental  part  of  the  definition  ‘exact  treatment  at  a  given  date’,  it 
+obviously  does.  Whenever  we  discover  any  relations  in  any  fields  which 
+will  allow  exact  ‘logical’  treatment,  such  a  discipline  will  be  included  in 
+the  body  of  linguistic  schemes  called  mathematics,  and,  at  present,  there 
+are  no  indications  that  these  developments  can  ever  come  to  an  end.  When 
+‘logic’  becomes  an  oo -valued  ‘structural  calculus’,  then  mathematics  and 
+‘logic*  will  merge  completely  and  become  a  general  science  of  m.o  rela¬ 
+tions  and  multi-dimensional  order,  and  all  sciences  may  become  exact. 
+
+It  is  necessary  to  show  that  this  definition  is  not  too  broad,  and 
+that  it  eliminates  notions  which  are  admittedly  non-mathematical,  with¬ 
+out  invalidating  the  statement  that  the  content  of  all  knowledge  is 
+structural,  and  so  ultimately  relational.  The  word  ‘exact’  eliminates  non- 
+mathematical  relations.  If  we  enquire  into  the  meaning  of  the  word 
+‘exact’,  we  find  from  experience  that  this  meaning  is  not  constant,  but 
+that  it  varies  with  the  date,  and  so  only  a  statement  ‘exact  at  a  given 
+date’  can  have  a  definite  meaning. 
+
+We  can  analyse  a  simple  statement,  ‘grass  is  green’  (the  ‘is’  here  is 
+the  ‘is’  of  predication,  not  of  identity),  which,  perhaps,  represents  an  ex¬ 
+treme  example  of  a  non-mathematical  statement ;  but  a  similar  reasoning 
+can  be  applied  to  other  examples.  Sometimes  we  have  a  feeling  which 
+we  express  by  saying,  ‘grass  is  green*.  Usually,  such  a  feeling  is  called 
+a  ‘perception*.  But  is  such  a  process  to  be  dismissed  so  simply,  by  just 
+calling  it  a  name,  ‘perception’  ?  It  is  easy  to  ‘call  names  under  provoca¬ 
+tion’,  as  Santayana  says  somewhere ;  but  does  that  exhaust  the  question  ? 
+
+If  we  analyse  such  a  statement  further,  we  find  that  it  involves 
+comparison,  evaluation  in  certain  respects  with  other  characters  of 
+experience . ,  and  the  statement  thus  assumes  relational  characteristics. 
+These,  in  the  meantime,  are  non-exact  and,  therefore,  non-mathematical. 
+If  we  carry  this  analysis  still  further,  involving  data  taken  from  chem¬ 
+istry,  physics,  physiology,  neurology . ,  we  involve  relations  which  become 
+more  and  more  exact,  and,  finally,  in  such  terms  as  ‘wave-length*,  ‘fre¬ 
+quency*.  ,  we  reach  structural  terms  which  allow  of  exact  1933  treatment. 
+It  is  true  that  a  language  of  ‘quality’  conceals  relations,  sometimes  very 
+effectively ;  but  once  ‘quality’  is  taken  as  the  reaction  of  a  given  organism 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+to  a  stimulus,  the  term  used  for  that  ‘quality’  becomes  a  name  for  a  very 
+complex  relation.  This  procedure  can  be  always  employed,  thus  estab¬ 
+lishing  once  more  the  fundamental  character  of  relations. 
+
+These  last  statements  are  of  serious  structural  and  semantic  im¬ 
+portance,  being  closely  connected  with  the  A ,  fundamental,  and  unde¬ 
+niable  negative  premises.  These  results  can  be  taught  to  children  very 
+simply;  yet  this  automatically  involves  an  entirely  new  and  modern 
+method  of  evaluation  and  attitude  toward  language,  which  will  affect 
+beneficially  the,  as  yet  entirely  disregarded,  s.r. 
+
+We  must  consider,  briefly,  the  terms  ‘kind’  and  ‘degree*,  as  we  shall 
+need  them  later.  Words,  symbols . ,  serve  as  forms  of  representation  and 
+belong  to  a  different  universe — the  ‘universe  of  discourse* — since  they 
+are  not  the  un-speakable  levels  we  are  speaking  about.  They  belong  to 
+a  world  of  higher  abstractions  and  not  to  the  world  of  lower  abstractions 
+given  to  us  by  the  lower  nerve  centres. 
+
+Common  experience  and  scientific  investigations  (more  refined 
+experience)  show  us  that  the  world  around  us  is  made  up  of  absolute 
+individuals,  each  different  and  unique,  although  interconnected.  Under 
+such  conditions  it  is  obviously  optional  what  language  we  use.  The  more 
+we  use  the  language  of  diverse  ‘kind*,  the  sharper  our  definitions  must 
+be.  Psychologically,  the  emphasis  is  on  difference.  Such  procedure  may 
+be  a  tax  on  our  ingenuity,  but  by  it  we  are  closer  to  the  structural  facts 
+of  life,  where,  in  the  limit,  we  should  have  to  establish  a  ‘kind*  for  every 
+individual. 
+
+In  using  the  term  ‘degree*,  we  may  be  more  vague.  We  proceed 
+by  similarities,  but  such  a  treatment  implies  a  fundamental  intercon¬ 
+nection  between  different  individuals  of  a  special  kind.  It  implies  a 
+definite  kind  of  metaphysics  or  structural  assumptions— as,  for  instance, 
+a  theory  of  evolution.  As  our  ‘knowledge’  is  the  result  of  nervous 
+abstracting,  it  seems,  in  accordance  with  the  structure  of  our  nervous 
+system,  to  give  preference  to  the  term  ‘degree*  first,  and  only  when  we 
+have  attained  a  certain  order  of  verbal  sharpness  to  pass  to  a  language 
+of  ‘kind*,  if  need  arises. 
+
+The  study  of  primitive  languages  shows  that,  historically,  we  had 
+a  tendency  for  the  ‘kind*  language,  resulting  in  over-abundance  of  names 
+and  few  relation-words,  which  makes  higher  analysis  impossible.  Science, 
+on  the  other  hand,  has  a  preference  for  the  ‘degree’  language,  which, 
+ultimately,  leads  to  mathematical  languages,  enormous  simplicity  and 
+economy  of  words,  and  so  to  better  efficiency,  more  intelligence,  and  to 
+the  unification  of  science.  Thus,  chemistry  became  a  branch  of  physics ; 
+physics,  a  branch  of  geometry;  geometry  merges  with  analysis,  and 
+
+MATHEMATICS  AND  THE  WORLD 
+
+analysis  merges  with  general  semantics ;  and  life  itself  becomes  a  physico¬ 
+chemical  colloidal  occurrence.  The  language  of  ‘degree’  has  very  im¬ 
+portant  relational,  quantitative ,  and  order  implications,  while  that  of 
+‘kind’  has,  in  the  main,  qualitative  implications,  often,  if  not  always, 
+concealing  relations,  instead  of  expressing  them. 
+
+The  current  definition  of  ‘number’,  as  formulated  by  Frege  and 
+Russell,  reads :  ‘The  number  of  a  class  is  the  class  of  all  those  classes 
+that  are  similar  to  it’.1  This  definition  is  not  entirely  satisfactory :  first, 
+because  the  multiordinality  of  the  term  ‘class’  is  not  stated ;  second,  it 
+is  At  as  it  involves  the  ambiguous  (as  to  the  order  of  abstractions)  term 
+‘class’.  What  do  we  mean  by  the  term  ‘class’  ?  Do  we  mean  an  extensive 
+array  of  absolute  individuals,  un-speakable  by  its  very  character,  such  as 
+some  seen  aggregate,  or  do  we  mean  the  spoken  definition  or  description 
+of  such  un-speakable  objective  entities?  The  term  implies,  then,  a  fun¬ 
+damental  confusion  of  orders  of  abstractions,  to  start  with— the  very 
+issue  which  we  must  avoid  most  carefully,  as  positively  demanded  by  the 
+non-identity  principle.  Besides,  if  we  explore  the  world  with  a  ‘class  of 
+classes’.,  and  obtain  results  also  of  ‘class  of  classes’,  such  procedure 
+throws  no  light  on  mathematics,  their  applications  and  their  importance 
+as  a  tool  of  research.  Perhaps,  it  even  increases  the  mysteries  surround¬ 
+ing  mathematics  and  conceals  the  relations  between  mathematics  and 
+human  knowledge  in  general. 
+
+We  should  expect  of  a  satisfactory  definition  of  ‘number’  that  it 
+would  make  the  semantic  character  of  numbers  clear.  Somehow, 
+through  long  experience,  we  have  learned  that  numbers  and  measure¬ 
+ment  have  some  mysterious,  sometimes  an  uncanny,  importance.  This 
+is  exemplified  by  mathematical  predictions,  which  are  verified  later  em¬ 
+pirically.  Let  me  recall  only  the  discovery  of  the  planet  Neptune  through 
+mathematical  investigations,  based  on  its  action  upon  Uranus,  long 
+before  the  astronomer  actually  verified  this  prediction  with  his  telescope. 
+Many,  a  great  many,  such  examples  could  be  given,  scientific  literature 
+being  full  of  them.  Why  should  mathematics  and  measurement  be  so 
+extremely  important?  Why  should  mathematical  operations  of  a  given 
+Smith,  which  often  seem  innocent  (and  sometimes  silly  enough)  give 
+such  an  unusual  security  and  such  undeniably  practical  results  ? 
+
+Is  it  true  that  the  majority  of  us  are  born  mathematical  imbeciles  r 
+Why  is  there  this  general  fear  of,  and  dislike  for,  mathematics?  Is 
+mathematics  really  so  difficult  and  repelling,  or  is  it  the  way  mathematics 
+is  treated  and  taught  by  mathematicians  that  is  at  fault?  If  some  light 
+can  be  thrown  on  these  perplexing  semantic  problems,  perhaps  we  shall 
+face  a  scientific  revolution  which  might  deeply  affect  our  educational 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+system  and  may  even  mark  the  beginning  of  a  new  period  in  standards 
+of  evaluation,  in  which  mathematics  will  take  the  place  which  it  ought  to 
+have.  Certainly,  there  must  be  something  the  matter  with  our  epis¬ 
+temologies  and  'psychologies’  if  they  cannot  cope  with  these  problems. 
+
+A  simple  explanation  is  given  by  a  new  A  analysis  and  a  semantic 
+definition  of  numbers.  What  follows  is  written,  in  the  main,  for  non¬ 
+mathematicians,  as  the  word  'semantic’  indicates,  but  it  is  hoped  that 
+professional  mathematicians  (or  some,  at  least)  may  be  interested  in 
+the  meanings  of  the  term  ‘number’,  and  that  they  will  not  entirely  dis¬ 
+regard  it.  As  semantic,  the  definition  seems  satisfactory ;  but,  perhaps, 
+it  is  not  entirely  satisfactory  for  technical  purposes,  and  the  definition 
+would  have  to  be  slightly  re-worded  to  satisfy  the  technical  needs  of  the 
+mathematicians.  In  the  meantime,  the  gains  are  so  important  that  we 
+should  not  begrudge  any  amount  of  labour  in  order  to  produce  finally  a 
+mathematical  and,  this  time,  A  semantic  definition  of  numbers. 
+
+As  has  already  been  mentioned,  the  importance  of  notation  is  para¬ 
+mount.  Thus  the  Roman  notation  for  number — I,  II,  III,  IV,  V,  VI . , — 
+was  not  satisfactory  and  could  not  have  led  to  modern  developments  in 
+mathematics,  because  it  did  not  possess  enough  positional  and  structural 
+characteristics.  Modem  mathematics  began  when  it  was  made  possible 
+by  the  invention  or  discovery  of  positional  notation.  We  use  the  symbol 
+T  in  1,  10,  100,  1000. ,  in  which,  because  of  its  place,  it  had  different 
+values.  In  the  expression  T,  the  symbol  means  'one  unit*;  in  10,  the 
+symbol  T  means  ten  units;  in  100,  the  symbol  T  means  one  hundred 
+units , . 
+
+To  have  a  positional  notation,  we  need  a  symbol  'O’,  called  zero, 
+to  indicate  an  empty  column  and,  at  least,  one  symbol  T.  The  number 
+of  special  symbols  for  'number*  depends  on  what  base  we  accept.  Thus, 
+in  a  binary  system,  with  the  base  2,  our  1  is  represented  by  1 ;  our  2, 
+by  a  unity  in  the  second  place  and  a  zero  in  the  first  place,  thus  by  10 ; 
+our  3,  by  11 ;  our  4,  by  a  unity  in  the  third  place  and  two  zeros  in  the 
+first  and  second  places ;  namely,  100;  our  5,  by  101 ;  our  6,  by  110;  7,  by 
+111 ;  8,  by  1000;  9,  by  1001 ;..  .  15,  by  1111 ;  16,  by  10000, .  In  a  binary 
+system,  we  needed  only  the  two  symbols,  1  and  0.  For  a  system  with  the 
+base  3,  we  would  need  three  symbols,  1,  2,  0:  our  1  would  be  represented 
+by  1 ;  our  2,  by  2 ;  3,  by  10 ;  4,  by  1 1 ;  5,  by  12 ;  6,  by  20 , .  In  our  decimal 
+system,  obviously,  we  need  10  symbols,  1,  2,  3,  4,  5,  6,  7,  8?  9,  0. 
+
+For  more  details  on  notation,  the  interested  reader  is  referred  to 
+the  fascinating  and  elementary  book  of  Professor  Danzig,  Number  the 
+Language  of  Science .  Here  we  only  emphasize  what  is  necessary  for 
+our  purpose.  Every  system  has  its  advantages  and  drawbacks.  Thus,  in 
+
+MATHEMATICS  AND  THE  WORLD 
+
+the  binary  system,  still  used  by  some  savage  tribes,  of  which  we  retain 
+traces  when  we  speak  of  couples,  or  pairs,  or  braces,  we  get  an  enor¬ 
+mous  simplicity  in  operations  by  using  only  two  symbols,  1  and  0.  It 
+should  be  remembered  that,  in  every  system,  the  tables  of  addition  and 
+multiplication  must  be  memorized.  In  the  binary  system,  these  tables 
+are  reduced  to  1  +  1  10  and  1  X  1  —  1,  while  in  our  decimal  system, 
+
+each  table  has  100  entries.  But  what  we  gain  in  simplicity  by  a  low  base- 
+number  is  offset  very  seriously  by  the  cumbersomeness  of  the  notation. 
+
+As  Danzig  tells  us,  our  number  4096  is  represented  in  a  binary  system 
+by  1,000,000,000.  That  we  adopted  the  decimal  system  is  probably  a  *  see  page  xii 
+physiological  accident,  because  we  have  ten  fingers.  The  savage,  with 
+his  binary  system,  did  not  reach  even  the  finger  stage ;  he  is  still  in  the 
+fist  stage. 
+
+For  practical  purposes,  it  is  simpler  to  have  a  base  which  has  many 
+divisors,  as,  for  instance,  12.  We  still  use  this  duodecimal  system  when 
+we  divide  a  foot  into  twelve  inches,  or  a  shilling  into  twelve  pennies,  or 
+count  by  dozens  or  gross.  It  seems  that  mathematicians  would  probably 
+select  a  prime  number  for  a  base,  but  the  gain  would  be  so  slight  and 
+the  difficulty  of  offsetting  a  physiological  habit  so  tremendous,  that  this 
+will  probably  never  happen.2 
+
+From  what  was  said  already,  it  is,  perhaps,  clear  that  mathematics 
+requires  a  positional  notation  in  which  we  must  have  a  symbol  for  ‘1’ 
+and  zero,  at  least.  For  these  and  other  reasons,  the  two  numbers  1  and 
+0  are  somehow  unusually  important.  Even  in  our  decimal  system  we 
+generate  numbers  by  adding  1  to  its  predecessor.  Thus  1  +  1—2, 
+
+2  +  1  3 . ,  and  we  must  enquire  into  the  semantic  character  of  these 
+
+numbers. 
+
+The  notions  of  matching,  comparing,  measuring,  quantity,  equality. , 
+are  all  interwoven  and,  by  necessity,  involve  a  circularity  in  definitions 
+and  implications  if  the  analysis  is  carried  far  enough.  The  interested 
+reader  may  be  referred  to  the  chapter  on  equality  in  Whitehead’s  The 
+Principle  of  Relativity  to  learn  more  on  this  subject. 
+
+In  the  evolution  of  mathematics,  we  find  that  the  notions  of 
+'greater’,  'equal’,  and  ‘less’  precede  the  notion  of  numbers.  Comparison 
+is  the  simplest  form  of  evaluation ;  the  first  being  a  search  for  relations ; 
+the  second,  a  discovery  of  exact  relations.  This  process  of  search  for 
+relations  and  structure  is  inherent  and  natural  in  man,  and  has  led  not 
+only  to  the  discovery  of  numbers,  but  also  has  shaped  their  two  aspects ; 
+namely,  the  cardinal  and  the  ordinal  aspects.  For  instance,  to  ascertain 
+whether  the  number  of  persons  in  a  hall  is  equal  to,  greater  than,  or 
+less  than  the  number  of  seats,  it  is  enough  to  ascertain  if  all  seats  are 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+occupied  and  there  are  no  empty  seats  and  no  persons  standing;  then 
+we  would  say  that  the  number  of  persons  is  equal  to  the  number  of  seats, 
+and  a  symmetrical  relation  of  equality  would  be  established.  If  all  seats 
+were  occupied  and  there  were  some  persons  standing  in  the  hall,  or  if  we 
+found  that  no  one  was  standing,  yet  not  all  seats  were  occupied,  we 
+would  establish  the  asymmetrical  relation  of  greater  or  less. 
+
+In  the  above  processes,  we  were  using  an  important  principle; 
+namely,  that  of  one-to-one  correspondence.  In  our  search  for  relations, 
+we  assigned  to  each  seat  one  person,  and  reached  our  conclusions  with¬ 
+out  any  counting.  This  process,  based  on  the  one-to-one  correspondence, 
+establishes  what  is  called  the  cardinal  number.  It  gives  us  specific  rela¬ 
+tional  data  about  this  world ;  yet  it  is  not  enough  for  counting  and  for 
+mathematics.  To  produce  the  latter,  we  must,  first  of  all,  establish  a 
+definite  system  of  symbolism,  based  on  a  definite  relation  for  generating 
+numbers;  for  instance,  1  +  1  —  2,  2+1  —  3.,  which  establishes  a 
+definite  order .  Without  this  ordinal  notion,  neither  counting  nor  tnathe- 
+matics  would  be  possible;  and,  as  we  have  already  seen,  order  can  be 
+used  for  defining  relations,  as  the  notions  of  relation  and  order  are 
+interdependent.  Order,  also,  involves  asymmetrical  relations. 
+
+If  we  consider  the  two  most  important  numbers,  0  and  1,  we  find 
+that  in  the  accepted  symbolism,  if  a  —  b,  a — =  0;  and  if  a  =  6, 
+a/b  —  b/b  =  1 ;  so  that  both  fundamental  numbers  express,  or  can  be 
+interpreted  as  expressing,  a  symmetrical  relation  of  equality. 
+
+If  we  consider  any  other  number — and  this  applies  to  all  kinds  of 
+numbers,  not  only  to  natural  numbers — we  find  that  any  number  is  not 
+altered  by  dividing  it  by  one,  thus,  2/1—2,  3/1  —  3.,  in  general, 
+N/\  —  N ;  establishing  the  asymmetrical  relation,  unique  and  specific 
+in  a  given  case  that  N  is  N  times  more  than  one. 
+
+If  we  consider,  further,  that  2/1  —  2,  3/1  —  3,  and  so  on,  are  all 
+different ,  specific ,  and  unique,  we  come  to  an  obvious  and  A  semantic 
+definition  of  number  in  terms  of  relations,  in  which  0  and  1  represent 
+unique  and  specific  symmetrical  relations  and  all  other  numbers  also 
+unique  and  specific  asymmetrical  relations.  Thus,  if  we  have  a  result  ‘5’, 
+we  can  always  say  that  the  number  ‘5  is  five  times  as  many  as  one. 
+Similarly,  if  we  introduce  apples.  Five  apples  are  five*. times  as  many 
+as  one  apple.  Thus,  a  number  in  any  form,  ‘pure’  or  ‘applied’,  can  always 
+be  represented  as  a  relation,  unique  and  specific  in  a  given  case ;  and  this 
+is  the  foundation  of  the  exactness  of  dealing  with  numbers.  For  in¬ 
+stance,  to  say  that  a  is  greater  than  b  also  establishes  an  asymmetrical 
+relation,  but  it  is  not  unique  and  specific;  but  when  we  say  that  a  is  five 
+
+MATHEMATICS  AND  THE  WORLD 
+
+times  greater  than  b,  this  relation  is  asymmetrical ,  exact,  unique,  and 
+specific , 
+
+The  above  simple  remarks  are  not  entirely  orthodox.  That  5/1  =  5 
+is  very  orthodox,  indeed ;  but  that  numbers,  in  general,  represent  indefi¬ 
+nitely  many  exact,  specific,  and  unique,  and,  in  the  main,  asymmetrical 
+relations  is  a  structural  notion  which  necessitates  the  revision  of  the 
+foundations  of  mathematics  and  their  rebuilding  on  the  basis  of  new 
+semantics  and  a  future  structural  calculus.  When  we  say  ‘indefinitely 
+many*,  this  means,  from  the  reflex  point  of  view,  ‘indefinitely  flexible’, 
+or  ‘fully  conditional’  in  the  semantic  field,  and,  therefore,  a  prototype  of 
+human  semantic  reactions  (see  Part  VI) .  The  scope  of  the  present  work 
+precludes  the  analysis  of  the  notion  of  the  lately  disputed  ‘irrational’; 
+but  we  must  state  that  this  revision  requires  new  psycho-logical  and 
+structural  considerations  of  fundamental  ‘logical’  postulates  and  of  the 
+problems  of  ‘infinity’.  If,  by  an  arbitrary  process,  we  postulate  the  exist¬ 
+ence  of  a  ‘number’  which  alters  all  the  while,  then,  according  to  the 
+definition  given  here,  such  expressions  should  be  considered  as  functions, 
+perhaps,  but  not  as  a  number,  because  they  do  not  give  us  unique  and 
+specific  relations. 
+
+These  few  remarks,  although  suggestive  to  the  mathematician,  do 
+not,  in  any  way,  exhaust  the  question,  which  can  only  be  properly  pre¬ 
+sented  in  technical  literature  in  a  postulational  form. 
+
+It  seems  that  mathematicians,  no  matter  how  important  the  work 
+which  they  have  produced,  have  never  gone  so  far  as  to  appreciate  fully 
+that  they  are  willy-nilly  producing  an  ideal  human  relational  language 
+of  structure  similar  to  that  of  the  world  and  to  that  of  the  human 
+nervous  system.  This  they  cannot  help,  in  spite  of  some  vehement 
+denials,  and  their  work  should  also  be  treated  from  the  semantic  point 
+of  view. 
+
+Similarly  with  measurement.  From  a  functional  or  actional  and 
+semantic  point  of  view,  measurement  represents  nothing  else  but  a  search 
+for  empirical  structure  by  means  of  extensional,  ordered,  symmetrical, 
+and  asymmetrical  relations.  Thus,  when  we  say  that  a  given  length 
+measures  five  feet,  we  have  reached  this  conclusion  by  selecting  a  unit 
+called  ‘foot’,  an  arbitrary  and  un-speakable  affair,  then  laying  it  end  to 
+end  five  times  in  a  definite  extensional  order  and  so  have  established  the 
+asymmetrical,  and,  in  each  case,  unique  and  specific  relation,  that  the 
+given  entity  represents,  in  this  case,  five  times  as  many  as  the  arbitrarily 
+selected  unit. 
+
+Objection  may  be  raised  that  the  formal  working  out  of  a  definition 
+of  numbers  in  terms  of  relations,  instead  of  classes,  would  be  very 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+laborious,  and  would  also  involve  a  revision  of  the  foundations  of  mathe¬ 
+matics.  This  can  hardly  be  denied ;  but,  in  the  discussions  of  the  founda¬ 
+tions,  the  confusion  of  orders  of  abstractions  is  still  very  marked, 
+thereby  resulting  in  the  manufacture  of  artificial  semantic  difficulties . 
+Moreover,  the  benefits  of  such  a  definition,  in  eliminating  the  mysteries 
+about  mathematics,  are  so  important  that  they  by  far  outweigh  the 
+difficulties. 
+
+As  the  only  possible  content  of  knowledge  is  structural,  as  given 
+in  terms  of  relations  and  multiordinal  and  multi-dimensional  order ; 
+numbers,  which  establish  an  endless  array  of  exact,  specific,  and,  in  each 
+case,  unique,  relations  are  obviously  the  most  important  tools  for  explor- 
+ing  the  structure  pf  the  world,  since  structure  can  always  be  analysed 
+in  terms  of  relations.  In  this  way,  all  mysteries  about  the  importance 
+of  mathematics  and  measurement  vanish.  The  above  understanding  will 
+give  the  student  of  mathematics  an  entirely  different  and  a  very  natural 
+feeling  for  his  subject.  As  his  only  possible  aim  is  the  study  of  structure 
+of  the  world,  or  of  whatever  else,  he  must  naturally  use  a  relational  tool 
+to  explore  this  complex  of  relations  called  ‘structure’.  A  most  spectacu¬ 
+lar  illustration  of  this  is  given  in  the  internal  theory  of  surfaces,  the 
+tensor  calculus . ,  described  in  Part  VIII. 
+
+In  all  measurements,  we  select  a  unit  of  a  necessary  kind,  for  a 
+given  case,  and  then  we  find  a  unique  and  specific  relation  as  expressed 
+by  a  number,  between  the  given  something  and  the  selected  unit.  By 
+relating  different  happenings  and  processes  to  the  same  unit-process,  we 
+find,  again,  unique  and  specific  interrelations,  in  a  given  case,  between 
+these  events,  and  so  gather  structural  (and  most  important,  because 
+uniquely  possible)  wisdom,  called  ‘knowledge’,  ‘science’, . 
+
+If  we  treat  numbers  as  relations,  then  fractions  and  all  operations 
+become  relations  of  relations,  and  so  relations  of  higher  order,  into  the 
+analysis  of  which  we  cannot  enter  here,  as  these  are,  of  necessity, 
+technical. 
+
+It  should  be  firmly  grasped,  however,  that  some  fundamental  human 
+relations  to  this  world  have  not  been  changed.  The  primitive  may  have 
+believed  that  words  were  things  (identification)  and  so  have  established 
+what  is  called  the  ‘magic  of  words’  (and,  in  fact,  the  majority  of  us  still 
+have  our  s.r  regulated  by  some  such  unconscious  identifications)  ;  but, 
+in  spite  of  this,  the  primitive  or  ‘civilized’  man’s  words  are  not ,  and 
+never  could  be,  the  things  spoken  about,  no  matter  what  semantic  dis¬ 
+turbances  we  might  have  accompanying  their  use,  or  what  delusions  or 
+illusions  we  may  cherish  in  respect  to  them. 
+
+MATHEMATICS  AND  THE  WORLD 
+
+At  present,  of  all  branches  of  mathematics  the  theory  of  numbers 
+is  probably  the  most  difficult,  obscure . ,  and  seemingly  with  the  fewest 
+applications.  With  a  new  A  definition  of  numbers  in  terms  of  relations, 
+this  theory  may  become  a  relational  study  of  very  high  order,  which, 
+perhaps,  will  some  day  become  the  foundation  for  epistemology  and  the 
+key  for  the  solution  of  all  the  problems  of  science  and  life.  In  the  fields 
+of  cosmology  many,  if  not  the  majority,  of  the  problems,  by  necessity, 
+cannot  be  considered  as  directly  experimental,  and  so  the  solution  must 
+be  epistemological. 
+
+At  present,  in  our  speculations,  we  are  carried  away  by  words,  dis¬ 
+regarding  the  simple  fact  that  speaking  about  the  ‘radius  of  the  universe*, 
+for  instance,  has  no  meaning ,  as  it  cannot  possibly  be  observed.  Perhaps, 
+some  day,  we  shall  discover  that  such  conversations  are  the  result  of  our 
+old  stumbling  block,  identification,  which  leads  to  our  being  carried  away 
+by  the  sounds  of  words  applicable  to  terrestrial  conditions  but  meaning¬ 
+less  in  the  very  small,  as  discovered  lately  in  the  newer  quantum 
+mechanics,  and,  in  the  very  large,  as  applied  to  the  cosmos.  An  important 
+illustration  of  the  retardation  of  scientific  progress,  blocked  by  the  con¬ 
+fusion  of  orders  of  abstractions,  is  shown  in  the  fact  that  the  newer 
+quantum  mechanics  were  slow  in  coming,  and  though  astronomers  prob¬ 
+ably  know  about  it,  yet  they  still  fail  to  grasp  that  expressions  such  as 
+the  ‘radius  of  the  universe’,  the  ‘running  down  of  the  universe*. ,  are 
+meaningless  outside  of  psychopathology. 
+
+In  this  connection,  we  should  notice  an  extremely  interesting  and 
+important  semantic  characteristic ;  namely,  that  the  term  ‘relation*  is  not 
+only  multiordinal  but  also  non~el}  as  it  applies  to  ‘senses*  and  ‘mind*. 
+Relations  are  usually  found  empirically;  so  in  a  language  of  relations 
+we  have  a  language  of  similar  structure  to  the  world  and  a  unique  means 
+for  predictability  and  rationality. 
+
+Let  me  again  emphasize  that,  from  time  immemorial,  things  have 
+not  been  words;  the  only  content  of  knowledge  has  been  structural; 
+mathematics  has  dealt,  in  the  main,  with  numbers;  no  matter  whether 
+we  have  understood  the  character  of  numbers  or  not,  numbers  have 
+expressed  relations  and  so  have  given  us  structural  data  willy-nilly,. 
+This  explains  why  mathematics  and  numbers  have,  since  time  imme¬ 
+morial,  been  a  favorite  field,  not  only  for  speculations,  but  also  why,  in 
+history,  we  find  so  many  religious  semantic  disturbances  connected  with 
+numbers.  Mankind  has  somehow  felt  instinctively  that  in  numbers  we 
+have  a  potentially  endless  array  of  unique  and  specific  exact  relations , 
+which  ultimately  give  us  structure,  the  last  being  the  only  possible  con¬ 
+tent  of  knowledge,  because  words  are  not  things. 
+
+V.  MATHEMATICS  A  A  LANGUAGE 
+
+As  relations,  generally,  are  empirically  present,  and  as  man  and 
+his  ‘knowledge’  is  as  'natural*  as  rocks,  flowers,  and  donkeys,  we  should 
+not  be  surprised  to  find  that  the  unique  language  of  exact . ,  relations 
+called  mathematics  is,  by  necessity,  the  natural  language  of  man  and 
+similar  in  structure  to  the  world  and  our  nervous  system. 
+
+As  has  already  been  stated,  it  is  incorrect  to  argue  from  the  struc¬ 
+ture  of  mathematical  theories  to  the  structure  of  the  world,  and  so  try 
+to  establish  the  similarity  of  structure;  but  that  such  enquiry  must  be 
+independent  and  start  with  quite  ordinary  structural  experiences,  and 
+only  at  a  later  stage  proceed  to  more  advanced  knowledge  as  given  by 

@@ -1,0 +1,500 @@
+Fifth  Edition 
+
+With  Preface  by  Robert  P.  Pula 
+
+SCIENCE 
+
+AND 
+
+SANITY 
+
+AN  INTRODUCTION  TO 
+NON-ARISTOTELIAN  SYSTEMS  AND 
+GENERAL  SEMANTICS 
+
+BY 
+
+ALFRED  KORZYBSKI 
+
+AUTHOR,  Manhood  of  Humanity 
+FOUNDER,  INSTITUTE  OF  GENERAL  SEMANTICS 
+
+INSTITUTE  OF  GENERAL  SEMANTICS 
+
+“The  progress  of  modem  science,  including  the  new  science  of  man  as  a  time-binder , 
+has  been  due  uniquely  to  the  freedom  of  scientists  to  revise  their  fundamental 
+assumptions ,  terminologies,  undefined  terms,  which  involve  hidden  assumptions,  etc., 
+underlying  our  reflections,  a  freedom  prohibited  in  ‘primitive  sciences’  and  also  in 
+dictatorships,  past  and  present.” 
+
+From  Manhood  of  Humanity 
+
+“The  aim  of  the  work  of  Aristotle  and  the  work  of  the  non-aristotelians  is  similar,  except 
+for  the  date  of  our  human  development  and  the  advance  of  science.  The  problem  is 
+whether  we  shall  deal  with  science  and  scientific  methods  of  350  B.C.  or  of  [today].  In 
+general  semantics,  in  building  up  a  non-aristotelian  system,  the  aims  of  Aristotle  are 
+preserved  yet  scientific  methods  are  brought  up  to  date.” 
+
+From  the  author’s  Introduction  to  the  2nd  Edition 
+
+“General  semantics  is  not  any  ‘philosophy’,  or  ‘psychology’,  or  ‘logic’,  in  the  ordinary 
+sense.  It  is  a  new  extensional  discipline  which  explains  and  trains  us  how  to  use  our 
+nervous  systems  most  efficiently.  It  is  not  a  medical  science,  but  like  bacteriology,  it  is 
+indispensable  for  medicine  in  general  and  for  psychiatry,  mental  hygiene,  and  education 
+in  particular.  In  brief,  it  is  the  formulation  of  a  new  non-aristotelian  system  of 
+orientation  which  affects  every  branch  of  science  and  life.  The  separate  issues  involved 
+are  not  entirely  new;  their  methodological  formulation  as  a  system  which  is  workable, 
+teachable  and  so  elementary  that  it  can  be  applied  by  children,  is  entirely  new.” 
+
+From  the  author’s  Introduction  to  the  2nd  Edition 
+
+Information  on  the  Institute  and  its  programs  and  publications  available  from: 
+
+Institute  of  General  Semantics 
+86  85th  Street 
+
+Brooklyn,  New  York  11209-4208 
+USA 
+
+Phone:  718-921-7093 
+Fax:  718-921-4276 
+Email:  Institute@General-Semantics.org 
+Web:  www.General-Semantics.org 
+
+Leading  A  Revolution  in  Human  Evaluating ™ 
+
+ISBN  0-937298-01 -8 
+
+9  780937  298015 
+
+9  0  0  0  0  > 
+
+“I  must  stress  that  I  give  no  panaceas,  but  experience 
+shows  that  when  the  methods  of  general  semantics  are 
+applied ,  the  results  are  usually  beneficial,  whether  in 
+business,  management,  etc.,  medicine,  law,  education  on 
+all  levels,  or  personal  inter-relationships,  be  they  in 
+family,  national  or  international  fields.  If  they  are  not 
+applied,  but  merely  talked  about,  no  results  can  be 
+expected. 
+
+“In  general  semantics  we  are  concerned  with  the  sanity  of 
+the  race,  including  particularly  methods  of  prevention; 
+eliminating  from  home,  elementary,  and  higher  education 
+inadequate  aristotelian  types  of  evaluation  which  too 
+often  lead  to  the  un-sanity  of  the  race,  and  building  up  for 
+the  first  time  a  positive  theory  of  sanity,  as  a  workable 
+non-aristotelian  system. 
+
+“The  task  ahead  is  gigantic  if  we  are  to  avoid  more 
+personal,  national,  and  even  international  tragedies  based 
+on  unpredictability,  insecurity,  fears,  anxieties,  etc., 
+which  are  steadily  disorganizing  the  functioning  of  the 
+human  nervous  system.  Only  when  we  face  these  facts 
+fearlessly  and  intelligently  may  we  save  for  future 
+civilizations  whatever  there  is  left  to  save,  and  build  from 
+the  ruins  of  a  dying  epoch  a  new  and  saner  society. 
+
+“A  non-aristotelian  re-orientation  is  inevitable;  the  only 
+problem  today  is  when,  and  at  what  cost.” 
+
+From  the  author’s  Preface  to  the  Third  Edition  and 
+Introduction  to  the  Second  Edition 
+
+“ . . .  Korzybski  was  not  only  a  bold  innovator,  but  also  a 
+brilliant  synthesizer  of  available  data  into  a  coherent 
+system.  This  system,  when  internalized  and  applied,  can 
+create  a  saner  and  more  peaceful  world,  justifying  the  title 
+of  this  book,  Science  and  Sanity 
+
+From  the  Preface  to  the  Fifth  Edition  by  Robert  P.  Pula 
+
+SCIENCE 
+
+AND 
+
+SANITY 
+
+KORZYBSKI 
+
+5™ 
+
+Edition 
+
+_ A _ 
+
+INSTITUTE  OF  GENERAL  SEMANTICS 
+
+THE  INSTITUTE  OF  GENERAL  SEMANTICS  was  founded 
+in  1938  in  Chicago  and  is  now  located  in  Brooklyn,  New  York. 
+The  seminar  training  program  continues  to  be  carried  on,  and 
+an  increasing  number  of  universities,  colleges,  secondary  and 
+elementary  schools  offer  courses  in  general  semantics,  or 
+integrate  the  methodology  in  the  teaching  of  other  courses. 
+
+ALFRED  KORZYBSKI 
+belonged  to  an  old  Polish 
+family  which  had  produced 
+mathematicians,  engineers, 
+scientists,  etc.  for 
+generations.  Bom  in  Warsaw 
+in  1879,  he  was  trained  as  an 
+engineer,  and  during  the  First 
+World  War  was  attached  to 
+the  General  Staff  Intelligence 
+Department  of  the  Second 
+Russian  Army.  Later  he 
+served  in  various  military 
+capacities  in  this  country  and 
+Canada.  After  the  publication  of  Manhood  of  Humanity  in 
+1921,  he  remained  in  the  United  States  and  developed  the 
+methodology  by  which  his  new  theory  of  time-binding  could 
+be  applied.  These  studies  culminated  in  Science  and  Sanity  in 
+1933.  He  was  the  Founder  and  Director  of  the  Institute  of 
+General  Semantics,  established  in  1938  as  the  center  for 
+training  in  his  work,  and  continued  to  lecture  and  write  until 
+his  death  in  1950. 
+
+ALSO  BY  THE  AUTHOR 
+
+Manhood  of  Humanity ,  1921;  2nd  Ed.  Institute  of 
+General  Semantics,  1950. 
+
+Time-Binding:  The  General  Theory.  Two  Papers,  1924- 
+1926. 
+
+“The  Role  of  Language  in  the  Perceptual  Processes.”  Topic 
+IX,  Clinical  Psychology  Symposium  1949-1950  in 
+Perception:  An  Approach  to  Personality.  Ronald 
+Press,  New  York,  1951. 
+
+Alfred  Korzyhski:  Collected  Writings,  1920-1950 ,  Coll.  & 
+
+Arr.  by  M.  Kendig.  F‘  Ed.  Institute  of  General 
+Semantics,  1990. 
+
+INTERNATIONAL  NON-ARISTOTELIAN  LIBRARY 
+
+INSTITUTE  OF  GENERAL  SEMANTICS 
+
+SCIENCE  AND  SANITY 
+
+International  Non-Aristotelian  Library 
+
+Founder:  Alfred  Korzybski  Executive  Editor:  Charlotte  S.  Read 
+
+VOLUMES  ALREADY  PUBLISHED 
+
+Published  or  Distributed  by  the  Institute  of  General  Semantics 
+
+Manhood  of  Humanity:  The  Science  and  Art  of  Human  Engineering. 
+
+E.  P.  Dutton,  New  York,  1921;  2nd  Ed., 
+
+Institute  of  General  Semantics  (IGS),  Distributors,  1950  . by  A.  Korzybski 
+
+Time-Binding:  The  General  Theory,  1924-1926  . . by  A.  Korzybski 
+
+Science  and  Sanity . by  A.  Korzybski 
+
+Selections  From  Science  and  Sanity,  1948,  by  A.  Korzybski .  Compiled  by  G.  E.  Janssen 
+
+General  Semantics  Seminar  1937:  Transcription  of  Notes  from  Lectures 
+
+in  General  Semantics  Given  at  Olivet  College . by  A.  Korzybski 
+
+Papers  from  the  First  American  Congress  on  General  Semantics,  1938 . Ed.  by  H.  Baugh 
+
+Papers  from  the  Second  American  Congress  on  General  Semantics:  Non- Aristotelian 
+
+Methodology  (Applied)  for  Sanity  in  Our  Time,  1943  .  Ed.  by  M.  Kendig 
+
+Introductory  Lectures  on  General  Semantics,  1944  . by  Francis  P.  Chisholm 
+
+Levels  of  Knowing  and  Existence:  Studies  in  General  Semantics.  Harper, 
+
+New  York,  1959;  2nd  Ed.,  IGS,  1973  .  by  Harry  L.  Weinberg 
+
+Words  and  What  They  Do  to  You:  Beginning  Lessons  in  General 
+Semantics  for  Junior  and  Senior  High  School.  Row,  Peterson, 
+
+Evanston,  1953;  2nd  Ed.,  IGS,  1965  .  by  Catherine  Minteer 
+
+General  Semantics  Monographs  III,  A  Theory  of  Meaning  Analyzed,  1942 
+
+Foreword .  by  A.  Korzybski  and  M.  Kendig 
+
+Three  Separate  Papers .  by  T.  C.  Pollock,  J.  G.  Spaulding  and  Allen  Walker  Read 
+
+General  Semantics  Monographs  IV,  Scientific  Epistemologic  Backgrounds  of  General 
+
+Semantics,  1959  . by  Marjorie  Swanson 
+
+Alfred  Korzybski:  Collected  Writings,  1920-1950, 1990  . Coll,  and  Arr.  by  M.  Kendig 
+
+Graduate  Research  in  General  Semantics,  1992 .  Comp,  by  Kenneth  Johnson 
+
+Thinking  CreAtically,  1991  . Ed.  by  Kenneth  Johnson 
+
+General  Semantics  Bulletin: 
+
+Journal  of  the  Institute  of  General  Semantics  . Ed.  by  James  D.  French 
+
+By  Other  Publishers 
+
+Language  Habits  in  Human  Affairs:  An  Introduction  to  General  Semantics.  Harper 
+New  York,  1941;  2nd  Ed.  by  Sanford  Berman,  Ed.,  1994,  International  Society 
+
+for  General  Semantics  (ISGS)  .  by  Irving  J.  Lee 
+
+People  In  Quandaries:  The  Semantics  of  Personal  Adjustment. 
+
+Harper,  New  York,  1946;  7™  Printing,  ISGS,  1996  . by  Wendell  Johnson 
+
+How  to  Develop  Your  Thinking  Ability. 
+
+McGraw  Hill,  New  York,  1950  . by  Kenneth  S.  Keyes,  Jr. 
+
+The  Art  of  Awareness.  Wm.  C.  Brown,  Dubuque,  1966;  3rd  Ed.  1978  . by  J.S.  Bois 
+
+Teaching  General  Semantics.  ISGS,  1969  . Ed.  by  Mary  Morain 
+
+Making  Sense:  Exploring  Semantics  and  Critical 
+
+Thinking.  Globe,  New  York,  1974  .  by  Robert  Potter 
+
+Classroom  Exercises  in  General  Semantics.  ISGS,  1980  . Ed.  by  Mary  Morain 
+
+Drive  Yourself  Sane:  Using  the  Uncommon  Sense  of  General  Semantics,  2nd  Ed., 
+
+Extensional  Publishing,  Pasadena,  2001.  by  Susan  Presby  Kodish  and  Bruce  I.  Kodish 
+
+VOLUMES  IN  PREPARATION 
+
+General  Semantics  in  Psychotherapy . Ed.  by  Isabel  Caro  and  Charlotte  S.  Read 
+
+Knowledge,  Uncertainty  and  Courage:  Selected  General  Semantics  Writings  of  Robert  P. 
+
+Pula  .  by  Robert  P.  Pula 
+
+The  Non-Identifying  Person:  Personal  Self-Restructuring  for  the  Extra-Planetary  Era 
+
+.  by  Robert  P.  Pula 
+
+Time-Binding:  A  Revolutionary  Approach  to  Human  Evaluating  by  Jeffrey  A.  Mordkowitz 
+
+SCIENCE  AND  SANITY 
+
+AN  INTRODUCTION  TO 
+NON-ARISTOTELIAN  SYSTEMS  AND 
+GENERAL  SEMANTICS 
+
+BY 
+
+ALFRED  KORZYBSKI 
+
+AUTHOR,  MANHOOD  OF  HUMANITY 
+FOUNDER,  INSTITUTE  OF  GENERAL  SEMANTICS 
+
+FIFTH  EDITION 
+
+With  Preface  by  ROBERT  P.  PULA 
+and  revised  and  expanded  index 
+
+INSTITUTE  OF  GENERAL  SEMANTICS 
+
+International  Non-Aristotelian  Library 
+
+INSTITUTE  OF  GENERAL  SEMANTICS 
+
+Brooklyn,  New  York,  USA 
+
+Copyright,  1933, 1941,  1948  by  Alfred  Korzybski 
+Copyright,  1958  by  Charlotte  Schuchardt  Read 
+
+Diagrams  on  Pages:  388,  391,  393,  396,  398, 414, 427,  471  Copyright  1924, 
+1926, 1933,  1941, 1948  by  Alfred  Korzybski 
+
+Copyright,  1958  by  Charlotte  Schuchardt  Read 
+
+Preface  to  Fifth  Edition  and  Index  to  Fifth  Edition  Copyright  Institute  of  General  Semantics, 
+
+All  International  Rights  Reserved 
+
+First  Edition  1933 
+Second  Edition  1941 
+Third  Edition  1948 
+Fourth  Edition  1958 
+Fifth  Edition  1994 
+Second  Printing  2000 
+
+ISBN  0-937298-01-8 
+
+Information  on  the  Institute  of  General  Semantics  and  its 
+programs  and  publications  available  from; 
+
+Institute  of  General  Semantics 
+
+Leading  A  Revolution  in  Human  Evaluating ™ 
+
+1994 
+
+Library  of  Congress  Catalog  Card  Number  58-6260 
+
+TO  THE  WORKS  OF 
+
+Aristotle 
+
+Cassius  J.  Keyser 
+
+M.  Faraday 
+
+C.  Judson  Herrick 
+
+Ludwig  Wittgenstein 
+
+WHICH  HAVE  GREATLY  INFLUENCED  MY  ENQUIRY, 
+THIS  SYSTEM  IS  DEDICATED 
+
+,,  A  T  my  alighting,  I  was  surrounded  with  a  crowd  of  people ;  but  those 
+who  stood  nearest  seemed  to  be  of  better  quality.  They  beheld  me 
+n  with  all  the  marks  and  circumstances  of  wonder,  neither,  indeed, 
+was  I  much  in  their  debt ;  having  never,  till  then,  seen  a  race  of  mortals  so 
+singular  in  their  shapes,  habits,  and  countenances.  Their  heads  were  all 
+reclined  either  to  the  right  or  the  left ;  one  of  their  eyes  turned  inward,  and 
+the  other  directly  up  to  the  zenith.  Their  outward  garments  were  adorned 
+with  the  figures  of  suns,  moons,  and  stars,  interwoven  with  those  of  fiddles, 
+flutes,  harps,  trumpets,  guitars,  harpsicords,  and  many  other  instruments 
+of  music,  unknown  to  us  in  Europe.  I  observed,  here  and  there,  many  in 
+the  habit  of  servants,  with  a  blown  bladder  fastened  like  a  flail  to  the  end 
+of  a  short  stick,  which  they  carried  in  their  hands.  In  each  bladder  was  a 
+.mall  quantity  of  dried  pease,  or  little  pebbles  (as  I  was  afterwards  in¬ 
+formed).  With  these  bladders  they  now  and  then  flapped  the  mouths  and 
+ears  of  those  who  stood  near  them,  of  which  practice  I  could  not  then  con¬ 
+ceive  the  meaning ;  it  seems,  the  minds  of  these  people  are  so  token  up  with 
+intense  speculations,  that  they  neither  can  speak,  nor  attend^  to  the  dis¬ 
+courses  of  others,  without  being  roused  by  some  external  taction  upon  the 
+organs  of  speech  and  hearing;  for  which  reason,  those  persons,  who  are 
+able  to  afford  it  always  keep  a  flapper  (the  original  is  clitnenole)  in  their 
+family,  as  one  of  their  domestics,  nor  ever  walk  abroad,  or  make  visits, 
+without  him.  And  the  business  of  this  officer  is,  when  two  or  three  more 
+persons  are  in  company,  gently  to  strike  with  his  bladder  the  mouth  of  him 
+who  is  to  speak,  and  the  right  ear  of  him  or  them  to  whom  the  speaker 
+addresseth  himself.  This  flapper  is  likewise  employed  diligently  to  attend 
+his  master  in  his  walks,  and,  upon  occasion,  to  give  him  a  soft  nap  on  his 
+eyes,  because  he  is  always  so  wrapped  up  in  cogitation  that  he  is  m  mani¬ 
+fest  danger  of  falling  down  every  precipice,  and  bouncing  his  head  against 
+every  post  ;  and  in  the  streets,  of  jostling  others,  or  being  jostled  himself, 
+
+into  jj?^^ecessary  tQ  gjve  the  reader  this  information,  without  which  he 
+would  be  at  the  same  loss  with  me,  to  understand  the  proceedings  of  these 
+people,  as  they  conducted  me  up  the  stairs  to  the  top  of  the  island,  mid  from 
+thence  to  the  royal  palace.  While  we  were  ascending,  they  forgot  several 
+times  what  they  were  about,  and  left  me  to  myself,  till  their  memories  were 
+again  roused  by  their  flappers;  for  they  appeared  altogether  unmoved  by 
+the  sight  of  my  foreign  habit  and  countenance,  and  by  the  shouts  of  the 
+vulgar,  whose  thoughts  and  minds  were  more  disengaged.  > 
+
+And  although  they  are  dextrous  enough  upon  a  piece  of  paper  in 
+the  management  of  the  rule,  the  pencil,  and  the  divider,  yet,  in  the  common 
+actions  and  behaviour  of  life,  I  have  not  seen  a  more  clumsy,  awkward, 
+and  unhandy  people,  nor  so  slow  and  perplexed  in  their  conceptions  upon 
+all  other  subjects,  except  those  of  mathematics  and  music.  They  are  very 
+bad  reasoners,  and  vehemently  given  to  opposition,  unless  when  they  happen 
+to  be  of  the  right  opinion,  which  is  seldom  their  case.  Imagination,  fancy, 
+and  invention  they  are  wholly  strangers  to,  nor  have  any  words  m  their 
+language  by  which  those  ideas  can  be  expressed;  die  whole  compass  of  their 
+thoughts  and  mind  being  shut  up  within  the  two  forementioned  sciences. 
+
+Jonathan  Swift  ( Gulliver's  Travels ,  A  Voyage  to  Laputa) 
+
+PREFACE  TO  THE  FIRST  EDITION  1933  . lxxxix 
+
+PREFACE  TO  THE  FIFTH  EDITION,  1993 
+
+Six  decades  have  passed  since  this  book  appeared  in  1933.  In  the  interim 
+many  thousands,  in  varying  degrees  of  breadth  and  depth,  have  interacted  with 
+the  formulations  first  presented  herein.  As  of  these  hours  of  writing,  people 
+in  every  continent  (save,  perhaps,  Antarctica)  are  studying  and  applying 
+general  semantics. 
+
+Those  who  have  been  attracted  to  and  worked  with  Korzyb ski’s 
+formulations  have  largely  come  from  the  evaluationally  energetic  and  self- 
+selecting  segment  of  our  populations.  They  have  tended  to  be  leaders  or  those 
+training  to  be  leaders  in  a  broad  range  of  interests  and  disciplines.  Through 
+their  efforts  as  teachers,  managers,  researchers,  etc.,  Korzyb  ski’s  formulations 
+have  explicitly  and  implicitly  reached  many  thousands  more. 
+
+Some  aspects  of  general  semantics  have  so  permeated  the  (American) 
+culture  that  behaviors  derived  from  it  are  common;  e.g.,  wagging  fingers  in  the 
+air  to  put  ‘quotes’  around  spoken  terms  which  are  deemed  suspect.  Original 
+korzybskian  terms  are  seen  used  without  attribution,  as  if  part  of  the  general 
+vocabulary;  e.g.,  a  paragraph-long  explanation  of  “time-binding”  appearing  in 
+a  high  school  social  studies  text. 
+
+Some  of  Korzybski’s  coinages,  particularly  “neuro-linguistic,”  are  now 
+common  coin  and  have  extended  the  subset  of  English  with  the  “neuro”  prefix. 
+(The  Random  House  Dictionary  of  the  English  Language ,  2nd  Edition,  p. 
+1291,  mistakenly  gives  “1960-65”  as  the  dates  of  origin  for  “neuro-linguistic” 
+and  the  offspring  terms,  “neuro-linguistics”  and  “neuro-linguist.”) 
+
+During  the  depth  of  the  recent  “Cold  War”  an  interview  about 
+Korzybski’s  work  was  broadcast  by  Harry  Maynard  and  Wladyslaw  Marth  to 
+Poland  over  Radio  Free  Europe.  A  new  study  by  a  Polish  scholar,  Karol 
+Janicki,  credits  Korzybski  with  being  a  precursor  of  what  Janicki  calls  Non- 
+Essentialist  Sociolinguistics. 1 
+
+Science  and  Sanity  has  by  now  spawned  a  whole  library  of  works  by  other 
+time-binders.  Some  of  them  have  been  listed  in  previous  editions.  Since  the 
+publication  of  the  Fourth  Edition,  this  ‘parenting5  has  continued.  Books, 
+doctoral  dissertations,  masters  theses,  scholarly  papers,  essays  and  journal 
+articles  abound.  The  primary  journals  for  on-going  discussion  and 
+development  of  general  semantics  are  the  General  Semantics  Bulletin , 
+published  by  the  Institute  of  General  Semantics,  and  ETC.:  A  Review  of 
+General  Semantics ,  published  by  the  International  Society  for  General 
+Semantics.  Other  journals,  popular  and  scholarly,  publish  general  semantics 
+materials,  pro  and  con. 
+
+I;or  a  sampling  of  books  dealing  with  general  semantics  published  since 
+1 970,  see  the  Bibliographic  Note.2  My  choices  do  not  reflect  my  evaluations 
+
+PREFACE  TO  THE  FIFTH  EDITION 
+
+of  the  books  listed.  They  are  included  to  indicate  the  continued  growth, 
+discussion  of  and  influence  of  general  semantics.  Books  critical  of 
+Korzybski/general  semantics  are  included.  They  are  tagged  thus:  (critique). 
+
+I  consider  Korzybski’s  Collected  Writings  1920-1950  perhaps  the  most 
+important  publication  in  general  semantics  since  Science  and  Sanity .3  This 
+book  brings  together  all  of  Korzybski’s  known  published  writings  other  than 
+his  major  books  and  a  set  of  seminar  lectures  given  at  Olivet  College  in  1 937 . 
+The  940  page  book  is  a  'must5  for  anyone  undertaking  a  serious  study  of 
+general  semantics. 
+
+Three  works  scheduled  for  publication  in  1 993  and  1 994  include  those  of 
+Susan  Presby  Kodish  and  Bruce  I.  Kodish,  Drive  Yourself  Sane!  Using  the 
+Uncommon  Sense  of  General  Semantics,  Robert  P.  Pula,  Knowledge , 
+Uncertainty  and  Courage:  The  Collected  General  Semantics  Writings  of 
+Robert  P.  Pula ,  and  General  Semantics  in  Psychotherapy ,  edited  by  Isabel 
+Caro  and  Charlotte  S.  Read. 
+
+The  Institute  of  General  Semantics  remains  the  primary  center  for  training 
+in  general  semantics.  Seminar-workshops,  weekend  seminars  and  colloquia 
+continue.  An  Advanced  Studies  and  Teacher  Certification  Program  for 
+training  leaders  and  teachers  in  general  semantics  has  been  established. 
+
+The  distinguished  annual  Alfred  Korzybski  Memorial  Lecture  series, 
+begun  in  1952,  continues  to  present  highly  regarded  speakers  whose  work 
+directly  reflects  or  complements  korzybskian  orientations.  These  lecturers 
+have  been  outstanding  in  the  fields  of  anthropology,  philosophy,  physics, 
+chemistry,  physiology,  embryology,  medicine,  neurology,  surgery,  education, 
+sociology,  linguistics,  psychology,  management,  library  science,  law, ...  etc.4 
+Their  participation  bespeaks  the  growing  regard  for  Korzybski’s  contributions 
+and  the  importance  of  general  semantics  as  a  major  twentieth  century  system. 
+
+The  Index  to  this  Fifth  edition  has  been  enhanced  to  facilitate  general 
+study  and  formulation  searches.  Grateful  thanks  are  due  to  Bruce  I.  Kodish 
+and  Milton  Dawes  for  their  work  in  updating  the  Index,  and  to  Bruce  I.  Kodish 
+and  Stuart  Mayper  for  creating  the  Index  of  Diagrams.  Grateful  thanks  also 
+are  due  to  Marjorie  Zelner,  Executive  Secretary  of  the  Institute  of  General 
+Semantics,  for  her  work  as  production  editor  of  this  Fifth  Edition. 
