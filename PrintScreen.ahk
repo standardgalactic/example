@@ -189,11 +189,13 @@ return
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-;; Protosociology https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
+;; Protosociology ;; ;; https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
+
+::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
 ::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
 
-::getdoom::yt-dlp --cookies cookies.txt --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
+::getdoom::yt-dlp --sub-lang "en*" --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
 
 
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
@@ -255,6 +257,10 @@ return
 ;; remap calculator key  to backspace;;
 
 SC121::BS
+
+;; News Curator ;; Haplopraxis/IFM
+::curate-news::awk 'NR==FNR { exclude[$0]; next } !($0 in exclude)' global-deletions.txt Overloaded-watchlist.txt > Wikipedia-watchlist.txt
+
 
 ::fontss::C:\USERS\MECHACHLEOPTERYX\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS\
 
@@ -611,6 +617,7 @@ mortal(X) :- man(X).
 ::Wq::wq
 ::;s::ls
 ::sq::squash
+
 
 /*
 ;; test for above ;;
