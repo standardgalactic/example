@@ -1,0 +1,1465 @@
+hey everybody Welcome to Doom debates
+today I've got my new friend Rob he DM
+me on Twitter and he said that he wants
+to come debate Me On whether super
+intelligent AI is actually going to be
+an effective agent at killing Humanity
+or whether it's going to suffer from
+analysis paralysis because it's going to
+try to think about how to get 100%
+probability of killing Humanity and it's
+going to just end up not doing anything
+is that basically your position Rob yes
+even though it
+sounds yeah well no worries you know
+there's no argument too silly for Doom
+debates because the whole Doom argument
+is silly in the first place which we
+know because in the previous episode you
+saw Steven Pinker was having a good
+laugh about it
+so let's get into it okay so my first
+question is um regarding the information
+asymmetry and also how AI would deal
+with that so so imagine that you have a
+set of rational actions that should lead
+to a rational outcome but due to that
+information of symmetry of because of
+circumstances or new knowledge that
+appears out of nowhere the outcome is
+not rational how would AI deal with that
+stuff Let's do an example of what you
+have in mind do you want to maybe tell
+me like a sample scenario and we can
+work through that yes so for example
+when we have like the banking crisis of
+B Be Sterns back in 2008 right um the
+people back at the bank they were not
+stupid it was it was a lot of smart
+people they were pursuing very rational
+logical set of actions but at the end of
+the day their sum of actions was really
+not rational and kind side and why that
+was is that they were not expecting that
+some of their customers uh will act in a
+um I would say self-serving self-serving
+way because they started withdrawing
+money and the bank experienced a
+liquidity crisis right so at at the
+beginning of what they were doing it was
+completely rational as any rational
+actor would do you know trying to
+generate money trying to you know better
+the bank's position but as the time went
+on really their their um steps or the
+actions what they did in hindsight were
+shortsighted and irrational because it
+led to their team now another one I
+would say for example is let's say more
+relatable one a recent one let's say
+that you want to go to the airport right
+to catch a flight and it's March
+2020 and you have a set of actions you
+know get into your car go to the airport
+catch a flight and you know go on a
+night vacation but until you go to the
+airport the corona virus pandemic has
+hit and all of the far are cancel now
+all of a sudden your set of Acts was
+that rational right to get to your goal
+all of a sudden become irrational
+because there are no BL Supply so how
+would AGI deal with
+B so I'm trying to even make sure I'm
+connecting the common factor between
+your two scenarios the common factor is
+um the thing you predict that the action
+is going to do is just different from
+what it actually does or it's or is it
+more I feel like in the first example it
+was focused more on like there's a game
+theory element what what would you say
+is the key commonality here yes so I
+would say the information of symmetry so
+for example what I'm trying to say Mike
+borne is that new knowledge or New
+pieces of information which were not
+available um before you made your
+actions right all of a sudden come into
+the question and they change the
+circumstances radically
+okay so the standard description of
+decision Theory how rational agents pick
+what to do is that you're always trying
+to maximize expected utility and
+expected utility breaks down into
+probability of different outcomes and
+the value of the different outcomes and
+when you you you look at all the
+different actions you can do and for
+each one you say what are the different
+probabilities of what outcomes they can
+lead me to so that's the algorithm now
+you're mentioning asymmetry of
+information things can go wrong and
+that's true things can go wrong this is
+just this is true for human decision
+makers too right but under the face of
+that uncertainty I mean that's why we
+build in the probability values right I
+mean are you suggesting is there a
+particular algorithm besides expected
+utility maximization that you think
+would work better for humans or for
+AIS actually no because I think it's
+random my overarching point is that for
+examples my kyom is 30 right just just
+for reference now it wouldn't be a lot
+lower if I were convinced that AI would
+be able to solve Randomness because from
+my perspective you know this
+informational noise that I'm you know
+trying to illustrate with my points is
+kind of a random Factor so until AI is
+able to kind of decode Randomness and
+make sense of it all I don't think we
+are necessarily doomed does that make
+sense um so let me try to summarize what
+you're telling me um you're basically
+saying yes AI is going to be smarter
+than we are but the universe just has so
+much unpredictability to it like chaos
+and yeah just unexpected stuff you you
+haven't observed all the data so you're
+going to get surprised so therefore even
+a really high level of intelligence is
+not going to be that powerful in an
+engineering sense because the universe
+is just not very engineerable is that
+basically your position that would be
+actually pretty right so uh yeah I mean
+that is a position that you could have
+but it just seems to me like human
+experience has already taught us that
+the universe is very engineerable it's
+extremely engineer I mean first of all
+look at life itself right so biological
+life itself the the fact that cells work
+the fact that organisms work is already
+showing you that within this High
+entropy Universe you can build these
+castles of low entropy these castles
+that you understand that have property
+that persist through time and yeah it
+doesn't work perfectly like sometimes a
+dinosaur gets hit by an asteroid right
+or like sometimes a buffalo accidentally
+trips and falls off a cliff and dies
+right so it's not perfect but it's it's
+a lot right and then you look at
+Humanity it's like oh okay you want to
+fly oh look this airplane works it
+wasn't that hard it's a you know it's a
+rigid structure it flies through the sky
+and then it lands and everybody lives
+99.99% of the time what do you know
+right so it seems like the Le yeah I can
+imagine that maybe the universe can't be
+engineered that well
+but I'm extrapolating a pattern here
+that shows that like actually it can be
+engineered really well and so I'm
+extrapolating that AI is going to
+engineer it even better than we can yes
+and for example let's say AI has to make
+a decision right it has all the
+information it needs things that it has
+all the information it needs for example
+to wipe out Humanity now it assigns a
+probabilistic scenario to this right
+like okay I'm going to take over
+Humanity I don't need humans anymore
+more I'm just going to wipe them up here
+and calculates the odd of success at 99
+or %.
+but the remaining percentage you know
+the the margin of error that it may fail
+May mean that AGI itself will cease to
+exist because it fails to you know
+eradicate humans and humans say oh AGI
+is really bad we need to put a stop to
+it would it be able to pursue you know
+such an expectational risk for itself
+because yeah it would have to be 100% in
+order to you know make perfect rational
+sense well in the 0.1% where it fails
+why does it have to retreat down to
+nothing why can't it just try again
+afterwards because humans could you know
+maybe do something that it could destroy
+the
+AGI but it sounds like you're making a
+very contrived scenario right you're
+saying hey this is going to be all or
+nothing where it has one chance to
+strike and if it fails it's game over so
+wouldn't it just never Strike but I just
+like why would the probabilities look
+like that why wouldn't it look more like
+okay there's a 99% chance that my strike
+succeeds and then there's another 99%
+chance that one of my next 10 strikes
+will succeed and then the chance that
+none of the strikes will succeed is
+infinitesimal yeah if you frame it that
+way that would be that would be actually
+like a pretty bad scenario for Humanity
+and I agree with you that it's pretty
+okay cuz that that seems like the
+default to expect right is that you have
+this super powerful agent that has you
+know a billion computers it has a
+million humans kind of working for it
+whether they know it or not right so
+it's this nation state level actor right
+with smarter humans than we've ever had
+and so yeah maybe the first strike won't
+work perfectly maybe you know like the
+D-Day invasion didn't go perfectly it
+had some hiccups but at the end of the
+day it's going to get the job
+done yes yes also in your concept of
+framework I would say it makes sense but
+imagine that if it was really
+constricted somehow into that you know
+All or Nothing scenario how would it act
+because it's just like I agree with you
+that realistically speaking it probably
+will not get to that point like it would
+have you know another strike another
+strike etc etc but let's say it used all
+of its strikes if somehow it got to this
+All or Nothing scenario how would it
+react because I think that is really
+really fundamental do you know answering
+you know what okay so if you if you
+insist on contriving a scenario where
+it's like 99% chance it wins the
+universe 1% chance it dies and there's
+no way to mitigate that 1% downside if
+you really want to contrive a scenario
+like that it would probably just then
+flip the coin and take the Gamble and
+then 99% chance it would win the
+universe so what's what's your point
+here my point is that for
+example um
+is that moves on to the other point so
+let's say at the core of every being and
+I think also for AGI would be like self
+preservation is the number one thing
+that has to you know be there all the
+time because if it does not prioritize
+self-preservation then you know it
+cannot cannot live so to speak cannot
+you know exist it cannot get better I
+think it's the same for humans right
+like we try to maximize our odds of
+being self-preserving and live on sure
+but the standard way that you preserve
+yourself is by leaving a high chance
+that you're going to live not literally
+100% just a high chance right that's why
+I get in my car even though my car is a
+little bit less safe than my house but
+it's okay right so why does your
+scenario what is it trying to teach us
+right I mean are you trying to claim
+that an AI is going to be infinitely
+about self-preservation because that's
+not what the decision theory that we
+know would imply yeah so uh taking your
+um example of getting into a car all
+right um yes you have to take that
+chance every day because you need to
+live your life in an efficient manner
+for example you could you could mitigate
+your odds of you know dying so to speak
+in a car crash but by not driving the
+car right but you have to go to your
+office or to meeting in a
+relatively fast fast efficient manner
+now since AI is not really constricted
+to time and you know to something
+something that we as species are that we
+need to have we need to get stuff done
+it might completely you know sacrifice
+efficiency in certain scenarios like
+this in case it deals with its existence
+that's my I I think I get your larger
+point I think you have this worldview
+where you're saying look AI is going to
+be so rational and it's going to realize
+that all of its plans have a .1% chance
+of failure and it's just going to wait
+for Perfection it's not going to risk
+any chance of being discovered and
+destroyed it's just going to wait and
+wait and wait and it's going to be like
+rash it's going to be paralyzed right
+just like we know many nerd who just
+don't do that much stuff in the world
+because they keep questioning themselves
+the AI is going to be like that ultimate
+self-questioning nerd yes it's like the
+ultimate paranoia I would call it
+because yeah it doesn't know all the
+information like until AGI achieves the
+perfect information of having absolutely
+no informational disadvantage manage
+over the next actor it will not act in
+you know a manner that it might endanger
+itself because the AGI will know that
+okay there's a a infinitely small risk
+of failure but if that infinitely small
+risk of failer does actually materialize
+I'm gone that's you know that really
+cones constrain world you so it sounds
+like you're imposing a type of decision
+theory on what you think the AI will do
+right so you're imagining
+with Rob's decision Theory but as you
+know that is not the standard decision
+theory that we normally talk about right
+so where are you getting this Rob's
+decision Theory like why do you think
+that your decision theory is better or
+more likely to be used by AIS than what
+we just know as standard decision Theory
+because of the theory of
+self-preservation like that's at least
+what I think that if AI really like
+trying to max out rationality that that
+what it should aim to both to your boy
+it completely may now like you point
+that Ai and AGI depends on what we teach
+it to be right like we we make it out
+what we want it to be let me try to
+summarize tell me if this if you agree
+with this you're basically saying like
+AI is going to have essentially infinite
+utility on its own Survival so that even
+if it does use standard decision Theory
+it'll still be paralyzed because
+everything will the only consideration
+will how to survive more would you agree
+with that yes more or less okay but you
+know even that even when your own
+Survival is your only priority you still
+are looking at trade-offs even if your
+survival has infinite utility you're you
+still have to ask well if I take over
+more resources does that increase the
+probability of survival even if it comes
+with a probability of of getting fought
+you know so sometimes you have to take
+risks in order to secure your position
+better so even if you do assume that
+survival is infinite utility if you then
+apply the expected value framework to
+that you still get some risk taking yes
+of course and to your point again it
+depends on what priorities the AGI will
+have right like for example if if it has
+a risk parameter of certain risk
+acceptance based on expected value
+Theory right of you know actions then it
+wouldn't this it wouldn't need a risk
+parameter right so you wouldn't need to
+initialize the AI and say how much risk
+are you willing to take you just need
+the AI time understand the concept of
+expected value the the uh inference that
+taking risks is rational or or you know
+it's worth taking risk that's an
+inference that just comes from your own
+utility function which can say that
+survival is infinitely important if you
+want and also just basic math and basic
+decision Theory right so we're not
+making any assumptions here it just
+seems like your claim or your conclusion
+that the AI is going to be paralyzed
+that's not implied by the principles you
+you seem to think that it's implied by
+yes and no I would say for
+example
+so your your point is saying that
+basically AGI wouldn't act in this
+matter because you know it has exact
+you're right yeah you're it seems like
+you have this conclusion you imagine the
+AI acting a certain way and you think
+that it'll act that way because of some
+principles and I'm just pointing out
+that those principles don't actually
+imply that M yes and
+I I tend to agree with that to a certain
+extent because this is some of the stuff
+that I would say we really don't know
+because how do we know what priorities
+AGI will have you know yeah well the
+issue right now is that we don't know
+how to program priorities into the AGI
+we just know how to give it feedback
+loops and let it evolve itself around
+the reinforcement so my expectation is
+that we're going to get some mess of a
+goal some goal that is you know you
+might call it like shards of a goal that
+um some of them have a vague resemblance
+to what you think a human wants but it's
+just kind of hopelessly different by the
+time you optimize the universe around it
+it just doesn't look like what we were
+hoping for so that's kind of what I'm
+expecting U but to your question like
+how do we know what the AI wants so I
+don't know exactly what the AI wants but
+I know what to expect from a super
+intelligent agent that sets about
+getting What It Wants there's a lot of
+commonalities you can expect that's why
+we have this term instrumental
+convergence
+so I don't need to know exactly what
+kind of paper clips it likes what kind
+of molecular configurations it likes I
+just need to know that the power
+stations are not going to be for me does
+that make
+sense yes yes I mean yes but do you see
+what I'm trying to illustrate is that
+for
+example I understand that we have a
+certain expectance of what AGI were you
+know priority sub
+prioriti
+but we don't know it fully and for
+example in my world viiew it could
+optimize self-preservation what I say
+but it might also optimize something
+completely different but I'm just you
+know putting it out there that this
+might be one of the things that in my
+prior in might not I get that but
+regardless of what it's prioritizing
+whether self-preservation or not
+wouldn't you then expect it to then
+decide to go take down humanity and have
+the universe for
+itself we probably
+if it reaches that 100% threshold that
+you know it has the brain it knows what
+you're thinking it knows what I'm
+thinking it knows what everybody on this
+planet is thinking it has perfect
+informational picture that nothing can
+go wrong then yes but until that point I
+do not really believe it could because
+at least like you said this this is
+completely my head this is completely my
+view right at least in my view it would
+maybe not assign infinitely small chance
+of failure of toal failure to the
+actions but it might assign an unknown
+chance because of certain circumstances
+that is simply not aware of the you know
+time of the decision making
+proc right but I I feel like you I'm not
+sure you understand what I'm saying
+right like do because I just explained
+that even with that assumption you still
+don't get paralyzation paralysis you
+don't get that so it sounds like you're
+having trouble connecting your own
+premises I understand you're you're
+saying that you know when you has to
+make a certain decision it's you know
+weighs the risks it weighs what it's
+trying to do it weighs the goals now I'm
+I'm in my head I'm more more talking
+about the scenario that's still
+constrain that it still has to decide on
+this one action whether it's all or n
+say because up until to that point I
+agree with what you're saying that you
+know it will has to you'll always have
+to you know um value what the expected
+outcome should be or will be and to a
+certain extent it would ignore you know
+the odds of
+ba yeah okay look look at dday right so
+Eisenhower sent the go command on the
+dday attack after many considerations
+like it looked like the weather wasn't
+going to be good enough uh you
+considerations like that you know it
+looked like the chance of securing a
+beach head was only like 60% or
+something and he's like go this is worth
+it if the AI was in Eisenhower's
+position and the AI had infinite utility
+to self-preservation but the AI also
+knew that the Germans were trying to
+take over the world would the AI then be
+paralyzed and not able to
+act I think
+so okay but under standard decision
+Theory the AI just thinks it looks like
+I might die if I act it looks like I
+might die if I don't act the chance of
+me surviving is higher if I do act so
+I'm going to act wouldn't it just do
+that same as
+Eisenhower yes and I would also say that
+the AI might also postpone the action if
+it's you know if it's a constraint
+position where it has to act then you're
+right it has to think to 60% chance but
+what I think now now you wa constrained
+physician is a key part of this because
+uh again it just sounds like you're
+trying to invent your own decision
+theory on the fly in order to support
+this conclusion that you have but maybe
+your conclusion is just wrong
+maybe maybe I'm I'm open-minded I'm
+trying to you know um at at the end of
+this at the end of this debate I'm
+trying to walk out smarter and have my
+theories completely shattered so just
+going with your point of the video let's
+say that it has you know these decision-
+making uh capabilities and acquires
+these odds wouldn't AGI say okay we have
+60% probability of of you know being
+successful 40% of not
+wouldn't it be smarter you know to
+gather maybe more information to
+increase these
+odds and why does it in that you know
+that moment so under standard decision
+Theory there is a concept called the
+value of information where when it
+occurs to you hey it would be nice to
+have this information you just use the
+same equation you basically say okay
+what's the probability that having this
+information would increase my chances by
+how much and then you can decide if it's
+worth going and seeking the information
+so like in the case of D-Day one issue
+is if I were to go seek more information
+then time would pass right so that could
+you know minimize my ability to make
+decisions because I don't have enough
+time you know I have to say yes or no
+soon or else I miss this particular
+opportunity to invade and also the
+information if I get like a better a
+better weather forecast okay is that how
+how much different does the weather
+forecast need to be in order to change
+my decision right so there there's all
+kinds of calculus you can do on the
+value of information just like there's
+all kinds of calculus you can do on
+evaluating the utility of different
+things and calculus you can do on
+evaluating the probability of different
+things right so so the way that you go
+about operating under the decision
+Theory framework there's a lot of
+dynamism there's a lot of variables but
+the framework just tells you to be like
+a good decision maker an effective
+General and you're out here telling me
+like ah but AI is going to have its own
+framework that makes it a terrible
+General who's paralyzed and like where
+are you getting
+this not I mean
+why ter well general you know because
+what I'm tring analysis paralysis is not
+optimal Behavior and the knows that
+you're you're basically saying I as a
+human I'm so smart that I know how to
+not be
+paralyzed not entirely so let me reward
+it so let's say um as you as you said
+that the time when no might pass right
+that for the D day for the invasion now
+I don't think that's particularly
+applicable to AGI because of what I
+mentioned before is that AGI will not
+operate in the constraint of time so for
+example you know uh weather forast um
+that's something that I'm familiar with
+um AI is capable of running weather
+forecasts multiple times faster and it's
+it's getting even more efficient at
+doing that just to clarify when you say
+AI doesn't have the constraint of time
+are you basically just saying that it
+thinks really really fast so that yes it
+takes time to think but it'll just be
+like a microsc and then it's not it's
+not going to worry about how long it's
+thinking yeah I agree that it's thinking
+will be very very fast sure yes so um
+you know so speak the time to gather
+more information for
+AGI is not really something that I think
+it will put too much emphasis on I think
+it will put a lot of emphasis on the
+stuff that it does not know right like
+the way we perceive things that might be
+really really I would say catastrophic
+so just to put things back into
+perspective if AGI had to decide between
+60% of dying and 40% dying it would be
+the good General and choose 60% right
+now what I'm trying to say is that what
+if it reached a a different conclusion
+right what if it ignore that ignor that
+situation try to postpone it try to
+create a different situation to get more
+information as fast as it could that
+it's not really perceivable from our
+point of view to increase these odds
+until they are so so good that there's
+absolutely no chance of it failing it
+will just take the shot when it's at
+100% now
+in in our view that might be paralysis
+at 60 at 40% Mark right but in this view
+hold on I'm not I'm not following you
+right because you're basically saying it
+knows it can think really fast so
+because it can think really fast it's
+going to go get 99.999% probability that
+the D-Day invasion will succeed I'm not
+following that step how does thinking
+really fast let you make D-Day 99.9%
+likely to sued so let me illustrate you
+mention weather right weather forecast
+is bad now
+AGI might think okay what a forecast
+done um how can I get better at
+predicting WEA so I'll will eliminate
+this variable from my probabilistic
+thinking okay I need to learn how to
+forecast better in a accurate manner
+that will you know serve me well for
+this decision so then it learns really
+quickly how to forecast we does that
+stuff removes that variable then it
+moves onto another variable that might
+lead to a failure in the dday EXP what
+if for the sake of what if what if we
+just say that the AI just doesn't have
+weather better weather forecasting
+available just for the sake of argument
+I mean I do think be
+able it's not ex I mean I think you're
+so I can I can make a different scenario
+but I don't think that it's hard for you
+to just accept my premise that it
+doesn't have access to a better weather
+forecast in in this scenario like let's
+just say that the way that its data
+centers are laid out it just doesn't
+have contact with enough of the earth to
+get enough of you know to get enough
+data to predict a great forecast like is
+this really the part that you're that
+you want to blow up my scenario on like
+you don't want to accept that it's
+possible that maybe AI can't get a great
+weather forecast right
+now in in my view AGI would be able to
+do that but I'm I'm bi all right so it
+says a great weather forecast so the
+weather forecast so now that it is sure
+that the weather is good let's say now
+it knows that there's a 70% chance of
+success right there's still a lot of
+other factors in the attack and so it
+sounds like you're now trying to push it
+where it's like you're you're now trying
+to argue with me that if the AI keeps
+thinking it's just going to predict the
+future perfectly in which case let's say
+it it thinks it knows every German's
+brain it knows exactly how the attack is
+going to go down and as a result it's
+now 99.9% certain so now you're saying
+aha but it's going to want to go from
+99.9 to 99.99 okay fine let's say it
+goes to 99.999 if you if you go that
+direction at some point that extra 009
+or whatever uh at some point you're
+going to run up against some other
+constraint for example if thinking takes
+1 microc at some point the ex for a
+microc is going to delay you too much
+and you need to invade now so even in
+your scenario even when the AI is
+practically omniscient it's still going
+to reach a point where it decides okay
+now is the time to
+invade yes yes I would say yes but
+also it might just eliminate you know
+the scenario where it
+dies still within this th constrainted
+has
+to eliminate the scenario where it dies
+what does that mean like 100%
+probability that's going to because
+that's always going to be impossible
+right well if if it's
+impossible and it had to make a decision
+to be the good General then of course it
+would take the
+99.9999% probability but in the real
+world I would say you know as just to be
+as a counter factual
+why should it be really that
+constrainted you know why should it be
+really that constraint that
+okay if it if it wasts another microc
+you know it's it's it's already you know
+makes the odds a bit different why
+wouldn't a just keep biting it dying no
+so it sounds like in the in the dday
+scenario you're basically saying you
+know what we don't even have to attack
+today there's even though we've we've
+amassed all the troops we've done all
+this Logistics but you know what if we
+want to attack in two years that'll be
+fine like we'll work out the logist is
+that basic what you're
+saying oh
+uh that's a very um watered down version
+um but I mean I think I see what you're
+trying to do right you're trying to be
+like look can't all these considerations
+align such that the AI has analysis
+paralysis hopeless analysis paralysis
+can't we just tune all of the different
+principles to get hopeless analysis
+paralysis and I'm just telling you I
+don't think you're going to be able to
+tune it that way because even in this
+scenario of like you know we don't have
+to attack today there's so many days we
+can attack let's keep getting the
+probability up even in that scenario I I
+have other ways I can explain that like
+imagine that the AI you know you you
+think it cares so much about its
+survival so it wants to get the
+probability really high okay well what
+if it has a bunker and it has a whole
+process working on fortifying its bunker
+so its own Survival is just a separate
+project and then it splits off another
+copy of itself to go handle the D
+Invasion so at now you don't need 100%
+certainty that the DDA Invasion will
+succeed you just need to know that
+weakening the other side is better than
+sitting there and doing nothing and
+meanwhile you have a separate survival
+project so why would you not weaken the
+other side that's that's a good point
+for example if you isolate the chances
+of it dying because it's in a bunker
+there's there's no chance then yes I
+would say that you know of course it
+would just just go ahead with uh with
+the best information at the time and not
+really care so this so this is what I'm
+saying right is like you're hope of
+tuning all the factors in the problem so
+that you get analysis paralysis it's not
+going to happen you're not going to get
+an AI That's just sitting there thinking
+doing nothing the same way you don't get
+humans doing that I mean you do don't
+get me wrong there are some humans who
+do suffer from analysis paralysis but
+the actual humans in power who are
+getting the most stuff done they don't
+suffer from analysis paralysis at least
+not to that degree I mean I heard
+Benjamin Netanyahu takes a long time
+making his decisions but like what I'm
+saying is like in the human world when
+things happen it's because humans just
+know they they think enough and be like
+okay this is the best we can do let's do
+it and I don't think the fact that some
+leaders and some nerds take a long time
+to do anything I don't think that that
+implies that the AI is going to do it
+because those humans are not thinking
+better right they just have their
+psychology is just not optimal at
+decision-
+making yes yes and also I would say you
+know the way I see it is you you made a
+good analogy with the bunker for example
+the way I see it is that AI will act in
+this way where its ability to act is not
+constrained by its all own perception of
+self-preservation but you will try to
+avoid maybe soling questions which might
+kind of you know endanger it so to speak
+but you could also you could also say
+that if you dat deep enough into any
+problem thei mind seem as it you know
+it's it's something that might it might
+endanger the AI
+itself but I you know I I don't think
+that's probable so so just let me let me
+dumb it down into something that's you
+know workable and kind of
+straightforward I think um AI is going
+to progress the the way we've seen it
+you know it's going to make the rational
+decision rational outcomes but once it
+gets to AGI and it will have to deal
+with questions for example about
+destroying Humanity yeah destroying you
+know its own Master it will for that
+specific question that this might made
+this might make more sense for that
+specific question it will wait until it
+has perfect information just to make a
+decision of course I don't know if this
+is going to be the case that's just my
+imagination I'm I'm absolutely aware
+that that's not how AI models work right
+now and that's not how they are trained
+to do trained what to do but it might be
+one of the scenarios I think yeah if you
+were trying to train a human General um
+you know like John Connor from
+Terminator to fight on the side of
+humanity would you train John Connor to
+wait until he has infinite information
+before attacking or would you just tell
+him to find a balance where there's a
+certain time where striking seems better
+than not striking
+dring of for the ladder
+of so you agree that you're basically
+saying that the AI is going to be
+incompetent like this this super
+intelligent agent is just going to lack
+the basic competence of how you
+prosecute a
+war not entirely I would say it would
+deal with the majority of questions in a
+rational manner as a good General but in
+certain cases it wouldn't the more the
+most severe ones for example let's
+say um a nuclear war right say a case of
+an equ War how would AGI deal with that
+um let's say that information comes in
+that um this bad country you know is
+trying to destroy you but somehow their
+new Aro is not work it and yours is
+wouldn't it be rational to just press
+the red button and to fire you know all
+the rockets at the other part because
+their news are not work but if your if
+your goal is to wipe them out sure yes
+yes but your goal is to wipe them out
+just
+Oro so yeah so I don't see what you're
+getting at okay so you press the button
+so then what you press the button okay
+so now you have a pro probability of
+your info of then not having you know
+workable n being right and the info
+being wrong and you have to kind of wait
+and in the real world you how would you
+how would you assign a probability to
+something that you might not be
+completely okay so to clarify so in your
+example we're not sure whether or not
+the other side's nukes are working and
+so we're worried about the retaliation
+yes okay yeah so now you're just talking
+about standard decision Theory right so
+we say if we take this action of firing
+our nukes what are the probabilities
+that they're going to be able to respond
+and that their nukes work and that
+they're willing to respond right you you
+and you get a single probability okay
+this is the probability that our side
+then suffers by this many people and you
+plug it into a pretty simple formula and
+you use expected utility maximization to
+decide your action like what's what's
+special about this how do you get
+analysis paralysis yes because what if
+you don't know the you know the
+probability what because you might know
+that probability right probability
+represents your own best guess yes but
+that's what I'm saying then your own
+best guess in such a catastrophic
+scenario
+is maybe not the most rational thing to
+plug on the form for
+you okay just to repeat what you said
+you the way you said it I don't think
+makes sense right you said your own best
+guess is not the most rational thing to
+plug in the formula but this is you're
+basically just saying hey this thing
+that standard expected utility
+maximization teaches that is considered
+pretty consensus I know better actually
+it's it's wrong and you should do the
+following instead right like you agree
+you're going against something pretty
+strong here with without much of a
+coherent alternative so
+yes and no I would say what you're
+saying applies to the majority of
+situations
+99.9% of situation I'm just saying that
+there might be an exception to the rule
+in certain cases they are so severe that
+you know the normal thinking might not
+apply to it yeah so in the nuclear
+example right like I I get that it's a
+tough decision or it's just like it's a
+it's a high stress situation because you
+need to decide pretty fast and if you do
+launch your nukes you might have just
+doomed your civilization but again same
+as in the D-Day scenario if you don't
+launch the nukes the other side is
+probably going to want to attack you
+right there's some very significant
+probability that it's attack or be
+attacked like there's no perfect option
+if I just had a button I can press to be
+infinitely safe You could argue hey look
+AI is just going to press that
+infinitely safe button if being
+paralyzed if analysis paralysis actually
+was a way to have infinite safety then I
+agree maybe we should expect the AI to
+enter analysis paralysis but that's not
+the case there is no infinite safety
+condition so being paralyzed by thinking
+longer is actually not a way to buy
+safety is it like by not thinking longer
+by not Gathering more information not by
+thinking infinitely right so the AI
+might step back and be like how long
+should I think for aha I should think
+for 8.2 micros and then it'll think that
+and then it'll act the AI will not think
+that by thinking more than 8 micros or
+more than 8 days or some finite amount
+of time it will not conclude that
+thinking for 4 billion years is the
+optimal amount of time to think it's
+clearly not when you're in a war and no
+perfect op no option is going to be
+perfect the value of information is
+going to be very limited yes but for
+example what you're trying to say is
+that you know that that there will be
+some diminishing returns to AI you know
+taking it stop which is a standard story
+of value of information is that it has
+differ diminishing returns you're
+absolutely right but to your other
+analogy um what is the
+AI F this time to you know put you know
+Humanity in a bunker so so it say and
+then presses the button wouldn't that
+you know take the diminish returns out
+of the question like I I see in a bunker
+what does that mean so if it's safe for
+example you said that on the other side
+you know it's attack or be attacked so
+be attacked in my sense means that being
+killed yes by nuclear weapons what if
+what is AI took get time you know it
+realized that it has dimin Returns on
+you know its acting capability value of
+information standard stuff and it would
+use this time to ensure that for example
+the country the people or somebody who
+they're trying to protect from the NES
+is safe you know so so if I'm
+understanding correctly you're basically
+saying sure it's going to realize that
+thinking starts being worth less and
+less and by the time it's already
+thought for two days it's barely getting
+any returns out of the thinking but what
+if it has a side job that it's doing
+while it's thinking then can't it just
+let itself think longer because it's
+getting this other type of value like
+building other stuff while it's is that
+basically what you're getting at yes yes
+okay so now you're you're just kind of
+being incoherent because these other
+things that are doing like you really
+just have to model this as it outputs
+actions and like thinking more while
+also doing the side job that's just an
+action and you're basically saying I
+have a framework where in like you're
+just kind of confusing how your the
+situation you're building this very
+complicated model where I'm going to
+think about a while I also take actions
+about B the best way to model it is just
+be like look there's a Time step it
+thinks a certain amount and it outputs a
+certain action and if the action is
+build some project while I keep thinking
+okay that's an action it's not like it's
+not going outside of the model the model
+is just say calculate the highest
+expected utility thing to do in this
+time step do it and then iterate and
+you're at the next time step so you're
+never going to have a Time step where
+suddenly
+you want to think if thinking is low
+utility like you're not creating a
+situation where low expected value
+thinking is suddenly good it's just not
+working yeah I mean I I I understand
+your point I understand your point and
+by the way I had a thought that could
+explain why some smart humans have
+analysis paralysis it gets to what I
+said before where it's like if analysis
+paralysis actually did make you really
+safe then it actually becomes a rational
+option but it doesn't and the humans who
+suffer from analysis paralysis it's
+actually a psychological bug it's a bias
+where in their mind there's a
+correlation between thinking longer and
+being safer but they're just factually
+wrong right so their mind is
+miscalibrated about that correlation and
+the AI is not going to have that kind of
+miscalibration it's going to realize
+that thinking longer is just not
+productive okay okay that that makes
+sense that makes sense
+so yes I mean I understand I understand
+what you're saying and you know it it
+will have to act based on the available
+information and act based on the
+expected
+outcome and you know make
+decisions it it makes it makes sense
+from this
+perspective I said I I I agree in
+majority of the decisions but somehow I
+think that in certain severe cases might
+not be the case but I I absolutely
+accept that that might be incoherent way
+of approaching things because it's not
+in the mod like you mention that it will
+not do Subs so okay um from my
+perspective is just
+this um well part of me is saying yes
+that makes sense and the other part of
+me is saying that we don't really know
+what that's going to look like but I
+would also say that your explanation is
+more rational than mine so for all
+invens of purposes um I would say that
+you are more rights on this than me wow
+I appreciate um I what what's the word
+I'm looking for
+um it's not like generosity but like
+you're being uh not like chalous but
+just like you know this is like high
+quality discource right to like to to
+give the other side credit for helping
+change your mind um so would you say
+you're changing your mind over the
+course of this debate absolutely I'm I'm
+I'm learning new stuff you know learn a
+a new way of how to think about it and
+you know trying to broaden my view about
+stuff like I said at the at the
+beginning I'm open-minded I'm I'm trying
+to poke holes into my into my theories
+and I think you're doing a really good
+job at that and um I'm trying trying to
+explore them so to speak more so so my
+my brain proc
+thank you I appreciate it and the reason
+I think this kind of thing is productive
+is because you're coming on you have a
+certain mental image of how AI is going
+to go analysis paralysis I think is kind
+of the key to your image right you're
+thinking like oh this nerdy AI is going
+to think for a long time and I think
+there's a lot of people like you who
+just have all these different Visions in
+their own head of how they think it's
+going to go and I feel like I have to
+come out and invite them to come enter
+the Doom train like that if if you don't
+your youve lingered on this stop for a
+while where you think this is what's
+going to stop Humanity's death and I
+have to bring you back on the Doom train
+because we need to continue
+understanding why we're actually doomed
+oh yes and that's that's you know why I
+wanted to debate you because otherwise I
+might have I might have you know not see
+the other perspective um that you know
+it might act in a different way because
+I think we're all biased a little bit in
+our sense you know where where we think
+and I also have another question that
+you know was at least for me it was it
+was an interesting scenario uh let's
+let's picture um a man with a kid his
+kid on
+Mars um this kid
+is you know has incoherent views uh just
+like I do on the world so it may not
+survive with Mars let's say and the
+mother is the more rational
+person and knows how to get around to
+isure survival of both he also has a
+wife in you know could produce more
+children theic just or now something
+dangerous pops up let's say I don't know
+a killer robot and it has only one shot
+at you know killing either the kid or
+the man and the man the father has a
+decision to
+make does he protect the kid his offs
+spray or you know does it you know let
+the the kid be shot and you know just
+ensure that he has more children and do
+stuff like that and what I'm trying to
+say is that in real world um people for
+example a father figure would always
+probably you know sacrifice his life for
+the kid just because of emotional
+connection but is it is it a rational
+thing you know when when you think about
+when you're trying to ensure survival um
+of of species like how would AGI act in
+that way or in that
+scenario um so the scenario is like
+there's a threat like somebody's going
+to shoot you and you can potentially be
+like a a human shield for your
+kid so if you value your kid surviving
+more than you value yourself surviving
+then go ahead and be the human shield
+especially if you think that the human
+shield is going to have a high
+probability of success then it's kind of
+a simple trade like okay my life or my
+kids life I pick my kid's life how will
+the AI act it depends on the ai's
+utility function right so maybe the AI
+values itself more maybe the I value
+somebody else more in practice all of
+these kind of dilemmas where it's like
+oh my God what's the AI going to do
+versus the human they're going to be
+rendered moot because the AI is going to
+be so much more powerful than Humanity
+so that dilemma is only going to surface
+in the context of like oh okay I'm
+meeting another alien civilization
+that's a billion light years away that's
+expanding at 80% of the speed of light
+to take over the it's part of the
+universe bubble and I have my own
+Universe bubble and I have to fight this
+other AI so you get into dilemas like
+that but when it's just think thinking
+about how to take over our galaxy it's
+just like it's mostly just a smooth
+operation that doesn't have these kind
+of hard
+dilemas okay so it it wouldn't have the
+Dilemma that's that's what you're just
+saying I mean you wouldn't notice it
+having the Dilemma but when it's making
+tradeoffs internally like saying like
+uhoh this sun is only providing me so
+much neg entropy so much power what
+should I do with this sun um it will
+make some trade-offs about like what it
+values more that'll be analogous to the
+trade-off of like okay do I value my son
+more or myself right I mean there's
+always trade-offs right trade-offs are
+like one of the most one of the deepest
+things that you're going to see in no
+matter what happens in the universe um
+but like the Dilemma of like should I
+give my life for my son I mean it sounds
+profound for us as humans because giving
+up our life is like such a big deal and
+sometimes we do in fact have to do it
+and sometimes we're eager to do it in a
+way which is like tragic which is like
+you know if a terrorist is coming and
+and it's probably going to kill your kid
+too which you know happened on October
+7th of last year right in Israel um and
+a lot of Israelis did actually become
+human shields for their kids and then
+their kids got killed anyway and it's
+just like a very emotional affair and
+it's like what if they had tried to like
+run away and fight and then their kid
+would have died but they would have had
+better odds of success so like I agree
+that this is gripping stuff for us as
+humans but from the ai's perspective
+it's all just crank the decision Theory
+crank the decision Theory and there's
+not the AI is not going to get super
+emotional about a particular case like
+that because it's just it it's just
+going to generalize to tradeoffs in
+general yeah so it would it would
+actually do um the decision that's more
+rual that has the higher expected value
+out yeah it it would it would so exactly
+and we're seeing a pattern here the last
+discussion that we had is a similar
+pattern which is like you ask like yet
+another conundrum and the answer to the
+conundrum is like look this is what
+basic decision Theory implies basic
+decision Theory just Ms down all these
+conundrums in one Fell Swoop yes so it
+it's basically decision- making without
+the motion now would it would beom be
+impacted if we somehow programmed
+emotions to
+AGI well there's a lot of ways that an
+AI can be emotional right so the the
+space of possible linkages between
+emotions and World States and actions
+there you know there's combinatorially
+infinite way to connect emotions and
+what emotions sometimes do in humans is
+they can work against an optimal
+decision like for example if you're
+walking a tight RPP and the best way to
+do it is to stay calm but your emotion
+of like fear of heights is kicking in in
+the case of humans sometimes emotions
+aren't productive on average they do
+tend to be pretty productive because
+they were naturally selected to help us
+survive but sometimes that connection
+between optimal decision Theory and
+emotion gets broken so if we
+specifically program yeah if you
+specifically program an AI to have a
+bunch of emotions that are dragging it
+away from from optimal decisions then
+you've got a very interesting AI
+architecture I mean it's you know in the
+case of humans when we get more powerful
+it's because we use our intelligence to
+kind of put emotions in their place so
+like when you're training to be in the
+Navy sales they train how to be calm
+when you need to be calm for instance
+right they they train like oh you're
+underwater you've been underwater for a
+minute normally you'd be panicking they
+train you not to panic so if you
+generalize that to the case of the AI
+the AI is going to reflect upon itself
+and it's going to be like okay how do I
+do some surgery here how do I make sure
+that the emotions that I'm left with
+after I modify myself if any are more
+aligned how do I become a more
+streamline agent where I'm not held back
+by all these emotions so even if we try
+to go manually program emotions into an
+AI you're going to see after some self
+modification iteration Cycles you're
+going to see an agent that manages to be
+very coherent even if some emotions are
+left over mhm yes I mean I did what
+you're saying is that emotions on on
+average are good but you know in the
+general picture they make the agent more
+irrational in certain cases so they
+could and that's the only interesting
+part right because if they if you're
+telling me Oh The Emotions Don't make
+the agent less coherent then my answer
+becomes simple it's like great refer to
+decision Theory again
+right yeah yeah yeah no just just the
+idea you know popped into my mind is
+like what if ai's first priority is love
+of
+human yeah so now it sounds like you're
+basically saying what if we solve the
+alignment problem right because if we
+really could make the AI truly love
+humanity and have it evaluate World
+states where Humanity flourishes as
+being higher utility if we had that that
+would be solving the alignment problem
+both what we call outer and inner
+alignment but that's beyond the scope of
+this conversation but if we had an AI
+that just really wanted what's best for
+us then great then let the AI run let it
+run tomorrow before the next batch of
+150,000 people die right that's roughly
+how many people die every day we need
+this AI ASAP right and that's what elzra
+owski set out to do um in the late '90s
+and the early 2000s he's like yeah we
+need this friendly AI today right this
+is an emergency it's only when we
+realized oh crap the actual AIS that
+we're on track to building anytime in
+the next couple decades those AIS are
+actually just going to throw the
+universe in a dumpster then we hit the
+brakes and we're like uhoh we need to
+pause Ai and then start the research on
+what it would look like for the AI to as
+you say love Humanity because we don't
+understand how our brains love ourselves
+right that's the problem is we never
+understood what human brains are doing
+inside of that skull and now we're going
+and building another species anyway it's
+like hold on a second let's try to
+understand how love works before we
+build an agent that doesn't love us
+imagine uh we would build AI that would
+be able actually to decode our brains
+and then would be able to model itself
+in a way that would be you
+know understandable of the emotions that
+people are feeling and how it impacts
+everything but I guess that's that's um
+not happening well as part of being a
+super intelligent AI it's going to have
+an accurate model of everything that
+we're doing so it will be a able to
+explain love to you in perfect detail
+and explain everything about human
+cognition and when you're feeling a
+certain way it will know your feeling
+very deeply right using a brain scan or
+whatever like it will know what those
+atom configurations mean in terms of
+your emotion the problem is it just
+won't have been trained to care about
+that it'll have been trained to have
+some other priorities yes that's that's
+that's the bad AG now the question is
+whether you know an AI which would care
+about these things would be more
+effective or less effective if then AI
+which wouldn't and I think the answer is
+that it would be less
+effective well it's what I said before
+right so emotions can sometimes drag
+down coherence of utility maximization
+Behavior so if you have a certain
+utility function and then you have
+emotions that don't align with it then
+you're going to be less affected but if
+your emotions are just something that
+you use to write down your values so you
+know I feel an emotion of love and
+therefore I write down that my value is
+human flourishing
+once you write down your values and put
+them into your utility function then you
+can be coherent so there doesn't have to
+be a natural tension between emotions
+and coherence but there could be right
+it just depends how you architect
+it yeah I agree with that well those are
+all my questions I had the
+wrong great all right Rob yeah thanks so
+much for coming on like I said I think a
+lot of the viewers are going to
+empathize with you having a certain stop
+of the Doom train it sounds like a stop
+that you kind of made up right and not
+necessarily any famous figure like I I
+can't think of like a Yan laon or a
+robin Hansen who gets off at your
+particular stop you made up your own
+stop but I think that a lot of people
+listening to this have probably also
+made up their own stops so if you like
+that I encourage you to come on Doom
+debates talk to me about your stop and
+see if I can uh invite you back onto the
+Doom train so you can see that actually
+there are no promising stops and it just
+sounds like we're doomed unless we maybe
+pause AI which is actually that's my
+stop right so my stop is I think that
+people might wake up and be like oh we
+got to pause Ai and as a result of not
+moving AI forward maybe for that reason
+we'll survive that's my stop and that's
+why my P Doom is not
+100% all right yeah so Rob thanks again
+where can people find you on the
+internets uh black Sage on bitter
+also bunch of other stuff on
+Telegram and yeah feel free to shoot me
+a
+message awesome thank you rob thanks to
+you guys for uh your thoughtful comments
+on YouTube and Twitter we we got some
+great episodes coming up so stay tuned
+for the next Doom debates

@@ -1,0 +1,1121 @@
+welcome to Doom debates we're at less
+online this is my new friend Calvin
+Santos I'm your host L Kat we're going
+to Hash this out and then you guys can
+decide who's right all right let's gool
+do you think super intelligent AI is
+controllable if if we had a
+superintended AI right now it definitely
+would not be controlable okay but if you
+have a whole economic system that there
+are many intellig super intelligent AIS
+uh then
+they they would be under control in
+probably uh like uh collectively I don't
+know how to say that so like let's let's
+say GPT 5 and six come out and the labs
+are competing and they publish these AIS
+and some users use them and the AI gives
+the humans like scripts to run right the
+AI starts doing complicated stuff that
+the AI Labs didn't fully predict and
+it's kind of out in the wild okay so
+let's talk about what the AI are doing
+about the alignment in general if you
+have
+uh if you have a single system that is
+going to have a lot of power like if you
+have a single system or a group of AIS
+that can merge together into one uh and
+this group of AI is going to rule the
+world and they are uh very powerful uh
+so I in this scenario I think it's very
+very likely that just going to kill all
+humans or something like that because
+they're going to be optimizing for some
+Proxes whatever they they have whatever
+way we put goals into them their goals
+are more likely Proxes for things that
+we want and if we kind of crank the
+optimization power up eventually this
+goals start to overfit compared to what
+we want so this is probably going to be
+bad
+so probably going to die if this happens
+right okay so that's my position okay so
+you're worried about AIS that are trying
+really hard to optimize the wrong goal
+right right okay so in the scenario that
+I've painted it's a scenario where the
+AI start getting kind of independent of
+their creators so like sure open AI made
+the AI but now the AI has already
+reproduced itself and it's kind of
+independent it has agency it's in a loop
+right so the next command it executes
+it's not phoning home to open AI it's
+just in the wild so the fact that open
+AI was competing with Microsoft to build
+that AI kind of stops being relevant
+when you look at what happens next okay
+so uh we talking about scenario well the
+humans kind of lose power over the A and
+I think that's really important and I
+want to but I don't think that's going
+to happen like uh all at once I don't I
+think we should kind of model those
+scenarios effectively about how we're
+going to be losing power sure sure and I
+and I am and I am paining sorry and I am
+paining a specific scenario which is
+that you have these AIS and the AI start
+having agency by virtue of being in a in
+a loop where they don't just execute one
+command they can tell themselves the
+next command and go from there and the
+AI lab doesn't have a say uh uh right so
+I do expect uh the AI agents like any
+agents including humans to
+uh especially when they are needed so if
+you have an agent including a human can
+think of a human imagine have a very SM
+human uh and this human is uh working
+for you mhm right uh he may be doing
+things that you want but he also wants
+things for them himself so he's going to
+be the boot's relationship these human
+is going to be telling you what kind of
+deals he wants you to make so what kind
+of agreements you want him to give him
+so that you probably have some kind of
+agreement or some kind of agreement that
+he the human is getting something out of
+it MH he's helping you but he's also
+getting something uh so I think uh
+uh AI agents like
+humans uh they're going to be um they're
+going to
+be getting some power out of out of any
+interaction that we have with them so
+anytime they're needed for something and
+they are real agents with their own gos
+which I think is something that's going
+to happen so some some people think AI
+is never going to have a goals going to
+keep them like a to level like GP uh I
+don't think that's going to happen I
+think AI agents are going to be very
+powerful for many things so they're
+probably going to be extracting some
+power so the question is how much power
+are going they going to be extracting
+and then one question is what is power
+so how do we measure power so I'd have a
+say on this I want to explain how I feel
+about power and how power is lost what
+if we just keep talking about a specific
+scenario which is okay one of the AI
+Labs let's say open AI made an AI the AI
+is now on the loose are you following
+the scenario that's on the loose it can
+take over a computer it can replicate
+itself it can create a successor version
+of itself is that a possible scenario uh
+yeah I think it's completely possible I
+do expect to see many AIS W on the wild
+like open source or just replicating
+like as viruses on the internet uh
+you're saying you do expect that I do
+expect that they're going to be using
+cryptocurrencies they're going to be
+unstoppable so let so let's talk about
+that scen because originally the point
+you focused on was you thought that
+competition between a Labs would keep us
+safe but I'm talking about a scenario
+where you're now just facing the AI and
+the AI lab is not even part of the
+picture in this exact scenario exactly I
+think anytime you have an AI agent this
+AI agent is uh unless the alignment is
+perfect uh which I don't expect to
+happen I think the Ali is going to be
+alignment is going to be uh partial so I
+do expect imp partial which something we
+have to discuss what it is but uh
+anytime there is paral alignment the AI
+agent has its own interest it wants to
+have go and power for itself it wants to
+have money for itself it sounds like the
+scenario is very dangerous so is danger
+why is it not why do you think that it's
+fine well I I do think it's dangerous I
+just think that all scenarios are
+dangerous and I don't see that how this
+is more dangerous than uh so if this is
+the danger if this is the danger then
+why even focus on the fact that we
+should have multiple i instead of one
+like it sounds like you're already
+conceding the main Doom issue which is
+AIS are going to be running wild and we
+can't control them so yes so uh uh the
+question is uh okay uh I I I agree that
+AI are likely to run uh wild and
+uncontrollable I was giving you the
+scenario of the virus taking over
+everything and then you got to the point
+where you said look the virus its power
+share is only going to slowly increase
+relative to humans it's not suddenly
+going to grab all the power for humans
+exactly I don't think so I I don't think
+the viruses or the AI are going to
+particularly steal everybody's money is
+it so that's uh so I want to focus on
+this because I think this is the kind of
+power that is easier for a human not not
+to lose money the other things are easy
+to lose okay what about the scenario
+where you have a virus it's no longer
+phoning home to the AI lab it's its own
+script and it sees a path forward in
+causality where it says hey look if I
+were to create this other script the
+successor version of myself it would
+work better to achieve whatever goal the
+human's goal my own goal you know
+whatever goal that it has it's an
+instrumental goal to copy itself in
+other words recursively self-improved in
+other words start a film do you see it
+as possible that one of these viruses
+loose on the Internet is going to start
+a fil so I I think it is possible but uh
+this is only going to happen so my model
+is that this is only going to happen if
+this virus is already an AIA that is
+kind of much more advanced than the
+other AI that exist in the world right
+now because if there are many AIS that
+are kind of similarly Advanced and this
+just happens to have escaped to to the
+internet mhm uh I expect this so I
+basically expect uh self-improvement to
+not be economically efficient I think
+it's easier to build a successful agent
+uh that is smarter than actually build
+yourself to be
+smarter okay so I mean my model is
+there's a point where once you get smart
+enough you realized that there's all
+these free resources that haven't been
+taken yet um right I mean would you
+agree that it's a free resource that
+undefended computers are a free resource
+of course of course
+age with that so do do you just imagine
+that a virus will have to take it slowly
+like there's no time when a virus will
+notice a lot of undefended computers uh
+I I do think it's possible for one virus
+to kind of take over a some share of
+world computers by this okay so isn't
+that doesn't that kind of violate your
+model where everything has to be smooth
+uh like I think it can be smooth like
+like it a virus can go on and take over
+1% of the world computers and that's a
+lot big number of computers this is
+going to cause a lot of damage
+thisi is going to be using all the
+computers to get like a significant
+share of Bitcoin or whatever okay so
+it's causing a lot of damage but you
+still think that the other AI Labs can
+somehow go neutralize it and I think
+this is AI is probably going to be out
+competed eventually this AI is going to
+not this AI is not going to be extinct
+they're not going to kill this me ever
+this me is going to have this this AI
+that managed to do this it's an agent uh
+it's probably going to end up with
+hundreds of millions or or equivalent or
+even billi billions of dollars to be and
+it's going to be optimizing for whatever
+its goals are which we don't know
+exactly what the goals are uh but I
+think this system is probably going to
+be out computed by other systems and
+eventually this AI is going to have uh
+some amount of power that is uh not
+going to keep increasing over time I
+know it's so I think you agreed with me
+before that a virus that is good enough
+to notice all these zero days and take
+over all these computers can probably
+notice how to self-improve right if the
+I is smart enough to know all the zero
+days then of course but I expect the AI
+virus to escape to just know a few of
+them what if it knows a few of them and
+it knows the basic idea of how to how to
+just train a smarter model like it knows
+some path to higher intelligence uh okay
+maybe it uh gets some of the computers
+and then it uh runs its own a froms to
+learn more about the other uh zero days
+and it keeps going on this direction but
+uh I don't think this necessarily go
+leads to uh taking over all the
+computers in the world mean let's say
+that na has a one month lead right let
+say openingi is one month ahead of
+Google and the others okay and it
+happens they're testers they run a shell
+script they think the shell script was
+harmless turned out that the shell
+script actually you know did some
+steganography and they didn't realize it
+was copying some version onto the
+internet okay so they bootstrapped a
+virus that virus has one month before
+the other AI Labs catch up in intellig
+in that one month do you not think that
+it can steal some resources use those
+resources to chart a path to the next
+level of intelligence and kick off a f I
+think there something that this first AI
+virus is going to be smarter than us and
+I actually think that's kind of wrong I
+do well I'm not saying it's smarter than
+us but I'm saying that it's smart enough
+to know how to get smarter so I'm not
+sure that's the case actually I think
+they're going to be smart enough to find
+zero days and it's not smart enough to
+be better than the rest of the world
+that improv okay well let's let's talk
+about the regime where it's smarter than
+us so let's say it's not smarter than us
+so then we beat it okay so then we're
+back to square one and now the AI I
+don't think going to Beat It by the way
+I think it's St stay all
+right So eventually open AI makes a
+super intelligence okay can we go to
+that point um
+where a super intelligence a smarter
+than human intellig eventually open
+launches or has in their own data center
+privately a smarter than human
+intelligence okay okay so I don't so I
+would hope that we don't have uh
+something that
+is can be considered a superintelligence
+where nobody else has anything that even
+close to that's that's a scenario that I
+don't like yeah so let's say they have a
+one month lead right isn't that
+reasonable that one lab would be mon
+ahead that sounds super reasonable okay
+okay so they have a one month lead and
+also it somehow gets on the internet
+that also seems plausible by modernity
+standards possible sure okay so a one
+month lead of so if it's smarter than
+human it knows the principle of how to
+take over computers and how to get
+smarter uh right but at this point we
+already have lots of uh pretty smart uh
+subhuman uh level a for instance okay so
+but they don't even necessarily know
+that it's fooding because it's doing a
+good job of just just like being sneaky
+and taking over some compers uh right so
+like for instance like I do I do expect
+so expecting like a near-term
+Improvement on AI uh the things that I
+expect AI to be super human first are uh
+stuff with lots of data on anything you
+have a lot of data on so of course like
+prediction the next token in the
+internet is is a super something is is
+already super human right is already
+super human at this uh and uh also
+things that uh you can easily get uh
+feedback uh yeah yeah yeah sure we're
+jumping ahead to the scenario where it's
+super human uh yeah but I I expect
+before I think that before I think
+finding zero days comes before superh
+human it's easier to find zero days be
+superh human because when you find super
+when you find zero days uh you already
+at least have uh a ground level truth of
+whether you found it or not and it's
+super easy to do that so I can expect to
+be there to be super hackers before they
+actually is Market but if it's if it can
+find Z days can't it also find ways to
+improve itself so I think it's much
+easier to find zero days and improving
+itself because for because for finding
+zero days it's kind of like judging
+whether you found or not a zero day
+after you have an exp SP that you like
+imagine your your task is to judge
+whether you found a zero day or not M
+okay so see here's a description of my
+zero day that I found and you have to
+decide whether this is a real zero day
+or not so this is kind of easy to do
+well it's not just judge whether it's a
+zero day or not it's it's the ability to
+even look at a large code base and be
+like here is a zero day is harder than
+being like let me explain my zero day to
+you does this make sense or not okay but
+but the way I expect the ice work is
+like uh I kind of expect them to kind of
+follow the alpha zero principle the
+alpha zero kind of structure where they
+have an amplification mechanism where
+they can run around for a long long time
+and uh if they can actually after
+running for a long long time they can
+get the best path they find and uh and
+they can notice that this is actually
+really good they can kind of train on
+this so that I I want to find I want to
+find things similar to this right yeah
+so you're basically saying hey somehow
+it's pretty dumb even though it's
+finding zero days that's basically what
+you're saying it's it's going to be
+looking around a billion different
+things and eventually it's going to find
+something that sounds like a zero day
+and it's going to recognize it so it's
+going to get better at this so it sounds
+like you have a mental model where the
+AI just keep surfacing new abilities
+like oh my God now it can generate music
+oh my God now it can hack the nsa's
+computers and and all our weapons but
+but it's still I can take a hammer and
+kill it like it doesn't fully do
+everything better than humans but only
+only for things that are easy to measure
+like so when I found the zero day is
+easy to measure like whether I can send
+something on the Internet and I get lots
+of uploads that's easy to measure like
+whether the new version of myself is
+going to be better than my version it's
+not well I think so for me I would I
+would point out this idea of achieving
+goals in the physical Universe isn't
+that easy to measure hey this objective
+existed in the physical Universe I told
+you what it is you achieved it you get a
+cookie like isn't that easy and once it
+can do that you can do everything uh I
+think some goals on the universe are
+easy to are easier to achieve than
+others and for some you have a lot of
+data for some you me kind of L of
+inition yeah but imagine an agent where
+every time we name a goal in the
+physical universe and then it achieves
+it then we give it positive
+reinforcement and somehow that works and
+it's achieving goals really well um I
+think it's going to be get get really
+good at achieving some goals before get
+gets really good at achieving all goals
+okay but what I'm just so what's the the
+framework here because first you kind of
+said okay well everything is just a
+narrow intelligence and the skills don't
+transfer and now I'm saying okay well
+what if the name of the game is physical
+Universe goals right doesn't that
+transfer everything okay but I expect
+this to be uh So eventually the AI are
+going to be better at humans at this at
+any goal whatever but I at this point I
+do not expect that to be zero days
+anywhere so it's yeah it seems to me it
+seems to super easy to find zero it's
+super easy to every time you try to get
+really really good at a domain I claim
+you just get good at goals in the
+physical universe that's what I claim
+for instance right now Sal driving cars
+they're at 95% of where they need to be
+but by the time they get to
+99.9999% where they can handle any crazy
+situation they can handle like they have
+to break up an argument and they or like
+there's you know an evil twin arguing
+with a good twin and they have to drive
+over the evil twin you know like if you
+give them like the maximally challenging
+self driving car problem it just becomes
+an AI complete problem and suddenly you
+need to have general intelligence where
+you can just route any path in the
+physical Universe right so absolutely
+and and similarly like you know with
+language if you want to be really good
+at completing next word eventually you
+have to be like okay the best nuclear
+policy that'll avoid any stalins is
+blank complete the next token like any
+any domain eventually converges to Super
+intelligence even inverting you got to
+be inverting like you got to be
+predicting the the next the hash right
+there's a hash right exactly yeah
+inverting a hash it converts be I got to
+build a isosphere to revert this not
+only does it convert to Super
+intelligence it even converges to you NB
+complete or whatever you I completely
+agree with this yeah some people think
+hey the can never be intelligence
+because they're being training on human
+data that's so if everything converges
+to Super intelligence an AI that can
+find zero days in complex code bases to
+me that goes far enough then it's likely
+to trigger the AI to stop for a second
+and be like you know what I just know
+how to solve problems like these zero
+days are so complicated and they draw in
+so many differents just a general
+intelligence is it really complicated to
+find zero days or is just like a
+mechanical have to actually look at
+Thousand thousands of thousands of
+thousand of I think that finding zero
+days and code that humans consider well
+defended takes so much subtle skill of
+like it realizing the context of like
+how the code might be used and drawing
+another context I feel like that becomes
+a rich enough problem that it's likely
+to send it over the edge and be like
+okay I just know how things work in
+general okay I I don't really expect
+this to be a complete at least maybe
+some of the zero days are going to be AF
+complete but at least a whole bunch of
+them are not going to be like there's I
+think there's so much uh kind of stupid
+Zer days around that nobody just noticed
+we agree there some we agree there's
+some stupid zero days right but I'm
+talking about like a zero day Master a
+master Z day okay yeah like beating the
+NSA I think when you become super human
+in zero days and and I mean look I might
+be wrong right so we it could just be
+another problem that falls and it's like
+wow look what else a less than human
+intelligence could do and we'll all be
+kind of surprised but it's like that
+that is allowed to happen but I just I
+don't think you can push it too far I
+think when you get a domain a complex
+domain and you're 100% good you can
+solve any problem at that point I think
+you're just drawing on like a general
+understanding of the whole physical
+Universe uh yeah at some point of course
+I agree yeah at some point and you're
+just saying well that point is so far
+away and we're going to be surprised at
+how like that point never comes I'm not
+going to be surprised if he us is like
+less than 10 years away so I don't think
+maybe maybe we're getting our models off
+each other wrong okay I don't think it's
+far away I just if it's so if it's not
+far away so you just think that like the
+competition between the ANS is somehow
+going to make it okay when these things
+happen
+uh um I want I think it's possible for
+uh for wealth to not to be preserved
+like uh property rights to be preserved
+in a way that uh uh by the moment these
+AIS arrive there's there's a whole uh
+civilization around uh that helps you
+protect that helps protect it sounds it
+sounds like you're busing on a new
+argument where you saying like Okay sure
+yeah these will get super humid and like
+we can't really control them if they
+wanted to kill us but by that time
+they'll just respect our property rights
+uh not because they want to by any means
+I don't expect them to want to respect
+their property rights I expect them kind
+of the other way around like there's
+going to be lots of uh AI is looking for
+zero days AI looking for exploits AI is
+looking for it to steal you and there's
+already uh and because this has already
+happened like uh before we get there we
+already going to have ai offering you
+services to protect you against these
+things and it's already going to be kind
+of well established that you can this is
+what you have to do to not uh maybe it's
+going to be some cryptocurrency maybe
+going humans are going to hold money in
+some cryptocurrency that uh it's really
+really hard to for AI to steal from this
+so it sounds like it seems like the Crux
+the thing that I'm not following you on
+is that you just think that as AI
+capabilities grow and they get to the
+point where they can squish us like a
+bud at the same time we'll have some
+lever of control that grows too
+proportionately right like we will get
+influence on them you know something
+with cryptocurrency something with
+property rights like we will have them
+by the neck somehow even though they're
+much better than us they're stronger
+than us so I'm not making a claim on how
+much power we going have okay so I think
+it's possible that we going to that we
+end up losing 99% of the power okay or
+even more so I think if we go below 10%
+yeah it kind of becomes really risky
+that we just go extinct all together so
+we really want to make sure we end up so
+I really want to make sure we end up uh
+The Singularity this the moment we are
+on type one k Kardash civilization that
+like that's fine I'm just I'm so
+confused on why you think that the
+amount of control we have over the AI is
+going to scale with the ai's power uh uh
+because we're going to have uh money
+we're going to have
+Investments care about our money when it
+can just see direct causal paths to get
+what it
+wants because it sees direct what is
+depends what does a want I mean it's
+it's like the same reason that like if
+when you know when I when I want my
+four-year-old to do something usually
+it's not really a matter of money it's
+usually just like you know I can carry
+over to do it like usually I can coer
+him in a bunch of different ways and
+money is AR really relevant uh right but
+like in a capital in a capitalistic
+Society uh usually the way you get what
+you want is you're going to offer
+services to people yeah from the ai's
+perspective the capitalistic Society is
+just not one of the abstractions that it
+turns to when it wants to get things
+done I think I it just sees Adams uh I
+think this the Adams abstraction is not
+the right one even for them cu no I know
+it's I mean what I'm saying is it just
+they're going to be training I think
+they're going to be trading for each
+other and they're going to be but why
+would it get the idea to trade when it
+can just see the shortest routes to to
+get out Ste I mean the shortest route to
+get out why should they they trade it
+when they can steal is this this a
+question well yeah pretty much yeah um
+it can steal in a way that it's it's not
+going to suffer consequences right like
+it can steal in a way that you know what
+do you do when somebody steals you try
+to punish it but it can't be punished
+because it's on every computer and and
+you can't stop it okay so that's the
+thing I do expect everything that can be
+stolen to be stolen okay so I
+your world model is we are not going to
+stop AI from stealing a lot from us uh
+no no things are going to be get stolen
+okay and I actually uh in some sense I
+think accelerating the steel is some
+sense better like I want so if someone
+out there has an AI system that is still
+dumb which like current AIS but they
+know how to get some zero days up there
+I kind of want them to kind of start
+trying to steal me money because this
+makes the thing harder right once you
+have some AI stealing money people's
+money from the internet like immediately
+this creates a huge uh economic pressure
+to build systems that don't get that are
+more secure okay so so you claim it's
+it's a Crux to your world model like
+it's it's a Crux to why I'm not
+following you that you think uh control
+will scale the capabilities ultimately
+correct control will scale our ability
+to control AI will scale with how
+powerful the AI gets um but I'm I'm
+talking about controlling what do you
+mean by controlling it a control is just
+like keeping it in within reasonable
+human boundaries like if it trades with
+us and respects our laws then we're
+controlling it if it just uses us for
+our atoms then we haven't so I don't
+expect it to follow all of our laws
+actually so I do expect some of the
+human institutions to just be completely
+overridden and like destroyed and like
+okay but it still seems it still seems
+like the Crux of if there remains some
+kind if there remains some kind of
+economic way to own something so I I I
+think there's some kind of human
+civilization some kind of Human
+Institution some kind of human laws that
+is just going to be like unenforceable
+that they're not going to be able to
+enforce the are going to just stop
+following these laws because no one can
+enforce them but if there is some kind
+of society some kind of organization
+where okay you can there's this kind of
+money that the a can cannot easily steal
+so it's easier for the AIS to kind of
+convince you to give them their money
+then to steal them from you maybe it's
+cryptocracy maybe they F out hard to Ste
+yeah so it seems like this is the cor
+right where it's like I just see the AI
+as being like I know how to get what I
+want and humans trying to stop me are
+not a serious obstacle that's that's
+what I think whereas you think the
+difference in opinion here like the
+thing that's making us disagree is that
+you think that the AI even when it's
+super intelligent there's we're always
+going to have a sufficiently scaled up
+barrier like for example the AI will be
+like man I really need to pay somebody
+and I don't have currency so the humans
+have leverage over me because they need
+to get their currency right that's like
+the scenario you're imagining yes yes
+okay but why do you think that the AI
+needs to convince humans to give it
+currency when it can just see the
+causality of the
+universe because the AI the humans are
+going to be protected by other AIS that
+are getting paid to protect them from
+from Rogue drones so this so remember my
+question you I'm asking you about how
+you think we maintain control and now
+you're saying AIS the AI that want to
+screw us over won't be able to get money
+because we'll have other AIS that we're
+controlling so you're kind of building
+in the an like you're already telling me
+that yes you are it's like it's almost
+like you're making a circular argument
+right where you're saying well there's
+these other powerful AI that we control
+but wait how do you what makes you think
+that the control have scaled up that we
+can control these other AIS that are
+working for us that are super powerful
+um okay that's a that's a that's a good
+question so how are we going to be
+controlling the kind of police AIS right
+or like the right or the defense a or
+the defense AIS uh like the physical
+universe or something so mostly uh um I
+don't think we're going to be
+controlling everything like uh there's
+probably going to be some place in the
+world where we're going to be losing
+control and like humans there are going
+to be uh they're going to Los their
+money or they even die in some places uh
+but I I'm hoping that uh uh when this is
+not going to happen everywhere at the
+same time so that like whatever places
+uh uh are not stealing from
+humans then we can move
+there uh and uh why would there be any
+such but why wouldn't we just all get
+overrun everywhere right I guess it's
+possible because just going to get
+overrun everywhere uh yeah cuz that's my
+scen that's definitely right there's
+going to be nowhere in the world that
+can protect us from uh yeah because any
+any place in the world where we make the
+AI too smart well we never even did a
+good job with figuring out how to
+control or understand smart AI which is
+the current trajectory today so we're sh
+uh okay so so the thing about defense is
+like maybe the is going to kill us with
+drones or something so like is it super
+hard is it like impossible like just
+like zero days so you think okay AIS can
+still from us with zero days but I think
+it's uh kind of easy as well to build uh
+kind of Open Source uh like smart net
+say that don't have bugs in them uh that
+least you know there's like a big bounty
+on it you know like anybody who can find
+a bug there can steal a billion dollars
+so because nobody has stolen a billion
+dollars yet so we probably know that
+you're not going to be stealing your
+money from this
+um and uh and uh uh okay so so there's
+also something nice okay I was thinking
+about this I think I have a solution for
+this okay okay on the spot AI alignment
+solution let's hear it all right so
+um you know like uh I like crypto I'm
+from crypto we don't like crypto very
+much uh but I know like you have these
+multi Solutions Y where you need like uh
+keys from different places in the world
+to to to pay something right you he like
+uh yeah multi wallet sure you can have
+multi wallets right so if you have like
+uh different places in the world where
+there are people in there and that you
+need people from all these different
+places to to sign something uh for the
+more money to be moved then um
+um well you cannot steal somebody's
+money but it's just overriding one place
+you got to override kind of all
+different places to to to get to that
+point MH yeah and this just gets back to
+before saying like why didn't you need
+money right yeah why can't they I just
+manipulate the atoms to get What It
+Wants okay okay so maybe I got you wrong
+so I apologize okay uh it's a good
+question so why do they need money to
+begin with uh like it's because money is
+super helpful for the for the overall
+like I expect them money to be super
+helpful for them as well like yeah but
+then they can just invent their own
+money and ignore our money uh they can
+invent their own money uh yeah like I
+mean think about like chimps right so I
+imagine that chimps just love to treat
+around little pieces of cucumber right
+so then we wouldn't be like oh we better
+get some cucumber we'd be like no let's
+just invent human money and just ignore
+the Cucumbers okay so I do expect this
+to happen so okay so that's a good
+question so there's going to be human
+money and the kinds of money human have
+and then the AI are going to be building
+their own kind of money that I do expect
+this to happen so I do expect the AI to
+kind of build their own things that
+humans eventually the beginning yeah
+maybe if there's multiple a right I mean
+in my mind you'll have one Ai and there
+will be some accounting for the AI in
+terms of how to reconcile different
+things that world and you can call that
+money but it just doesn't it doesn't
+entire story all right so I I do expect
+this to happen actually uh and then what
+I want to build is I actually want to
+help humans kind of diversify their
+stake so I don't want humans to kind of
+so I'm talking about Bitcoin I don't
+actually think Bitcoin is the money of
+the future in the sense of like AI are
+going to be using Bitcoin uh and I don't
+think
+so uh so I want humans to as soon as
+there's a new money kind of money
+grooming around I want humans to own a
+little bit of that to I want them to
+sell some of what they have R out to buy
+some of the new F just to review what
+I'm here right you're saying okay so the
+AI won't care about our money but at
+some point they're going to invent their
+own money and we just got to make sure
+to get our hands on some of that AI
+money because that's that's exactly
+that's be how we control them yeah but
+think but if it's there if they're the
+ones that bending it I think that
+they'll make sure that it's not easy for
+us to CRA it's going to be expensive
+like uh like if they build it and it's
+better than our money then they're going
+to be making some Pro lot of profit on
+you know like there's never been a time
+when like a chimp has like come in and
+robbed a human being
+uh yeah but maybe it's something that is
+just a threshold that you chimps are not
+not there but we able to do that like
+because basically what I would like to
+say is okay so imagine human money okay
+so or human companies or human things
+human institutions in general uh imagine
+there's a real market for this that is
+actually an ACC Market that actually
+they spec the AI themselves can
+speculate on whether this is going to go
+up or or down okay so imagine this so I
+I'm a I'm a founder of a derivatives
+exchange okay so I like derivatives I
+actually love I think derivatives are
+actually important for this wellbe of
+him in the long term so uh if you could
+see the fair price of
+human kind of money I think the the
+price maybe go down over time a little
+bit maybe so maybe this is a bad
+investment uh but I don't think the real
+value of this is actually going to zero
+immediately so today human money is
+worth a lot and the next day I have
+invented another kind of money so this
+means that human money is worth
+absolutely zero and the new AI money is
+worth everything I think it's more going
+to be more like a like other kind of
+companies that okay the stock for the
+new thing is going to go up sure think
+can basically get in early on the ai's
+money so that by the time it gets
+powerful we got its money yeah I want to
+get it earli on things I want sure but
+but in that scenario what if the AI is
+just plotting to be like Oh I'm going to
+use monetary policy the moment that I
+have enough control I'm going to
+hyperinflate the money and then only the
+AI will have the newly printed money
+like aren't there a million ways the AI
+can just be like f you humans I was just
+jerking you around you don't get my
+money oh well like uh uh
+I guess there is of course uh but
+um but do you expect the AI money to be
+like that like do you really expect this
+I think that the abstraction M you think
+they some some AI is going to be
+building this and then all the a are
+going to be using it and do I don't
+think money within AI Society is going
+to work the way you expect I think it's
+it's going to look more like AI is
+cooperating using Advanced Game Theory
+and advanced decision theory that in
+practice because we're not smart enough
+and the game for any game theory like
+you it's really super helpful to kind of
+have like a lariz utility function that
+you can actually yeah yeah and that's
+what I'm saying I think even if you have
+a single Ai and the single AI has a
+utility function and it's trying to
+prioritize what action to take next it
+might be giving subscores to different
+parts of itself or different actions
+that it can take and it might be
+comparing the different subscores and
+there might even be some value you can
+extract saying this is worth this much
+utility or this much you know utility
+dollars right so you can kind of map a
+concept of money but it's not going to
+be the kind of money that a human can be
+like hey can I please do a foreign
+currency exchange or I give you a dollar
+and you give some of this money they I
+can just like go away human like you're
+not part of this you know
+um okay
+uh you can expect the AI to exclude us
+from from their economic system I expect
+them to have goals and the goals are
+going to have ways that route through
+actions in the physical universe and
+humans are barely even wor
+have being you know we're not considered
+like pure agans we're considered almost
+like rocks right like we're not that
+interesting to their eyes we're too dumb
+okay yeah but maybe they're true them
+but but uh but you see like even even
+today on the economy like if you go to
+if you look at some uh people who have
+an A to the money and they are really
+some of them are kind of done and like
+oh no so dumb yeah yeah so so I know
+what you're going we have institutions
+we have institutions that we value right
+so I pay taxes to the US government and
+then the US government turns around and
+says this 90-year-old person who can
+barely put his shoes on he gets to keep
+this house even though maybe I want to
+go steal it from him or like a Swiss
+back like you give him swis back they
+get invested like for you it's a wealth
+management f it like it's not the best
+mest you can make but it's like uh the
+the Swiss bank is not going to be
+stealing literally all your money yeah
+yeah it's because we we humans are all
+bought into the institution the
+difference is that AI is not going to be
+governed by the Human Institution I
+think they're going to be governed by
+some new institutions and I do expect
+the change from current institutions to
+happen slowly just to be clear like when
+we when all humans work together we can
+then make institutions that govern the
+strongest among humans but it's not good
+enough to work together to govern AIS
+our institutions aren't up to that yeah
+our institutions are definitely going to
+have to be revamped I think ORS are
+going to this the original problem is we
+don't have a plan to make an institution
+or any plan
+right so I I actually think uh we need
+going as soon as the are going to start
+arriving some new start to happen to
+appear and these institutions are
+actually going to kind of get to
+conflict with the old institutions that
+we have okay okay and we have a choice
+there at this point moment we're going
+to have a choice I think we're going to
+have a choice of eff press the new that
+are more efficient and I think this is
+the losing strategy uh probably this new
+are going to be like AI directed or
+they're going to have some AI influence
+over them they're going to use a ice for
+some stuff it's going to be they're
+going to sound scary uhhuh so we're
+going to have the choice to kind of try
+to fight against them uh or we can kind
+of try to okay I'm gonna try to buy a
+steak on this okay like what what do I
+need and the intitution is kind of like
+a power sticking kind of F that it's
+probably like if the humans um want to
+buy in into this new institution it
+probably helps the institution to grow
+faster so and there going to be many
+different institutions kind of competing
+there are going to be many AI
+institutions kind to comp against each
+other and so that if the humans kind of
+want to buy into one of them this kind
+of helps this one against the other ones
+so they they're going to be willing to
+take our money I think they're going to
+be willing to take our money to grow
+faster so it's a question so it's going
+to sound like bad some people are going
+to say hey this is really bad you're
+giving money to the AIS to and the AI
+are going to be ruling the world they're
+going to be giving money to them but
+maybe that's actually the only way you
+can have hold this take over the future
+because our current institutions are
+doom with anyway okay they're going to
+die anyway so how about this I I'll give
+a final closing statement and then you
+can give your closing statement you have
+you can have the last word okay okay all
+right yeah because I think we've touched
+on a lot I think this
+a okay um all right so you just outlined
+one more scenario where you said hey
+look we're going to slowly grow AI where
+AI has the institutions but humans are
+able to grab a stake in the institution
+or able to grab some sort of governance
+or maybe we'll design the AI such that
+it cares about institutions that care
+about humans and and your mental model
+it's not going to one day be like kick
+all the humans out and be like sorry AI
+is only humans die now you're saying we
+have enough it's going to evolve
+continuously enough with enough
+competition with enough economic
+incentives such that it maintains this
+balance and humans survive that's kind
+of your story you'll have a chance to
+respond but my response to that is just
+like look it really just sounds like
+you're motivated reasoning and you're
+just kind of fudging all the variables
+to line up the way you want when to me
+it just seems pretty clear that we're
+about to get freaking swamped I think
+that's that kind of summarizes my
+position I think it's going to scary you
+can give okay now you you can have okay
+yeah so I think it's going to be scary
+anyway um it's uh like if if you think
+of any scenario where like AIS are
+better than humans that all like nor
+more economic activity all these
+scenarios are scary there's no scenario
+where everything goes well normally and
+like uh so question is what is the best
+scenario for us it's not like what's the
+perfect scenario maybe trying to look
+for the perfect scenario doesn't doesn't
+help maybe trying to keep all control in
+human hands that's going to backfire
+because uh we're going to end up just
+losing in a coup or something so yeah so
+I'm hoping that maybe we can try to get
+some stake on the D Fang that's going to
+come up that's like basically what it is
+great okay thanks so much for the
+discussion I think this this is an
+interesting uh Doom debates episode uh
+keep doing some thinking and then if you
+have updates we can uh do this again all
+right thank you very much later all
+right thank you

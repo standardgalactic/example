@@ -1,0 +1,1700 @@
+welcome to Doom debates I'm Lon shapira
+today I'm going to be reacting to David
+Shapiro he posted a YouTube video
+yesterday called pausing AI is a
+spectacularly bad idea here's why I
+haven't really looked into David chapiro
+until now apparently he's an AI Optimist
+he's been running a YouTube channel for
+a few years he's up to 158,000
+subscribers so pretty influential I
+guess we're just going to be taking this
+video on its own terms without other
+context and I'm going to be arguing the
+position of like yes we should pause AI
+let's pause it it may be a spectacularly
+bad idea but it's the best of a bunch of
+bad choices that we have all right let's
+dive in here's David
+chapiro all right so this is elazer yowy
+um who is as his own uh tagline says the
+original AI alignment person he's been
+on the Ted stage and he uh basically
+says there is no way that you can avoid
+super powerful AI killing everyone um
+and as time has gone by I become more
+skeptical of this message um but what I
+want to point out is the little stop
+icon beside his name now there are there
+is a movement of people that will have
+either the the stop symbol or the pause
+logo uh Emoji beside their name and this
+is this is all emblematic of the pause
+movement hell yeah pause I or should I
+say pause Ai and we'll talk uh a little
+bit more in just a second but I want to
+I want to spend a little bit more time
+talking about elazer specifically now
+this is someone who is very highly
+respected he's been on the Ted stage but
+by his own admission he doesn't know
+that much about math or coding what no
+he knows plenty about math and coding I
+don't want to bust out some mad
+credentials but I do actually have a
+bachelor's degree in computer science
+from UC Berkeley and a my in mathematics
+almost double majored and I can tell you
+from my perspective alazard knows his
+mother freaking math okay he's actually
+published papers within meta mathematics
+within formal logic has to do with lob's
+theorem and uh an extension of goal's
+work about systems talking about whether
+they're provable point is this is
+graduate level stuff I actually took a
+graduate level course in it myself it's
+something that I know a little bit about
+and I can just tell you from my
+perspective as somebody who knows a
+decent amount of serious math not a ton
+a decent amount I can tell you I'm
+looking up at Alazar he knows a
+significant amount of hard math that's a
+greater level than mine so I'm not
+saying he's like Terren to I'm not
+saying he's like the biggest math genius
+in the world but he sure knows a lot
+more math than almost everybody I see in
+the whole AI discourse okay and the
+explainers he's written are the most
+crystal clear explainers that have
+helped me relearn some of these complex
+math subjects so I think it's way
+underestimating elzar to just say Oh by
+his own admission he doesn't know math
+and code
+I'm sorry that that's not the case so
+this is really off to a bad start um and
+so his decision framework that lead that
+led him to the conclusion that AI will
+kill everyone is basically his own logic
+David chapiro I've never heard an
+argument from you before this is the
+first content from you that I've watched
+but the argument you're coming out of
+the gate with is that elzar is using
+quote his own logic to make the AI risk
+argument because he quote doesn't know
+much about math or coding that just
+seems like a bad faith way to start the
+argument but go on uh so there is there
+is a movement in modern contemporary
+philosophy which basically says you
+don't need any epistemic or ontological
+grounding you only need pure logic um
+bro there's a giant series on L wrong
+written by Alazar which is titled highly
+Advanced epistemology 101 for beginners
+excellent series by the way so you're
+coming out here accusing Alazar of not
+needing epistemic or ontological
+grounding there's Reams and reams of
+less wrong poost that are explicitly
+teaching you epistemologic and
+ontological grounding for what's to come
+what planet are you arguing from here
+like maybe you're about to bust out a
+good argument but you're tripping over
+the most basic facts about what you're
+arguing against like these are not
+accurate statements to be making about
+alas owski like do a little bit of
+research here and having read some of
+his work like yeah like he's he's he's a
+he's a good rationalist he's good at
+using words to construct arguments Wow
+way to box him in all he can do is use
+words to construct arguments so if all
+you can do is use words to construct
+arguments I guess you definitely can't
+uh
+uh but without any grounding it's
+basically just kind of trust me I used
+my imagination bro um energy all right
+I'm looking forward to hearing some
+better grounding uh and so as and
+remember I'm someone who took the AI
+safety thing very very seriously uh I
+have even written a book about it but as
+more time goes by the less concerned I
+am about AI safety humans are the bad
+guys it's not the machines that we build
+when you look at what AI can do today
+it's not particularly a threat and even
+when you project out what it might be
+able to do and emphasis on the word
+might um you have to make a lot of
+assumptions to say that AI is going to
+kill everyone should we pause AI the
+tldr is no Counterpoint yes what I'm
+referring to here is the pause giant AI
+experiments that came out from the
+future of Life Institute on March 22nd
+2023 so that was what a year and a half
+ago um this was that that Landmark
+letter by Max techark and a few others
+uh that basically said we need a 6mon
+pause now of course that six-month
+window has come and gone which I kind of
+thought that people would like get over
+it um you know by then because pausing
+is what like what what would we achieve
+during a pause um but people are still
+calling for it and I'm like why are
+people still calling for it the best
+justification I heard for the six-month
+pause letter is that we need to prove
+ahead of time that we have this alarm we
+can sound and it'll actually make people
+pause AI because regardless of whether
+you think today is the day to pause AI
+or you need a a stronger warning shot
+maybe we'll never pause AI but just in
+case it does something really scary
+maybe one day we should pause AI we need
+to show that we can pause AI if we need
+to pause AI because that's the problem
+right is we're currently going forward
+without the ability without the
+coordination without the Technical
+Systems in place to pause AI to shut it
+all down across the world to prevent
+further research so we're walking into
+this blind cave with no ability with no
+brakes right we've got a car with no
+steering wheel with no brakes we've just
+got the accelerator and so the six-month
+pause was just supposed to be a symbolic
+wakeup call of like hey guys you may not
+want to pause for 6 months now but
+what's the plan and if there is no plan
+maybe we should be careful and maybe
+being careful starts with pausing for
+six months now because after all there
+has been a breakthrough right now right
+it was around the time of GPT 4 so why
+don't we just study the llms we have
+while building the infrastructure to
+pause now I agree this is all a little
+bit symbolic it's not the most rational
+utilitarian action in the world to do a
+six-month pause so I get it right it's a
+little bit rough I'm not saying that's
+like the ideal plan the ideal proposal
+what came right after it I actually
+thought was a lot more straightforward
+and a bigger win if you remember what
+came right after the six-month pause
+letter was that one sentence statement
+for the from the center from AI safety
+Dan Hendrick I think spearheaded it um
+and that was just saying hey AI is a a
+risk that we should worry about similar
+to worrying about nuclear war and that
+got major signatories on that one
+sentence statement so if they knew that
+that was going to be such a big success
+then I think future of Life in Institute
+probably wouldn't have necessarily gone
+so hardcore on the the six-month pause
+letter right I think we were kind of
+finding our legs under us right as the
+pause AI movement the different
+organizations that were worried about AI
+so you know it was It was kind of one
+thing to get attention and that's I
+think we we need to iterate on it right
+so that's my take on the the six month
+pause letter now I have a pretty strong
+suspicion as to why people are calling
+for it which I'll talk about a little
+bit later in the video uh but my point
+is is that it's been a year and a half
+people are still you know put putting
+the pause icon putting the stop icon um
+as as if this one solution is a Magic
+Bullet uh yeah we still think that every
+day we're still doing AI development is
+a day that we're stumbling into the
+attractor State the point of no return
+and we may already be past that
+attractor state right it may already be
+too late to pause AI even if we try so
+imagine like the road is kind of icy and
+you're like don't worry when I see the
+edge of the cliff coming toward me I'm
+going to slam the brakes but we may
+already have driven onto ice that's too
+downhill sloped that's too slippery that
+even if we slam the brakes now it's too
+late or maybe the ice is starting and
+that's why we need to slam the brakes
+because we might act actually stop
+before we go over the edge of the cliff
+I mean that's the kind of problem we're
+playing right now right or like we're
+playing a deadly game of shuffle board
+where the closer you get to the edge
+actually the better it is right the more
+technology you can have the better
+medicine you can have the better games
+you can have and the the better
+factories you can have so it's kind of a
+game of shuffle board you want to get as
+close as possible without going over but
+if you go over the negative utility you
+get far far outweighs far outweighs by
+many many orders of magnitude right the
+entire sum of the positive utility that
+you got so that's the shape of the game
+that we're playing right now so it's
+kind of weird to me that David shapir is
+marveling oh my God these crazy people
+who failed to pause the eye for six
+months why in the world would they want
+to pause now it's like okay man just
+keep driving on the ice I guess that's a
+smart choice I mean I I don't understand
+their position you know I'm as
+bewildered by them as they are by me so
+the primary arguments in favor of the
+pause is that this is going to be a way
+to implement safety and control
+mechanisms but again we could have
+implemented safety and control
+mechanisms in the interceding 18 months
+and they also tend to act as if that
+like there's been no progress on safety
+and control um they also want us to stop
+and consider ethics um which by the way
+there's a couple of uh machine ethics
+books that I'll put in the uh in the
+description um one is weapons of math
+destruction and the other is I can't
+remember off the top of my head anyways
+um Implement regulatory framework
+societal impact uh addressed power
+dynamics but you know it's like I don't
+really see like some of these sure like
+yes time will will play out but again
+you have to make a lot of assumptions
+about what AI will do just to reiterate
+when I'm advocating to pause AI it's not
+because of this complex combination of
+factors it's really just the simple
+visual that I described of there's an
+icy Road it's getting icier there's the
+edge of the cliff we're playing a deadly
+game of shuffle board we don't know when
+we can stop we don't know how
+intelligence Works we're all surprised
+at how much smarter the AI is getting
+nobody predicted what it would be able
+to do this year nobody's confidently
+predicting what it'll be able to do in
+the next two years or 5 years or 10
+years we're venturing into unknown
+terrain and there's no undo button
+there's no oopsie let me try again let
+me try the next iteration and none of us
+have the intuition for Building
+Technology like this this is not
+analogous to other technology that we've
+built we've never built a technology
+that's surpassing the creators of the
+technology that are building it in
+literally every way is is where we're
+this will go right and so it's it's kind
+of obvious when you spell it out like
+this right you don't have to over
+complicate it that's why I want to pause
+Ai and it's unfortunate that I have to
+tell you hey I want to pause it today
+cuz today still feels good it doesn't
+feel like it's murdering anybody today
+and I agree like it's in a good place
+today I agree but some hacker we don't
+know how quickly the hackers can get it
+from today's state or next year's State
+we don't know how quickly that that ice
+gets slippery and downhill right we
+don't know so today it doesn't seem to
+be more than one or two or maybe three
+decades away until the Super
+intelligence explosion right until the
+uncontrollable State and so hitting the
+brakes now yeah maybe there's a little
+bit of margin of error maybe there's
+negative margin of error I don't know
+but like I think you have to sacrifice
+some margin of error you have to
+sacrifice a decade or or however much if
+you want to potentially preserve the
+next trillion trillion trillion years
+right you have to make a little bit of a
+compromise unfortunately you can't time
+it perfectly so that's my puse AI
+argument just to reiterate what I'm
+trying to say is that this is a natural
+experiment and you can use all the
+forecasting and predictions and logical
+arguments and rational arguments but
+until you have data until you have
+actual data you don't know what the
+impact is going to be at a certain point
+you just need to kind of find out hey
+it's this magic spell that keeps getting
+more powerful I don't know what will
+happen the next time we scale up the
+magic spell and summon something else I
+don't know I guess we just need to find
+out maybe it'll be the end of the world
+let's find out um and this is this is
+one of the reasons why uh particularly
+Western societies have taken a much more
+reactive approach to legislation and now
+I will I will concede that Europe um is
+a little bit more proactive in terms of
+how they approach legislation and
+regulation but at the same time like we
+still need to have evidence-based and
+datab based um arguments and the fact
+that the pause movement is largely just
+rationalist argument-based actually
+really undermines it like you got to you
+got to have some data you got to have
+some modeling in your in your Frameworks
+he's throwing around a swirl of
+accusations here about how rationalists
+argue in this case he's saying that we
+don't use evidence and data we just use
+rationality this other third type of
+thing that's not evidence and data now
+before the words he used to accuse
+rationalists were that we're not
+grounding it in epistemology which I
+pointed out was just factually
+inaccurate given that Alazar owski has
+written extensively on the epistemology
+that he's
+using now in this case let me address
+what he's saying about like oh we're not
+using evidence and data this seems to be
+similar to an article that Tyler Cowen
+published a few months ago saying like
+where are the research papers you know
+where where's the argument how come
+they're just having it on forums and
+they're not mainstream this again
+doesn't seem factually accurate I mean
+there are plenty of research papers in
+any kind of Journal you want you're
+going to see a paper there we've got
+credentials now if you look at you know
+who's signing these pause letters we got
+Jeffrey Hinton yosua Benjo two we've got
+two touring Award winners Sam Alman
+Dario ID right we've got the leaders of
+most of the top AI Labs admitting to the
+threat you know if you want to play the
+credentials game it's just I don't know
+how much I have to repeat myself I mean
+we are doing great on the credentials
+game right there's a lot of Highly
+qualified doomers and there you know
+more of them keep coming out of the VOR
+you've got plenty of senators in
+congress who are AI doomers right I
+mentioned you've got captains of
+industry that are Ai doomers and of
+course you've got the majority of people
+in the world are AI doomers so it's it's
+just kind of funny that some people keep
+trying to like box Us in like oh well if
+you look at somebody who just argues
+based on rationality who's just a nerd
+in their basement maybe they'll be a
+Doomer it's like you're literally
+looking at the majority of people who
+are doomers right this is what a Doomer
+looks like right I need a t-shirt like
+that and put it on like
+everybody uh okay but you know there
+there's another point where if you want
+to be like okay where's the evidence how
+can you have evidence for something that
+hasn't happened Doom hasn't happened yet
+where's your evidence well this is why
+rationalists have done have this whole
+framework on what evidence even means
+right can David chapiro rattle off off
+the top of his head the formal
+definition of evidence I can maybe he
+can I don't know I don't want to make
+assumptions um the formal definition of
+evidence is that which one hypothesis
+explains better than other hypotheses in
+the sense of literally putting a prior
+probability on it higher than other
+hypotheses you know I'm getting a little
+complicated now but the the idea is that
+let's say you have 10 different
+hypotheses that you're considering might
+potentially explain the world might
+potentially compress the world you have
+10 competing hypotheses and they can all
+spit out a predicted probility of a
+particular World State like let's say
+you're about to flick on the light in
+some room and they all predict that
+you're going to see different things in
+the room one of them predicts that
+you're going to see a bunch of gold in
+the room and one of them predicts that
+you're going to see a tiger right they
+all make different predictions so let's
+say you flick it on and you see two
+pieces of gold so the higher a
+probability that they got to the exact
+state of you seeing two pieces of gold
+you then propagate uh an update where
+you multiply it by this thing called the
+likelihood ratio um and you basically re
+W the hypothesis that did the best job
+of saying that reality was going to
+happen it's almost like a prediction
+market so anyway there's a formal way to
+define evidence and then propagate it to
+your hypothesis and then you'll have
+more and more accurate beliefs going
+forward this is called basian updating
+it's a formal structure when people come
+and accuse us of having no evidence I
+covered this thoroughly in the Sayes
+kapor episode from last week I encourage
+you to take a look at that um they're
+usually talking about like a naive
+frequentist definition of evidence of
+like Hey when's the last 10 times that
+the world ended show me like a streak of
+world endings and then like take the
+numerator and denominator like count up
+how many times the world ended which is
+super naive right I I went over a bunch
+of reasons right like you can be a
+turkey who's getting farmed for
+Thanksgiving and you can have a whole
+year where you don't get slaughtered and
+then you get slaughtered so whatever you
+know so if you had 365 days of evidence
+of not getting slaughtered it's
+completely worthless when you get
+slaughtered like something's
+fundamentally wrong with naive evidence
+right so the actual definition of
+evidence is like show me your hypoth es
+and then show me them predicting the
+world State when I'm an AI Doomer my
+hypothesis predict stuff like technology
+is going to advance really fast AI
+companies are going to make a lot of
+money why because my model contains a
+model of Intelligence being this kind of
+General thing that once you get past a
+certain threshold it's General so you're
+going to make a lot of money by doing a
+lot of generally useful tasks stuff like
+that those are details of my model that
+still give my model base points that
+still give my model likelihood even
+before the world has ended because they
+compress my description of reality right
+they explain things that I'm seeing
+efficiently so it's possible for models
+to be winning points even if the world
+hasn't ended yet in fact that's the only
+possible thing right I mean you're never
+going to be able to have naive
+frequentist evidence of literally the
+whole universe getting doomed right so
+anyway I considered a low blow a really
+low blow to you know David's exact quote
+of saying that rationalists don't use
+data and don't use evidence but just use
+rationality it's you know it's it's
+badly worded it's inaccurate and it's a
+low blow it's almost an ad hominy um but
+you know with last year with Sam Alman
+going to Congress saying oh yeah like
+hey I could kill everyone like you that
+that was the level of credibility but
+over time over the last 18 months this
+whole movement has not really been able
+to produce a whole lot in favor of
+saying oh yeah all the things that we
+prophesize and it is a prophecy so a
+prophecy is a faith-based prediction
+about what will happen in the future
+none of it has really come to pass
+faith-based is just such a low blow
+right it just doesn't have the Integrity
+like at this point you're basically
+saying Lon shapira an AI Doomer you're
+using Faith you're not even trying to
+have a reason-based conversation or you
+know I'm trying to understand his
+ontology right because he's tried to
+make a distinction between data and
+evidence and rationality but it's not
+grounded oh but it's faith-based right
+this is like the David chapiro
+philosophical Universe here I'm trying
+to understand his distinctions I'm quite
+confused but I just think he's making
+low blows right like I think he's kind
+of getting close to disqualifying
+himself from serious discourse just to
+start off this low quality and they
+haven't been able to provide any more
+evidence uh to support this prophecy on
+what basis are you saying that doomers
+haven't provided more evidence what
+would the world look like to you if
+doomers had provided more evidence that
+the world is going to end if you just
+look at Social proof we're making
+constant progress on social proof right
+the Overton window is moving more and
+more toward being able to discuss AI
+Doom I mean that we've saw the White
+House Press Secretary taking it more
+seriously right compared to the there
+was like a funny clip where people were
+laughing about it a year ago and then
+there was a clip where people were not
+so much laughing about it right they
+were keeping a straight expression and
+now you've got sp sp 1047 that just got
+out of assembly in in Congress right so
+you've got serious bills happening it's
+like a regular discussion you know the
+protest movement is slowly gaining steam
+so in terms of the social proof aspect
+the the ball is definitely rolling right
+it's it's certainly not slipping back
+it's not the issue is not fading out
+it's growing stronger right now of
+course I would never tell you hey social
+proof is why you should be convinced
+about AI Doom that's not what we're here
+on Doom deat to do but it is one
+dimension right if if we weren't doomed
+it would certainly be a point in the
+favor of the non dumer it would be
+actual evidence to see the social proof
+going the other way it would be one bit
+of evidence if not a complete knockdown
+argument um but let's talk about the
+actual observations right so we're
+seeing models get better we're seeing
+observations like hey the math Olympiad
+the the IMO right we just it just got
+silver medal second place in IMO this
+was literally something that Eleazar and
+Paul Cristiano made an informal bet
+about where Paul Cristiano said the odds
+are like 4% and elezar said the odds are
+16% something like that like you know a
+smish difference but it was literally
+the only thing that they managed to
+compare a difference in predictions in
+and elazer is now much closer to being
+proven right I think maybe he said gold
+and not silver but the point is like
+this is the kind of observation this is
+where the rubber meets the road if you
+want evidence right look at distinctions
+like that between what the doomers are
+saying is going to happen Year bye and
+what the non- doomers are saying is
+going to happen year by year the doomers
+aren't saying that much is going to
+happen differently year by year so these
+predictions are actually hard it's hard
+to make that fine Distinction on a
+year-by-year basis because most of what
+the doomers claim is a conditional
+prediction of if AI becomes super
+intelligent and better able to maneuver
+the world like better able to navigate
+causality to make strategies over the
+domain of the physical Universe if it
+gets the mental capacity to play the
+universe as a video game better than the
+smartest humans can then conditional on
+getting to that state then we will be
+doomed right it's like an if then and
+the problem is we don't have the if and
+the reason I'm here talking to you is
+because we don't have the if right the
+moment we have that if condition the
+internet will shut down and I won't get
+to make an episode of Doom debates
+unfortunately right so it's hard to look
+at the world before the precondition is
+satisfied and be like okay are the
+doomers right are they making an
+accurate prediction that's why elazar
+yaski and Paul Cristiano Paul took the
+non- Doomer side and he said I bet AI
+won't advance so fast that it'll beat
+the IMO in the next few years and Alazar
+said it did and currently reality looks
+like it's hitting on the Alazar side
+that's just a small bit of evidence
+right it's hard for us doomers to make
+these super empirical tests before the
+precondition is met of hey when AI goes
+super intelligent then we're doing
+because that's my strongest prediction
+that's the strongest thing that can give
+me base coins so if you really want to
+prove me wrong if you really want
+reality to say that Lon is wrong then
+get us to a point where the AI is you
+can input some future state that you
+want the world to get in the AI will
+tell you how to get there and yet the
+world doesn't end for Humanity right
+which of course that's a tall ask but
+that would really convince me right so
+if it's if we're talking here in 20
+years and I'm recording an episode of
+Doom debates and AI is able to make
+these really good plans that humans are
+like wow I couldn't have thought of that
+plan that's a great plan that's a great
+mil military plan that's a great
+scientific plan if the AI can get there
+and we're still here talking at that
+point then I hope that I'll have the
+Integrity to at least be like you know
+maybe I wasn't 100% wrong but I was like
+very wrong right one of my most
+important predictions my most solid
+prediction that we can't survive a
+superh human planner a superh human goal
+achiever if that prediction is is that
+starkly false I hope I'll have the
+Integrity to come over here and and
+admit that right instead of trying to
+like change the subject I hope I'll be
+like here's a massive update a lot of
+the stuff I was debating about I was way
+off base okay I will have the Integrity
+to tell you that but today in 2024 I
+don't get what David is saying of like
+oh the doomers haven't provided any
+evidence like we do see little bits and
+pieces here and there of like okay you
+trained an AI like sure enough it
+thought of ways to manipulate humans
+because manipulating humans is logically
+what an AI would do I mean what would it
+look like if you did see Doom evidence
+short of like oh wow the world has
+started exploding like I I don't know
+what he's expecting and he's not being
+rigorous it's very easy and a very low
+blow to just be like look everything is
+great and the doomers are doom me and
+the world isn't Doom me so the doomers
+are having faith and also the end of the
+world that's religious everybody's
+talking about the end of the world must
+be religious I mean this is just
+dumpster diving stuff David okay so let
+let's try to do better so those are the
+primary arguments in favor uh now the
+impact though this is really interesting
+because uh when when this gigantic
+letter and everything else uh came and
+there was also what was it the 22w
+statement that like AI should be treated
+treated as an existential threat it's
+like this is this is the shortest letter
+possible um they have had their impact
+um you know they they ra they raised
+awareness you know Sam Alman and Gary
+Marcus went before Congress and said AI
+is going to kill everyone um you know
+elazer owski got on the Ted stage and
+said AI is going to kill everyone um and
+then like that's it you know we've got
+the public awareness we got the support
+we got the criticism we're getting there
+but we don't have the public awareness
+the public awareness will be when the
+average person on the street when you
+ask them hey what's the most important
+or maybe the top three even the top
+three policy priorities right now of the
+world or of your government and they
+better list pausing AI or regulating AI
+or or something like that other than
+that if they're not doing that while
+experts are predicting hey 5 to 20 years
+until super intelligent Ai and they're
+not even saying that AI regulation is a
+top priority or maybe preparing to
+address the onslaught of AI like
+something about AI if that's not in
+their top three priorities then we
+haven't raised awareness right the
+person on the street isn't quite there
+but we're getting there it just it just
+needs to happen as fast as possible
+which is why I'm here right I'm helping
+on the awareness raising effort but go
+on um we've even had had you know an
+executive order uh the longest executive
+order in history on AI we've also had
+several uh Landmark legislative and
+Regulatory packages the UK AI act the EU
+AI act um California what is it Senate
+Bill 1048 or 1049 something like that so
+we've we've we've they they won they got
+they got their point across and it's
+time to move on but we're still burning
+the last wall that we have that's
+separating the present from the
+existence of super intelligent AI the
+problem is getting more and more dire
+every day now what I wanted to also add
+is that there are ongoing like efforts
+so the active pause efforts there's been
+protests um there's been legislation
+that I mentioned um I was actually not
+even aware of the protests um until I
+did a little bit of research for this
+video uh but like yeah there were there
+were protests shortly uh sorry a few
+months ago wait you're telling me
+somebody would go out and protest to
+pause AI like shout through a bullhorn
+what do we want
+when do we want it later do we want it
+next week no do we want it next year no
+do we want it in a deade maybe to demand
+stricter AI regulations and of course uh
+with the uh with the Hollywood riter
+strike over AI um no it wasn't entirely
+AI but that was that was one of the
+Keystone uh points being debated um you
+know there's been a few events there was
+the Deep fakes of Taylor Swift There was
+the Hollywood riter strike so there's
+been a few other things where where
+people are pushing back against Ai and
+that's fine but that's what I mean that
+is the organic process um what what
+really concerns me about the pause
+movement is that it's a small but vocal
+minority that basically says trust our
+logical reasoning trust my imagination
+and give me control of this narrative um
+if the data was there the data was there
+and they would present it but they don't
+have the data all they have is logical
+arguments and that's that's that's a
+beginning of a debate but what what
+really happens is uh events real real
+life events with real life people and
+real life data needs to be collected
+that's how science works that's how
+legislation Works uh so yeah that's
+that's my that's my ongoing criticism of
+the pause efforts so when a Hollywood
+writer is protesting AI it's because
+they have enough evidence that the AI is
+going to take their job so they've
+reached a threshold where they can say
+hey it's close enough to taking my job
+that I'm worried even though it hasn't
+taken its job yet so they have a short
+enough timeline where it's okay for them
+to predict that something that hasn't
+happened yet is going to happen that's
+epistemologically valid for you but when
+a Doomer says Hey AI is going to be more
+powerful than humans and humans don't
+know how to control it suddenly that's a
+massive leap it can't be justified it's
+just my own view man right and of course
+you can turn it around and you can be
+like okay what's your counterargument
+right so it's it's this common thing
+it's the appeal to a default or the
+appeal to a reference class he's in this
+position where he thinks the burden of
+proof is on the other side but of course
+these are symmetrical things from the
+perspective of actual epistemology
+there's no such thing as the burden of
+proof every hypothesis can be in your
+set of possible hypotheses you can have
+a prior probability you can have a a
+dist a probability distribution based on
+aam's razor but it's not aam's Razer to
+think that super intelligent AI won't be
+more powerful than Humanity it's not
+aam's Raz it's not a more compact
+description to say that humans
+maintaining control forever is a more
+parsimonious explanation of what's going
+to happen when we have super intelligent
+Ai No so aam's razor isn't something
+that you can appeal to so why do you
+think you're appealing to a default I
+think intuitively what I typically hear
+is like well we're on a good Tech Trend
+right we're on a good human progress
+Trend so that trend is going to continue
+but the problem is if you zoom out if
+you look at like all of history there's
+constant extinctions you've got like the
+medieval period right things kind of go
+backwards compared to ancient Greece and
+ancient Rome right civilization went
+backwards for a while so you don't
+necessarily have an upward Trend right
+or you have you know the asteroid that
+killed the dinosaurs so that was the end
+of the line for dinosaurs so now you
+have to zoom out and you could argue
+like oh well life in general finds away
+so it's just like wait what's your
+reference class again what's your
+default again you really can hold up a
+mirror to the kind of vague statements
+that David's making about like oh they
+don't have data they don't have you can
+hold up a mirror and you can be like
+okay the non- Doomer claim the claim
+that building super intelligent AI is
+safe what's the data and evidence for
+that it's in the future you can't
+predict it right so we all agree that
+we're reverting to some kind of default
+and now we're fighting over what the
+default is so now but it's a very
+important fight so let's have the
+default fight what what are the terms of
+fighting over what the default is how
+about rationality how about formal
+structures of of epistemology like the
+idea of modeling Basi and priors
+modeling basian updates modeling
+epistemology right like teaching
+somebody how to do epistemology and very
+formal robust way not just an intuitive
+way Oh you mean the thing that elzra
+owski has been pioneering for decades oh
+is that maybe a good tool to have this
+debate oh good thing somebody created
+the tool right good thing somebody in a
+certain position also had the foresight
+to create the intellectual tools by
+which to have the debate if you want to
+have the debate well you know now
+speaking of arguments uh for or against
+I feel like I I am doing my best to give
+it a fair Shake in favor of the pause
+argument this part was you doing your
+best when you said it is a prophecy so
+about what will happen in the future I
+wouldn't call that part a fair Shake but
+anyway but let's talk about arguments
+against the pause argument so number one
+it's impossible to enforce and even even
+the exponents of the pause argument said
+oh yeah this is wildly ineffective like
+it's not possible to enforce it and they
+know that they did it out of a sense of
+hyperbole I mean it's not completely
+impossible to enforce right so the idea
+is we get on it we start trying our best
+we start putting radio receiver chips
+together with the gpus we do something
+right we make an attempt to Monitor and
+control we we make it illegal and then
+we go try our best to enforce it right
+off the bat you get a lot of people who
+want to be law-abiding who don't want to
+be criminals scares them away and then
+yeah you still have people who are
+willing to be criminals because they
+believe in the ideology so much so maybe
+you reduce it by 90% And and it's hard
+to fight the last 10% but the idea is
+that at least buys us a few years and
+yeah it's not enough we're probably
+still doomed anyway but unfortunately if
+you think super intelligent AI is going
+to kill humanity and you also think that
+it's really hard to prevent super
+intelligent AI the solution isn't to
+just give up and let super intelligent
+AI be super intelligent um like I think
+I think it was even Max tegmark who who
+wrote the thing and don't get me wrong I
+have a tremendous amount of respect for
+Max tegmark I read read his book life
+3.0 and agree with him on every count
+but at the same time a global pause
+movement is physically impossible uh you
+know we can't even get Iran to stop
+building its nuclear reactors we can't
+get you know information in into and out
+of North Korea you know like heck we're
+going to be able to create a global
+pause movement that's just not going to
+happen the effort that the International
+Community has made to stop nuclear
+proliferation is basically what I would
+call a success case the closest thing I
+can point to it to success case even
+though the risk of nuclear Doom is still
+super high it's like 1% a year in my
+opinion even then I still think that
+it's been a massive success that it's
+not even higher right I think if nuclear
+proliferation had been allowed to
+continue more then I think the risk
+could be multiple percent per year and I
+think Iran getting a nuclear weapon
+right now if they manage to go all the
+way is terrible right I think it's
+highly destabilizing so pointing to that
+and be like hey look we're almost all
+getting doomed by this thing how are we
+going to prevent also getting doomed by
+this thing I don't know we just have to
+try like I agree it's a terrible
+situation right but it's not like
+letting the Doom happen is better right
+we're we're just screwed here right we
+got to deal with the we got to deal with
+the hand that we got dealt and it's a
+terrible hand so so how does that make
+you not a Doomer to just notice that
+your hand is terrible and so when you
+keep arguing for something that is
+infeasible and ineffective that is
+wasted time and energy and then even if
+you know like we have control of
+ourselves so we we we put on the brakes
+there's it's just a completely
+sub-optimal strategy uh when you when
+when one nation pauses guess what nobody
+else is going to pause they're going to
+say oh you know uh they're going to
+they're going to remember that Napoleon
+bonapart quotation which is um never
+interrupt your enemy when he's making a
+mistake right so you know nobody
+nobody's going to say oh yeah no we we
+we should pause this is why no Nation uh
+even the EU even the UK the US no no
+head of state or no State Department for
+any nation has said oh yeah pause is a
+good idea why because it is a
+spectacularly bad idea from a
+geopolitical perspective and this exact
+same argument you could apply it to
+saying hey stopping nuclear
+proliferation is impossible anytime you
+tell Nations to stop they're going to
+ignore you and they're going to realize
+they should build as many nukes as they
+can and yeah I mean there's some truth
+to that right but at the end of the day
+you still try and we've still succeeded
+to some degree and it was a hell of a
+lot better than not trying compared to
+saying okay we're not going to try it's
+a free-for-all anybody can have nukes
+it's a terrible idea right just think
+about the risk of nuclear accidents
+never mind nuclear war in the case of AI
+there's pretty obvious Game Theory where
+every country can if they just
+understood the doomers arguments a
+little bit better they would realize ah
+this thing is just death to anybody who
+builds it so sure we can progress
+research a little bit and we can make
+our doctors make better diagnosis a
+little bit right we can have short-term
+AI but the moment we get to AGI super
+intelligent AGI we're just all doomed we
+don't get to win we don't get to
+actually use it to win a war we're just
+all doomed AI wins and Humanity loses if
+they could see that perspective I mean
+that's the Crux of the argument right so
+if you're accepting my premise that
+that's the correct inference that we're
+all doomed it's not like the game theory
+says you should build it the game theory
+says everybody needs to run away right
+we're all in this together just like you
+can't win a nuclear war it's impossible
+to win a modern nuclear war with multi-
+megga 10 nukes just everybody's doomed
+the Wind Blows the damn radiation right
+it blocks out the Sun for everybody
+everybody's crops are going to fail
+after nuclear war right there's no it's
+going to be a global collapse right and
+then okay some people on New Zealand and
+tunnels are going to survive but it's
+it's not a good scenario right and it's
+the same thing with AI Doom except just
+everybody dies for for God's sake so if
+you want to talk Game Theory it's not a
+problem of Game Theory per se it's a
+problem of Education it's a problem of
+getting on the same page that the thing
+is a Humanity killer no Nation wants to
+be the one to build a Humanity killer so
+we have to close the knowledge Gap we
+have to close the prediction Gap again
+it's not a fundamentally game theoretic
+problem the way you seem to be framing
+it right now here's another way of
+looking at it so just from a this is
+going to be appealing to the rationalist
+because don't get me wrong a lot of my
+friends are in the rationalist community
+and I have a lot of respect for people
+in the rationalist community so let's
+let's use their own uh method of
+argument against them what is the
+opportunity cost of an AI pause all of
+the resources such as time money and
+Social Capital spent on advocating for a
+pause could be better allocated to
+addressing Nuance safety concerns the
+Nash equilibrium suggests that all
+players should continue advancing
+rapidly as coordinating AOS is impr
+practical successfully pausing AI is
+incredibly valuable I don't know this
+alternative you're describing of
+addressing nuanced safety concerns
+doesn't sound like as big a win as
+pausing AI so now it comes down to the
+probability of pausing Ai and whatever
+that probability is whether it's 1% or
+5% whatever it is that's the only hope I
+see of surviving right I don't see us
+building an AI that doesn't kill us I
+mean there's a small chance right
+there's unknown unknowns but it just
+doesn't seem like that's what we're
+actually building it seems like
+everybody's just wishful thinking and
+being ridiculously Reckless so whatever
+our chances of pausing AI That's the
+only way I can think of where I know how
+to not kill everybody when you know that
+one strategy is dead in the water you
+should pick a different strategy
+unfortunately there's such a thing as
+being stuck between a rock and a hard
+place when you know that one side is a
+rock that doesn't mean you have to move
+to the hard place because the hard place
+is also a hard place so then by your
+logic now I have to move back to the
+Rock and then I have to move back to the
+hard place at some point I have to pick
+between a rock and a hard place you see
+and so it's led me to wonder and this is
+actually why I'm making this video is
+because there are plenty of very
+intelligent
+very well-connected people still out
+there some of which are my friends some
+of which are you know that are people
+that I just see on online um that are
+wasting time and energy and cognitive
+Cycles on the pause argument uh we have
+better ways forward we we know what we
+can do in order to uh advocate for
+safety the pause movement had its it's
+its 15 minutes but it's time to really
+move on again I don't get this framing
+unless the average person on the street
+is saying oh yeah we should really be
+pausing AI or pausing AI is one of the
+most important issues of our day until
+we get there we haven't had our 15
+minutes man I have not yet begun to
+fight and so from from just a a pure
+rationalist argument
+perspective every moment of of airwave
+uh every tweet about the pause movement
+every video every debate is he talking
+about me every blog post that mental
+energy could have been committed towards
+constructing a more nuanced
+more Progressive and I don't mean
+Progressive in the political sense but I
+mean Progressive in like something that
+has caught up with the times uh
+constructing a better argument and and
+creating a better coordination mechanism
+um rather than just the monotropic AI is
+going to kill everyone so turn it all
+off nobody believes that and the longer
+that people keep saying that the longer
+that that AI safety people say AI is
+just going to kill everyone turn it off
+like kind of the crazier they look like
+the more fringed that they look it's
+always nice to get drive by public
+relations advice from people who don't
+seem to understand our thought process
+or our priorities and hope that we'll
+fail but I appreciate the thought um and
+I'm kind of embarrassed for them because
+whenever I talk to Industry insiders
+they're like yeah that's not happening
+like they literally are like behind
+closed doors the pause people are being
+laughed at and like that kind of hurt
+like I it hurts for I hurt for them I
+I'm help help me help you I am trying to
+help here there's no doubt in my mind
+that there's been all kinds of rooms
+where people are laughing at POS folks
+there's also no doubt in my mind that
+there's been many of these private rooms
+where people are talking about how
+scared they are and how they wish the
+Pai folks would have a bigger influence
+there is rooms of all types the world is
+a big place the industry is a big place
+and so if you want to try to get an
+aggregate impression of what people as a
+whole think well we have tools for that
+such as surveys and letters with a lot
+of prominent signatories if you look at
+those sources of information you see
+that there is a clear Trend and even a
+clear majority among the people in
+surveys if you're looking at the people
+as a whole who are doomers okay so
+you're now kind of casually appealing to
+like aha this group of Industry insiders
+that I'm thinking of think that paii is
+a joke but I mean the easiest thing to
+point to I'll say this every chance I
+get is Jeffrey Hinton yosua Benjo and
+the leaders of the AI Labs most notably
+Dario amade but you've also got Demis
+aabis Sam Alman even to some degree
+certainly people who work for Sam Alman
+like or at least used to work right Yan
+Lakey John schan acknowledges the
+problem to some degree so these people
+don't seem to be laughing or else they
+have extremely low Integrity to be
+acting like they're taking it seriously
+but then you're also asserting that
+they're laughing I don't think they're
+laughing right so again I I got to chalk
+this up as another low blow very very
+low blow from David chapiro to just bust
+out oh people are laughing okay Mr Data
+and evidence right you think an anecdote
+about some people and some room laughing
+that's what you're going to throw out in
+your in your YouTube video trying to
+educate people about paii that's some
+people are laughing yeah not 100% of the
+world is convinced we need dep pause AI
+That's why we haven't done it yet but
+again look at the trend look at actual
+data look at Aggregates the Aggregates
+are in our favor so let's talk in terms
+of Aggregates and then better yet let's
+talk in terms of the arguments which is
+why I invite you to come on Doom debates
+and have the actual argument tell me why
+you're a non Doomer tell me why you
+think super intelligent AI is going to
+go just fine let's have that
+discussion so what are some of the
+Alternatives that we're talking about uh
+number number one I mean it's I I feel
+like I'm preaching to the choir here
+particularly with my audience
+emphasizing transparency accountability
+and public private Partnerships that
+means more transparency between
+corporations government universities and
+other nonprofits and third parties um we
+can we can get the benefits of AI um and
+minimize the
+harms we can invest more in uh
+researching mechanistic
+interpretability uh which I don't even
+believe that that's necessary for AI
+safety but a lot of people seem to
+believe that it is and I don't think it
+would hurt to have mechanistic
+interpretability but again advocating
+for those individual Nuance things
+rather than the more hyperbolic just
+just shut it all down like that's just
+not going to work so if we go back to
+the analogy of like you're driving your
+car it's dark it's foggy you're starting
+to see some ice on the road you think
+that there's potentially the edge of a
+cliff coming up you don't know exactly
+where it is so he's saying look don't
+just slam brakes now for safety because
+the stakes are so high what if we just
+work on building a little bit more
+traction for the tires not that much
+more traction like they'll probably
+still slip on the ice but just like
+build a little bit more traction that's
+like a realistic goal that's the best
+you can do just a little bit more
+traction for the
+tires and I mean I I guess if the option
+is that or nothing sure but The Prudent
+option given the stakes is still to just
+boss right and it's it's just that is a
+a pretty bad consolation prize to work
+on a little bit more traction that's
+still not going to cut it for the ice
+right so it's a matter of degree I mean
+if these other Alternatives you were
+proposing like oh my God more
+transparency if more transparency or
+more mechanistic interpretability was
+actually going to prevent super
+intelligent AI from going uncontrollable
+and dooming the world then great then
+I'd say yeah let's compromise and work
+on that but it's just it's not enough
+it's a matter of degree we're so
+outmatched right now it's so intractable
+to hope that AI is going to go well
+humanity is going to be such a weak
+force compared to you know a grownup
+intelligence the first time the universe
+has seen what an intelligence really
+looks like right I mean there's there's
+different levels to this game of being
+in intelligence like we we keep
+forgetting that right that's I I come
+back to that point a lot right is that
+like our feeble human Minds like all
+working together for a long time with a
+lot of resources are barely getting it
+done running the world right so we're
+about to just be so vastly outmatched
+that unless we pause AI I just don't see
+much of a hope that's why I keep coming
+back to pause AI uh so there's plenty of
+Alternatives and I would rather spend
+more time researching Alternatives such
+as what I call axiomatic alignment um
+which if you've watched my channel for
+any length of time uh you'll you'll
+you'll remember this term so axiomatic
+alignment basically says let's find what
+is axiomatically true between human
+interest and machine interest and align
+to that um basically kind of where I'm
+at on this argument is that AI is going
+to force Humanity to align itself um and
+I'll actually be writing a pretty
+extensive substack article about that um
+it'll be called I think it'll be called
+the fourth narrative so anyways hop over
+to my substack and And subscribe so you
+can see that when it comes out uh but
+anyways there's plenty of Alternatives
+um the this Doomer Narrative of the sky
+is falling is is getting old and it's
+not helpful I haven't followed David so
+I don't know what he means by axiomatic
+alignment I do think that when we pause
+AI we have to be buying time to do
+something else because we're not going
+to buy an infinite amount of time we're
+probably only going to buy a few years
+right maybe a couple decades that seems
+like a best case scenario of how much
+time we could buy by pausing AI before
+secret underground researchers are going
+to make a bunch of progress anyway and
+get to Super intelligence so we better
+use that extra time wisely and again I'm
+not familiar with David's use of the
+term axiomatic alignment but if you look
+at the the Miri program the machine
+intelligence Research Institute the type
+of research that they've done in the
+past it's axiomatic you could use that
+term axiomatic probably not in the same
+sense as David but you could talk about
+they're talking about foundations of AI
+alignment I call it intelligence theory
+like what does it mean to be an
+intelligence how does one analyze an
+intelligence well we can analyze it as
+like wow this goal is getting hit in the
+space of possible Futures this somehow
+the future is being squeezed toward this
+goal that's the kind of observation that
+you make in the field that I would call
+intelligence science you don't even have
+to think about the algorithm that hit
+the goal it's just interesting to
+categorize goal hitting algorithms and
+then draw implications of them such as
+if an algorithm is not goal oriented it
+might stumble into being goal oriented
+but not vice versa there's kind of a
+one-way Street a one-way attractor
+toward algorithms getting more goal
+oriented that's the kind of Insight you
+get when you study intelligence science
+so anyway it's just um I'm just riffing
+on this term axiomatic alignment to make
+the connection to like I do think a
+bunch of people should be working on
+fundamental principles of intelligence
+and what to expect when we have a really
+strong intelligence and how we could
+possibly hope to load goals into such an
+intelligence right how do we solve the
+inner alignment problem the problem of
+having it do the thing that our our
+function actually wanted it to do
+instead of like learning how to pass our
+tests without learning our true complex
+function like things like that are quite
+fundamental they're open problems right
+now we don't know how to load goals into
+the AIS that we're building we're
+building them anyway so yeah I mean look
+this parallel track has to happen but it
+doesn't mean there I wouldn't say don't
+pause AI work on this parallel track no
+I would say you have to do both you have
+to work on the parallel track and you
+have to pause AI like not pausing AI is
+just a terrible move any way you slice
+it and even even many of the even like
+some of the some of the podcasts that
+I've been on already have a more nuanced
+conversation um but yeah so just just
+let's move on folks I would like to move
+on from not pausing AI it's time to move
+on toward pausing it see framing is
+everything another thing is regulatory
+capture so the revolving door between
+big Tech and government raises questions
+about oversight and accountability this
+has only gotten worse since open AI
+restructured their board of directors um
+now you might be wondering like why am I
+bringing up regulatory capture in the
+pause argument who benefits who benefits
+from from this pause narrative uh you
+know put it put it this way um if open
+Ai and Microsoft and Google and meta um
+are the only ones at the table saying oh
+yeah AI is going to kill everyone you
+need to regulate it and by the way ask
+us how to regulate it um I have been
+very suspicious of the Doomer Narrative
+of the AI is going to kill everyone the
+skies falling um shut it all down
+argument because it plays directly into
+the hands of corporate interests and I
+know for a fact that many of my friends
+in the AI safety Community they are not
+necessarily in favor of you know
+corporate power anyways um I'm not
+saying that they're all you know burn
+the corporations down arisaka is evil as
+well corporations need to be there but
+but my point is is that the
+conversations that I have behind closed
+doors are far more nuanced and we need
+to take into account the entire picture
+the the entire picture includes talking
+about regulatory capture it includes
+talking about geopolitical
+uh contention around uh these issues um
+and that means looking at the
+possibility for another arms race
+another cold war or even another hot War
+um between uh great Powers so you can't
+just say AI might kill everyone in the
+in the distant future therefore throw
+everything into chaos today uh that's
+kind of my that's kind of my my chief
+message here why are you misrepresenting
+the Doomer Point nobody's saying AI
+might kill everyone in the distant
+future were saying if you look at expert
+timelines roughly they cluster around 5
+to 20 years I personally like to widen
+my interval to more like 1 to 30 years
+in that timeline AI is going to go super
+intelligent in the sense of being able
+to achieve goals better than Humanity
+doomers think that that's incredibly
+dangerous and also irreversible so we
+see a short-term risk we see a risk in
+this generation that all future value
+will be extinguished permanently you
+just characterized my position as
+warning that AI is going to kill
+everyone in the distant future why would
+you do that why would you not
+characterize the other side on such a
+basic
+point now speaking of um this is
+something that I added to this slide
+deck last minute because as I've been
+paying more attention to the space I
+realized that a lot of the Twitter
+accounts that have the pause icon after
+their names are only a few months
+old and then I took a closer look and I
+said oh yeah I see what's going on here
+um the there are troll Bots out there um
+whether they're AI powered Bots or human
+powered Bots doesn't matter there are
+bot accounts there are troll accounts
+that are in favor of the pause movement
+and that was like that's what really
+galvanized me to just make this video to
+say look if there are troll troll Farms
+out there that are in favor of the pause
+movement that's really kind of all you
+need to know about it that's all you
+need to know about it surveys show that
+most people are worried about Extinction
+risk from super intelligent Ai and
+experts are worried too I don't want to
+say most experts necessarily because I'm
+not sure but certainly at least 20 or
+30% of experts are saying hey this risk
+looks significant that's why so many
+people across industry and across
+Academia signed that statement on AI
+existential risk last year not the posi
+statement but the hey this seems like a
+big risk comparable to nuclear weapons
+and should be taken seriously you keep
+slipping back into arguments from lack
+of social credibility and I keep
+reminding you no there is lots of social
+credibility and the amount of social
+credibility that's it's having has been
+on a growing Trend so if there's not
+enough for you today wait till tomorrow
+you'll probably see Jeff Hinton get even
+more adamant for instance you know he
+recently said that his personal
+probability of super intelligent AI
+going wrong is more than 50% but to be
+fair he's updated it downwards to more
+like 10 to 20% because he's listening to
+his friends but a world leading expert
+his independent component of probability
+is greater than 50% so again I just have
+to bring you back to the real social
+proof because when you come here and say
+hey there's paii bot accounts that's
+everything you need to know no that's
+it's not everything you need to know why
+would you say that why are you saying
+stuff like that people look to you to
+guide them on how they should be
+thinking about AI it's not everything
+you need to know if somebody makes a p
+iBot account oh and one more thing I've
+never seen a p iBot account I literally
+have no memory of ever seeing somebody
+tweet something where I click on their
+account and I'm like who is this what a
+recent account what they seem to be a
+bot I've personally never had that
+experience and obviously I'm in the POS
+sphere so I don't know what you're
+talking about but I'm more than happy to
+grant that somebody somewhere has made
+an army of pause AI Bots I just don't
+see why you're acting like that's some
+sort of big gotcha that should sway
+people's beliefs it's not um and what I
+what what what I really hope that this
+video does is shine a light on that
+because there are plenty of great people
+who sincerely believe that slowing
+research down the D cell movement
+whatever you want to call it would be a
+good thing but consider why adversarial
+Nations might be amplifying that
+narrative uh that is cause that for me
+that is cause enough to uh raise the
+alarm and pause and reflect on what is
+it that this movement is actually doing
+is it muddying the waters is it actually
+doing anything helpful um at this point
+I think that there's an AstroTurf
+movement um to either reinforce or
+reinvigorate the pause movement can't
+help noticing a contradiction where at
+first he's saying you guys had your 15
+minutes pause AI is dead the message of
+puse AI just isn't resonating and now is
+like if you notice that the puse AI
+message is really out there resonating
+like seems like it's everywhere well
+that's just bot accounts it's like okay
+well let's double down on it then
+because you yourself were trying to help
+us out that maybe pause is a good tactic
+as long as the message resonates okay
+well let's keep resonating it again I've
+never seen these POS bot accounts I
+certainly have never programmed one I
+don't think it's worth the effort to
+program a bot account of course I'm not
+even going to mention the incentives on
+the other side and why there's probably
+bot forms on the other side and there's
+corporate interests on the other side
+I'm not here to talk about that BS Doom
+debates is just pointing out why puse AI
+is a good policy and why AI is going to
+kill everybody right I just think it's
+it's such a core issue it's such a
+strong argument that I think it's a
+waste of breath to be like whose
+incentives are to say what try to
+survive focus on that there's no need to
+go meta and and talk about incentives I
+certainly won't um but yeah if you go if
+you if you notice those accounts out
+there on Twitter with the stop or the
+pause icon check and see how old they
+are and see how small they are and it's
+like this is someone who's acting like
+they're an authority but they've only
+been on Twitter for a few weeks or a
+couple months hm seems kind of sus to
+me so yeah I just wanted to call all
+this to your attention um my final thing
+is is like let's let's move on um the
+pause is an overly simplistic solution
+that fails to address the complex
+challenges of AI safety and may do more
+harm than good the awareness has been
+achieved it is an overly simplistic
+solution it's potentially harmful and I
+don't mean just to the AI safety
+movement itself um I have been on
+Twitter saying that the AI safety
+movement does appear to be cannibalizing
+itself um because of the narrowing
+status games um and the purity testing
+going on so the AI safety movement is
+losing credibility um by the way
+whenever I talk to to academics and and
+and Commercial insiders um there are
+better strategies that we can that we
+can employ there are better narratives
+that we can engage in or maybe we need
+to craft entirely new narratives either
+way it's all just a sign pointing that
+it's time to move on so I hope that this
+video has the uh desired impact but
+thanks for watching have a good one
+cheers just to reiterate what we talked
+about he says pause AI has had its 15
+minutes and it's played out I disagree I
+think it's a growing movement I think
+momentum is on our side he's saying that
+it's not going to work as a solution
+it's too simplistic I do agree that it's
+too simplistic and that we need to do
+something else too but it's table Stakes
+like pausing AI until we have time to
+figure something out figure out how to
+make safe super AI or else not make it
+at all that's table Stak so it needs to
+be pause Ai and not pause AI or there is
+no or we really have to pause AI if we
+want any hope whatsoever of surviving
+and then to his last point trying to
+play the social proof card because he's
+gone into rooms and talked to certain
+people who have laughed at yeah we know
+who it is man Yan laon okay we know
+these people exist Yan laon laughs at AI
+enough for everybody right he he's in a
+room laughing every day so just Yan Leon
+is single-handedly responsible for
+hundreds of closed door conversations
+where some is laughing at Ai and that is
+why you need to zoom out and look at
+where the movement is going as a whole
+look at where expert opinion is going as
+a whole look at public opinion and
+there's no doubt that it's getting more
+and more mainstream luckily thank
+goodness it's getting more and more
+mainstream to acknowledge that this is a
+real problem and serious people have to
+solve the problem you can't just ignore
+the problem it's not just going to go
+well unfortunately as this podcast
+reveals the arguments on the other side
+are not confidence
+inspiring okay I think that's all there
+is to say um but I want to extend an
+open invite to David Shapiro seem like a
+smart guy and I would love to just talk
+about our our different views I think
+you might be talking with yup from paii
+if so that's amazing and I hope that's a
+great conversation but you're also
+welcome here anytime on Doom Deb baates

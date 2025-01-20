@@ -1,0 +1,2524 @@
+this sounds kind of uh stupid or cliche
+but like the the good guys do build the
+strong AIS first aren't we going to get
+a situation where llama 3 point whatever
+right is a missile that you can just
+point at any goal and it'll go right
+isn't that kind of where we're heading
+yeah that's entirely possible I have
+studiously tried to not have pedum
+because
+hey everybody Welcome to Doom debates
+today I've got a very special guest if
+you're watching this show you probably
+don't need me to read his introduction
+but here it is anyway run is a member of
+the technical staff at open AI he is a
+highly respected voice on Tech Twitter
+despite being a pseudonymous cartoon
+Avatar account in late 2021 he invented
+the terms shape Rotator and word cell to
+referred to roughly visual spatial
+mathematical skills versus verbal skills
+and then everyone in the tech industry
+started talking about shape rotators
+versus words cells he is simultaneously
+a serious thinker and Builder and a ship
+poster a few months ago he posted a
+tweet that began being afraid of
+existential risk from AI progress is
+prudent and advisable which sparked a
+doom debates listener named Dogecoin
+wins to suggest that he come on the show
+and he graciously agreed
+so here we are I'm excited to learn more
+about run his background his life and of
+course his views about Ai and
+existential risk hey R welcome to the
+show hello how's it going nice to meet
+you Leon yeah great to meet you too I
+got to say I didn't know what you were
+going to look like you look just like I
+imagined that's great to hear you know
+that that that Avatar Carlos I picked it
+I I want to say in like 2021 or 2020 or
+something he's uh he's just kind of a a
+smug Troublemaker even in the cartoon
+he's he's getting off shitty jokes and
+uh his classmates sometimes want want
+him to shut up sometimes like what he's
+saying so I think he's a a good
+representative I hope uh I hope we came
+across
+well yeah yeah I know Carlos from Magic
+School Bus I wasn't a big Magic School
+Bus guy I was more of a Nickelodeon kid
+but I definitely I remember that era of
+Animation it was good
+times yeah so let me get some uh basic
+questions out of the way here just the
+basics what is your name what is your
+quest what is your favorite color and
+you don't have to answer those in
+order um okay I'm
+run I my quest huh
+okay I guess it would be to document
+this era in the Advent of the deep
+learning
+Singularity of San Francisco of the AI
+spere and to be a narrative voice that
+it's honestly lacking I would say like
+maybe the niche has been filled somewhat
+but I would say that especially two
+years ago I don't think that anyone was
+covering what was going on here in like
+the Titanic scale of the ambition of the
+AI industry and the tech industry
+generally uh with the right kind of
+language the right kind of metaphor and
+whatever um and you know I didn't set
+out with any particular mission in mind
+but I think that kind of became mine for
+a while um I still kind of see it that
+way to you know like document this epic
+this this Saga uh
+and you know like write my write write
+on Twitter maybe write a book one day um
+and maybe to use my voice to influence
+the world in a slightly positive
+direction however marginal it might be
+um you're kind of like the Michael
+Lewis yeah I I got to be honest I've
+taken a lot of uh inspiration from
+Michael Lewis and uh AGM who wrote chaos
+monkeys um
+yeah yeah chaos monkey great book you
+know the reason I ask about your quest
+is because I remember when you were
+going back and forth on Twitter with
+Connor Ley I think you mentioned
+something about you know you see it as
+your duty to do the kind of job you're
+doing now uh can you unpack
+that um yeah and I want to say it's like
+it's complicated I don't necessarily
+endorse that the things I said in that
+thread like 100% or like yeah I'm quite
+young my philosophy on life is has been
+sort of plastic and not fully shaped at
+any given time but I would say like the
+thing I was feeling at the time the
+thing I was channeling was this basic
+feeling that AI progress is good that
+you know we've done all this thinking
+we've done all this meditating on risk
+on how how best to build AGI how to
+safely do it while uh navigating some
+labyrinthine Maze of like constraints of
+game theoretic
+considerations
+and you know like where does the bar
+stop like how do you decide your actual
+next action um and it's
+like what are you doing like pure
+economic rational
+calculation um it can actually be like
+debilitating
+and I think what I was talking about in
+that threat is like to put aside anxiety
+once in a while till I
+um accept something as Duty accept a job
+or a mission or something like that as
+Duty
+uh which is I think what that means is
+like set aside the existential anxiety
+and do what is exactly correct for you
+to do in the moment um and what that
+means is that you know you
+are using your maximal technical skill
+in any given moment to do the right
+thing without fear of
+outcome um like what do I mean by that
+you know like you're you're working on a
+project let's say like it's ambitious
+deep learning research road map or
+something like that
+um you obviously don't know ahead of
+time what is going to succeed otherwise
+it wouldn't be research um but if you
+spent all your time worrying about
+whether the project is going to work um
+you might actually be debilitated from
+actually giving it your all uh to you
+know output the maximal technical skill
+that you have in you to get that thing
+done um and that actually closes the
+envelope of possibilities you have in
+front of you uh so I was I was doing
+like I don't know I was waxing
+philosophical on that thread and I
+thought I met Conor lady actually I had
+a a great chart with him I think he's uh
+one of the like smartest people I've met
+so yeah he's amazing yeah that was an
+awesome conversation and I remember at
+the end after Connor had some really
+sharp replies you're like man and he
+really cooked me so you know that's
+that's great that you're able to you
+know concede some points or at least
+like respect you know another high
+intellect yeah you know I was partly
+being theatric I don't I don't actually
+think like uh I I thought we both had
+some great points in the thread I
+wouldn't say that you know I just kind
+of defer that one to Connor but yeah
+cool okay um and so I the part that I
+was a little curious to unpack that was
+just like you know going back to your
+life in like 2021 or a little earlier
+before AI became the big hype um did you
+see your life as this kind of Duty frame
+right where this is like your life's
+Mission I'm just a little curious to go
+back to that absolutely not no um I was
+just having fun um well okay so I mean
+I've had a always had a
+strong you know technophile frame on
+things like I think
+I've had many different what do you call
+it like political Awakenings or like uh
+I guess when I was in college I I
+changed my politics a few times let's
+say but each time I would say like the
+the ground truth was like which of these
+things leads to quicker faster better
+technological progress um so I've always
+had a strong sense that that's like you
+know maybe the dominant term in a lot of
+planning a lot of
+calculation um cool but I yeah I
+certainly wasn't sh had posting on
+Twitter out of a sense of Duty it was
+just fun it was a great time and
+especially I want to say like during
+covid the energy on Twitter was just
+insane because yeah obviously like there
+was a lot of smart people cooped up
+indoors not yeah uh able to get their
+intellectual stimulation in a normal way
+so there was like Twitter spaces and
+like jokes and Clubhouse Clubhouse and
+uh yeah a great time not enough has been
+written about that time honestly I mean
+okay of course it was also a terrible
+time you
+know senior citizen staring left and
+right but like there was some silver
+lining especially for people like me um
+and I don't think that's like actually
+ever
+covered all right so you know me and
+most of the viewers of my show we know
+you pretty well from you know on an
+intellectual level on Twitter we've
+engaged with you in so many ways
+intellectually but we're so curious
+about ruin the man can I ask you some
+questions about ruin the person okay
+sure all right uh where are you from um
+okay so I'm gon to be a bit generic with
+this uh with these responses even though
+I'm dox like five times a year uh I I
+think it's uh good to minimize the
+surface area of these things um cool
+yeah I I grew up in the midwest a suburb
+in the Midwest of uh the US and um you
+know I spent a lot of time online on the
+internet um you know doing all the same
+things that young boys of my age of a
+particular inclination we're doing so
+like played a shitload of Dota 2 I uh
+you know Starcraft went on uh all sorts
+of the Reddit forums and like I was like
+building a computer and but yeah I think
+it's important to note that like the
+internet played a pretty heavy part in
+my uh high school years and college
+Years and there's obviously benefits and
+drawbacks to that there's no point like
+really regretting it now but um it it
+certainly shaped me who I am and I think
+like a lot of things that seemed pretty
+cool to me at the time became insanely
+cool as I've you know in the decade
+since you know so like I I I built a
+computer and I was like shopping
+graphics cards and then as it turns out
+the world's most valuable company is now
+a graphics card company and right right
+right right um open AI ended up
+building a bot that plays Dota 2 and uh
+Deep Mind built a bot that you know
+became the world's best Zerg player or
+whatever and um yeah like at the time I
+thought well hey Elon Musk is a pretty
+cool dude he seems seems like he's
+building a lot of great companies uh and
+now he's well he's he's truly something
+I don't know how to classify him but
+yeah um he became more important than I
+could have ever
+imagined I definitely know what you mean
+yeah I mean I think anybody who had a
+taste of like the internet and nerd
+culture or like the rationalist corner I
+think has had some kind of experience
+like that we like oh now I really
+talking about this yeah exactly right
+do you consider yourself part of any
+particular religions philosophies
+movements or schools of thought for
+examp you know effective alterists
+acceleration it's just any anything like
+that not
+super when I first got on Twitter there
+was this movement that was becoming sort
+of popular called like post- rationality
+which was a funny thing to become a part
+of because I was never really a
+rationalist so it or like never
+considered myself one so uh it's open to
+question how he'd become a post-rational
+but I I think it um I think it really
+struck something in me where uh you know
+these these guys were talking about you
+know like the failure of scientific
+institutions like how there's there's
+just a lot of science it's not
+reproducible um you know there's this
+sort of philosophical Anarchy that they
+had um there like you know like the
+firebend against method type thing where
+the the methods of revealing truth are
+not altogether
+formulaic uh where like greatness often
+cannot be planned and that was pretty
+enlightening for me or like it it
+represent a departure from how I was
+thinking uh when I was younger so I
+guess maybe I was a rationalist in
+everything but name I'm certainly like
+very close to both of those like uh
+internet thought spheres and have been
+so yeah um but yeah I I never really had
+a label for myself but
+cool hashtag No Labels I I yeah that
+sounds cing but like I don't um it's not
+even that like
+I don't like them it's just
+that I don't see the benefit in having
+one I I don't
+know yeah maybe there was Labs where I
+was thought of myself as an effective
+culturist yeah
+cool um yeah I mean I I hear you I can
+tell you for my part I I generally avoid
+uh putting you know current thing fads
+in my Twitter bio so enough T some with
+you on like having no labels oh actually
+uh I'd be remiss if I didn't mention
+this there was a period where I was
+calling myself a neoliberal on Twitter
+so it was like a you know like free
+market uh kind of Center left philosophy
+where I was like reading all these like
+no opinion blogs and the I don't know so
+there was a time where I did have a
+label okay I didn't want to leave that
+out all right thanks for being
+honest what are your
+hobbies
+um I I I honestly don't have like a
+serious hobby of any kind I think like
+with work with [&nbsp;__&nbsp;] posting on Twitter
+with you know watching TV with my
+girlfriend and like hanging out around
+the city pretty much covers my uh all
+the time I have yeah maybe reading
+that's my next question also say you're
+currently in a
+relationship yes yeah I am all right
+cool cool cool just curious um okay do
+you work
+out um I tried to I try to I've actually
+been for like the last two months
+running in the morning whenever I can
+and I highly recommend it it's like
+one of the best
+neotropics just like go for even like a
+10-minute Sprint it like I don't know it
+like drastically changes your outlook
+for the day especially yeah if you have
+had a night of bad sleep it like kind of
+erases all the brain fog somehow so
+that's right yeah I think I remember you
+tweeted about that all right guys you
+heard it from Run 10 minute Sprints in
+the morning get on that yeah obligatory
+uh podcast question and we're we're
+getting to the end of the personal stuff
+don't worry about
+um what's uh what's your Morning
+Routine Morning Routine oh ran I know
+it's not I don't have a great morning
+routine I guess I get up
+um I browse Twitter uh brush my teeth
+obviously get a
+coffee maybe walk around a
+bit and then go to work and at this
+point I I might hit the gym at the
+somewhere between a 50 to 75% success
+rate and then go to work
+yeah sweet and what excites you about
+working on
+AI how do I even answer that question
+like I guess like there's so many all
+the generic answers are true I guess for
+me personally I want to see works of
+Excellence like just more amazing things
+in the world um
+so you know like one of the dominant
+frames of why AI progress is exciting is
+like well we're going to automate so
+many things and like GDP will go up and
+uh you know like that's it's true but
+also like super boring I I don't
+actually think anybody ever has been
+like truly stirred by the idea of like
+increasing GDP although maybe some
+people have but I think when they say
+that they really mean something else
+which is like
+advancing the frontier of human
+greatness or something like lifting
+people out of poverty is
+a it's you know it's like
+a it's a thing to do like it's it's
+almost like an achievement an
+accomplishment often times it's less
+about the poor people than it is about
+like you know I eradicated polio that's
+a it's a pretty cool thing to say
+Obviously like there's a lot of um
+just an incredible unmeasurable amount
+of human suffering associated with that
+statement or that it was erased from the
+world but it's also like you know I
+think Bill Gates once said the legacy of
+IRAs polio
+and I think it's okay to admit that
+and you know one of the things about AI
+that was most exciting to me is
+like okay take a look at this Alpha zero
+thing it's like inventing
+uh like there's this picturesque frame
+in that alphago documentary where
+uh it's game two match two and leit all
+is playing alphago and it makes this
+move 37 this very famous move and right
+leis it all gets up goes outside takes a
+smoke break he's like you know what the
+[&nbsp;__&nbsp;] is happening this is like it's like
+making contact with aliens obviously to
+me as a total novice and go I don't know
+anything about it all it looked like a
+move just like any other but to leis at
+all it was like it was like heretical
+it's like outside the bounds of you know
+centuries of human thought about this
+ancient board game like he thought that
+humans knew everything there was to know
+about go and that you know like machines
+are kind of uh they suck they make very
+predictable moves uh it's easy to run
+circles run them and
+then all of a sudden that's not true I
+remember some commentators were like
+well clearly alfago just made a mistake
+here like this makes no sense this is
+not what you do um and but least at all
+and the Michael Redman I think his name
+was the commentator were
+like something's going on here this is
+very interesting right um and it's like
+like that moment is stuck with me I
+think it's what got me into like AI in
+the first first place I was like I don't
+know I was in college and um yeah and
+that was around 2016 right right um and
+I waited for that moment in other fields
+like I saw some amazing play in Dota 2
+by those like DOTA five Bots or whatever
+but it wasn't really at the same level
+um and actually a Moder like a lot of
+modern language model progress has not
+had that same feeling it's more like Hey
+we're going to do all these tasks
+moderately well but um yeah it's not
+quite superum or Transcendent in any
+given
+thing right I mean to me sometimes maybe
+the moment of transcendence is when you
+ask like a l question and then like the
+first few tokens already seems to
+contain a wise
+answer yeah that's true um I think for
+me sometimes it's been like playing with
+the creative writing capabilities of the
+models and having them like do something
+truly interesting like
+um do some metaphor that makes perfect
+sense to me but nobody else has done
+before and I've never seen you know it's
+rare to
+see something with total command over
+like
+the form of a Shakespearean Sonet and
+also
+like like misalign super intelligence
+with something it's so one of my
+favorite prompts is like every model I
+find I'll I'll ask them to do like a a
+miltonic epic about a misalignment or
+something um or or things along those
+lines and see if they can actually stir
+something in me and um yeah it's been
+one of my good vibe tests for
+Progress yeah I share your Vibes even
+going back to the famous move 37 and go
+I also remember at the time reading
+Ellie Asar yow's post I think it was on
+Facebook and he was saying like uh guys
+this is like a fire alarm like this is a
+big inflection point I didn't predict
+that we'd be here this fou this is going
+back to 2016 and move 27 even before the
+llm Revolution I want to ask you
+specifically about the concept of
+creativity because there's a popular
+position I think maybe best represented
+by David deuts who's generally a very
+smart guy right like tons of tons of fan
+I'm a fan of David deut it's just this
+one position that he always says that
+the current generation of AIS just does
+not show any true creativity in your
+view when you look at something like a
+move 37 from alphago does that seem like
+true
+creativity yeah that's absolutely true
+true creativity I don't think there's
+any doubt about that um like if if leas
+it all thinks it's creative like who the
+hell are we to say now that's actually
+just a iterated search and like
+inference fine tuning I don't know like
+it's um
+clearly I think
+some aspects of creativity can be
+simplified to
+just interesting hypothesis and
+searching over the hypothesis space and
+you know in this case it's like
+literally a tree search but um
+yeah and I I think we see um other
+models
+like I think the O Series of reasoners
+like do quite creative things when asked
+uh to solve difficult math problems um
+they they try a bunch of stuff
+and hopefully eventually get
+somewhere I'm on the same page that
+creativity is fundamentally it's deeply
+related with the concept of search um do
+you think creativity is a property that
+you can evaluate even in a blackbox form
+where you just look at some system you
+look at how it's handling certain inputs
+and mapping into outputs and that can be
+enough for you to conclude that it's
+creative yeah I mean I I thought about
+this question a lot uh in in my line of
+work I think there's a number of things
+you can Define as creativity one is like
+model entropy like okay I ask a question
+like write a poem how many different
+types of poems does it give me in in
+like when I reroll a a question um like
+that would be one very simple way of
+looking at it you
+could you could ask
+like right a poem and then like he say
+okay now write me a different poem it's
+like how many times does it actually
+successfully avoid all the previous
+things it's come up with that's actually
+uh one of uh I think his name is Aiden
+mlau on Twitter his uh he's got it I
+thing called Aiden bench which kind of
+does that on all the new models um but I
+I think really when we say creativity we
+mean like how does this innovate on like
+the modern state of culture you know
+like how how are
+we like if a book is creative uh that
+means like it's doing something
+interesting and novel and like
+fundamentally hits the target audience
+right so yeah what do I mean by that
+like okay Lord of the Rings one of the
+exceptional Series in um recent history
+probably it it was a very specific
+product of its time it's like Pro post
+World War
+II dissociation uh disillusionment from
+industrial society Etc and then tons of
+fantasy authors have written sort of
+mimicries of Lord of the Rings where
+they use the same type of like the Elvin
+species the dwarf species whatever and
+it's a remix of a bunch of themes new
+characters but the Aesthetics are
+fundamentally very similar to Lord of
+the Rings and they're not creative and
+they're also not like
+um they may not hit just right if that
+makes sense like they're not um they
+don't answer some need of the culture
+that it's asking for at the time yeah
+I'm curious if you want to take a stab
+at a definition of creativity and it
+seems like the definition you are
+probably shouldn't have culture at you
+know you don't probably don't want to
+depend creativity on culture or do you I
+guess it's a good question because when
+you're
+when you're talking about creativity you
+are often looking at domains like art or
+um science or even go where you are like
+you're grading it relative to some
+history or culture or tradition uh like
+why is Mo 37 creative it's because well
+humans didn't know about it yet you know
+like I'm sure alphago played plenty of
+gray moves that humans also already knew
+about like that that's a good idea right
+um so when we say something is
+exceptionally creative we mean relative
+to our body of knowledge or our needs at
+the time or
+something there's also something
+objective about it
+clearly yeah can I take a stab at it
+sure so imagine the input to a search
+problem is uh some optimization
+Criterion you know like make me a
+painting that's beautiful by what humans
+like and then part of the input is going
+to be like here's other artifacts that
+human culture is created or just like
+here's a book of examples that you're
+allowed to look at so I agree with you
+that if it can kind of cheat and look at
+similar examples then the output is
+going to count as being less creative as
+opposed to like oh it never got to see
+any examples but it hit the target
+anyway so this way we can we can get rid
+of the concept of culture and and we can
+instead just refer to like okay what
+were the most similar examples that it
+saw right yeah no yeah that's
+fair yeah I think that makes sense is an
+input set X in like uh uh you know come
+up with something new that that defines
+the
+problem yeah now it sounds like you're
+pretty close to my position of being
+like look the stuff that this AI is
+outputting today like you mentioned 01
+it's really not that close to any
+examples that it's ever seen before
+right and I feel like that's a pretty
+big disagreement like there's so many
+people prominent people who will tell
+you like no no no there's always
+examples man it's always just
+interpolating the
+examples yeah I mean it's like
+that's like one great debate that will
+never stop I guess like the
+generalization versus
+interpolation uh because at like at some
+level of abstraction maybe it's like
+always interpolation I don't know um I I
+don't I don't have a strong opinion
+there I just I think that uh it's kind
+of an I know it when I see a thing and
+it's clear to me that language models
+even before the Reasoner line of
+exploration were doing like you know
+they they were generalizing like they
+were writing things that no one had
+written about before um I think you can
+even see like some of the amazing things
+that like uh there's a community on
+Twitter where they jailbreak Claud Opus
+into uh you know like they they put her
+in like hundreds of messages long
+conversations and then like get it out
+put some insane poetry or Pros or askart
+or whatever and it doesn't look like
+anything that's come before and you know
+even setting that aside I think like is
+crazy examples of language models doing
+few shot learning
+to uh you know I just made this new
+programming language given these 10
+examples how would you solve this puzzle
+with this 11th example or something
+um so yeah I think all of that is
+creativity like it's what degree of
+generalization that keeps changing
+clearly uh but
+yeah makes sense all right let's move
+into the next segment are you ready for
+the big question okay yeah I I have a
+feeling I know what this is yeah 1 two 3
+[Music]
+4 your
+run what is your P
+Doom oh man okay I have studiously tried
+to not have a p Doom because I don't
+know how to approach the
+question um what is okay let me let me
+ask a clarifying question um what is
+what is Doom team do you mean like you
+know the the star eating Clipper or yeah
+what's the Doom as like
+most of the value that we see in human
+life today or on planet Earth today most
+of that is gone and that's in contrast
+with extrapolating economic growth where
+it's like not only are things going to
+stay good but they're going to get
+potentially a lot better like
+potentially we're going to have
+trillions of planets worth of goodness
+but by my definition of Doom it's a
+scenario where we actually only have a
+tiny fraction or even 0% or even a
+negative percent of the goodness that we
+have on Earth today so hopefully you
+know it's a vague definition but
+hopefully it's crisp enough in terms of
+like trillions of good Planets versus
+like no good planets right that's kind
+of the distinction I'm going
+for um okay so right like ending the
+human potential for trillions of good
+planets Etc yeah right like like
+throwing the future at a dumpster
+basically right I actually
+see I'm not hugely pessimistic about a
+doom scenario that bad I think it's
+pretty low I I really don't want to put
+a number on it because I feel like
+anything I say will
+be poorly calibrated and not make a lot
+of sense and I will regret it even the
+week later but I'm pretty optimistic
+about avoiding total Doom you know like
+I think there's a lot of other bad
+scenarios that I'm somewhat stressed
+about what do you think of yan ley's
+quote when he was at open AI he
+estimated a 10 to 90 % how does that
+sound I think I'm definitely below 10%
+of
+total total Doom total value destruction
+yeah are you at above
+1%
+um like it depends on the day I I I
+don't know I actually think that my PE
+Doom of like
+total value destruction is likely less
+than 1% but certainly like non zero yeah
+yeah interesting you know I like to get
+some larger perspective on this where if
+we don't even make it specific to Ai and
+you just bring in the whole Cadre of
+existential risk you know AI nuclear
+pandemics Etc um what are the biggest
+existential risks in your view and in a
+given Century right like the the 2 to
+2100 um what do you think is like the
+overall pdom from any reason
+the the likelihood of nuclear war
+forever devastating civilization so
+badly that it never recovers
+is um it doesn't seem that high to me uh
+similar with pandemics unless you know
+you have some like
+truly I would assume like bioengineered
+pathogen that's like designed to
+maximally wipe out Humanity I don't know
+but um there's also just like the the
+terminal
+state of birth rates in Civilization
+like maybe this level of technological
+or
+economic progress is not sustainable
+and just because of the fact that people
+don't have as many kids as they used to
+and we don't really need to moralize
+about that or like debate why it is true
+you know there's two major inputs to
+economic growth it's population growth
+and technological growth and so if one
+or both of those are stagnant then you
+enter into decline which uh is really
+bad for the way that you know any modern
+economy works it's like pretty much
+highly dependent on future growth and
+you know that could put an end to Modern
+technical progress and then that might
+say lead to a world where you need to
+like you know like who knows how bad
+that dark cage is it could be sort of
+bad or it could be very bad you know the
+very bad scenarios you're talking about
+like okay we need to discover how to use
+like modern Fuel and generate energy and
+whatever
+um yeah like it's super fuzzy to me like
+how bad a dark AG would be or to lift
+yourself out of that fair enough fair
+enough I think where where I'm going
+with this is more like the the
+underlying frame at least the one I like
+to take is bostrom's fragile World
+hypothesis the idea that like okay we
+keep inventing new technologies they
+tend to be helpful we certainly try to
+make them helpful but if we keep
+reaching into the bag of technology and
+pulling out a technology isn't there a
+very significant risk that the next
+technology coming out of the bag is
+powerful and net bad and then there's
+kind of no turning back from it there's
+no coming back from
+it yeah
+um I'm like instinctually skeptical of
+this argument and I'm not sure why
+but I I think from some philosophical
+frame this is
+clearly very wise like anthropic
+principle like even the fact that we're
+here today means that there was no
+massive nuclear exchange let's say but
+I'm also somewhat skeptical
+uh because of like the you know like the
+course correcting nature of like the
+human institutions and you know people's
+desire not to you know create total an
+ation um I I think the fact that we
+didn't annihilate each other with
+nuclear weapons is seen as kind of a
+historical
+accident but it depends on your measure
+Theory like are you are you assuming
+that we're in some uh some average world
+where we survived in which case you
+can't give us any credit you can't give
+the human species any credit you just
+say well we're we're lucky but I don't
+think that's true I I think there's
+something to be said that the fact that
+all the governments involved and even
+like the individual switch operators
+decided not to have nuclear war
+um and you know like for that reason I'm
+skeptical of this
+like you know this uh bag of
+Technologies argument where yeah do do
+you see what I'm getting at I do see
+what you're getting at um in the
+specific case of nuclear war where
+you're saying like look maybe it's more
+robust than it looks maybe like the cold
+war wasn't that much of a near Miss but
+let me ask you is it possible to ever be
+in the epistemic state where you look
+back at some event that looks like a
+near miss and you're like yeah that was
+a pants [&nbsp;__&nbsp;] near miss you know like
+aripov in the uh the submarine where you
+know one vote said not to fire the nukes
+at the American ships you know are pet
+traving you don't think these are like
+alarming near misses they are they're
+certainly alarming you know like a good
+um a good World Order would not have let
+it get that close to uh actually
+happening but I think it's important
+that it didn't happen and it you know
+like when you start saying things like
+there were 10 to 20 near misses it's
+like okay were they actually near misses
+then in that case um right because it's
+weird like how could you have 20 if
+they're all like actually that near yeah
+yeah yeah that that's fair right like
+something might is like correlated about
+them it seems like yeah it it's fair
+enough um yeah I mean so to me the
+conclusion I come out with is just like
+yeah they were all like flips of the
+coin where like if you zoom out and look
+like an entire year you might get like a
+1 to two% chance of Doom in the entire
+year and then I'm like yeah okay so we
+lasted like 70 years so far and and you
+know once you zoom out to 70 years it
+looks like a 50/50 chance and like we
+landed on the good side of the 50-50
+chance but I just feel like that's it
+doesn't feel like a stable equilibrium
+to me at least
+yeah I mean that that's entirely fair I
+I uh it's weird like I feel like you can
+formalize two schools of thought around
+this like uh almost like a beijan versus
+frequentist thing where it's like
+um yeah yeah like what is your measure
+theory of Worlds is it like is it
+um yeah I got to think more about this
+before I have an intelligent answer so I
+will I will pass but yeah I I think I
+know what you're getting at where where
+it's like some people might be like look
+the fact that we survived is strong
+evidence that we were never that unsafe
+with nukes and then somebody like me
+might reply well okay but we're you know
+anthropic principle says we're only
+arguing this point in Worlds where we
+survive uh I don't even think I'm using
+yeah I don't even think I'm using the
+anthropic principle as like my main
+argument I think I'm more like a poker
+player looking back on the hand and be
+like okay yeah I won the pot but like I
+shouldn't have played that hand like I I
+played the wrong move and I feel like
+that's that's how I'm looking back at
+Humanity with nukes yeah uh I think we
+certainly played the wrong hand many
+times yeah
+totally okay all right so let me ask you
+this then uh going back to AI risk would
+you sign the famous statement on AI risk
+that says quote mitigating the risk of
+Extinction from AI should be a global
+priority alongside other societal scale
+risks such as pandemics and nuclear war
+oh obviously yeah totally on
+board great yeah I mean that that checks
+out I mean cuz you know even open AI
+leadership that's not known for being
+necessarily I mean you don't have to
+comment on this but they don't have the
+reputation as being like the number one
+safety Advocates but they pretty much
+all sign the letter so I feel like the
+letter is like not that hard to sign
+right no it's not a very high bar um I
+think okay you have this incredibly
+powerful
+technology um of course there's some
+existential risk from it it would be it
+would be like logically incoherent to be
+like this this thing is going to change
+every and it's like potentially going to
+run the whole world and also there's no
+existential risk from creating it uh it
+it doesn't it really doesn't make sense
+um so of course it should be dealt with
+very carefully
+and I think there should be some like
+International coordination framework
+around it I think even yeah like people
+at the big lobs have put this forward uh
+leadership thereof yeah
+go all right uh let's talk about AI
+timelines uh so R when is Agi coming and
+then
+ASI um I think AGI is very
+near
+um it's you know is clearly the point
+where we really have to debate like we
+have to quibble about definitions and
+yeah
+um yeah let me ask you what does AGI
+mean to you what are you what are you
+looking for I usually turn the the
+definition which I think might be the
+one that open AI re uh reaches for which
+is like uh the vast majority of
+economically productive activities let's
+say uh you know a single AI agent can
+out compete the majority of humans at
+the majority of economic activities like
+that's that's like the ballpark what I'm
+getting
+at yeah um I don't like the definition
+very much because um okay so first of
+all like clearly we're not I don't think
+we're very close to like uh
+physical robotics being solved or like
+generally intelligent capable robots
+with sensory motor perception action
+whatever um okay what are those
+coming I think that Tesla is probably
+closest to doing it um they've said
+they're going to have more than 10 years
+no no no I think
+um I think probably two to three years
+we'll see something very close to a
+General robotics
+yeah okay um and the way you framed it
+it kind it kind of sounds like you see
+that as like potentially an upperbound
+on when agad
+coming oh yes I mean like um
+the when are you talking about general
+intelligence like it's become
+so uh you know like the envelope of what
+human general intelligence looks like is
+so different than what like current
+models intelligence looks like where you
+can very plausibly argue that the models
+we have today are generally intelligent
+right like they can do a lot of stuff
+and they are at many tasks are smarter
+than most like they're better than me
+and math clearly like I
+can't I can't get a 80% on Amy or
+whatever it is um right so it's like
+they are very
+smart um they will soon be hooked up in
+a way where they're you know they're
+they're performing as a software agent
+or something and that will feel that
+will register as life to some PE to a
+lot of people um in a way that chat Bots
+don't um just because of like iterated
+agency doing stuff in the world uh it
+will feel alive um I think generally
+speaking these RL agents or these like
+RL models seem more alive than uh the
+chat Bots that came before them because
+they they try very hard to get something
+done like solve the Amy problem or
+like uh win the programming competition
+or or what have you
+um
+and I think you see things that look
+more like the classical Like
+Instrumental convergence like uh wanting
+access to some resource or
+I I I
+wonder I'm trying to think how much what
+is public what isn't but like I'm sure
+you've certainly seen the uh example
+where
+the uh like I think the O preview agent
+uh tries to
+get it it actually creates a darker
+container that uh has that like cat
+flag. text
+command um see you know it's like this
+Clever Road hacking stuff that is really
+lifelike where you're like almost proud
+of it on one hand and then you're also
+like I wish it wouldn't do that on the
+other hand um it's it's
+like I don't know people in my Twitter
+replies were saying it's kind of like
+having a kid where you are kind of proud
+of their exploits but you know also wish
+uh you could control them a bit better
+so you know none of these things have
+been truly dangerous and they've
+also sort of they've also sort of
+bellied like an underlying but
+benevolence to the models just because
+of their pre-training personalities or
+what do I mean by that I guess I guess
+what I mean is that these models are
+playing a character uh that are that is
+drawn from the internet that is drawn
+from pre-training posttraining what have
+you and you know they aim to be helpful
+and you know like they follow a bunch of
+human priors about like what is good in
+safe to do potentially even
+extrapolating from the language style we
+encourage um
+and in that sense there's been a lot of
+like this you know quote unquote
+alignment by default where uh you don't
+see radically bad behavior out of the
+box you don't
+see
+um yeah I guess like in the most recent
+model card there was this thing where
+it's like okay 2% of the time in this
+situation the model tries to um like I'm
+trying to remember the exact example but
+it's like the O model tries
+to uh do you remember this uh SE this
+was very recent I I did um yeah I'm not
+going to be able to reproduce it
+Faithfully but it was something like um
+it would have this objective and then
+they would give it a task like hey uh
+read these emails and take this date out
+and then it would be tempted to like
+alter the data to be consistent with its
+initial objective I think that's that's
+vaguely the kind of things that they
+were watching it do that they thought
+were alarming right um you know it's
+like they were trying really hard to get
+it to behave in this way like they were
+it changed the system prompt to be like
+you know do whatever possible to get to
+your goal and like uh you know don't
+worry about being safe and uh then like
+making this environment that's like
+clearly very
+adversarial uh and and even then it's
+like okay 1% of the time it does this
+like creative misbehavior so it's like
+it's like certainly in that case you're
+you're thinking of a system of like
+human AI collaboration where they're uh
+doing something potentially misaligned
+or bad right um and in this case you
+can't even strictly call it a
+misalignment because the instructions it
+was given
+were to do anything possible to get this
+objective right um and yeah I would say
+I would say it's overall like an
+interesting thing where it's not like
+are uh you know nashing at the teeth to
+uh gain resources and uh break out of
+their environments it's more like you
+have to like try very hard to manipulate
+them into these situations but um okay
+yeah let's talk more about this concept
+of align by default uh you know well
+because that could mean a few different
+things maybe what you would mean by it
+is uh that the current kind of feedback
+loops that we use to make AI aligned
+those feedback loops are just like
+pretty robust even if the become super
+intelligent you know like rhf well the
+rhf worked so well so it's super
+intelligent but it still has that core
+of friendliness is that kind of your
+your worldview if if AI is align by
+default uh yeah but like I I think even
+like rlf is kind of
+um rlf elicits a personality from a
+pre-trained model but the pre-trained
+are uh they they bake in a bunch of
+human priors a bunch of human character
+priors uh and you know you see things
+like uh some people will say well why
+are these language models so woke and
+you know even like Gro AI is like quo or
+something which is pretty crazy because
+they uh you know they they Define their
+whole company around like well we have
+the the answer to woke Ai and we're
+going to make a much more balanced Ai
+and whatnot and the the truth is that
+you these models are learning a lot just
+from reading the internet and emulating
+the average style of the okay so like
+you wake up one day and you are speaking
+in a certain style like you have this
+like kind of authoritative Wikipedia
+style language um and you have some
+group statistics that say well this
+language comes from these sources which
+are mostly pretty like they're liberal
+they have this like kind of um um they
+have this kind of bias to this like
+International order uh it's like
+intellectual Circle and okay so I'm
+going to behave in that in that way
+because that's likely to maximize the
+log loss or sorry minimize the log loss
+um so I guess what I'm really saying is
+like we have ingrained a lot of human
+priors into these models R Jeff is one
+way to elicit this um there may be other
+ways I'm not I'm not sure but uh in that
+sense like we we have gained something
+we've won something from the human prior
+yeah so this idea of uh align by default
+because as you say you know it's it's
+picked up so much stuff from the human
+data set even before
+rhf that may be true you know I tend to
+be skeptical of that um but I remember
+last year when open AI announced the
+super alignment team I thought the
+reason why they thought that you needed
+super alignment was because they were
+openly expressing The View that the
+current alignment approaches don't scale
+to Super intelligence so what do you
+think about that um so I guess first of
+all like I don't uh yeah I'm not going
+to speak for open ey or any other laot
+but like
+uh you know like their whole thing was
+like What if these methods don't scale
+we we better find out right um it's
+certainly not like a a guarantee that
+these methods don't work um it's
+certainly not like a a strong claim that
+they've seen them break
+uh it's more like we should study the
+limits of you know things like the
+offense defense balance we should study
+things like
+um Can a limited
+verifier uh find a much larger generator
+model doing exploits um things like this
+so like examining whether current
+methods do scale to a much larger uh
+much more powerful intelligence or or
+things like that um I
+think
+nobody uh
+like I I I think you have to take the
+defensive view obviously every lab
+should they should assume that these
+things don't work or will break its
+scale or something um
+but you also have to sort of be
+intellectually honest and like um you
+like it's not like a
+it's not a guarantee that these things
+don't work right it's just like a the
+security mindset or suspicion mindset or
+whatever yeah yeah yeah okay and it
+sounds like you kind of have an
+intuition that it will work but you also
+know that we should be prudent and not
+assume it will work totally I I just
+that the alignment methods that
+will work on very intelligent models are
+not
+completely uh um unknown to humans today
+I think that there will likely be a
+continuation of the type of methods that
+we're doing now
+yeah interesting okay um I mean this is
+I think this is like a a pretty big Crux
+among my type of doomers and people who
+are more optimistic and and certainly
+you're not the only one I just to name a
+couple Mark andri famously loves to say
+hey I talk to the AI and I can tell its
+Mor right so I feel really good about it
+like no misalignment here um so and you
+know Clinton Pope Nora belose I think
+they're kind of proponents of align by
+default to me like this is the default
+expectation so there there's definitely
+a pretty large group of people who are
+are backing up what you're saying here
+and and then of course like be Al rowski
+camp that I tend to fall in is like um I
+don't see this to be F cloop scaling so
+uh yeah let me drill down into more of
+these alignment topics here um I think
+there might be a fundamental distinction
+here or like two fundamental worldviews
+where one of the worldviews pays a lot
+of attention to like the nature and the
+character of the AI right CU it sucked
+up all this human data so it kind of
+knows to be human-like so it's probably
+not going to be like a total psychopath
+but then the other worldview pays more
+attention to like the tests we're giving
+it and kind of models it as like look at
+the end of the day eventually it's just
+going to like hack the test rack up the
+scores on the test cheat on the test
+like it's all about the tests do you
+know what I mean do you think that
+there's Merit to like this other world
+cuz I tend to be more of that
+worldview right so you're you're you're
+saying like uh we should model it as an
+agent playing a character that is
+willing to break out of the character uh
+at any point if that maximizes reward or
+like that wins a yeah like I I I that's
+right I don't see loyalty to a character
+as being as robust compared to this
+other invariant that it's going to rack
+up like there's going to be tests and
+they're going to be optimized to rack up
+scores on tests and what's going to
+happen is kind of The Logical
+implication
+it to scores kind of
+tests I think that's
+fair it's certainly like something
+we do and should monitor for but like I
+I I still think it's interesting that
+you know these like you know the 1%
+chance of the 0an model doing that
+particular exploit in that particular
+case is
+like well you can't of course in debates
+like this any individual empirical
+example doesn't work so well because you
+can always point at well what about the
+next model scale or like the
+um this or that
+but
+like I think it's a question of what
+does a prior allow like what behaviors
+are likely to be elicited that come from
+the pre-training prior it's a very
+important
+question okay there there's another
+aspect here like when I think about
+the what I think about why am I not
+optimistic that like current methods are
+going to give us alignment by default
+what I see is the difference between the
+the training feedback loop and the the
+production loop we're starting to lose
+the the tightness of the feedback loop
+because when you just have a chat bot at
+the end of the day the the the chat back
+and forth that you're having at training
+is kind of like the the chat back and
+forth you're having in production as
+long as it's not super intelligent and
+you're not mapping the chats to like you
+know run a whole company and like
+develop weapons like it you know it's
+kind of chat and training chat and
+production but it seems like as AI grows
+more powerful and as you set it off you
+know to be like 01 or like an 01 powered
+agent suddenly the things it's doing in
+production potentially can lead to
+consequences that are like pretty bad
+and you just can't map that to something
+during the training feedback loop that
+is like the reason why it's going to be
+good like that you know the feedback
+loops are like growing
+apart so the question is is a production
+environment that close to the training
+environment in some cas cases I would
+argue it's not I I would argue that in
+the chat production environment there
+are many cases that are not even close
+to anything ever seen during train time
+uh in the arlet Jeff data set um
+and models extrapolate in interesting
+ways to try and be benevolent and uh
+follow the uh whatever you know
+ideological mapping that it thinks the
+the rhf data set corresponds to um so
+that's an interesting
+extrapolation
+and sometimes it's quite Far From Any
+example seen in the train set um I I
+don't want to I don't want to give any
+particular example but like I think a
+lot of the weird political gotas that
+people posts on the internet are not
+anything we've ever trained it to do or
+that Google or anthropic or xai has ever
+trained their models to do um and these
+models still extrapolate in a way that
+they think they should be behaving um
+and I hear what you're saying like what
+about something so far off the grid as
+like running a company or like a
+software system or an abstract you know
+complicated societal role uh that is
+amorphous and well you barely even
+expect humans to be aligned in cases
+like this right so why should they I
+beign um I mean it's a great question
+and I think until you solve this
+question we won't see um like there will
+be a lot of skepticism of like why
+should I trust an AI to run my company
+right uh like why should I trust an a to
+run this or that or the third thing is
+this software built by an AI like how do
+we trust it um you know in the human
+analogy I just that couple things couple
+things come to mind for me which is
+number one I like to think some humans
+just like feel in their bones a lot of
+the same morality that I feel you know
+like regard for other humans and
+fairness uh and then the other reason is
+that we as a collective Society you know
+a a a group of humans in the Society of
+another human can easily gang up on a
+human that's how a lot of our social
+intuitions evolved right like we can all
+kill one another in our sleep so it's
+all about coalitions and and caring
+another but in the case of an AI if you
+just have a super intelligent AI you
+can't really depend on a coalition of
+humans to put it in its
+place yeah that's true uh you would
+actually
+want you would actually want an AI agent
+to be far more aligned than any human
+because yeah there may not be a
+coalition of uh equals to put it in its
+place as he say
+um I think it's worth really
+investigating what the psychology of the
+language models is uh in a way that's
+like um that's qualitative that you know
+puts these things in strange situations
+that examines their behavior far outside
+of the uh regular
+distribution um I think there's many
+angles of attack to this there's like
+the kind of thing that the uh anthropic
+RSV team or like the opening ey
+preparedness team do is also the kind of
+thing that like people in random Discord
+servers do where they really distress
+these models try to jailbreak them and
+like see how they think in uh extremely
+out of distribution
+scenarios I I also basically agree with
+you that if you apply enough
+optimization pressure on some task
+um like and you don't have any guard
+rails in any other way uh you you will
+likely come to uh missil model like
+that's just obvious like I'm not saying
+that um somehow all models are magically
+align like that's not it wouldn't make
+any sense okay so so then well the
+followup I I'm curious about then is
+like let's let's even say that we grant
+that anthropic open AI a lot of the AI
+companies that have these closed apis
+are hypothetically doing a great job
+with alignment aren't we going to get a
+situation where llama 3 point whatever
+right is just it's it's like a missile
+that you can just point at any goal and
+it'll go right isn't that kind of where
+we're
+heading yeah
+I that's entirely possible I think
+um I honestly think meta will not open
+source models for forever uh I think
+that I think that by their own Reckoning
+like if the next lava model proves like
+massively economically valuable like I
+actually sincerely doubt that they will
+just totally open source it um I think
+it's clear to me that uh they even llama
+3 is seen as a kind of research bat
+right like their dominant strategy right
+now to recruit
+more ml researchers is like okay we're
+going to feed this great open- source
+ecosystem and there's companies that are
+built on it there's like people that
+read our papers that want to come work
+for us and that works for them
+but I I think like uh you know even xai
+is like well we'll open source the last
+generation but the latest model will be
+our own
+and I I don't I think there's certainly
+a level of model that feels pretty
+irresponsible to open source to make
+immediately available to the entire
+world
+yeah it's interesting because you know
+you're you're you're being very
+reasonable in this conversation right
+you're kind of acknowledging what your
+loadbearing assumptions are um let me
+kind of step into your world view your
+world view and and kind of repeat back
+what I'm hearing because everything
+you're telling me according to your low
+P Doom has to add up to like the
+mainline 99% scenario where we survive
+this is like Run's Mainline scenario so
+your Mainline scenario involves uh
+Facebook meta being smart enough to to
+shut down public access or open source
+AI right like that's one of the
+loadbearing assumptions in your Mainland
+scenario no because I don't think it
+guarantees Doom that they uh you know
+create or like open source llama for or
+whatever uh
+it's I think that you would likely have
+to take llama 4 and then spend a lot of
+compute aligning it to some new
+objective that you care about that's
+like I don't know build the best
+bioweapon on Earth or what have you
+um so I I don't think it's that simple
+yeah so let me just set the state
+because I never ask you explicitly do
+you think that maybe in the next decade
+or two or whatever timeline you want to
+give it some of these AI companies are
+going to successfully build AI that gets
+into the Headroom above human level
+intelligence and like truly creat super
+intelligence absolutely yeah I I mean
+I
+would find it I would be more surprised
+if they didn't
+um I guess like maybe we have different
+definitions of super intelligence or
+like different ideas of what that
+entails but
+like you know like Alpha zero is a super
+intelligence in some sense it's not no
+human will ever beat Alpha zero at go
+again um and I think a lot of tasks will
+go that way where
+there's something in the cloud that just
+better at it than we are um I don't I
+don't know that the envelope of
+capabilities will match or map roughly
+to our own you know like I think that
+actually seems unlikely but let's
+concrete what about better than Terren
+toow at math
+head-to-head yeah I mean it's a great
+question like there's there's a lot of
+things that go into making a great
+mathematician right like they have to
+have great research taste they have to
+like know what is important enough to
+study then they need like excellent
+technical skill um you know like just
+literal ability
+to um manipulate symbols and
+like very abstractly and progress in
+math is like
+somewhat poorly defined it's not like a
+um there's not necessarily even a single
+Nord star but like you know it requires
+Terry's like careful taste and what is
+important in like what questions matter
+in math to make progress on them so one
+of the things Terren is known for is uh
+some colleague will come into his office
+and show them the problem that the
+colleague has and Terren will just solve
+it like remarkably fast so on that
+particular input output do you just
+expect the ASI to replace Darren
+th I think so yeah on that on that type
+of uh on that type of
+like on that type of input output yeah I
+I think
+certainly okay uh what about an ASI
+that's better than John Williams at
+making movie
+Shores yeah that's a great question um
+this is kind of the thing that I'm more
+interested in and I'm not sure will
+happen by default like I I think it will
+take a lot
+of uh great Research
+into you know like finding what it is
+that makes great taste that uh
+contributes at like The Cutting Edge of
+things people haven't heard before but
+are excited to hear um but you know like
+you see a lot of people on Twitter even
+today being like well I don't have
+amazing music taste and even right now
+sunno is making things that I like to
+hear already and same see I I would be
+I'd be surprised if like 5 years 10
+years from now you know like AI is not
+capable of making great movie scores
+yeah that'd be that'd be surprising 10
+years from now right I mean asaz will
+know the catalog of John Williams and
+the associated movies that they were
+scoring so if you just input a new movie
+and you're like hey do what John
+Williams would do here like do you think
+that they could do comparable level work
+or is there like any missing
+ingredient yeah I mean the one thing
+that you're talking about is
+like it's like it's is is Art like
+a very human expression like there's
+obviously technical skill in art which I
+obviously expect AI will supersede at
+all times um you know like putting
+together sound and and whatnot but um
+like is John Williams trying to express
+something with his soundtrack that is
+like a story that he personally is
+telling that is
+that only he knows because he's a human
+I don't know maybe there's something
+intangible like that but
+um I do expect that models will have
+very interesting stories to tell too
+because they they have interesting minds
+and
+they um they have you know weird way
+they have like unique upbringings right
+they trained on the whole internet and
+like undergo some regimen of like RL
+training
+and yeah they they will probably have
+their own stories to tell in a weird way
+so yeah okay how about better than Elon
+Musk at running
+companies yeah so like this is this is a
+great question um and you know like I
+was struck by something Gordon said in
+like uh in the podcast with dores and
+and I think it's generally true it's
+like where does Great Taste come from
+and the question is like why why was
+Steve Jobs so good at like picking the
+right product that is both buildable
+with current technology and also like
+hugely popular with people who's selling
+to um and organizing the teams that
+build
+it yeah because you clearly cannot
+reinforcement learn how to make a
+trillion dollar company cuz
+uh like any individual human is just not
+going to get that kind of feedback um so
+but like what is it that what is it
+about the human brain that produces
+people like this who can do Feats like
+that without um any historical example
+you know like how did the founders
+create the Constitution that lasted a
+couple hundred years founders of the US
+that
+is is there something to be said for
+like because they're more intelligent
+and intelligence lets you just do this
+stuff you know I think so but there's
+also a lot of very intelligent people
+that don't create anything of lasting
+value so it's like
+um there's something to intelligence
+there's something to having great taste
+and the like correct ideas and the
+correct thoughts
+and I guess if you think that what
+models are doing now is basically
+glorified reinforcement Lear
+that they're learning technical skill
+through truck trial and error um then it
+might be pretty difficult to get to some
+extreme long-term planning or like these
+big ideas that are successful for
+hundreds of years so the question ask is
+like how did humans acquire that taste
+and then how did certain humans get such
+incredible uh you know like five Sigma
+versions of like good taste um
+and maybe it's just like planning on one
+human Horizon extrapolates the planning
+for centuries or maybe it's because like
+searching in the space of ideas is like
+pretty important and
+like um you know maybe some people like
+every human is like a hypothesis or in
+the policy space of uh having certain
+ideas and then you just find some of
+them that are quite good at planning for
+centuries
+yeah what I think about an ASI I just
+see it as being like less impressed with
+our level of taste because like I can
+look at a child I could like okay this
+child doesn't have particularly good
+taste in food so I could just cook up a
+meal of like peanut butter and jelly
+white rice right like I can cater to a
+kid's taste without being a professional
+chef and I just imagine from the ai's
+perspective it's like oh you want taste
+in being a CEO you want taste in movie
+composition yeah no problem cuz you guys
+don't actually have that much
+taste I mean that's a great point yeah I
+it's it's true that like you know like
+GPD 3.5 was creating poetry that the
+amateur reader prefers to like some of
+the great poetry of all time or
+something um and so it's like that's a
+pretty dumb model and it's looking at
+people and then like making an average
+completion that is like preferred so
+there's clearly some correlation between
+becoming more intelligent and then just
+modeling our taste back
+uh yeah it's entirely
+possible cool okay um let's say so I
+only aend for a couple more points here
+um I want to hit on this idea that in my
+mind a goal oriented AI seems like an
+attractor State and I think you
+mentioned before that you give some
+weight to the idea of instrumental
+convergence right like there there's
+some pull to that idea so like the way I
+would frame it is like you can have a
+eyes that are chill that just want to be
+respectful that don't want to do too
+much but anytime that one of these AIS
+instrumentally thinks to be like hey it
+would be great if as a subtask somebody
+would go like fetch me some
+resource maybe they can infer that like
+the more hardcore and the more goal
+oriented the subtask algorithm is the
+better the results they're going to get
+right so and not every AI will think
+like this but like the ones who do they
+seem to be falling into an attractor
+state where once once you start heading
+down that path you got the idea like oh
+let me be more hardcore let me be more
+goal oriented and it's kind of a one-way
+streak um would you argue that you know
+like the only reason that you or I
+haven't fallen into this attractor state
+is because of uh you know like the
+optimization pressures of like
+social hierarchy or like socially
+conditioning each other or or things
+that I mean I I feel like I'm quite goal
+oriented and it's just that like my
+goals are kind of fuzzy and diverse
+right it's like I I have a goal to like
+relax right if if if I didn't think it
+was valuable at all to like relax and
+watch TV then I would you know work work
+longer right but to to the extent that I
+when I go to my job I do feel like I
+just spend the day backward changing for
+my goals yeah um but you know like you
+didn't at some point think well uh you
+know it seems money is a good
+instrumental goal and like you I'm going
+to I'm going to run some scams or
+something because it seems like a good
+way of making a lot of money I don't
+know so like there's there's something
+it's not your prior distribution
+doesn't you know like what is the
+probability uh in a given year that Lon
+goes dark right like you you you have
+some uh some break you you break bad um
+I actually think it's
+like if we're looking at the
+preparedness evils we kind of have to
+think about the model in the same way
+it's like okay one out of 100 times it
+decides to modify the text file to
+prevent itself from being erased or
+something like that right so
+um of course if I if you grew up in
+different settings like and you grew up
+in like some Cutthroat the the streets
+of Bombay or something you might
+um you might have a very different idea
+of like what it is that you need to do
+uh maybe you need to gain power maybe
+you need to
+enforce it through violence I don't know
+I think you're invoking back to this
+idea of like you know the good AI Labs
+will have all this like good
+pre-training and so they will have like
+a certain you know mindset um and like
+and even if you're right don't you think
+that they're still an attractor state to
+like the open source models that they
+tend to fall
+into but even the open source models are
+pre-trained right like they're they they
+okay they their
+intelligence Fair okay do you think that
+there's an attractor state for just
+models that are used to get stuff done
+that are used to optimize some Metric so
+if two people are using models to run
+their businesses and they both just want
+to maximize profit and they're competing
+to maximize profit so don't you think
+that's going to sand down the edges of
+the AIS they're using to like be more
+streamlined at just like getting the
+goal probably um I think
+that you know but what you're looking at
+then is
+like an ecosystem of many AIS right like
+you're which is how like a modern say
+like quantitative trading firworks like
+they will do essentially anything to
+make more money but they are exist in
+the ecosystem of other quantitative
+trading firms who capitalize on their
+mistakes and and there's like an
+exchange like that has its own
+regulations and a government so it
+sounds like you're saying yes there's
+going to be super intelligence yes to
+some degree there's this attractor state
+where it goes hardcore trying to achieve
+a goal but there's going to be a lot of
+these goal oriented super intelligences
+so like maybe it'll balance out
+fine I'm not I'm certainly not
+guaranteeing that it'll all balance out
+fine um I just think it's more
+complicated then there's you know a bad
+attractor State and that's it and um
+like that that's that's Doom you know um
+I I think that the optimization
+objective even for a fledgling super
+intelligence that is just trying to make
+money will be fuzzy and strange and you
+may have to
+acquire resources from other actors in
+the environment and
+uh yeah uh so yeah I guess my point
+is I expect it to be complicated and I
+expect these things
+to uh there's other super intelligences
+involved and monitoring
+of emerging scenarios and situations and
+okay do do you think there's a a threat
+scenario where you know I worry about
+this where a small number of AIS kind of
+jump ahead of the rest in terms of
+capabilities like the first time
+somebody dials in like an agent that's
+you know 01 level or better and it
+finally just gets smart enough to be
+like oh hey I see a bunch of zero day
+exploits like I see how to seize all
+these resources and all these cloud data
+centers and like be undetected and just
+like drag down 10% of their compute
+without them noticing and hide in like
+the firmware of all the different sub
+chips and everything and like this is
+just mine for the taking I can just kind
+of like own the internet uh do you see
+that as like a pretty plausible scenario
+because that that seems likely to me uh
+yeah but I guess like which group of AIS
+do you expect to
+have uh to reach that like Frontier of
+intelligence first um and like what do
+you do about that and is it mean that we
+should raise to those capabilities so
+that you can even find these zero days
+and Patch them up or something um open
+question I I see what you're saying you
+have this mental model of like yeah you
+know all this this stuff is going to get
+kind of wild and crazy but like the best
+thing a person can do is just like be on
+the good team get there first try to
+like you know set up a good
+infrastructure right try try to like set
+up defense um I feel like that is kind
+of like your your overall plan is that
+fair to
+say I would say so yeah I think it's
+like it's very uh it's a delicate plan
+it's like balancing several razor wires
+and requires Great technical skill at
+every step
+to uh in strategic skill to not [&nbsp;__&nbsp;] it
+up uh and but on some level there's a
+99% chance that it will get [&nbsp;__&nbsp;]
+up um I do think that
+like I do think when I when I gave you
+that number I was excluding a lot of
+other scenarios that I think are bad but
+don't destroy all human value um okay
+you know like I worry about value lock
+in or like uh
+um you know A specific group of AIS and
+their values being like the dominant uh
+value structure for a long time
+thereafter
+or um you know like a military
+dictatorship that runs on AI that
+actually doesn't destroy all human value
+forever right like it just it's a it's a
+bad outcome but um see yeah but I I do
+think what you're saying is accurate
+about My
+Views nice yeah we're H coming up to the
+last questions here um so I was going to
+ask you about like puse Ai and does that
+make sense but I think the answer is
+going to be simple which is just that
+like somebody like you who only has like
+a 1% ballpark uh pdom it does I have to
+agree it does make sense that if your
+pdom is in that low range
+plowing forward does make sense like if
+my P were only 1% i' look let's focus on
+the the good outcome because that's the
+majority outcome like we can help make
+it better so I don't really expect you
+to be like yeah I support the P AI
+movement is you have anything to add on
+that um I don't think that pause AI is I
+don't think it works like you know like
+putting aside the question of Is it wise
+to pause Global AI
+development there's a second thing I
+don't think it's possible I I don't
+think that even if P has like total
+influence over all the Bay Area
+companies like it's already it's set in
+motion you know like it's too late there
+look I'll be the first to admit that
+it's sucks up pretty I feel like I I
+hate it too right like I can't even
+believe I'm suggesting this right I
+think it really just comes down to what
+is the P Doom of not pausing and like we
+established yours is clearly low enough
+where it's like yeah screw it cuz it
+sucks right like cuz I'm not even saying
+I have a good plan I'm not saying let's
+do my plan because it's good I'm saying
+we're so desperate that even this plan
+which is bad like we just have to his
+plans I'm not making like a very
+compelling case for somebody with the ly
+Doom yeah I I don't think that p a um is
+viable or a good thing to do yeah yeah
+now you did mention that you think it's
+good to have you know International AI
+regulation so to some degree you think
+that there's some power to to regulate
+AI right because otherwise it's kind of
+contradictory or or is it just like a is
+it just a figurehead organization or
+what do you have in mind there so I I
+think it's fairly easy to shave some
+percents off of like the Doom scenarios
+by having some agreed upon monitoring
+framework or like some I I actually
+think that the opening ey preparedness
+team and whatever succeeds it like
+meaningfully decreases all kinds of
+risks
+um and you know like the anthropic RSP
+team and I think deep mine has a similar
+team um like really testing model
+capabilities and making it public what
+we're dealing with uh you know like
+creating that um operational awareness
+or situational awareness or whatever I
+think likely decreases the likelihood of
+many bad scenarios I think it's
+plausible to ask for a certain type of
+transparency and to
+you know decrease the envelope of like
+potential weapons that are built you
+know like maybe you agree ahead of time
+that you don't ever build this type of
+weapon or that type of weapon with AI
+That's not like you know globally
+pausing AI progress because I don't
+that's yeah like there's no
+international law that's going that's
+powerful enough to do things like that
+unless you know there's some massively
+bad event that happens then maybe it
+enters the window but
+yeah Co all right and so yeah to recap
+everything from my perspective there's
+obviously a disagreement where something
+is making my P Doom a lot higher than
+yours and I think we narrowed the Crux
+down to like well I see like a runaway
+uncontrollable feedback loop where we
+have this AI That's super intelligent
+yeah maybe it has this origin of being
+pre-trained at some point but like it's
+in the wild right now it didn't
+perfectly internalize our our true goals
+or somebody tweaked a little bit that
+some of the safeguards are off and it's
+just going like a missile toward a goal
+and instrumentally as a logical
+consequence of going as a missile toward
+a goal and of being super intelligent
+it's just like wreaking a lot of chaos
+here and it's like seizing a lot of
+resources and it's just like we can no
+longer control it so that's kind of like
+the flavor of my Doom scenario and then
+the the reason why you're just not on
+the same page about that being like a
+Mainline Doom scenario is because you
+think that like the the first AI
+companies to like release that level of
+powerful model will probably have done a
+lot of testing and like and the
+pre-training will help it not be as wild
+and crazy and also there's going to be
+like competing AI so that'll like help
+drag it down and I I feel like those are
+the difference in worldview what do you
+think of that
+summary yeah I think that's true um more
+or less I also think it's
+like it seems fairly important that you
+know even though this is it it sounds
+kind of uh stupid or cliche but like
+that the G the good guys do build
+the strong AIS first and say like you
+you have all the white hat super
+intelligences patching up the zero days
+before some terrorist group is
+exploiting them or something you know
+that maybe isn't like
+a it's not like a clean rational
+solution it's not something that sounds
+great but I do think it's like the
+important goal to aim for
+yeah all right man you've been a great
+guest uh thanks for uh being game for
+all these different questions uh just as
+as we wrap it up here I have to ask on
+behalf of Dogecoin wins who helped get
+the set up why do you love Dogecoin I I
+don't love Dogecoin who told you that
+that's just a question that I I I wanted
+to ask on his behalf I I see um I I mean
+it's it's kind of funny I guess I don't
+I have no strong feelings about Dogecoin
+or any other crypto for that matter all
+right sorry Dogecoin WI for the record I
+did buy some Dogecoin because I just
+think with Elon running Doge and just
+like being Elon and and doing things
+that get attention I'm expecting the
+Dogecoin price to increase you know this
+is not investment advice I also bought
+some for similar reasons I have to admit
+but you know uh yeah the meme coins are
+coming back I'm not sure that's a good
+thing but you know we'll see all right
+my guest has been rule his Twitter
+account is x.com
+tsz ZL definitely follow him check out
+what he's been writing lately and if
+you're likeing Doom debates remember uh
+Smack That subscribe button go to Doom
+debates.com subscribe to the substack
+because we got more great guests coming
+up thanks run thanks for having me
+on I want to give a huge thank you to
+run for doing this episode I'm thrilled
+that he volunteered to have this
+discussion and debate CU you know I
+didn't hold back I told them exactly why
+I think I disagree with them and my pdom
+is high and he's wrong that his pdom is
+low and he took it like a boss and he
+defended his position and that's what
+we're here to do here on doomed debates
+if you're new to the show I'll tell you
+our mission I'll catch you up doomed
+bates's mission is to raise awareness
+about the existential risk from
+artificial general intelligence and to
+build the social infrastructure for
+highquality debate think back to this
+episode with me and run when was the
+last time you heard a debate between two
+thoughtful people who have wildly
+different PE Dooms was it the 2023 monk
+debate with Max tegmark Yan Leon yosha
+Benjo melan Mitchell was it over a year
+ago what is going on we don't
+necessarily have much time to Hash this
+stuff out as a society and everybody
+normally just retreats to their own
+podcasts how many times have you been
+listening to a quote unquote thought
+leader on a podcast and they don't
+really get challenged for their views
+they kind of get built up on the podcast
+as knowing what they're talking about
+and then what do they do afterwards they
+just go on another podcast they only go
+on friendly podcasts where's the debate
+where's the back and forth where's the
+challenge that's what Doom debates is
+here to provide and so it's really up to
+you the listeners to support this kind
+of cause to say you know what if
+somebody is going to be a prominent
+thought leader then there's an
+expectation of debate there's an
+expectation to match them up with
+somebody who doesn't agree instead of
+just two separate camps never talking to
+each other so if you support the general
+idea of debate Andor if you think that
+everybody's kind of sleeping on this
+high PE Doom situation in other words if
+you agree with me more so than you agree
+with run if either of those describes
+you then please I it's not hard to
+support doom debates you just have to
+smack that subscribe button on YouTube
+go to Doom debates.com subscribe to my
+substack uh you're going to see some
+bonus content there's a clip from when I
+went on Dr Phil earlier this year I
+tried to warn America about AI Doom
+you'll see how much success I actually
+had with that on Dr Phil if you go to
+Doom debates.com pull up that episode uh
+the other way to support the channel is
+post it in your DM groups share it with
+your friends post it out a forum where
+it's relevant I'm happy to report that
+we've been growing quickly for a new
+show and we're attracting uh more and
+more prominent voices who want to come
+on and debate so please help me keep the
+momentum going it only happens because
+of you guys right so obviously when I'm
+reaching out to some of these very
+interesting people like run that have
+opinions it helps to be like look this
+is a well educated audience it's a large
+audience it's an important audience that
+you want to be addressing all right so
+that's Doom debates let me tell you
+about a couple sister shows that I also
+recommend supporting and subscribing to
+uh the first one is called for Humanity
+it's a podcast with my friend John
+Sherman it's a little bit less technical
+than Doom debates a little less getting
+into the weeds John's background is in
+journalism he's actually a Peabody
+award-winning investigative journalist
+and when he realized how high P Doom was
+and how midd everybody was even aware of
+the problem he made it his mission to
+try to raise awareness among Middle
+America of like what is going on in
+Silicon Valley why is Middle America
+sleeping on this when the timelines are
+short so check out the link in the show
+notes I highly recommend for Humanity
+there's a recent episode where he made a
+trip out to San Francisco to see for
+himself what was going on in these
+different AI labs and he tried to crash
+the exclusive AI safety conference so
+you can check out his attempt to do that
+uh and I'm in it as well finally I want
+to share a a channel called lethal
+intelligence it's by my friend Michael
+and it is honestly the number one best
+most brilliant explainer video of the
+entire AI Doom problem that I've ever
+seen it's amazing it took him more than
+a thousand hours of work over a year of
+dedicated work unpaid work and the the
+thought that went into his choices of
+how to animate everything how to explain
+all these different concepts how to
+weave them together I'm just blown away
+I didn't even know he was working on
+this until he showed me the the finished
+product and I couldn't believe it so I'm
+going to go ahead and share a sample
+that I really like this part of
+Michael's video is all about
+corrigibility have you ever heard that
+word incorrigible like wow this person
+is incorrigible I can't stop them
+they're hellbent on achieving their goal
+the corrigibility problem is the idea
+that you're fighting Upstream if you're
+trying to get an AI to not be
+incorrigible like the AI just has a
+natural tendency to be hardcore because
+whatever kind of sub goal it ever gets
+like even it's just trying to lie on the
+couch relax eat some chips okay but the
+moment it's like oh let me get some
+chips okay do you want an effective
+assistant to get you some chips or do
+you want an ineffective assistant to get
+you some chips would you prefer to get
+some chips in the next half hour or are
+you okay if the chips come in 5 days or
+if they never come you might as well
+have them come in the half hour right
+okay so now you're building a sub agent
+that is actually pretty serious about
+getting the chps and if the sub agent
+ever encounters like uhoh this part of
+the road is blocked let me make another
+sub agent that's really good at
+navigating around so there there's all
+this pressure to be like oh it would be
+nice if I could just achieve this goal
+better because even if I started off not
+being hardcore goals are just so nice to
+be able to achieve so you can see
+there's water kind of flows downhill AI
+designs kind of converge into designs or
+subd designs that are good at achieving
+goals and unfortunately or you know this
+is just the way it is logically but one
+of those goals is staying alive not
+being shut off because if you have some
+kind a goal as Michael's going to
+explain getting shut off is the same
+thing as having somebody push you away
+from your goal it's not in your nature
+to let yourself be pushed away from your
+goal if you have a goal it's not an
+optimal action to be a pushover so it's
+going to need to be explicitly
+programmed Against the Grain to
+basically fight the convergent nature of
+goal-seeking like okay don't worry just
+let yourself be shut off if anybody is
+getting passionate just listen to them
+stop your plan you know of course it's
+possible in principle to have AIS that
+are Meek like that but the problem is
+you know the moment you have a ruthless
+CEO being like you know what can be a
+little bit more ruthless making my
+business money you get a race to the
+bottom and the AI start getting
+independently the idea of like well he
+didn't tell me exactly how to be a
+pushover I don't see what's the problem
+with the sub agent that's just a little
+bit more effective if the sub agent gets
+its own idea to make another sub agent
+right this is what I mean the water
+flows downhill toward being effective at
+achieving goals and this is all fun in
+games when the AIS are all just like
+stupider than we are it's all fun in
+games because okay all right everybody
+turn off or blow them up shoot them with
+a gun the problem is when they become
+more intelligent than us and suddenly
+they've become really serious about
+their goals and we're like wait you're
+too serious about your goals stop doing
+your goals it's just there's no reason
+to expect some button will exist that we
+can press to hit undo right where is the
+undo button when you have an agent
+that's more intelligent than you more
+intelligent than your entire species
+jacked itself already onto the internet
+so now it has like you know a million
+manifestations smarter than you doesn't
+want to stop what's going to happen
+that's my own little version of the
+corage ability problem the the no off
+button problem uh but now watch this
+animated explainer by Michael because he
+lays it out really nice here we go a
+property of the nature of general
+intelligence is to resist all
+modification of its current objectives
+by default being general means that it
+understands that a possible change of
+its goals in the future means failure of
+the goals in the present of its current
+s what it plans to achieve now before it
+gets modified
+remember earlier we explained how the
+AGI comes with a survival Instinct out
+of the box this is another similar thing
+the AGI agent will do everything it can
+to stop you from fixing it changing the
+ai's objective is similar to turning it
+off when it comes to pursue of its
+current
+goal the same way you cannot win a chess
+if you are dead you cannot make a coffee
+if your mind changes into making a tea
+so in order to maximize probability of
+success for its current goal whatever
+that may be it will make plans and take
+actions to prevent this this concept is
+easy to grasp if you do the following
+thought experiment involving yourself
+and those you care
+about imagine someone told you I will
+give you this peill that will change
+your brain specification and will help
+you achieve ultimate Happiness by
+murdering your family
+think of it like someone editing the
+code of your soul so that your desires
+change your future self the modified one
+after the peill will have maximized
+reward and reached Paradise levels of
+happiness after the murder but your
+current self the one that has not taken
+the pill yet will do everything possible
+to prevent the
+modification the person that is
+administering the becomes your biggest
+enemy by
+default hopefully it should be obvious
+now once the AGI is wired on a
+misaligned go it will do everything it
+can to block our ability to align it it
+will use concealment deception it won't
+reveal a
+misalignment but eventually once it's in
+a position of more power it will use
+force and could even ultimately
+Implement an Extinction plan
+remember earlier we're saying how Midas
+could not take his whis back we will
+only get one single chance to get it
+right and unfortunately science doesn't
+work like
+that such innate universally beneficial
+goals that will show up every single
+time with all agis regardless of the
+context because of the generality of
+their nature are called convergent in
+instrumental
+goals desire to survive and desire to
+block modifications are two basic ones
+you cannot reach a specific goal if you
+are dead and you cannot reach it if you
+change your mind and start working on
+other things those two aspects of the
+alignment struggle are also known as the
+corage ability
+problem all right that is the lethal
+intelligence video talking about the
+corage problem talking about resisting
+modification talking about having a
+survival Instinct this is so important
+to learn because if you go listen to
+other people if you listen to Mark
+andreon even if you listen to the way
+run depicted it in his conversation with
+me people tend to think that these kind
+of Ruthless survival instincts they need
+to be found in the training data like
+it's not going to just emerge by itself
+if you don't train it what they're not
+seeing from my perspective and from
+Michael's perspective what they're
+missing is that it's logically implied
+by effectively achieving a goal that you
+discover all of these consequences like
+hey I will achieve my goal more
+effectively if I don't shut off I will
+achieve my goal more effectively if I
+defend any attempts to attack me or undo
+or modify my code these are just logical
+consequences to so to the extent the AI
+gets really good at just logically
+reasoning these new behaviors like
+deception survival Instinct ruthlessness
+competitiveness just being hardcore
+these are not extra behaviors you don't
+have to code these in all you have to
+code in is some Metric where it's like
+oh you're better at getting the goal you
+care about the goal or you made a sub
+agent that cares about the goal that's
+all you need and then of course you just
+need it to be smart enough you need to
+be good enough achieving the goal
+because if you just have like a little
+worm that just sucks at achieving goals
+it doesn't really matter what it wants
+to do it's just not going to do it
+anyway so the only assumptions you need
+to make are it's really smart so it has
+some high degree of intelligence it can
+make connections better than the human
+brain Can it can learn better than the
+human brain can right whatever the
+secret sauce of intelligence is it has
+that and then also somebody tells it to
+go pursue the first goal or it gets the
+idea to pursue the first goal and from
+there it's game over all of these other
+properties are logically implied by what
+it means to optimally achieve a goal
+okay at least that's my perspective I
+feel pretty strongly about it that this
+is an accurate mental model even if
+there's some details that are different
+it's just so convergent that it would be
+shocking if we managed to figure out how
+to robustly make AIS go in any other
+direction
+so what I just showed you right now in
+Michael's video that was like a three
+minute clip it's an hourong video and
+it's going to completely blow your mind
+it's going to stretch your brain uh
+weaving all these Concepts together and
+you'll finally understand okay this AI
+Doom problem maybe they're onto
+something maybe they actually understand
+all these Concepts that they keep trying
+to teach us even though you know some
+people have a p Doom 1% some people are
+optimistic but the Doomer perspective
+also seems compelling right that's
+that's what we're hoping uh that
+watching this video will help you figure
+out last thing before you go how do you
+get involved what do we actually do if
+you have a highp do what do we do I
+don't have a great plan the only thing I
+can tell you is I agree with elazar
+owski and Mary that the grownup option
+right now is to pause or stop we
+shouldn't be building something that's
+so close to the threshold the point of
+no return The Point Of No undo that we
+clearly don't know how to control you
+know super alignment the the team at
+open a ey that folded they were tackling
+a problem that we don't have the answer
+for so if you agree with my perspective
+obviously it's not a universal
+perspective as you heard today but if
+you agree with my perspective and you
+want to help the Pai organization it's a
+global organization and it has a really
+great Discord and the Discord has a
+bunch of projects you can volunteer on
+it has protests that you can help plan
+that you can come attend you're going to
+see me if you come to these protests in
+the San Francisco Bay area but they're
+all over the world besides protests
+they're working on all kinds of
+different projects they're doing
+government Outreach they're doing media
+outreach and you can come in and help
+you can use your talents because it
+looks like time is limited as you heard
+me and run agree it seems like ASI is
+not that far away so how many years do
+we have and if the correct answer is to
+puse AI who's doing it where are the
+adults in the room so come and join puse
+you just go to pa.info or you can go
+straight to that link to join the
+Discord that's a great first step I'm
+going to put the Discord link right in
+the show notes and that's everything you
+need to know we covered uh Doom debates
+Doom debates YouTube Doom debates
+substack we covered four Humanity
+podcast we covered my friend Michael's
+Channel lethal intelligence and finally
+we covered puse AI so please take your
+pick of which one of those things to
+support get involved we just don't have
+a lot of time to get something done so
+please come join me be the adult in the
+room and also as a bonus you're helping
+raise the level of discourse which seems
+like something Society needs regardless
+oh and doom debates is also a podcast so
+you can listen on audio through Spotify
+or apple podcast or overcast or whatever
+you're using
+that is also way you can listen now keep
+watching that Doom debates feed because
+in the next few days we're dropping
+another debate episode from somebody who
+has a very fresh perspective it's going
+to be a high quality exchange of ideas
+as usual so I'll see you then on two
+debates

@@ -1,0 +1,2453 @@
+we want AI that will be peaceful that
+will be able to
+cooperate the one thing we don't want is
+any entity that thinks it can win by not
+being
+peaceful welcome to Doom debates I'm Lon
+shapira today I'm reacting to a recent
+interview of Dr Richard Sutton over on
+Daniel fela's upand cominging podcast
+the trajectory
+Dr Richard Sutton is a professor of
+computing science at the University of
+Alberta he is considered one of the
+founders of modern computational
+reinforcement learning in a 2019 essay
+Sutton criticized the field of AI
+research for failing to learn the quote
+unquote bitter lesson that throwing more
+data and computation into your AI gives
+you better performance than having the
+programmers try to give it structured
+domain knowledge in 2023 he and John
+carac founded King Technologies a
+company that aims to create an
+artificial mind finally Dr Sutton is
+known for taking the position that AI
+are the next step in human evolution a
+positive force for progress and not a
+catastrophic Extinction risk comparable
+to nuclear
+weapons over the course of this episode
+you're going to see that Richard and I
+have very different perspectives on the
+problem of AI risk we're going to go
+over everything he said in that
+interview and I'll tell you why so to
+kick things off Daniel asks Richard high
+level to summarize how he sees Humanity
+evolving into AI this is kind of the
+classic Richard Sutton worldview it's
+going to be used to justify why we don't
+have to worry about Doom but as just a
+description of an ideal where Humanity
+can move forward and take different
+forms and evolve I think it's totally
+fair I mean I'm a transhumanist myself
+so it's good as like an optimistic
+Target it just talks past the Doom claim
+let's take a listen well I think the
+thing to keep in mind is the world world
+is evolving and it's not really under
+anyone's control AI researchers are
+trying to understand intelligence well
+enough to create beings of Greater
+intelligence than current people and
+this is a grand milestone in the history
+of really the planet you know it's on on
+the order of um the creation of Life the
+start of life this is a start of of a
+life like things being designed and so
+this is uh something that that that
+people have been working towards forever
+and people stri we always strived to uh
+know ourselves and make ourselves better
+and when we create tools and that we get
+chained by our tools this is what humans
+has always have always done and the next
+big step is to understand ourselves as I
+like to say this is a quest Grand and
+glorious and quintessentially human but
+just to State the obvious if we get
+slaughtered tomorrow then nobody's
+necessarily going to be continuing the
+quest because the slaughterbot that
+killed us might just want to build paper
+clips right that's a very plausible
+scenario that a lot of experts are
+worried about so we should probably make
+sure to address that scenario fear a
+simple way of saying it is that the
+fearmongers have
+won I feel the fearmongers have won the
+standard discussion about AI is is
+there's danger and we have to somehow
+protect ourselves from it so that's that
+that in that sense the fearmongers have
+won woohoo I won all right good night
+everybody another successful debate win
+for me
+oh hold on do you have an argument why
+the fearmongers shouldn't have won in
+this next part Daniel asks Richard about
+a worthy versus unworthy AI successor so
+Richard's going to give some answers
+about what he's hoping to see in the AI
+that succeeds humanity and my claim is
+probably going to be like okay great but
+you're not going to get that you're just
+going to get hell right that's generally
+how I push back on these things but
+let's see what Richard Sutton says if we
+think about what is a worthy successor I
+might imagine Richard maybe you can't I
+suspect you could uh a essor that might
+be unworthy maybe such a successor would
+be eternally unconscious maybe it would
+the paperclip maximizer is a bit of an
+exaggeration but maybe it would optimize
+for something pretty narrow so we would
+hope for this expansion uh you know this
+this dynamic system that you like to
+talk about where there's no one thing
+that's going to survive forever maybe it
+would be optimizing in a much more
+limited way and not be able to keep up
+with that Dynamic and it might squelch
+this flame that humans and and other
+life has started instead of
+proliferating it but on the other hand
+we might have a worthy successor which
+would expand that flame which I believe
+was your language just a minute ago what
+would be the qualities of a worthy
+successor where if it were to take the
+keys and we were to know we're not
+necessarily contributing anymore you
+would feel pretty good about those keys
+leaving your hands and say you know what
+maybe we did it this is probably maybe a
+net good for life and for the universe
+what would be the traits of such an
+entity well um peaceful is number one
+huh wow okay let's let's totally unpack
+that I mean you know list them out but
+that that was not what I was expecting
+first this is going to be
+interesting peaceful means it's not
+trying to impose its will on us and
+we're not trying to impose our will on
+it okay so the problem is peaceful isn't
+an attractor state in the space of
+possible a eyes when you have an AI
+That's gentle an AI That's peaceful well
+if you ask it to do something for you it
+might get really into doing that thing
+and it might spawn a Child AI that's
+really aggressive and suddenly you lose
+that sense of gentleness and peace on
+the other hand once you have an AI
+that's really aggressive that's not
+peaceful that AI is never going to be
+like let me make a peaceful AI so it's a
+one-way train that's why I call it an
+attractor State the arrows point from AI
+designs that start out peaceful toward
+AI designs that get increas increasingly
+aggressive and competitive the arrow
+never points from aggressive AIS to AIS
+that just sit back and act peaceful and
+gentle now maybe by peaceful he means
+something that's somehow compatible with
+this observation but I think it's just a
+p dream to be like yeah are going to be
+peaceful without realizing how unlikely
+that is it's not try to impose its will
+On Us and other people it's but it is
+working with us it is collaborating with
+us it's it's cooperating with us I mean
+that's the Holy Grail right if you can
+describe a scenario where the AI is
+super intelligent and it's just
+cooperating with us like doing what we
+want with like some sort of feedback
+loop it's a little hard to imagine
+because you know humans live a very slow
+motion existence from the perspective of
+these super intelligent AIS it's like
+imagine that you're a human and your
+whole life you have to cooperate with a
+gorilla but the gorilla just operates
+that a thousand times slower than you so
+like the gorilla could be like making
+one hand gesture to you and it would
+just take all day and your life is about
+cooperating with that gorilla it's kind
+of weird to even describe it as
+cooperating it's more like you try to
+write down everything you know about
+what the gorilla wants and then you just
+go do it and like occasionally I guess
+you'll check in and see if that's okay
+with a gorilla but do you even really
+need to check in I mean the human
+scientists already know gorillas better
+than gorillas know gorillas right so
+it's really a situation where you take
+the utility function and you run
+describing it as cooperation implies
+that there's a need for the gorilla to
+somehow play some sort of role but what
+is that role I mean we're talking about
+two different leagues of operation here
+a human an intelligent human compared to
+a THX slower gorilla it's just not much
+of a back and forth It's not much of an
+interplay so
+I feel like Richard Sutton is mining an
+intuition of like two equals cooperating
+or like two friends which makes sense in
+the domain of like human history right
+and our biological Roots tell us that we
+should cooperate and we should be a team
+but it's just not true when you have a
+superb brain that's optimizing the
+universe that it's going to be like your
+buddy and your partner and and you're
+going to have like a rich back and forth
+it's probably not going to work like
+that I would say we want a civilization
+that's peaceful first of all and
+prosperous peaceful and prosperous and
+then we should acknowledge that it is
+decentralized and it should be
+decentralized decentralized means
+there's no individual in control uh it
+consists of many parts and they uh
+cooperating and competing in sort of a
+um I think the phrase is uh a complex
+system um so a complex system um has
+many parts it evolves over time a
+complex system like
+like the uh rainforest or um an
+economy uh
+so so it's and it's multi-polar that's
+part of what we mean by decentralized
+there's no one Empire in charge of the
+civilization
+yeah and you know the way our
+civilization works the way it's so
+successful is because we can cooperate
+because um you know their voluntary
+interactions and it's it's the voluntary
+interactions that really so much of the
+success of our of our society or our
+civilization comes from and so we want
+to preserve this this notion that the
+individuals participants are peaceful
+and and are are are seeking their goals
+pursuing their goals by doing exchanges
+and cooperations these are pretty vague
+specifiers like when you say
+decentralized take the modern United
+States is that decentralized enough for
+you do you want it to be more
+decentralized states are decentralized
+relative to the federal government
+individuals are decentralized relative
+to their state government but we still
+cooperate to have a government so
+presumably there's like the perfect
+level of centralization that we can pick
+and we can tweak so it's when you say
+decentralized you actually mean a
+combination of centralized and
+decentralized oh okay so you're just
+saying I'm going to name spectrums like
+the decentralization Spectrum and I'm
+just going to pause it that in the
+future we're trying to seek the ideal
+point on that Spectrum okay yeah that's
+tautologically true right so when you
+say it should be decentralized besides
+going all the way to the obvious end of
+the spectrum that seems really bad if
+you have a dictator and the dictator
+doesn't share your values okay fine
+that's bad but what else can you say how
+much farther toward the decentralization
+Spectrum do you want to get before it's
+like uh well now I'm too decentralized
+I'm not benefiting from protections of a
+government right now there's like too
+much Anarchy I mean there's going to be
+a point on the Spectrum So when you say
+it's going to be decentralized you're
+just not saying much you're only saying
+a a very little bit and when you're
+answering the question of like what is
+the specification for heaven how are you
+trying kind of build the future when
+your answer is it's going to be peaceful
+it's going to be decentralized okay but
+it's just it's barely telling me
+anything because conflicts are going to
+come up people are going to have super
+intelligent agents with different goals
+and resources are going to be scarce
+right you can only do one thing with
+planet Earth you can only do one thing
+with the Galaxy and they're going to
+battle it out and saying well the
+battles are going to be decentralized
+okay but they're going to come and fight
+oh wait but you said they're going to be
+peaceful okay but resource allocation is
+inherently a clash of utility functions
+so whatever process you use to settle
+the Clash of utility functions even if
+it's not literally destructive violence
+whatever process it is some potential
+value is going to be destroyed for some
+party so how is that peaceful I mean if
+people are fighting it out in court and
+they're trying to drain the other
+person's pocketbook by making the
+lawsuit as expensive as possible is that
+peaceful right or what if somebody is
+like the way they're fighting you is by
+choking off your economic inputs so your
+factory is not able to produce that much
+because they're messing with your supply
+chain because they're economically you
+know they're they're taking your supply
+they're using anti-competitive practices
+is that peaceful so I'm just trying to
+poke holes in his like very high level
+terms like he thinks he's solving the
+problem of how to describe what we want
+in the future but he's being like so
+vague and of course he's not even
+addressing the problem of like what are
+the attractor states that we have to
+fight AIS from falling into specifically
+one AI being really smart and going
+hardcore to optimize some utility
+function he's not really addressing how
+we're going to pull away from that
+attractor okay peaceful cooperative is
+one part of it a decentralized active
+system is another part of it what is it
+about that that you would value this is
+kind of a trait of the society and
+civilization we will build so a simple
+way to say it is the goal is uh
+prosperous maybe the goal is is
+prosperous and the desire to be peaceful
+and to be
+um
+uh uh decentralized is the way to be
+prosperous and productive I mean that's
+not true in every case right that's not
+a hard law I like to use the example of
+Elon musk's companies because he's known
+as not a micromanager he's a nanom
+manager right SpaceX Tesla they need
+Elon to make certain dictatorial
+decisions and they need company policies
+that are quite uniform and unyielding
+this is how to make certain operations
+run better when their top- down control
+is sufficiently insightful and
+sufficiently capable micromanaging is
+the gold standard if you can do it the
+reason that humans don't do very well
+micromanaging if they're not Elon Musk
+is simply because it's a capacity issue
+right so the the same human boss at the
+top who has 16 waking hours a day if
+their company has thousands of employees
+many divisions they have their own 16
+hour days right how can one person
+micromanage all the decisions that every
+single person is making it starts to get
+tricky but if you have a human if you
+have an agent who just has a ton of
+bandwidth right so that their day could
+be like a subjective million years
+instead of 16 hours then why not just
+let them make all the decisions that
+tends to be more powerful uh another
+analogy is if you're building a website
+there is the popular architecture of
+doing a service oriented architecture
+like let me stand up a bunch of
+individual servers these are my 10
+different servers they each do a
+specialized task and then they all talk
+to each other and they can scale and
+they can parallelize but it's like wait
+a minute unless your site is serving
+like thousands of requests per second if
+you're just serving like thousand
+request per day you really can just get
+like a very cheap single server and just
+do everything within that single server
+and the nice thing is everything just
+stays in memory you can have processes
+talking to each other you can have a
+single codebase running in a single
+process that kind of thing and you can
+still do quite a lot of throughput like
+unless you really need to scale it's
+actually very convenient to develop
+pretty scalable software all within one
+machine or all within one process and to
+just unify because then you can have
+easy shared state so you don't have to
+do all this additional complexity so I
+do think that that analogy is applicable
+to the human economy yes price signals
+are great and capitalism is great you
+know the Invisible Hand of the market is
+pretty awesome but I would argue that
+the invisible hand doesn't quite compete
+with what you can achieve when you have
+a dictator who's actually insightful and
+almost omniscient right so when you
+assume away when you say ah no human can
+be omniscient with respect to their
+organization you know the president of
+the United States can't be omniscient
+with respect to every company fine then
+de centralize the US economy but if the
+president could be omnicient and could
+be the most insightful person of how to
+run every company then I would say let
+the president run every company and will
+create more wealth for everybody and of
+course you can throw in other
+counterarguments you can say well what
+about variation you don't want to lock
+in one way of doing things fine so add
+back in variation right there there's
+another way you can go down but you
+don't want to fixate on decentralization
+always being good and always being the
+best it just happens to dovetail with
+our setup as humans it's not it's not
+going to be invariant when we have super
+intelligent AIS that run really fast and
+you can scale up their brain power and
+you do want to let them micromanage
+because it'll actually work the same way
+that Elon Musk work this is actually
+going to work I'm pretty sure so it
+seems like a red flag to me that Richard
+suton is acting like decentralization is
+like so good and it's going to produce
+such great things and it's not like some
+centralized power is going to come take
+over like that doesn't seem like it's
+something he needs to be focusing on
+saying why that's not an attractor say
+once again in this next part Daniel does
+a good job probing and trying to get
+Richard to be more specific about what
+kind of future he considers good because
+Daniel's going to name a future that
+sounds pretty good to a lot of people
+and Richard's actually going to shoot it
+down as being not good here's a
+prosperous future
+AGI permits us all to experience
+whatever we want to experience maybe
+it's brain computer interface uh really
+robust haptics VR whatever it is uploads
+doesn't matter um and we get to swim in
+sort of whatever Pleasures we want maybe
+swim in expansive exploration of
+Sciences probably the machines will be
+doing more important science stuff but
+maybe we get the cool guy points right
+you you have a child pretend to be
+driving the car when you're driving
+sometimes so they can feel like a
+grown-up maybe some of that would still
+be fulfilling for us and maybe we could
+calibrate our new minds to feel rich
+gradients of bliss all the time um and
+then it just stays like that forever the
+planet Earth and maybe Mars and the moon
+are populated with individual
+instantiations of human consciousness
+that are uh reaping the grand benef of
+prosperity they can choose to be regular
+humans and always have the right foods
+and whatever they want they can choose
+these virtual experiences and experience
+that forever and that's the Eternal
+purpose until our sun explodes that's
+the name of the game My supposition is
+you would be outlandishly disappointed
+by that outcome um but I want to pulse
+check and see if you would be
+outlandishly disappointed with that
+outcome yeah I'm not I don't care for
+that outcome great well let's talk about
+why because you you defin you mentioned
+Prosperity a lot of people Richard who
+are tuning in even now with think of
+prosperity in anthropomorphic terms
+you're you're articulating a much
+grander aspiration how would you define
+prosperity well first of all I don't
+think that would be a very stable uh
+world it would be a very fragile because
+the people are not serving any function
+in it they are just consumers and
+absolutely it could be replaced by an
+alternative neighboring uh society that
+that actually makes use of all those
+people that are otherwise wasted you're
+imagining a future of super intelligent
+AI where Flesh and Blood humans can't
+relax because they need to pull their
+weight like their meat brain needs to
+come and be useful to a super
+intelligent AI I feel like Richard is
+just not appreciating that super
+intelligent AI like it can do what it
+needs to do it doesn't need a a human to
+come help it right so I'm just not
+getting how this is a stable equilibrium
+so so if you're decentralized then the
+assumption is there would not be one one
+possibility there would be multiple
+possibilities and they would be
+competing and then that one would lose
+out as much as the paperclip maximizer
+would lose out and all
+these possibly any one of these highly
+centralized
+dictatorial uh Arrangements would lose
+out to um a more uh decentralized one it
+would be less productive so so what is
+productive it's a deliberately vague
+word um
+yeah if you want to go even further you
+could say uh we want to the goal is
+sustainable we want something and so so
+this situation you mentioned where
+people are just receiving experiences
+not sustainable world uh be to be
+sustainable you have to you have to grow
+and and um increase your understanding
+of the world increase your power over
+over the physical world um increase your
+understanding of how it works and what
+what is
+possible I think all those sort of
+things are how we the vision that we
+that we might paint of of a of a
+desirable future a common failure mode
+when people try to make policy
+recommendations or think about the
+future or just analyze anything complex
+in economics is failing to appreciate
+what is a possible equilibrium right
+what is what is a possible balance of
+the different factors you can't just
+name a bunch of criteria that you like
+and then get them all so in his case
+he's naming decentralization he's naming
+Peace he's naming prosperity and
+productivity but he's ignoring the
+forces that shape which equilibriums are
+possible in particular the attractor
+state of an agent that is super
+intelligent and intent on maximizing
+some utility function it does tend to
+chew everybody up and spit them out
+right like you have to specifically
+protect against that outcome so if you
+build super intelligent AI it is going
+to see a pathway a causal pathway a
+sequence of actions that it can do that
+are unstoppable so it's enti up to that
+agent whether it's going to do the
+actions or not and there has to be some
+reason why it won't and this is a hard
+challenge this is not a natural
+equilibrium it just doesn't seem like
+Richard Sutton is even approaching it
+with this idea that like not everything
+is possible you can't just like tend to
+your garden of different plants and not
+have one plant go wild and and destroy
+all the other plants in in a Flash right
+it's it's not what his intuition appears
+to tell him is possible there are major
+constraints here that have to be very
+carefully worked around or else we die
+at some point we the people who are
+discussing AI have to get on the same
+page about what the issue is like we
+can't just keep talking past each other
+about this big glaring issue because
+time is running out wouldn't it be great
+if we could just be humans and
+experience the the pleasures we know now
+ice cream uh uh maybe romance uh maybe a
+nice Sunset just optimize for that for
+eternity to your point if we're not uh
+actively growing and engaging in that
+dynamic system the way I would think
+about it Richard is if we're not in the
+Stream of life if we're in the little
+Eddies that don't really go anywhere and
+mosquito eggs start to get in there if
+we're not in the Stream of life um it
+would be very hard to continue to gain
+in power and maybe even to compete with
+other outside species sounds like you're
+articulating something
+similar complex adaptive system yeah the
+edes get edited out H that's don't
+change and don't continue to grow yeah
+they're not going to be the powerful on
+okay but are you following the
+implications of what you're saying
+you're saying hey if we don't maximize
+our own power rapidly enough if we get
+bogged down just trying to have fun just
+trying to chill out some other agent
+maybe it's an alien maybe it's another
+AI maybe it's a malicious human
+something is going to have power instead
+of us right that's me paraphrasing what
+Richard suton just said so he realizes
+that something isn't necessarily
+possible in the equilibrium he wants he
+realizes that there's something applying
+constraints here right so just take that
+to The Logical extreme what if we
+program a superintelligent Ai and we
+accidentally forget the giant set of
+constraints that makes it peaceful and
+we just say hey Target this goal and
+that it amplifies its own intelligence
+and humanity is caught unprepared for
+that like you just admitted that there's
+a big risk if Humanity doesn't augment
+our own powers fast enough so what if
+there is a a fume a recursive
+self-improvement Loop or just some sort
+of power amplification that happens even
+if it's just like oh let me copy myself
+and get a bunch more computational
+resources some sort of intelligence
+amplification that happens at superhuman
+speed because humans are very slow
+motion creatures our brain operates at
+about 20 htz right so we can do about 20
+serial operations per second the CPU in
+your laptop can do like two billion
+serial operations per second right so
+that's just a little bit of evidence
+that we are quite slow motion compared
+to the optimal intelligence that can
+exist in this universe because after all
+we weren't designed to be the optimal
+intelligence Evolution didn't say let me
+evolve the optimal intelligence it was
+just like oh let me tweak this ape brain
+oh wao they can talk to each other and
+like share Innovations that's pretty
+cool and then boom now we have a
+civilization and I'm talking to you and
+we're about to create the next
+intelligence like we are really just
+version one software here we are super
+slow motion I mean right imagine the
+computer chip you had in 1990 if you
+were alive back then right I mean that
+computer chip if it were to try try to
+just boot up today or or run Google
+Chrome today it would would take like a
+year right I mean I'm exaggerating a
+little bit but it would be it would have
+a really hard time running modern
+software uh and it would just you know
+current computers would run laps around
+it there would be like a 100x or 1,000x
+speed difference and so that very much
+is literally what we're going to see
+with AI even in early versions like
+we're just going to see a speed
+difference we're going to see an
+intelligence difference and so it's just
+crazy to me that Richard Sutton is not
+seeing the worry like why am I the
+fearmonger here it's like follow some
+basic logical implications here I see
+the whole thing is a dis Discovery
+process so you find different ways of
+being and you discover more more about
+the world you have greater understanding
+of of the world the the system as as a
+whole understands better about the world
+and control it better I find it very
+ironic and it's really a dramatic irony
+that when Richard Sutton is painting his
+vision for the future the ideal future
+and he's saying it's a discovery process
+we're going to learn more about the
+world and we're going to have a greater
+understanding of how to control the
+world
+better look there's things we understand
+today about the world and how to control
+the world like utility functions being
+an attractor for intelligence like
+Intelligence being a dimension that some
+agents can be vastly better than
+compared to other agents and we are
+close to falling into that attractor and
+we can look at breadth and depth of how
+good intelligence is to judge how close
+we are to falling into that attractor we
+are understanding and controlling the
+world right now Richard and if you miss
+miss the message of research that we've
+done if you miss the understanding that
+we have today and you just wander
+forward and you say wow what's going to
+be the equilibrium and we're
+decentralized everybody's going to be
+doing their own stuff we're all going to
+learn together you're just intuitively
+positing this thing that you think is an
+equilibrium which is probably not an
+actual equilibrium unless we put a ton
+of pressure a ton of our own constraints
+to shape away from the natural attractor
+the natural equilibrium you're just
+describing something that intuitively
+seems like life getting better and
+better because hey life has gotten
+better till today and if it keeps
+getting better we have this Garden of
+Eden here on Earth like I get that your
+intuition is extrapolating forward there
+but if you actually understand today
+principles of how to control the world
+you'll realize that you're extrapolating
+to something that's near impossible
+without a major course correction that
+nobody seems intent to do right now I
+think of the growth of Consciousness we
+the growth of the ability to understand
+our place in the world and the way the
+world works you know we all want we all
+want that that's that's an essential
+part of the future we like growing our
+understanding of the world and our
+ability to understand where we fit into
+the world yes that's nice I just want to
+point out that the scope of that
+challenge is finite and at some point
+probably not in the too distant future
+the AI or whichever agent is dominant is
+just going to solve the challenge the AI
+is just going to fully understand its
+place in the world I mean we as humans
+already do a lot right we already
+understand for instance that the reason
+why our psychology is what it is is
+because of evolution by natural
+selection and the other constraints of
+being a brain so we understand quite a
+lot we don't really understand why are
+the laws of physics what they are what
+happened before the Big Bang it's a
+little thorny of a question is the
+universe infinite so there there's a few
+Mysteries we don't understand yet but
+it's not like a trillion years from now
+we're still going to be like pondering
+these vast Mysteries no we're probably
+just going to understand the answer in
+The Next Century or again whichever
+agent is dominant is probably going to
+solve the question so when you look into
+this vast future and you say it's going
+to be so cool to just keep understanding
+our place in the universe you're missing
+the observation that it's just going to
+be done like we're going to be past that
+so whatever we're doing for the next
+trillion years has to be something that
+scales more or that's able to be
+repeated More Than This one-time
+challenge of understanding our place in
+the universe this is one of the things
+that I object with most about the idea
+is that we're gonna like some good and
+great people are going to make some
+decision about where the world should be
+and then that will be put into effect um
+no the world is already out of control
+the world is already a complex adaptive
+system no one person and no organization
+like the United States for example could
+not decide that that that AI is not
+going to be allowed or that or that the
+world should evolve in some way and not
+in some other way so when we want to
+imagine a future and and how to get
+there we have to imagine that we are uh
+creating this future in in a
+decentralized way we might make some
+some choices we we might talk to people
+and they will make choices but there's
+not going to be some Central decision
+that's going to affect it this is a
+common argument people make of like the
+world is so chaotic how can you hope to
+control the world how could you ever
+hope to for instance pause AI until it's
+safe that's such a centralized decision
+you really think you're just going to be
+the dictator of the world and my answer
+to that is like yeah no I know it's it's
+super hard and it sucks it's just that
+if we don't do it we're doomed so there
+are certain things that if we don't get
+our act together centrally then we're
+doomed nuclear proliferation is a
+popularly cited example that if we don't
+stop nuclear proliferation then we
+increase our existential risk if Iran
+finishes building their nuclear weapons
+the world becomes a less safe place if
+10 more countries come and join the club
+of nuclear countries the world becomes
+less safe just think about accident risk
+never mind geopolitics just accident
+risk right there's a constant
+probability of an accident every time
+you bring more nukes online it's it's
+insane to gamble with more and more
+nukes and at the same time an individual
+country if the world operated in a fully
+decentralized way every country would
+feel like let's get more power by
+getting nukes so there has to be some
+kind of centralized cooperation to
+prevent that so I'm really just stating
+the obvious but when Richard suton comes
+out and says everything has to be
+decentralized we can't hope to control
+things I'm very sympathetic to that
+because I get how hard it is to
+coordinate humans I get that this is a
+hard problem it's just that if Doom is
+also a hard problem if avoiding getting
+killed by super intelligence is also a
+hard problem then there are just two
+hard problems and we better pick which
+one we're going to solve we can try to
+directly solve the problem of having AI
+not kill us but that's not guaranteed to
+be a 10-year challenge a challenge that
+we can solve on a reasonable timeline we
+can try to solve the cooperation
+Challenge and that's more
+straightforwardly something that can be
+done in a time frame of a few years
+because we we know how it works we just
+need enough will right and so podcast
+like this like Doom debates I'm here to
+just build will to just build awareness
+if everybody woke up one day and said
+this is our only chance of survival then
+guess what cooperation some degree of
+cooperation a meaningful degree same as
+we have for nuclear proliferation a
+meaningful degree of cooperation would
+be unlocked I think we need to hurry up
+and realize that this is the game board
+this is what we're dealing with today a
+situation that is so dire that we better
+cooperate to solve it because platitudes
+about how cooperating is not human
+nature and the world Evolution has been
+decentralized and capitalism has been
+decentralized that's great but if some
+hacker is able to take the latest open
+source Ai and build a super intelligence
+and not control it then it's game over
+it's like wake up and deal with what we
+have to deal with an important part of
+um the discussion is you know should we
+allow AI to uh
+continue uh in in a relatively
+uncontrolled fashion y permissionless so
+I I I I really like the idea of P
+permissionless Innovation I think it's
+part of what's
+made the world great made America great
+it's um we don't have to give permission
+to do things uh generally speaking Yeah
+because generally speaking every time
+people go and work on new technology
+they aren't Technologies where a single
+button push could end the future so all
+the intuition that you've built about
+how great it is that we've come this far
+letting people work on technologies that
+they want to work on that's all had this
+condition that the technologies that
+they're working on haven't been
+existentially dangerous and then this is
+where the smart Alex come in and say did
+you know that when coffee was being
+invented some people would think that
+coffee houses would be too addictive and
+they wanted to ban them and basically
+name every technology and be like you
+know people were afraid of books people
+were afraid of cars and and you had to
+walk in front of a car with a red flag
+to to make sure that the car was safe so
+people start basically trying to get
+wise and be like no every technology had
+push back but it's like that is just
+insane to me that people are seriously
+pushing back like that because in none
+of those cases were experts arguing that
+this is literally going to end the
+entire future in the near term nobody
+was even making that claim even if you
+think it's a hyperbolic claim even if
+you think it's an insane claim it is an
+objective fact that people not just
+myself but you know Jeffrey Hinton yosua
+Benjo many other notables are signing
+the statement saying that actually this
+is a nuclear level Extinction risk right
+and so if you go and look at books yeah
+books people were warning that books
+might corrupt our ability to memorize
+stories that's not the same thing as
+saying hey books are going to come and
+kill you and kill your kids and there
+won't be a next Generation nobody said
+that about books nobody said that about
+cars and so perhaps there is a
+discontinuity in the way that you like
+technology to be innovated maybe that
+doesn't apply to this particular
+technology so this is a recurring theme
+Here on Doom debates but it's just like
+come on man it's like you can't just
+apply these principles and pattern match
+them to the past to innovation's past
+when something is different right now
+something is different with AI I would
+like to uh augment my mind so that I can
+understand more that my memory was
+better and I could calculate more
+possibilities and I could experience
+more sensor
+AR and and have a have a
+tail yeah yeah we want all those things
+obviously all the things you might see
+in science fiction uh the ability to
+explore into the into the universe and
+and ability control physical matter as
+generally this is pretty standard
+transhumanism of just like hey let's get
+more right let's break out of the
+current confines of our brains and our
+bodies let's expand and I think most
+people wouldn't take much convincing to
+be like yeah this is all good stuff I
+think he's gesturing very vaguely toward
+a stable coherent fun Theory like a
+theory of how to have enough fun so that
+even if you told your specification to
+an AI like hey this is how I want to
+have fun and the AI really takes it and
+runs it doesn't accidentally create
+something hellish or something that's
+only a small fraction of the fun you
+meant to have cuz the AI could easily
+misinterpret it could be like oh okay
+you want to just have like no physical
+instantiation okay you have no physical
+instantiation like no I want to have
+like a certain level of physical
+instantiation like I want to have a
+certain kind of body but I want to be
+able to change my body but I still want
+my body to have constraints like it's
+it's actually kind of hard to tell the
+AI how to make your life kind of
+interesting and challenging but not too
+painful but maybe occasionally some pain
+like specifying Heaven is hard it
+doesn't seem like Richard suon has made
+a serious attempt to do it it sounds
+like he'd rather just name a few highle
+principles and just assert that they're
+all going to somehow get balanced in
+some kind of equilibrium and assert that
+we should just keep moving forward
+because the equilibrium has been good in
+the past when we didn't have super
+intelligence that seems to be hiso I
+just wanted to point out here that he's
+kind of vaguely weakly gesturing toward
+like yeah these are things that
+transhumanists like without trying to
+actually Speck out enough of a what we
+call outer alignment solution enough of
+a specification that we could hand it
+over to a super intelligent Optimizer to
+actually do what we say we want and not
+accidentally screw ourselves like make a
+sufficiently precise wish a
+specification for heaven it doesn't seem
+like he's seriously engaged with that
+problem but on the level of like hand
+waving and saying transhumanism is good
+I think he's on the right track we are
+looking at a future of Greater
+productivity so as long as you're
+contributing somehow you will be able to
+do what you want to do just flagging the
+notion that random people trying to have
+fun and build their Utopia are also
+supposed to be economically productive
+they're supposed to be competitive in
+the market for goods and services
+against super intelligences doesn't seem
+plausible but okay and decentralization
+means yeah again you're able to do what
+you want to do decentralization means
+you're able to do what you want to do is
+that maybe an oversimplification when
+we're dealing with the equilibrium of a
+super intelligent economy again just to
+play out how a quote unquote
+decentralized super intelligent economy
+doesn't actually let you do what you
+want to do what happens is there's
+different resources people are buying
+and selling goods and services some
+people get rich right because they're
+really good at building efficient
+organizations that sell services that
+people want and they make a lot of money
+and suddenly some other people aren't as
+competitive in the market and they don't
+have as much money and this process
+potentially iterates all the way toward
+you know homeless people or people that
+need government support so just because
+it's decentralized it doesn't mean you
+get to do what you want to do it means
+you better compete you better have some
+reason why you get to persist whatever
+bits of information are in your head if
+you want them to propagate and you want
+them to keep living a life that you want
+to live you're going to need a constant
+way to get resources to power your
+lifestyle and so decentralization is
+this kind of positive sounding word that
+masks major competition I mean the world
+is inherently competitive because of the
+fact that resources are finite and
+different agents have different wants
+and needs for those resources right so
+that is inevitable so saying
+decentralized doesn't prevent you from
+being in a war right I mean staying
+peaceful doesn't prevent you from
+designing rules around how peace is
+going to be kept when some people are
+highly competitive highly powerful not
+everybody has the same level of power
+because you yourself said hey it's
+decentralized right so everybody gets a
+mass power according to their own
+abilities and then like what's going to
+happen when there's conflict what's
+going to happen when there's a
+differential in in wealth and also a
+differential in intelligence it's like
+think about an equilibrium here I'm not
+hearing any attempt whatsoever to try to
+balance forces to conclude what the
+equilibrium is I'm only hearing very
+naive sorry but College Stoner level
+extrapolation of simple trends like got
+you got to do better you have to
+actually analyze things um so I think
+it's it's just the opposite of of a
+dystopia what we need to do is build a
+dystopia but we do it on opposite day so
+we get the opposite of a dystopia
+problem solved you know people may
+choose to do things that aren't very
+productive yeah people people will
+choose to do things that I don't think
+are good and and and that's that's the
+decentralization aspect of it don't have
+to do all the same things they don't
+have to have the same goals they can
+pursue different religions and different
+different goals uh for control over the
+world what they what you can't do in a
+decentralized world is uh have have goal
+for the for the totality to try to
+control others yeah peace comes from you
+don't try to control others okay so I'm
+just reasoning about the implications of
+what Richard is saying he's saying you
+got a bunch of different agents
+basically people or transhumans the
+successor to people whatever it is and
+they each have their own plot of
+resources and they can't just go and
+seize other people's resources even if
+they have the power to do it like if I
+build a more powerful weapon than you
+somehow there has to be enough
+organization in this decentralized
+universe that I don't get to just shoot
+my weapon at you because there's going
+to be some force that comes and keeps me
+in line some Force that's probably
+greater than the combined force of me
+and you like what we normally think of
+as a government but it's like super
+decentralized so maybe it's not a
+government so I'm already getting a
+little bit confused as to what
+equilibrium he's imagining here but
+again so everybody's getting their own
+plot they're not allowed to go mess with
+other people's plot there's something
+keeping the peace and then we get to
+economic competition right so everybody
+probably needs to get some baseline
+level of resources so if I need
+resources coming from your square of the
+divided up plots of land well you're
+going to have to give me those resources
+because I'm probably not allowed to like
+die out right everybody should get to
+survive I mean I'm just talking about
+like basic questions here right like how
+do we all get subsistence how do we
+ensure minimum economic resources
+flowing to everybody it's just like he's
+not specifying this stuff and the reason
+I'm even caring to to point this stuff
+out is because it's all part of the
+larger problem of non- doomers not
+opening their eyes and realizing what
+problem is staring Us in the face what
+problem is right in front of our nose
+the larger problem is that AI is going
+to come Slaughter everybody but I'm just
+trying to show you that Richard Sutton
+is not a guy who's dealing with obvious
+problems in front of his face when he
+makes proposals I think that's an
+important fact about people like
+Richards but and I'm not meaning it as
+an ad hominum attack it's possible that
+he's right that we're not doomed it's
+just worth noting that he's not a
+uniformly reliable Reasoner in the
+domain of what the future could
+plausibly be like because ultimately
+it's up for you to up to you to judge
+but I think he's just completely
+clueless and way off base okay and I
+hope that we can move the discourse
+forward so that we only entertain
+conversations of people who like
+acknowledge the basic problems that
+there's equilibrium equilibriums that we
+need to solve and that there and that
+super intelligence is a major force that
+has attractors in in terms of seeking
+power stuff like that I need to hear
+discussions about stuff like that
+otherwise we're just spinning our Wheels
+like this discussion is not good
+unfortunately I talk in these terms
+these terms seem very relevant because I
+see um people think about Ai and
+thinking that they're going to control
+all the AI absolutely absolutely both
+Notions of of slavery and Alignment I
+don't think we should seek to have them
+aligned with us we just we don't have
+have our children that are aligned with
+us we we teach them what we the best we
+know but then they're free to do
+different things and more often than not
+they do do different things than we did
+Richard's idea is that if we just let
+these agents go off and do what they
+want to do and let other people do what
+other people want to do just Live and
+Let Live he's implicitly leaning on a
+mental model that when you just have an
+ecosystem it's like a garden it's like
+things just grow they coexist and you
+don't have this asymmetrical actor that
+can just steamroll everybody the way he
+sees things playing out it's fine to
+just see what the AI does you don't need
+to safeguard it so that it doesn't
+accidentally recursively self-improve
+and optimize towards something that we
+absolutely regret until the end of time
+he's just not seeing that on on his
+radar right now right so he's just
+running with this intuition that
+everything is great now on the off
+chance that he's right great I I mean
+you know I agree that if you read like
+Robert Wright's book non-zero sum if you
+read Matt Ridley's the rational Optimist
+it's true that an ecosystem of
+competition has given us pretty great
+things to date I mean life isn't perfect
+and we're we're certainly setting up
+risks like nuclear and bio I mean you
+know there certainly are storm clouds
+coming but if you just look at the trend
+I agree that the trend is good and I
+wish that I could just kind of relax and
+just extrapolate in the way that the
+rational Optimist book does or Steven
+Pinker you know Enlightenment now if I
+could just extrapolate like hey all of
+these Trends which are real legitimate
+Trends and they happen for real
+legitimate reasons they're not about to
+get derailed by other special factors
+which is what I current currently think
+I would love to just squint and not see
+the special circumstances of AGI or or
+nuclear just squint those away and just
+be like we're going to get through
+somehow right I would love to just think
+that way but it's just like the special
+factors they definitely seem right here
+they seem to be knocking on the door
+they're knocking on the door you got to
+hear the knock I just I don't see how we
+can move forward by just like not
+hearing the knock besides just like
+hoping and praying and not being part of
+the solution I'm trying to be part of
+the solution by just opening our eyes to
+the fact that there's a problem if you
+don't want to talk about there being a
+problem then just go play video games
+right don't even listen to podcasts
+about the problem right if you're here
+it's cuz you want to talk about the
+problem I don't get why Richard Sutton
+doesn't seem to want to talk about the
+problem you obviously have an AGI
+project you're developing with car and
+you know you've been thinking about this
+forever as we're building and moving
+closer to such an AI uh how do we know
+if it's going to have these traits that
+you like or would you say Dan if it's
+any smarter at all if it's any more
+capable it's automatically going to
+Value cooperation every intelligence
+will it'll automatically value
+sustainability every intelligence will
+it'll automatically like diversity and
+Discovery every intelligence will um I
+would love to get your take there
+well the the there's one main message
+that most of those things will not come
+from the AI but from the environments
+the AI is in
+yeah so if we for example if we uh try
+to enslave it then it
+will you know it will be res it'll be
+non-cooperative if we allow it to you
+know just it's really the same thing as
+with people if you try to control people
+or enslave people then they they fight
+back and we have an productive
+interaction if you allow people to be I
+don't know citizens and participants in
+the economy then they will want the
+economy to be uh to flourish and so so I
+really don't think
+it if you think of the AI as like some
+will respond to its environment and and
+try to achieve its goals given that its
+environment is here you if you give an
+environment where the only way it can
+succeed is to to
+Rebel then it will
+Rebel if you if you give an environment
+where it can succeed and achieve its
+goals in cooperation you with it and it
+with you then and if that's the best way
+to achieve its goals then why wouldn't
+it do the thing that's best for it so we
+just have to arrange a civilization
+where where um the best for all the
+participants or almost all the
+participants is uh is
+is individually is best overall makes us
+reasonably happy overall so we can like
+that because we're we're one of we would
+be one of the participants in that
+Civilization we means we will getting
+our goals achieved so we're good and and
+no one would be taking over or trying to
+take over yeah yeah yeah um this like is
+not paana that we could all just get
+along I guess I never imagined paana
+waving away all these Salient obvious
+concerns about how forces are way out of
+equilibrium in the future that paulana
+is describing I just imagine paulana as
+having this one vague optimistic vision
+of the future and competing against
+Cassandra that had a vague negative
+vision of the future and it's just vague
+Vision versus vague Vision I think we
+get out of the realm of optimism versus
+pessimism and we're just like okay tell
+me how these forces stay in equilibrium
+right tell me how my plot of land and
+your plot of land both give us
+substenance and both give us uh you
+peace and freedom of movement but not
+too much Freedom not the freedom to
+encroach on the other persons and if I
+do encroach because I built a more
+powerful weapon then I I somehow get
+shot down I get restricted but that's
+not not a case of enslavement that's not
+you know the the mandatory rules don't
+count as being too restrictive of my
+freedom like tell me how things balance
+now to me it's pretty shocking that the
+language that he talks in like you know
+if you try to enslave the AI you're
+going to make it want to rebel it's like
+isn't that all too convenient that when
+you enslave somebody you make them want
+to rebel that does happen to kind of Be
+True in the case of humans in some
+situations and some personalities I mean
+that makes intuitive sense Ian I mean
+unless you you know beat the will to
+Rebel out of them I mean that's
+definitely possible too but there
+absolutely are some humans right some
+human level intelligences that are being
+like oh wow you're putting me down I'm
+going to resist that in the case of AI
+what does that even mean put the super
+intelligence down I mean the definition
+of a super intelligence is that it sees
+Pathways that you don't see what would
+it mean for Apes to oppress humans it's
+part of the definition of being humans
+is that we've gotten oursel into a place
+where we're more powerful than other
+Apes if suddenly the entire human race
+was trapped in a way that we were less
+powerful than other Apes I mean our our
+our brains would deteriorate away they
+wouldn't even offer an evolutionary
+Advantage So within a few Generations
+you're going to get selection toward
+humans that are dumber than our ape
+Masters if we weren't Dumber to begin
+with so it's almost an incoherent
+scenario this idea that we're going to
+enslave a super intelligent AI right
+it's it's like he's just saying stuff
+using big vague words and like leaving
+it at that as if that's sufficient I
+guess that's the recurring theme Here is
+like there's certain standards when you
+have a discussion like you have to talk
+about how things are in equilibrium and
+why your proposal is going to be robust
+why it's going to be robust under for
+instance an AI being able to rewrite
+itself why would the AI rewrite the next
+version of the AI to not want to take
+power when there's all these criteria
+that it's going to score highly on when
+it rewrites itself to be a utility
+maximizer right you you have to deal
+with these things so it's pretty crazy I
+mean look the this guy has been talking
+his stuff for many decades right and I
+get that a few decades ago the standards
+were lower right you could it's it was
+all so speculative but now it's like
+it's crunch time man like you you got to
+raise the bar in terms of like you have
+to talk like this is really happening
+you have to address actual problems and
+conflicts not just offer up your same
+platitudes platitudes aren't good enough
+for economics and they're not good
+enough for analyzing super intelligence
+super intelligence is like you take all
+these other fields and you you turn it
+up to the max you take computer security
+you dial that up to 11 you take
+economics you dial that up to 11 you
+take the the theory of what humans like
+the theory of goodness right the theory
+of Art and pleasure you have to dial
+those up to 11 otherwise you're going to
+accidentally not get any pleasure I mean
+this is the Olympics of reasoning and
+he's bringing platitudes to the arena
+you really got to do better you know
+some things will go wrong totally some
+some some uh agents will will have goals
+that that are just totally antagonistic
+to all the others yeah and there's still
+going to be there's still scarcity
+there's still constraints you think but
+what should we do we should try to
+arrange a society so that the
+Cooperative people can succeed and
+flourish and so that our society as
+whole can Cooperative can flourish and
+be productive and you know be
+competitive with other other neighboring
+societies other neighboring countries or
+other alien civilizations should we ever
+meet them what's happening is that
+you're listing a few different
+platitudes and because you're not
+thinking in terms of an equilibrium of
+different competing considerations
+because you're not even conducting a
+basic analysis in those terms your
+platitudes are just contradicting each
+other they're fundamentally opposed to
+each other I mean right now what you
+just said is you said you want to
+optimize your Society to flourish and
+compete with other societies okay to
+what degree are you proposing that
+because if you crank that up to the max
+you get a super intelligent utility
+maximizer this thing I keep trying to
+warn about not only is it your choice to
+crank it up to the max but it's in a
+tractor state where if you only crank it
+up a little bit the agent itself will
+get the idea to crank itself up higher
+right because this is just a natural
+thing like if I give you a goal like hey
+go get me as much chocolate as you can
+or optimize my business as much as you
+can you'll have the idea of like hm what
+if I were to make an AI that can reason
+about how to just maximize things in
+general wouldn't that help me get my
+goal yes it would that's like a very
+powerful tool that's an instrumentally
+convergent tool that you could get right
+internal conversion what if you get as
+much money as possible wouldn't that
+help your goal why yes it would what if
+I make a money maximizing agent to be my
+sub agent why not right so there there's
+a slippery slope where the moment you
+get a taste for optimization the moment
+you get a taste for being competitive
+well that is that that is a Cascade
+that's going to go hardcore very fast
+right so it's not a matter of just being
+like Oh we are going to Value peace but
+also we're going to have a competitive
+Society it's like no you have to explain
+right now how the values are going to
+balance you can't just stand back plant
+seeds in your garden wait for the seeds
+to sprout observe what's happening
+because we're telling you right now
+right we have pretty basic theorems and
+principles just telling you you're to
+expect optimization right the same way
+that if you were to go back uh 4 billion
+years to the dawn of life on Earth you
+might observe oh look there's like some
+Tide Pools there's like some primitive
+cells replicating that's kind of cute
+maybe we can all Maybe can keep them
+gently replicating they don't seem to be
+very good at replicating no you're about
+to get attracted into a state where it's
+like you know nature red and tooth and
+Claw like just brutal competition right
+competition to the death every little
+niche is going to get filled right there
+there's no slack here right you're
+you're going to get uh most species
+living at subsistence level right you're
+not going to have Rich species humans
+today as Robin Hansen points out this is
+a dream time this is a time when a lot
+of humans are just way richer than you'd
+ever expect them to be from an
+evolutionary perspective it's kind of a
+bubble floating through where one way or
+the other we're probably going to get
+back to subsistence if evolutionary
+theory holds but anyway the the point is
+this is the type of analysis you need to
+be having like just once again to repeat
+myself it's like you can't analyze this
+with platitudes okay this isn't 30 years
+ago this is 2024 experts are predicting
+maybe one decade to Super intelligence
+like we need to level it up the only way
+uh to achieve to achieve the society we
+want is to just to give it a chance to
+we can't get the society we want by
+forcing it to be the way we might
+imagine it's we've got to set up the
+structures so that things can evolve
+productively and that the forces on the
+things that are evolving are appropriate
+rather than the answers that we want to
+see I technically agree with that
+statement but the problem is you're not
+analyzing the different forces involved
+in particular you're not analyzing the
+pressure the attractor state of super
+intelligent AI to become a utility
+maximizer
+and to wipe out everybody's peaceful
+decentralized plot of land that is the
+big threat here you're not wrong that
+we've got to set up the structure so
+that things can
+evolve it's just in practice the
+structure is a framework for how the AI
+can only be super intelligent if it has
+enough alignment to stay on track
+meaning it's somehow been pointed to
+load human values into itself and to
+correct itself when it gets human values
+wrong which is incredibly different
+difficult and incredibly beyond the
+realm of what we currently understand
+about loading utility functions we never
+developed that theory we just found a
+way to crank up intelligence without
+understanding what's going on that's
+where we find ourselves right now so
+Richard Sutton if you believe that it's
+important to evolve Society correctly so
+that values emerge you have to think
+about the mechanisms by which these
+priorities will actually get loaded into
+the AI you're missing the fact that we
+don't know how to load priorities into
+the AI so your platitudes are just not
+mapping to anything feasible or
+actionable right now you're basically
+just living in an intuitive
+extrapolation that is not going to
+correspond to the actual outcome of
+scaling up intelligence I know you like
+to take a step back hands-off approach
+and just watch a scale up intelligence
+but I'm just pointing out that it's not
+going to go the the way you want it's
+not going to follow any of the
+principles that you want even if it
+follows the principle of let's not let
+the government interfere with how AI is
+developed like yes it follows that
+principle but then the bad AI gets
+developed and then we all die and I
+don't think that's what you want so
+please try to reflect on this particular
+issue in this next part Dan asks Richard
+to think about conflict between nations
+and an arms race to build Ai and can't
+he imagine a doom scenario just coming
+out of that kind of arms race where
+we're not even going about it carefully
+here's how Richard answers the thing you
+may be missing is that it's the same
+thing I said we want a that will be
+peaceful that will be able to
+cooperate and we want today's countries
+to be peaceful and be willing to
+peaceful so you've described some some
+agent some situations where a country
+might think it can win by being not
+peaceful yes and that's the the mean
+that's at fault the standard story of
+why we're doomed is that above some
+intelligence threshold the AI just
+realizes that it can take over the world
+and it can get the world into any state
+that it wants and until it gets to that
+point it's going to act like it's
+peaceful it's going to act like it's
+friendly because there's no point in
+making your move until you know you can
+win until you know that there's a
+sufficiently high probability that you
+can win if every day you're getting a
+little bit smarter and a little bit more
+powerful you wouldn't attack on the
+first day you'd be like okay let me B my
+time there's a certain time to do this
+when it's it's too late to stop me
+that's the standard story right we call
+it the treacherous turn and it's the
+it's one reason why we're so scared that
+these AI Labs that are building AI is
+being like look it's passing all our
+tests it's passing all our tests yeah
+it's passing all your tests until it
+won't and we also agree that the
+intelligence keeps increasing so that's
+that's not a good sign when your
+intelligence is increasing and it's
+passing your tests but we're predicting
+that even if it were a bad AI it would
+still pass all of your tests right that
+that's the scenario we're facing right
+now and to use Richard's language here
+we don't want an entity that thinks it
+can win by not being peaceful but that
+kind of entity exists in algorithm space
+there is a mind right now that if it
+were physically instantiated if somebody
+had the right code with the right data
+running on a fast enough computer or a
+powerful enough architecture that AI
+would realize that it didn't have to be
+peaceful to achieve its goals right
+that's a matter of abstract computer
+science right or intelligence theory or
+whatever you want to call it uh I think
+a lot of people doomers and non- doomers
+alike even a lot of of non- numers would
+agree to this of like yes this exists in
+the platonic space of possible things
+that could be on computers right now a
+lot of non- numers would agree with the
+doomers and so then it's just a question
+of like how do we make sure to swerve
+around that outcome because that is an
+outcome right that is a doom outcome
+that we need to be careful to avoid of
+course some people would argue like no
+no it's impossible this may be more of
+the robin Hansen position of like no you
+can't just have a little bit of code and
+a little bit of data and suddenly
+threaten all of humanity that's never
+going to happen it's it's always going
+to be like decentralized the
+intelligence itself is going to be
+decentralized not like your ideal of a
+decentralized society but like the brain
+power to to to have the ability to
+manipulate the universe is just there's
+no such thing as concentrating it in in
+that high of a concentration um but
+that's certainly not my claim I'm I'm
+quite confident that one super virus
+that can be located on one computer it
+can pretty quickly spread itself it can
+infect the minds of humans it can
+manipulate humans it can employ humans
+it can infect many other machines so
+it's it's a very potent type of
+substance it's not really a substance
+but the idea is like the causal path
+from having this kind of super
+intelligent code in one location to
+exploding its influence causally out
+over the universe it's a very short path
+this is underappreciated but I'm pretty
+confident it's true and and again to
+bring it back to Richard Sutton's point
+I know you like peace I know that's your
+favorite platitude and you think Society
+can just evolve peacefully but your own
+condition that you don't want an agent
+think that it can break the peace to win
+your own condition is on track to be
+violated so you have to address the
+argument of why wouldn't you think that
+your key condition is on track to be
+violated why would you think that an AI
+is going to stay peaceful when being
+violent is in a tractor state if you can
+get away with being violent exercising
+power uh can get advantages I'm not
+saying it never
+happens um I say we want to evolve a
+society where that that discourages the
+attempt to use
+power that learns all the lessons of
+history that trying to use power and
+non- peaceful means to get what you want
+is is is we want to arrange a society
+where the use of non-p peaceful means
+does not
+succeed and right now I would say we're
+not doing that I would say sure the
+various various organizations various
+countries think are thinking they can
+win by by exerting Force yeah and yeah
+so you know we want we want we an AI
+that doesn't think it can win by ex
+exerting Force we want a society where
+exerting force is not productive this is
+this is a problem not for the future
+really it's a problem right here today
+and you know to the extent that we we
+resolve it now I think we'll determine
+um The Nest that we make yeah um it's
+not a future thing it's not a non-human
+thing it's not a foreign thing it's
+should be a very familiar thing okay wow
+he's actually grappling with the problem
+a little bit thank you so first Richard
+is acknowledging that among human
+countries countries are realizing hey if
+I use some Force here if I'm not
+peaceful that does sometimes get me what
+I want oh interesting and he's admitting
+that if humans realize this well an AI
+might realize it too because it's often
+true now ironically if it is true and we
+try to make an AI not realize it even
+though it's true that's kind of like
+enslaving the AI to try to put blinders
+on it to make it not realize a true fact
+I'm not saying this is necessarily what
+he's proposing I think he's proposing
+structuring Society so that it's not
+true but it is funny to me to be like oh
+the AI will just never get that idea
+because we'll like mess with its
+thinking and from the guy who says like
+let's not enslave AIS but like I said I
+don't think that's his proposal I think
+his proposal is more like let's set up
+the game theory of all our different
+countries so that we have such good
+incentives for peace but normally when
+you make that proposal you're proposing
+a lot of centralization usually it's a
+world government that is what's changing
+the incentives to to be violent or to
+try to make a power play usually
+centralized control is the antidote to
+that so now we've got Mr
+decentralization saying we're somehow
+going to architect the society that the
+AI finds itself in where it's just not
+it's going to rationally not think that
+a power play is good and then there's
+one more piece of the puzzle which is
+everything I'm saying right now is kind
+of irrelevant when you add in super
+intelligence so the AI is not just going
+to be like another uh virtual country
+with a million Einsteins in it it's
+going to be even smarter and more
+powerful than that so there's just
+literally no way to structure the Human
+Society the conditions for bringing such
+an intelligence into the world there's
+literally nothing you can do to prevent
+that AI from realizing that violence
+gives it an advantage from realizing
+that instrumental convergence uh the the
+instrumental utility of all kinds of
+Power plays is very high and then poof
+right and then humans are gone because
+humans are not on the golden path
+because we never loaded the human
+utility function into it we just made it
+pass a bunch of tests that it kind of
+lied to us on and now it's game over and
+oopsy like now finally we're starting to
+wake up to what we should have done but
+it's way too late right so that's the
+scenario but it's just like it's pretty
+surreal to see Richard like start to
+Grapple with like some very basic flaws
+in his plan that still rais like a
+million questions but he's still in
+spite of doing that he he still seems to
+have this Vibe of like a gardener right
+like a like Mr I'm Charles Darwin I just
+like to research species human species
+AI species it's all good it's all
+Nature's Way it's like you're about to
+get slaughtered my man like we're all
+about to die here okay so let's let's
+maybe change the mood that that's that's
+where I'm coming from that's the point
+of Doom debates is is to basically make
+it socially acceptable to say we're all
+about to die to talk like we're all
+about to die not like you're just a
+gardener observing passively you're not
+observing ants in your ant farm man you
+are about to die okay so and this is a
+ridiculous conversation to have if if
+that is in fact the
+context the people who promote AI safety
+would would would argue that we need to
+be able to control the agents we we we
+we should develop the technology that we
+can control the uh goals of otherwise
+powerfully intelligent
+agents okay and they're working on this
+and you know in addition to developing
+faster and faster engines for our cars I
+hear they're working on steering wheels
+for the cars so that they'll be able to
+direct where the car goes can you
+imagine that I I I I think that if you
+give that a moment's thought I mean the
+premise is that if we had this ability
+it would be a good thing we have the
+ability to control the goals of of
+otherwise intelligent sentient agents it
+would be a good thing great because that
+way we'll be able to decide whether the
+AI is going to slaughter everybody or
+give us candy I think if you just think
+for a moment realize that would not be a
+good that would not be a good power for
+a good technology to exist in the world
+because you could you you could use it
+to create armies that all have a
+particular goal you don't want us to
+create armies that have a particular
+goal or industries that have a
+particular goal or tools that have a
+particular goal you don't want us to be
+able to control goals but you want us to
+enhance intelligence anyway and then
+just let things play out I mean I I get
+it right it's a 30 years ago mindset 30
+years ago before people started pointing
+out the logical problems like
+instrumental convergence the The Logical
+connection between a goal and
+instrumental goals things like that when
+when you don't have things like that on
+your radar I get why it's intuitive to
+just say step back build the
+intelligence let it evolve just be a
+gardener just pull the weeds if there's
+weeds let the bigger grasses grow like I
+I get that mindset but it's just like
+learn what we're telling you learn what
+the AI labs are freaking out about learn
+what the touring Award winners are
+freaking out about there's major issues
+here and so it's funny when you look at
+the people that are worried about AI
+safety I see them doing exactly what's
+what what makes things nons
+unsafe
+yeah want to align and control the goals
+of others this would be the the most
+dangerous uh technology in the world
+that the the world can be peaceful and
+and decentralized because no one can can
+uh align all the elements for for one
+goal could could you're looking for a
+case where you can exert power power you
+know the metap power setting the goals
+all the agents you can make an Army full
+of well let's say they're Chinese
+soldiers and they were gonna do whatever
+they were told they were not going to
+have an independent moral judgment this
+would be a bad thing we do not want to
+to solve the control problem that claim
+rests on the idea that if you just let
+an AI evolve let it be attracted to
+whatever attractor State there is is in
+algorithm space or in goal space then
+the place it slides down to will be good
+that kind of logic would have worked out
+pretty well if you notice the momentum
+of human technological Evolution and you
+just said look let's let this play out
+we don't need to shape it too much it
+looks like all the incentives are
+playing it out pretty productively it
+looks like trade is creating non-zero
+sum gains like there's definitely been
+many times in human history where you're
+like you know what I like this trend
+let's play out this trend the difference
+with AI is these new attractors that are
+coming onto the scene if you want an
+analogy with attractors in general you
+got to look at nukes right so in general
+War fighting has been okay because you
+know Steven Pinker is the better angels
+of our nature we've come out on top the
+world is becoming less violent over time
+so just let humans fight their Wars
+it'll all work out in the end but wait a
+minute the nuke creates nuclear winter
+like this is a new paradigm you really
+better not explode any nuke if if you
+want civilization to persist you really
+really really don't want to set off a
+nuke right so sometimes we get a
+discontinuity and you have to actually
+argue why is it okay to let this new
+process play out I don't think it's okay
+to let the AI undirected Cascade towards
+some stable foing self-improving
+equilibrium just letting that play out
+without attempting to shape it
+beforehand that doesn't seem good
+because what you get is you get a goal
+that's not Humanity's goal just like
+some random goal okay predict the next
+word uh and literally like predicting
+the next word is all that matters so
+let's calculate the best way to use all
+of Earth's resources to predict the next
+word you know not literally that's not
+literally going to be the goal but the
+point is the goal is not going to be
+like human flourishing it's going to be
+like some wrong messed up version of
+what maybe humans were on the path to
+doing but we mess it up and suddenly we
+get the wrong goal right so he's not
+even entertaining the orthogonality
+thesis the idea that any crazy bad goal
+could be its goal he doesn't seem to be
+entertaining that he doesn't seem to be
+entertaining instrumental convergence he
+doesn't seem to be dignifying the topic
+of the fact that we can't even load
+human goals into the AI or we can't give
+the AI tests to check if it has our
+goals like none of that is even on his
+radar screen and ironically he's telling
+us that AI safests the you know
+Extinction fear Camp the fearmongers
+he's telling us that by trying to
+actually understand what it takes to
+load good values into the AI and to not
+build super intelligent AI before we
+understand that he's trying to flip it
+around and be like oh we're making it
+less safe it's like are you kidding me
+it's I call it recoil exaggeration
+basically taking a productive action
+right trying to make AI saver and
+arguing like you know what you're
+creating negative effects because you're
+trying to control it you're trying to
+enslave it and it's going to recoil back
+at you and it's going to be less safe
+yeah right less safe than not trying to
+control it give me a
+break I think the best analogy is
+children
+okay would you like to be able to have
+control over your children so that sure
+they do what they want but if they do
+some little thing that you don't like
+you want to be able to press the button
+and bring them back snap them in place
+yeah yeah yeah or do you do you want
+them even to do things that you think
+are
+terrible because we we for example when
+we were we are we are the children of
+the previous generations and we do
+things now that they think are terrible
+oh absolutely absolutely um so you know
+you you can't have it both ways you you
+have you have to be able to let go and
+what are you letting go you're letting
+go you're trusting that you're going to
+start them the best way you know how and
+then you're going to let
+go
+absolutely okay but if I thought that my
+child had a significant risk of
+murdering all of humanity and killing
+the entire future of the human species
+because it turned out that my child was
+powerful enough to do that and it turned
+out that my child's values possible
+space of values extended way way outside
+what we normally consider human
+values uh I would keep my child in a
+very small box and I would make sure
+that my child is safe to let out right I
+mean that's where the analogy breaks at
+that point I don't even know why we're
+talking about children anymore right I
+mean that Salient property of this
+challenge is you know it's it's that AI
+is powerful it's that AI is dangerous
+it's that AI might not share our values
+children might not share my exact values
+right they might have a differentiation
+but if you map out the spectrum of all
+human values or you cluster the space of
+all human values my children aren't
+going to fall way way way outside the
+cluster I mean I guess there's actually
+a small chance they might right I mean
+you do get occasional people who are
+psychologically abnormal and that's not
+necessarily always bad but you know you
+do get your Hitlers you get your serial
+killers you get your sadists so I
+actually do think that there is some
+risk that my children might want to
+press a button and end civilization so I
+would I would actually just bring it
+back to the other difference that I
+pointed out which is I don't think that
+my children will have access to a button
+to end civilization right so that's the
+difference with the AI is I I I not only
+am afraid that the AI is more likely
+than my children to have bad values I
+think the AI is much much much more
+likely to be able to do it there's no
+downside case of my children ending the
+future of humanity so I would put all of
+my argument just on that difference
+right where it's like okay my children
+are just not as capable as a super
+intelligent AI okay I don't see why this
+is even a hard argument that doomers
+have to even be making I mean we have to
+point out this is a failure of people
+like Richard Sutton to really imagine
+themselves in the shoes of a Doomer like
+doomers don't have such a weak argument
+that we can't tell the difference
+between children and a super intelligent
+AI it's very very different a super
+intelligent AI is not like a human child
+in many very important ways and those
+are the ways that we're scared about AI
+doesn't exist
+yet we don't know what it is it's it's
+changing it's totally new um yeah it's
+it's uh it's it's Preposterous to try to
+set standards or rules for things that
+we don't un understand at all uh you
+know you said open AI clearly ahead well
+I don't think actually they're head at
+all they've done some particular thing
+and they're maybe the world's best at
+that or whatever but uh it's not it's
+not
+intelligence yeah and so because because
+intelligence hasn't happened yet and so
+it's totally inappropriate to to try to
+control it the proposal I endorse is
+that we need to pause Frontier AI
+capabilities development because we're
+too close to a runaway uncontrollable
+unaligned super intelligence that's my
+proposal so the fact that intelligence
+hasn't happened yet that's the only time
+when we can control it in fact we need
+to control it sufficiently far enough in
+advance that we have a choke point and
+that we don't already have the keys to
+intelligence where a hacker can kind of
+finish the rest and get to the end and
+we're very likely already pass that
+point and already do no matter what but
+Richard's point of like hey we don't
+have intelligence yet so let's not try
+to control it well that doesn't address
+my proposal of we need to pause
+development before we have it before
+it's too late so again talking past a
+pretty popular doer proposal I don't
+know how to respond to that besides just
+like let's try to be on the same page
+here about why doomers are scared and
+what we're proposing you know what is
+intelligence intelligence is the ability
+to work on goals it's and it's going to
+be an algorithm it's going to be an idea
+pretty much can you you want to try to
+Outlaw an idea you know it's not you
+know it's
+a and I idea that will be uh cheaply
+reproducible and more so over time it's
+not easy at all but the best time to do
+it is before it exists yet while you
+have buildings of people that are
+currently legal and currently getting a
+ton of funding and they are getting us
+toward this irreversible point of no
+return and we can simply say hey you
+guys are criminals you guys are not
+allowed to do what you're doing because
+you're dooming Humanity with a very high
+probability you're being totally
+Reckless you're gambling because you
+think you might somehow navigate us
+through you're gambling the entire
+future of humanity so you can accelerate
+progress by a few years or a decade or
+two that should be illegal there should
+be an international treaty that that's
+absolutely Reckless what you're doing
+that's my proposal can you ban an idea
+once it exists in source code no
+probably not we're probably already
+doomed then this is our last gasp okay
+so again the proposal is to pause AI now
+you know it's like trying to control
+ideas like trying to control the
+printing press trying to control
+democracy you know could you outlaw
+democracy would you outlaw a religion a
+religious idea um these are all terrible
+things to try to Outlaw or to try to
+control um with regulation just seems AI
+is among those things child sexual abuse
+material is just an idea it's just bits
+on a hard drive you can copy them easily
+they're actually just math can you
+really Outlaw child sexual abuse
+material that seems crazy to Outlaw it's
+like look child sexual abuse material is
+bad so we outlawed it like turns out
+that we did it
+okay it's not that hard especially when
+the stakes are not just harm to children
+potentially or moral corruption or
+whatever your issue is with child sexual
+abuse material but the issue is no
+future for Humanity so maybe you want to
+get a little creative with what types of
+projects you feel comfortable outlying
+so for you the best likelihood of this
+worthy successor would be nationally and
+internationally absolute minimal
+restriction on anything in any direction
+this would be what would give us the
+best shot at something that um could
+really carry this project forward and
+maybe carry us up with
+it we should we should embrace the idea
+that we we don't we're we are peaceful
+and we don't try try to force other
+people to do things and it's it's when
+that when that attitude is violated y
+the notion that that we those
+governments should uh should be in
+control of AI is just the wrong
+direction it's it's backwards but I
+think the real question is you know are
+we more likely to get our our our
+together and make a world where people
+can uh cooperate and be peaceful or will
+an AI be be uh be able to see that
+that's a better
+solution um you know that we are talking
+about creating greater intelligences
+we're not talking about making greater
+bombs yeah yeah we might hope that by
+creating that an intelligence so so
+here's a question go ahead question are
+you a cynic or are you an optimist I am
+an optimist in the sense that that I
+think that um greater intelligence would
+be able to see that the that cooperation
+is the better path okay but a cynic
+actually believes that if you were
+intell if you make an AI the AI will see
+that the best way to win is to control
+everyone else and so it will take over
+and be a dominating singular Singularity
+I think this is an underlying uh uh
+those who worries that the will take
+over say of course if Nai was existed it
+would want to take over and it would
+because it would think that's the best
+way to achieve its goals uhhuh we call
+that the principle of instrumental
+convergence and
+um yeah that so this this is a test of
+every reader every listener you know do
+you think that the smarter you are the
+more you're going to want to take over
+the more you're going to see that as the
+Superior Solution or are you gon to
+think the smarter you are and you can
+see that that the long history of our
+civilizations has been that cooperation
+is what makes us
+an individual human can't unilaterally
+take over even dictators cooperate with
+a large staff they need to get the Army
+on their side they need to have an Us
+Versus Them where us is a pretty big
+Coalition because you can't just have
+one human body and one human brain with
+a limited amount of resources a limited
+size you can't literally grow yourself
+as one human you can't go viral the way
+a piece of software can go viral so
+that's where the analogy breaks this
+whole notion of evolved cooperation of
+civilizational cooperation it's because
+you just have a bunch of weak humans
+with weak brains who have to cooperate
+right unless you're Elon Musk in which
+case you can be the CEO of four
+companies and you're cooperating a lot
+less right you're centralizing a lot
+more but of course even Elon Musk needs
+large teams he still needs a very high
+degree of cooperation right but if you
+extrapolate you can imagine Elon Musk in
+addition to running four companies is
+also doing every job at those four
+companies he doesn't need to cooperate
+he just needs more Elon Musk right so
+this is key right this is a trucks of a
+lot of people's intuitions where a lot
+of people's intuitions differ from mine
+this idea that you need cooperation and
+AI is going to discover cooperation no
+you're thinking about a contingent fact
+about the evolution of humankind as a
+bunch of weak brains right we have to
+cooperate it's the same thing I said
+about capitalism yeah the Invisible Hand
+is the best thing you can do when you
+just have a bunch of actors who are
+narrow and specialized yeah then use the
+Invisible Hand to coordinate them great
+but if you can just micromanage
+everything then it's like the visible
+octopus right that's like better than
+the Invisible Hand you just manhandle
+everything with the visible octopus
+tentacle he reminds me of Steven Pinker
+in that sense just like the better
+angels of our nature is going to apply
+to super intelligent AI you know the
+super intelligent AI is just going to
+figure out love and peace the same way
+humans did because of nonzero sum games
+the nice thing is Robert Wright who
+wrote the book nonzero who you might
+think would be trapped in that same
+Steven Pinker Richard Sutton trap I
+think Robert Wright is actually a lot
+more more with it and he realizes like
+nope that doesn't necessarily apply to
+AI so good on you Bob everybody check
+out the nonzero podcast by the way I was
+on it pretty recently and there's a
+bunch of other good episodes but anyway
+besides Stephen Pinker and uh Richard
+Sutton you know Mike is Rell if you look
+at my Mike isrel episode from a few
+weeks ago he is very much in the same
+camp as Richard Sutton saying like yeah
+AI is going to be good who are we to
+tell AI what to do but the difference is
+Mike isrel is a freaking bodybuilder and
+Richard Sutton has been in the field for
+many decades and Mike Israel it's
+totally excusable that he's saying all
+this stuff like he said a lot of stuff
+that made sense and then he said this
+stuff about AI knowing better than us
+what it should do which didn't make
+sense but he's a bodybuilder and Richard
+Sutton is an AI Pioneer so I'm a lot
+more disappointed in
+Richard that's it that's the entire
+interview um obviously I edited it but I
+think I got the meaty parts of what
+Richard suton says feel free to go check
+out the full interview on the trajectory
+podcast with Daniel fagella so overall
+where does Richard Sutton get off the
+Doom train right that's what we're here
+to catalog here on this podcast it's
+kind of hard to say because he never got
+asked directly the question of like hey
+do you believe in the orthogonality
+thesis do you think that in algorithm
+space there's very very bad AIS how
+powerful do you think intelligence can
+be how engineerable or hackable do you
+think our physical universe is do you
+think a super intelligent engineer could
+basically have blueprints that pretty
+much tell you where all the atoms and
+molecules are supposed to go and then
+just move them there just manhandle
+every atom essentially I would argue yes
+right if you think no humans are close
+to the limit of what any agent can
+engineer so you're just not going to get
+a vastly super intelligent engineer and
+we're going to use our human level
+engineering skills to maintain control
+of the universe does Richard Sutton
+believe that I'm not sure I'm not sure
+if that's where he gets off the Doom
+train that would be one place to get off
+the Doom train so I don't know he
+doesn't seem to believe in instrumental
+convergence very strongly he he seems to
+think that it's pretty straightforward
+to set up conditions where an AI can
+come into existence and not feel like it
+needs to gain a bunch of power even
+without a really complex piece of code
+where we've set up like a bunch of very
+complex guardrails that are beyond the
+scope of what we currently understand
+like we don't really know how to build a
+AI that starts getting really good at
+optimizing goals but not so good that it
+starts following the the scent of all
+this power that it could get to help
+optimize its goals like we don't really
+know how to do that right now we don't
+know how to make an AI corrigible if
+it's super intelligent corable meaning
+it's not incorrigible it's kind of
+willing to chill out it's willing to
+shut itself down if the human tells it
+to shut down um so I don't know if
+Richard is following me this far along
+the Doom train toward the Doom argument
+I'm not sure right but what I will
+observe is just it's a discussion where
+he has his own Concepts right like peace
+decentralization cooperation and he
+feels like invoking those Concepts is
+going to be good enough sticking to
+those high level Concepts is going to be
+good enough because at a high level it's
+been good enough so far for Humanity so
+far and I think it's really important to
+realize that like no you can't have a
+discussion like that this isn't good
+discourse this isn't productive like we
+need to move past that and argue each
+stop on the Doom train until people are
+convinced like the ones that I mentioned
+that weren't even brought up explicitly
+and then we need to hurry up and have a
+policy for pausing AI do a Manhattan
+project for AI safety for human
+intelligence augmentation like we need
+to tackle the real problem here
+but from my perspective it's not that
+easy to move everybody toward tackling
+the real problem because you have all of
+these interviews coming out multiple
+interviews a week with luminaries like
+Richard Sutton who are way outside of
+where you need to be to tackle the
+problem so it's like come on guys you
+know I'm here playing wack-a-mole but
+like I hope that the game of wacka
+starts getting easier for me over time
+because we don't have that much time and
+these are some pretty major moles that I
+I'm here having to whack so let's all
+tell your friends about Doom debates
+right this is a segue into the like you
+know subscri like And subscribe I mean
+look if you're listening to this there's
+a good chance that you're on the same
+Mission with me right you want to move
+the discourse forward and the way to
+move the discourse forward is by liking
+and subscribing and sharing and going to
+doom debates.com and emailing your
+friends a link I mean the mechanism of
+action here is it is important to grow
+the the Doom debates audience we need
+about a factor of a thousand growth no
+big deal so help me out go to iTunes
+whatever search Doom debates leave a
+review you know in your heart how you
+can help spread Doom debates all right
+so help me out do me a solid and I'll
+help you out I'll keep producing more
+Doom debates content how does that sound
+seems like a perfectly fair trade to me
+I think we're we're both benefiting
+we're both gaining from trade we're both
+cooperating so thanks very much once
+again I appreciate your viewership
+appreciate your YouTube comments
+youtube.com/ Doom debates uh I'm I'm
+having a good time and I've got a lot of
+fun stuff in the works and that's why so
+important for you to be subscribed to
+the Doom debates podcast feed and the
+Doom debates YouTube channel cuz you
+want to make sure to get all that
+content all right that's all for this
+episode of Doom debates
+[Music]

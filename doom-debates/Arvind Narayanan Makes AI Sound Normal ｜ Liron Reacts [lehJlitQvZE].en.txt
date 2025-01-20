@@ -1,0 +1,2023 @@
+AI has the potential to be a bigger
+weapon than nuclear weapons how do you
+think about that I think it's a bit of a
+a category error there I mean a nuclear
+weapon is an actual weapon AI is not a
+weapon welcome to Doom debates I'm Lon
+shapira today I'm reacting to an episode
+of the 20 VC podcast that just dropped
+with host Harry stebbings and guest
+Professor Arvin nanan Arvin Nan is a
+professor of computer science at
+Princeton University known for his
+critical perspective on the misuse and
+overhype of artificial intelligence
+which he often refers to as AI snake
+oil naran's critiques aim to highlight
+the gap between what AI can
+realistically achieve and the often
+misleading promises made by companies
+and researchers you may recognize that
+name AI snake oil because arvin's Co
+blogger on that blog say kapor was
+featured by me on a recent reaction
+episode on the question of whether P
+Doom is a meaningful claim that should
+influence policy at all s basically said
+no I said obviously yes so I encourage
+you to go and take a look at that
+episode but today we're not talking
+about scash we're only talking about
+Professor Arvin Nan Arvin comes off like
+what you think of as a cool-headed
+skeptical guy he tends to always frame
+things as like yeah this hype is kind of
+unproven let's wait and see we'll deal
+with things as they come let's not
+overreact let's not trust these hype
+claims very understandable perspective
+of course as an AI Doomer I think that
+we're facing an Extinction threat and we
+do need some level of fear-mongering or
+hype or expectation that normality will
+be vastly upended so you're going to see
+that Clash of perspectives between
+arvind and doomers like me and that's
+really why you come to Doom debates
+right because you know how important it
+is that we have that Clash of
+perspectives all right then if that's
+what you want that's what you're going
+to get let's dive
+in the kind of core question that
+everyone's asking right now is does more
+compute equal an increased level of
+performance or have we reached a point
+where it is misaligned and more compute
+will not create that significant spike
+in performance Kevin Scott at Microsoft
+says absolutely we have a lot more room
+to run why are you skeptical and have we
+gotten to a stage of diminishing returns
+on compute so if we look at what's
+happened historically the way in which
+uh compute has improved model
+performance is with companies building
+bigger models right so I in in my view
+at least the biggest thing that changed
+between GPT 3.5 and GPT 4 was the size
+of the model and it was you know also
+trained with uh more data presumably
+although they haven't made the details
+of that public and more compute and so
+forth so I think that's running out I
+think we're not going to be
+we're not going to have too many
+motorcycles possibly zero motorcycles of
+a model that's you know um almost an
+order of magnitude bigger in terms of
+the number of parameters uh than what
+came before and uh thereby more powerful
+and I think a reason for that is data
+becoming a bottleneck these models are
+already trained on essentially all of
+the data that companies can get their
+hands on just to review what arvind is
+saying here he's saying yeah when we
+have a bigger computer budget we
+typically use it to train a bigger model
+and when we train a bigger model we have
+to feed more data into it but the
+bottleneck is becoming the amount of
+data available in the world we don't
+necessarily have 10x more or 100x more
+data in the world to feed into the next
+model so because of that maybe having a
+10x or 100x bigger model might not
+improve on the current models because
+we're close to running out of data
+that's just me repeating arvin's point
+but I find that point epistemically
+sloppy for a couple reasons my first
+objection is that he's not giving enough
+credit to synthetic data so who cares
+how much data is on the internet if more
+data is really the critical Factor here
+then what's wrong with different types
+of AIS that can generate data in
+different ways how is that fundamentally
+worse than random humans generating data
+because if you take half the internet
+and then look at the other half of the
+internet the other half is not that
+different from the first half right it's
+like okay more forums maybe different
+topics get mentioned maybe a few people
+throw in a few additional facts from
+these other domains but like if you've
+seen half the internet and many of us
+have all seen you know our own 0.1% of
+the internet and we're not that shocked
+when we visit different websites right
+it's pretty familiar so why would Arvin
+be so focused on how much extra data can
+come from the internet instead of just
+saying like yeah if you need more data
+you can cook up more data to order you
+can just have the AI pretend to be a
+human but have it have a type of AI that
+like simulates something that has like a
+different type of model that llms don't
+natively reason in terms of so you're
+having one AI synthesize a type of data
+to go feed into another Ai and that'll
+teach something to the other AI I'm just
+saying synthetic data can probably at
+this point help as much as real
+grass-fed organic data so that's my
+objection number one objection number
+two is this idea that data is
+necessarily going to keep being the
+bottleneck if you look at humans like
+you and me in our whole lifetimes we
+maybe get fed in through audio and site
+we maybe get fed in like a billion words
+gp4 got fed in about a trillion words so
+that's already a thousand times more
+that gp4 has in terms of wordage than
+you or I are ever going to get in our
+lifetimes so why can't gp4 use the words
+that it got to think really hard and
+come up with deep Concepts explaining
+those words and just kind of figure out
+the essence of reasoning and be smarter
+than us why are we still smarter right
+so there's no fundamental reason why
+that extra word count is necessarily the
+bottleneck if we just add more
+parameters and more kind of Brute Force
+more scale to the Transformer
+architecture that might be enough for it
+to quote unquote Gro these deeper
+patterns it might just be able to start
+answering questions about a variety of
+fields just because it thinks more
+deeply so for example you can have a
+human that is not the most knowledgeable
+person in the world but they're just
+really good at thinking and so they're
+just extracting so much out of the data
+that they've seen because they're making
+deep connections and they're able to
+discuss a lot more intelligently than
+people who only have crystallized
+knowledge right it's like a lot of us
+have had the experience of if you have
+like a contractor or a doctor that's a
+specialist that you're saying a lot of
+times if you just spend a couple hours
+on your specific issue do some Googling
+do some reading and think using fluid
+intelligence better than the doctor or
+the contractor can then a lot of times
+you become the expert for a minute right
+you have something to teach them just
+because their crystallized knowledge
+isn't going to cut it compared to your
+selectively researching relevant bits of
+information plus thinking about them
+better now am I just being uncharitable
+to Arvin by pointing out the reasons why
+he's wrong no I think he might be right
+I don't actually know if he's right or
+wrong here is my beef my beef isn't that
+he might be wrong my beef is that I
+think that arvind and people like him
+keep coming out sounding overconfident
+they keep sounding like they have
+knowledge or Insight that they don't
+actually have so he's coming out he's
+taking a position he's taking a position
+that he thinks that llms are plateauing
+because data is running out what I think
+very well may happen it may or may not
+I'm uncertain but I think it's very
+possible that we get GPD 5 or we get the
+Next Generation and it starts passing a
+bunch of tests that I wouldn't describe
+as plateauing I would describe as taking
+another step toward human level
+intelligence and in that case are the
+Arvin of the world going to admit that
+they were wrong are have they set out
+enough falsifiability to their
+prediction I suspect going to happen is
+that they will just have a convenient
+excuse and they'll just be like oh yeah
+there's this new model but it didn't use
+the exact Transformer architecture it
+mixed in these other tweaks so what I
+was saying about Transformers plateauing
+that doesn't count that's how I think
+they're managing to sound like they have
+Insight but they're strategically
+putting themselves into a position as
+pundits where they're going to be able
+to rle out of any
+falsification I think that's bad for
+discourse in my case if I ever make a
+falsifiable prediction I will signpost
+it that I'm sticking my neck out and
+I'll tell you how to falsify me I won't
+say something that sounds like a
+prediction but then leave myself a line
+of retreat where you can't falsify it
+right now I'm not making a falsifiable
+prediction generally what I predict is
+that once AIS get to human level
+intelligence then there will be Doom
+that's pretty much my only empirical
+prediction and yeah I can give you
+slight variations of it like I think
+there will be really bad computer
+viruses maybe a couple years before we
+get to Doom so I can extend my
+prediction a little bit but for the most
+part I don't claim to have Insight over
+the next generation of the architecture
+that's not what I think is the important
+issue here the important issue here is
+just that we keep crossing the remaining
+Gap toward human level intelligence I
+don't claim to be insightful on how
+quickly we'll cross it or on exactly
+what it will take to cross it I'm just
+observing from an outsider's perspective
+that one way or the other we keep
+Crossing it it keeps getting smaller so
+my challenge for arvind Is if you want
+to act like you're making a prediction
+then be very clear about what gets to
+happen where we can say that you've been
+falsified if GPT 5 comes out and it only
+uses a little bit more data than GPT 4
+but it's passing a bunch of new
+benchmarks that gp4 didn't pass how will
+you update your beliefs how will you go
+back to your blog and say hey we've been
+telling you some things that were false
+what's the update you're going to make
+let's clarify what it is right now so
+that we'll have accountability in our
+pundits while data is becoming a
+bottleneck I think more compute still
+helps but maybe not as much as it used
+to more compute still helps but not as
+much as it used to okay I would like to
+know why you think more compute won't
+help as much as it used to because the
+reason it's plausible that more compute
+would help is because it lets you see
+deeper into the data that you have it
+lets you reach a certain threshold of
+error correction where if you're given a
+bunch of detailed instructions how to
+follow like a logical program you can
+follow it step by step and you can look
+back and you can double check if you
+really did follow it exactly because you
+truly grasp what the instruction meant
+for you to do at that time that's the
+kind of thing that a deeper grocking of
+Concepts can potentially let you do and
+that's traditionally attributed to
+throwing more compute at the Transformer
+architecture again I'm not saying that I
+know that more compute will definitely
+help the AI get way smarter I'm just
+wondering why Arvin thinks that he knows
+that it won't instead of joining me in
+having a high uncertainty prior so I'm
+curious to see Arvin explain the logical
+reason why he doesn't think more compute
+will help anymore the reason for that is
+that uh perhaps ironically more compute
+allows one to build smaller models with
+the same capability level and that's
+actually the trend we've been seeing
+over the last year or so as you know you
+know the models today have gotten
+somewhat smaller and cheaper than when
+gp4 initially came out but with the same
+capability level so I think that's
+probably going to
+continue okay more compute helps you
+produce smaller models that understand
+the same data set but how does that
+relate to your prediction that more
+compute won't also help you build
+smarter models from a given data set I
+don't think we get an answer to that and
+again it's fine it's okay not to have an
+answer but I just caution epistemic
+rigor here when we're talking about
+whether AI is going to cross the Gap
+further toward super intelligence it
+gets to what elzra owski has called the
+fundamental question of rationality what
+do you think you know and how do you
+think you know it doesn't seem like
+you're being rigorous about that
+are we going to see a GPT 5 that's as
+big a leap over gp4 as gp4 was over gpt3
+I'm frankly skeptical I still haven't
+heard an explanation of why you're
+skeptical besides pointing to a
+potential plateau of the amount of data
+available but even that doesn't take
+into account that GPT 4 wasn't trained
+on video data so that's a whole lot of
+new data that's coming so I just haven't
+heard much of a reason why you believe
+what you believe now if I had to give
+some odds that GPT 5 was going to be a
+huge breakthrough compared to an
+incremental step I guess I see why it's
+tempting to lean towards saying it's
+going to be an incremental step in my
+case the evidence that makes me believe
+that is just Trend extrapolation from
+looking at other company's models like
+Elon musk's x. a grock model that just
+came out is kind of comparable to GPT 4
+and the Llama models for meta are almost
+approaching gp4 and the CLA model is
+like slightly better than GPT 4 and a
+lot of benchmarks but not significantly
+different so extrapolating that kind of
+trend does hint that maybe there's a
+plateau and so that's why I might
+believe what I believe weakly but I
+don't believe that strongly I don't have
+a strong skepticism because gb5 is going
+to be a new Advance by a lab that's
+ahead of the other labs right they got
+they got an earlier start so if Arvin is
+basing his prediction off anything other
+than just empirically observing what's
+coming out from other companies then I'd
+like a better explanation of what that
+is can we just take them one by one
+there there was a lot of great things
+that I just want to unpack you said
+there about kind of you know potentially
+the shortage of data being the
+bottleneck to Performance a lot of
+people say well there's a lot of data
+that we haven't mined yet which the
+obvious example that many suggest is
+kind of YouTube which has obviously I
+think 150 billion hours of video um and
+then secondarily to that synthetic data
+the creation of artificial data that
+hasn't that isn't exist in existence yet
+to what extent are those effective push
+backs whoa Harry steings in with a
+perfect challenge I didn't know Harry
+was about to ask that I'm just going
+through the podcast linearly so great
+question Harry what happens when we dump
+in all this other data from YouTube as
+well as synthetic data doesn't that
+indicate that we might get another leap
+in intelligence so there are uh there
+are a lot of sources that haven't been
+mined yet but when we start to look at
+the volume of that data how many tokens
+is that I think uh the picture is a
+little bit different 150 billion hours
+of video sounds you know really
+impressive um but when you put that
+video through speech recognizer and
+actually extract the text tokens out of
+it and D duplicate it and so forth it's
+actually not that much it's an order of
+magnitude smaller than what some of the
+largest models today have already been
+trained with now trading on video itself
+instead of text extracted from the video
+uh I think that could be uh that could
+lead to some new capabilities but not in
+the same fundamental way that we've had
+before where you have the emergence of
+new capabilities uh right models being
+able to do things uh that uh people just
+weren't anticipating so like the kind of
+shock that the AI Community had when I
+think back in the day I think it was
+gpt2 was trained primarily on English
+text and they had actually tried to
+filter out text in other languages to
+keep it clean but a tiny amount of text
+from other languages had gotten into it
+and it turned out that that was enough
+for the model uh to pick up a reasonable
+level of competence for conversing in
+ious other languages so these are the
+kinds of emergence capabilities that
+really spooked people uh that has led to
+both a lot of hype and a lot of fears
+about what bigger and bigger models are
+going to be able to do but I think that
+has pretty much run out because we're
+you know we're training on capabilities
+that humans have expressed like
+translating between languages and have
+already put out there in the form of
+text uh so if you make the data set uh
+you know a little bit more diverse with
+YouTube video I don't think that's
+fundamentally going to change multimodal
+capabilities yes there's a lot of room
+there but new emergence text
+capabilities I'm not sure Arvin makes a
+good point that when you ingest YouTube
+videos if most of the value is just the
+word spoken in the video then it doesn't
+augment the Corpus of the internet that
+much but he also acknowledges hey maybe
+there's data in what's in the video and
+that'll actually be much more data than
+before so he acknowledges he might be
+wrong my personal guess is that it's not
+going to move the needle a ton to have
+this new data set of videos because like
+I said before the internet is already
+pretty predictable once you've seen half
+the internet so even YouTube gets pretty
+predictable once you've seen half the
+internet so I just don't see any other
+Data Corpus making that big of a
+difference that's just my personal guess
+what's Salient to me is that the jump
+from gpt3 to GPT 4 the number of tokens
+in its data set only went up by about a
+factor of two gpt3 had about 300 billion
+tokens in its data set and then that
+doubled to maybe 600 billion in the data
+set for GPT 4 my gut says that when we
+see the progress from gpt3 to GPT for
+it's probably because the model has more
+parameters and maybe other architectural
+tweaks it's probably not so much because
+it has twice as many tokens of data but
+I might be wrong I'm just guessing based
+on intuition if my guess is wrong and it
+really is just twice as good because
+they doubled the tokens well then
+there's definitely potential for them to
+double the tokens again so Arvin is out
+here claiming GPT 5 is not going to have
+the same Delta as from gpt3 to gb4 he's
+putting a lot of weight in the size of
+the data set and acting like that's
+predictive when I just don't see much
+reason to believe that it's very
+predictive at all I think you might just
+get a surprise that GPT 5 is smarter
+than GPT 4 even when it doesn't have
+that many more tokens now to be fair he
+is hedging a lot he's not acting really
+confident my only beef is I'd like to
+see him come out and say look I have no
+idea I'm prepared for anything I don't
+want to place any bets and I don't want
+to act like I've said anything which is
+a falsifiable prediction I'm just as
+uncertain as somebody with no background
+in the field the the only reason I'm on
+his case is because when you listen to
+him talk he sounds like his statements
+contain predictive information he sounds
+like he's saying things that should help
+you constrain your anticipation but I
+think he's actually hedging his way out
+of constraining your anticipation at all
+so I'd like to see him use language
+that's more upfront and explicit about
+his epistemic humility about his almost
+maximum uncertainty knowledge State
+rather than using language like I'm
+skeptical that GPT 5 can do that when I
+think he's actually not as skeptical
+he's coming off I think he's actually
+hedging his bets more than his words
+would imply what about synthetic data
+what about the creation of new data that
+doesn't exist yet boom another good
+question from Harry so there's two ways
+to look at this right so one is the way
+in which synthetic data is being used
+today which is not to increase the
+volume of training data but it's
+actually to overcome limitations in the
+quality of the training data that we do
+have uh so for instance if in a
+particular language there's too little
+data you can try to augment that or you
+can try
+to um uh let's say have a model uh you
+know solve a bunch of mathematical
+equations throw that into the training
+data uh and so for the next training run
+that's going to be part of the
+pre-training and so the model will get
+better at doing that I'm not sure I
+understand arvin's distinction between
+increasing the volume of training data
+versus overcoming limitations in the
+training data set isn't it a limitation
+when you don't have enough volume of
+data he used the example of
+synthetically feeding it translated data
+and synthetically feeding it solve
+mathematical equations it seems like
+what those examples have in common is
+that they're relatively short
+derivations of one type of data from
+another type of data but if that's what
+he means why doesn't he talk about it in
+those terms I don't feel like he is
+being very clear about what the problem
+is with generating a bunch of synthetic
+data in order to potentially have 10
+times more tokens feeding into GPT 5
+than we had for gp4 what's the
+fundamental problem he's being vague uh
+and the other way to look at synthetic
+data is okay you take one trillion
+tokens you train a model on it and then
+you output 10 trillion tokens so you get
+to the next bigger model then you use
+that to Output 100 trillion tokens uh
+you know I I'll bet that's just not
+going to happen that's just the snake
+eating its own tail what you're calling
+snake eating its own tail or you might
+call it like a free unch something that
+intuitively seems impossible it's not
+impossible in every case I mean if you
+look at the gpt3 and GPT 4 models that
+we have this is a surprising fact to me
+but the amount of information contained
+in the gpt3 and GPT 4 models themselves
+is actually like five times larger than
+the amount of information in their data
+set because intuitively you think of
+intelligence as being able to compress
+data I mean that is by definition the
+heart of understanding the heart of
+science is is that I can write down a
+description of the universe which is
+Compact and yet it lets you constrain
+your anticipation in a lot of different
+scenarios across a vast region of space
+and time across a wide range of
+applications each of us carries in our
+head three pounds of meat that we use to
+navigate a universe that weighs a lot
+more than 3 pounds so that's why I came
+into this thinking surely these models
+are smaller than their data sets but
+they're actually larger why is that well
+I'm not sure because they're black boxes
+but I think a good guess is that they're
+just spicing and dicing the information
+that they learn in a lot of deep ways
+they're making it easier to search using
+caching and denormalization but of
+course not naively using keywords but
+more robustly using deep Concepts using
+embeddings but that's the general idea I
+think and the human brain does the same
+thing too we know it has to do it
+because it operates so slowly in serial
+time the human brain can only do about
+20 serial computation steps per second
+so the only way the human brain gets
+anything done is by having a really
+large cash so that it can accomplish
+most of the cognitive work it needs to
+do just by looking something up in this
+vast cach so that's why you got a
+situation where these models can be
+crazy huge because of all this let's
+call it denormalization that they're
+doing all this redundantly copying data
+where yes it's data that we know for a
+fact is an inferential consequence of
+other data because we know they only got
+trained on like 300 billion tokens so
+why would the model need to be more than
+300 billion tokens worth of size but it
+is bigger we can say that models are
+denormalized in the sense that it's a
+big chunk of State information which is
+deductively logically determined by a
+smaller chunk of information we know
+that about these models so now let's get
+back to the scenario of I use an llm to
+synthesize more tokens than I got
+trained on and I train the next llm on
+that why couldn't that be the same kind
+of denormalization process that makes
+gpt3 and GPT 4 Smart in the first place
+you might say from an information
+theoretic perspective you're not adding
+any information by doing this kind of
+denormalization or you're adding very
+little information because it's so
+compressible but look at what we call
+organic data the internet is already
+highly compressible right you can gzip
+the internet and of course llms are
+better compression algorithms than gzip
+so when an llm is scanning over the
+Internet a lot of it is just yada yada y
+predictable so if we feed another
+organic grass-fed web page into GPT 5
+that's not necessarily going to add more
+information than if we feed a
+deductively generated piece of content
+from
+gp4 that's one counterargument I have to
+Arvin casually saying it's the snake
+eating its own tail the other counter
+argument I have is you can use other AIS
+to synthesize the data or you can use a
+Unity 3D physics simulation to
+synthesize the data or you can use
+Mathematica there's all these artificial
+sources of data that as far as we know
+could be extremely useful could
+potentially be more useful than going
+and pulling down found some other web
+page on Facebook from a human so to me
+this just continues to fit into the
+pattern of Arvin making these vague
+statements that don't give us any
+predictive power but still sound like
+there might be some kind of substance to
+it if you talk to him more what we've
+learned in the last two years is that
+the quality of data matters a lot more
+than the quantity of data so if you're
+using synthetic data uh to try to
+augment the the quantity I think it's
+just coming at the expense of quality
+you're not learning knew things from the
+data you're only learning things that
+are already there so here he's saying
+synthetic data is lower quality than
+organic data and you can never match the
+quality of organic data using synthetic
+data but why is that if you're trying to
+show somebody examples of stuff
+happening in the physical worlds why
+can't you use a state-of-the-art physics
+engine to produce a lot of data showing
+that isn't that quality data not just
+quantity data is there really a line
+dividing quantity data versus quality
+data let's say we want GPT five to be
+better at undergraduate physics what if
+we make it go through all the physics
+textbooks and keep generating new
+questions and then answering them and
+checking its work and just do it over
+and over again until you've generated
+many gigabytes of data of this kind of
+exercise is that purely quantity data
+because it's never been seen before you
+can argue yeah but it's denormalized it
+contains no new information it's merely
+crunching Through The Logical
+consequences of things that are already
+present in the ai's other data okay but
+wait a minute minute once you start
+crunching through logical consequences
+that's something that the AI can't do
+rapidly at inference time it's very
+limited by the process of inference
+right you can't just jump your inference
+all the way to solving a problem if the
+problem solving actually takes a lot of
+inferential steps so the exercise of
+doing these inferences and then feeding
+in the output into your cache into your
+giant denormalized model that could
+potentially be useful why are you
+calling that quantity instead of quality
+how do you know arvind what do you think
+you know and how do you think you know
+it that's what I'm not getting here I
+also just want to note that while Harry
+stebbings did a great job asking arvind
+about pulling in new data from YouTube
+and generating synthetic data he didn't
+challenge arvind with my other objection
+which is what if compute actually is the
+bottleneck and we just need to break
+through the next compute barrier and
+we're going to have another big grocking
+and we're going to have another big
+breakthrough in all of our benchmarks
+and we're going to close a lot of the
+Gap towards super intelligence what
+about that scenario arvind I don't think
+car ever asked that but let's move on
+one thing that while we're on kind of
+utility value of data when we look at
+effectiveness of Agents you know I've
+had Alex Wang you know scale.ai on the
+show and he said the hardest thing about
+like building effective agents is most
+of the work that one does in an
+organization you don't actually codify
+down in data you know like you remember
+when you at school and it says like show
+your thinking or show your work you
+don't do that in an organization you
+draw on the Whiteboard you map it out
+and then you put down what you think in
+the document the Whiteboard is often not
+correlated in a data source to what
+extent do we have the data of showing
+your work for models agents to actually
+do in a modern Enterprise yeah I think
+that's really spoton I think one way in
+which people's intuitions have been kind
+of misguided by the rapid improvements
+in llms is that all of this has been you
+know in the Paradigm of learning from
+data on the web that's already there and
+once that runs out you have to switch to
+new kinds of learning uh it's the analog
+of uh you know writing a bike that's
+just kind of tcid knowledge it's not
+something that's been written down so a
+lot of what happens in organizations is
+the cognitive equivalent of I think what
+happens in the physical skill of riding
+a bike and I think for models to learn
+uh a lot of these diverse kinds of tasks
+that they're not going to pick up from
+the web you have to have the cycle of
+actually using the AI system in your
+organization and for it to learn from
+that back and forth experience instead
+of just passively ingesting tacent
+knowledge in an organization is like a
+process that isn't written down
+somewhere but the organization can
+consistently perform it because
+different people are in the habit of
+Performing fragments of it so it's
+implicit knowledge and it can be made
+explicit if somebody looks around and
+documents the process it's not
+theoretically impossible to write down
+it's a fair point that a lot of of large
+organizations haven't documented all of
+their important processes but if you're
+asking the question why don't we have
+agents I think this point by arvind and
+to be fair I guess it's copying a point
+by Alexander Wing that point seems to
+only be secondary to the more primary
+point that the AI just aren't robust yet
+if you have a framework like Auto GPT
+which basically just runs GPT in a loop
+saying what should I do next what should
+I do next pretty quickly you go off the
+rails because it doesn't quite give you
+good answers for something that it can
+do next it's just not robust even if you
+enter let's say a remote first
+organization where they thoroughly
+document every process and a human being
+could read it and get onboarded because
+there's enough explicit knowledge even
+in a scenario where there is no latent
+knowledge an auto GPT an attempt at
+doing an agent using GPT 4 would quickly
+derail anyway so I think Alexander
+wayang and Arvin are really getting
+ahead of themselves to even talk about
+lat knowledge like sure that's a problem
+but that's already a problem for
+managing humans that doesn't explain why
+you can't just hire an AI today and just
+instantly wipe out sixf figure human
+after six figure human there's something
+else more fundamental going on which I
+think in a word is robustness to what
+extent do you think Enterprises today
+are willing to let passive AI products
+into their Enterprises to observe to
+learn to test and is there really that
+willingness do you think I think it's
+it's it's got to be more than passive
+observation it's got you have to
+actually deploy AI to be able to uh get
+to certain types of learning and I think
+that's going to be very slow and I think
+the uh a good analogy is self-driving
+cars of which we had prototypes you know
+two or three decades ago but for for
+these things to actually be deployed you
+have to roll it out on slightly larger
+and larger scales while you collect data
+while you make sure you get to the next
+nine of reliability you know four nines
+of reliability to five NES for liability
+so it's that very slow roll out process
+it's a very slow feedback loop and I
+think that's going to happen with a lot
+of AI deployment and organizations as
+well it certainly can't hurt to deploy
+an AI in order to get data for it to see
+where the disengagements are by analogy
+with driving your Tesla right if you
+don't like what the self-driving is
+doing you disengage it so if you have an
+AI worker who's substituting for like a
+human remote worker and you see how
+often you have to disengage it and say
+no that's wrong stop let me fix you
+that's certainly one good way to get a
+feedback loop going and to get AI
+employees but I don't think it's
+essential even in the case of
+self-driving cars if you start a new
+self-driving car program from scratch
+and all you give it is video footage
+from cameras of regular humans driving
+cars so you don't create a feedback loop
+there was never a time when you deployed
+an AI in a car and you saw when it
+messed up or you saw when it disengaged
+it's just entirely passively observing
+humans driving cars now of course you
+have feedback in the sense sense of
+sometimes the human successfully
+completes their trip sometimes they slam
+on the brakes sometimes they crash so
+there are positive and negative
+reinforcement Loops in that sense but
+you never have to deploy the AI I
+suspect we're a few years away from
+getting to the point where an AI can
+just vacuum up all that instructive data
+without ever being deployed and come out
+with a conclusion of like okay this is
+how you drive this is what the human
+driver would do to correctly navigate
+every obstacle so I wouldn't make the
+claim too strongly that a feedback loop
+involving the AI at self is essential
+that's not how AI has to work or
+consider if we make an analogy to Alpha
+go it does a lot of selfplay but that's
+also different from being deployed
+that's like imagine that you're deployed
+what would you do in that situation how
+do you think it would work out try
+simulating it try feeding yourself the
+consequences of that and then adjusting
+on the fly so that's another scenario
+this kind of self-play scenario where
+you self-play a billion games of remote
+work job in that scenario once again
+you're also not deployed and getting a
+real world feedback loop so I'm not
+saying there's anything wrong with
+deploying an AI it just seems to me
+arbitrary that once again arvand is
+acting like he has a piece of knowledge
+or acting like he has some sort of
+anticipation constraint to share with us
+but he's just kind of picking part of
+the probability distribution and
+arbitrarily focusing on it like I don't
+know why he didn't for the sake of
+comprehensiveness also point out that
+you can have AIS that do selfplay and
+you can have other AIS that do a deep
+analysis of a rich Corpus of human data
+why not point that out it just seems
+like he's leaving out in important
+context about how else things could play
+out context about how else we could
+suddenly get these super intelligent AIS
+that are easy drop in replacements for
+human employees he's leaving out other
+major ways that this could happen when
+he just focuses on a feedback loop that
+you get when you actually put the AI
+into the organization so you can let the
+AI really be part of the organization
+and be very empirical and get its
+feedback that way that's only one
+possible path so let's broaden the
+context here in this next part Arvin
+repeats a very popular type of argument
+that I feel like misses an important
+Point let's check it out you know there
+is the saying that every exponential is
+a sigmoid in Disguise so a sigmoid curve
+is one that looks like an exponential at
+the beginning so imagine the S letter
+shape uh but then after a while it has
+to taper off like every exponential has
+to taper off so I think that's going to
+happen both with models as well as with
+these Hardware Cycles you know I can't
+predict how long that's going to take
+but we are I think going to get to a
+world where models do get commoditized
+okay so the implication that you haven't
+acknowledged here is that they might
+only taper off after becoming extremely
+intelligent if you don't think that's
+the case if you don't think they're
+going to taper off when they reach
+thousands of IQ points let's say as some
+of us think if you don't think that's
+the case don't you want to explicitly
+mention it and Rule it out instead of
+just making a logical nonse where you
+say yeah every exponential has to taper
+off so I think we're going to get a
+situation where these are just
+Commodities that you can go buy at
+Costco and everybody can just have one
+in their house and everything is just
+chill the final taper off period you
+said yourself you don't know when it is
+so let's talk about whether it's going
+to be after super intelligence that's
+the critical point here again just the
+fact that you're feeding Harry steings
+this line of like the exponential is
+going to turn into a sigmo curve So
+eventually it's going to be a commodity
+and he just buys it and moves on wait a
+minute wait a minute wait a minute this
+is a key point this is a key point where
+the Transformer scaling is going how can
+you not at least acknowledge like I
+would be totally fine if Arvin
+communicated him s like this hey guys
+currently AI is growing as an
+exponential I think it's going to taper
+off now you may be worried that it's
+going to taper off at a very scary super
+intelligent place but don't worry
+because my position is that it's going
+to taper off at a very harmless place
+that's actually subjectively not much
+different from gp4 I just want to tell
+you that that's my position contrary to
+the position of a lot of other important
+figures who are sounding the alarm that
+it's going to taper off at a much much
+higher place that is my position
+if Arvin communicated clearly like that
+I would feel like that is a good way to
+place his Viewpoint in its proper
+context so I continue to be alarmed this
+is kind of the impetus for me doing Doom
+debates right is is that I listen to
+these other podcasts I hate listen to
+them just like I know a lot of you guys
+do and people keep saying stuff in a
+very don't look up type of fashion it
+has a very don't it has a missing mood
+right the vibe of like hey the a lot of
+people are saying there's that asteroid
+coming there on a trajectory toward
+Earth how about you acknowledge that
+some telescopes are pointing there you
+know maybe you don't see itbe you have
+calculations that differ but how about
+acknowledge what some people are telling
+you is the topic of discussion or else
+it's like you're just willfully trying
+to stay in your bubble of acting like
+everything is just Tech it's just the
+latest gadget it's just going to be
+normal because every exponential has to
+eventually end next I just want to flag
+this random comment Arvin makes that
+seems out of touch with the Practical
+reality of things when gp4 came out and
+open AI claimed that it passed the bar
+exam and the medical licensing exam uh
+people were very excited slash uh scared
+about what this means for doctors and
+lawyers and the answer turned out to be
+approximately nothing right because it's
+not like a a lawyer's job is to answer
+bar exam questions all day uh these
+benchmarks that models are being tested
+on don't really capture what we would
+use them for in the real world Arvin
+does have a point here that benchmarks
+aren't perfect so if you use the bar
+exam or a medical licensing exam as a
+benchmark and the AI passes it that
+doesn't tell you everything you need to
+know about whether you can hire the AI
+as a doctor or a lawyer sure okay but it
+seems like he's gone way too far in his
+explanation here and downplayed how big
+of a breakthrough it is that AIS are
+actually really good at medicine and law
+right now like when he says this means
+approximately nothing for doctors and
+lawyers uh how many times have all of us
+avoided a consultation with a doctor or
+a law lawyer because we could type
+something into our llm I know I have and
+I know other people have too so I just
+don't get why he's saying absolutely
+nothing change like things are changing
+there's plenty of startups now that are
+making software to gradually chip away
+at doctors and lawyers in ways that they
+couldn't before and in certain
+industries like customer service we are
+seeing wholesale replacement right
+chipping the team away down from like a
+th000 to 50 like actual stories of
+companies firing actual people right
+customer service sales writers design
+ERS those are kind of the tip of the
+iceberg I guess those are the first to
+fall and yeah you can point to doctors
+and lawyers and they have strings that
+are still holding them in place maybe a
+judge doesn't want to talk to an llm
+maybe you have to have a warm body
+appear here in court or there's a bunch
+of connective tissue of the job that
+hasn't been measured by The Benchmark
+sure okay fine but just like there is an
+oncoming wave here right so I don't know
+how to file away this comment by Arvin
+that nothing has changed for doors and
+lawyers maybe it was just like a
+throwaway comment to make his point it
+just seems like a consistent pattern
+where he's trying to act like everything
+is normal and we should just expect AI
+to like keep being normal but I guess I
+would just encourage him to entertain
+the possibility that maybe things are
+starting to get very freaky and not
+normal I do just want to kind of move a
+layer deeper to the companies building
+the products and the leaders leading
+those companies you've got Zach and
+damis who are saying that AGI is further
+out than we think and then you have Sam
+mman and you have uh Dario and Elon in
+some cases saying it's sooner than we
+think what are your Reflections and
+Analysis on company leader predictions
+on AGI so let's talk for a second about
+what AGI is the definition that we
+consider most relevant is AI that is
+capable of automating most economically
+valuable tasks so it's a very pragmatic
+definition it doesn't care about you
+know whether it's conscious does it
+think like a person those questions are
+uh frankly not that interesting to us
+but also harder to predict or Reason
+about I think that's a totally
+serviceable definition if you want to
+use that definition of course I always
+go to the definition of human level at
+optimizing over a broad domain so I can
+give you a problem of the form get the
+universe into an end State satisfying
+this Criterion and the AI can do it
+better than a human can but in layman's
+terms saying that it can automate any
+economic role that humans have that's
+roughly the same idea uh and so by this
+definition you know of automating most
+economically valuable tasks if we did
+have AGI that would truly be a profound
+thing in our society yeah and the major
+Doomer prediction is that once you get
+to that point maybe a little bit above
+it hopefully above it but at some point
+you get into a Cascade you get into a
+positive feedback loop because among the
+things you're now automating is further
+intelligence enhancement so the moment
+we can get AIS to IQ 200 it might not be
+long before they're up at 250 300 500
+3,000 that's the positive feedback Lo
+that we're worried exists especially
+when we look at the evidence of like wow
+the human brain sure start started
+getting much bigger and much bigger
+before it was limited by the size of the
+birth canal that strongly indicates that
+it's not necessarily that hard to tweak
+the the architecture of a human brain to
+just make it a little bit bigger and
+squeeze potentially a lot of new IQ
+points out of it that we've never
+witnessed before on Earth so there are
+some signs there are some reasons to
+expect that higher IQ is a low hanging
+fruit that might be picked pretty soon
+once we hit this kind of AGI Threshold
+at or around that threshold hopefully a
+little bit higher than that threshold
+but anyway let's hear what Arvin has to
+say about AGI I think one thing that's
+helpful to keep in mind is that there
+have been these predictions of imminent
+AGI since the earliest days of AI for
+more than a half century Alan
+touring when the first uh computers were
+built or about to be built people
+thought you know the two main things we
+need for AI are hardware and software
+we've done the hard part the hardware
+now there's just one thing left the easy
+part the software uh but of course now
+we know how hard that is so I think
+historically what we've seen is it's
+kind of like climbing a mountain I think
+Alan during was pretty much on point
+when he said that Hardware was a hard
+part and we just have to nail the
+software it was an absolutely brilliant
+observation for Alan Turing to have the
+perspective to realize that him just
+sitting in a room with an old-fashioned
+computer that just had a million wires
+and knobs and vacuum tubes to look at
+that and to be like oh my God our
+civilization is now most of the way
+there toward super intelligence even
+though though it didn't subjectively
+feel like it right it was just like
+spitting out a few numbers here and
+there but to correctly realize that it
+would only take another Century or maybe
+two centuries I think there's very few
+people today who will tell you like yeah
+it's not going to take till 2036 it's
+going to take till 2136 I think we're
+really pushing the limit here but let's
+be very generous and say okay Allen
+Turing was two centuries before we have
+super intelligence okay but he was
+looking backwards all the way back to
+the 1800s and Charles Babbage with his
+Difference Engine and before that to the
+ancient Greeks with formal logic he was
+looking at all this perspective and he's
+like you know what I think we're getting
+close to the end I think the hard part
+is behind us so I think Alan Turing was
+correct and we should appreciate his
+perspective now if alen Turing was
+saying hey the software is only going to
+take 5 years okay hypothetically if he
+had said that and maybe some people did
+say that right like the famous graduate
+project the graduate student who was
+assigned to go solve computer vision
+over a summer break right yeah in some
+cases people underestimate how long the
+software is going to take okay but I
+think ending that argument to say that
+it's going to take more than another few
+decades from where we are now I think
+that that's going way too far right
+which is why prediction markets are
+saying okay we've kind of narrowed it
+down most likely to be within like a
+couple years to a couple decades maybe a
+few decades probably less than a century
+right a century would be pretty crazy
+like why is it taking another century
+when we're passing the freaking Turing
+test and we're having a hard time even
+saying what it can't do wherever you are
+it looks like there's just kind of one
+step to go but when you climb up a
+little bit further the the complexity
+reveals itself and so we've seen that
+over and over and over again now it's
+like oh you know we just need to make
+these bigger and bigger models so you
+have some silly projections based on
+that but soon the limitations of that
+start becoming apparent and now the next
+layer of complexity reveals itself so
+that's my view I I I wouldn't put too
+much stock into these overconfident
+predictions from CEOs this is similar to
+the kind of stuff that Robin Hansen says
+it's pretty popular to make this
+argument that arvin's making of like
+everything is relative it always feels
+like we're on the brink of super
+intelligent AI but it's actually always
+a long long time away and then you
+realize that this thing that you think
+is easy like oh just get the software
+right just get Vision right it turns out
+that that's going to take you many
+decades and then you're still going to
+have many decades and you're going to
+Forever have many decades or you know
+who knows okay hold on a second there is
+an objective way you can get frames of
+reference here for example if we just go
+back 10 or 20 years and at the time if
+you looked at the kind of lists that
+people made of things AI can't do yet AI
+cannot yet recognize whether an image
+has a cat or a dog AI cannot yet have a
+natural conversation with you right not
+even close to passing the tring test AI
+cannot translate languages as well as a
+human can AI cannot pass a high school
+or college level economics exam AI
+cannot pass the bar exam pass a medical
+exam not even close AI cannot generate
+video AI cannot drive a car 10 times
+safer than a human in San Francisco
+right talking about wayo these are all
+lists of things that we would have had
+had these ideas it's not like I have to
+be in the year 2024 to even tell you
+that these are interesting challenges
+for an AI no I could have sat here in
+the year 2004 and written down all of
+those different tasks for AI and I would
+have told you it can't do this it can't
+do this it can't do this fast forward 20
+years now it's doing all those things
+can it literally drop in replace you for
+different jobs no only some right only a
+lot of customer service jobs right only
+a lot of copy editor jobs only some jobs
+not all jobs but this is what I'm saying
+the list of things that we've written in
+advance so objectively not just we're
+writing on the spot things that we could
+have written 20 years ago the list of
+things is undeniably getting shorter and
+it's hard to add extra bullets to the
+list it's hard to draw an analogy to be
+like okay yeah today I could write you
+five bullets about like latent knowledge
+that an employee and an organization
+needs that's just not going to be
+analogous to being like hey can you get
+behind the wheel of a car in the entire
+city of San Francisco and take a
+passenger safely it's just not going to
+map like it a lot of the challenges
+really are behind us and that's where
+the speculation comes from that's why
+the prediction markets the the best
+estimate of these predictors is that AGI
+is coming in not more than a couple
+decades maybe three decades so this very
+relativistic argument of like oh we
+can't tell where we are on the
+progession toward AI I think that's too
+humble that's denying some an objective
+frame of reference that we can look at
+is it possible to have a dual strategy
+of chasing AGI and super intelligence as
+open AI very clearly are and creating
+valuable models sorry valuable products
+at the same time that can be used in
+everyday use or is that balance actually
+mutually exclusive it would take
+discipline from management uh to be able
+to pull it off in a way that one part of
+the company doesn't distract another too
+much and we've seen this happen with
+open AI which is the folks focused on
+super intelligence didn't feel very
+welcome at the company and there has
+been an exodus of very prominent people
+and anthropic has picked up a lot of
+them so it seems like we're seeing a
+split emerging where open AI is more
+focused on products and anthropic is
+more focused on uh super intelligence
+wait what I just included this part in
+here because it's an interesting
+alternate history of why a bunch of
+people have leaked out of open Ai and
+headed over to anthropic it's pretty
+clearly because they're concerned about
+safe super intelligence they're worried
+that open AI is being irresponsible in
+their approach towards super intellig
+not because open AI just wants to build
+products for today and not care about
+super intelligence no I think Open ai's
+Leadership particularly Sam Alman really
+wants to build super intelligence I
+think that's why he started open AI is
+because he wants the ultimate power and
+giant Universe Scale rewards that to be
+fair can potentially there is a upside
+scenario if you somehow overcome the
+safety problem right I mean that's the
+big prize that's clearly always
+motivated Sam Alman even if you just
+listen to what he says without trying to
+psychoanalyze him
+it's just funny to me that Arvid is like
+yeah open AI doesn't prioritize super
+intelligence I mean surely they have to
+make money today there's no doubt about
+that but you can't characterize the
+difference between them and anthropic by
+saying only anthropic wants to build
+super intelligence you would
+characterize the difference correctly by
+saying that anthropic takes the safety
+risk and the existential risk much much
+more seriously and is less confident
+about their ability to overcome the risk
+is more properly humble about it but I
+should o add a note uh that I'm not a
+fan of either lab I think the actual
+problem of making AI safe is much more
+intractable than anthropic people allow
+themselves to think on a daily basis
+they see themselves as these careful
+missionaries who are going to make sure
+that we get to super intelligent AI in a
+responsible way when in reality they're
+in way over their head and they're
+actually part of the problem I do like
+them on a personal level and I like that
+they're kind of the good AI lab but
+they're just the best of the worst and
+they're still accelerating the arms race
+and they're very much responsible for
+screwing over Humanity from my
+perspective almost as much as any of the
+other labs that's just my two cents and
+I'll probably keep talking more on this
+theme in different episodes which is the
+problem of AI safety is intractable on a
+10-year timeline you have to have that
+perspective that you're staring down an
+intractable problem some research
+problems take more than 10 years to
+solve like many of the ones in
+theoretical computer science like many
+of the Millennium prize problems they
+take more than 10 years to solve and
+we're all just conveniently acting like
+we have to solve AI safety in 10 years
+so we're going to dedicate like a
+hundred mines to it and then we're going
+to also build capabilities it's insane
+but I digress you know we've been in
+this kind of
+historically um interesting period where
+a lot of progress has come from building
+bigger and bigger models that need not
+continue in the future it might or what
+might happen is that the models get
+commoditized and a lot of the
+interesting development happens in a
+layer above the models we're starting to
+see a lot of that happen now with AI
+agents and my hope is that we will
+transition to that kind of uh mode of
+progress in AI development uh relatively
+soon oh that's my hope too wait why is
+that your hope it's my hope because it
+implies that we must be hitting an AI
+winter if all we can do is build
+applications on top of existing llms
+that would be fantastic I would love to
+just focus on building applications on
+top of existing llms I would love to
+have an international treaty saying
+don't worry about what would happen if
+you built a bigger model you don't have
+a choice just go build applications on
+the current model that would be my dream
+scenario because it would buy us a few
+years or even decades in an Ideal World
+to understand intelligence science
+understand principles of how we could
+even in principle make an AI that was
+aligned Andor controllable that would be
+nice to have a little bit more time so
+if that's why arvind is saying let's
+focus on applications because models are
+going to stall out and be a commodity
+then great but he didn't spell that out
+so I find it weird that he's just
+talking about how he hopes that the
+exponential flattens out into an x-curve
+so soon instead of continuing longer and
+longer as an exponential and creating
+way way more value until of course it
+goes too far and also becomes unaligned
+and uncontrollable I just don't know
+what his mental model is when you draw
+outside the lines of the last couple
+years I I don't understand what his
+extrapolation is he seems to be
+imagining a world where things are all
+pretty normal I don't want to put words
+in his mouth but it just seems like when
+I listen to him talk I'm always thinking
+about a scenario that feels normal and I
+would never psychoanalyze somebody I
+would never say this person always
+suggests ideas that maintain their sense
+of normaly it's not my place to
+psychoanalyze that that's how his
+thinking works I'm just observing that
+everything he's saying seems to keep my
+sense of normaly in place as I listen to
+it and that's not how I think the future
+will evolve when I had Ethan on from
+wton he was like you know the best thing
+to do actually is like
+a allow and watch a policy he said
+essentially we should let everything
+flourish and then regulate from there
+rather than proactively regulate ahead
+of time not knowing outcomes does that
+ring true to you I broadly agree with
+that My worry is that if we treat this
+as a technology problem and try to
+intervene on the technology we're going
+to miss what the real issues are and uh
+the hard things that we need to be doing
+to tackle those issues this is a popular
+topic of discussion it also comes up a
+lot with the recent discussion around
+California's s SP 1047 bill which seeks
+to be kind of proactive in how it
+regulates AI it wants the frontier model
+builder to submit in advance a safety
+plan that's predicting why their AI
+model is going to be safe and how we're
+going to mitigate harms and people are
+objecting understandably they're saying
+why can't we just regulate the
+applications this is just a model that's
+going to empower different actors to do
+different things why not come down hard
+on the actors why why blame the model
+Builders when we could blame the actors
+like if somebody uses Photoshop or
+Microsoft Paint to go draw something
+naughty do we really want to blame
+Photoshop and Microsoft Paint no of
+course not right maybe it should be
+really hard to make your AI produce a
+deep fake maybe that shouldn't be like
+one of the buttons in the toolbar
+there's a valid point there but if the
+technology is out there to make deep
+fakes I don't necessarily think we have
+to restrict that more than we restrict
+other tools
+like using Photoshop to draw something
+naughty or using Microsoft Word to write
+a very bad kind of note right I'm very
+sympathetic to the view of like look
+tools are tools and a lot of times the
+blame does rest on the actors the reason
+why we're talking so much about
+proactive regulation like sp sp 1047 is
+because of the possibility that it's
+going to be a mass scale weapon like
+it's going to be a generator of computer
+viruses where a single prompt can output
+a downloadable executable virus where
+you know it'll build itself off as oh
+this is is a helpful script this will
+help you run your business but it's
+essentially a virus and it does a lot of
+damage and it has effects that can't
+easily be rolled back that's why the
+bill is literally talking about $500
+million plus of damage being the
+threshold where the Attorney General is
+allowed to give you an additional fine
+in addition to injunctive relief these
+are huge thresholds the point of the
+bill is because we're anticipating that
+there might be a runaway scenario a mass
+effect scenario that takes us into the
+regime of more like regulating a weapon
+mass destruction if we all agree that
+we're for sure going to stay in the
+regime of regulating consumer products
+then yeah it's not a big deal I wouldn't
+even support s1047 if I thought we were
+for sure going to stay in the regime of
+regulating consumer products that's the
+Crux of disagreement between a lot of us
+sb147 supporters and the opponents a lot
+of the Crux of disagreement is just do
+you even think that it's possible that
+AI is going to go super intelligent and
+that's going to pose a huge danger and
+we're going to really need to do
+everything we can to prevent that from
+happening if you are worried about that
+as I am then you can see the need why SP
+1047 is kind of the least we can do if
+you're not worried about that at all
+then yeah of course you should just be
+like you should release the model we
+should just blame the person building
+application the issue is that if you let
+anybody go and roll their own weapon of
+mass destruction and one person pulls
+the trigger and fires it for whatever
+reason yeah you can go blame that person
+but the problem is you just created mass
+destruction right that's the problem so
+even the person who kicked off the mass
+destruction might even be dead it's not
+really a problem of let's punish that
+person it's a problem of like how do we
+avoid mass
+destruction that's why I'm never
+interested to say let's regulate the AI
+application layer yes that's true by
+default you don't even need to pass new
+laws to just regulate the application
+layer you can use existing laws to
+achieve that if you want to pass new
+laws about the application layer fine
+but what's much more important is to get
+right regulations on any potential paths
+to Super intelligence which I would go
+all the way down the slippery slope and
+say we're already close enough to Super
+intelligence that we need to pause now
+hence pause a.info check it out it's an
+organization I'm part of you know we had
+Alex weing from scale on I mentioned
+earlier he said that AI has the
+potential to be a bigger weapon than
+nuclear weapons how do you think about
+that and if that is the case should we
+really have open models I think you know
+it's it's a good question to ask I think
+it's a bit of a a category error there I
+mean a nuclear weapon is an actual
+weapon AI is not a weapon AI is
+something that you know might enable uh
+adversaries to do certain things more
+effectively to um you know for example
+find uh vulnerabilities cyber security
+vulnerabilities in critical
+infrastructure right so that's one way
+in which uh AI could be used on the
+quote unquote
+Battlefield imagine I asked chat GPT
+write me a virus that will take down all
+the systems in the Pentagon and then I
+press enter and it outputs a script and
+I run the script and then it runs and it
+copies itself on different computers and
+it starts stealing resources on the
+internet and hopping across nodes and
+finding zero dner abilities and
+eventually getting into the Pentagon
+systems and disabling them sure it's a
+little fanciful you're going to need GPT
+6 or 7 maybe to pull it off you can't do
+it in gbd4 but is it a category error is
+it logically incoherent to talk about a
+cyber weapon no right and that's before
+it even commanders human brains and
+manipulates people and bribes people or
+builds nanotechnology that's even before
+we get into all that good stuff when
+we're just saying hey press enter to
+take down the Pentagon is that not a
+weapon can you not take down other
+critical infrastructure that has the
+effect of killing people is that not a
+weapon category error is such a harsh
+criticism to Levy against a claim to say
+it's a category error it's basically
+saying that the person making the claim
+is so confused it's basically saying
+that they just aren't even being
+coherent in what they're suggesting so
+it's it's actually incredibly harsh that
+Arvin is telling Harry he's like you
+know what Harry you just asked me a
+question that you must be so confused to
+be asking me how AI can be a powerful
+weapon AI being a weapon what that's
+crazy the whole idea is incoherent no
+but it's not an incoherent idea the fact
+that you can go on a public podcast and
+accuse AI as a weapon of being a
+category error it's just so low quality
+of an accusation that I'm surprised that
+it's kind of in his brain as a cashed
+accusation to bust out at a time like
+this it's really really low quality as a
+response to Harry's question I never
+want to respond to somebody telling me
+that it's a category error when I bring
+up the subject of whether AI is a big
+threat it's clearly a coherent question
+on my part and on Harry's part and on
+Alexander Wing's part to ask whether AI
+can be a powerful weapon okay I got that
+out of my system I think it would be a
+big mistake to view it analogously to a
+weapon and to argue that it should be
+closed up for a couple of reasons first
+of all it's not going to work at all uh
+so I think we have uh you know close to
+state-ofthe-art AI models that can
+already run on people's personal devices
+and I think that trend is only going to
+accelerate we talked earlier about moris
+law and it still continues to apply uh
+to these models and even if one country
+decides that models should be closed the
+odds of getting every country to enact
+that kind of uh uh rule are you know
+just vanishingly small so if our
+approach to safety with AI is going to
+be premised on ensuring that quote
+unquote bad guys don't get access to it
+we've already lost because it's only a
+matter of time before it becomes
+impossible to do that so what I'm
+hearing is it would be a big mistake to
+view AI as potentially analogous to a
+weapon of mass destruction because if it
+were analogous to a weapon of mass
+destruction then it would be really
+important to regulate it so that we
+don't just hand out weapons of mass
+destruction to everybody by not viewing
+AI as being analogous to a weapon we
+thus don't have to deal with the
+implications that there's going to be a
+big old weapon that we have to deal with
+it's no longer going to be a problem
+because we don't view it as a weapon
+problem solved instead I think we should
+radically embrace the opposite which is
+to figure out how we're going to use AI
+for safety in a world where AI is very
+widely available because it is going to
+be widely available and when we look at
+how we've done that in the past uh it's
+actually a very reassuring story when we
+go back to the cyber security example
+for you know 10 or 20 years uh the
+software development Community has been
+using automated tools some of which you
+could call AI to improve cyber security
+because software developers can use them
+to find bugs and fix bugs in software
+before they put them out there before
+ERS even have a chance to take a crack
+at them my hope is that the same thing
+is going to happen with AI we're going
+to be able to uh you know acknowledge
+the fact that it's going to be widely
+available and to shape its use for
+defense more than offense I just want to
+point out that Arvin kind of cycled
+through three positions in the short
+span of his answer first he was like AI
+being a weapon that's a category error
+which is just obviously factually false
+so he kind of moved past that pretty
+quick next he said there's no point in
+treating AI like a weapon because how
+would you ever hope to regulate a weapon
+that's already in everybody's hands and
+then finally he came around to we got to
+make sure to keep ai's defensive
+capabilities ahead of ai's offensive
+capabilities that's kind of his final
+resting place and sure that would be
+nice but I think that it's even more
+prudent to not count on the fact that we
+should expect to be able to do that and
+to be even more prudent than that
+because what I'm expecting given that AI
+is uncontrollable the uncontrollability
+that lets you release a virus and have
+it do so much damage that same
+uncontrollability might make it very
+hard for you to write a defensive AI
+that you can trust and that's not to
+mention the inherent easiness of offense
+compared to defense like I mentioned in
+a previous episode if I want to kill a
+bunch of people all I have to do is dump
+a bunch of energy in their vicinity
+there's a lot of ways to get that right
+there's a lot of ways to scramble their
+atoms that all accomplish the goal of
+killing them so there's definitely a
+fundamental sense in which offense and
+destruction tend to be easier than
+defense and construction but anyway I
+think the biggest takeaway here is just
+how casual and ad hoc of an answer
+arvand is given to quite an important
+question of what do you make of AI being
+a weapon moving on what do you think
+society's biggest misconception of AI is
+today I think our intuitions are too
+powerfully shaped by sci-fi portrayals
+of AI and I think that's really a big
+problem uh you know this idea that AI
+can become self-aware when we look at
+the way that AI is architected today
+that kind of fear has no basis in
+reality what's so hard about being
+self-aware if you have a system which is
+capable of knowing things and
+understanding things in general it's not
+much of an extra step to then know and
+understand things about itself right
+it's kind of a special case of just
+knowing things here watch I'm going to
+pull up GPT right now and I'm going to
+ask it hey when I feel like someone is
+typing back to me in this chat box what
+is really happening
+okay gpt's answering when it feels like
+something is back to you in this chat
+box it's actually me and AI generating
+responses based on the information and
+context provided by your messages here's
+what happens behind the scenes message
+processing when you send a message it's
+processed by my underlying AI model
+which analyzes the text to understand
+the context meaning in your needs
+response generation blah blah blah
+typing simulation the responses are then
+displayed in a way that simulates typing
+to make the conversation feel more
+natural resembling human interaction
+everything is computed and automated
+with no human involvement I'm designed
+to provide you with accurate relevant
+and helpful responses as quickly as
+possible aiming to create an interactive
+and engaging experience so I would call
+that self-awareness I can ask it a wide
+variety of questions questions that have
+never been asked before questions that
+have never been directly trained you're
+not going to find these exact questions
+in any data set and it's going to give
+me correct answers talking about itself
+why is Arvin using the term
+selfawareness as if that's something
+that we're not already seeing in the AI
+models maybe he means it in the broader
+sense of situational awareness like
+knowing every relevant detail about its
+place in the world but I think even then
+the bottleneck is not becoming a more
+aware of the situation per se I think
+it's just kind of reasoning more
+robustly but even situational awareness
+I don't think is a good two-word
+description of what it is that today's
+AIS are lacking I always come back to
+that term robustness of like it seems
+like they kind of can do everything but
+then they're pretty quick to mess it up
+after a little bit that's my sense of
+what AI can and can't do expressed in a
+a short way so when Arvin says the fear
+that AI can become self-aware has no
+basis in reality what is he talking
+about AI is right here getting a pretty
+good understanding of itself so again at
+best very imprecise language here by
+arvind I think maybe what he means is
+he's conflating a lot of uh Doomer
+claims like doomers claim that
+instrumental convergence will eventually
+have a sing agents that are power hungry
+that refuse to let themselves be turned
+off and I think in arvin's mind he's
+kind of compl conflating it into a big
+single Mass where it's like okay it's
+the Terminator and it's evil and it's
+self-aware and it's conscious and it has
+feelings and it has qualia and also it
+wants to seek power like I think in his
+mind he hasn't really untangled all the
+different concepts relevant in the
+Doomer claim but he's gotten himself to
+the point where he's saying this term
+self-aware and acting like that's this
+unachievable Milestone from AI when I
+think it's pretty accurate to say that
+AI are pretty self-aware these days and
+then finally when he accuses our
+intuitions of being too powerfully
+shaped by sci-fi
+what exactly is wrong with sci-fi about
+AI it seems like a lot of the different
+ideas that sci-fi authors came up with
+are perfectly reasonable when you start
+making AI that's actually smart I mean
+first of all the chat Bots we're talking
+to today you know Hal or if you watch
+that movie her I mean her is very
+similar right to the new GPT 40 I mean
+in fact Sam Alman is getting sued by the
+by being too similar to that movie right
+I mean a lot of the way that people
+imagine talking to their AIS is
+literally coming true and things like
+virtual reality are literally coming
+true what is wrong with sci-fi as a
+guide to what's about to happen I mean
+these things as long as they're not
+logically paradoxical sci-fi tends to be
+pretty plausible in particular the idea
+that you're going to have a super
+intelligence because the brain has a
+very finite cap level of intelligence
+totally
+plausible I actually don't agree with
+the general claim that sci-fi is shaping
+our conception of AI too much I think
+that when people watch the Terminator
+for instance
+that's sci-fi and that's a pretty good
+intuition for how dangerous and how
+powerful the AI is going to be the fact
+that the Terminator can show up in a
+police station and just gun down
+successfully like the whole police force
+and then continue on its Rampage well AI
+is also going to be kind of powerful
+like that it's not going to be easy to
+shut off at all right a whole police
+force won't be a match for it so movies
+tend to be on the side of good futurism
+compared to people like Arvin I would
+much rather point you to James Cameron
+than Arvin based on what I've seen so
+far well that's as good a place as any
+to wrap it up I did a bridge his
+interview with Harry stebbings by maybe
+40% so feel free to go and listen to the
+whole thing he makes a few other points
+that are more about like unemployment
+and basically more Normy topics that I
+didn't think were that critical to hit
+on in the context of Doom debates
+because after all existential risk is
+really the elephant in the room from my
+perspective so I only focused on claims
+that have to do with that overall I get
+that Arvin isn't a Doomer and neither is
+his co-blogger sayos kapor I get that
+but I've been pretty unimpressed with
+the way they go about making their case
+scos in particular saying that P Doom
+wasn't a good way to make policy I
+thought was a really bad point poorly
+supported and I'm not alone in that
+assessment and now Arvin it seems like
+whenever it comes time to talk about the
+possibility of super intelligent AI he
+just has kind of ad hoc responses
+compared to this elaborate framework
+that AI safety researchers are
+constantly diving into and Publishing
+about right he just seems kind of
+dismissive of it like yeah we'll get to
+it later regulation might not work it's
+not a weapon it just doesn't seem to me
+like highquality engagement he seems
+committed to engaging in a way that
+sounds normal in a way that he's going
+to get invited on a podcast like 20 BC
+which is meant for Venture capitalists
+and startup Founders that's like a great
+Niche for him to be occupying right
+because people in that Niche tend to
+just want to talk about business as
+normal they tend to want to talk about
+the next quarter's profits and which
+stocks to buy right so it's it's a very
+normal framing of the situation but the
+point of Doom debates is to make it
+socially unacceptable to come into these
+podcast and try to keep the whole thing
+normal I'm sorry it's not a normal
+situation when AI is closing the last
+remaining Gap that we have to Super
+intelligence when AI is potentially
+about to hand off the entire era of
+contr over the universe from biology to
+technology within our own lifetimes or
+maybe the next Generation I don't think
+this is a normal situation I don't think
+it's going to have normal consequences I
+don't think it's going to be an scurve
+that Peters out at a convenient level
+the way you seem to imply that it will
+without arguing for
+it if you want to support my quest to
+help raise the level of discourse in
+podcasts like 20 VC that constantly
+touch on the subject of AI and could be
+touching on the subject of X risk but
+keep doing it with the wrong mood with
+the wrong questions with the wrong
+perspective if you want to support my
+mission of raising that level of
+discourse raising the sanity waterline
+then what I'm asking you to do right now
+is smack that subscribe button on
+YouTube go to Apple podcast and sub
+subscribe there go to a forum you like
+tell people about the show link your
+favorite episode tell a friend about it
+open up your texting app and text three
+friends right now which episode of Doom
+debates they might enjoy St stuff like
+that is helpful I think you know that'll
+help and it's helping already because
+the show is actually growing pretty fast
+and the engagement is actually pretty
+high but I'm impatient the faster we get
+Doom debates into a big podcast that
+gives us the most time to actually
+influence the discourse to actually
+attract these kind of high-profile names
+and get a first-person account of their
+views to have me debate them one-on-one
+or interview them oneon-one or to
+moderate debates between other
+high-profile doomers and non- doomers or
+to just put pressure on them to make
+them accountable to the question of like
+hey why don't you go on Doom debates
+like imagine that a Joe Rogan or Alex
+Friedman had an open invite to somebody
+like Arvin to come on his show and he
+was saying no that would be a very weird
+situation that he's going to feel
+pressure to wonder why isn't he going on
+those shows that's where we need to get
+Doom debates or some kind of forum like
+that before the world ends we need the
+social infrastructure to have those
+kinds of discussions be socially
+expected let's just try to hurry it up
+and get there that's it for today thanks
+for listening and I'll see you back here
+on the next episode of Doom debates

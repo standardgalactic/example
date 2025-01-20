@@ -1,0 +1,4584 @@
+I literally think this whole problem
+comes down to simulation and maybe it's
+just because my simulation background
+like the only way to simulate the
+universe is to be the
+universe welcome to Doom debates today
+we're going to be unpacking the
+worldview of a16z General partner Martin
+cassado Martin was a successful
+entrepreneur who had a billion dollar
+exit before joining a16z so obviously a
+smart capable guy I've seen Martin tweet
+a lot about how AI regulation is bad and
+AGI is in a threat and Nick Bostrom and
+elas rowski are like misleading people
+about a threat that's not real so I kind
+of have a sense of his position but the
+first time I've really seen it fleshed
+out was in a recent podcast that he did
+with my friend Nathan leben on the
+cognitive Revolution highly recommend it
+I'll link to it in the show notes so
+we're going to go through that podcast
+or most of it at least and I'm going to
+give you an analysis of what he said and
+why I disagree I think this is a pretty
+unique episode because Martin gets off
+the Doom train at a place that you don't
+really see that many people get off his
+stop on the Doom train seems to be that
+he just doesn't see super Intelligence
+being possible in our universe as much
+as I can gather because he thinks that
+computationally it's just so hard to
+simulate pieces of our universe and
+that's going to prevent a kind of
+superhuman engineer in the form of an AI
+I hope I'm summarizing him correctly you
+can listen for yourself I think that's a
+good summary and like I said it's a
+pretty unique stop on the Doom train
+people mention it but they usually don't
+double down as like that's where they're
+dying on that Hill that's usually not
+what you see so this will be an
+interesting analysis hopefully you'll
+enjoy it we'll kick it off with a very
+traditional question that Nate asks
+Martin at the beginning of his podcast
+which is basically what are your AGI
+timelines how much time do you think we
+have how powerful do you think AI is
+going to be over the next couple of
+years you know we've obviously heard AGI
+2027 is that a story you're buying
+what do you think we're going to see
+over the next two to three years I I
+think like all things the past is
+probably the best predictor of the
+future what is interesting is if you
+actually look let's say the past 80
+years of quote unquote AI it's been
+steady progress independent of there
+being Winters and Summers it's been very
+very steady progress there been progress
+on economics progress on problem solves
+and and every time we like tackle a
+problem like everybody's oh goodness
+this is it we're almost at AGI and then
+it just turns out like that's one mod
+and then we go on to the next and we say
+oh that wasn't really actually AGI or AI
+so like this whole AGI thing has been a
+moving goal post for 70 years and so I
+would say listen it's been this kind of
+very steady progress we've gotten good
+at many things it's been a very useful
+tool I hope it continues to be so I
+think it's a very important thing for us
+to continue to develop and use but I I
+don't think that there's any step change
+or it changes the nature of computers or
+software in ways that we haven't seen
+before I don't think that okay that's
+basically the robin Hansen t the idea
+that yeah AI progress looks like it's
+really exciting now but it's actually
+such a long journey and everything's
+incremental and this is just the next
+incremental step and for all we know
+it's a 100-year journey or a
+Thousand-Year Journey it's a fair point
+to ask why isn't that the case what is
+special about this moment but I have an
+answer which is just we no longer can
+easily name what the AI can't do so if
+You' asked me 10 years ago hey what's AI
+progress looking like I would have told
+you we're making good incremental steps
+but AI definitely can't draw a picture
+based on a prompt AI definitely can't
+recognize images as well as humans that
+wasn't the case 10 maybe 12 years ago I
+would have said hey AI definitely can't
+chat and use English right so those were
+all very clear cut and dried objective
+metrics I could have told you yeah AI
+sucks at this today I have to tell you
+look AI is making incremental progress
+but it definitely can't um be a human
+employee that does like the full job but
+it can do like moments of the job but if
+you try to chain a few actions together
+it kind of gets unreliable even me just
+describing what AI can't do it's getting
+tough I could be like okay yeah I can't
+wash your dishes but they are working on
+really really good dextrous robots and
+what kind of dexterity does the robot
+not have uh it's hard for me to even
+draw a box around what robots can't do
+these days it seems like they're very
+much in production kind of crashing
+through the last obstacles
+and so it would be kind of surprising if
+20 years from now or 50 years from now a
+robot definitely couldn't open that
+dishwasher door and take out some dishes
+and hold them with the right amount of
+force like yes technically there's not a
+product on the market that will walk
+into your home and do that today but
+what's the bottleneck right this seems
+like a very much less than a decade away
+type of expectation so built into what
+Martin Casado was saying where he's
+saying yeah it's all incremental he's
+building in these claims implicitly he's
+saying yeah all these things that seem
+like they're really close might actually
+be a lot farther than they seem because
+I know some kind of limitations so I
+don't share his perspective this is all
+incremental I think that we are so close
+we're knocking on the door of human
+level to the point where it's even hard
+to say what obstacle is left that's how
+close we are to just banging down that
+door if Martin can draw a boundary
+around what he thinks AI can do versus
+what he thinks it's a long way from
+doing maybe he can convince me that
+there's this whole separate realm that
+we're far away from I just don't see it
+I think that the line has just become so
+fuzzy and we're recklessly walking
+through it but let's see what kind of
+distinctions he makes so again I think
+I'd like to draw from a historical
+analogy because I think they're very
+useful in this context because I just
+feel like we've see these very often and
+they all look kind of the same and it's
+played out and so when I first joined
+Stanford to do my PhD so I did my PhD in
+computer science and systems was in 2003
+and around then I don't know was 2003 or
+2004 Sebastian thrund had won the DARPA
+Grand Challenge to the DARPA Grand
+Challenge is he drove a van autonomously
+fully autonomously for 1,200 miles and
+everybody was like hooray like AGI is
+solved Robo taxi is solved this is
+amazing thing and 100% we've hit one of
+these threshold moments 100% like you
+could actually do things you couldn't do
+before it was the start of a new era of
+vision and perception and self-driving
+and now 20 years later and aund Bill
+about a hundred billion dollar invested
+a little bit less than hundred billion
+dollar invested the unit economics of
+self-driving are still three times worse
+than Uber wait an AI driving a car has
+3x more expensive unit economics than
+Uber that doesn't really make sense to
+analyze it that way maybe what he's
+saying is today if you look at wayo they
+have all kinds of overhead they have
+like a human support team they have like
+a lot of quality assurance and so today
+it's unprofitable while Uber is slightly
+profitable maybe that's the point he's
+making but that's such a weird choice of
+measure such a temporary contingent data
+point that the unit economics are 3x
+worse whatever he means by that however
+he's analyzing that obviously there's a
+dichotomy of possible outcomes either we
+get to the point where self-driving
+works and it's better than a human
+driver and it's robust so that I can
+drive many hundreds of miles before you
+need any sort of human intervention and
+in that case of course it's going to be
+much cheaper to run a self-driving
+service than it is to run Uber right
+because the driver cost is currently
+something like 60% of the cost of the
+ride and now you don't have that 60% and
+instead maybe you have a small fraction
+of that right it's not even going to be
+close so it seems like the point Martin
+is making about self-driving is almost
+the opposite of how he's using the
+evidence the point I would make is like
+yeah we're probably a couple years away
+from self-driving that actually works
+and then at that point all the billions
+that have been invested are going to
+easily pay off right I think it's almost
+the consensus of opinion that the
+investment is going to pay off massively
+right I mean a single decade of being
+able to have self-driving cars for
+everybody for 8 billion humans or
+whatever High fraction of those humans
+rides in a car that's a massive return
+on however many billions have been
+invested into this so I'm just confused
+about what the lesson is that Martin is
+taking away from this maybe to be
+charitable he's saying hey we get
+excited that stuff is going to work for
+a long time but then it takes a decade
+longer than we think okay and and I
+agree right I'm not saying has to happen
+I'm not saying AGI has to happen next
+year I agree it might take a decade but
+that's just not the primary lesson here
+when we're talking about the end of
+humanity from super intelligent Ai and
+so I am a systems person meaning I all
+I've been doing for the last 30 years of
+my life is building computer systems
+large distributed systems this is what I
+do and I just know that scaler
+capabilities a they're not necessarily
+parametric so they don't necessarily
+just go up into the right and there's so
+many examples of this and we can talk
+about that I know that the universe is
+this very heavy tailed system and
+there's no single solution that tends to
+R in its complexity I think he's going
+to come back to this point a lot that
+the universe is quote unquote heavy
+tailed like it has a lot of edge cases
+or it can't be simulated or something
+like that I think is the gist of where
+he's going we'll see I know that the
+economics for these things are very very
+hard like what gets lost in these
+conversations is AI has been better at
+humans for a very long time at many
+things handwriting detection diagnosis
+for a very long time game playing for a
+very long time mathematics since the
+creation of the computer in four orders
+in magnitude Better Than Mathematics
+than us and yet none of these things
+have resulted in kind of General
+economic viable Solutions uh for
+everything they just for subsets right
+okay because they didn't know how to
+speak English they didn't know how to
+have a natural conversation they didn't
+know how to see how to process visual
+input they didn't know how to generate
+visual output these are all barriers
+that have now come down to the where
+it's hard to say what they can't do so
+again in the past we would always see
+all these important things that they
+couldn't do today I'm looking at you
+Martine to tell me what exactly is it
+that they can't do what's the last
+barrier and so for we can talk about
+this language so another way to rephrase
+what you said about the language stuff
+is these models are very good at
+predicting what a mean person would do
+next a mean person would do next so sure
+they basically do kernel smoothing over
+positional embeddings that's great who
+whoa whoo who are you calling kernel
+smoothing they basically do kernel
+smoothing over positional embeddings
+that's not accurate they're doing a lot
+more than that but you know what when he
+uses that term kernel smoothing I
+recognize that dog whistle Martin what
+you really want to say is the SP word
+right stochastic parrot I got you think
+about like a racist guy who wants to say
+the n-word but he doesn't want to be
+seen as racist so he says hey look at
+that Urban Thug say what you want to say
+Martine that that AI is a good for
+nothing stochastic par it they basically
+do kernel smoothing over positional
+embeddings he's trying to cloak the slur
+here but I'm sorry that's not what it's
+doing it's not kernel smoothing over
+positional embeddings because when you
+have the Transformer architecture you
+now get something that is qualitatively
+different it's nonlinear which is my
+same beef of people who try to say look
+it's just linear algebra why are you
+afraid of linear algebra well hold on a
+second once you apply all these layers
+of the neural network it's very much not
+linear it's a totally different
+phenomenon which as you would expect
+when you have something something that's
+never been done before where it's
+talking English doing better drawings
+better essays than humans could do
+obviously that's something more than
+being a stochastic parrot something more
+than Colonel smoothing over positional
+embeddings so I just wanted to point
+that out because that is actually a low
+blow that he's leading off with which
+means if you have a corpus of data it'll
+give you the average response which is
+great and it's very useful for a number
+of things does that provide economic
+utility for a broad range of stuff I
+mean I'll tell you I look at these
+companies basically full-time and I have
+for three years we probably have the
+largest portfolio of them and I don't
+see that yet I get the temptation to say
+it's just the average response but
+that's just so not accurate about what
+it's doing when you tell it to draw you
+a picture with like a five sentence
+description and it draws something
+plausible complete with plausible
+details and okay there's six fingers on
+one hand but it's like an entirely new
+scene that's just giving you the average
+response what does that even mean it's
+frustrating to me because these people
+who are so smug about writing off what
+the AI is already doing as if they know
+what the limitation is these same people
+were not saying 5 years ago yeah you're
+going to get amazing artwork you're
+going to put artists out of business
+these people had no predictive power in
+their mental model they're just
+retroactively looking at what the AI can
+do and finding a way to dismiss it they
+don't have a sound methodology when
+they're making the claims they're very
+much just making it up as they go along
+when they make claims like yeah it'll
+just give you the average response
+they're actually not self-aware about
+the limits of their knowledge and their
+own Insight which is frustrating now
+there are areas where they do work but
+it's not that it's not this kind of
+general knowledge worker that's not
+actually not working and the areas where
+it is working is stuff like the marginal
+cost of content creation goes to zero so
+now we have like amazing new content or
+computers are creating an emotional
+connection with humans that's new and
+that's exciting and that's amazing but
+this idea of this general knowledge work
+or working like I haven't seen it yet
+and maybe it'll happen but just like
+self-driving 20 years ago like that's
+just not how the universe tends to play
+out oh okay so the marginal cost of
+content creation goes to zero and
+creating an emotional connection with
+humans is going to be a solved problem
+but the general knowledge worker is the
+last barrier standing how are you making
+this categorization this is such a
+retroactive move you would not have told
+me this 5 years ago you would not have
+predicted this and you don't understand
+why it's happening now now what about my
+own epistemic State I've never claimed
+to know the order in which the last
+pieces of AI are coming I've always just
+been saying that the end state is
+superum AI I can't tell you if the last
+pieces are going to come in 2 months or
+2 years or 20 years or maybe even longer
+I don't claim to know that I don't have
+special predictive power over how fast
+it's coming all I can do is observe that
+all these different obstacles that we
+used to say would be extremely
+impressive if they were solved they're
+pretty much all in the rearview mirror
+except these last AGI Milestones to use
+Martin's terminology a general knowledge
+worker okay yeah we don't have that
+that's one of the last things standing
+right I mean we're already already
+getting medical exams with case studies
+getting passed better than doctors I'm
+not saying I literally want to trust my
+life to an AI doctor but we're getting
+there we're getting there I think we're
+all confused on why it has the set of
+abilities that it has and in fact
+researchers are actually discovering
+that you take the same AI that it exists
+today and you try different methods of
+prompting it and you try chaining
+together different prompts and we're
+still getting surprised at what today's
+AI can do this is very much a situation
+in flux we do not deeply understand
+what's going on in these AIS it's still
+still very much a black box and here's
+Martin with this fake distinction where
+he's like yeah creativity is automated
+of course you know automating human
+emotion generating human emotion of
+course that's easy knowledge work is
+hard it's like what where are you
+getting this distinction besides just
+retroactively describing what happens to
+be the case today okay now Martin is
+going to explain something that to him
+is apparently a core belief that drives
+a lot of his claims about AI to me it
+doesn't really make any sense but let's
+listen to how he tells it and see what
+the Crux of my disagree is I don't think
+people appreciate how heavy tailed the
+universe is so I just want to describe
+this because it just comes up right now
+and it's going to be so relevant to what
+we're going to be talking going forward
+which is there are many things that
+systems deal with that are that are
+heavy tailed but what heavy tailed means
+is if you draw An Occurrence at random
+just draw one at random the chances are
+is that it's a very rare occurrence so a
+very classic case of this is search and
+so if you draw a unique search query say
+Google at random the chances are it's
+pretty unique actually even after all of
+this time now this is unique searches so
+if you take all of the searches that go
+into Google say and then you don't dup
+them so like you can have a lot of
+repetitive ones the vast majority of
+searches are the same let's say 90% of
+them are common but if you reduce it to
+just singular intense so you don't have
+any duplications the majority are
+exceptions and that's how the universe
+tends to be like like I come from
+networking it's a very famously heavy
+tail to discipline a lot of things in
+the tail so if you're building a general
+system the majority of new things it has
+to do not things it has to do the Maj
+new things it has to do are exceptions
+now it's very easy to get tripped up in
+these conversations because the majority
+of stuff that you're doing is not new
+right the majority of stuff you're doing
+is very common but anytime you get into
+new areas then you have to come up with
+new stuff okay so the concept of a heavy
+tail distribution that's see a coherent
+concept from statistics the idea is that
+if you compare it to a bell curve like
+the bell curve of human height if you
+imagine skewing it to the right and
+having more weight on values on the
+right side of that curve than you would
+normally get from a bell curve then
+you're looking at a heavy tail
+distribution for example if you look at
+the distribution of income which is also
+the example that Nasim TB uses in his
+Black Swan
+analyses if you look at the distribution
+of income or wealth you have
+billionaires right so you don't just
+have everybody clustered around the
+100,000 or million dollar range you have
+these billionaires that are off to the
+right A Thousand Times Higher and you've
+got a fat tail connecting the normal
+people to the billionaires so that's an
+example of a heavy tail distribution and
+I guess the way that Martine would think
+would be like hey if we train AIS to do
+a lot of analysis on people with average
+income it's just not going to learn
+insights when it encounters a
+billionaire for the first time and
+that's all analyzed on a single
+Dimension right because there's a single
+quantity of income or wealth imagine
+that there are many dimensions and then
+you're dealing with heavy tals across
+this multi-dimensional space I think
+this is what Martine is getting at and
+yeah that's a coherent concept right you
+can argue this is the problem with a
+eyes is they're just connecting dots
+that are near the center of the bell
+curve and they get screwed up when you
+get a heavy tail I think that I've
+paraphrased him accurately he can
+correct me if I'm wrong now the problem
+I see is just like okay what's the
+metric by which you're saying that
+things have never been seen before or
+things are part of the heavy tale
+because in the case of Google search or
+in the case of prompting chat GPT you
+can give it a query or a prompt that
+it's never seen before and in fact with
+chat GPT presumably if you're writing a
+two- sentence prompt there's going to be
+so many words in that prompt that it
+really is the first time that that exact
+prompt has ever been seen especially if
+you consider the preceding conversation
+right so it's a unique input if you
+consider the context as a whole so does
+Martin just automatically grant that
+chat gbt is successfully handling heavy
+Tales no I don't think he would I think
+he would introduce a metric and he would
+say sure that's a novel sequence of
+tokens but it's still located close to
+other token sequences that have been
+seen before so on my similarity metric
+it's not part of the heavy Tale But
+that's really where he sneaks in his own
+arbitrary judgment just sneaking in this
+arbitrary label that he likes heavy tail
+versus light tail as if it applies to
+the kind of complex jobs that modern AI
+is doing labeling chat GPT as if it's
+light tail it's like come on I've asked
+chat GPT to come up with stuff that
+seems creative to me when I asked for a
+new name for my podcast it said the
+singularity scenario doomsayers code
+future fallouts machine Mayhem
+meditations endgame AI enigmas
+intelligence
+Insurrection so Martin can just dismiss
+all that stuff of like well it's just
+like taking words and it's like
+connecting the words and it's like
+encoding what the words mean but it's
+like from my perspective you're clearly
+just making up rationalizations because
+you want to put the current level of AI
+capabilities into some bucket that you
+want to call light tailed but I just
+don't see it I don't see how you could
+have a priori told me what chat GPT
+can't do could you really have a priori
+told me sure chat GPD can suggest new
+names for your podcast that nobody's
+ever invented before that's totally the
+kind of task that doesn't have a heavy
+tail how could you tell me that I don't
+get it what is the metric by which these
+suggestions are not heavy tailed and
+then Martine might say well if you look
+at the internet's Corpus of data there's
+so many examples where somebody was
+trying to name a podcast and there's a
+bunch of principles for how to come up
+with a good name and there's this idea
+of which words sound catchy and
+alliteration and which words sound novel
+and new so I get why he might think hey
+it's a type of problem that's already
+been done and that's really the Crux of
+the issue is can you really take
+something the AI did that seems
+impressive and always just find some
+other thing that to you seems Sim
+similar enough that you can then write
+off the AI as being like ah it really
+just connected these two dots it really
+just interpolated this other thing that
+it found together with what you're
+saying and it's a tough question because
+the thing is it's a matter of degree so
+yeah I agree that it probably did use
+some Corpus of naming podcasts or
+marketing or like all these different
+related fields but it's like we didn't
+know how to make this algorithm to
+interpolate 5 or 10 years ago right so
+obviously it's easy to say that it's
+trivial now but people have tried people
+have had similarity metrics before
+they've had embeddings before they
+didn't have the Transformer architecture
+and they weren't able to produce the
+output Black Box these inscrutable
+matrices right that's the new thing here
+that's the new insight that's able to
+make these connections that you're
+rationalizing away as being like Oh it's
+just interpolating it's just kernel
+smoothing but it's not it's something
+that we don't understand but I agree
+that you can point to any example and
+you can say for me as a human this feels
+similar and AI can only do things that
+to me feel similar you can make that
+argument but of course the problem is
+every time a new AI release comes out
+every time a larger model comes out it
+somehow seems to stray farther and
+farther away from what seems like short
+hops away from its training data like I
+don't think gpt2 could have made this
+hop to name my podcast gpt3 probably
+could have done it GPT 4 definitely can
+do it GPT 5 can probably do much harder
+problems right and I don't think the
+Martin worldview saying that AI just
+interpolates things I don't think it
+lets you make any predictions whatsoever
+in terms of how far away from its
+training data GPT 5 can hop that hop
+distance can surprise us it can be
+surprisingly short it can be
+surprisingly long nobody is prepared to
+make a prediction in fact I don't see
+Martin on record with a prediction I
+would happily make a prediction except I
+don't know I don't claim to know my
+prediction is a high uncertainty
+distribution it's like self-driving is a
+very great case of this like nobody
+expected basically a 2d vision problem
+let's be honest man like self-driving is
+2D it's not even 3D it's like you have
+streets and you have signs you don't
+really worry about the Z Dimension
+really and yet a hundred billion dollars
+in 100 billion of investment were almost
+there but not in a in an economically
+positive way the reason I wanted to make
+this point now is I think so much of
+these discussions as people I believe
+underestimating how heavy tail the
+universe and how hard it is to make
+progress and so we should be working as
+hard to make progress so that we can do
+stuff like self-driving and not slow it
+down because the task is enormously
+complex okay I think I get how Martin's
+argument Works what he's doing is he's
+observing domains like the domain of
+chat Bots the domain of self-driving and
+he's observing hey there's a few perc of
+the distribution of inputs where you're
+not getting a good output and then he
+he's going from there to his preferred
+explanation that those outputs that it's
+failing at they must be part of the
+heavy tail they must be outside of the
+center of the distribution they might be
+inputs that you can't just interpolate
+your way to solving and those inputs are
+so far beyond the reach of what AI can
+do because AI is just an interpolator
+and there's some fundamentally different
+type of intelligence that you need when
+you solve those last percent of inputs
+now of course he may be right it may be
+that when we finally figure out how to
+make AI that can do the last .1% of
+self-driving or the last 5% of chat GPT
+queries or however you want to analyze
+it it may be that we do it by
+discovering such a new type of AI and
+Martin will have been right of like aha
+yes this is just a matter of you can't
+interpolate your way to success I
+personally don't see it that way I don't
+follow him when he makes the leap toward
+there's a percentage of inputs that AI
+can't do two therefore some inputs can't
+be interpolated I don't see it that way
+I just think that the inputs that it
+can't do tend to be more like okay it
+can't reflectively look back and kind of
+edit its own output it doesn't do what
+humans do where it's like they kind of
+take a first stab at something think
+back on how they should change it take
+another stab kind of a loop where you
+get iteratively closer and closer to the
+answer and you can apply a certain
+robust logic you know because applying
+logic is also another type of
+interpolation right so when a human
+looks at something and like aha I made a
+mistake there's kind of a logical
+inconsistency here that process of a
+human doing that you can still describe
+it as interpolation right it's not
+fundamentally different I mean AIS can
+do logic they can reason to a degree
+right they just don't reason in Long
+robust Chains It's not black and white
+like AI can reason versus AI can't
+reason uh you know most experts agree
+that there's some amount of reasoning or
+protore reasoning going on so I'm just
+not seeing the connection between what
+AI currently can't do and some
+fundamental distinction of in versus not
+I think that's where Martin goes wrong
+here I always say that the best systems
+are closing in on Expert performance on
+routine tasks and the word routine there
+definitely is critical because when you
+get outside of routine tasks they are
+not comparable to expert performance
+yeah that's a good summary by Nate that
+terminology of routine tasks I think is
+being used synonymously with Martin's
+terminology of IND
+distribution and then heavy tailed is
+just the idea of if you want to be
+economically valuable there's always
+going to be so much that lies outside
+your distribution and you better get
+working on it so the Crux of
+disagreement is going to come down to
+basically this concept of the threshold
+of general intelligence right this thing
+that humans have I mean the human brain
+is lots of copy and pasting right it's a
+relatively small amount of genetic
+information a small amount of genetic
+Divergence from the Apes that is letting
+us reflect on new domains go to space
+within one or two generations right so
+this extra module that the human brain
+has I don't think that AI is going to be
+that far away from it maybe it needs a
+new architectural Insight but I think if
+you take the raw material of this
+magical High dimensional interpolation
+that we've already cracked and you add a
+little bit of extra Secret Sauce of
+being like oh here's some extra logic
+here's how you can really quickly train
+yourself on a new domain and start
+applying the new domain so you don't
+need a human trainer right whatever
+extra Secret Sauce we need to put into
+that AI I don't think it's going to take
+that much secret sauce and then suddenly
+I think you'll be able to break out of a
+lot of different kinds of routines at
+once so if people keep working on the
+self-driving problem and they keep doing
+99.9% 99.99% of situations if they keep
+working on it eventually there's no way
+to get
+99.99999% without just having core
+general intelligence because the amount
+of crazy scenarios you can encounter is
+actually as crazy as the amount of
+scenarios you can encounter period
+because you can just take any situation
+and embed it as a self-driving car
+scenario like you can take any kind of
+crazy celebration that humans are having
+in the middle of town square where the
+car is trying to drive and you could be
+like okay in this celebration here's how
+you have to conduct yourself if you're
+trying to drive through here's like a
+bunch of rules you have to be respectful
+you can't make a left turn during this
+particular celebration right or you
+could be like oh here's a truck that has
+a bunch of traffic lights on it but the
+traffic lights shouldn't count as real
+traffic lights um the amount of crazy
+scenarios that you can concoct is
+unbounded or like okay this other driver
+gets out of their car and they're like
+trying to tell you something you should
+really listen to what they're saying oh
+okay so now you just have to understand
+what they're saying about the world and
+like maybe they're arguing with you but
+they're wrong so you have to argue back
+to them right so you're never going to
+fully solve self-driving before your
+full general intelligence just comes
+online which is true about a lot of
+different problems whenever a problem
+gets complex enough you're never going
+to fully solve it without just having
+general intelligence so when you point
+at the problem and you say hey this
+problem has a heavy tail I don't think
+that that's as good of an analysis as
+saying this problem is a turing complete
+problem it's an AI complete problem it
+can only be fully solved with general
+intelligence I think that's the useful
+framework here because general
+intelligence will come we have it as
+humans right we as humans even Martine
+would agree we don't have a problem with
+heavy Tails right so something has
+snapped something has reached some
+threshold in the human brain so why
+analyze it as heavy Tales I guess that
+might be an analysis that works when you
+pre-assumption I think you'd largely be
+accurate I think you'd be surprised how
+many times it can surprise you and go
+into that tail that you kind of made it
+out to be Untouchable I don't think it's
+Untouchable I think you're going to get
+surprised but I think that you're making
+sense when you talk about okay today's
+AIS do better in distribution right so
+we can split the difference I can say
+all right fine Martin you're speaking
+some sense right it's accepted that AIS
+do better when things look more like
+they're training data there's some sense
+in which you're correct but I also think
+that you're trapping yourself in this
+mindset where you're about to be
+blindsided by reaching the threshold of
+general intelligence which is something
+that happened in human evolution you
+would have been blindsided when the ape
+brain had a few genetic modifications
+and then you got the human brain you
+would not have predicted the human brain
+right so I'm here trying to tell you
+wake up because something analogous to
+the human brain is coming with minor
+modifications probably to the AIS that
+we have today you need to have a mental
+model that will not be blindsided when
+that happens and of course what I'm
+saying is similar to what a lot of
+experts are telling you right I'm I'm
+just telling you the Jeffrey Hinton
+position the Ilia satk position I even
+think Sam Alman probably agrees with
+what I'm telling you right now right so
+it's interesting which sides form in
+different arguments right A lot of these
+people that I mentioned might not be
+quite as big doomers as I am especially
+Sam he's more of an optimist but he
+would take my side of this argument
+versus Martin in terms of how close we
+probably are to AI That's going to solve
+those heavy tail problems so as far as I
+can tell what llms are doing and there's
+actually papers that have shown this
+pretty concretely is they take a corpus
+of data they create positional
+embeddings and they basically average
+over it and based on that they can
+predict what a human being would do or
+say given a certain situation right and
+they do that basically via averaging
+again I think you're giving the wrong
+intuition here it's true that token
+embeddings are a linear structure so
+your intuition around yeah we're going
+to encode the meaning we're going to
+solve the symbol grounding problem using
+a high dimensional space we're going to
+use similarity metrics in high
+dimensional space to relate different
+meanings your linear intuitions and you
+know the concept of an average that all
+makes sense when you're just talking
+about embeddings but when you're talking
+about an llm that's using the
+Transformer architecture to chew through
+thousands of tokens and a a large prompt
+and then come up with a response taking
+into account all of that different
+context and combining it in a
+combinatorially novel way like okay I'm
+not just asking it to come up with a
+title I'm asking it to come up with a
+title for my podcast which is about
+people debating Doom and maybe I want it
+to be silly right like combinator adding
+all these things in it's more than just
+finding some point inside of the
+embedding space it's more than that it's
+an operation that has a bunch of
+parameters and context I mean it's a
+black box frankly right I can't really
+tell you how it works because nobody
+knows I can just tell you that there's a
+bunch of parameters describing this
+multi-step nonlinear operation and
+you're not describing that when you're
+just hand waving and saying that it's
+averaging and interpolating right you're
+missing a key part of what is actually
+happening here and as a result you're
+lacking the predictive power you
+couldn't have told me in advance if I
+told you 5 years ago hey you're going to
+have ai that all it does is average
+things all it does is interpolate now
+tell me what it can and can't do can it
+suggest names for my podcast can it
+write a poem that rhymes and is about
+maritime law but also makes you think of
+this other historical figure can it do
+that if all it can do is interpolate and
+average tell me Martin what does your
+analysis imply about specific input
+outputs that AI can do or not I don't
+think that he could have reliably made
+the connection between his own mental
+model ah yes it only averages things and
+the correct answer of like why yes this
+is something that AI can do it can make
+those kind of crazy novel poems right I
+don't think the connection is there I
+think he's smoothing over a picture
+retroactively that he can kind of sell
+he can sell it to himself he can sell it
+to others but it's actually not it
+doesn't logically hold together he's not
+accurately describing what a I can
+currently do and where it might be going
+soon we're nowhere close to
+understanding what these distributions
+look like how heavy tailed they are and
+how they can handle that tail I agree
+that there actually is some uncertainty
+on what's going to happen when we train
+the next llms how far into the heavy
+tail are they going to be able to reach
+is scale really all you need does a 10x
+or 100 or 1,000x bigger gbd4 get the job
+done in terms of cracking in a general
+intelligence in terms of full
+self-driving in every situation in terms
+of taking over the world and I can't
+tell you so I agree with Martine that we
+are nowhere near understanding what's
+going on with these distributions so I
+guess we can see eye to eye in that
+sense the only difference is I see us as
+being architecturally close or just
+close in design space to general
+intelligence and general super
+intelligence because I think if you
+crack human level intelligence you're
+very likely going to F into smarter
+intelligence I think it's not going to
+quickly stop human level I think we're
+screwed at that point right so I'm not
+suggesting that scale is all you need
+necessarily I think it may or may not be
+I think we may try to THX gp4 and we
+still get an AI That's having trouble
+with edge cases that is very plausible
+to me but I think just a few little
+tweaks a few other modifications of the
+architecture that are as insightful as
+the concept of a transformer just throw
+in a couple more Concepts and that's it
+and then it's game over I don't think
+that were that many large Concepts away
+from game over from a super intelligent
+Ai and part of the reason I feel that
+way I'm estimating that way is because
+when you look at the human brain there
+weren't that many major architectural
+modifications between the ape brain and
+the human brain and compared to the ape
+brain the human brain has fed the human
+brain has taken over has reached the
+point of no return where no other
+species can hope to control their Niche
+can no other species can hope to defend
+their niche in the face of humans that
+idea of competition between niches is
+now completely gone on the current
+trajectory of humans right so that kind
+of escape velocity I think it didn't
+take that many genetic modifications to
+go from the AP brain to the human brain
+and I don't think it's going to take
+that many architectural modifications
+now that we're at the point of llms
+probably not maybe it'll take 50 years
+right I just don't see it taking 500
+years I don't see us having that much
+time and of course we may only have like
+one year so I guess that's that's where
+we disagree in terms of stolting what's
+coming next I actually think this how
+it's going to play out is right now
+anytime we're always at like beginning
+of what looks like an exponential budet
+is actually a sigmoid and what we think
+is like a fat head system but in a heavy
+tail system it always feels like this
+like it feels right now and everybody's
+saying all the stuff that they're saying
+right now and we're like it's amazing
+you know everything's going to work out
+and then we're going to realize oh my
+goodness the universe is heavy tail this
+is really hard these things go to 80% of
+stuff but the 80% of stuff that it's
+good at is not that hard and the stuff
+that need it to be good at is really
+hard I think we've figured out what's
+going on between Martin and Me Martin
+looks at problems like self-driving
+where there's a few percent of
+situations that the AI hasn't figured
+out and customer service tickets where
+sure we got to 90% we got to 95% but
+that last 5% is just still Thorn he
+still requires a human Martin's looking
+at all these domains and he's calling
+them fat taals and he's referring to the
+idea that we haven't solved general
+intelligence which lets us solve these
+fat tales I'm looking at those same
+problems and I'm agreeing that like yes
+this is definitely a pattern that you're
+observing right like the idea that AI
+hasn't solved everything perfectly like
+there is definitely a key reason why and
+it's the reason that I've been calling
+lacking general intelligence right it's
+not all the way to general intelligence
+and so whenever you have an AI complete
+domain like whenever you have customer
+service tickets that are able to pull in
+an arbitrary amount of context of
+understanding different people or a
+bunch of different systems without like
+a clear found anytime you have a
+situation like that I would frame it as
+like okay yeah then you need to just use
+your general intelligence you need to
+use intelligence whose domain is over a
+system as complicated as the universe
+not in terms of like understanding every
+atom in the universe but in terms of
+understanding like some basic laws right
+like a little bit about physics and a
+little bit about human psychology and a
+little bit about reasoning and making
+arbitrarily long connections and doing
+it robustly like I'm just describing
+what it's like to have general
+intelligence and I agree that today's
+AIS don't fully have it right they're
+not human level um I do think it's worth
+noting and I think Martine would agree
+that when you look at domains like
+handwriting recognition or recognizing
+objects better than humans I think that
+it's it is notable that there are
+domains where they're pretty much done
+solving it including domains that we
+used to think was really hard and thorny
+so I do think like the only thing that's
+missing is this very large domain
+general intelligence right that last few
+per of things where the only way to
+solve it is to solve everything in one
+fell sup there's no such thing as being
+able to master
+99.99999% of self-driving situations
+without also mastering reasoning about
+the universe as a whole there's no such
+thing as being able to solve 99.999% of
+customer service tickets without also
+being insightful about the universe as a
+whole but here's the thing the universe
+as a whole is still a finite problem
+right so it's not like this new
+mysterious different type of problem
+it's just a larger domain it's still a
+domain it's just larger than other
+domains but we're getting there right
+the same way that we totally solved
+board games at least the popular board
+games right Chaz trackers go the same
+way we solve those and we're solving
+video games like we're going to solve
+the physical Universe the physical
+universe is not that hard so talking
+about fat taals isn't a convincing
+reason to to tell me that AI is not
+going to expand into solving problems in
+the domain of the universe like we are
+getting there that's where the trend is
+going and once you start being able to
+reason about the universe as a whole
+robustly better than humans you're not
+going to be able to be like hey look
+there's a fat tail here this is out of
+distribution like that argument is just
+not going to reflect what's actually
+happening what's actually happening is
+that the same way that humans think
+about strategic moves and answers to
+problems within the universe the AI will
+be doing that too it will now be going
+toe-to-toe with humans in that
+particular domain the same way that it
+keeps going toe-to-toe with humans in
+other bigger and bigger domains and so
+that's why the current emphasis on the
+fat tals that's totally fine for now
+right if you're just investing in
+companies that are trying to make money
+in the next three years which is his job
+right although he likes to think that
+he's investing for 10 plus years so
+maybe not but if you're just looking
+very short term sure but like zoom out
+and look what's going on here right like
+you have to talk about general
+intelligence you have to look ahead a
+few years and see where these things are
+going okay in this next section I'm not
+going to play everything that Nathan
+said but basically he was coming around
+to the question of how do you make sense
+of highlevel Concepts that exist in
+inside the ai's internal representation
+if you were to train keep scaling and
+keep training these models on
+distributed systems or software or
+whatever how do we know that they don't
+start to to learn things that people
+don't know and truly generalize beyond
+the training set because it does seem
+like that's happening in some profound
+way I think this a great question I I
+think maybe this is why I come to this
+from a different thing prior to my PhD
+like my life was computational physics I
+worked at Lawrence lmer National Lab I
+did large physics simulation like I just
+lived this life and I think the aams rer
+in all of this is distribution in
+distribution out these things are very
+good at learning distributions of of the
+training set and so this is just in this
+kind of weird quirky Coincidence of this
+moment I actually worked on protein
+folding at ibmg Watson Research Center
+in 1999 on the blue jeene project and at
+that time there was a belief that we
+knew enough of the
+fundamental forces in order to actually
+from first principles calculate protein
+folding that was the thesis and that we
+just didn't have enough compute and so
+they actually built a whole computer to
+do this called Blue Gene and through
+corporate mechan that ended up becoming
+an entirely new computer because they
+couldn't fund it it never really
+happened but there was the belief that
+if you had enough compute that you could
+do protein folding and a bunch of other
+stuff and so I think it's very
+reasonable this is a strict aams razor
+that if you have enough compute and you
+have enough data and you're dealing with
+an axiomatic system that you can reduce
+to First principles then you will learn
+that distribution and you can use it for
+predictive stuff and if you want to call
+predictive emergent that's fine but it's
+just predictive like anything is
+predictive like I've worked on
+simulations codes that were predictive
+could I have predicted the yield of a
+nuclear weapon no I could not have
+predicted that as a human being only a
+computer can but it's really just
+understanding first principles to create
+these things I very strongly believe
+these models are are very useful in
+science where you've got fundamental
+laws of nature that are being learned
+that can be predictive I think the
+models that are good at that is not
+going to turn around and solve a
+different problem most likely because I
+think you've probably learned one
+distribution from what domain and that's
+a very useful tool that we should use
+okay so what is Albert Einstein's brain
+do what does Elon musk's brain do they
+understand some principles some axioms
+of how their Universe Works they don't
+know how corks work but they know enough
+building blocks that describe their
+universe and the people in it and the
+objects in it that's all they need to
+know to treat that as a well-defined
+challenge and make powerful predictions
+about it and take powerful actions in it
+that's it so when you're describing hey
+these systems are possible why does that
+not describe the challenge that you give
+to a human who's super effective in the
+world and why does that not describe
+throwing computation at that problem and
+beating humans at their own game where's
+the difference where's the distinction
+where's the firewall that AI aren't
+going to cross and um you'd probably
+answer okay it has to do with the fat
+tails but where exactly are the fat
+tails because Elon musk's brain
+understands enough building blocks that
+those building blocks can
+combinatorially combine and handle any
+situation in Elon musk's life right so
+where does the AI stop being able to do
+that you'd probably be like ah well the
+AI under the current architecture needs
+to be fed so much data but I guess I
+would point out that the AI is still
+crawling away from its distribution like
+you can still ask it to combine things
+in a novel way you just can't ask it to
+do it for 50 steps right but it can take
+a few steps there's actually a lot of
+evidence that it can take a few steps
+sometimes you might have to hold its
+hand you might have to be like hey what
+if you take this example and make a few
+modifications to it and then try to make
+an extra modification can you do that it
+can to some degree like it's showing a
+willingness and an ability to crawl away
+from whatever you think is the center of
+its distribution of training data it
+just starts to get bad at it after a
+certain amount of steps right and that's
+that's the whole problem right now is
+how many more steps of this kind of
+iteration before it's like oh wait hey
+I'm just generally intelligent I kind of
+know how to go back and edit myself when
+I made a mistake right that's what
+everybody's looking at that's what
+everybody's wondering about that's what
+Humanity as a species is being kept
+Alive by the fact that we can't do this
+yet right so but anyway my my question
+to Martin would just be okay you agree
+that computers can kind of Master all
+these different problems that are based
+on principled systems right lawful
+systems predicting what they're going to
+do you agree that AIS can do that so
+what's so hard about an AI reasoning
+about the universe why is that a
+fundamentally hard problem compared to
+other problems that AIS can solve now
+let's let's let's go ahead and move that
+over to language now so if my aam's
+Razor is these things learn structure in
+a Data Corpus it's distribution in
+distribution out that means that their
+learning structure of of the Text corpus
+that that they they've been they've been
+fed and a great example of this there's
+a recent paper I saw I don't know if it
+got accepted or not I think it was just
+on um archive but that showed that if
+you could gzip a Text corpus and the G
+and the compression was good then like
+the accuracy was good which suggests
+almost everything you need to know about
+this that all it's doing is learning
+structure in the text so I haven't seen
+the paper he's talking about but it
+seems to me like he's really missing the
+point when he says hey look AI can
+operate better at things that have small
+gips he's missing the point that we've
+made a breakthrough in compression the
+fact that we have more powerful llms
+means that we're finding deeper
+structure than ever before in the data
+we're getting so we're processing a
+stream of text and we're mapping it down
+to like this describes a world the world
+has actors the world has big chunks the
+world has deep connections and Gip is
+blind to that structure so when Martine
+is saying hey look I read a research
+paper that says gzip actually describes
+how the llm is going to do he's missing
+the Breakthrough that happened that
+we're actually getting deeper in our
+ability to compress things that the the
+amount that we can predict the next
+token is a whole lot more than just
+saying oh yeah we stored the G's up
+above it no no no we actually stored a
+deeper generator of the next token and
+that's why I don't know if there's a
+single official contest that can measure
+this unfortunately but that's why if you
+were to just look Apples to Apples how
+small can you compress text and you know
+it's called the Hooter prize when it's
+done uh with a relatively small Corpus I
+think like 100 gbt of Wikipedia uh I
+think it's too small to really reflect
+the progress with AI unfortunately it's
+kind of a bad context for our needs but
+if you had like a better version of the
+Hooter prize you would just see the
+Hooter prize it's getting one using
+smaller and smaller data sizes because
+as we make advancements in intelligence
+we're making advancements in compression
+because we're seeing deeper right
+intelligence is predictive power which
+is compression there's a deep connection
+here that it seems like Martin is not
+acknowledging in this segment of his
+interview there's nothing to do with
+underlying meaning is just structure
+that's in the text it has nothing to do
+with the underlying meaning it's just
+structure within the text wait but
+sufficiently deep structure is meaning
+like llms have already solved what was
+traditionally called the quote unquote
+symbol grounding problem that's been
+solved symbols are able to be grounded
+when you embed a token in a high
+dimensional space especially with
+context that's it that's the meaning of
+the token it's relationship to other
+symbols um llms have pretty much
+mastered that sure they can't fully
+reason from those embeddings to Output
+any problem right to take in all the
+context perfectly I mean we know they're
+not generally intelligent yet but in
+terms of knowing what a token really
+truly means for the purpose of writing
+essays about it and answering arbitrary
+prompts they've got it they're grounding
+those symbols so I'm actually kind of
+surprised to hear Martin say there's
+nothing to do with under like meaning is
+just structure that's in the text
+because you can grant me that the
+structure that's been learned by today's
+llms actually does map to the meaning of
+the tokens that they've processed you
+can grant me that and still make your
+argument that they can't reason about
+longtail situations right those are two
+totally separate points so it's
+interesting to me that Martine is making
+this separate point of like no the
+structure that it's learned is just
+structure it's not meaningful structure
+I think he's on very shaky ground there
+like to me it's obvious that it is is
+Meaningful structure so you can
+understand the distribution of text you
+can actually spit out text but this
+doesn't say anything about learning
+fundamental principles of the world from
+which the text is based wow really
+doubling down here you really don't
+think that the AI is seeing through to
+some of the depth behind the tokens that
+are being generated all over the web
+like when it processes this text you
+don't think that it's mapping to
+something deeper that is actually real
+is actually meaningful about how that
+text was generated for instance there is
+a famous example of yan laon going on
+record saying I bet an AI can't tell you
+the answer of what happens when I put a
+book on a table and then I shake the
+table or I move the table I bet the AI
+won't realize that the book moves with
+the table but sure enough today's llms
+do realize when you ask it they do
+realize that the book moves with the
+table and you can try to make a bunch of
+variations of the problem and they'll
+still reason and give you an English
+explanation of saying hey this object
+whatever you call the object is on the
+table T and it you know friction will
+cause it to hold with the table so
+unless something unusual is going on it
+will end up in the same position and the
+amount that you can vary The Prompt that
+you're giving it you can vary it pretty
+deeply like the only thing that has to
+stay constant is a mapping to an actual
+physical model of something on top of
+something or at least something like
+isomorphic to that in a deep way right
+so I'm not saying you can't trick it no
+matter how hard you try but I'm saying
+you can't trick it in a shallow way
+right it's non-trivial to trick it so it
+it's it's going so far beyond statistics
+it's going so far beyond being a
+stochastic parent you have to give it
+credit for something that it's doing
+where like it actually understands some
+deep level of meaning by the way here's
+that Infamous clip of yan Leon that
+originally went viral when I posted it
+on Twitter last year if you're just
+listening on the podcast audio feed what
+happens after Yan laon says that GPT
+5000 could never solve a simple physics
+problem is that I type it into GPT 3.5
+and it spits out the exactly correct
+dancer and then I play the music from
+requium for a dream to symbolize that he
+has kind of screwed Humanity by not
+making these obvious predictions
+correctly I don't think we can train a
+machine to be intelligent purely from
+text so for example I take an object I
+put it on the table and I push the table
+it's completely obvious to you that the
+object will be pushed with the table
+right because it's sitting on
+it um there's no text in the world I
+believe that explains this and so you
+train a machine ask powerful as it could
+be you know your GPT
+5000 uh or whatever it is it's never
+going to learn about this um that
+information is just NE is not present in
+any text
+[Music]
+another example you can ask to draw the
+situation you can describe any arbitrary
+situation in words and then ask it to
+draw it how is it mapping from words to
+an image the only way to do that is with
+a deep representation unless you've seen
+something very very similar on the web
+right and that's like a go-to move of
+like AI Skeptics or people who just
+don't think AI is that impressive
+they're all like ah it's just repeating
+back a pattern it's already seen but
+it's like you can vary the input quite a
+lot right and so I guess the Crux it's
+always going to come down to be like is
+it really that similar because your
+concept of similarity is a concept that
+5 years ago everybody would have told
+you um it's not that similar because we
+can't build an AI to do it right so some
+really deep breakthrough has been made
+where this level of similarity that you
+as a human can perceive and seems
+obvious to you is only obvious to AIS
+now now that they have these giant
+matrices of meaning and context suddenly
+they've figured out what your obvious
+similarity metric is right that's where
+we stand today and so it almost seems to
+be that the magic in the sequence of
+text is you've got these humans that
+have spent say 3,000 years looking at
+the universe and the universe is again
+heavy tailed and it's nonlinear and it's
+very complex and it's fractal and it's
+self-similar and these are
+notoriously complicated systems to
+simulate so then the human brain was
+like I'm going to abstract this out as a
+tree and I'm going to abstract this out
+as like this concept and so we're like
+these machines that take the universe
+and Abstract it into things that are
+words but it's a very lossy
+representation you can't describe
+something and get back the universe but
+it turns out because we have those
+abstractions they're very predictable
+like we've made the universe more linear
+and we've made the universe less heavy
+tailed and we've made the universe less
+self-similar and once we've done that
+we've added structure that's
+predictable so the fact that you can
+take a corpus of text which a human
+being has pulled from the universe and
+then made the universe much simpler and
+find structure in that is not surprising
+at all but to think then somehow then
+you can go from that to the universe is
+a step that like just simply has not
+been demonstrated and it actually it
+doesn't even stand to reason I mean
+there's no doubt that when you're
+ingesting words of text that humans have
+outputed you're getting something that's
+a high information density compared to
+like a random pixel hitting a camera if
+you look at a token of text the amount
+of generality you can get the amount of
+uh reasoning power you can get using uh
+that token as your starting
+representation you you've definitely got
+a head start right there's no doubt
+about that but that said we also do have
+camera systems that go from really messy
+pixels all the way to a tagging of
+everything you see in the scene and
+that's now become human level and even
+super human level right so okay maybe it
+got bootstrapped by human labeling but
+we now have a system that can open its
+eyes look out at the world identify what
+it's seeing and now reason about what
+it's saying so where do we go from here
+right this isn't really a new Point that
+he's making right now it's just entirely
+the question of like okay great you've
+now got abstractions over what you
+you're saying and now it's a question of
+can you combine those abstractions
+robustly correctly can you reason can
+you have general intelligence right so
+we're just back to the original question
+I don't get what the new point is
+besides just pointing out of like hey a
+single token conveys a lot of uh meaning
+right it's it's high information
+compared to a single Pixel and like I I
+agree with him on that but AIS can now
+generate their own tokens in many
+contexts too like you can ask an AI to
+Output its internal State when it's
+playing a video game that it's really
+good at and like I'm sure it'll have
+some information dense tokens there too
+like so what maybe Martin would extend
+the argument and be like whenever you
+think that an AI is reasoning or making
+inferences or kind of trying to crawl
+its way outside of its distribution It's
+Just an Illusion where it's just finding
+some tokens that a human has written and
+it's like using those as a crutch and
+it's just regurgitating those back out
+to you I guess you could try to make an
+argument like that but I guess the
+reason that argument tends to be weak is
+just because these people never actually
+predict or describe what the boundaries
+are they just use these handwavy terms
+that are mostly applied
+retroactively and then kind of get
+broken in the next version of the AI
+right there's no predictive power
+telling you what the next AI can't do or
+even in some cases what the current AI
+can't do right so there's been a number
+of challenges posed where people like
+Martin with the attitude of like hey I
+know what AIS can't do they pose a
+challenge and then the challenge gets
+broken by current AIS so they're not
+even experts in practice on what the
+current AI can't do most recently we
+have the arc challenge the abstraction
+and reasoning challenge by franois
+Chalet and Mike noop uh a really
+interesting challenge where there's like
+these visual puzzles that you can encode
+as tokens and they're pretty easy for
+humans and AI struggle with them but
+even that challenge we've been slowly
+climbing up ever since it was posed 1%
+at a time something like 1% every few
+days uh climbing toward 100% just using
+current AI models so nobody in my view
+is wrapping their head around what
+current AIS can't do they're just hand
+waving and in this particular case what
+Martin is saying of like yeah humans
+have done all the work to generate these
+tokens I consider that a handwave like
+what's what exactly is your point about
+the limitation of the AI the fact that
+you can take a corpus of text which a
+human being has pulled from the universe
+and then made the universe much simpler
+and find structure in that is not
+surprising at all but to think that
+somehow then you can go from that to the
+universe is a step that like just simply
+has not been demonstrated and it it
+doesn't even stand to reason so there's
+two phases to the process right phase
+one is you take the messy universe and
+you output some nice high level
+structure like tokens or like
+three-dimensional vectors right some
+high level representation that's step
+one and then step two is you've got this
+high level representation in your head
+and then you understand strategic action
+plans right or or you can reason or you
+can reach conclusions so there's two
+different steps it seems like Martin now
+is focusing on how amazing it is that
+humans
+step one they took the messy universe
+and they got these tokens but we're
+seeing step one happening right we're
+seeing AIS take pixels and output a
+bunch of objects right or we're seeing
+them look at a room and output exactly
+all the nooks and crannies of every
+object in the room so I don't see what's
+the fundamental challenge with step one
+step one actually seems like you can do
+it using like system one right you can
+do it using simpler systems and you can
+rapidly surpass human abilities during
+the step one so it seems like all the
+magic all the secret sauce that we don't
+know the answer to yet is in the step
+two part like we don't know how fully
+General reasoning is going to work right
+that's still an unsolved problem that's
+the part that I can see maybe it'll take
+50 years if we're unlucky or lucky as I
+see it I just don't see why Martine is
+dwelling on part one of this right now
+okay now Nate asked the question that I
+had about why aren't you granting that
+the AI is mapping these symbols to
+structure that's worthy of being called
+meaning like it's correctly associating
+internal mental models in a way that's
+corresponding to structures in reality
+like that's basically what meaning is
+right that's symbol grounding if I
+understood you correctly you're saying
+like that doesn't mean that they have
+any understanding of meaning how would
+you square that with like a sparse
+autoencoder line of research or sort of
+Golden Gate claw if you will like they
+they're able to now say through these
+sparse encoder sparse autoencoder
+techniques that they can isolate I think
+it's 30 some million different features
+Each of which is a direction in
+activation space and then inject those
+at runtime right and they're starting to
+create these sort of control mechanisms
+where it's if they jack up the Golden
+Gate Bridge feature then all it wants to
+talk about is Golden Gate Bridge sure or
+more practically insert kindness or
+insert you know deviousness or whatever
+there seems to be some meaning there
+right there's structure that's very
+different than meaning so we're talking
+about three things this and this is a
+great conversation because I think it
+gets to the heart of it so the
+universe is self- similar it's fractal
+meaning no matter what zoom level you
+look at it it has the same stochastic
+properties right so like you can spend
+an entire life studying a cell and a
+planet right that's how much complexity
+is in the universe I'm not sure I
+understand what Martin is saying here
+you can spend your life studying a cell
+or a planet yeah because those have a
+lot of moving parts and they have a
+complex interplay but if you study the
+laws of physics the laws of physics
+actually describe things at a much
+simpler factored level so like you can
+understand all the different rules that
+govern an electron and then you're done
+and yeah you can start combinatorially
+putting different electrons in the
+universe's memory and now you've got a
+complex system sure but writing down all
+the laws of physics and talking about
+fundamental interactions is going to be
+simpler but I don't know why he's saying
+self-similar I don't know why studying a
+cell or a planet is self- similar to
+studying a small number of fundamental
+particles when you're just doing base
+level
+physics or there's also parts of the
+universe that just don't necessarily
+have that much detail like if you're
+just studying how to play chess chess is
+part of the universe and the level of
+detail is constrained so both the outer
+walls of the universe like the
+fundamental laws of physics the
+beginning of everything in that sense
+that has a very finite amount of
+complexity in terms of bits of
+information and then you also have
+regions of the universe that are limited
+to a finite amount of complexity like
+the game of chess played within the
+physical universe so you have these
+different regions with different amounts
+of complexity so I just don't know why
+he's choosing to use the word fractal or
+the word self-similar there's a
+distinction where some parts are simple
+and he seems to be neglecting that when
+he says that the universe is a fractal
+but I may be nitpicking universe is
+heavy tailed which means the exception
+is the norm if you DD and it's nonlinear
+which means that you can't
+computationally predict out too far just
+because we don't know we don't have
+close form solutions for nonlinear stuff
+and it's just a very hard computations
+problem like that's the universe okay
+but at least the entropy is low as
+right I mean don't forget to name that
+Advantage right because most universes
+that are possible to Define have much
+higher entropy than our universe they
+just have much more chaos they don't
+factor into these super simple laws
+right and it's these super simple laws
+it's this low entropy that lets an ape
+in the savannah or an ape in a suburb
+look out into the stars and make a ton
+of correct predictions I mean we know
+the Motions of the planets for God's
+sakes that's not something you could
+know in an arbitrary Universe right so
+let's not neglect the advantage of how
+easy mode this universe is given its low
+ass entropy now human beings have had to
+n navigate this crazy universe and so
+we've create this amazing engine which
+is the brain and it has reduced this
+universe to Concepts and words and stuff
+that we use and we talk about that kind
+of makes it a little bit predictable and
+so at least you and I can communicate
+about it but if I tell you like this is
+a tree there's a concept Tree in my
+brain but it's almost an arbitrary
+distinction that it's a tree I could
+talk about branches versus leaves I
+could talk about networks of trees
+that's actually one tree like the big
+Aspen Grove I could talk about cells of
+the tree it's like this kind of
+arbitrarily useful distinction so it has
+some semblance to the real world but if
+I say a tree it's probably not an
+accurate relative to how the the world
+is is it one tree is it a family tree
+it's just a useful abstraction so these
+models will
+100% recover the abstractions that we've
+put in text because the structure is all
+there that's not surprising like
+compression would do that all it's doing
+is taking advantage of structure and
+that structure is real but let's say
+that it's finding a tree is a does a
+tree actually map to the universe in a
+meaningful way wow okay he doesn't seem
+to be aware that the low entropy of the
+universe is what gives it joints that
+you can carve it along so if you're an
+AI or an alien looking at Planet Earth
+looking at the landscape of a forest
+you're going to circle the trees like
+the trees are very clearly the correct
+factors of that landscape as opposed to
+like taking 2.5 trees and drawing a
+circle around that and splitting the
+tree down the middle that is clearly the
+wrong Circle to draw right like you're
+going to want to put a whole number of
+trees in the circle that you're drawing
+when you're just trying to reason about
+a forest an alien can spot a tree it's
+not a human specific concept it's not a
+culture specific concept right you can
+see humans from different cultures don't
+have a problem agreeing on what a tree
+is now of course there's edge cases is a
+sufficiently big bush a tree blah blah
+blah okay fine but realistically in a
+forest most trees we all agree where the
+tree is the alien is going to agree why
+because all these different properties
+like hey it has a life cycle right it it
+reproduced it started from a single cell
+all of these different properties they
+apply to this unit of one tree and it's
+the same with a cell right aliens are
+going to analyze life forms in terms of
+their cells because cells are a layer of
+abstraction just like a module in
+software a cell has an input output
+right the cell wall keeps its contents
+together why would you not draw a circle
+around a region in SpaceTime where the
+contents stay together so my point here
+is that the universe is low entropy and
+as a result it factors into units that
+any intelligence is going to recognize
+right I may have never looked in a
+microscope and seen cells before I may
+have never opened a textbook and seen
+cells before but the first time you show
+me you can be damn sure I'm going to be
+like oh okay this looks like modular
+units right because I've done software
+engineering I know what a module is I
+know why abstraction is useful I know
+why a black box that has input output
+guarantees is useful right I mean this
+is how the universe works in a way
+that's understandable to intelligence so
+to me it's kind of a red flag that
+Martine is kind of talking past this
+whole low entropy module structure and
+he's just saying hey there's
+probabilistic long Tales yeah okay but
+intelligence and sensitive to the low
+entropy factorable structure of the
+universe around it that's the game being
+played here that's the nature of
+cognitive work is to carve reality at
+its joints to model reality to use high
+level representations that map to how
+the universe is simple in those same
+ways as your representations are it's a
+human created concept that has some
+vague Seance to something we all agree
+on unless you're a scientist then you
+probably disagree with the the common
+understanding and oh by the way my
+concept of tree also includes like a toy
+and a cartoon picture of a tree which is
+entirely different right and so text is
+a way that we as
+humans represent the world that's very
+different than the actual Universe
+because we find it useful there's
+structure there and these llms are
+exploiting that structure just like
+compression would or anything else and
+it's very useful for us but it doesn't
+necessarily mean that these things can
+enact on on the world right these are
+very different domains if I understand
+Martin correctly I think what he's
+saying is we humans are the ones who
+originally made the mental connection
+between different types of tree like I
+in my mind have connected the idea of a
+biological tree with a cartoon tree with
+a toy tree and the llms wouldn't be
+making those kinds of connections by
+themselves but they're ingesting tokens
+that humans like me have been putting
+out and that's why they can reason about
+this stuff because now it's in their
+distribution I think that is a good
+recap of of what Martin is saying about
+like the different kind of trees for
+instance the problem with that is that
+I'm here talking with gbd4 and it seems
+to have abstracted the tree concept
+Beyond its distribution for instance I
+just asked it to invent a new type of
+tree within the domain of music just to
+show that it's understood at some deep
+level what it means to be a tree and
+sure enough it came up with a couple
+different ideas like the Rhythm
+evolution tree or the harmonic growth
+tree and it's basically saying hey when
+you have a musical composition the way
+you have your tonic and like your main
+Harmony and then it kind of evolves into
+other harmonies that then Branch out
+into sub harmonies but then they
+collapse back into like their parent
+Harmony but it might Branch off to
+another child Harmony I don't know how
+accurate this is as a matter of musical
+analysis but as a matter of just
+understanding what a tree is and what it
+would mean to have a tree in a different
+domain and of course this is is just one
+abstract conception of a tree you know
+root leaves branches but it's sure sure
+is a popular one like the point is it's
+working with the concept right it's
+applying the concept in a domain where I
+search Google nobody's ever talked about
+the harmonic growth tree before right so
+like it is using a few leaps of uh
+reasoning here right as far as I can
+tell and Martin's Point about how like
+hey we humans we're the token generators
+we're the only ones who could ever tell
+it what's a tree and what's not because
+that connection was made in our head if
+I understand that that's Martin's Point
+I don't see that as a robust claim right
+and maybe that's true about like the
+Dumber llms but I think we're just about
+past that point where you can say that
+only humans can invent the structure
+Behind These tokens like I think the AI
+has got a good grasp of the structure of
+what it means to be a tree at a very
+high level such that it can work with
+that concept as flexibly as many humans
+can especially humans with two digit IQs
+like do you really think that a human
+with a two J IQ is going to be working
+with the abstract concept of a tree
+better than the AI just did that
+proposed the idea of a harmonic growth
+tree like that seems pretty competent by
+human standards so bringing it back to
+the high level disagreement between me
+and Martin as far as I can tell like I'm
+just not seeing robust distinctions
+right it seems like he's throwing out
+this terminology and acting like it's a
+useful way to think about AI but it just
+seems rough and it seems like it's not
+going to hold when the next AI comes
+even assuming that it's still holding
+today I just don't see the accuracy and
+robustness of the distinctions he's
+making yeah I guess I'm not quite
+getting the Gap there's so many
+interesting results to point to recently
+did you see the one about gp4 finding
+and exploiting new zero day exploits
+this was just in the last week or two so
+and it's increasingly impossible to keep
+up with everything so I don't expect
+you've seen everything but no that one I
+have I think when you're dealing with
+this much compute and this much data I
+think the human intuition just totally
+failed and and like we as humans are
+really bad about thinking in
+distributions anyways that's not how we
+think we kind of assume the world is
+parametric and like by the way which is
+why the text that we create is so well
+structured and way could be exploited by
+llms like you have to navigate this
+universe you have to make the
+simplifying assumptions which we do
+again the key word that's explaining
+what's going on here is low entropy
+right the reason humans are able to
+specialize in having low entropy mental
+representations is because they
+correspond to low entropy parts of our
+low entropy universe like that's the
+reason why you can have a cognitive
+engine cognition Works in a low entropy
+universe that's why the neurons in our
+head are able to successfully perform
+cognitive work and that's why AIS are
+able to perform cognitive work with
+increasing success on a broader and
+broader domain up to and including the
+physical universe and so it's good to
+actually come up with mental Frameworks
+about how these things work so I'll tell
+you a few of mine the first one of mine
+is as far as I can tell these things are
+explaining structure in whatever data
+that they're reading and like we've
+mentioned before and it's not clear
+whether that distribution extends beyond
+that and if it does then you're
+basically back to simulating the
+universe which I've spent a lot of time
+with I think that's right I think this
+is a key point that Martin is going to
+be making repeatedly he hasn't really
+fleshed it out in this podcast but I've
+seen him tweet similar things so just
+keep an eye out for the dichotomy he
+likes to draw between interpolation
+within a
+distribution and simulation I think for
+him those are kind of two sides of some
+spect we'll see the second one is the
+actual mechanisms if we're talking about
+Transformers the actual mechanism is is
+basically kernel smoothing it's it's
+averaging which means to me is the
+further you get out in to where the data
+is rare the greater the inaccuracies
+come and that doesn't mean that for
+systems that you can actually
+extrapolate from that you don't get
+great results that would be quote
+unquote out of distribution it turns out
+some systems are linear or you have
+enough data you can map the distribution
+so that one is totally fine yeah he's
+really committed to using Concepts from
+statistics and linear analysis to make
+predictions about AI or rather refuse to
+make predictions but make retroactive
+analysis he's pretty committed to doing
+this and I think he's in for rude
+awakening I mean my daily experience
+using chat GPT just doesn't match this
+idea that it's only picking things
+within a distribution I get that it's
+better when it can find examples that
+are similar to what I'm asking it but
+I'm asking it to do novel things I'm
+asking it to process inputs and map them
+to outputs in a novel way and I think
+his mental model which is very attached
+to probability linearity he's missing it
+he's missing something important and
+he's just going to get increasingly
+blindsided and once again he's not
+making any predictions about what GPT 5
+won't be able to do he's only
+retrodiction which is much easier so I
+invite him to make predictions since
+he's so insightful apparently about how
+limited this llm architecture is please
+be my guest make a prediction I'll
+happily take your bet if you put any
+kind of attractive odds like if he
+thinks something is like three to one
+likely or unlikely and I have the more
+like the one to one uncertainty position
+something like that maybe we can set up
+a bet then the third one is this in
+context learning one and I think vishall
+mistra who's a professor at Columbia did
+the best work on this where he actually
+shows that for in context learning where
+you actually put the context in the
+prompt and you can move the posterior
+distribution to get interesting results
+he mapped it specifically to beian
+learning and and it's a beautiful paper
+I don't know why more people don't read
+it so listen we know that these things
+can do some basic basian reasoning and
+this is where the prompt is basically
+the New Evidence which changes the
+posterior function so you'll get new
+stuff there we know that if you average
+enough stuff you'll get new stuff there
+it just has to be linearly interpretable
+if it's not linearly interpretable
+you're not going to get new stuff so
+none of these things suggest that you're
+not going to get new stuff it just puts
+constraints we know how beijan systems
+work we've got 20 years of understanding
+convergence property to them we have a a
+work that's specifically mapped ICL to
+beian learning so let's just go ahead
+and and use that Corpus of work to
+understand the properties it doesn't say
+it's out of distribution or IND
+distribution it doesn't say that at all
+it just bounds what that means and then
+we also know the mechanics of the way
+Transformers Works which is this kernel
+smoothie I mean it's more complex than
+that and so that can create new things
+but it means there's a linear
+interpolation it's just linear
+interpolation but it's basian and so
+there's kernel splitting yeah there's a
+lot of stuff you threw into the mix
+there and I don't think that it adds up
+to somebody who just listens to what
+you're saying and tries to use that to
+understand an AI that they haven't seen
+yet tries to make predictions into the
+future like again send a message like
+that with that Insight that you have
+here send that message package it up
+send it to Martin from five years ago
+have Martin from five years ago try to
+predict what the AIS of 2024 can and
+can't do I think that the Martine from 5
+years ago would be stumped because I
+don't think that making sense when you
+say descriptions like that you're just
+saying descriptions that you can say
+look my description maps to the AI we
+see today and people who are already
+familiar with the AI that we see today
+can nod along and be like sure it sounds
+like you're making sense but I think
+that these words are meaningless the way
+that you're using them and they have no
+predictive power and given the stakes
+that being stuck in a description like
+that can Blindside you to the emergence
+of super intelligence that destroys
+Humanity I would encourage you to try
+saying a description of AI that actually
+compil into something that somebody
+predict something I I feel like when we
+have these discussions they should be a
+bit more principled as opposed to I've
+got this anecdote that seems something's
+new because nobody says that you're not
+going to see new stuff I mean it very
+obviously if you're doing interpolation
+is new very obvious if you're doing
+beian reasoning like something's going
+to be new and talk more about the
+distributions and the theory of why
+we're doing that but as far as I can
+tell that's totally missing nobody's
+come and said here's my theory of outof
+distribution stuff here is my thesis
+for what is going on functionally to
+create this new data yeah my thesis is
+that you've got an architecture with a
+shitload of
+parameters and that architecture is
+capable of learning any function in
+principle and then you get a bunch of
+data from a low entropy universe and
+then you learn a bunch of deep patterns
+in the data and then you just truly
+understand a bunch of Concepts from the
+universe around you and then the last
+question is how much can you extend your
+reasoning robustly so that you have
+general intelligence and that part isn't
+answered yet but the fact that you can
+pass the freaking touring test when you
+couldn't before I would call that
+potentially out of distribution it
+certainly wasn't in the distribution
+that any AI was able to extrapolate
+before we had this totally new
+Transformer architecture so Martine is
+now trying to shift the burden of proof
+to the camp that's saying we're getting
+close to general intelligence he's
+saying why would you think that this can
+reason outside of distribution I'm the
+one with the default hypothesis which is
+it's just stuff that we know before it's
+like really passing the touring test is
+just stuff that we know before you use
+the term basian reasoning that's a very
+very powerful term basian reasoning I'm
+guessing that you meant some simplified
+version of it like just like a single
+neuron doing like one layer basian
+reasoning or something I don't know what
+you meant right you're being kind of
+handwavy the thing that is less in doubt
+is the frontier of applications we're
+now at this new frontier of applications
+right what AI is doing with language
+with images right with being useful as a
+question answering engine or writing
+essays to a degree that we've never seen
+before this is new stuff you can't deny
+that this is new stuff this is stuff
+that we used to be confused about
+building and it's all coming fast it's
+all coming from the same architecture
+we're running that architecture on a low
+entropy Universe it's going to keep
+absorbing stuff and we just don't know
+where that leads hand waving and saying
+ah yes I understand everything it's just
+part of a distribution of stuff that's
+not reassuring like you may be right but
+it's not like you should be confident in
+what you're saying here and on the other
+hand you've got mounting in tons of
+evidence that map these to existing
+systems that we know that people just
+seem to not want to follow and I just
+feel like listen humans love to see
+things in clouds and complex systems
+there's so many facets and they're so
+complicated and they're so huge and
+they're so ethereal and then we see
+things and we just do this historically
+and we've got these kind of amazing
+computer elements that are huge and they
+surprise us and they're amazing but we
+can map them to formal systems and we
+know how they work and that doesn't mean
+that they're dangerous or not dangerous
+I'm not saying that I'm just saying that
+we can actually map them to reasonable
+systems to have a discussion and that
+just seems to be missing this
+conversation is a great example I'm very
+happy to map these things to formal
+systems we understand and have that
+discussion but it's always this kind of
+anecdotal whack-a-mole instead which I
+just don't know how to answer to every
+instance of what seems like emergent
+behavior when of course emergent
+behavior is expected anyways I mean what
+I would like to know from you is just be
+clear about what your boundary is when
+you talk about being out of distribution
+because my subjective opinion is I get
+plenty of stuff that's out of
+distribution every time I use chat GPT
+I'm not just looking for stuff that's in
+distribution I'm looking to connect
+things together in a noble way so you
+need to be clear you need to have a
+Criterion for how to distinguish things
+that are outside versus inside
+distribution like what's your similarity
+metric because the naive metric of just
+like a new token string obviously things
+you would agree that things are outside
+distribution right so you need to
+clarify what your similarity metric is
+to Define what's outside of distribution
+something I asked earlier in the podcast
+and then if you can do that then go
+ahead and put down a prediction of what
+GPT 5 definitely can't do because of
+your Insight about it not being able to
+go outside of distribution go ahead and
+predict what that would mean for GPT 5 I
+would be very impressed if you did that
+hell I would update my beliefs that's
+what I'm here for I'm here to learn from
+your Insight teach me your Insight in
+the form of a prediction let me update
+on your wisdom thanks on that on the
+sigmoid question I I tend to also agree
+that it does not seem like there's
+reason to believe that this is going to
+be an exponential forever it does seem
+like it probably levels off but then I'm
+also reminded of the old joke of two
+guys in the woods and the bear is coming
+and the one's putting on his shoes and
+he says I don't have to outrun the bear
+I just have to outrun you and so I do
+wonder if we imagine continuing to scale
+up as we have been scaling up and
+there's all these trend lines and x
+times more compute and however much
+Advantage from algorithmic efficiency
+and whatever let's imagine we continue
+to scale up and it's a few more orders
+of magnitude and let's say we don't just
+put in the text but we also put in like
+this sort of low-level solution data and
+the protein you the DNA data and the
+protein and the gene expression and we
+work our way up all these levels of
+orders of magnitude and then it's like
+computer systems like all the cloud logs
+from AWS and Google cloud and all this
+stuff gets in there and you've got all
+these different
+self-similar but overlapping orders of
+magnitude of ways of understanding the
+world M even if it ASM tootes or levels
+off at some point I have a hard time
+imagining that doesn't level off at a
+higher Point than human is able to
+achieve today but I feel like you
+probably see that differently still so a
+lot of this reduces to how you view the
+universe if you don't view the universe
+as fractal selfsimilar and if you don't
+view it as heavy tailed and if you don't
+view it as nonlinear then you could
+imagine that but it is all of those
+things we know it is all of those things
+and so there's no distribution of data
+that we know of that's not the universe
+that will produce something that's
+predictive of the universe really what
+about a description of Elon musk's
+mental model of the universe if you can
+operate that can't you be quite powerful
+and have quite High predictive power
+about our universe seems like it and
+again the thing that makes this possible
+is that the universe is low entropy so
+looking at Elon musk's model of the
+universe really does get you in practice
+most of what you need to get from
+looking at the real Universe now can you
+surpass Elon Musk just by having that
+model not necessarily but this already
+climbs you up to a human level just for
+a start right so before we even talk
+about the secret sauce of general
+intelligence there's already evidence
+that you can already suck in a lot of
+the distribution that you need to
+operate in the universe even before we
+get to the essence of general
+intelligence and what's missing there
+the idea that like oh my God the
+universe is so big how can you ever
+ingest enough data to be in distribution
+I I think that a good intuition is look
+at how little data you need to ingest
+everything that Elon Musk has ever seen
+and everything that elon's musk's genes
+have ever stored from their evolution
+it's just a few megabytes of data for
+God's sakes right so appealing to like
+the vastness of possible distributions
+doesn't move me very much when I see how
+humans barely know anything and it still
+makes them very powerful it's really
+that simple that doesn't mean that we
+can't
+focus on an area and reproduce that
+distribution I could become very good at
+predicting whatever protein folding I
+could get really good at playing chess
+but it's distribution in distribution
+out I mean I don't agree with
+distribution in distribution out right I
+think there are reasoning steps being
+made and there's a few right now there's
+going to be more later as the models get
+more sophisticated I guess at this point
+I'd be interested to ask Martin like
+okay so what do you think is going to
+happen when we tweak the architecture
+right so let's say I even Grant you okay
+yeah the Transformer architecture will
+Plateau because it'll always stick
+relatively close to its distribution in
+some sense let's say I even grant that I
+think it would be a pretty wild sense
+that's I don't think you can get as much
+amazing stuff as we've seen and have
+that be an accurate description but okay
+I'm granting it to you okay it's staying
+within its distribution so what do you
+think is going to happen next do you
+think maybe somebody will have a way to
+take a few reasoning steps and get out
+of distribution that way like you do
+seem kind of Frozen in the status quo
+well in the beginning of the podcast
+Martin referenced the idea that it's
+always incremental progress and it
+always takes longer than you think so I
+guess I'm just curious like what
+timeline are we working with in his mind
+does he think it's going to take this
+insane amount of time like 20 years or
+like is he thinking a 100 years like
+Robin Hansen I'm just curious where he's
+going with all this right because he's
+dwelling a lot on the limitations that
+you can argue exist today if you noticed
+the ones that like stuff like recursive
+self-similarity works and control loops
+work and simulated data works like
+synthetic data works there are these
+axiomatic areas where the axioms like
+they constrain the search space and
+you're basically converging on search
+and you can get very good at those I can
+get much better at youit arithmetic I
+can get much better than you at game
+playing I can get much better than
+humans at all of these things but none
+of that talks to the fact that can you
+find the right level of abstraction in a
+fractal system and can you tackle a
+heavy tail Universe where not by
+occurrence but by
+uniqueness the complexities in the tail
+even in this discussion the use cases
+that you viewed tend to be these kind of
+axiomatic you know of course we can do
+full like we thought in the late 90s we
+could do protein folding by fully
+searching the search space it's just not
+surprising to me that we can learn
+distributions and spit them out okay
+this seems like an important issue to
+take up with Martin when he talks about
+Pro folding being a problem that's
+obviously just one of distribution and
+obviously we're going to make some AI
+That's going to interpolate the correct
+prediction of a proteins folding just by
+looking at other data about protein
+folding like of course we're going to
+get there it's that type of problem um
+that's quite a distribution with quite a
+lot of degrees of freedom that we're now
+treating as like not a big deal right I
+mean this was an unsolved problem for a
+very long time for a good reason I mean
+it's even an NP complete problem right
+but of course we're not solving it in
+the general worst case we're using her
+istics and it's not always accurate but
+point is protein folding was not a
+statistical distribution problem okay
+and I know that modern AI approaches use
+an architecture that you think is
+heavily statistical distribution based
+but I just don't think that's right I
+think you're seeing a new power that's
+more than just statistics it's
+parameterized learning of a nonlinear
+system of a system that's incredibly
+flexible what it can represent and and
+it's defying your simple description I
+think you're missing something important
+that's happening and you're brushing it
+off just because we did it I mean you're
+acting like you predicted it because you
+were familiar with this problem I guess
+it didn't come as a surprise to you when
+it was solved but I don't understand why
+NP search problems aren't tractable and
+don't necessarily allow heuristics based
+on statistical distributions so I just I
+would like to unpack what he saying here
+because I think he may just be confusing
+himself I I feel that's a very different
+statement than saying now we have a
+model that can navigate the universe in
+a way
+that is predictive of all of the
+complexities of it maybe another way to
+think of this is we spent 3,000 years
+doing our best in writing it down and we
+can create a model that can learn from
+all of that and do what the mean human
+being would have done in the last 3,000
+years but the problem is the stuff that
+we're doing tomorrow by uniqueness a lot
+of it's going to be new and that's just
+how the universe works and we're going
+to have to either build a machine that
+can do that which we don't know how to
+do we're going to have to do it
+ourselves and let these machines do the
+mean task but I didn't do anything today
+that was new did I I was just like home
+all day took care of my kids used my
+computer recorded this podcast what am I
+doing that's new and why can't I have an
+AI come and do this like what's what's
+the issue why are we talking about the
+full complexity of the universe isn't
+there enough data in the last 3,000
+years of what humans have done to let
+the AI come and take care of my kids and
+record this podcast I think Martin is
+wrong to dwell so much on the idea that
+the universe is big and has fat tals I
+think Martin may not have a healthy
+respect for search problems if he can
+see them as being like well defined so
+he sees what chat GPT can do today and
+he's like ah I have enough data points
+in that distribution it doesn't matter
+that you're searching this exponentially
+large combinatorial space of possible
+essays that you could write me because
+you've seen other essays it's like hello
+other essays you can see a trillion
+essays and that's a microscopic fraction
+of the entire space of essays right I
+mean microscopic is an understatement
+right I think martines doesn't have a
+healthy respect for how crazy it is that
+you can locate an acceptably good essay
+in that kind of vastly combinatorial
+space I think he thinks that's a lot
+less impressive than to predict how a
+simulation is going to go down in a
+heavy tailed Universe like he has like a
+higher level of respect for that for
+some reason but I would encourage you to
+have more respect for searching in well-
+defined yet exponentially vast spaces
+when your search space is exponentially
+vast you know like like 10 the power of
+a million much much larger than the size
+of the universe that's your search space
+and then you have a mere trillion
+examples that's not interpolation okay
+that is true creativity when you can do
+a search like that on just a trillion
+examples because finding the answer is
+highly highly improbable relative to any
+kind of naive algorithm relative to the
+best algorithm that Humanity could
+fielded 5 years ago the search base was
+intractable even if you'd given Humanity
+those same trillion examples 5 years ago
+the search base was intractable so
+you're missing an actual achievement of
+creativity an artificial intelligence
+advance that we still don't fully
+understand because it's achieved not by
+just multiplying a bunch of matrices but
+also by applying nonlinearity and also
+by preserving context using the trick
+that is Transformers and by using
+billions of parameters that are capable
+of learning any function like there's a
+lot going on here right so you you got
+to stop dismissing this amazing feat
+that's happening when Chad GB he spits
+out an essay even though it's seen other
+essays you got to stop dismissing that
+you got to stop focusing on the universe
+having fat taals and having you know the
+three body problem and chaotic systems
+like that's not where the action is
+right that doesn't explain why AI can't
+live lra Bar's life which takes place
+mostly at home in a suburb right you're
+just distracted by the wrong thing so do
+you have an account of or theory of what
+it is that you think humans are doing
+that the models can't do I mean two
+things one of them and the most
+important one is we experience the
+universe and we abstract it into
+Concepts like that's very comp
+abstracting things into Concepts does
+seem like something that current chat
+Bots can do but even if they can't I
+mean we've given them tons and tons of
+Concepts right so just being able to
+operate the concepts that we gave them
+you would think would make them good at
+different jobs I mean how many jobs
+require New Concept creation is that
+really the bottleneck displacing people
+concept creation I thought it was more
+like reasoning so it's interesting that
+you're going with that as the
+differentiating quality of humans what I
+would argue is models are very good at
+taking the output that humans create and
+being able to reproduce that
+distribution they're very good at that
+that's not the game the game is looking
+at the universe and creating the
+supervised data that's the game yeah
+that's the game if you're a physicist
+maybe but is that the game if you're a
+software engineer you really have to
+look at the universe you can't just look
+at tokens created by humans it's getting
+kind of funny how he's so obsessed with
+the physical Universe having like
+longtail chaotic phenomena while
+ignoring that other professions may not
+need to construct their own Concepts and
+tokens but they certainly need to be
+creative to find an optimal solution in
+an exponentially large search space
+that's where a lot of cognitive work
+happens okay so I definitely recommend
+reframing intelligence to searching vast
+combinatorial spaces even if they don't
+have fat Tails as if it matters in an
+exponentially sized space and so I think
+one model to look at this is again human
+beings have been around let's say in a
+in a capacity for writing things down
+for 5,000 years so you've got humans for
+5,000 years that have been looking at
+the universe and doing this thing that
+models cannot do which is making a
+decision like that is a rock and that is
+a dust and this is a concept and this is
+a relationship and I'm going to write it
+down and then as a group we're going to
+synthesize these ideas and work at these
+and so we've got this kind of almost
+kind of platonic represent in our heads
+of the universe and that is very
+structured so we did all the hard work
+that is hard work to take this Untamed
+universe and reduce it into words and
+concept that's hard no llm that I know
+can do that not even close but then once
+we've done all of that hard work is it
+surprising to you that there's structure
+we did all this work of course there's
+structure so you take that structure you
+put into an llm that learns the
+structure and it can spit it back out so
+the very specific thing that these llms
+can't do is look at the universe and
+recreate this kind of structure okay how
+did the human brain figure out that the
+pixels coming into our eye are often
+pixels that have bounced off
+three-dimensional objects did we figure
+that out using our intelligence no it's
+hardwired right so the brain already
+comes factory installed with some
+firmware like the idea that
+three-dimensional solid objects exist in
+our universe and light is going to be a
+surface level representation of those 3D
+objects that's firmware animals have the
+same firmware we can boot strap the AI
+with that firmware in fact if you use
+Oculus or apple VR you're getting a
+construction of your surroundings using
+a really good AI algorithm in addition
+to your camera right so that level of
+mapping lowl input to high level
+Concepts that is clearly a solved
+problem and you've got another solved
+problem that llms can do which is when
+you describe a scene you can get out a
+drawing of that scene you can talk to
+chat GPT and you can say hey the
+furniture is here the room looks like
+this okay now draw it even if you
+describe it in a very roundabout way in
+a very novel way it's going to draw what
+you described it has a mental model it
+has a world model so I don't know what
+you think is unique to humans on this
+front I'm willing to acknowledge that
+maybe humans are better at it but don't
+you think that the AI is nipping at our
+heels like how much of a lead do you
+think we have here it's and that and to
+be super clear that structure is not the
+universe that's very different like a
+rock is a rock is an idea in our head
+it's not representative of any single
+thing is it a grain of sand rock I don't
+know is a Boulder Rock I don't know
+these are Concepts we've created in
+order to navigate the universe they're
+not the universe yeah but it's the
+natural way that the Universe factors so
+aliens would also have that idea of the
+grain of sand and it really does only
+take one universal algorithm one general
+intelligence algorithm to map the visual
+stimulus of looking at the beach to the
+3D model of grains of sand where you
+treat an individual grain of sand as a
+Concept in your model because it's a
+useful high level concept to have and
+it's not just humans it's a convergent
+concept and yeah how big does the grain
+of sand have to be before it becomes a
+rock who knows but Concepts it's in the
+nature of Concepts to have those kind of
+fuzzy boundaries that doesn't change the
+fact that many grains of sand are just
+obviously grains of sand and not rocks
+and that's what makes it a useful
+concept and Aliens would know that too
+so human beings take the universe and
+create the concepts and the LM and and
+that's structured because we need
+structure in order to do anything the
+LMS learn that structure feels like the
+only that works is basically you can do
+exhaustive quote unquote AI which
+converges on search to learn
+distributions or you do supervised
+learning which human beings are doing
+the hard work in my opinion by labeling
+things and everything else and then you
+just learn what the human beings have
+done but to take the universe and
+actually to rain structure and all that
+complexity that's what we do and it
+would be great if if machines can do it
+I've never seen any evidence that they
+can yeah may maybe some glimmers up but
+that's just not where we are I mean a
+neural network is all about creating
+higher and higher levels of
+representation in the different layers
+of the network right I mean creating
+Concepts that's what it's doing when you
+put a weight inside of a neural network
+that weight is saying when to activate a
+concept right I mean that's what neural
+networks do if you're really impressed
+by the fact that humans invented rocks
+guess what a visual object recognition
+AI is training itself to have all these
+different concepts and that's how it
+recognizes things so it's very much
+doing the same kind of concept
+instantiation that the human brain is
+doing I don't know why you're picking on
+this the example of a human chunking the
+universe into a rock I don't know why
+you're picking on this as the ability
+that AIS don't have yet that doesn't
+seem to be what's missing right now yeah
+I think so it might be I just want to be
+super because you ask me a very specific
+question a very specific answer look at
+the universe and then come up with these
+Concepts that are useful that are not
+the universe they're Concepts they're
+totally separate like a rock is not a
+thing it's a human concept but to take
+the universe and decide something is a
+rock that's actually all of the
+complexity and all of the energy is that
+step which llm just don't
+do I mean the training step of an AI
+where it processes tokens and tries to
+predict the next tokens and repeats and
+trains all the different weights in this
+huge neural network that whole training
+process is designed to encode highlevel
+Concepts in those neuron weights and
+nobody knows if all of those concepts
+are similar to what we as humans would
+have as our Concepts we know for sure
+that some of them are going to be
+human-like because after all the
+universe does naturally factor in many
+ways but if you look at the more complex
+abstractions that human use no nobody
+knows for sure whether gp4 is using the
+same high level abstractions how it does
+its complex reasoning like when you ask
+it to write an essay and it just spits
+out this brilliant essay really quickly
+nobody knows if the highlevel types of
+reasoning that are happening within gbt
+4 are the same as the ones humans are
+doing but the point is it's doing it I
+mean when we talk about training in AI
+we are talking about creating inside the
+neural network a highlevel concept given
+only low-level tokens as input
+now of course you can say the tokens
+were high level in the first place
+humans thought of the tokens fine but
+the concepts are even higher level than
+the tokens right so when he's saying
+llms can't take the universe and come up
+with a concept that describes it that's
+literally what it means to train a deep
+learning algorithm right it's to take a
+low-level stimulus and come up with a
+highle representation that makes sense
+of it and reflects the underlying low
+entropy of it that's the name of the
+game that's cognitive work humans do it
+Evolution did it when it built us neural
+networks do it when they're training do
+they do it at inference time maybe not
+as much I would argue they still do it
+but like if if it really if you need to
+think about it this way just imagine an
+AI that can do a training run in the
+course of running itself right if if
+that makes it easier for you to think
+about the idea that AIS can instantiate
+new novel Concepts just imagine it does
+another training run while it's running
+we know enough about the Natural
+Sciences to build predictive models and
+we have for a very long time right like
+I can simulate a
+supernova on a computer pretty
+accurately I think it's phenomenal the
+the it's phenomenal that we have an
+approach to throw computer at a problem
+that learning a fundamental law of
+physics but again how is that any
+different than the fact that we've been
+modeling physical systems for a very
+long time other than the fact that in
+these cases it allows us to apply more
+comput the problem and we can solve
+solve problems that we don't have close
+form analytics solutions to it almost
+feels to me like an extension of
+simulation which would be very different
+than the claims around General reasoning
+it's literally learning laws of physics
+which we've been doing since the
+beginning of compute the the creation of
+computers was for ballistics right so
+the reason that we created computers is
+because ballistics are nonlinear right
+the trajectory of ballistics are
+nonlinear so we had people in rooms that
+would create logarithm Tables by hand
+they were called computers that's where
+the name came from from ANC shows up ANC
+does it forwarders it magnitude about
+5,000 times faster than a human being
+does it and we have a computer and this
+is a perfect example of a nonlinear
+system which is a trajectory with
+gravity being done by a computer why is
+this not just a a straightforward
+extension of exactly that like we've
+been doing for the last 80 years so yeah
+I've diagnosed Martin's problem or at
+least the Crux of where he and I
+disagree he keeps underestimating what a
+breakthrough it is when you have a
+problem in a giant exponential search
+space and suddenly you can solve that
+problem he's acting like an AI playing
+go is just an extension of the aniac
+computer running a Brute Force search
+he's like oh look computers are faster
+now it's like no when you can play go at
+that point you're actually getting into
+creativity the essence of creativity is
+to take an exponentially vast search
+space that a Brute Force search can't
+even begin to search efficiently can't
+even begin to find acceptable Solutions
+and then to somehow come up with
+acceptable Solutions anyway to Som find
+an ordering in this vastly exponential
+search space an ordering where you can
+PLU something out in the top of your own
+search ordering which seems like it
+should be way far down a naive search
+ordering like somehow you've flipped the
+search ordering you've narrowed down
+you've overcome the AR priori impr
+probability of finding a certain
+satisfactory point in the search base
+you've somehow done it you've beaten the
+exponentially tiny odds and there's no
+way to explain it other than to say
+there's a bunch of complex algorithms
+like there's true artificial
+intelligence there's the same kind of
+tricks that the human brain is doing
+where you're noticing the low entropy of
+the universe you realize that the
+exponential search base has a bunch of
+deep types of structure you model the
+structure you have interplay between the
+elements of the structure you have a lot
+of different context shaping how you
+navigate the structure I mean we're just
+talking about the essence of
+intelligence here he's really just
+trying to reduce the problem he's trying
+to write off all the different problems
+that AI can solve and being like n
+that's just search that's just search
+it's like no I'm sorry the way that GPT
+is able to converse with me and build
+models based on the words I say and
+create novel constructions do a little
+bit of inference at least using the
+concepts that it knows operate highle
+Concepts know what I'm talking about
+when I refer to something obliquely like
+understand what I'm even talking about
+make sense of it the way that it's doing
+all of these things is not an extension
+of other types of computing algorithms
+that we've had it's really a new type of
+algorithm like we have made actual
+breakthroughs with llms and yes we're
+not 100% of the way there they can't
+fully reason robustly I get that
+something is missing but he's not
+putting his finger on it here's my
+expectation tell me if you maybe we
+could make a little friendly wager on
+this yeah yeah I think that over the
+next year we are going to start to see
+scaled up Foundation models for biology
+that are going to start to understand
+the super
+complicated interactions between genes
+between proteins in cells in ways that
+are are
+inferred from inputs and outputs
+learning these higher order Concepts in
+the middle yeah which we could not
+simulate because it's computationally
+you know just intractable and which we
+certainly don't have a close form
+solution for either I age if that does
+happen that would seem to constitute to
+me an instance of looking at the world
+looking at basically raw data of
+sequences and just liced cells and what
+proteins were found in them and whatever
+and learning meaningful abstractions and
+I would expect that we'll start to
+discover stuff by doing counterfactual
+experiments on those models in other
+words tweak a thing see what happens
+find medicines find disease patterns by
+make a tweak see what happens what if we
+change this counterfactually and then go
+validate those things in the wet lab if
+we start to see that happening would
+that to you represent I agree phenomenon
+I fully expect that but how does that
+not constitute looking at the universe
+and figuring out what's what I'm glad
+Nate is asking Martin to make a
+prediction because as I've said before I
+do think that the way he thinks he's
+explaining things has no predictive
+power and I think he's deliberately
+refusing to make predictions so let's
+see if he tries to take his mental model
+and say aha I know what AI can't do AI
+can't form a deep understanding of
+what's going on inside these cells
+because it doesn't have enough Concepts
+I wonder if you'll make a prediction of
+some kind of limitation that AI has
+where it can never tell us what's going
+to happen inside these cells because it
+doesn't have enough deep Concepts the
+way a human scientist would have so it's
+blocked on doing human level science I
+wonder if he'll apply his model to make
+a prediction like that or if he'll just
+keep hand waving and refusing to make a
+prediction let's see oh oh for sure for
+sure for specialized subdomains you
+absolutely can learn distributions 100%
+right listen I've implemented nvar
+Stokes like fluid dynamics where and
+this is a turbulent chaotic system so
+we've known how to like Implement very
+complex systems with computers for sure
+in especially in very specific domains
+where we can reduce these things to a
+few fundamental forces or we can reduce
+these things to mostly linear systems
+like the previous version of this is
+just all the computational methods where
+we would kind of take a problem that we
+know and we'd actually experimentally
+determine like just experimentally we'd
+say okay this material behaves this way
+under this pressure and this heat and
+has these properties and we take what we
+learn experimentally and we'd create
+these models and they would do pretty
+good at simulation and I would say this
+is a very straight forward extension of
+that which is you look at how the world
+Works in a constrained situation and
+then you can predict what would happen
+in the constrained situation but just
+like simulation so remember we could do
+this with simulation we've been able to
+do this for a very long time right so
+you could experimentally determine like
+how different materials work and then
+you can actually simulate a new system
+based on those this is how we do most
+industrial design today anyways so my
+question to you is how is this
+fundamentally different than that or not
+a a natural extension than that where
+you're giving it a a system you're
+learning some fundamental properties you
+can do something new but that doesn't
+mean that you can disobey the laws of
+physics in predicting stuff that
+computers can't predict it's not obvious
+to me that it can simulate complex
+nonlinear systems that are chaotic for
+long periods of time I think this is
+just yet another step on this kind of
+like we have computers simulate physic
+and we're simulating the next thing with
+the next
+tooles does the parallel making make
+sense let me try to recap what I'm
+hearing he's saying sure you can build
+this new type of AI that can analyze a
+cell and go beyond human scientists and
+coming up with conclusions like hey I
+think this is what's happening in the
+cell I think this drug might work for
+this reason basically surpass human
+scientists in the domain of coming up
+with practical solutions to get stuff
+done inside the cell but he can write
+that all off because he's like look we
+have enough equation that describe these
+lowle phenomena so it's actually just
+kind of like running a simulation and
+we've had simulations before this isn't
+a novel breakthrough in that sense after
+all I one time worked on a navier Stoke
+system so A system that would simulate
+currents in the atmosphere right like
+how the air flows and I was able to
+parallelize that right have like a bunch
+of different chips and I was able to get
+like a decent approximation of what's
+happening in the air so therefore I'm
+not going to be impressed when the AI
+comes up with good answers to what's
+going to happen in the cell but wait a
+minute he's once again missing a
+important concept the concept that when
+you want to narrow down an exponential
+search space that has some kind of deep
+structure into it if you can do that
+successfully that is true intelligence
+there's nothing else to it in terms of
+observed behavior and intelligence is
+that which can look at a non-trivial
+exponential surch base and then somehow
+get to that tiny tiny point in it which
+is surprisingly good that there was no
+naive way to get there that's the
+essence of creativity the essence of
+intelligence and in Martin's mind that's
+not really a con that he's invoking to
+explain what's going on it's not really
+part of his mental model his mental
+model is like this dichotomy where some
+algorithms create Concepts or do
+whatever Secret Sauce humans are doing
+and then other algorithms merely
+simulate using Concepts we have or
+merely do statistical interpolation so
+he's not really saying this other thing
+that I'm seeing which is intelligence is
+somehow modeling an exponential search
+space and then getting to the good parts
+he's not really saying it that way but
+to me it it's very revealing that he's
+describing the do cell science problem
+as something that's just like doing a
+computer simulation of navier Stokes
+it's like no that's not what it's doing
+because that would require too much
+computation right he's not minding the
+Gap he's not realizing how much
+computation it would take for his
+description to be accurate as to what
+the computer is doing it's taking a
+shortcut it's taking an exponentially
+powerful shortcut that no human knows
+how to take I've just described actual
+intelligence okay
+so I just I don't get why you won't
+grant that that's intelligence now on
+the subject of prediction I guess he
+actually is predicting that this could
+happen this isn't something that's going
+to surprise him I thought he was going
+to be like oh yeah sure AI could never
+do that but no he's going the other way
+he's saying AI can do that but I'm not
+going to be impressed so it is still
+interesting to see where he draws the
+boundary of what AI can do and what it
+can't do if he's just going to answer
+that oh yeah I can do that I can do that
+I can do that at some point it's like
+okay can it just like take over the
+Earth like what's going to stop it so
+now I'm interested to ask him to make a
+prediction of where he would draw the
+line what's the least impressive thing
+that he thinks that AI can't do in the
+next 2 years I would love to know what
+he thinks that answer is like if you go
+to like in the 80s and 90s we would
+literally empirically test physical
+matter we didn't know how the physical
+matter worked we just empirically test
+it we'd have it has this opacity under
+this heat it has this tensil strength
+we'd use that to build databases of
+materials equations of State we call
+them this is how they interoperate we'
+use those those when we're doing
+simulations and we'd simulate what
+happens when a car explodes what happens
+if an airplane runs into a building like
+all of these things none of those
+instances worked they were simulations
+and they were very accurate and none of
+them came from like first principles
+they are all empirically but that that
+has its limits because it didn't solve
+climate prediction past 15 days it
+didn't allow us to to simulate life and
+so to me this is just computers being
+attached to another domain which thank
+good we've come up with a great tool
+that's going to give us a little bit
+more insight but it's a little bit more
+insight is what it is whoa hold on a
+second you think Nate's scenario about
+an AI doing cell science is just a
+little bit more insight that's all you
+think it is here's the scenario again
+are
+inferred from inputs and outputs one of
+Martin's main points that he keeps
+repeating is that the Universe has heavy
+tals you can't just use a computer
+simulation to predict what the universe
+is going to do according to Martin
+because it quickly diverges into chaos
+into nonlinearity right that's a major
+point that he likes to make and he says
+the universe is selfsimilar it has this
+fractal structure where there's a
+surprising amount of detail on every
+level he even specifically used the
+example of a cell you can spend an
+entire life studying a cell and a planet
+right that's how much complexity is in
+the universe and now Nate is asking him
+the hypothetical of like hey what if AI
+gets really good at predicting what's
+happening in the cell kind of the
+essence of intelligence the problem
+that's supposed to be like the hardest
+problem that Martine is saying AI
+doesn't have a handle on and that's Nate
+scenario so it seems like Martine is
+flip-flopping and saying yeah if AI
+could pull that off that would be a
+little bit more insight compared to what
+we have today it's a little bit more
+insight is what it is no it's more than
+a little bit more insight that is the
+exact prediction that's supposed to
+reveal whether you're model is useful or
+not like you got to help us make your
+prediction falsifiable here right so
+there's a general pattern where Martine
+is just not drawing the boundary of what
+he thinks AI can't do he's just saying
+like yeah maybe it'll do that and
+that'll justify my model maybe it won't
+do that and that'll justify my model I
+think unfortunately that is Mo is to
+just retroactively justify everything
+that happens as if it fits his model but
+his model is incoherent this is why by
+the way we stopped PlayStations from
+going to the Middle East was exactly
+this so again I worked I actually worked
+in the nuclear weapons program at
+Livermore so I was very close to the
+previous version of these discussions
+like oh my goodness if Saddam Hussein
+gets PlayStations he's going to be able
+to simulate nuclear weapons right like
+just totally misunderstanding that the
+ability to simulate something is not
+some runaway process that's going to
+allow you to recreate a world or
+anything like that but simulation isn't
+an accurate description of what's
+happening in Nate's proposed
+hypothetical scenario Nate's scenario is
+we're going to tell you what happens
+counter factually when you do different
+things to a cell and essentially how to
+engineer a cell more powerfully than we
+could ever engineer before so you're
+telling me that upgrading human
+engineering on a fundamental level
+better than any human could ever do with
+their own brain that's just simulation
+to you simulation normally describes
+when you have a set of low-level
+operations and then you just run them
+with a ton of computing power and then
+you just see what happens as an output
+but that doesn't work for the cell you
+can't use a simulation algorithm to get
+that many highle insights about what's
+happening in cell because as you
+yourself say it's a chaotic phenomenon
+that's why we've never had giant
+clusters that we use to simulate cells
+and get that many useful results out of
+it's just never been a tractable
+approach because the cell has too many
+moving parts that have too many complex
+relationships right so we don't have
+computers big enough to do actual
+simulation it's crazy to me that he is
+dismissing Nate scenario as just
+simulation it's obviously using
+shortcuts that no human being
+understands it has created its own
+shortcuts the shortcuts work by using
+different levels of understanding that
+the human brain doesn't have it might
+have a concept it presumably has
+Concepts in it like protein organel Gold
+gee apparatus right those are the kind
+of Concepts that it probably has
+something close to when it analyzes a
+cell because they're so useful to humans
+and the universe really does kind of
+carve like that but inside of these
+giant neural networks with so many
+billions of parameters it's going to
+have other Concepts that you're not
+going to find in any human textbook that
+are useful Concepts it's doing a version
+of science that's a sped up much more
+subtle version of what the human brain
+will ever be able to do and Martin is
+looking at this hypothetical scenario
+that Nate is throwing at him and he's
+just saying oh yeah it's just simulation
+I've done simulation before it's like
+how can I give you a more intelligent
+scenario than doing cell engineering how
+is he not seeing this it's a very
+specific tool for a very specific
+situation but we were here before
+whenever was 25 years ago so in addition
+to using the word simulation as a way to
+dismiss this upcoming breakthrough he
+also wants to dismiss it as being too
+specific spefic like oh yeah cell
+engineering that's just too specific
+it's like I often talk about domain
+expansion how we're seeing AI be able to
+surpass humans in optimizing larger and
+larger domains look when you're getting
+into cell engineering a domain that you
+yourself said is incredibly complex has
+incredibly fat tails in the distribution
+when you yourself said it's that kind of
+nightmarish domain and the AI is now
+Crossing it how many more levels of
+domain expansion do we have before it's
+at the whole universe imagine you're
+sharing the world with an AI that can
+engineer the crap out of cells to the
+degree that it can basically make its
+own bacteria like you're not getting any
+ideas about what this bacteria might do
+when let loose on the world that's not
+troubling to you it's just a specific
+domain it's just cell engineering it's
+just like extrapolate a little bit
+please I'm still a little confused
+around what would count what would be
+the evidence of the fundamental thing
+that humans can do and have done through
+our history that the AIS can't do
+exactly because I think Martine is
+starting to contradict himself or kind
+of show the incoherence of his model and
+kind of flipflop on what he says is hard
+and what he says is easy specifically
+when he said oh yeah cell engineering
+that's no big deal so I like that Nate
+is asking him to be like okay tell me
+what's actually hard right like show me
+the boundaries of what your mental model
+actually says AIS can't do so that you
+won't just retroactively say everything
+counts as what you predicted so this is
+a good line of questioning by Nate if
+the fundamental thing that humans can do
+and have done through our history that
+the AIS can't do is look at the universe
+and figure out the right abstractions
+and come up with the right Concepts that
+compress it in order to make sense of it
+and I agree it's very hard to say what
+they're doing in the language domain
+because we already did that work and
+they're learning it from us I try to
+describe something in the biology domain
+where it's like it seems like they're
+starting to show signs of doing that and
+I could believe that they would and then
+you sort of agreed but then now I'm
+confused as to wouldn't that count is
+doing that and then it seemed like the
+response was well that's just in one
+domain but it doesn't seem like there's
+anything that would prevent it certainly
+there's a huge leap in generality with
+this latest generation of system so I I
+do imagine just shoveling all the
+modalities into one model we've already
+got text vision and audio in GPT 40 why
+not the true gp50 would be like biology
+data and weather data and like pictures
+of deep space and solution simulations
+and just battery simulations Material
+Science whatever throw that all into one
+thing and if it can do that then it's
+definitely not going to be constrained
+about one domain anymore so I'm still a
+little lost as to like exactly what the
+limit that you see is in terms of why it
+doesn't become a system that's more
+powerful than people I'm so glad you
+reduced it to this I think this is great
+right and there's two things there's
+this notion that language reasoning is
+general which a lot of people believe
+but you don't seem to be on that kind of
+kick so let's put that one aside and
+you're more on the like learning
+properties and simulating properties at
+the universe side which is totally fine
+so what I would do is I would just bring
+you back to everything we've learned
+about simulation which is even when you
+know all of the opies a system and you
+can
+simulate you just don't have the
+computational capacity to simulate
+nonlinear systems we don't have the
+materials or the energy or anything it's
+it's literally like a compute problem we
+have codebases that have been around for
+2030 years that simulate all sorts of
+crazy stuff and yet they've got limited
+utility for exactly this reason the
+universe is just so complex that they're
+useful for a little bit okay but the
+scenario Nate gave you was asking about
+a very High utility scenario remember
+this is the scenario Nate gave you
+inferred from inputs and outputs I
+described it as cell engineering like we
+can just ask the AI what we want to
+Output out of a cell and it'll tell us
+how to engineer it and make it happen
+that kind of scenario it sounds like
+you're dismissing it as like oh I don't
+have to answer about it CU it's not
+going to happen so let's be specific
+what's going to surprise you when it
+happens because that's what Nate was
+trying to ask you is would you be
+surprised when this happens in as little
+as one year if it turns out that these
+models um somehow change that compute
+trade-off where it can simulate
+nonlinear systems in ways that
+traditional stuff can't I'm I'm 100%
+with you okay I'm glad that you're
+admitting that the scenario Nate
+proposes is outside of what you predict
+is allowed to happen so you're allowing
+yourself to lose base points when that
+happens even though you're being kind of
+vague I object to you describing that
+scenario as requiring simulation you're
+making an assumption that A system that
+can relate inputs to outputs the way
+Nate describes must be doing simulation
+and of course it's impossible to do
+low-level simulation but you can't just
+have a few simple building blocks
+combine to get the simulation you need
+so the only way to describe it is deep
+intelligence right it's a mult m-
+layered simulation that requires making
+inferences like there's not even a
+compact way for me to explain what's
+going on except to say the AI is
+intelligent and it's using its
+intelligence to figure out what's going
+to happen it's really hard to reduce it
+Beyond an explanation like that it's a
+very complex smart system that Nate is
+describing if it happens so don't just
+call it a simulation if you see the kind
+of outputs that Nate is describing then
+you're not witnessing a simulation
+you're witnessing something
+fundamentally different but that's not
+what they're doing what they're doing is
+they're inferring stuff that we haven't
+been able to infer by looking at data
+that doesn't mean that they can be
+predictive in a way that kind of
+disobeys our understanding of compute
+requirements just to repeat back what
+Martine is saying I think he's saying
+okay maybe you can figure out the cell's
+outputs without simulating it but it's
+never been done before by humans using
+the data set we have so maybe it will
+never be done but it will be done like
+Nate's prediction is probably correct
+that we're going to see AI pulling off
+these kind of Feats because at the end
+of the day despite how complex cells are
+they're still very low entropy machines
+compared to the maximum entropy possible
+cells are low entropy which is how
+evolution is able to successfully mutate
+them and select the next generation of
+genes to build better cells there's
+enough structure that you can understand
+well enough to just select better genes
+and have them predictably perform well
+in the organism's niche in the Next
+Generation the fact that that process
+works is already plenty of evidence that
+the entropy of a cell is still
+relatively low and an AI the algorithms
+we have to learn you know parameterize
+these giant AI models those algorithms
+are very good candidates to start making
+really useful predictions about the cell
+even though a human looking at that data
+is not going to have the right
+complicated models to give you the same
+predictions and even though it's quote
+unquote out of distribution on whatever
+kind of distribution of human text on
+the internet you think it's looking at
+or whatever kind of distribution of like
+other cells doing other stuff like I
+don't think you can usefully describe it
+as like oh yeah that's just finding
+something in a distribution I think the
+only way to describe it is it built up a
+model all these different concepts that
+the relationship between these Concepts
+and the structure of those Concepts is
+somehow similar isomorphic to the low
+entropy structure patterns that are
+happening at very different levels at
+high complexity high interconnectedness
+and patterns nonetheless low entropy
+nonetheless right it's modeling the
+universe's low entropy inside of the AI
+models low entropy and again that's the
+essence of intelligence right that
+mirroring process that multi-level low
+entropy mirroring process that's the
+good stuff right it's not everything
+it's not reasoning it's not
+self-reflection it's not everything but
+it's a lot and Martin is just not giving
+it credit for what it is he keeps using
+the you know he's using his hammer to
+try to hit the nail everything to the
+Hammer that he likes to use is it's just
+a simulation and it's just interpolating
+he's missing something very deep and
+important that's happening let me just
+give you a specific so Ry tayor
+instability is basically if you have two
+liquids
+that are on top of each other with
+different densities and that is one
+Raleigh Taylor unstable system and if
+you perturb it like you get these kind
+of like just amazing kind of chaotic
+turbulent things that happen we have
+been looking at this problem for 30
+years and we have no idea how to
+actually predict what will happen we
+just know roughly what they will look
+like but we don't know like the
+specifics and AI systems are way less
+efficient than an actual like code
+written for simulation so to think that
+it can tackle those types of problems I
+just don't see any indication okay so
+this is the common argument people make
+where they say look the universe is
+chaotic all you have to do is take a
+pendulum connect another pendulum under
+it it's called a double pendulum swing
+the double pendulum and then wait 30
+seconds and suddenly the motion of that
+double pendulum is going to depend on
+like the exact positions of the air
+particles all around the room so even
+just a little pendulum is a chaotic
+system or even just three gravitational
+bodies or a chaotic system the universe
+is just so hard to predict how will AI
+ever take over the universe when it's so
+hard to predict so this is a common type
+of argument people are making Martin is
+making the same argument using the case
+of RA tailor instability yeah I agree if
+you want to model that exact system you
+better have a lot of really precise
+measurements you better have a lot of
+context if you want to mod model the
+evolution of the system and your model
+is probably going to become inaccurate
+but here's the trick you just wall off
+the parts of the universe that you can't
+predict and what you find left over is a
+ton of parts that you can predict so I
+live in my house the air is super
+chaotic I have no idea where the air
+particles are going to go and guess what
+I can walk down to the kitchen and get a
+tasty snack right that's not a problem
+and guess what I can run an online
+business I can make money I can do quite
+a lot right even though I have no idea
+what a lot of the universe's chaos is
+doing I have no idea what the
+gravitational interactions between all
+the objects in my house and all the
+objects in the solar system are doing I
+have no idea how to predict that On A
+fine grain level and it doesn't matter
+because the universe is a combination of
+parts that you can predict with very
+high accuracy
+and then parts that you can't now you
+might wonder okay in practice which part
+wins but you just have to look at the
+human world and the biological world to
+conclude ah there's plenty that you can
+predict engineering is possible right
+you don't have to it's not it's a
+settled question that you can engineer
+things like there's no doubt that humans
+can terraform other planets that humans
+can conquer the Galaxy the same way that
+life has conquered Earth the same way
+that humans are conquering Earth there's
+no doubt that our particular physical
+universe is a universe in which ering
+can succeed over chaos now we're never
+going to perfectly micromanage the
+position of every atom there's always
+going to be some heat some waste in fact
+you know the second law of
+Thermodynamics says there's going to be
+an increasing amount of heat and waste
+that's fine there's still plenty of
+stuff that we can engineer and build now
+in the case of cell engineering Martin
+is basically saying look if we can't
+solve ra Taylor interference how are we
+ever going to tell you exactly how to
+engineer the cell to do whatever you
+want the cell to do the answer is just
+there's plenty that we know about
+selling engineering humans already do
+some small amount of cell engineering
+successfully or like you know we give
+each other medicine Gene therapies are
+coming out crisper is coming out so you
+know it's just small it's hard to deal
+with but we're getting there but the AI
+we're predicting that the AI is going to
+take a big leap because the AI specialty
+is modeling A system that has a bunch of
+low entropy that is understandable but
+it's just hard for the human brain to
+understand because there's degrees right
+a cell just has so many moving Parts
+there's some chaos in a Cell but there's
+also a lot of order the genetic code the
+parts of the genetic code that natural
+selection has decided are worth
+selecting on and passing on all of that
+structure is low entropy all of that
+structure is modelable because it works
+for a reason otherwise natural selection
+wouldn't bother copying it across the
+generations that reason is a reason
+that's really hard for the brain to
+model because there's so many
+dependencies the answer to why it works
+could be like a 50 page explanation a 50
+page proof with a lot of detail the
+human brain is not optimized for that
+natural selection handle it fine because
+it uses the physical Universe to play it
+out but you don't need the whole
+physical Universe to understand what key
+pieces of the structure like why it
+works right you don't need the whole
+universe to understand why engineered
+systems work as long as those engineered
+systems are low entropy and they work
+across context so the same piece of DNA
+it can work for your parent and it can
+work for you and it can work for your
+child in that case it must not be that
+hard for an AI to understand why that
+piece of DNA is useful because there's
+enough structure to it there's enough
+regularity to it so I think Martin is
+making a common type of mistake when he
+brings up chaotic systems like rayy
+tailor interference and he's not looking
+at how hackable the universe is and how
+limited the human brain is as an
+engineer by the fact that our brain is
+like kind of small we don't have the
+billion parameters we don't have the
+capacity to just grock an entire cell
+and be like okay I get how this cell
+works I get how to engineer this cell we
+have very limited working Memories We
+have limited visual imaginations we're
+better than the animals but we're not
+that great and we're about to to get
+surpassed okay next we're going to hear
+another one of Martin's mental models
+about the current generation of AIS now
+we're in AI where you don't even know
+what the end state is you're just like I
+have a whole bunch of data and I want
+you to find patterns in that data right
+that requires even more comput so it's
+even less efficient so it's another
+modality of compute it's one we've been
+finding for a long time but it doesn't
+change the nature of computers there's
+still systems and they're still
+computers they still have the same
+limitations independent of what
+distribution that they learn and so if
+it turns out that these things can like
+simulate
+systems for a period of time longer than
+the normal simulation then I'm with you
+I'm like this is this is breaking the
+laws of physics but until then it feels
+to me like simulation where you just
+don't know all of the rules but it's
+learning some of the rules I disagree
+with that analysis I disagree that what
+AIS are doing is fundamentally
+inefficient for instance when they write
+an essay sure they're using a lot of
+h100 gpus for now but that essay sure
+does come out fast and these models sure
+are getting opiz to be smaller and
+smaller at the end of the day I think
+the best way to understand the
+optimization or the compute resources of
+an AI is to see that it's trending
+toward the architecture of the human
+brain human brain runs on 12 Watts seems
+to have a lot in common with the
+architecture of the new AIS we're seeing
+so I don't really get what he's saying
+now about this AI being inefficient I
+don't get what he's saying now about
+like oh my God can this AI simulate
+stuff like I just don't think he's using
+useful abstractions right now yeah I
+guess I Le I think about it less in
+terms of simulation and More in terms of
+of how effective the choice of actions
+can be at any given time step like I'm
+not simulating the universe Humanity as
+a whole is not simulating the universe
+but we're all just taking our local
+conditions and our sort of General sense
+of our own selves and goals and like
+trying to do the next step at any given
+time yes thank you the idea of calling
+AI just simulation or just interpolation
+is just ignoring this capability that
+the human brain is doing I mean you can
+claim that the AI is not doing the
+secret sauce that the human brain is
+doing but you at least have to
+acknowledge there's this big secret
+sauce that the AI could be doing if it's
+not doing it today it might be doing it
+soon like you have to at least explain
+the secret sauce and not just call
+everything simulation and enduration and
+it seems like our overall efficacy
+through our lives is the integral if you
+will over how good our choices are at
+each given time step and that doesn't
+depend on any huge simulation of
+anything like rubly complex so then if I
+imagine an AI it seems Within Reach to
+imagine an AI that can do something very
+similar to what I'm doing which is have
+a goal look at its immediate
+surroundings look at what it just did
+look at whatever other context it may be
+given and pick a next action and
+potentially be better than me at it and
+potentially quite a bit better and then
+that to me seems like enough if if it
+can do that then I feel like we're in an
+unprecedented environment where we now
+have fundamentally pretty alien and not
+super well understood things that can
+take more effective actions in many
+given contexts that I could and then
+that to me is like where I start to turn
+the conversation toward what sort of
+Safeguard should we have in place just
+again because this is these
+conversations tend to be so modeled if
+that action requires interacting with
+the physical world it has to simulate
+the physical world it just does right
+like it has to understand like Dynamics
+and ballistics it has to understand what
+happens if someone throws a rock at it
+or if it's like in water or if the
+weather's like I mean that's how you
+navigate the physical that's really why
+we created computers right it was
+because these are very hard things to do
+but there's a difference between
+simulating something and understanding
+something when you understand you just
+have something isomorphic in your own
+mental model you have high level pieces
+and you can operate interactions between
+those highle pieces and what you get is
+isomorphic sufficiently isomorphic to
+the states you're going to observe the
+real world so you don't have to simulate
+atoms you don't have to simulate
+molecules or even cells to effectively
+navigate the world so even using that
+term simulation is highly misleading
+understanding how to navigate the world
+does not mean you have to simulate the
+world now if you want to abuse the
+terminology and say ah yes the fact that
+your brain contains these
+representations of 3D objects that
+you're trying to navigate around that's
+simulation okay but you're abusing the
+notation because the Dynamics of these
+highle objects and your choice of highle
+objects Martine himself said that it's
+so amazing that humans are able to chunk
+these objects like rocks and sand and
+trees if that's amazing to you then it's
+not simulation right so why are you
+saying now that the human's ability to
+navigate the world requires simulation
+if that action requires interacting with
+a physical world it has to simulate the
+physical world and then if it's not that
+if it's not interacting with the
+physical world then it is interacting in
+this kind of language domain that we've
+created and I agree it'd be very good at
+some subset of those things there's zero
+indication it'd be good at new things
+and that's what we're actually very good
+at and again without actually having a
+model for all of these things that we
+understand like the distributions we
+understand the mechanisms I feel like we
+just use words and the words all make
+sense but like complex systems we never
+know convergence and
+Divergence without actually specifying
+the system and I feel like for these
+conversations we just don't have a
+system we talk about and so it's always
+we live in the world of like rectangles
+and arrows and somebody takes a
+rectangle and they have an arrow that
+goes back to the rectangle they're like
+ah we've got a virtuous cycle without
+actually specifying that if you have
+diminishing marginal returns you don't
+go anywhere or you're doing the same
+stuff or whatever and so I think this is
+incumbent on all of us to actually
+understand the systems we're working
+with and then come up with these basic
+views and properties to make sure at
+least we understand what the convergence
+properties are I'm sorry that was a very
+muddled thing to say but I feel that
+until we talk about specifics it's very
+hard to make concrete statements in this
+yeah I also find that too model to
+respond to so let's move on let's change
+gears because I think this is probably
+certainly gives everybody enough to to
+get at least a good intuition for our
+relative philosophies on this yeah so
+what do you think we should do right now
+in Practical terms to regulate AI if
+anything the regulation one is sticky
+for to me for two reasons the first one
+is we don't even have a definition of AI
+okay feel free to use my definition
+systems that can map inputs to outputs
+better than and Broad domains and so I
+think it reduces to regulating software
+and then for that I would say we've been
+regulating software for a very long time
+and there's a broad robust discourse
+around that and I think we should make
+whatever conversations we have part of
+that broader discussion no most pieces
+of software like Microsoft Word Google
+Chrome these are pieces of software that
+you can look at their domain and you're
+like okay it compiles this code right it
+parses HTML it parses JavaScript it does
+word processing of arbitrary docx files
+those domains are much narrower than the
+universe and yeah it's going to get a
+little bit fuzzy when you're talking
+about like okay this system helps you do
+a medical diagnosis can it help you
+engineer in medicine that seems pretty
+broad it's going to get fuzzy but at
+least we know where it's black and white
+and where it's fuzzy and then we can
+spend more effort on the parts that are
+fuzzy but like that's the name of the
+game right I mean that's just how
+regulation goes to just use AI
+synonymously with software you're just
+ignoring the important thing happening
+around you right it's it's almost like a
+head in the sand approach I don't know
+what the distinction between Ai and
+software I really don't like I I have
+seen the definition using these
+regulations it's so broad that really
+could include all non-trivial software
+and I don't say this to be a poic and I
+don't say this to be difficult I'm
+saying this very clearly they literally
+say A system that can whatever navigate
+and change a virtual or physical system
+I mean these are so broad right so we're
+really talking about software that's
+what we're really talking about we have
+what 70 years of History regul software
+in many domains and I think that
+regulation's very important I'm not a
+Libertarian I'm a lifelong liberal like
+a very moderate person I'm just saying
+this discourse has been around for a
+very long time and we should continue
+and if there's an area that software is
+being pushed an area that we need to
+have some sort of protections we should
+add them to it right but that's a very
+different statement than a saying AI is
+somehow paradigmatically different
+there's just like literally zero
+indication that it is and then try to
+somehow regulate a computer science P
+it's like regulating a
+database I mean maybe there's some
+similarities to sofware but it's
+ridiculous to me to say that there's
+zero indication that AI is different I
+mean if you have a virtual girlfriend
+who starts manipulating people isn't
+that different if you have a super
+intelligent virus that takes the entire
+world a week of lost productivity to
+clean out isn't that different and yeah
+that hasn't quite happened yet I mean
+the girlfriends are getting scary but
+the virus hasn't quite happened yet not
+that I know of but isn't that something
+that we should get ready to regulate
+like what do you mean that there's no
+difference right it does seem like
+there's something new Brewing here not
+to mention what I'm worried about which
+is a permanently uncontrollable super
+intelligent AI where in that case
+regulating a punishment is useless you
+just have to regulate the prevention of
+it ever being created in the first place
+I guess to venture a distinction or what
+makes the technology of paradigm shift I
+would probably zero in on the fact that
+they are trained not engineered and that
+maybe a better thing even than that
+would be that the creators of the models
+generally don't know what they're going
+to be able to do and even at deployment
+time don't have a very robust account of
+what the capabilities of the systems are
+you could point to things in the past
+and like oh you didn't expect this out
+of whatever but this does seem to be
+qualitatively different that they just
+train train train train train a long
+time you know especially you look at
+base model right base models are totally
+unpredictable and and nobody really
+knows I think one of the reasons that
+people are putting so much resource into
+post training is to try to get control
+and it's only sort of working yeah
+that's another great distinction you
+could use if you really don't know
+what's Ai and what's other software you
+can definitely throw in that Criterion
+of like does it get trained and then not
+give you an account of all its different
+capabilities if so then it's potentially
+dangerous AI That's a nice distinction
+yeah so this is the things is when
+you're talking to a internet guy in a
+distrib systems guy it's just like none
+of the systems that we worked on we
+understood the implications of think
+about the internet like every sociopath
+becomes your nextd door neighbor what
+does that even mean what does it mean to
+put kids on the internet what does it
+mean to have your business on the
+internet what does it mean to put
+critical infrastructure in the internet
+there is no model for how any of this
+behaves there is no way to build make
+computer systems provably correct so
+it's often a good approach when you have
+a new technology to be like ah crap all
+these different things go wrong but
+let's just take it step by step let's
+move forward let's deal with the
+consequences let's iterate right so I'm
+all for that approach I mean normally
+I'm a techno Optimus look when it comes
+to VR go Hog Wild make a bunch of VR
+worlds if there's problems with some of
+them recall them punish the people who
+made them right like that's fine that's
+a typical technology the internet was I
+guess a little bit more dangerous than
+VR in the ways that Martin is describing
+fine of course the disanalogy here is
+that experts are warning not all but
+many of them experts are warning that
+you might have an uncontrollable
+Extinction scenario in the near term so
+that is qualitatively different you're
+not going to find a large fraction of
+serious experts warning that the
+internet is going to cause human
+extinction within a couple decades so I
+don't know what to say that breaks your
+analogy when that's the downside that
+we're dealing with potential imminent
+human extinction that some people like
+me think has a very high probability
+like 50% Jeff Hinton his personal
+probability he said was more than 50% to
+be precise he updated down to 10 to 20%
+because he said a lot of his friends are
+saying 10 to 20% or lower and he wanted
+to update down to be with his friends
+but he said that he independently assess
+the risk as being more than 50% so when
+you have a situation like that bringing
+out your analogies of how some people
+had some worries about the internet and
+we managed to overcome those worries
+it's just not analogous right it's
+almost like why are you even bringing
+that up we weren't putting compute
+limits on
+databases and we weren't regulating
+computer science Primitives and we
+weren't inhibiting innovation of
+startups and that's what we're doing now
+and that is a paradigm shift and that is
+a Doctrine shift and it's really scary I
+agree it's a paradigm shift it's a scary
+scenario I agree with that I mean if the
+government's coming down on regulation I
+mean the government sucks in many ways
+right it's not necessarily staffed with
+all competent people absolutely I hear
+you it sucks it's scary it's a paradigm
+shift of course we have to deal with the
+issue that experts are warning about
+near-term human extinction right so I
+get that Martin's position is like well
+there's a very low risk of near-term
+human extinction so I agree with him
+that if you accept the premise that
+there's a very very low risk of imminent
+human extinction then these regulations
+are so crazy what what are you so happy
+to regulate everything everything's fine
+like I agree but if he grants my premise
+that there's a near-term human
+extinction risk a high one if you grant
+my premise then you got to do something
+right you got to prevent some hacker in
+a basement from taking the latest llama
+model that's on the verge of super
+intelligence pushing it all the way over
+and losing control
+and then goodbye for Humanity forever
+you have to do something so at this
+point the argument is getting less
+interesting to me because when you live
+in a rental model like Martin's where
+there's just a low risk of Extinction
+then I agree regulation is bad right we
+don't disagree about that stuff the Crux
+of our disagreement I don't think is on
+the topic of Regulation I think the Crux
+of our disagreement is just are we
+doomed because if we are I like to think
+that Martin would then be on the same
+page as me being like okay let's do
+something about the possibility of being
+imminently doomed and that's why whole
+podcast is called Doom debates because I
+think that if we can get on the same
+page about Doom then a lot of other
+things are going to fall into place
+right to me it's a little ridiculous to
+have a policy discussion with somebody
+who doesn't realize that we're very
+likely doomed okay so I'm not going to
+play you the last third of Martin's
+podcast with Nate because that whole
+section is operating under the premise
+that like yeah we're not imminently
+doomed so let's just talk about good
+ideas for regulation and when you pre
+assume that we're not imminently doomed
+that there's no large human extinction
+threat at that point I actually think
+Martin makes reasonable arguments I
+don't really have a major Crux between
+his worldview at my worldview after
+conditioning on the assumption that
+we're not doomed so if you go and listen
+to that discussion I'm actually
+sympathetic to a lot of Martin's points
+and I think it's a highquality
+discussion it's just not interesting to
+me because I don't think that we live in
+a world where we're not doomed right so
+it's just like talking in fantasy land
+but they're perfectly fine points like
+the points make sense if we're just
+talking about regulating VR or
+regulating the next social Network or
+hell even regulating crypto you know go
+wild I don't care that much the only
+other content I want to show you from
+Martine is the back and forth that we've
+had on Twitter there's a Twitter thread
+from July 27th where Martin tweeted llms
+don't reason they're a reason cash with
+fuzzy matching the extent they
+generalize is a function of how prior
+reasoning applies to Future knowledge
+and configurations of the Universe I
+suspect the answer to that is not very
+much and then a follow-up tweet by
+Martin he says game playing in an
+axiomatic system like go can be
+exhaustively searched with more compute
+clearly some problems fit in that domain
+EG protein folding where there is a
+relatively constrained set of solutions
+or maybe even code but it's not at all
+clear this generalizes
+broadly so I didn't really get why he
+thinks there's a dichotomy between
+playing in an axiomatic system and
+playing in a non-axiomatic system I
+think he's marking up the wrong tree I
+think he's looking for a distinction
+that's going to explain what AIS can't
+do and he's just going to be wrong about
+that distinction so I replied to him
+this is what I wrote when you say can be
+do you mean orders of magnitude more
+compute than could ever be physically
+realizable because that's trivially true
+about every problem we know how to
+recognize solutions to so my point was
+basically like if you can win at chess
+if you can win at go you're already not
+exhaustively searching you're already
+doing something smarter right you're
+doing the essence of intelligence to
+some degree the essence of intelligence
+is to search an exponential space in a
+way that a brute search could never
+begin to search but your search can
+somehow prioritize some really good
+candidate options within that space
+somehow right the algorithm may vary you
+look at what it's doing you look at the
+input output relationship and that's
+sufficient for you to conclude there
+must be intelligence here so even a
+black box is something that you can look
+at and you can conclude that it's
+intelligent and the axness of the system
+the fact that chess has rules or go has
+rules or Starcraft has rules or driving
+on the road has rules like it doesn't
+really matter it's just that mapping
+from inputs to candidate outputs located
+within a giant exponential space that is
+the essence of intelligence so again
+this is why I'm just confused why Martin
+thinks he's really onto something with
+like axiomatic rules when I asked him
+about why he's so fixated on the game go
+having axiomatic rules he replied
+basically it converges to simulation
+which we understand the bounds up very
+well and I replied I don't understand
+the distinction EG is reasoning about
+Conway's Game of Life on the
+exhaustively searchable side of your
+distinction why or why not the reason I
+asked that is because I see Conway's
+Game of Life as a perfect intermediate
+between the dichotomy that he's trying
+to set up he's trying to set up a
+dichotomy where on one side you have
+things like the game of Go and on the
+other side you have things like the
+physical Universe which he thinks you
+can't axiomatize the rules of which I'm
+not even sure that's true I think it's
+probably false but in his mind you know
+we don't understand String Theory yet so
+you can't axiomatize the rules of the
+universe and that's what makes life in
+the universe hard I guess according to
+Martin I'm not sure but anyway the
+reason I threw out the game of life is
+because the game of life does have
+axioms right it does have very simple
+rules we can describe exactly how it
+evolves and yet it's chaotic it's Turing
+complete so you can't really make
+predictions about it you can't really
+solve problems about it in the general
+case or you you know there's arbitrarily
+hard problems within the game of life
+universe so that's why I asked him to
+analyze Conway's Game of Life and his
+response is this Conway's Game of Life
+is an entirely different class there's
+no end state so there's a new
+distinction no end State put it this way
+initial conditions described
+axiomatically EG positions on a chess
+board plus fixed rules for evolving
+State EG chess moves plus well defined
+end State game one or lost equals
+search contrast it to initial conditions
+described via physical phenomena eg a
+Car Plus physical laws for evolving
+State EG materials fluid dynamic heat
+transfer chemical reaction plus end
+State described over physical phenomena
+does the car Catch Fire equals
+simulation we have 50 plus years of
+computer science that has tackled both
+of these domains and we very well
+understand the bounds compute
+requirements Etc so very interesting
+he's just doubling down on this
+distinction now he's calling it search
+versus simulation that doesn't seem to
+map really nicely to what he was saying
+in our podcast I felt like the
+distinction he made in the podcast with
+Nate was more like there's simulation
+but on the other side it's not search
+it's like interpolating patterns right I
+felt like that was the distinction he
+was emphasizing during the podcast but
+now it seems like he's making a
+distinction between search and
+simulation which I frankly don't
+understand I feel like it's a very fuzzy
+distinction so I followed up on Twitter
+I wrote how about the problem of design
+a region of size n byn in life
+neighboring a randomly initialized
+region and at time step 10 trillion have
+over G gliders gliding I'm asking this
+test case because I'm still not clear on
+why your distinction is
+meaningful and he says which distinction
+between rules and physical rules based
+in physical and I said You just defined
+a particular distinction right I think
+you would term it search versus
+simulation it just doesn't seem like it
+has any fundamental distinctions to me
+which is why I'm trying to understand
+how the seemingly hybrid example game of
+life gets analyzed by you and he replied
+well for one we don't know all the laws
+of physics which is why nearly all
+simulation relies empirical equations of
+State further for all practical Purp is
+physics is non-discrete with cellular
+automata we know all the rules Game of
+Life is a cellular automaton he's saying
+because we Define them and we have full
+understanding of the state and then I'm
+answering if I understand correctly your
+claim is that we can classify problems
+into two buckets and AI is stuck only
+being able to do problems in the first
+bucket right the one that he called sech
+in this thread and your answer to my
+latest question is to add rules to your
+distinction so that my problem the N
+byend gliders problem goes into your
+easier buck so that was where I left it
+and he didn't reply so I don't know
+exactly where he's going with this but
+honestly I think it's the same situation
+that we're seeing with Martin in Nate's
+podcast where he has a distinction he
+has a background working on simulations
+he thinks he's constraining today's AIS
+to fit into buckets that he's familiar
+with but he's missing this important
+abstraction of the essence of
+Intelligence being somehow taking
+shortcuts in an exponential output space
+right he doesn't seem to focus much on
+that mental model he doesn't seem to
+focus much on the idea of an agent in a
+low entropy Universe making a
+multi-level low entropy model of that
+universe and then engineering it right
+he never talks about that which which to
+me that is what's going on right like
+you're missing what's going on with AI
+and at least if you don't think that
+that's what's going on AI at least
+that's how you need to talk about what's
+going on in the human brain right and
+then you need to answer the question of
+like well why isn't AI catching up to
+the human brain if that's what's going
+on in the human brain so I never see
+Martin talk about that he left the
+Twitter thread at that point so I don't
+have anything else to report to you
+there
+um I'll just to close it out I'll just
+play one more quote from the last half
+of his podcast with Nate I didn't play
+the last part of the podcast because
+it's so much about policy in a world
+where we're not doomed but let me just
+play this one little bit where Martine
+kind of gives a closing statement about
+simulation I literally think this whole
+problem comes down to simulation and
+maybe it's just because my simulation
+background like the only way to simulate
+the universe is to be the universe like
+it literally comes down to the universe
+is a big computer that's simulating
+itself and I'll reiterate my response
+which is that that he's talking past
+what AI is what intelligence is he's
+just pointing to one particular type of
+limit one particular type of stealing
+yes you can't use finite resources to
+model arbitrary chaos that's true
+complexity Theory also tells us that you
+can't use finite resources to crack any
+type of encryption or to solve arbitrary
+problems that can be stated in a
+relatively compact form like I can give
+you a traveling salesman problem or an
+NP complete problem various types of
+problem where I can write down a problem
+that looks easy enough and there's just
+no way to solve it in the length of time
+that you have in the universe right so
+there's all these ceilings that tell us
+what we can't do that's great but now
+let's look at reality you have these
+agents called humans they engineer stuff
+in the world they transform the whole
+world to their liking we're about to
+have AIS they're also going to have this
+amazing superpower called engineering
+called intelligence and the fact that
+these Universe has these limits the fact
+that complexity theory has these limits
+the fact that the speed of light is a
+limit great we're entering a universe
+that has all these high ceilings that's
+great it's not going to affect what we
+actually come and do how we're actually
+going to take over the universe right so
+it's mind-blowing to me that he thinks
+that he's explaining what's going to
+happen with AI when he's just obsessed
+with fat tals in simulations of lowlevel
+physical systems that's just not how
+intelligent agents go and take over the
+universe go and engineer build what they
+want to build so I encourage to just
+look at the relevant thing you need to
+look at if you want to have a hope of
+like staying alive having utility in the
+universe look at what's actually
+happening look at hierarchies of
+Concepts that are self-trained right
+llms are self-trained on low-level
+inputs to create high level Concepts to
+a degree that as Jeffrey henon says it's
+already Beyond Humanity's ability to do
+that so they're already doing it in a
+more subtle way they might prove
+themselves as Nathan says we might have
+biological engineering systems that
+surpass the best human scientists and
+the best human engineers
+and from there we might finally get to
+general intelligence where they connect
+everything together they reason robustly
+they plan toward goals which is the
+funny thing by the way is normally in
+all my podcasts I'm always talking about
+goal optimization I'm always talking
+about utility functions and optimizing
+the universe but Martin got off the Doom
+train at such an early stop the stop
+that you basically can't do engineering
+at a superhuman level because of this
+idea of fat tals and this idea of like
+oh everything has to be in distribution
+he got off at such an early stop that I
+never even got around to talking about
+instrumental convergence taking over the
+Universe I just had to spend the whole
+podcast just explaining what it looks
+like when you have an intelligence
+explaining what it looks like when the
+human brain is doing what appears to be
+the impossible from the perspective of
+like other animals or for the
+perspective of a naive analyst the human
+brain appears to be doing the impossible
+so I'm just explaining I'm giving them
+the tools to analyze the phenomenon that
+you're seeing inside of your head and it
+also helps you analyze the phenomenon
+that you're seeing inside of AI these
+are the tools you need if you want to
+extrapolate successfully into what's
+going to happen and I'll also reiterate
+my point that his own model is rather
+vague and refuses to make predictions
+and the one time that he had an
+opportunity to make a prediction about
+what AI potentially can't do maybe AI
+can't engineer biology as well as humans
+he actually said oh yeah that would just
+be a specific problem so he kind of
+dismissed the one impressive thing that
+Nate brought up as like not even being
+that impressive so I encourage him to
+reflect on the quality of his own
+epistemics of whether he's even saying
+something meaningful or whether he just
+likes talking about a certain thing he
+just likes talking about the universe he
+likes talking about fat tales and
+simulation and he just keeps going back
+to those because those are topics that
+he's familiar with but he's getting
+blindsided he's just missing the actual
+phenomena that are happening around him
+and of course those phenomena have huge
+implications um now that said to say
+something nice I think that he's giving
+a perfectly capable analysis of the
+economics of AI in like the next two
+years and if you want to go listen to
+that part of the podcast that's like the
+last half that I didn't really excerpt
+many clips from so overall I think he's
+a smart guy he's making many capable
+points I just have to highlight the part
+that I disagree with which is like hey
+you have an intelligence you don't know
+what the boundaries actually are you're
+about to get surprised and you should be
+humble about that you shouldn't think
+that you understand because of these two
+hammers that you have the hammer of
+distributions and the hammer of
+simulation you really got to update your
+understanding of what's going on because
+you're not being accurate okay that's
+all I got with Martin stay tuned for
+more episodes where I go and review
+other people saying stuff on other
+podcasts you might call it a takedown
+episode uh of course Martine if you want
+to come on the podcast and debate me I'm
+game anytime I think it would have a
+prod it would be a productive discussion
+I wouldn't throw any gotas at you it
+would be a high quality discussion we
+can get a moderator if you want um and
+then one more thing Martin is pretty
+closely associated with Mark Andre who
+I've written about on Twitter in the
+past so at some point I'll be doing a
+mark andreon review episode where I go
+through through all the stuff that he
+said on podcasts and what I think about
+that spoiler alert I'm going to strongly
+disagree in many ways okay that's it for
+today I think this is the longest
+episode so far so let me know in the
+comments is this a good length what do
+you think I always love the feedback
+it's I find it very motivating so keep
+it coming and of course if you're
+watching this on YouTube smack that like
+button if you're listening to this in
+your podcast player leave a review go to
+youtube.com/ Doom debates subscribe to
+my channel go to Doom debates.com
+subscribe to my substack go to x.com
+Leon subscribe to me on Twitter you got
+a lot of homework okay and hey how about
+this tell a friend huh huh it's a good
+idea all right that'll be all for today
+and I'll see you back here for the next
+episode of Doom debates

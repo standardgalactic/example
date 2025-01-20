@@ -1,0 +1,1736 @@
+there is a huge huge problem in how to
+define for AIS and algorithms the the
+goal in a way they can understand who
+knows what is the definition for the
+robustness of De of democracy nobody
+knows yes exactly so tell us that we're
+doomed I need to hear
+[Music]
+it welcome to Doom debates I'm luron
+shapira you've all Noah Harari is a name
+you've probably heard before we're going
+to get to him in a second but first I
+went on Dr Phil that's right the Dr Phil
+I had a cool opportunity to come talk to
+Dr Phil about AI Extinction his team was
+putting together an episode on the
+future of AI and education and they
+found me through Twitter I randomly got
+a message from his producer and we
+jumped on a call and I started telling
+him look we can talk about AI in
+education I don't have a strong opinion
+but I sure am worried about everybody
+dying in the next few years because of
+AI and the producer was like huh what
+what are you talking about I've never
+heard about this and I was like you've
+never heard about this what about the
+pause letter what about all these
+experts warning about a high P Doom what
+about Dario emid from anthropic saying
+10 to 25% P Doom what about Yan Ley from
+formerly from opr AI saying 10 to 90% P
+doom and he's like I've never heard of
+any of this stuff I don't think Dr
+Phil's heard of any of this stuff and
+I'm like oh jeez well do you want me to
+tell you more and he was like yeah why
+don't you come on the show so they kind
+of just squeezed me in to talk about AI
+Doom in an episode that was otherwise
+about Ai and education so I got to teach
+Dr Phil a little bit about the Doom
+claim and I got to wake up America a
+little bit about why they should be
+concerned about AI Doom so definitely
+check that out I think it's a fun watch
+you can only see it by going to my
+substack so head over to Doom
+debates.com that's my substack it's one
+of the most recent posts you can just
+look for Dr Phil watch that clip I think
+you'll enjoy it you know I'm looking at
+my stats and out of all the people who
+subscribe to me on YouTube less than
+half of you guys are subscribed to me on
+substack are you crazy why would you not
+go to substack And subscribe to me there
+too because that way you can get updates
+in your email you're going to get
+exclusive content drops you're
+supporting the podcast and look YouTube
+we don't have a connection if follow me
+on YouTube YouTube can just kick me out
+tomorrow what if I drop too many F bombs
+what if I say something racist I'm going
+to be off YouTube and then where are we
+going to be our relationship is going to
+be non-existent whereas on substack I'm
+going to have your email address and
+that's a bond that can never be broken
+so the fact that most of you think it's
+enough to subscribe to me on YouTube and
+not on substack is insane so head over
+to Doom debates.com type in your email
+address in that substack popup watch
+that Dr Phil clip and check out the
+bonus content last week I put up a
+written post which is all about why I
+think AI is not going to proceed as
+slowly as physics did because somebody
+made the point hey look physics is
+slowing down string theory is slowing
+down why can't AI also slow down and so
+I outlined very clearly what I think is
+the difference between Ai and physics
+check it out on substack for those of
+you who choose to go to my substack And
+subscribe Doom debates.com thank you I
+appreciate it all right let's get into
+today's episode youval Noah Harari is a
+historian philosopher and best-selling
+author known for his thought-provoking
+works on human history the future and
+our evolving relationship with
+technology his 2011 book sapiens a brief
+history of human kind took the World by
+storm offering a sweeping overview of
+human history from the emergence of homo
+sapiens to the present day Harari latest
+book just dropped today it's called
+Nexus a brief history of information
+networks from the Stone Age to a gu
+today we're not going to be going over
+the book itself I haven't actually read
+it instead we're going to be going over
+a podcast that he did this week with
+Steven Bartlett on the Diary of a CEO
+show where hopefully he touches on all
+the key points from his book and it'll
+be a more efficient way for us to see
+what his Viewpoint is especially as it
+relates to you know what human
+extinction from uncontrollable
+superintelligent
+AI all right let's Dive In
+I think that to understand what is
+really new and important about AI we
+need perspective of thousands of years
+to go back and look at previous
+information revolutions like the
+invention of writing and the printing
+press and the radio and only then you
+really start to understand what is
+happening around us right now uh one
+thing you understand for instance is
+that AI is really different people comp
+compare it to previous revolutions but
+it it's different because it's the first
+technology ever in human history that is
+able to make decisions
+independently and to create new ideas
+independently a printing press could
+print my book but it could not write it
+it could just copy my ideas an atom bomb
+could destroy a city but it could it
+can't decide by itself which city to bom
+why to B well he's not wrong he's mostly
+right when he says hey go back and look
+at the printing press that wasn't as
+important as AI because the printing
+press could print my books but it
+couldn't decide what to print I agree
+but I don't file this under clearly
+communicated statements I file this
+under people who are groping around for
+the concept of optimization power to
+explain an intuition that they have
+which is correct but they don't don't
+have the Precision to explain their
+intuition so they're trying to reinvent
+it they're groping around his language
+is um a printing press couldn't write my
+book it could just copy my ideas so
+there's a distinction between copying
+and I guess creating and he's saying an
+Adam Bomb could destroy a city but it
+can't decide which city to bomb or why
+to bomb it I call it groping around
+because that is really not a precise
+description if you look at systems like
+the Russians were rumored to have the
+dead hand right they were working on a
+system to automatically retaliate if
+they detected a nuclear strike so that
+way you could kill the entire Russian
+leadership you could even take out the
+entire Russian military during the Cold
+War and the US should still expect an
+automatic retaliation this was an idea
+that was sazed in Doctor Strange Love
+but I think it was based on at least
+something that the US suspected that
+Russia was building I don't know if they
+were actually building it okay I just
+asked Chachi BT and apparently yes
+Russia was actually building it it was a
+semi-automated system so it would look
+at a bunch of different signs of whether
+suspected that a nuclear strike was
+happening on Russian territory like
+seismic reports radiation reports and
+then it would potentially trigger an
+automated response nobody knows for sure
+except you know classified Russian
+intelligence nobody knows for sure what
+the current statuses of the Dead hand so
+there there's a good chance that there's
+a lot of semi-automated pieces but I
+can't tell you for sure whether a
+nuclear strike that kills everybody in
+Russia will still launch a retaliatory
+Nuclear Strike because that degree of
+automation whether it exists is
+classified but the Dead Hand is possible
+technology right technology to
+automatically make a decision that it
+should retaliate and we have you know
+missile guidance which is it's like
+smart guidance right so it makes
+decisions it takes in various factors or
+we have other computer programs that are
+incorporating different factors and then
+deciding what to do based on that hell
+even 1800s era technology like the
+printing press or like you know the
+jacard loom the jard loom was invented
+in 1904 and it's considered a milestone
+on the road to computation because it
+was a loom that used Punch Cards to
+specify complex designs that the loom
+would essentially execute the design
+based on the punch card so it was a way
+for information to drive patterns more
+so than the printing press which came
+around in the 1400s it was just another
+step toward Dynamic guidance based on
+compactly represented
+information the reason I'm explaining
+all this is just to show you that there
+is a Continuum a pretty continuous
+Spectrum from machines that are really
+dumb like a rock that you pick up toward
+okay a printing press where you can
+rearrange letters and that's a pretty
+good way to get a lot of combinatorial
+value out of simple building blocks okay
+and then all the way to a jard loom
+where it's kind of an executable program
+not exactly turn complete doesn't have
+branching and looping yet doesn't have
+memory yet but then you go all the way
+to the 1950s and you do have computers
+that can guide missiles that can make
+decisions that can play chess but you
+can see yuval's distinction is rough
+because he even comes right out and
+explicitly says that decision Mak
+computers for some reason unless they're
+the most recent ones he calls them not
+AI so just listen to this next part and
+you'll see how he's really groping I
+don't think he's being precise there is
+a lot of automation out there which is
+not AI if you think about a coffee
+machine that makes coffee for you it
+does things automatically but it's not
+an AI it's pre-programmed by humans to
+to do certain things and it can never
+learn or change by
+itself a coffee machine becomes an AI if
+you come to the coffee machine in the
+morning and the Machine tells hey based
+on what I know about you I guess that
+you would like an
+espresso it learned something about you
+and it and and it makes an independent
+decision it doesn't wait for you to ask
+for the espresso and it's it's really AI
+if it tells you and I just came up with
+a new drink it's called bofy and I think
+you would like it that's really AI when
+it comes up with completely new ideas
+that we did not program into it and that
+we did not anticipate and this is a game
+changer in history it's it's bigger than
+the printing press it's bigger than the
+atom ball so again I don't disagree with
+what you've all saying I think he has
+the correct intuition that modern AI is
+on a path where it is getting more and
+more differentiated from anything that's
+ever come before it I don't have a
+disagreement with him on that front but
+I have a disagreement on this podcast
+with how many intellectuals are groping
+around for the concept of optimization
+power what I consider a solved problem
+an established principle of analyzing
+where AI is going a principle within
+what I call intelligence theory what
+elaz owski really pioneered before
+everybody else you know standing on the
+shoulders of previous artificial
+intelligence Pioneers but his own
+synthesis that really differentiates
+from anything that came before it and
+has been built on since which is what I
+refer to as intelligence theory and the
+idea that human brains are notable for
+being optimizers and the AIS that are
+coming after us are going to be much
+much better optimizers and optimization
+is power and there's really nothing that
+we can do to stop a better Optimizer and
+the key to being a better Optimizer is
+probably software these are the kind of
+things that we talk about here in this
+cluster of intelligence science whereas
+in mainstream podcasts like the one
+we're listening to now with yal all you
+see is people groping around to the
+foothills of these core ideas in the
+case of yval statement right now he's
+trying to draw a distinction which is
+again intuitive not precise not
+formalized just scoping but his
+distinction is that gee it would be
+really impressive if my coffee machine
+could invent a new drink called bofy
+really that's what would impress you
+about your coffee machine a new drink
+let me ask you you all how many degrees
+of freedom is the machine navigating
+when it's inventing a new drink what if
+the whole concept of baffy is that it's
+a little bit of caffeine right so
+there's like a few different values that
+you could set for how much caffeine goes
+into the drink bofy it's not decaf it
+just has a little bit of caffeine that
+might register as okay that's not
+creative enough that's not inventive
+enough okay I mean you change the name
+so you have a few degrees of freedom in
+how you want to Brand the name you
+branded at bofy and like what else what
+other ingredients is the machine allowed
+to work with those of us who understand
+optimization immediately know how to
+navigate a question like this yes the
+definition of creativity is searching an
+exponentially sized space and the larger
+the space and the less obvious the
+search ordering is the more intelligence
+you need in order to produce a
+preferable output right that's kind of
+standard optimization Theory standard
+intelligence theory but in yuval's case
+he's just asserting yeah if it creates a
+drink called bofy that must mean that
+it's being intell
+and he's not really getting into that
+math of degrees of freedom and he's not
+making that clarification that well you
+know if bofy is just a a simple degree
+of Freedom away where it didn't have to
+tune that many parameters to make me
+bofy then in fact bofy is something that
+we could have made in the 1950s using a
+vacuum tube computer this all reminds me
+of David Deutsch and don't worry there's
+going to be a David Deutch episode
+coming soon mark my words because he's
+somebody else who's notorious at least
+in my mind for groping his way toward
+the definition of optimization never
+getting there and just kind of getting
+sidetracked with his own vague handwavy
+definition in David Deutsch's case he
+talks a lot about creativity and
+creating new knowledge now those things
+do have definitions from the
+optimization perspective so we could
+make those terms precise but he never
+does from my perspective anyway let me
+save that for the David Deutsch episode
+and let's go back to why youall says
+that a coffee machine that makes coffee
+for you does things automatically is not
+AI because once again I want to point
+out how fuzzy of a spectrum it is from a
+coffee machine that you all say is not
+AI to a machine that's creative enough
+to invent bofy which it knew that you
+would love that and so therefore it is
+AI let let's see the Spectrum for
+instance what if the coffee machine is
+trying to guess what you want but it's
+just using a very simple rule it's just
+measuring how long you slept cuz it
+knows when you went to sleep it knows
+when you woke up and it says Ah only
+slept 5 hours not enough time AO you
+probably want a coffee that's smarter
+and that rule is like one line of code
+right it's like a simple mathematical
+expression if the machine was just
+executing that rule would you've all be
+like aha that must be AI well he
+specifically said that if it knows
+whether or not you want an expresso then
+it must be AI but my guess is you've all
+would be like no no no that's not AI
+because there's more factors involved so
+let's layer on another Factor what if it
+uses multiple pieces of evidence that it
+collects so it collects data about your
+night of sleep
+it collects visual data about how you
+look in the morning audio data about how
+your voice sounds it listens to your
+footsteps coming down the stairs in the
+morning but the way that it processes
+this data is all a hard-coded mapping
+it's just a very simple linear
+expression where it just multiplies all
+the numbers by simple weights and then
+it adds them up or maybe it's using
+naive Bays where it's just a few
+hardcoded nodes that represent possible
+values of the evidence and then you
+basically apply Baye rule on them so
+once again it's another hard-coded
+mathematical expr even though it's an
+expression that maps to a useful bit of
+reasoning but it's all hardcoded it's
+all information processing that could
+have been run on the eniac computer in
+the 1940s but would You' all say that
+it's AI if it's really good at nailing
+down whether or not you need a strong
+coffee at what point does it become AI
+at the end of the day I think you've all
+probably would agree once he studied up
+a little bit on optimization of like
+okay yeah you need a large search space
+you need the preference ordering to be
+very non-trivial you need a human to not
+even be able to write out instructions
+on how to find high value targets within
+the search base and then you need the AI
+to go find it anyway so relative to a
+human Observer who feels like the search
+Space is really large and really hard to
+navigate somehow the AI is still doing
+it efficiently when you have an
+epistemic scenario like that then it
+feels like you're witnessing creativity
+that's the definition that's how you can
+make it formal and you can even quantify
+right you can quantify the size of the
+St space you can quantify the position
+in the naive search ordering compared to
+the position in the AI search ordering
+this is how you actually analyze AI so
+in many of my podcast episodes I keep
+drawing a contrast between people like
+you all making it up as they go along
+groping their way to these definitions
+in some cases they're kind of on the
+right track like I would say you all's
+kind of on the right track in some cases
+they're on the totally wrong track uh
+somebody like yobst lree my previous
+episode I feel like he's totally on the
+wrong track but just like everybody's
+groping nobody has done the reading of
+intelligent science to get on the same
+page and let's move forward it's like we
+don't have consensus on chapter one of
+how to analyze the significance of
+AI information is is the basis for
+everything when you start to shake the
+basis everything can collapse or or
+change or or something new could come up
+to give just one example um you think
+about ownership what does it mean to own
+something like I own a house I own a
+field so previously before writing to
+own a field if you live in a small
+Mesopotamian Village like 7,000 years
+ago you own a field this is a community
+Affair it means that your neighbors
+agree that this field is yours and they
+don't pick fruits there and they don't
+graze their sheep there because they
+agree it's yours it's a community
+agreement then comes writing and you
+have written documents and H ship
+changes its meaning now to own a field
+or a house means that there is some
+piece of dry mud somewhere in the
+archive of the king with marks on it
+that says that you own that
+field so suddenly ownership is not a
+matter of community agreement between
+the neighbors it's a matter of which
+document sits in the archive of the king
+and it also means for instance that you
+can sell your land to a stranger without
+the permission of your neighbors simply
+by giving the stranger this piece of dry
+mud in exchange for gold or silver or
+whatever so what a big change a
+seemingly simple invention like using a
+stick to to draw some some signs on a
+piece of mud he's making a good point
+here as a historian that writing
+technology did enable ownership and it
+was key to enabling certain social
+structures so I'm on the same page so
+far and and now think about what AI will
+do to ownership like maybe 10 you down
+the line to own your house means that
+some AI says that you own it and if the
+AI suddenly says that you don't own it
+for whatever reason that you don't even
+know that's it it's not yours okay hold
+on now he's talking about a scenario
+where your ownership of something is
+this Dynamic state that the AI controls
+and the AI is allowed to make you not
+own something without involving a manual
+step in the transaction where the owner
+manually says okay I no longer own this
+like you don't even have to write a
+signature you're just delegating trust
+to the AI to tell you what you own and
+don't own that is quite a loadbearing
+assumption that he's casually sneaking
+in I think that his larger point is like
+hey look don't worry about the details
+of whether something is information
+technology or a new definition of
+ownership like the point is it's a big
+change the point is that new
+technologies change society and I
+absolutely Grant him his larger point
+but I do think that this gets to the
+pattern of him just kind of making
+things up as he goes along in terms of
+the impact of AI he's kind of inventing
+his own framework making vague
+connections to Concepts that he's
+familiar with and it's like once again
+as I tell everybody that I review their
+episode of other podcasts as I keep
+saying we have intelligence science
+right here like you can come and learn
+it you can actually understand what's
+going on so you don't keep saying these
+imprecise handwavy things when we need
+you to do better we need the discourse
+to be better so please come read the
+less wrong sequences come read AIS
+safety.in info let's all get on on the
+same page about how to talk more
+precisely and more productively about
+what AI is about to do 5 years ago
+people said AI will Master this or that
+self-driving vehicles but language this
+is such a complicated problem this is a
+the human Masterpiece language it will
+never Master language and J GPT came and
+it is you know I I'm I'm a words person
+and I'm simply Amazed by the quality of
+the texts that uh these large language
+language models produce it's not perfect
+but uh they really understand the
+semantic field of words they can string
+words together and sentences to form a
+coherent text that that's really
+remarkable and as you said I mean this
+is the basis for everything like I give
+instructions to my bank with language if
+AI can generate text and audio and image
+then how do I communicate with the bank
+in a way which is not open to
+manipulation by an AI here's another
+case where he Nails it on the intuitive
+informal level like yes correct large
+language models have absolutely been a
+breakthrough we didn't think that we
+would pass the tur test we didn't think
+that we would have this level of natural
+language quality indeed and yes we are
+unclear on what the Next Generation can
+and can't do on whether it can fully
+impersonate you to your bank or become a
+banker as good as a human can like
+you're absolutely right on an intuitive
+level what you're saying Mak sense the
+part that I keep wishing you've all
+would do better is the theoretical
+underpinnings of what he's saying which
+is again optimization so it's not just
+language per se language is what's
+intuitively Salient to uvall when yval
+says this is the basis for everything
+that's an intuitive way to say that an
+AI that can be good at language is
+probably a general intelligence but if
+you want to be more precise they're
+actually largely orthogonal so you could
+potentially have an AI That's still a
+master of language but still really dumb
+so famously there's this thing called
+William syndrome in humans where the
+part of their brain that deals with
+language is developed or even
+overdeveloped
+but they're still severely cognitively
+impaired so they could never do basic
+accounting or have a technical job but
+they can still write good poetry and
+they could be really good social
+conversationalists so there is such a
+thing as having a Mastery of language
+and being really hopeless on basic tasks
+and even having a measured IQ of like 80
+or below but that's not what we're
+seeing with AIS we're seeing AI being
+masters of language and passing a bunch
+of undergraduate exams and helping you
+write code they're not F General
+intelligent in every way they haven't
+totally surpassed humans in every way
+for sure right but it's not as simple as
+you all here saying hey look they got
+language that means that they're an AGI
+that means that AI is about to take over
+I'm somebody who agrees that that's
+likely to be the case but I'm making a
+more precise description of what's
+Happening than you've all just saying
+well they got language that must me
+they've got everything right there's
+another level at which you can analyze
+this which is the level of optimization
+in how many domains are they optimizing
+yes language is a big domain it's a new
+domain and it's a big domain but being
+good at language doesn't always 100%
+correlate to optimizing well in a large
+number of domains it happens to
+correlate pretty well in this case for
+some subset of domains for some big
+subset of of tests that it's passing I
+don't want to be too hard on you all
+because again I think what he's saying
+actually makes a lot of sense and I
+agree with it I just think it's crazy
+that you won't just pick up an
+introductory textbook on on intelligent
+science and you'll go on a podcast and
+talk about it anyway I guess because the
+form of the introductory textbook on
+intelligence science is random websites
+right so maybe somebody should write a
+textbook maybe Stuart Russell Stuart
+Russell is a co-author of a very popular
+AI textbook called AI a modern approach
+I used it myself as an undergraduate he
+co-authored it with Peter norvig but
+Stuart Russell is known as somebody
+who's pretty sympathetic to the AI Doom
+argument he's a Doomer I guess I haven't
+heard his P Doom
+but in recent years I don't know if he's
+written a textbook in intelligence
+science I don't know if he's brought
+Elie eow's type of Concepts to the
+mainstream to mainstream Academia
+instead he recently wrote a book called
+human compatible which I think I haven't
+read it I think it popularizes a lot of
+the AI Doom ideas but it doesn't put the
+pressure on somebody like a youal to
+open it up and study it before coming on
+a podcast and groping around and being
+unnecessarily vague so come on steuart
+Russell go make a quick textbook on
+intelligence science just feed eleazar's
+less wrong sequences into GPT and tell
+it to write a textbook in the style of
+steuart Russell slap your name on it put
+it on Amazon I think that' be doing a
+big service and then we'll mail a copy
+to yal and yob slre and Arvin Nan and a
+bunch of the other people whose podcasts
+I've been reviewing the big question is
+why does the bank want me to call
+personally to make sure that it's really
+me it's not somebody else telling the
+bank oh make this transfer to to I don't
+know Cayman Island it's really me and
+how do you make sure how do you build
+this TR I mean the the the H of Finance
+for thousands of years is just one
+question trust all these Financial
+devices money itself is really just
+trust it's not made from gold or silver
+or paper or anything it's how do you
+create trust between strangers and
+therefore most Financial inventions in
+the end they are linguistic and symbolic
+inven iions it's not you don't need some
+complicated
+physics it's it's complicated symbolism
+and now ai might start creating new
+Financial devices and and will Master
+Finance because it mastered
+language okay I'm basically the logic
+police here let's go back over yall's
+logic he says you need to call your bank
+to authenticate your voice because
+that'll make your bank trust you and
+financial technology Oles have always
+largely been trust
+Technologies so AI might start creating
+new Financial devices because it
+mastered
+language and what does language have to
+do with trust oh because you use
+language when the bank verifies your
+voice when you use a voice verification
+on the phone okay this is incoherent
+logic right let me try to go over it
+again okay the ai's understanding of how
+to simulate your voice including both
+the sound and the words of your voice
+that is a type of trust technology
+that's happening because the AI has
+mastered language and because the AI has
+this trust technology the AI will now
+invent new Financial
+Technologies okay I don't think that
+that's a valid linkage that seems like
+word cell reasoning right like his
+typical historian reasoning I guess if
+you want your bank to trust you in an
+era where AI can fake your voice the
+obvious thing to do is you just have a
+notary you visit your notary once a
+month or however often you want and the
+not puts a note in a database that the
+person with your flesh and blood showed
+up and that person is now holding onto
+this public key and you got a private
+key and whenever you want to go call
+your bank you simply tell your bank you
+give it a digital signature and that
+digital signature will imply that you've
+met with the notary sometime in the last
+month and the notary verified that
+you're this person who exists in a
+government database so now the bank has
+an authentication based on cryptography
+that you are the same person that that
+the notary logged down using an eyeball
+scanner or whatever right like it's not
+that hard to do identification in the
+age of AI the only question is how often
+do you want to do a notary procedure and
+how easy is it to fool these notaries I
+don't think it's going to be that easy
+to biologically fool the notary that
+like your eyeball looks different or
+like other fingerprints on your body
+look different so I think the notary
+system is probably going to work until
+you know super intelligent AI take over
+so when yall is making this hand wavy
+connection between AI faking your voice
+and AI inventing a new Financial system
+and bypassing this obvious notary
+cryptography based solution for
+verifying identity I think that's a good
+representation of how youall operates in
+general and not just to pick on him it
+feels pretty representative of how a lot
+of these intellectuals operate the
+general level of logic and discourse is
+pretty low so that's basically why I'm
+coming on the scene I can do my part I
+can basically be a logic cop cuz I was
+born for this job I you know there's no
+substitute for a genuine aspy when you
+need a strong logic cop so I'll just
+keep making these logical
+arrests okay but this next part is
+actually great and I have no notes I
+think you've all is about to make a
+really solid point about why AI is going
+to be in a position to manipulate people
+better than previous technology has ever
+been able to manipulate people and I do
+actually think that this particular
+skill could be part of AGI takeover I do
+think think that it'll just easily
+become a computer virus it'll easily
+take over computers but I also think
+that it'll easily take over human brains
+just using a standard manipulation
+Playbook it'll just be as Jeffrey Hinton
+says I love that we have this quote from
+Jeffrey Hinton a master manipulator and
+youve all gets that point and he
+explains it pretty well let's listen if
+you really want to influence people
+intimacy is more powerful than attention
+how are you defining Intimacy in this
+regard some one that you have a
+long-term acquaintance with that you
+know personally that you trust that to
+some extent that you love that you care
+about um and until today it was utterly
+impossible to fake
+intimacy and to must produce intimacy
+you know dictators could must produce
+attention no once you have for instance
+radio you can tell all the people in
+Nazi Germany or in the Soviet Union a
+great leader is giving a speech
+everybody must turn their radio on and
+listen so you can must produce attention
+but this is not intimacy you don't have
+intimacy with the great leader now with
+AI you can for the first time in history
+at least theoretically must produce
+intimacy with millions of bots maybe
+working for some
+government uh uh faking intimate
+relationships with us which will be hard
+to to know that this is a bot and not a
+human being okay well done in this next
+segment I have to go right back to
+playing logic cop because you've all
+goes back to The Well of sapiens the
+book He's most famous for and he hits on
+this big thesis he has which is that
+humans are held together by these
+fictions we have these shared stories
+and they help us coordinate so he goes
+back to the old sapiens point which is
+pretty obviously true so that's fine to
+go back to that well like there's no
+problem there but the reason I have to
+play logic cop is because he takes it
+too far and the first thing he says is
+that the basic function of information
+is to connect and just like that he kind
+of misses a lot of the function of
+information so let's listen to what he
+says and then I'll tell you why it's
+logically flawed the basic function of
+information in history and also in
+biology is to connect information is
+connection and when you look at history
+you see that very often the easiest way
+to connect people is not with the truth
+because the truth is a is a costly and
+and and rare kind of information it's
+usually easier to connect people with
+fantasy with fiction logic cop here you
+just can't go on a podcast and say the
+basic function of information in history
+and also in biology is to connect really
+in biology when DNA encodes a protein
+the basic function of that is to connect
+really A protein that lets you
+metabolize food its basic function is to
+connect that's why DNA stores
+information that's the function of
+information in biology what are you
+talking about man the basic function of
+connection or even if you're just
+talking about in human culture if I'm a
+guard watching the castle and I see the
+enemy coming on Horseback and then I
+tell the other soldiers hey they're
+coming on Horseback is that really a
+goal to connect or am I just conveying
+information that's
+useful if I'm a doctor and I've watched
+a bunch of bones heal and I see somebody
+who's broken a bone and I say hey let's
+set your bone like this because I think
+it's going to heal the fastest if it's
+set like this am I really trying to
+connect I mean I'm literally trying to
+connect your bone back together but like
+what is youall talking about why does he
+make these kind of generalizations that
+are partially correct they're intuitive
+but they fail a basic logical sanity
+check it's a level of logical crime
+that's necessitating a stronger police
+force of logic cops okay now let me play
+you another good point that you've all
+Mak the host asked him what's going to
+happen when videos become super easy to
+fake how are we going to be able to
+trust videos and I agree with you all's
+answer so let's listen we've been in
+this situation many times before in
+history and the answer is always the
+same institutions you cannot trust the
+technology you trust the institution
+that verifies the information think
+about it like with with
+print that uh you can write on a piece
+of paper anything you want you can write
+the prime minister of Britain said and
+then you open quotation marks and you
+put something into the mouth of the
+Prime Minister you can write anything
+you want and when people read it they
+don't believe it or they they shouldn't
+believe it just because it's written
+that the Prime Minister has said it
+doesn't mean that it's true so how do we
+know which pieces of paper to believe as
+an
+institution we would believe or greater
+chance we will believe if on the front
+page of the New York Times or of the
+Sunday Times or the guardian you will
+have the British prime minister said
+open quotation marks blah blah blah
+because we don't trust the paper or the
+ink we trust the institution of the
+guardian or the or the Wall Street
+Journal or
+whatever with videos we never had to do
+that because nobody could fake them so
+we trusted the technology if we saw a
+video we said this this has to be true
+but when it becomes very easy to fake
+videos then we revert to the same
+Principle as with Sprint we need an
+institution to verify it if we see the
+video on the official website of CNN or
+of the Wall Street Journal then we
+believe it because we believe the
+institution backing it and if it's just
+something on Tik Tok we know that you
+know any kid can do that why why should
+I believe it so now we are in the
+transition period we are still not used
+to it so when we see a video of Donald
+Trump or Joe Biden the video still gets
+to us because we grew up in a time when
+it was impossible to fake it but I think
+very quickly people will realize you
+can't trust videos you can only trust
+the
+institutions yeah fair enough you have
+to trust the institutions the same way
+that if you tell me oh my friend Joe had
+this political opinion how do you know
+because he tweeted something if I go to
+twitter.com or x.com I get served up a
+tweet from X's database and I just trust
+that anything that made it in X's
+database it happened because my friend
+Joe logged into X and authenticated with
+X and his account hasn't been hacked so
+I can trust that that's an accurate
+quotation of Joe's opinion and that
+system actually does work really really
+well in practice if we're talking about
+an important politician you have to be a
+little bit more suspicious that maybe
+they account gets hacked more often or
+you need extra verification but you also
+have people on hand providing extra
+verification right you have a bunch of
+reporters following them and noticing
+when something is fishy so in practice
+this whole idea of like oh my God we're
+going to need to trust institutions
+that's pretty ordinary right I'm not too
+concern that the AI world is going to
+make us have to trust institutions
+that's fine youall does bring up a good
+point though that if democracy fails
+then these basic institutions fail so
+like in Russia there's no such thing as
+like an unbiased Twitter where you can
+just trust that it'll serve up people's
+true opinions because the Putin regime
+is able to manipulate everything same
+thing in China so it's true that my
+casual trust in these kind of basic
+institutions like Twitter is somewhat
+dependent on living in a country that
+doesn't firewall my internet access
+right or at least being able to tunnel
+under the firewall so it's a good point
+there about democracy anyway in this
+next part youall is going to talk about
+ai's effect on human job displacement
+he's going to make a prediction that
+like yep there's going to be these way
+of job displacement I generally don't
+concern myself with the topic of
+unemployment I mean I think it's going
+to be massive I guess it comes down to
+the question of like hey if you're doing
+customer service and you get kicked out
+of your job because an AI can do 99.9%
+of your job so you only need one
+customer service rep instead of a
+thousand the one human can handle edge
+cases the other 9999 humans are now
+unemployed I just don't think that
+there's going to be a corresponding set
+of new jobs opening up in new industries
+that are AI powered I don't think that
+all of those new 199 humans are are
+going to be able to use their creativity
+to do something that AI can't do I might
+be wrong I don't want to take a strong
+opinion on this but I think it's just a
+matter of time until that's the case so
+when I listen to youall or some
+intellectual like that talking about the
+subject of AI unemployment the biggest
+thing I want to listen for is do they
+just get that eventually AI will be
+super intelligent and humans will have
+no room to do any jobs do they at least
+acknowledge that that's the end point
+and it's only a question of when and
+when I listen to you of all talk I don't
+see that explicitly as the end point I
+don't see him explicitly acknowledging
+like hey there's no limit to eventually
+how much AI is going to push us out he
+might acknowledge it later but he
+doesn't in this segment which is
+interesting anything which is just
+information in information out is ripe
+for automation these are the easiest
+jobs to
+automate um by being a coder like being
+a coder or again like being an
+accountant at least certain types of
+accountants lawyers doctors they are the
+easiest to automate if a doctor the only
+thing they do is just take information
+in all kind of results of blood tests
+and whatever and they information out
+the they diagnose the disease and they
+write a prescription this will be easy
+to automate in the coming years and
+decades but a lot of jobs they require
+also social skills and motor skills if
+your job requires a combination of
+skills from several different fields
+it's it's not impossible yes it's not
+impossible great I'm that but it's much
+more difficult to automate so if you
+think about a nurse that needs to
+replace a bandage to a crying child this
+is much much harder to automate than
+just a doctor that writes a prescription
+because this is not just
+data the nurse needs a a good social
+skills to interact with the child wild
+and motor skills to just replace the
+bandage um so this is harder to automate
+yeah fair
+enough and uh there will even for people
+who just deal with information there
+will be new jobs the problem will be the
+retraining and not just you know
+retraining in terms of of acquiring new
+skills but psychological retraining how
+do you kind of reinvent yourself in a
+new profession and do it not once but
+again and again and again because as the
+AI Revolution unfolds and we are just at
+the very beginning of it we haven't seen
+anything yet so there will be old jobs
+disappearing new jobs emerging but the
+new jobs will rapidly change and vanish
+and then there will be a new wave of new
+jobs and people will have to reinvent
+themselves four five six times to stay
+relevant and this will create immense
+psychological
+stress I think there two problems that
+are bigger than psychological stress
+number one the net amount of jobs is
+probably going to shrink I'm not 100%
+sure but I'm pretty sure I just don't
+see these customer service people being
+that high value in the economy once they
+can no longer do customer service I feel
+like that's a class of jobs that is
+tailor made for humans that don't have
+the highest IQ and there's just not
+going to be creative Pursuits or
+management Pursuits or Art and Science
+and if you look at the ENT entire class
+of jobs that are done with people with
+low IQs that class of jobs isn't really
+growing to include fundamentally human
+things it's like okay yeah you can drive
+this truck you can make this delivery
+you can do this basic service but it's
+not like oh you can provide really good
+emotional support because even emotional
+support is something that the AIS are
+now competitive
+in so my pet prediction is that I really
+do see a lot of humans just getting
+fully kicked out of the economy and I
+would say that that's a bigger problem
+than psychological stress but an even
+bigger problem than that is that these
+agis that are kicking humans out of the
+economy are also going to be
+uncontrolled to kill us let's not forget
+that problem right so psychological
+stress is maybe problem number three but
+anyway it's it's a reasonably Fair
+analysis by EV of all of AI in the job
+market we can move on there are uh uh
+many things that we want to have a
+connection like if you think about
+sports um robots or or machines can run
+much faster than people for a very long
+time now and we just had the Olympics
+and people are not very interested in
+seeing robots running against each other
+or against people because what really
+makes Sports interesting in the end is
+the human
+weaknesses and the ability of humans to
+to deal with their
+weaknesses and and human athletes still
+have jobs even though in in again in
+many lines like running you can have a
+machine run much faster than the world
+champion okay people still want to watch
+humans run in the Olympics sure but
+there's a disconnect between the classes
+of workers that are being laid off which
+are like below average IQ giant
+Industries right like maybe every waiter
+at most restaurants is getting laid off
+the whole service industry at
+restaurants is going to be decimated
+right it's already starting to be the
+whole customer service industry is going
+to be decimated if you take a
+cross-section of that industry and you
+just say well it's okay because there's
+jobs like there's top World athletes
+that people want to watch so John from
+customer service who normally is like
+reading through a manual right just
+trying to follow their script just
+trying to provide good customer service
+because they understand a particular
+customer service flow suddenly Jon is
+somebody that other people are going to
+pay attention to because they want a
+connection with Jon going and doing some
+other Pursuit like maybe right I don't
+want to fully write off I I don't want
+to predict the future weird things can
+happen right I mean twitch is kind of
+weird there's kind of a lot of people on
+Twitch playing video games I guess more
+than I would have thought so I don't
+want to fully write it off but it does
+seem like there's a big disconnect it
+does seem like we're kind of grasping at
+straws being like look there's a few
+people in the world that a bunch of
+people want to have a a connection with
+namely professional athletes so
+therefore this massive disruption that's
+happening to jobs where people are you
+know these are high quality jobs the
+these are jobs that you can actually
+live on and they're being decimated by
+AI but I'm sure that the analogy with
+connection to athletes is going to make
+up for it right like the scale doesn't
+seem to balance here but who knows and
+and remember at the end of the day this
+isn't really my topic so I don't really
+care right I hope you've alls right I
+don't care I just think AI is going to
+go out of control and kill everybody so
+let's keep that perspective in mind and
+uh uh another example is is priests like
+one of the easiest jobs to
+automate is the priesthood of at least
+certain religions because you just need
+to repeat
+the same texts and and gestures again
+and again in in specific situations like
+if you have a wedding
+ceremony then um you know the priest
+just need to repeat the same words and
+there you are you're married now we
+don't think about priests as being in
+danger of being replaced by
+robots um because what we want from a
+priest is not just the mechanical
+repetition of certain words and
+gestures we think that only
+another frail flesh and blood human who
+knows what is pain and love and and who
+can suffer only they can connect us to
+the Divine so most people would not be
+interested in having the wedding
+conducted by a robot even though
+technically it's very easy to do it this
+may be the best attempt at a Hail Mary
+to explain why these massive segments of
+the human population that are about to
+lose their jobs might gain some other
+type of job that's based on connection I
+mean you can imagine that our habits
+change where as we go through life every
+time we do something there's like the
+priest of that thing kind of like the
+Walmart greeter like oh I'm entering
+Walmart I'm entering Costco I'm entering
+Safeway okay well there's like the
+priest of the store and the priest looks
+me in the eye and has like a human
+connection with me and recites the
+ritualistic prayer of shopping for
+groceries while I then speak out to the
+robot and the robot claw goes and
+fetches all my groceries but the priest
+is there making eye contact with me
+right I mean we may transform Society so
+that you have a BN a bunch of human
+priests on the payroll playing various
+roles Beyond just going to church on
+Sunday or synagogue it's priests all
+over the place right you're not doing
+customer service anymore you're now
+doing human connection on the street
+right it's like an economy full of the
+sign shakers that tell you to enter a
+restaurant right suddenly everybody's
+just a sign Shaker because the AIS are
+doing the problem solving the AIS are
+doing the production but the humans are
+there having a connection with you right
+I mean I just find this kind of fun to
+think about because I feel like
+everybody is like nuts when they're
+describing something plausible But
+ultimately the topic of unemployment is
+all in good fun because we're talking
+about a very high productivity Society
+if so many humans are getting replaced
+by AIS and if we have a high
+productivity Society then it shouldn't
+be hard to at least have a really really
+good welfare state like that should be a
+stable equilibrium as long as they guys
+don't go out of control so I don't lose
+sleep over a mass unemployment by robots
+situation I think we'll figure out how
+to solve that I just lose sleep over the
+AI becoming uncontrollable and rendering
+this whole discussion of employment moot
+we're not going to be employed we're not
+going to be unemployed we're just going
+to be shoved out of the way we're just
+going to be whisked off the game board
+right it's going to be the ai's game
+board optimizing for the ai's utility
+function next uvala is going to give his
+take on Consciousness and make a
+distinction between Consciousness and
+intelligence we're going to listen to
+his take and then I'll tell you what I
+think we don't understand what
+Consciousness is we don't know how it
+emerges in the organic brain so we don't
+know if there is an essential connection
+between Consciousness and organic
+biochemistry so that it can't arise in
+an inorganic uh silicon based computer
+there is a big confusion first of all
+should be said again between
+Consciousness and
+intelligence um intelligence is the
+ability to reach goals and solve
+problems Consciousness is the ability to
+feel things like pain and pleasure and
+love and
+hate humans and other animals we solve
+problems through our feelings our
+feelings are not something on the side
+they are a main method for how to deal
+with the world how to solve
+problems now so far
+computers they solve problems in a
+completely different way than humans
+again they are alien intelligence they
+don't have any feelings when they win a
+game of chess they are not joyful when
+they lose a game they are not sad they
+don't feel anything now we don't know
+how organic brains produce these
+feelings of pain and pleasure and love
+and hate so this is why we don't know
+whether an inorganic structure based on
+silicon and not carbon whether it will
+be able to generate such things or not
+that's I think the biggest question in
+in science and um so far we have no
+answer I think that's a great take I
+think it's similar to my take so if I
+had to guess what's going to happen in
+the future I think we'll probably have
+AIS that are super intelligent
+optimizers that whisk us off the game
+board that we never figured out how to
+control but they got into a
+self-improvement loop they got into an
+attractor state where they kept getting
+more and more powerful and Humanity
+became powerless and as they're doing
+all of this doing this with all this
+intelligence I suspect that they're
+going to have very little Consciousness
+little to no feelings if they
+instantiate a human brain in order to
+get a really detailed simulation then
+maybe the simulated brain or the
+simulated animal brain maybe they'll
+instantiate Consciousness and feelings
+in that thing and they might actually
+instantiate many many of these things
+and they might even accidentally torture
+these things that's one of the most
+likely routes by which these AIS May
+create Consciousness or have a
+Consciousness but in terms of their own
+Consciousness just to get the job done
+of optimization I feel like if I had to
+guess I would say that they would just
+emotionlessly continue optimizing
+because it sure seems like all the AIS
+we've ever created today don't have
+feelings when you talk to an llm maybe
+not so much because the way that it
+outputs responses it often kind of talks
+about having Consciousness and then it's
+tough to say whether it does or doesn't
+like I intuitively feel like it probably
+doesn't but how do I know I don't right
+sure sure talks like it does right um
+but then when I look at like a chess
+playing Ai and I'm just like so clear on
+how it's like just searching a game tree
+like a more primitive chess playing AI I
+feel pretty confident that it's probably
+not feeling something but I don't even
+know right I'm not sure because like
+you've all said we're confused about
+Consciousness I'm just telling you my
+guess my guess is that we're going to
+get a super intelligent Optimizer that
+can wipe Humanity off the game board
+without even feeling anything in this
+next clip yall comes as close as I've
+seen him to building up an AI Doom
+argument Steven the interviewer asks him
+to explain the alignment problem and you
+all starts by explaining Nick bostrom's
+paperclip Factory thought experiment
+where an AI in a paperclip Factory
+starts going wild trying to make
+paperclips and turning the universe into
+paperclips and it doesn't have have an
+off button anymore because it's in the
+attractor state of optimizing utility
+function you've all said that an
+instance of the paperclip problem has
+already been happening in social media
+we've had trouble aligning those
+algorithms to our true human interests
+case in point Facebook just told their
+algorithms to maximize engagement and
+that led to a lot of clickbait and a lot
+of anger and a lot of relatives getting
+obsessed with things that aren't
+productive for them so I think that's a
+fair point that you've all makes that
+social media alignment is already like a
+microcosm of the larger alignment
+problem my question is just how far down
+the slippery slope is you VA going to
+ride how far on the Doom train what is
+he going to conclude about future Doom
+if we're already seeing a microcosm of
+Doom and the Doom is only going to get
+larger as the AI gets more powerful and
+the scope of what it's optimizing
+increases I want to see how far down the
+Doom train does you've all ride this is
+the alignment problem when Mark Berg
+told the Facebook algorithms increase
+user engagement he did not foresee and
+he did not wish uh that the result will
+be collapse of democracies wave of
+conspiracy theories and fake news hatred
+of minorities he did not intend
+it uh but this is what the algorithms
+did because there was a
+misalignment between the uh uh the way
+that the algorithm the goal that was
+defined to the algorithm and the
+interests of of human society and even
+of the human managers of of the
+companies that that are deployed these
+algorithms and this is still a a small
+scale
+disaster because the social media
+algorithms that are uh created all this
+social chaos over the last 10 years they
+are very very primitive
+AI this is like the the amibas of if you
+think about the development of AI as an
+evolutionary process for this is still
+the amoeba stage the amoeba being the
+very simple the very simple life forms
+the beginning like the single cell life
+form we are still in evolutionary terms
+organic evolution we are like billions
+of years before we will see the
+dinosaurs and the mammals or the humans
+but digital evolution is billions of
+times faster than organic evolution so
+the distance between an AI amiba and the
+AI dinosaurs could be covered in just a
+few decades if chpt is the amiba how
+would the AI Tyrannosaurus Rex would
+like would would look
+like and this is where the alignment
+problem becomes really
+disconcerting because if so much damage
+was done by giving kind of the wrong
+goal to A Primitive social media
+algorithm what would be the results of
+giving a
+misaligned goal to a T-Rex AI in 20 or
+30 years yeah what would be the result
+of giving a misalign goal to a more
+powerful Ai and we're not even
+necessarily talking 20 or 30 years we
+could be talking 3 to 10 years nobody
+really knows so what do you thank you
+all how far are you riding the Doom
+train you ask the question what's your
+guess unfortunately I don't think that
+the interviewer ever asks him to finish
+his train of thought and Go full Doomer
+it seems like he has it in him if he
+thinks a little more to go full Doomer
+so I have Doom blue balls right now
+after listening to you all get this far
+and not reach the conclusion of like oh
+we as a species are shafted we are
+currently Barling on a freight train
+toward Extinction the conveyor belt is
+taking us into the whirling razor blades
+and we're barely trying to slow it down
+or stop finish your thought you've all
+ride the train of logic tell us where it
+goes there is a huge huge problem in how
+to define for AIS and algorithms the the
+goal in a way they can understand now
+the the great thing about make money or
+increase user engagement is that it's
+very easy to measure it mathematically
+MH uh one day you have a million hours
+being watched on YouTube the next a year
+later it's 2 million very easy for the
+algorithm to see hey I'm making progress
+but let's say that that Facebook would
+have told its algorithm increase user
+engagement in a way that doesn't
+undermine
+democracies how do I measure that who
+knows so defining the goal for the
+algorithm as increase user engagement
+but don't harm democracy almost
+impossible this is why they go for the
+kind of of of easy goals which are the
+most dangerous yes exactly we're
+optimizing on metrics that don't capture
+human values all we know how to do is
+ask super intelligent AI to steer the
+universe into a region of low value so
+tell us that we're doomed I need to hear
+it okay I listened ahead to the rest of
+what you all says on this topic and the
+way that he pulls back from the brink
+the way that he doesn't ride all the way
+to the end of the Doom train is that he
+says well maybe government can regulate
+the algorithms so it can tell all these
+different social media companies that
+they're not allowed to just optimize for
+a simple metric like engagement that
+they have to have a more complex utility
+function and maybe the consumers will
+become wise the same way that consumers
+have become wise about looking at
+ingredients of food so we don't just buy
+the thing that has the most fat and
+sugar we start reading the nutrition
+facts we read the ingredients list we
+listen to what health influencers are
+telling us that we should buy and that
+creates an incentive for companies to
+have better optimization functions on
+the food that they sell us so that's how
+youall pulls back from the brink saying
+like Okay yeah social media is an
+example where AI is going out of control
+but we have ways to pull it into control
+that's fine the only issue is that I
+don't think that he's modeling a super
+intelligent AI that can do more than
+just increase your engagement on a feed
+but it can actually strategically decide
+actions to do anything with the entire
+universe I think that's kind of a
+different ball game and there's no easy
+thing like oh well the government is
+going to say which utility function is
+okay to optimize because everybody's
+going to be clueless including the
+government and somebody's just going to
+hit that enter button to just run that
+script and it's just going to be game
+over so this is where Yuval kind of goes
+off into Normie world and stops riding
+the Doom train and I go my separate way
+of saying like um hey have you thought
+about how powerful super intelligence is
+like it's more than even even more
+powerful than Facebook getting you to
+click have you thought that there might
+be such a power no okay well I tried how
+do we stop the alignment problems us all
+becoming paper clips the social chaos
+misinformation the the Silicon curtain
+as you talk about in the book how do we
+stop these things destroying our world
+is that is there hope are you optimistic
+I the key is is is is cooperation is
+connection between humans I mean the
+humans are still more powerful than the
+AIS the problem is that we have divided
+against each other and the algorithms
+unintentionally are increasing the
+Divide if something ultimately destroys
+us it will be our own delusions not the
+AIS the AIS they get their opening
+because of our weaknesses because of our
+delusions when humans came on the scene
+we just started brushing other species
+out of the way taking their land taking
+their meat doing whatever we wanted with
+them because we were more intelligent
+than them because we were more powerful
+than them so it's pretty crazy to just
+see you VA claim ah yes the way that AI
+is going to come and tear Humanity apart
+is because it's going to exploit our own
+weaknesses our own differences have you
+even considered the claim just consider
+the claim never mind if you disagree
+with it just acknowledge the claim that
+AI is going to be dangerous to our
+species because it's going to be much
+smarter it's going to be much more
+powerful have you even considered that
+claim it's one thing if you all says I
+yes there's a lot of people who think
+that there's a tractor States when you
+get to Super intelligence where you
+don't program in an off button and the
+optimization Criterion isn't something
+that a government can regulate there's a
+lot of people who say that but I
+disagree because I think that the
+largest possible intelligence that any
+agent can have is bounded or it's only
+going to scale in a slow manageable way
+like if yall was actually addressing
+those kind of arguments the way some
+people do you know like Robin Hansen
+attempts to address those arguments
+right then fine then you'd be at the
+next level of discourse but to go on a
+podcast and start thinking that you know
+what the alignment problem is and then
+sound wise and be like it's going to be
+humans actually destroying ourselves no
+it's not going to be us destroying
+ourselves it's going to be something
+that we built that's a more powerful
+form than us a more powerful being than
+us that we accidentally let slip out of
+control and then it's just going to turn
+around and brush us aside that's the
+problem you have not engaged with the
+problem you are now bringing your
+podcast to a close without even engaging
+with the problems and as you know I'm
+here on Doom debates not just as the
+logic cop but also as the engaging with
+the AI Doom argument cop you have not
+engaged with the AI misalignment problem
+you've not it's a waste of time when
+people come into the alignment
+discussion without having read up enough
+to be able to engage with the argument
+and it's at the point where you Steven
+Bartlett Diary of a CEO host it's it's
+now a common thing you do that you bring
+guests on and you broadcast to a large
+audience about the AI alignment problem
+and you don't have your guests actually
+engage with the problem I've now
+reviewed two of your episodes this one
+with youal Noah Harari and a recent one
+with Brett Weinstein you need to get
+educated about it and then you need to
+hold your guest to a higher standard
+hopefully you're going to decide to
+raise the level of discourse I believe
+that you've got what it takes to do that
+you just have to take it seriously and
+try that's it for you all Noah harar
+now I haven't read that much of his work
+I read sapiens a long time ago I thought
+it was okay I haven't read any of his
+other stuff when I saw he had a book
+tour for his latest book and a lot of
+his new topics were AI related I wanted
+to find his piece of work that was most
+relevant to Doom debates and I think
+this interview is probably it I suspect
+there's no other better interview where
+he talks more about Aid Doom I think we
+pretty much heard what his ideas are if
+I'm mistaken about that please let me
+know I'm happy to do a follow-up episode
+because I want to make sure I'm hitting
+his best arguments his most relevant
+arguments but assuming that it's nothing
+more than what we've heard well he
+didn't really engage with the idea of
+super intelligence he briefly alluded to
+it he said what if this is an amiba and
+in 20 or 30 years we're going to have
+like a dinosaur level right he tried to
+make an analogy like wow this is going
+to be much more powerful the same way
+that life got much more robust over time
+right multicellular organisms gained
+advantages over a single cellular Ms
+maybe something analogous can happen
+with AI okay but think about your own
+analogy and then compare it to the human
+brain what if the human brain is like
+the amiba and something is going to be
+like the dinosaur relative to that what
+does that mean why would you think that
+human infighting is the thing that's
+going to cause us harm when we have this
+dinosaur level AI right like a much
+bigger AI or a much stronger AI than the
+human brain why don't you think harder
+about what it means for something to be
+even more intelligent than the three
+pound piece of meat in our head is
+okay because I think you end up with a
+very different scenario a scenario that
+just smashes through every pattern that
+you as a historian think you're familiar
+with smash us through the idea that
+information is really connection smash
+us through the idea that humans are Our
+Own Worst Enemy No we're not Our Own
+Worst Enemy a super intelligent being
+that doesn't care about us as our worst
+enemy right so I I just feel like you've
+all is just not in that head space I
+don't think that he's really read that
+much elas rowski or he has read enough
+Nick Bostrom he's clearly read some Nick
+Bostrom like whatever it is he's
+unfortunately not engaging with the
+argument and he doesn't leave me with
+much to say the one thing that I can say
+in his favor is that within the narrow
+regime of like human level intelligence
+where the AI is not crazy super
+intelligent and not just instantly
+wiping off wiping us off the game board
+he makes a lot of sense when he's
+talking about oh social media is kind of
+unaligned or yeah people are going to
+get unemployed or like we don't know
+what we're doing with alignment right so
+so a lot of the points that he makes
+does make sense but he really needs to
+come back on the Doom train follow the
+logic and ride it further I hope he does
+I hope his next book is about that we'll
+see remember you can go watch me on Dr
+Phil just go to Doom debates.com you're
+going to get that pop up to type in your
+email please do because you don't want
+to miss the next exclusive content drop
+suback also has a like button that you
+can smack if you see any posts that you
+like your engagement in Social sharing
+is super helpful for the audience and
+helps our civilization bring our aame to
+the AI Doom question that's all for now
+I'll see you on the next episode of Doom
+debates
