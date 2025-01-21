@@ -2,7 +2,7 @@
 *.vtt
 
 # Ignore cookies.txt
-cookies.txt
+# cookies.txt
 
 # Ignore common temporary and backup files
 *.log

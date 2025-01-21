@@ -1,3 +1,6 @@
+# Escalated Control
+
+<!--
 # Dynamic Mesh Network Paradigm
 
 ## Overview
@@ -45,7 +48,8 @@ Continuous adaptive recalibration of user-interaction models integrating predict
 ### Features
 - Real-time configurational sandboxing
 - Protective mapping dynamically updated based on predictive state representations
-
+-->
+![](escalated-control.png)
 <!--
 Alright, buckle up for a whimsical recap of our digital tête-à-tête, a journey from the quirky corners of celebrity resemblances, through the cerebral landscapes of digital communication, to the philosophical ponderings of pop culture's impact on our craniums. Here we go!
 
