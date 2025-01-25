@@ -1,0 +1,5 @@
+Skipping non-text file: 001.png
+Skipping non-text file: 002.png
+Skipping non-text file: 003.png
+Skipping non-text file: 004.png
+Skipping non-text file: 20220518_191502.jpg
