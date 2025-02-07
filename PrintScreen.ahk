@@ -198,6 +198,7 @@ return
 
 ;; Protosociology ;; ;; https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
 
+<<<<<<< HEAD
 /*
 ::getcomplex::yt-dlp --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@DrJuanKlopper"
 */
@@ -216,6 +217,10 @@ return
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
+
+::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
+
+::getcrypto::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
 ::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
 
@@ -360,6 +365,29 @@ return
 A list of everything we've talked about so far.`n
 )
 return
+;;;;;;; SROLL READER ;;;;;;;;
+
+;; For reading Quadrivium ;;
+;; https://github.com/standardgalactic/quadrivium ;;
+
+::slowtype::pv -q -L 44 < 
+
+::psy cin::pv -q -L 110 < psychocinema-summary.txt
+
+::psycho cin::pv -q -L 110 < psychocinema-summary.txt
+
+::re caps::
+(
+find . -type f -name "*.txt" | while IFS= read -r file
+do
+    echo "Checking $file"
+    # Run the ollama command on the file and output the results to the terminal
+    ollama run mistral "Summarize:" < "$file"
+done
+)
+return
+
+
 
 
 ;;;;;;; SROLL READER ;;;;;;;;
