@@ -162,6 +162,8 @@ return
 
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
+::chec::ollama run vanilj/phi-4
+
 ::re call::
 (
 for file in *.txt; do
@@ -206,12 +208,42 @@ return
 
 ::onlytext::find . -type f ! -name '*.txt' -exec rm -f {} +
 
-::addtxt::for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done
+::addmhtml::
+(
+for file in *; do
+  if [[ -f "$file" && "$file" != *.txt && "$file" != *.* ]]; then
+    mv "$file" "$file.mhtml"
+  fi
+done`n
+)
+return
+
+
+::addtxt::
+(
+for file in *; do
+  if [[ -f "$file" && "$file" != *.txt && "$file" != *.* ]]; then
+    mv "$file" "$file.txt"
+  fi
+done`n
+)
+return
 
 ::addtext::
 (
 for dir in */; do
-  (cd "$dir" && for file in *; do [[ "$file" != *.txt ]] && mv "$file" "$file.txt"; done)
+  (cd "$dir" && for file in *; do
+    [[ "$file" != *.txt && "$file" != *.* ]] && mv "$file" "$file.txt"
+  done)
+done`n
+)
+return
+
+
+::notxt::
+(
+for file in *.txt; do
+    mv "$file" "${file%.txt}"
 done`n
 )
 return
@@ -220,15 +252,7 @@ return
 
 ::re cap::
 (
-output_file="overview.txt"
-: > "$output_file" # Clear the output file if it exists
-
-# Rename all non-txt files to have a .txt extension
-for file in *; do
-    if [[ "$file" != *.txt ]]; then
-        mv "$file" "$file.txt"
-    fi
-done
+output_file="project-overview.txt"
 
 # Summarize all txt files
 for file in *.txt; do
@@ -318,6 +342,7 @@ done`n
 )
 return
 
+::getmeta::ls -latrh *.mp3 > metadata.txt
 
 ;; open current directory
 
