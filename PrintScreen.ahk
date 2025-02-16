@@ -20,7 +20,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
 
-
 /*
 ::slowtype::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < 
 
@@ -252,7 +251,7 @@ return
 
 ::re cap::
 (
-output_file="project-overview.txt"
+output_file="overview.txt"
 
 # Summarize all txt files
 for file in *.txt; do
@@ -268,7 +267,7 @@ for file in *.txt; do
 
     echo "Checking $file" | tee -a "$output_file"
     echo "=== Summary for $file ===" | tee -a "$output_file"
-    ollama run vanilj/phi-4 "Summarize  in detail and explain:" < "$file" | tee -a "$output_file"
+    ollama run vanilj/phi-4 "Summarize in detail and explain:" < "$file" | tee -a "$output_file"
     echo -e "\n" | tee -a "$output_file" # Add a blank line between summaries
 done`n
 )
@@ -619,6 +618,10 @@ EOF`n
 )
 return
 
+;; Changed files ;;
+
+::whatnames::git diff --name-only HEAD~1 HEAD
+
 ::whatdiff::git diff --name-only main..volsorium
 
 ::whichl::cat /etc/os-release
@@ -877,6 +880,8 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 ::cropall::mogrify - crop 1080x1985+0+360 *.jpg
 
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
+
+::getghost::sudo apt update && sudo apt install ghostscript -y
 
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
 
@@ -1936,11 +1941,13 @@ Send, load-file " "
 Send, {Left 2}
 Return
 
+
 ;; bracket (bubble) ;;
 ^b::
 Send, ( )
 Send, {Left 2}
 Return
+
 
 ;; end clojure ;;
 
@@ -3015,6 +3022,35 @@ SetWorkingDir, %A_ScriptDir%  ;Set default directory to where this script file i
 LogFile := "MyLog.txt"
 FileAppend,    ``n, %LogFile%  ;     ````. (Note %% because it's expecting an unquoted string)
 )
+
+
+#Persistent
+#SingleInstance Force
+SetTitleMatchMode, 2
+
+F12:: ; Press F12 to trigger the script
+    Sleep, 200
+    SendInput, ^a ; Send Ctrl+A
+    Sleep, 100
+    SendInput, [  ; Enter tmux select mode
+    Sleep, 300
+    SendInput, {Up} ; Move to the last line (adjust if needed)
+    Sleep, 200
+    SendInput, {Space} ; Start selection
+    Sleep, 100
+    SendInput, {0} ; Move to beginning to select the full command
+    Sleep, 200
+    SendInput, {Enter} ; Copy selection
+    Sleep, 100
+    SendInput, ^a ; Send Ctrl+A
+    Sleep, 100
+    SendInput, ]  ; Exit select mode (optional)
+    Sleep, 100
+    SendInput, {Enter} ; Execute copied command
+return
+
+
+
 ;; Printscreen to random name ;;
 
 /*
