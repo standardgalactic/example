@@ -254,7 +254,8 @@ return
 output_file="overview.txt"
 
 # Summarize all txt files
-for file in *.txt; do
+
+for file in {*.vtt,*.txt}; do
     if [ "$file" == "$output_file" ]; then
         echo "Skipping output file: $file" >> "$output_file"
         continue # Skip the summaries file itself
@@ -355,6 +356,10 @@ return
 ;; https://github.com/standardgalactic/quadrivium ;;
 
 ::slowtype::pv -q -L 110 < 
+
+::slow c::for file in *critique.txt; do pv -q -L 80 < "$file"; done
+::slow s::for file in *sardonic.txt; do pv -q -L 80 < "$file"; done
+::slow o::for file in *overview.txt; do pv -q -L 80 < "$file"; done
 
 ::psy cin::pv -q -L 110 < psychocinema-summary.txt
 
