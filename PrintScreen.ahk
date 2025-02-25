@@ -198,7 +198,6 @@ return
 
 ;; Protosociology ;; ;; https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
 
-<<<<<<< HEAD
 /*
 ::getcomplex::yt-dlp --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@DrJuanKlopper"
 */
@@ -218,9 +217,11 @@ return
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
+::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
+
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
-::getcrypto::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
+::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
 ::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
 
@@ -229,6 +230,8 @@ return
 ;; --sub-lang "en*"
 
 ::gettrivium::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@52LivingIdeas  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::geteye::yt-dlp --cookies cookies.txt --no-overwrites  --write-sub --skip-download --yes-playlist "https://www.youtube.com/@eyeonai3425"
 
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -259,6 +262,8 @@ return
 
 ::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
 
+
+::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -365,6 +370,9 @@ return
 A list of everything we've talked about so far.`n
 )
 return
+
+::getcrypto::git checkout volsorium
+
 ;;;;;;; SROLL READER ;;;;;;;;
 
 ;; For reading Quadrivium ;;
