@@ -42,6 +42,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::getadvice::wget -r --no-parent https://books.danielhofstetter.com/
 
+::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
+
+;; Flashcards ;;
+::getflash::wget -r --no-parent https://community-courses.memrise.com/user/Flyxion/courses/teaching/
+
 ::appple::
 (
 Say "A sower went out to sow some seed: and as he sowed, some fell by the wayside; and it was trodden down, and the fowls of the air devoured it. And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture. And some fell among thorns; and the thorns sprang up with it, and choked it. And other fell on good ground, and sprang up, and bare fruit an hundredfold. 
@@ -191,15 +196,23 @@ return
 
 ;; Protosociology ;; ;; https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
 
+/*
+::getcomplex::yt-dlp --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@DrJuanKlopper"
+*/
+
+::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
-::getcrypto::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
+::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
 ::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
 
 ::getdoom::yt-dlp --sub-lang "en*" --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
 
+;; --sub-lang "en*"
+
+::geteye::yt-dlp --cookies cookies.txt --no-overwrites  --write-sub --skip-download --yes-playlist "https://www.youtube.com/@eyeonai3425"
 
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -226,7 +239,12 @@ return
 
 ::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
+::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
+
+
+::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getchannel::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@galactromeda  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -287,6 +305,7 @@ SC121::BS
 
 ::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
 
+
 ;; vim convert to unicode ;;
 
 :*:utff::set fileencoding=utf8
@@ -325,6 +344,9 @@ return
 A list of everything we've talked about so far.`n
 )
 return
+
+::getcrypto::git checkout volsorium
+
 ;;;;;;; SROLL READER ;;;;;;;;
 
 ;; For reading Quadrivium ;;
@@ -417,7 +439,8 @@ program = client.messages.create(
 return
 
 
-!S::Send, Summarize:
+;; !S::Send, Summarize:
+
 :*:afs::A final summary.`n
 :*:cbt::Connections between the topics.`n
 
@@ -1034,6 +1057,7 @@ xor_eq
 ::addme::adduser -m flyxion
 ::undome::userdel -r flyxion
 
+::re fresh::curl -X POST http://localhost:3000/reset -H "Content-Type: application/json" -d '{"email": "nateguimondart@gmail.com"}'
 
 :o:keyg::ssh-keygen -t rsa -b 4096 -C "standardgalactic@protonmail.com"
 
@@ -1875,6 +1899,11 @@ Return
 
 :o:neander::Neanderthal
 
+
+;; Transmogrify ;;
+
+::howmuch::find . -maxdepth 1 -type f -name "*.jpg" -exec du -ch {} + | grep total$
+
 ;; Github githubsh ;;
 
 ::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
@@ -2603,7 +2632,7 @@ Return
 :?:|x::×		; true times sign
 :?:|times::×
 ::divby::÷  ; division sign or obelus
-;; ::./.::÷    ; any conflicts? -- yes. can't do cd ../.. it does cd .÷.
+::///::÷    ; any conflicts? -- yes. can't do cd ../.. it does cd .÷.
 
 :?:|*::⋅		; "dot operator" (&sdot;), for multiplication, dot product
 
