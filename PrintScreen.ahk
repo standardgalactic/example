@@ -50,9 +50,13 @@ https://archive.org/details/so-big-1953
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
 
-=======
-=======
+::?txt::ls -1 *.txt | wc -l
+
 ::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
+
+;; how many overviews ;;
+
+::?count::ls -1 *-overview.txt 2>/dev/null | wc -l
 
 
 ;; Autohotkey shortcut - get subtitles
@@ -73,19 +77,17 @@ Return
 
 ::getsubs::
 (
-find . -maxdepth 1 -type d -exec sh -c '
-for dir in "$@"; do
-    cd "$dir" || exit
-    # Process files in each directory
+find . -maxdepth 1 \( -type d -o -type f \( -name "*.mp3" -o -name "*.m4a" -o -name "*.webm" \) \) -print0 | while IFS= read -r -d '' item; do
+  if [ -d "$item" ]; then
+    cd "$item" || continue
     for file in *.mp3 *.m4a *.webm; do
-        if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
-            whisper "$file" --language English
-        fi
+      [ -f "$file" ] && [ ! -f "${file%.*}.txt" ] && whisper "$file" --language English
     done
-    cd - >/dev/null  # Go back to the original directory and suppress output
-done
-' sh {} +
-`n
+    cd ..
+  elif [ -f "$item" ] && [ ! -f "${item%.*}.txt" ]; then
+    whisper "$item" --language English
+  fi
+done`n
 )
 return
 
@@ -364,6 +366,76 @@ return
 ::psy cin::pv -q -L 110 < psychocinema-summary.txt
 
 ::psycho cin::pv -q -L 110 < psychocinema-summary.txt
+::reel slow::
+SetKeyDelay, 50, 50 ; Increase delay for reliability
+originalLCID := DllCall("GetKeyboardLayout", "UInt", 0)
+englishLCID := 0x0409
+DllCall("LoadKeyboardLayout", "Str", Format("{:08x}", englishLCID), "Int", 1)
+
+SendInput, vim reel-slow.sh`n
+Sleep, 300
+SendInput, i ; Enter insert mode
+Sleep, 100
+SendInput, #
+Sleep, 50
+SendInput, !
+Sleep, 50
+SendInput, /bin/bash`n
+scriptContent =
+(
+# Initial speed`n
+speed=40`n
+`n
+# Function to update speed and direction`n
+update_speed() {`n
+  case "$1" in`n
+    up) ((speed += 20)) ;;`n
+    down) ((speed -= 20)) ;;`n
+    left) speed=-$speed ;;`n
+    right) speed=${speed#-} ;;`n
+  esac`n
+}`n
+`n
+# Trap key events`n
+trap 'update_speed up' SIGUSR1`n
+trap 'update_speed down' SIGUSR2`n
+trap 'update_speed left' SIGTERM`n
+trap 'update_speed right' SIGINT`n
+`n
+# Background process to read keys`n
+{`n
+  while true; do`n
+    read -n1 key`n
+    case "$key" in`n
+      A) kill -SIGUSR1 $$ ;; # Up arrow`n
+      B) kill -SIGUSR2 $$ ;; # Down arrow`n
+      D) kill -SIGTERM $$ ;; # Left arrow`n
+      C) kill -SIGINT $$ ;; # Right arrow`n
+    esac`n
+  done`n
+} &`n
+`n
+# Process the files`n
+for file in *sardonic.txt; do`n
+  while read -r line; do`n
+    pv -q -L "$speed" <<< "$line"`n
+  done < "$file"`n
+done`n
+`n
+# Wait for the background process to end`n
+wait
+)
+SendInput, %scriptContent%
+Sleep, 100
+SendInput, {Escape}
+Sleep, 100
+SendInput, :wq`n
+Sleep, 100 ; Add additional sleep before running the script.
+SendInput, ./reel-slow.sh`n
+
+DllCall("LoadKeyboardLayout", "Str", Format("{:08x}", originalLCID), "Int", 1)
+SetKeyDelay, 10, 10
+Return
 
 ::re caps::
 (
