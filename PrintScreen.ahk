@@ -1050,6 +1050,7 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 ::latest!::git checkout $(git describe --tags $(git rev-list --tags --max-count=1))
 
+/*
 ;; forth forthsh ;;
 
 :*:+0::0
@@ -1553,6 +1554,10 @@ return
 :*:@k::㉿ ;; sends a double tab in kali linux
 ::eqwals::====================================
 
+:*:gitt::cd ../OneDrive/Documents/GitHub/
+
+:*:sloooooooooo::pv -q -L 30 < overview.txt
+
 /*
 !k::Send,㉿ ;; sends a double tab in kali linux
 return
@@ -1568,7 +1573,7 @@ return
 ^k::Send, {Up}         ; Ctrl + K -> Up Arrow
 ^l::Send, {Right}      ; Ctrl + L -> Right Arrow
 ^;::Send, {Enter}      ; Ctrl + ; -> Enter
-
+ 
 ;------------------------------------------------------------------------------
 ; Alt + Home Row for Special Functions
 ;------------------------------------------------------------------------------
@@ -1578,9 +1583,18 @@ return
 !l::Send, {Space}      ; Alt + L -> Space
 
 
+;; run "vim bashrc" before and "sourcemy" afterward ;;
+
+::noemacs::
+(
+set -o vi
+export EDITOR=vim
+export VISUAL=vim
+)
+return
 
 ::emacs sucks::set -o vi
-::noemacs:::set -o vi
+
 ::no emacs::set -o vi
 ::vimplease::set -o vi
 ::vim please::set -o vi
