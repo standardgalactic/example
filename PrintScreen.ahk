@@ -217,6 +217,8 @@ return
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
+::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
+
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
@@ -371,7 +373,6 @@ A list of everything we've talked about so far.`n
 )
 return
 
-::getcrypto::git checkout volsorium
 
 ;;;;;;; SROLL READER ;;;;;;;;
 

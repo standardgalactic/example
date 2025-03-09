@@ -1,6 +1,5 @@
 # Escalated Control
 
-<<<<<<< HEAD
 ![Spinning cage](spinning-cage.gif)
 
 <!--
@@ -9,10 +8,8 @@
 =======
 =======
 <!--
->>>>>>> 340e86f (Fix Start Menu)
 # Dynamic Mesh Network Paradigm
 
->>>>>>> ce4d7ab (Dynamic Mesh Network)
 ## Overview
 An autonomously optimizing mesh topology designed to anticipate and allocate computational resources based on real-time node availability metrics.
 
