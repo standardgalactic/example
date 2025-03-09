@@ -42,6 +42,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::getadvice::wget -r --no-parent https://books.danielhofstetter.com/
 
+::getcrypto::wget -r --no-parent https://cryptocriticscorner.com/
+
 ::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
 
 ;; Flashcards ;;
@@ -200,6 +202,8 @@ return
 ::getcomplex::yt-dlp --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@DrJuanKlopper"
 */
 
+::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
+
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
@@ -345,7 +349,6 @@ A list of everything we've talked about so far.`n
 )
 return
 
-::getcrypto::git checkout volsorium
 
 ;;;;;;; SROLL READER ;;;;;;;;
 
@@ -1577,8 +1580,11 @@ Return
 ::musize::ffmpeg -i input.mp3 -vn -ab 32k studio-5.mp3
 
 ::mush::ffmpeg -i economy-of-algorithms.mp4 -b 800k atrahasis.mp4
-
+/*
 ::togif::ffmpeg -i clock-prototype.mkv -vf "fps=10,scale=320:-1:flags=lanczos" -ss 00:00:10 -to 00:00:20 dactyl-clock.gif
+*/
+
+::togif::ffmpeg -i spinning-cage.mkv -vf "fps=15,scale=480:-1:flags=lanczos" -ss 00:00:05 -to 00:00:25 spinning-cage.gif
 
 
 ::compressall::for file in *.mp3; do  ffmpeg -i "$file" -vn -ab 16k "${file%.mp3}-small.mp3"; done
@@ -2515,9 +2521,16 @@ Return
 ::ches::ssh good@192.168.2.123
 ::monke::ssh monkey@192.168.2.124
 
+;; start ssh server
+::strt::sudo service ssh restart
+
+;; start local workspace for html
+::srvr::python3 -m http.server 8000
+
+::locl::http://localhost:8000
 
 ;; start openssh server
-::startssh::sudo systemctl start ssh
+::startl::sudo systemctl start ssh
 
 ;;  Laptops
 

@@ -1,5 +1,7 @@
 # Escalated Control
 
+![Spinning cage](spinning-cage.gif)
+
 <!--
 # Dynamic Mesh Network Paradigm
 
