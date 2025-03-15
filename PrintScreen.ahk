@@ -202,6 +202,8 @@ return
 ::getcomplex::yt-dlp --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@DrJuanKlopper"
 */
 
+::getr::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/playlist?list=PLcKyTzEkOa-hFMouYj3EvBwNNahnFQBzs"
+
 ::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
 
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
@@ -216,7 +218,7 @@ return
 
 ;; --sub-lang "en*"
 
-::geteye::yt-dlp --cookies cookies.txt --no-overwrites  --write-sub --skip-download --yes-playlist "https://www.youtube.com/@eyeonai3425"
+::gettrivium::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@52LivingIdeas  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -240,8 +242,11 @@ return
 
 ;; https://www.youtube.com/@hume_ai
 
+::gett::yt-dlp -f best https://www.youtube.com/@trajectoryai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
+::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
+
 
 ::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -2082,7 +2087,11 @@ Return
 
 ::nomhtml:: python3 -m mhtmlconverter.cli.mhtml2html -i everlasting.mhtml -o everlasting-side-quests.html 
 
+/*
 ::makemovie::ffmpeg -framerate 4 -pattern_type glob -i "*.png" -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libx264 -pix_fmt yuv420p organic-soup.mp4
+*/
+
+::makemovie::ffmpeg -framerate 4 -pattern_type glob -i "*.png" -vf "scale='if(gt(iw/ih,1920/1080),1920,-2)':'if(gt(iw/ih,1920/1080),-2,1080)',pad=1920:1080:(ow-iw)/2:(oh-ih)/2,setsar=1" -c:v libx264 -pix_fmt yuv420p organic-soup.mp4
 
 ::addaudio::ffmpeg -i organic-soup.mp4 -i Pars-Tui-Mundi.mp3 -c:v copy -c:a aac -shortest oblicosm-paradox.mp4
 
