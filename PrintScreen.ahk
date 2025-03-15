@@ -204,6 +204,7 @@ return
 
 ::getr::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/playlist?list=PLcKyTzEkOa-hFMouYj3EvBwNNahnFQBzs"
 
+<<<<<<< HEAD
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
 
@@ -260,6 +261,7 @@ return
 ;; https://www.youtube.com/@hume_ai
 
 ::gett::yt-dlp -f best https://www.youtube.com/@trajectoryai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+<<<<<<< HEAD
 
 
 ::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
