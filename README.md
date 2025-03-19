@@ -73,7 +73,10 @@ What a ride, my friend! Ready for another loop around the conversational rollerc
 -->
 ![Neofetch](neofetch-plain-dark.png)
 <!--![Neofetch](neofetch-plain-gray.png)
+<<<<<<< HEAD
 >>>>>>> 853d555 (Dynamic Mesh Network)
+=======
+>>>>>>> 375b4dd76bb37ba94c73368108b5c3e1ebcf09ac
 ![Neofetch](neofetch-systada.png)
 ![Neofetch](neofetch-update-plain.png)
 

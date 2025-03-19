@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 b2dc52c HEAD@{0}: rebase (finish): returning to refs/heads/main
 b2dc52c HEAD@{1}: rebase (squash): 𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳
 f64f011 HEAD@{2}: rebase (squash): # This is a combination of 2 commits.
@@ -158,6 +159,8 @@ aabb6ed HEAD@{155}: pull: Fast-forward
 272301b HEAD@{156}: reset: moving to HEAD
 272301b HEAD@{157}: clone: from https://github.com/standardgalactic/example
 =======
+=======
+>>>>>>> 375b4dd76bb37ba94c73368108b5c3e1ebcf09ac
 82ddf3c HEAD@{0}: rebase (start): checkout HEAD~3
 85a600b HEAD@{1}: commit (merge): Reflog
 82ddf3c HEAD@{2}: rebase (continue) (finish): returning to refs/heads/main
@@ -374,4 +377,7 @@ d919046 HEAD@{210}: commit: Riemann Horn Torus
 c0f85bf HEAD@{213}: commit: Update title.
 13b8c8d HEAD@{214}: pull: Fast-forward
 434b2ff HEAD@{215}: clone: from https://github.com/standardgalactic/example
+<<<<<<< HEAD
 >>>>>>> 27fe1d1 (𝘚𝘪𝘮𝘱𝘭𝘦𝘤𝘵𝘰𝘮𝘺 𝘎𝘦𝘯𝘦𝘳𝘢𝘵𝘰𝘳)
+=======
+>>>>>>> 375b4dd76bb37ba94c73368108b5c3e1ebcf09ac
