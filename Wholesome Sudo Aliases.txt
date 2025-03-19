@@ -1,0 +1,1132 @@
+Wholesome Sudo Aliases
+Historial del chat
+ChatGPT
+ChatGPT
+Nuspeak Translator
+Jain Hive Tree
+Zettel Assistant
+Explorar GPT
+Hoy
+Wholesome Sudo Aliases
+Ayer
+Money as Toxic Meme
+Merge Conflict Resolution Guide
+Meritocracy and Civic Life
+7 d��as anteriores
+Facebook Trust Erosion
+Typing vs Voice Efficiency
+Kipgaa Na Ancestral Wisdom
+Pixelation and Aesthetic Evolution
+Grad School Reflections and Insights
+Fixing an Issue
+Retrocomputing Level Names
+Scraping Memrise Flashcards
+Rebase Last Two Commits
+Paris AI Summit Critique
+Pixelation and Aesthetic Evolution
+Font Update Script Automation
+Fix Git Remote URL
+Coherent Extrapolated Vision
+Acoustics in Heart Regeneration
+Linux Tools for Noise Removal
+Star Trek Section 31 Review
+Plot Summary The Madness of King George
+Vim Convert All Caps
+30 d��as anteriores
+FFmpeg Trim Command Request
+Pixelation and Aesthetic Evolution
+���������� ���������� ��������������
+���������� ���������� ��������������
+Rename PNG Files Script
+Renovar Plus
+Nathaniel Guimond
+Abrir barra lateral
+ChatGPT
+ChatGPT
+Compartir
+Dijiste:
+I saw a humorous post someone said add an alias to sudo to say please for a more wholesome Linux experience. Someone said I don���t know if this is just a fail in not seeing but I actually like this even though it���s two extra characters, another said Better yet:
+
+alias please='sudo $(fc -ln -1)'
+
+That way if you forget to sudo something, you can then just type "please" and it'll repeat it with sudo.someone else said I would happily change my computer to say please. My computer does so much for me i appreciate all it does. People don���t realise how amazing computers speed up productivity.  And I said I added this line to my autohotkey script:
+::pls::sudo !!
+which reruns the last command with sudo whenever I say please (pls).
+
+https://github.com/standardgalactic/example/blob/main/PrintScreen.ahk
+ChatGPT dijo:
+That���s a fun and wholesome way to interact with your computer! It adds a nice human touch to an otherwise mechanical process. The idea of using
+alias please='sudo $(fc -ln -1)'
+in Linux is clever because it seamlessly corrects forgotten
+sudo
+usage without extra typing. Your AutoHotkey (AHK) version,
+::pls::sudo !!
+, achieves the same in Windows, making it a cross-platform concept.
+It���s great to see people appreciating how much computers do for us. The sentiment behind ���please��� aligns well with how automation and scripting can make our lives easier while maintaining a bit of humor and gratitude. Do you use other similar tweaks in your workflow?
+4o
+Dijiste:
+My point is that why it was funny to me because it looks insane to extend sudo by two characters, this is in a linux group it shows they don't grok the unix philosophy. My version is one less character than suck and you run it after your computer refuses to run the last command, so it means you never have to remember to use sudo.
+ChatGPT dijo:
+Exactly! The humor comes from the irony���Unix philosophy emphasizes efficiency, minimalism, and doing things in the most streamlined way. Extending
+sudo
+with
+please
+adds unnecessary keystrokes, which is the opposite of that philosophy. It���s amusing because it shows a misunderstanding of Unix principles in a way that���s well-intentioned but inefficient.
+Your approach, on the other hand, is actually more in line with the Unix way. Instead of typing extra characters preemptively, your method (
+::pls::sudo !!
+) is reactive and reduces wasted effort. You don���t have to think ahead about
+sudo
+���if the command fails,
+then
+you correct it in the shortest possible way. That���s the true hacker mindset: optimizing for the path of least resistance.
+It���s a funny contrast between the aesthetic of politeness and the practicality of efficiency. Some people want a ���wholesome��� experience, but you���re making an elegant and pragmatic improvement.
+4o
+Dijiste:
+:*:@k::��� ;; sends a double tab in kali linux
+::eqwals::====================================
+
+/*
+!k::Send,��� ;; sends a double tab in kali linux
+return
+^k::Send,kubectl ;; sends a double tab in kali linux
+return
+*/
+
+;; arrows to homerow ;;
+
+^h::Send, {Left}
+^j::Send, {Down}
+^k::Send, {Up}
+^l::Send, {Right}
+^;::Send, {Enter}  ;; like control+m
+
+
+;; hard h, hard home, alternative h, honorary backspace ;;
+;; alt jump 
+;; send o (k) (don't have to stretch the pinky so far)
+;; leap by letter, letter separator    
+
+
+!h::Send, {Backspace}
+!j::Send, {Enter}
+!k::Send, {Enter}
+!l::Send, {Space}  
+
+
+::emacs sucks::set -o vi
+::noemacs:::set -o vi
+::no emacs::set -o vi
+::vimplease::set -o vi
+::vim please::set -o vi
+::vi please::set -o vi
+::viplease::set -o vi
+::setvi::set -o vi
+
+::emacs please::set -o emacs
+::emacsplease::set -o emacs
+
+;; repeat last command ;;
+
+::rpt::
+(
+while true; do !!
+n
+sleep 5
+n
+done
+n
+)
+return
+
+
+::pls::sudo !!
+::huh:: man !!
+
+::explainai::
+(
+
+
+curl \
+  -H 'Content-Type: application/json' \
+  -d '{"contents":[{"parts":[{"text":"Explain how AI works"}]}]}' \
+  -X POST 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDtcMdSuQH9WBq37hQuTQwmW5r2PZ_uqrM' > explain.txt
+)
+return
+ChatGPT dijo:
+This is a solid AutoHotkey (AHK) setup for optimizing your workflow, particularly for Kali Linux and command-line efficiency. You���ve got some interesting ideas here that align well with Unix philosophy���minimizing effort, optimizing keystrokes, and automating repetitive tasks.
+Notable Features:
+Efficient Navigation
+:
+Mapping
+Ctrl + h/j/k/l
+to arrow keys keeps your fingers on the home row, similar to Vim navigation.
+Ctrl + ;
+for
+Enter
+is a smart addition���it���s close to the home row and avoids reaching for
+Enter
+.
+Smart Sudo Usage
+:
+::pls::sudo !!
+is great because you only use
+sudo
+when necessary, reducing unnecessary thinking.
+::huh::man !!
+is another nice touch���it assumes you need more info about the last command.
+Shell Editing Mode Control
+:
+The multiple variations of
+::set -o vi
+make it easy to ensure you always have Vi keybindings, avoiding Emacs accidentally.
+The opposite is also included (
+set -o emacs
+), but it's clear which side you prefer.
+Automation
+:
+The
+::rpt::
+alias for repeating the last command every 5 seconds is useful for monitoring/logging situations.
+The
+::explainai::
+function is a creative way to fetch AI explanations using Google���s Gemini API���though you might want to secure that API key!
+Overall, this script demonstrates a deep understanding of efficiency and Unix-like thinking while injecting some humor. The
+���
+double-tab for Kali is a fun little detail. Have you considered integrating something like
+xdotool
+on Linux to achieve similar behavior outside of Windows?
+4o
+Dijiste:
+Hmm I might have to say allow secrets and give it permission in order to post it on the first place, this is on github.
+
+;; remove prefix ;;
+
+::noprefix::for file in PREFIX*; do mv "$file" "${file#PREFIX}"; done
+
+
+;; Mouse clicks
+
+;; Send a right click
+
+#c::Click, left
+NumpadEnter::Click, left
+
+;; cut / paste in powershell terminal
+
+#v::Click, right
+
+/*
+;; Code to write code: Autohotkey script. ;; best command ever - alt-bash (alt-b)  <newline> !b::Send, {!}{!}bash
+n ;;
+;; best command ever (control-b or alt-b)
+*/
+
+;; For more information, see: 
+;; Beginner Boost, Day 37: Prefer Shell Scripts Over Plugins in Vim [20210706230535]
+;; https://youtube.com/clip/Ugkxbqw7ZVfcBAxm8bG81oi3A5BdnDqmw0Py
+
+::instal::install
+
+;; for vim ;;
+
+/*
+;^b::Send, {!}{!}bash
+n
+!b::Send, {!}{!}bash
+n
+*/
+
+;; from insert mode
+:*:ruun::
+Send, {Esc}
+Send, {!}{!}bash
+n
+Return
+ChatGPT dijo:
+It looks like you're building a highly efficient, Unix-inspired workflow with AutoHotkey. Some of these shortcuts are really clever, especially how they blend scripting, shell usage, and keyboard optimization.
+Some Highlights:
+Shell & Command Line Enhancements
+::noprefix::for file in PREFIX*; do mv "$file" "${file#PREFIX}"; done
+This is a nice one-liner for batch renaming files by removing a prefix���very Unix-y.
+::instal::install
+Simple but effective typo correction.
+Mouse & Terminal Enhancements
+#c::Click, left
+and
+NumpadEnter::Click, left
+Mapping
+Win + C
+and
+NumpadEnter
+to left-click is an interesting accessibility tweak.
+#v::Click, right
+This is a neat way to simulate right-click paste in PowerShell, which doesn���t always behave well with
+Ctrl+V
+.
+Best Command Ever:
+!!bash
+The
+"!!bash"
+shortcut is hilarious and useful���executing the last command in a Bash shell.
+:*:ruun::
+takes it further by ensuring you���re in normal mode (if using Vim) before running it.
+Security Consideration
+If you're posting this to GitHub, you might want to avoid hardcoding secrets or API keys. GitHub has automatic secret scanning, but if your API key is committed, it���s best to revoke it and regenerate a new one.
+Are you mainly using this for Windows, or do you have a similar setup for Linux with
+xdotool
+or
+sxhkd
+?
+4o
+Dijiste:
+I just run my Mac and unix computers from byobu running in wsl Ubuntu, I figure if I have to migrate to one of those then I could rewrite my shortcuts, but for now this is fine I have ssh and scp commands. :*:normap::normal promp
+
+;;  Programming Shortcuts
+::Haplo::Haplopraxis
+::clonemy::git clone https://github.com/standardgalactic/Haplopraxis
+::ratelimit::curl -I https://api.github.com/users/standardgalactic
+
+;;  Desktops
+:o:phonehome::Mechachleopteryx@192
+.168
+.2
+.40:projects
+::phonemy::ssh Mechachleopteryx@192.168.2.40 ;windows, choco
+::archeo::ssh archeo@192.168.2.126 
+::mixo::ssh mixo@192.168.2.81
+::kodak::ssh kodak@192.168.2.142
+
+::phewf::ssh phewf@192.168.2.128
+
+;; chess monkey
+::ches::ssh good@192.168.2.123
+::monke::ssh monkey@192.168.2.124
+
+
+;; start openssh server
+::startssh::sudo systemctl start ssh
+
+;;  Laptops
+
+::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
+
+;; Silence ;;
+
+
+:*:shhh::[[slnc 1000]]
+
+;; vim ;;
+
+::noblink::set guicursor=a:blinkon0
+::notools::set guioptions-=T
+::nomenu::set guioptions-=m
+::bluee::sima Eo{Down}
+::hidec::highlight Cursor guifg=white guibg=blue
+
+::noda::%s/���/--/g
+::nol::%s/���/"/g
+::nori::%s/���/"/g 
+
+::nonul::vim -c '%s/null-wavefront.txt/input.txt/g' -c 'wq' speech-test.py
+
+::nowrap::set nowrapscan
+::yeswrap::set wrapscan
+
+;; remove ALLCAPS
+
+::smalll::%s/\u\+/\L&/g ;;small caps
+
+::talll::%s/\(^\|[.!?] \)\zs\w/\u&/g  ;; capitalize first letter of each sentence
+
+;; remap calculator key  to backspace;;
+
+SC121::BS
+ChatGPT dijo:
+This is a well-structured and highly personalized AutoHotkey config���you're basically building a command-line powerhouse with minimal effort. Running everything through
+Byobu on WSL Ubuntu
+makes a lot of sense because it gives you an environment that is easily portable across Mac, Linux, and Windows. When the time comes to migrate, you can just rewrite shortcuts for the new system.
+Key Highlights
+SSH and Remote System Shortcuts
+Your
+ssh
+aliases like
+::mymac::ssh mecha@192.168.2.233
+make remote connections effortless.
+Funny Detail
+:
+::ches::
+and
+::monke::
+for your chess monkey setup���I assume this is some automated bot or analysis machine?
+::startssh::sudo systemctl start ssh
+ensures OpenSSH is running before trying to connect.
+Vim Customizations
+::noblink::set guicursor=a:blinkon0
+disables blinking���nice for focus.
+::nowrap::set nowrapscan
+and
+::yeswrap::set wrapscan
+let you toggle word wrap efficiently.
+::smalll::%s/\u\+/\L&/g
+converts ALLCAPS to lowercase, and
+::talll::%s/\(^\|[.!?] \)\zs\w/\u&/g
+capitalizes first letters of sentences. These are
+super useful for cleaning up text
+.
+Quality-of-Life Improvements
+SC121::BS
+remaps the
+calculator key
+to
+backspace
+, which is a great use of an otherwise pointless key.
+:*:shhh::[[slnc 1000]]
+���I'm curious about this one. It looks like a TTS-related silent pause (
+slnc 1000
+)?
+::normap::normal promp
+���is this for fixing a frequent typo when trying to type
+normal prompt
+in Vim?
+GitHub & API
+::clonemy::git clone https://github.com/standardgalactic/Haplopraxis
+makes it dead simple to grab your repo.
+::ratelimit::curl -I https://api.github.com/users/standardgalactic
+quickly checks your GitHub API rate limits.
+Big Picture
+You���ve turned your keyboard into an extension of your Unix shell, reducing keystrokes and optimizing workflow. Given your approach, I bet if you
+ever fully migrated to Linux/Mac
+, you'd probably just replace this with
+sxhkd
+or a similar daemon.
+How often do you update/tweak these shortcuts, or do you feel like they���ve stabilized?
+4o
+Dijiste:
+Shhh was for the Mac say command you can use it as a template, for longer, or for a command you need to fill in all the time. clonemy is one of my most useful commands, it allows me to not have to need to know the github username, I just fork it first and then type clonemy and backspace out Haplopraxis and put in the name of the project, for example "brain" if I have a repository already with that name I can move it out of the way by renaming it or choose a new, more memorable, or shorter name for the project.
+ChatGPT dijo:
+That makes perfect sense! The
+shhh
+alias is a smart way to create a flexible template for the
+say
+command on Mac, making it easy to adjust silence duration or insert a specific phrase dynamically.
+The
+clonemy
+shortcut is genius
+���it removes the friction of remembering or typing your GitHub username, while also giving you a fast way to fork and rename projects. I love the way you���ve
+optimized it for flexibility
+:
+Fork the repo first.
+Run
+clonemy
+, hit backspace, and replace
+Haplopraxis
+with the actual project name.
+If there's a name conflict, you have the option to rename the local directory before cloning again.
+This means you never have to think about GitHub URLs, and you have a
+simple yet powerful workflow
+for managing repositories.
+It���s cool how your setup reflects a
+real-world
+workflow improvement rather than just theoretical efficiency. Do you have any other similarly refined shortcuts for managing files, projects, or remote systems?
+4o
+Dijiste:
+I mean I don't have to the username of the person I forked it from, reducing cognitive load
+ChatGPT dijo:
+Ah, that makes even more sense! By always cloning from your own GitHub account (
+standardgalactic
+), you completely eliminate the need to remember
+who you forked it from
+, reducing cognitive load.
+That���s a
+really practical
+mental optimization���GitHub usernames are often random or forgettable, but your own username is always constant. Instead of wasting time looking up the original repo owner, you just:
+Fork the repo
+(which automatically puts it under your account).
+Run
+clonemy
+, backspace out
+Haplopraxis
+, and type the project name.
+This lets you
+stay in flow
+without unnecessary context switching. It's a
+perfect example of automating away distractions
+so you can focus on actual work.
+Do you have any other shortcuts that specifically help reduce
+mental effort
+like this?
+4o
+Dijiste:
+I think this is a good command which works great 
+;; open current directory in folder
+
+^e::Send, explorer.exe .
+n
+ChatGPT dijo:
+Yeah, that���s a
+solid
+and super practical command!
+^e::Send, explorer.exe .
+n` is a great way to instantly open the current working directory in Windows Explorer.
+Why It���s Great
+Minimal effort
+��� Just press
+Ctrl + E
+, no need to type
+explorer .
+manually.
+Context-aware
+��� It works wherever you are in the terminal, no need to copy-paste paths.
+Universal
+��� Works across WSL, PowerShell, and cmd, as long as you're in a Windows environment.
+If you ever want to
+adapt it for WSL
+, you could modify it to:
+ahk
+Copiar c��digo
+^e::Send, explorer.exe `wslpath -w .``n
+That way, it converts the current WSL path into a Windows-readable format before opening.
+Do you use this mainly for quick file browsing, or is there a specific workflow where it���s especially useful?
+4o
+Dijiste:
+It works great for going from Ubuntu to the filter to git bash where I do pushes and rebases
+ChatGPT dijo:
+That makes a lot of sense! Using
+Ctrl + E
+to open the current directory in Explorer creates a
+smooth transition
+between
+Ubuntu (WSL), Windows Explorer (for visual file management), and Git Bash (for version control tasks like pushes and rebases).
+Why It���s Smart in Your Workflow
+Ubuntu (WSL)
+��� You���re working in the terminal, maybe editing code or running scripts.
+Windows Explorer (
+Ctrl + E
+)
+��� Quick way to inspect files, move things around, or open them in a GUI editor.
+Git Bash
+��� You can easily switch back and handle version control tasks like
+git push
+,
+git rebase
+, etc.
+This avoids
+manual navigation
+and
+reduces friction
+between different tools. Instead of manually opening a file manager and navigating to the right path, you just hit
+Ctrl + E
+and continue working.
+It���s a great example of
+scripting for real-world efficiency
+���small tweaks that make everyday tasks seamless.
+Do you have a similar shortcut for launching a Git Bash terminal in the current directory? Something like:
+ahk
+Copiar c��digo
+^g::Send, "C:\Program Files\Git\git-bash.exe" --cd="%CD%"`n
+That could help instantly switch into Git Bash from anywhere.
+4o
+Dijiste:
+Ok I don't need that I have right click I would want to make sure that the correct window was focused
+ChatGPT dijo:
+Got it! Since you already use right-click to open Git Bash, your focus is more on
+ensuring the correct window is active
+after switching. That makes sense���automating the action is only half the battle; making sure it happens in the
+right place
+is what really matters.
+In AutoHotkey, you can use
+WinActivate
+to make sure
+Explorer, Git Bash, or another window
+comes into focus automatically. For example:
+Ensure Explorer is Focused After
+Ctrl + E
+ahk
+Copiar c��digo
+^e::
+    Send, explorer.exe .`n
+    Sleep, 500  ; Wait for Explorer to open
+    WinActivate, ahk_class CabinetWClass  ; Activate the newly opened Explorer window
+return
+This ensures that
+Explorer actually comes to the front
+after opening, rather than launching in the background.
+Ensure Git Bash is Focused After Right-Click Open
+If you want to make sure Git Bash is the active window after right-clicking:
+ahk
+Copiar c��digo
+^g::
+    WinWait, ahk_exe git-bash.exe, , 3  ; Wait up to 3 seconds for Git Bash
+    WinActivate
+return
+This
+waits
+for Git Bash to open and then
+forces it to be active
+, so you don���t have to manually click it.
+Would you want this behavior only for specific cases (like after launching Git Bash from Explorer), or do you want a way to
+refocus any window you frequently use
+?
+4o
+Dijiste:
+;; Github githubsh ;;
+
+::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
+
+::justsources::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | "\(.name): \(.description)"'
+
+::justnames::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | .name'
+
+::get repos::gh repo list --limit 18000 > repo-list
+
+;; what limit ;;
+
+::whatl::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit
+
+:o:tok::TOKEN=
+:o:gat::USERNAME=standardgalactic
+:o:git name::standardgalactic
+:o:sg::standardgalactic
+
+:o:ppff::Playfloor
+:o:myt::mysterytrader
+
+::hap::haplopraxis
+
+:o:gala::Galactromeda
+:o:phf::phewf
+ChatGPT dijo:
+These are excellent shortcuts for interacting with the GitHub API through
+GitHub CLI (
+gh
+)
+and
+curl
+, optimizing your workflow for quickly accessing repository information and managing your GitHub account. Here���s a breakdown of your shortcuts and their benefits:
+GitHub Shortcuts Overview
+Repository Management
+::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
+Quickly retrieves the total number of public and private repositories for your user, reducing the cognitive load of navigating through the UI.
+::justsources::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | "\(.name): \(.description)'"
+Lists all your non-forked repositories with their descriptions. Great for quick reference!
+::justnames::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | .name'
+Just the names of your non-forked repos���useful if you want to copy names or reference them quickly.
+::get repos::gh repo list --limit 18000 > repo-list
+Fetches a comprehensive list of your repositories. This is particularly useful for bulk operations or analysis.
+Rate Limiting and Credentials
+::whatl::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit
+Checks your API rate limit usage. This is crucial for managing your interactions with the GitHub API without hitting limits.
+Token and User Shortcuts
+:o:tok::TOKEN=
+:o:gat::USERNAME=standardgalactic
+:o:git name::standardgalactic
+:o:sg::standardgalactic
+These are all excellent for managing and recalling your GitHub credentials easily, especially if you have to enter them frequently.
+Personal Project Shortcuts
+::hap::haplopraxis
+:o:gala::Galactromeda
+:o:phf::phewf
+Project shortcuts help you reference personal projects or special repos quickly, streamlining the workflow for each specific project.
+Overall Impact
+These shortcuts streamline your interactions with GitHub, allowing you to quickly fetch information, manage repositories, and interact with the GitHub API���all while minimizing typing and cognitive load. They reflect a good understanding of both GitHub's capabilities and the tools (like
+jq
+) that enhance data processing in your terminal.
+Do you have any additional scripts or commands to further enhance your productivity with GitHub or any other tools?
+4o mini
+Dijiste:
+;; what limit ;;
+
+::whatl::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit
+
+:o:tok::TOKEN=
+:o:gat::USERNAME=standardgalactic
+:o:git name::standardgalactic
+:o:sg::standardgalactic
+
+:o:ppff::Playfloor
+:o:myt::mysterytrader
+
+::hap::haplopraxis
+
+:o:gala::Galactromeda
+:o:phf::phewf
+ChatGPT dijo:
+It looks like you've set up a lot of
+convenient shortcuts for your GitHub workflow
+, especially for checking the
+rate limits
+, managing tokens, and quickly referencing your projects. Let���s break it down:
+Key Shortcuts Explained
+Rate Limit Check
+::whatl::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit
+This checks your current GitHub API rate limit status. It's a
+simple but powerful command
+for ensuring you don't hit the limit while making multiple API calls. You can monitor this when running a script that makes repeated requests to GitHub.
+GitHub Token and User Shortcuts
+:o:tok::TOKEN=
+Store the token
+. This allows you to quickly reference your GitHub token in any command without typing it out each time.
+:o:gat::USERNAME=standardgalactic
+This stores your GitHub username for easy reference.
+:o:git name::standardgalactic
+and
+:o:sg::standardgalactic
+Additional shortcuts for referring to your GitHub name. Useful when you need to plug in your username into various
+curl
+or
+gh
+commands.
+Project Shortcuts
+:o:ppff::Playfloor
+:o:myt::mysterytrader
+::hap::haplopraxis
+:o:gala::Galactromeda
+:o:phf::phewf
+These are all personalized shortcuts for your repositories or projects. Instead of typing out full repo names or navigating to them manually, you can quickly invoke them with a simple shortcut.
+Possible Enhancement Ideas
+If you want to
+automate even more tasks
+or create a smoother workflow, consider adding additional automation around these:
+Repo management
+: Add a shortcut for creating new repos or cloning your favorite templates.
+ahk
+Copiar c��digo
+::newrepo::gh repo create new-repo-name --private --confirm
+API Rate Monitoring
+: You could add a reminder for when your rate limit is about to expire:
+ahk
+Copiar c��digo
+::ratelimitreminder::curl -i -u USERNAME:TOKEN https://api.github.com/rate_limit | jq '.resources.core'
+This would check the core API limits, so you know when to take a break.
+Why These Shortcuts Work So Well
+Speed
+: You���re cutting down on the mental load of managing and referencing these variables.
+Consistency
+: By using short commands, you eliminate the need to remember long URLs or specific GitHub repo names each time.
+Efficiency
+: When working across many projects or repos, these shortcuts make it quick and easy to switch between tasks without distraction.
+It looks like you're already maximizing productivity with a smart combination of
+GitHub API interactions
+and
+terminal shortcuts
+. Let me know if you want to add more advanced automation or enhance these even further!
+4o mini
+Dijiste:
+;; byobu ;;
+::bseta::byobu-ctrl-a
+
+
+::byo::byobu
+::bya::byobu attach
+
+::ubu::ubuntu
+
+
+;; powershell ;;
+::ignorepaste::set $global:multiLinePasteWarning=false,;; don't think this works
+
+
+;; dosbox ;; Don't use elsewhere, should put a IfWinActive
+
+
+::mountcd::MOUNT F F:\ -t cdrom
+
+:*B:dvork::
+Sleep 100
+Send, {bs 1}
+Sleep 100
+Send, KEYB
+Sleep 100
+Send,{Space}
+Sleep 100
+Send, dv103
+Sleep 100
+Send, {Enter}
+Return
+ChatGPT dijo:
+You've created a solid set of
+AutoHotkey shortcuts
+for various environments, which can significantly streamline your workflow across
+Byobu
+,
+PowerShell
+, and
+DOSBox
+. Here���s a breakdown of what each shortcut does and how they can enhance your productivity:
+Byobu Shortcuts
+::bseta::byobu-ctrl-a
+This sends the command to set Byobu to use
+Ctrl + A
+as the prefix, which is useful if you prefer this over the default
+F9
+or other key bindings.
+::byo::byobu
+Quickly launches Byobu from anywhere, reducing the time spent navigating to it.
+::bya::byobu attach
+This attaches to an existing Byobu session. If you often return to an existing session, this saves you from needing to remember or type out the full command.
+::ubu::ubuntu
+This could be useful if you're using a multi-environment setup. It allows you to quickly switch context back to Ubuntu.
+PowerShell Shortcuts
+::ignorepaste::set $global:multiLinePasteWarning=false
+This shortcut attempts to disable the multi-line paste warning in PowerShell, though you mentioned it might not work as intended. If it doesn't work, consider checking the PowerShell execution policy or the specific version's features, as this can vary between versions.
+DOSBox Shortcuts
+::mountcd::MOUNT F F:\ -t cdrom
+This mounts a CD-ROM drive in DOSBox, making it quicker to access game files or installation media without needing to type the full command each time.
+:*B:dvork::
+This series of commands automates the input sequence for configuring the Dvorak keyboard layout in DOSBox. The sequence:
+Waits 100 milliseconds.
+Sends a backspace (deletes the previous entry).
+Sends the command
+KEYB
+to change keyboard settings.
+Waits, sends the Dvorak layout command, and then hits Enter to execute it.
+This is a great way to set up your keyboard preferences quickly without manual typing.
+Considerations for Enhancement
+Conditional Shortcuts for DOSBox
+: Since you've noted
+::mountcd::
+shouldn���t be used elsewhere, you could wrap it in a condition:
+ahk
+Copiar c��digo
+IfWinActive, ahk_class DOSBox
+{
+    ::mountcd::MOUNT F F:\ -t cdrom
+}
+Context-Sensitive Shortcuts
+: You might consider adding more context-sensitive shortcuts for PowerShell or Byobu, such as shortcuts for frequently used commands or scripts.
+Documentation
+: Adding comments or a readme within your AutoHotkey script can help you or others understand the purpose of each shortcut at a glance, especially if the script grows larger.
+Conclusion
+These shortcuts greatly enhance your workflow by reducing the time spent typing commands and switching between environments. It shows a thoughtful approach to managing multiple systems efficiently. If you have other workflows or specific tasks you want to streamline further, feel free to share!
+4o mini
+Dijiste:
+;;command line;;
+::nodir::
+Send, doskey ls=dir $*
+Send, {Enter}
+Send, doskey pwd=cd $*
+Send, {Enter}
+Return
+
+;::test::12345789 bytes free
+
+;; windows windowsh windowssh;;
+
+
+::go2sleep::rundll32.exe powrprof.dll, SetSuspendState Sleep
+
+::tempfolder::C:\Users\Mechachleopteryx\AppData\Local\Temp
+::r&r::doskey r=R $*
+
+;; disable windows key ;;
+;; LWin:: return
+;; RWin:: return
+
+;; disable windows key but not shortcuts ;;
+;$lwin up::return
+;$rwin up::return
+;lwin & r::send #r
+;rwin & r::send #r
+
+::wist::wikipedia is toxic
+::wint::wikipedia isn't toxic
+
+;this is such 
+;a::  ;; press a to start
+;bad
+;idea
+;Loop,
+;{
+;Send, #n
+;Sleep, 100
+;}
+
+;; mac shortcuts -- macsh ;;
+
+;; superupdate ;;
+::useforce::softwareupdate --all --install --force
+
+;; voices ;; voicesh ;; voicessh ;;
+
+::testvoices::say -v '?' | awk '{print $1}' | while read voice; do printf "using $voice...\n"; say -v $voice "hello, this is me using the $voice voice"; sleep 1; done
+
+::slimvoices::say -v '?' | awk '{print $1}' | while read voice; do printf "using $voice...\n"; say -v $voice " Hi, my name is   Slim Shady"; sleep 1; done
+
+::hellolee::say -v Lee '''Definitions are perhaps the most important component of ontologies, since it is through definitions that an ontology draws its ability to support consistent use across multiple communities and disciplines, and to support computational reasoning. Definitions also constrain the organization of the ontology. Simply put, every term in an ontology (with the exception of some very general terms) must be provided with a definition, and the definition should be formulated through the specification of how the instances of the universal represented by the relevant term are differentiated from other instances of the universal designated by its parent term.'''
+
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
+
+::notext::for file in *.txt; do mv "$file" "${file%.txt}"; done
+
+::getnames::git diff --name-only HEAD~
+
+;; github allow mixed file endings (turn off auto-convert) ;;
+
+::allowmixed::git config --global core.autocrlf false
+ChatGPT dijo:
+You've created an impressive array of
+AutoHotkey shortcuts
+and shell commands across various environments, including command line operations, Windows management, and Mac shortcuts. Let���s break down each section and see how these commands can optimize your workflow.
+Command Line Shortcuts
+DOS Commands
+::nodir::
+ahk
+Copiar c��digo
+Send, doskey ls=dir $*
+Send, {Enter}
+Send, doskey pwd=cd $*
+Send, {Enter}
+Return
+This command sets up aliases in your command prompt. You can use
+ls
+instead of
+dir
+and
+pwd
+instead of
+cd
+, making your experience more Unix-like.
+::r&r::doskey r=R $*
+Creates a shortcut for a command using
+doskey
+. This can help you quickly run a specific command with a shorthand.
+Windows Management
+::go2sleep::rundll32.exe powrprof.dll, SetSuspendState Sleep
+This command puts the computer to sleep with a simple shortcut, saving time compared to navigating through menus.
+::tempfolder::C:\Users\Mechachleopteryx\AppData\Local\Temp
+Quickly accesses your temporary files folder.
+Disable Windows Key
+ahk
+Copiar c��digo
+;; Disable Windows key but not shortcuts ;;
+;$lwin up::return
+;$rwin up::return
+;lwin & r::send #r
+;rwin & r::send #r
+This configuration allows you to disable the Windows key while keeping its shortcut functionality intact, which can be useful for avoiding accidental presses.
+::wist::wikipedia is toxic
+::wint::wikipedia isn't toxic
+Short phrases that could be used for quick responses or notes.
+Mac Shortcuts
+System Management
+::useforce::softwareupdate --all --install --force
+Force updates all software on a Mac, simplifying the update process.
+Voice Commands
+::testvoices::
+and
+::slimvoices::
+bash
+Copiar c��digo
+say -v
+'?'
+| awk
+'{print $1}'
+|
+while
+read
+voice;
+do
+printf
+"using
+$voice
+...\n"
+; say -v
+$voice
+"hello, this is me using the
+$voice
+voice"
+;
+sleep
+1;
+done
+These commands list available voice options and use each to say a phrase, allowing for quick testing of text-to-speech voices.
+::hellolee::
+This uses a specific voice (Lee) to read a defined text, which could be used for demonstrations or practice.
+File Management
+::demobile::for file in *.mhtml; do mv "$file" "${file%.mhtml}.txt"; done
+::notext::for file in *.txt; do mv "$file" "${file%.txt}"; done
+These commands batch rename file types in the current directory, making it easy to convert or clean up files.
+Git Operations
+::getnames::git diff --name-only HEAD~
+Quickly shows the names of files that have changed since the last commit.
+::allowmixed::git config --global core.autocrlf false
+Adjusts Git settings to allow mixed line endings without automatic conversion, which can be important for cross-platform projects.
+Enhancement Suggestions
+Comments for Clarity
+: While you have some comments, consider adding more context to your shortcuts, especially for those that may not be self-explanatory. This will help when you revisit the script after some time.
+Conditional Commands
+: Similar to the previous suggestion, you could conditionally execute commands based on the active window. This is particularly useful in a mixed environment (Windows and Mac) to ensure commands run in the correct context.
+Error Handling
+: Implement basic error checking for commands that might fail (like file operations), which could help prevent issues during execution.
+Organize Sections
+: Consider grouping related commands or using comments to separate them clearly, making the script easier to navigate.
+Conclusion
+Your shortcuts and commands greatly enhance efficiency across different platforms, enabling quicker access and operations for various tasks. This setup can significantly reduce the time spent on repetitive actions, allowing you to focus more on your core tasks. If you have specific scenarios or commands you want to improve further, feel free to ask!
+4o mini
+Dijiste:
+;; reminder ;;
+
+;; edit vim macro macrosh ;;
+
+; first type : (colon) to enter ex command mode
+::&last::
+Send, let @q='
+Send, ^{r} ;; {Cntrl} Never put control inside curly brackets ({ }).
+Send, ^{r}
+Send, q
+Return  ;; now you have to edit and hit enter.
+
+;; fake bandnames ;;
+
+::cloth mother::C��������������L������������������O��������������������T����������������H������������ ������������������ M��������������O������������T������������H��������E������������R����������������
+
+
+;; memrise mode ;;
+;:*:1::
+;Send,1
+;Send,{Enter}
+;return
+
+;;didn't work
+ChatGPT dijo:
+Your AutoHotkey script includes some interesting shortcuts for various tasks, such as editing macros in Vim, creating fake band names, and potentially for a Memrise mode. Let's break down each section, and I���ll provide insights and suggestions for improvement or expansion.
+Script Breakdown
+Vim Macro Editing
+ahk
+Copiar c��digo
+;; edit vim macro macrosh ;;
+
+; first type : (colon) to enter ex command mode
+::&last::
+Send, let @q='
+Send, ^{r} ;; {Cntrl} Never put control inside curly brackets ({ }).
+Send, ^{r}
+Send, q
+Return  ;; now you have to edit and hit enter.
+::&last::
+: This shortcut helps you quickly create a Vim macro.
+It starts by entering a command that sets a register (
+@q
+) with a placeholder (the single quote).
+The command attempts to paste the last command (using
+Ctrl + R
+).
+Finally, it types
+q
+to stop recording the macro.
+Suggestions
+:
+Clarification on Usage
+: Add a comment explaining that after running this, the user will need to edit the macro before hitting enter. This helps avoid confusion for users who might not be familiar with Vim.
+Fake Band Names
+ahk
+Copiar c��digo
+;; fake bandnames ;;
+
+::cloth mother::C��������������L������������������O��������������������T����������������H������������ ������������������ M��������������O������������T������������H��������E������������R����������������
+This shortcut creates a humorous fake band name,
+cloth mother
+, styled with unusual Unicode characters.
+Suggestions
+:
+Expand Band Names
+: If you enjoy creating fake band names, consider adding more shortcuts for various names or themes to keep it entertaining.
+Memrise Mode
+ahk
+Copiar c��digo
+;; memrise mode ;;
+
+;:*:1::
+;Send,1
+;Send,{Enter}
+;return
+
+;; didn't work
+This section appears to aim for a shortcut that simulates pressing
+1
+and hitting
+Enter
+, possibly to navigate through a Memrise lesson.
+Suggestions
+:
+Debugging
+: Since it didn't work, ensure the shortcut is correctly defined. Uncomment the code and test it. Here���s a corrected version:
+ahk
+Copiar c��digo
+:*:1::
+Send, 1
+Send, {Enter}
+return
+Context Specificity
+: If you want this to work only when the Memrise window is active, you can wrap it in an
+IfWinActive
+condition:
+ahk
+Copiar c��digo
+IfWinActive, Memrise
+{
+    Send, 1
+    Send, {Enter}
+}
+General Improvements
+Organize Sections
+: Use comments to clearly separate different functionalities (e.g., Vim shortcuts, fun shortcuts, etc.). This makes the script easier to navigate.
+Error Handling
+: For commands that may not work as expected (like the Memrise mode), consider adding feedback (e.g., a message box) that lets you know when it runs or if it fails.
+Documentation
+: Providing a brief description at the top of the script detailing its purpose and usage can be helpful, especially for others who might use your script.
+Additional Fun Commands
+: You could also add more humorous or playful commands, like generating funny phrases, or even quotes or memes, which can provide some entertainment during work.
+Conclusion
+You've crafted a versatile AutoHotkey script that can assist in several tasks while also incorporating fun elements. With a few adjustments and enhancements, you can make it even more powerful and user-friendly. If you have specific tasks or commands you'd like to optimize further, feel free to ask!
+4o mini
+Dijiste:
+A list of all of the topics we've discussed.
+ChatGPT dijo:
+Here���s a summary of the topics we���ve discussed:
+Sudo Alias
+: Adding an alias for
+sudo
+to enhance the user experience in Linux.
+AutoHotkey Scripts
+: Various AutoHotkey scripts for productivity, including:
+Shortcuts for command-line operations (e.g.,
+sudo
+commands).
+Custom keyboard shortcuts for Vim and other tasks.
+Scripts to simplify Git operations (e.g., cloning repositories).
+Commands to manage files and directories.
+Custom commands for GitHub API interactions.
+Window Management
+: Creating shortcuts to open directories and manage active windows.
+Byobu and Terminal Management
+: Using Byobu for terminal multiplexing and shortcuts to enhance terminal usage.
+Voice Commands in macOS
+: Using the
+say
+command with various voices and scripts.
+Fake Band Names
+: Creating humorous text outputs with Unicode characters.
+Memrise Mode
+: Attempts to create shortcuts for the Memrise app and potential troubleshooting.
+Windows Shortcuts
+: Disabling specific keys and creating custom commands for easier navigation and execution.
+Keyboard Remapping
+: Adjusting key mappings for improved efficiency in various applications.
+Script Organization
+: Suggestions on how to structure and document AutoHotkey scripts for better readability and maintenance.
+If there's anything specific you want to revisit or expand upon, just let me know!
+4o mini
+Dijiste:
+Ok well I came here to say that it isn't necessary to comment your code if you can ask an LLM to explain it. I kept some commands even though I thought I would forget what they were for
+ChatGPT dijo:
+That���s an interesting point! You���re right���if you have access to a tool like an LLM (like me) to help explain or recall code, commenting may seem less necessary for personal use. If you're the only one interacting with the code, and you're comfortable with the logic or can easily ask for clarification when needed, you might not need as many comments.
+However, when sharing code with others or working in collaborative environments, comments can still be useful. They help others quickly understand the intent behind a particular command or logic, reducing the need for them to ask for an explanation or dive into details.
+Since you���re comfortable with this approach, it's perfectly fine to keep your code minimal. The beauty of personal scripts is that you can customize them to suit your workflow, and if it works for you to just ask when needed, that���s a great way to keep things lean!
+If you ever find yourself needing to revisit any commands or shortcuts later, you know where to ask!
+4o mini
+Buscar
+Analiza
+ChatGPT puede cometer errores. Comprueba la informaci��n importante.
+?
+
