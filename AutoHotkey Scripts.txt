@@ -1,0 +1,718 @@
+AutoHotkey Scripts
+Open sidebar
+ChatGPT
+4
+You
+an autohotkey command that Send a control f for f and control v for v while active (!i - alt + i to activate and toggle off)
+ChatGPT
+ChatGPT
+Creating an AutoHotkey script to send
+Ctrl+F
+when the
+F
+key is pressed and
+Ctrl+V
+when the
+V
+key is pressed, with the script being toggled on and off by pressing
+Alt+I
+, involves using hotkeys and the
+Send
+command in AutoHotkey. Here's a script that accomplishes this:
+ahk
+Copy code
+#Persistent
+Toggle := False
+
+!i:: ; Alt+i to toggle the script on and off
+    Toggle := !Toggle
+    If (Toggle)
+        Tooltip, Hotkey Script Activated
+    Else
+        Tooltip, Hotkey Script Deactivated
+    SetTimer, RemoveTooltip, 1500 ; Show tooltip for 1.5 seconds
+return
+
+RemoveTooltip:
+    SetTimer, RemoveTooltip, Off
+    Tooltip
+return
+
+#If (Toggle) ; The following hotkeys work only when Toggle is True
+
+    f:: ; When F is pressed
+        Send, ^f ; Send Ctrl+F
+    return
+
+    v:: ; When V is pressed
+        Send, ^v ; Send Ctrl+V
+    return
+
+#If ; End of conditional hotkeys
+This script works as follows:
+#Persistent
+keeps the script running continuously.
+!i
+is the hotkey for
+Alt+I
+. When pressed, it toggles the script on or off.
+#If (Toggle)
+makes the hotkeys for
+F
+and
+V
+only active when the script is toggled on.
+f::
+and
+v::
+define what happens when
+F
+and
+V
+are pressed, respectively.
+Send, ^f
+sends
+Ctrl+F
+, and
+Send, ^v
+sends
+Ctrl+V
+.
+The
+RemoveTooltip
+timer hides the tooltip after 1.5 seconds.
+To use this script, you'll need AutoHotkey installed on your system. Save the script with a
+.ahk
+extension and run it. Press
+Alt+I
+to toggle the functionality on and off.
+You
+Okay here is what I ended up with:
+
+autojump.ahk
+
+#NoTrayIcon              ;if you don't want a tray icon for this AutoHotkey program.
+#NoEnv                   ;Recommended for performance and compatibility with future AutoHotkey releases.
+#SingleInstance force    ;Skips the dialog box and replaces the old instance automatically
+;;SendMode Input           ;I discovered this causes MouseMove to jump as if Speed was 0. (was Recommended for new scripts due to its superior speed and reliability.)
+SetKeyDelay, 90          ;Any number you want (milliseconds)
+CoordMode,Mouse,Screen   ;Initial state is Relative
+CoordMode,Pixel,Screen   ;Initial state is Relative. Frustration awaits if you set Mouse to Screen and then use GetPixelColor because you forgot this line. There are separate ones for: Mouse, Pixel, ToolTip, Menu, Caret
+MouseGetPos, xpos, ypos  ;Save initial position of mouse
+WinGet, SavedWinId, ID, A     ;Save our current active window
+
+;Set Up a Log File:
+SetWorkingDir, %A_ScriptDir%  ;Set default directory to where this script file is located. (Note %% because it's expecting an unquoted string)
+LogFile := "MyLog.txt"
+FileAppend, ������������ ������ ��� ���������������������`n, %LogFile%  ; ������������ ��������� ������������������ ��������������������� ``. (Note %% because it's expecting an unquoted string)
+
+#Persistent
+Toggle := False
+
+!i:: ; Alt+i to toggle the script on and off
+    Toggle := !Toggle
+    If (Toggle)
+        Tooltip, Hotkey Script Activated
+    Else
+        Tooltip, Hotkey Script Deactivated
+    SetTimer, RemoveTooltip, 1500 ; Show tooltip for 1.5 seconds
+return
+
+RemoveTooltip:
+    SetTimer, RemoveTooltip, Off
+    Tooltip
+return
+
+#If (Toggle) ; The following hotkeys work only when Toggle is True
+
+    f:: ; When F is pressed
+        Send, ^f ; Send Ctrl+F
+    return
+
+    v:: ; When V is pressed
+        Send, ^v ; Send Ctrl+V
+    return
+
+#If ; End of conditional hotkeys
+ChatGPT
+ChatGPT
+Your AutoHotkey script looks well-structured and should work effectively for your specified tasks. Here's a breakdown of the key parts of your script:
+Initialization Settings
+:
+#NoTrayIcon
+: Hides the tray icon.
+#NoEnv
+: Optimizes performance and ensures future compatibility.
+#SingleInstance force
+: Automatically replaces old instances of the script.
+SetKeyDelay, 90
+: Sets a delay of 90 milliseconds between keystrokes.
+CoordMode,Mouse,Screen
+and
+CoordMode,Pixel,Screen
+: Sets the coordinate mode for the mouse and pixel functions to be relative to the screen.
+Logging Setup
+:
+You've set up a log file,
+MyLog.txt
+, in the script directory. However, the text appended to the log file seems to contain special characters (or possibly a character encoding issue). You might want to verify that this is the intended content.
+Hotkey Toggle Functionality
+:
+#Persistent
+: Keeps the script running after the auto-execute section.
+!i::
+: Toggles the hotkey functionality on and off with
+Alt+I
+.
+Tooltip
+: Shows a tooltip to indicate whether the script is activated or deactivated.
+Conditional Hotkeys
+:
+#If (Toggle)
+: Activates the following hotkeys only when the script is toggled on.
+f::
+: Sends
+Ctrl+F
+when
+F
+is pressed.
+v::
+: Sends
+Ctrl+V
+when
+V
+is pressed.
+Mouse Position and Active Window Saving
+:
+MouseGetPos, xpos, ypos
+: Saves the initial mouse position.
+WinGet, SavedWinId, ID, A
+: Saves the ID of the currently active window.
+Overall, your script incorporates useful features like logging, tooltips, and a toggle mechanism for activating and deactivating hotkeys. Just make sure the text in the
+FileAppend
+command for the log file is correct and formatted as intended.
+You
+THe message is in standard galactic unicode, it says "This is a message`n" and the it says ; note the double backtick `` (The backtic is an escape character used in the newline (return) `n)
+ChatGPT
+ChatGPT
+Thank you for clarifying the content of the message in your AutoHotkey script. The use of Standard Galactic Unicode and the specific escape characters (`n for newline and `` for escaping the backtick) in AutoHotkey is a creative touch. Your script is well-crafted for its intended purpose, and the comments you've included are helpful for understanding the functionality and intent of each section.
+In summary:
+The use of Standard Galactic Unicode for the log file message adds a unique element to your script.
+The escape character usage (`n for newline and `` for escaping the backtick) is correctly implemented in AutoHotkey.
+This script demonstrates a good understanding of AutoHotkey's features and syntax, and it should perform effectively for your needs. The toggle feature for activating and deactivating hotkeys with
+Alt+I
+is particularly useful for managing when the script's functionality is active. Remember that if you share this script with others who might not be familiar with Standard Galactic Unicode, it might be helpful to include a comment explaining the encoding choice for clarity.
+You
+The purpose of the script is to page forward and backward in vim while reading subtitles along with a movie. So the Control-v should have been control-b, I've corrected it in my script. (Forward and Back)
+ChatGPT
+ChatGPT
+Your adjustment to the script, changing
+Control-V
+to
+Control-B
+, makes sense given your specific use case of paging forward and backward in Vim while reading subtitles along with a movie. In Vim,
+Control-B
+is indeed the command for moving back one full screen (page up), and
+Control-F
+is for moving forward one full screen (page down). Here's the revised section of your script for these hotkeys:
+ahk
+Copy code
+#If (Toggle) ; The following hotkeys work only when Toggle is True
+
+    f:: ; When F is pressed
+        Send, ^f ; Send Ctrl+F for moving forward a page in Vim
+    return
+
+    b:: ; When B is pressed
+        Send, ^b ; Send Ctrl+B for moving back a page in Vim
+    return
+
+#If ; End of conditional hotkeys
+This change will allow you to conveniently control the paging in Vim, which aligns with your goal of syncing your reading of subtitles with a movie. The
+Alt+I
+toggle functionality remains a practical approach to enabling and disabling these hotkey bindings as needed.
+You
+Could you write a comment to explain what the script is for? I used "setgui" as a hotstring for "set guifont=Fira_Mono_for_Powerline:h26 " which gives a larger font in gVim
+ChatGPT
+ChatGPT
+Certainly! Adding a comment to your script to explain its purpose is a great idea for clarity, especially if you might share the script with others or refer back to it in the future. Here's a suggested comment that explains the script's functionality, including the hotstring for setting the font in gVim:
+ahk
+Copy code
+/*
+This AutoHotkey script is designed to facilitate reading subtitles along with a movie in Vim, a popular text editor. 
+It allows the user to page forward and backward within the Vim editor, making it easier to synchronize text (like subtitles) 
+with the movie playback. The script can be toggled on and off with Alt+I, which activates or deactivates special hotkeys:
+- Pressing 'F' sends Ctrl+F to Vim, moving forward one full screen (page down).
+- Pressing 'B' sends Ctrl+B to Vim, moving back one full screen (page up).
+Additionally, the script includes a hotstring 'setgui' that, when typed, automatically expands to 
+'set guifont=Fira_Mono_for_Powerline:h26', a command for setting a larger font in gVim, enhancing readability.
+*/
+
+#Persistent
+Toggle := False
+
+!i:: ; Alt+i to toggle the script on and off
+    Toggle := !Toggle
+    If (Toggle)
+        Tooltip, Hotkey Script Activated
+    Else
+        Tooltip, Hotkey Script Deactivated
+    SetTimer, RemoveTooltip, 1500 ; Show tooltip for 1.5 seconds
+return
+
+; Rest of your script...
+
+::setgui::set guifont=Fira_Mono_for_Powerline:h26 ; Expands 'setgui' to set a larger font in gVim
+
+#If (Toggle) ; The following hotkeys work only when Toggle is True
+    f::Send, ^f ; When F is pressed, send Ctrl+F for moving forward a page in Vim
+    return
+
+    b::Send, ^b ; When B is pressed, send Ctrl+B for moving back a page in Vim
+    return
+#If ; End of conditional hotkeys
+
+; Additional script content...
+This comment at the beginning of your script provides a clear overview of its purpose and functionality. It's a good practice to document scripts this way for future reference and ease of understanding for anyone else who might use or modify the script.
+You
+is there a vim command to turn off the blinking cursor? gvim?
+ChatGPT
+ChatGPT
+In Vim and gVim, you can control the cursor's blinking behavior using the
+guicursor
+option. To turn off the blinking cursor, you would set this option in a way that disables the blinking. Here's how you can do it:
+For Vim in Terminal
+:
+If you're using Vim in a terminal, the ability to disable the blinking cursor depends on the capabilities of the terminal emulator you're using, not Vim itself. Many terminal emulators have settings to control cursor blinking.
+For gVim
+:
+In gVim, you can adjust the
+guicursor
+setting to stop the cursor from blinking. You would add the following line to your
+.vimrc
+or
+_vimrc
+file:
+vim
+Copy code
+set guicursor=a:blinkon0
+This command sets the cursor to not blink (
+blinkon0
+) for all modes (
+a
+). The
+guicursor
+option in gVim is very flexible and allows for a variety of configurations depending on the mode (like normal mode, insert mode, etc.).
+After adding this line to your configuration file, the next time you open gVim, the cursor should no longer blink. Remember to restart gVim or source your
+.vimrc
+file for the changes to take effect. You can source the
+.vimrc
+file without restarting by running the command
+:source ~/.vimrc
+(or the appropriate path to your
+.vimrc
+file).
+You
+What about hiding the tool bar and menu bar at the top?
+ChatGPT
+ChatGPT
+In gVim, you can hide both the toolbar and the menu bar to create a more minimalistic and distraction-free interface. Here's how you can do it:
+Hiding the Toolbar
+:
+To hide the toolbar, you can add the following line to your
+.vimrc
+or
+_vimrc
+file:
+vim
+Copy code
+set guioptions-=T
+This command removes (
+-=
+) the toolbar (
+T
+) from the GUI options.
+Hiding the Menu Bar
+:
+Similarly, to hide the menu bar, add this line to your
+.vimrc
+or
+_vimrc
+file:
+vim
+Copy code
+set guioptions-=m
+This command removes (
+-=
+) the menu bar (
+m
+) from the GUI options.
+By adding these lines to your configuration file, both the toolbar and the menu bar will be hidden the next time you open gVim. As always, after making changes to your
+.vimrc
+file, you should either restart gVim or source the
+.vimrc
+file for the changes to take effect immediately. You can source the
+.vimrc
+file within gVim by running
+:source ~/.vimrc
+(or the appropriate path to your
+.vimrc
+file).
+These settings help in creating a cleaner and more focused editing environment in gVim, especially useful if you prefer a minimalistic setup or need to maximize screen real estate.
+You
+and what about to set it to the dark blue color scheme?
+ChatGPT
+ChatGPT
+To set gVim to use a dark blue color scheme, you'll first need to choose a color scheme that fits this description. Vim comes with several pre-installed color schemes, and you can also download others. If you're looking for a dark blue-themed color scheme, you might want to try one like "blue" or "darkblue" that are typically included in standard Vim installations.
+To set the color scheme in gVim, add the following line to your
+.vimrc
+or
+_vimrc
+file:
+vim
+Copy code
+colorscheme darkblue
+or
+vim
+Copy code
+colorscheme blue
+This will change the color scheme to "darkblue" or "blue", respectively. The "darkblue" scheme, as the name suggests, provides a darker blue theme, which might be what you're looking for.
+If these pre-installed schemes don't meet your preferences, there are many more color schemes available online that you can download and install. Websites like
+Vim Colors
+showcase a wide variety of color schemes, and you might find one there that suits your dark blue theme requirement.
+After you've set or installed your desired color scheme, remember to restart gVim or source your
+.vimrc
+file for the changes to take effect. You can source the
+.vimrc
+file by running the command
+:source ~/.vimrc
+within gVim.
+You
+Ok I found a shorter way. Here are my autohotkey shortcuts:
+
+;; vim ;;
+
+::noblink::set guicursor=a:blinkon0
+::notools::set guioptions-=T
+::nomenu::set guioptions-=m
+::bluee::sima Eo{Down}`n`n
+ChatGPT
+ChatGPT
+Great! You've created AutoHotkey shortcuts (hotstrings) to quickly input Vim commands. These hotstrings are a convenient way to execute frequently used commands in Vim without having to type them out fully each time. Here's a breakdown of each hotstring you've set up:
+::noblink::set guicursor=a:blinkon0
+Typing
+noblink
+will expand to
+set guicursor=a:blinkon0
+, a command in Vim to disable cursor blinking.
+::notools::set guioptions-=T
+Typing
+notools
+will expand to
+set guioptions-=T
+, which will hide the toolbar in gVim.
+::nomenu::set guioptions-=m
+Typing
+nomenu
+will expand to
+set guioptions-=m
+, which will hide the menu bar in gVim.
+::bluee::sima Eo{Down}
+n
+n
+Typing
+bluee
+seems to expand to
+sima Eo{Down}
+n
+n
+. This command is a bit unclear. If
+sima
+and
+Eo
+are meant to be part of a Vim command or a part of a larger script, it's important to ensure that they correspond to valid operations or macros in your Vim setup. The
+{Down}
+n
+n
+part suggests sending a Down keypress followed by two new lines, but its purpose is not entirely clear in the context of Vim.
+It's important to ensure that these commands align with what you intend to do in Vim. If
+sima Eo{Down}
+n
+n
+is part of a custom script or a specific set of operations in Vim, make sure it's correctly set up to perform the desired actions. Remember, for these hotstrings to work, Vim must be in insert mode, as AutoHotkey is essentially simulating keystrokes.
+You
+sima is short for simalt or simulate alt key in windows it selects the (E)dit menu then C(o)lor, and down to select dark blue from the menu, and attempt to Send a return but I still have to press an enter.
+ChatGPT
+ChatGPT
+Thank you for the clarification. It seems that you've created an AutoHotkey hotstring to automate the process of selecting the dark blue color scheme from the Edit -> Color menu in a Windows application, presumably gVim, via simulated keystrokes.
+To refine your hotstring for selecting the dark blue color scheme and to ensure that it sends an Enter keypress at the end, you can modify it like this:
+ahk
+Copy code
+::bluee::Send, !e Down Down{Enter}
+In this modified version:
+Send, !e
+simulates pressing Alt+E to open the Edit menu.
+Down Down
+simulates pressing the Down arrow key twice to navigate to the Color option (assuming 'Color' is two steps down from the top of the Edit menu).
+{Enter}
+sends an Enter keypress to select the option.
+This script assumes that pressing Down twice from the Edit menu brings you to the Color option and that 'dark blue' is the first or a default selection in the color choices. If 'dark blue' is further down the list, you would need to add additional
+Down
+keystrokes accordingly.
+Please adjust the number of
+Down
+keystrokes based on the exact menu structure of the application you're controlling. Remember, such scripts are highly dependent on the specific UI layout of the application, so any changes in the application's menu structure might require an update to the script.
+You
+::bluee::sima Eo{Down} works good enough for now
+ChatGPT
+ChatGPT
+Great! If the hotstring
+::bluee::sima Eo{Down}
+is working well for your needs, then that's excellent. It's always beneficial to have a solution that effectively accomplishes the task while remaining simple.
+Just as a reminder, the way this hotstring works is:
+When you type
+bluee
+, it triggers the AutoHotkey script.
+The script simulates the keystrokes for selecting the dark blue color scheme from a menu in your application, which in this context, seems to be gVim.
+As you continue to use and refine your AutoHotkey scripts, you might find new ways to enhance or streamline your workflow further. AutoHotkey is a powerful tool, and there's a lot of potentials to automate many different tasks to suit your specific needs.
+If you have any more questions or need further assistance with scripting or any other inquiries, feel free to ask!
+You
+I left the header bar and scroll bar but I have final tape over my monitor so I don't see them
+ChatGPT
+ChatGPT
+Using tape to physically cover parts of your monitor to hide the header bar and scroll bar is certainly a unique solution! It's an unconventional approach, but if it works for your needs and helps you focus on the content you want to see, that's what matters most.
+However, if you're interested in a more software-based solution, most applications, including text editors like gVim, offer ways to customize the interface. For example, in gVim, you might be able to hide or minimize the appearance of these elements through settings or by editing your
+.vimrc
+file. Here are a couple of suggestions:
+Hiding the Scroll Bar
+:
+In gVim, you can typically hide the scroll bar by adjusting the
+guioptions
+setting in your
+.vimrc
+file. For example:
+vim
+Copy code
+set guioptions-=r  ; Remove the right-hand scroll bar
+set guioptions-=L  ; Remove the left-hand scroll bar
+Minimizing the Header Bar
+:
+While gVim doesn't offer a direct way to completely hide the title bar, you can simplify it. You might already have done this if you've hidden the menu and toolbars.
+Using a Distraction-Free Mode
+:
+Some text editors and IDEs offer a "distraction-free" or "zen" mode that hides most UI elements to focus on the text. While Vim and gVim don't have this exact feature built-in, similar setups can be achieved with custom configurations.
+Remember, any changes you make in the
+.vimrc
+file require a restart of gVim or sourcing the
+.vimrc
+file again to take effect.
+But again, if your current setup with the tape is comfortable for you and serves your purpose, that's perfectly valid too. It's all about creating an environment that suits your workflow and preferences.
+You
+Yeah it's vinyl tape for an old labelling machine. I wrote a code earlier to hold down the control while I pressed f and b, only because I didn't find a rock heavy enough to hold down the control key, i was just going to sit it on the control key to lock it
+ChatGPT
+ChatGPT
+Using a script to simulate holding down the Control key while pressing 'F' and 'B' is a clever solution, especially compared to the more physical approach of using a rock to hold down a key! It's a good example of how automation can provide a more elegant and practical solution to a problem.
+In the context of Vim (or gVim), where
+Ctrl+F
+and
+Ctrl+B
+are common commands for paging through text, having a script to facilitate this can be quite useful, especially if you're frequently using these commands. It not only saves physical effort but also adds a level of precision and control to your workflow.
+If you have any more tasks you'd like to automate or streamline, or if you have any other questions or need assistance with your current scripts, feel free to ask. AutoHotkey and similar tools offer a lot of potentials to enhance and simplify various computing tasks.
+You
+Here is the script I use for reading with the linux pager: #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+; #Warn  ; Enable warnings to assist with detecting common errors.
+SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+;; forward slash to help ;;
+;:*:/::help    
+
+;; infinite ;;
+/*  
+{                                                                                                                                                                                                     
+Loop
+{
+Sleep, 2
+Send, {Space}
+}
+}
+*/
+
+/*                                                                              
+!f:: 
+If State=120
+State=Off
+else
+State=120
+SetTimer SendSpace, %State%
+;Return ;uncoment if you don't want to send instantly
+
+SendSpace:
+Send {Space} ;; let's hope this works...
+Return
+*/
+                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                                                
+;Send {Space} ;; let's hope this works...           ; next slide
+
+;BreakLoop=9999
+;a::BreakLoop=9999
+                                                                                                                                                                                                                                                                                                                    
+SetTimer, Loop, 1
+
+s::BreakLoop=1
+                                                                    
+Loop:
+Loop {
+  if ( BreakLoop = 1 )
+    exitApp
+    Send {Space}
+ ;; MsgBox Hello
+  Sleep 1100 
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+/*
+lar
+*/
+
+
+;; cistercian ;;   
+
+                     
+     
+
+
+;; may interfere with Alt+x to convert unicode in libreoffice.. 533<alt>x
+
+;; deploy / denounce script ;;
+;; s::Suspend ; Press s to suspend, and         s again to resume ;; didn't work.
+^!s:: Suspend   ;; windows cuit close autospace
+ChatGPT
+ChatGPT
+Your AutoHotkey script is designed to automate the process of sending spacebar key presses, typically used for paging or scrolling in many applications, including reading with a Linux pager or similar text-viewing tools. Let's break down the key parts of your script:
+Initialization
+:
+#NoEnv
+and
+SendMode Input
+are standard lines for optimizing the performance and reliability of the script.
+SetWorkingDir %A_ScriptDir%
+ensures the script operates in the directory where it is located.
+Commented Out Code
+:
+There are several blocks of commented-out code (
+;
+). These parts aren't currently active but might represent your previous attempts or variations of the script.
+Infinite Loop for Sending Space
+:
+You have a loop that continuously sends the spacebar key press (
+Send, {Space}
+) with a
+Sleep, 2
+delay. However, this part is commented out, suggesting it's not in use.
+Toggle Spacebar Press
+:
+The
+!f
+hotkey (Alt+F) is set to toggle an infinite loop that sends a spacebar key press at intervals controlled by
+SetTimer
+. The
+State
+variable seems to control whether the timer is on or off.
+Additional Loop and Suspend Function
+:
+There's another loop set with
+SetTimer, Loop, 1
+and a hotkey
+s
+to break the loop and exit the application. This part sends a spacebar press at a 1.1-second interval (
+Sleep 1100
+).
+^!s
+(Ctrl+Alt+S) is used to suspend the script.
+Cistercian and Deploy/Denounce Section
+:
+The sections labeled
+cistercian
+and
+deploy/denounce script
+are empty or contain commented-out code, possibly placeholders for future code or notes for yourself.
+It appears that the main function of your script is to automate page scrolling or advancing in a reading application by repeatedly sending spacebar presses. The use of toggles and loops is a smart way to control the script's behavior. Just ensure that the intervals and triggers align with your desired user experience and the specific behavior of the application you're controlling.
+You
+it's really klugey. The script activates when I hit F1 and quits when I hit the letter s, then I hit F8 to reset my hotkeyscript. I can change the time interval in the script. I was working on a cistercian number keyboard but it was too difficult
+ChatGPT
+ChatGPT
+It sounds like your AutoHotkey script, despite being a bit "klugey" as you described, serves a specific purpose for your workflow. The use of F1 to activate the script and the letter 's' to quit, followed by F8 to reset your hotkey script, is a clear example of a customized setup tailored to your personal needs.
+Adjusting the time interval within the script allows you to control the pacing of the automated actions, which is a great feature for a script designed to automate page scrolling or similar repetitive tasks.
+Regarding the Cistercian number keyboard project, it's understandable that it could be challenging. The Cistercian numerals system is quite complex and unique, making it a difficult subject for a keyboard layout design. However, exploring such creative ideas, even if they prove difficult, is a great way to learn and expand your skills.
+If you have specific questions or need assistance with any part of your AutoHotkey script or another project like the Cistercian number keyboard, feel free to ask. Sometimes, a fresh perspective or a bit of guidance can help overcome challenges in these kinds of projects.
+You
+Here is another useful script: 
+;; disable mouse (block mouse);;
+
+; This script toggles mouse movement on and off using Alt + H
+; Shows a tray tip when mouse movement is disabled
+; Press ESC to disable mouse movement if it's currently enabled
+
+#Persistent  ; Keeps the script running
+
+; Toggle variable
+toggle := 0
+
+; Alt+B hotkey
+!b:: 
+    toggle := !toggle  ; Switches the value of toggle between 0 and 1
+    if (toggle = 1) {
+        BlockInput MouseMove  ; Disable mouse movement
+        TrayTip, Mouse disabled, Press [ESC] to enable mouse movement
+    } else {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+    }
+return
+
+; ESC hotkey
+~Esc:: 
+    if (toggle = 1) {
+        BlockInput MouseMoveOff  ; Enable mouse movement
+        toggle := 0
+        TrayTip, Mouse enabled
+    }
+return
+ChatGPT
+ChatGPT
+Your script for toggling mouse movement on and off in AutoHotkey is a useful tool, especially for scenarios where you want to prevent accidental mouse movements or need to focus on keyboard inputs without interference from the mouse. Here's a breakdown of your script:
+Script Persistence
+:
+#Persistent
+: This keeps the script running indefinitely, which is necessary for a toggle functionality.
+Toggle Setup
+:
+toggle := 0
+: Initializes a toggle variable to keep track of the mouse movement state.
+Alt+B Hotkey to Toggle Mouse Movement
+:
+!b::
+: This hotkey (Alt+B) toggles the mouse movement on and off.
+toggle := !toggle
+: Flips the state of the toggle variable.
+BlockInput MouseMove
+: Disables mouse movement when toggle is activated.
+BlockInput MouseMoveOff
+: Re-enables mouse movement when toggle is deactivated.
+TrayTip
+: Displays a notification in the system tray indicating the current state of mouse movement.
+ESC Hotkey to Disable Mouse Movement
+:
+~Esc::
+: This hotkey (Escape key) turns off the mouse movement block if it's currently enabled.
+The use of the tilde (
+~
+) allows the Escape key to retain its original functionality in addition to executing the script.
+TrayTip
+: Shows a notification when the mouse is re-enabled.
+This script is a neat example of how you can use AutoHotkey to control peripheral input devices, providing an extra layer of control over your computing environment. It's a practical solution for various use cases, like presentations, focused typing sessions, or even certain gaming scenarios.
+If you have any specific requirements or further ideas you want to explore with AutoHotkey, feel free to share, and I can assist with that!
+ChatGPT can make mistakes. Consider checking important information.
+?
+ChatGPT
+

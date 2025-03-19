@@ -1,0 +1,684 @@
+Visceral Dread - Poe
+Explore
+Create bot
+Claude-instant-100k
+09:00
+Visceral Dread
+Here are some potential short title ideas beginning with those words:
+
+- Visceral Controls: Population Psychology in Fiction and Philosophy 
+
+- Virulent Regimes: Tales of Social Manipulation and Resistance
+
+- Viscosity of Change: Redirecting Ingrained Social Dynamics 
+
+- Visas to Liberty: Awakening from Totalitarian Fog 
+
+- Virtuoso Violence: Flower Wars and the Ritualization of Conflict
+
+- Visceral Reactions: Inherent Tendencies and Their Redirections  
+
+- Virtuous Subversions: Finding Acceptable Outlets in Simulated Worlds
+
+- Visceral Dread: The Challenges of Psychic Domination  
+
+- Viral Propaganda: Mind Control Broadcasts and Memetic Engineering
+
+- Visage of Rebellion: Struggles Against Deceptive Societal Facades
+
+- Virtual Visitations: Play as an Alternative to Physical Struggle
+
+- Virulence Unveiled: Pulling Back the Curtain on Coercive Systems
+
+- Viscosity and Flow: Thermodynamic Lessons for Culture and Cognition
+
+- Visceral Metamorphoses: Transforming Innate Impulses Over Time
+
+Let me know if any of these short, evocative title options work well or could be modified to fit!
+Assistant and 1 bot
+08:44
+Orthograde Cognition
+In "The World of Null-A," the Games Computer is a pivotal element that symbolizes the integration of advanced technology and cognitive processes. Here are some key aspects regarding its role and significance in the story:
+
+1. **Artificial Intelligence**: The Games Computer represents a sophisticated AI that is capable of complex reasoning and strategic thinking. It serves as a contrast to human characters, highlighting the potential advantages of non-linear and non-Aristotelian logic, which aligns with the principles of Null-A thinking.
+
+2. **Cognitive Challenge**: The computer presents challenges to the protagonist, Gilbert Gosseyn, that require him to engage in sophisticated problem-solving. These challenges push him to expand his cognitive abilities, forcing him to think beyond traditional boundaries and embrace more holistic approaches to reasoning.
+
+3. **Training Tool**: Throughout the narrative, the Games Computer acts as a training tool for characters, helping them develop their cognitive skills. By simulating various scenarios and outcomes, it allows users to explore the implications of different decisions, fostering the transition from orthograde to Null-A thinking.
+
+4. **Strategic Planning**: The computer's ability to analyze vast amounts of data and predict outcomes underscores the importance of strategic planning in the story. It emphasizes the value of foresight and adaptability, which are crucial for success in a rapidly changing environment.
+
+5. **Philosophical Exploration**: The Games Computer also serves as a vehicle for exploring deeper philosophical questions about intelligence, consciousness, and the nature of thought. Its capabilities raise questions about the relationship between human cognition and artificial intelligence, particularly in the context of non-Aristotelian logic.
+
+6. **Conflict Resolution**: By providing solutions to complex problems, the Games Computer illustrates the limitations of orthograde reasoning. Characters who rely solely on traditional logic may struggle to achieve their goals, while those who embrace the insights offered by the computer can navigate challenges more effectively.
+
+In summary, the Games Computer is a central figure in "The World of Null-A," embodying advanced cognitive processes and serving as a catalyst for character development. It highlights the transition from rigid, linear thinking to a more adaptive, strategic approach that aligns with the novel's exploration of Null-A principles.
+Assistant
+Nov 4
+Git Pull Force
+To pull from the main repository while forcing an overwrite of your local changes, you can use the following commands. Be cautious, as this will discard any local changes that haven't been committed.
+
+1. **Reset your local branch to match the remote branch:**
+
+   ```bash
+   git fetch origin
+   git reset --hard origin/main
+   ```
+
+   Replace `main` with the appropriate branch name if you're using a different one.
+
+2. **Alternatively, if you want to pull and force overwrite:**
+
+   You can use:
+
+   ```bash
+   git fetch origin
+   git pull origin main --rebase --autostash
+   ```
+
+   This command will pull the changes and reapply your local commits on top of the latest changes from the remote repository.
+
+### Important Notes:
+- **Data Loss**: The `git reset --hard` command will permanently delete any uncommitted local changes. Ensure you have backups or that you are okay with losing those changes.
+- **Branch Name**: Always check that you are on the correct branch before performing these operations using `git status` or `git branch`.
+Assistant
+Nov 3
+Reference Request
+Sure! Here���s how you can format the reference using the `<ref>` tag for Wikipedia:
+
+```markdown
+<ref>Laske, Otto. *Dialectical Thinking for Integral Leaders: A Primer*. Tucson: Integral Publishers, 2015.</ref>
+```
+
+You can use this tag within the text where you want to cite the source.
+Assistant
+Nov 3
+Git Merge
+To check for conflicts in Git after a merge or rebase, you can follow these steps:
+
+1. **After a Merge Conflict**: If you attempt to merge and conflicts occur, Git will notify you in the terminal. You can check the status with:
+
+   ```bash
+   git status
+   ```
+
+   This command will list the files that have conflicts. The output will look something like this:
+
+   ```
+   Unmerged paths:
+     (both modified):   filename.txt
+   ```
+
+2. **Identifying Conflicted Files**: The files listed as "both modified" or "unmerged" are the ones with conflicts. You can open these files in your text editor, and you will see conflict markers like:
+
+   ```plaintext
+   <<<<<<< HEAD
+   Your changes here
+   =======
+   Incoming changes here
+   >>>>>>> branch-name
+   ```
+
+3. **Resolving Conflicts**: To resolve conflicts:
+   - Edit the files to remove the conflict markers and decide which changes to keep.
+   - After resolving, mark the files as resolved with:
+
+     ```bash
+     git add filename.txt
+     ```
+
+4. **Completing the Merge**: Once all conflicts are resolved, you can complete the merge by committing:
+
+   ```bash
+   git commit
+   ```
+
+5. **Using Git Diff**: If you want to see the differences between your changes and the incoming changes, you can use:
+
+   ```bash
+   git diff
+   ```
+
+   This will show you the differences in the files that are in conflict.
+
+### Summary
+
+To check for conflicts, use `git status` to identify conflicted files, edit those files to resolve conflicts, and then add them back to the staging area. Finally, commit the resolved changes to complete the merge.
+All chats
+Your bots
+Subscribe
+Creators
+Profile
+Settings
+Send feedback
+Download iOS app
+Download Android app
+Download Windows app
+Follow us on
+Join our
+About
+��
+Careers
+��
+Help center
+��
+Privacy policy
+��
+Terms of service
+Visceral Dread
+Claude-instant-100k
+New chat
+Share
+Drop files here
+Claude-instant-100k
+By
+@poe
+26K followers
+Bot info
+Share bot
+Powered by Anthropic's Claude Instant, with an increased context window of 100k tokens (around 75,000 words). Enables analysis of very long documents, code, and more.
+View more
+75
+per message
+��
+View details
+OFFICIAL
+Today's links
+
+Your computer is tormented by a wicked god: Bootkits are why we can't have nice things.
+
+Peter Thiel's evil, but he's not an "evil genius": How to criticize self-mythologizing villains.
+
+Hey look at this: Delights to delectate.
+
+This day in history: 2007, 2012, 2017, 2021
+
+Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading
+
+
+���
+
+Your computer is tormented by a wicked god (permalink)
+
+Computer security is really, really important. It was important decades ago, when computers were merely how we ran our financial system, aviation, and the power grid. Today, as more and more of us have our bodies inside of computers (cars, houses, etc) and computers in our body (implants), computer security is urgent.
+
+Decades ago, security practitioners began a long argument about how best to address that looming urgency. The most vexing aspect of this argument was a modern, cybernetic variant on a debate that was as old as the ancient philosophers ��� a debate that Rene Descartes immortalized in the 17th Century.
+
+You've doubtless heard the phrase, "I think therefore I am" (Cogito, ergo sum). It comes from Descartes' 1637 Discourse on Method, which asks the question, "How can we know things?" Or, more expansively, "Given that all my reasoning begins with things I encounter through my senses, and given that my senses are sometimes wrong, how can I know anything?"
+
+Descartes' answer: "I know God is benevolent, because when I conceive of God, I conceive of benevolence, and God gave me my conceptions. A benevolent God wouldn't lead me astray. Thus, the things I learn through my senses and understand through my reason are right, because a benevolent God wouldn't have it any other way."
+
+I've hated this answer since my freshman philosophy class, and even though the TA rejected my paper explaining why it was bullshit, I still think it's bullshit. I mean, I'm a science fiction writer, so I can handily conceive of a wicked God whose evil plan starts with making you think He is benevolent and then systematically misleading you in your senses and reasoning, tormenting you for His own sadistic pleasure.
+
+The debate about trust and certainty has been at the center of computer security since its inception. When Ken "Unix" Thompson accepted the 1984 Turing Prize he gave an acceptance speech called "Reflections on Trusting Trust":
+
+https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
+It's a bombshell. In it, Thompson proposes an evil compiler, one that inserted a back-door into any operating system it compiled, and that inserted a back-door-generator into any compiler it was asked to compile. Since Thompson had created the original Unix compiler ��� which was used to compile every other compiler and thus every other flavor of Unix ��� this was a pretty wild thought experiment, especially since he didn't outright deny having done it.
+
+Trusting trust is still the most important issue in information security. Sure, you can run a virus-checker, but that virus checker has to ask your operating system to tell it about what files are on the drive, what data is in memory, and what processes are being executed. What if the OS is compromised?
+
+Okay, so maybe you are sure the OS isn't compromised, but how does the OS know if it's even running on the "bare metal" of your computer. Maybe it is running inside a virtual machine, and the actual OS on the computer is a malicious program that sits between your OS and the chips and circuits, distorting the data it sends and receives. This is called a "rootkit," and it's a deadass nightmare that actually exists in the actual world.
+
+A computer with a rootkit is a brain in a jar, a human battery in the Matrix. You, the computer user, can ask the operating system questions about its operating environment that it will answer faithfully and truthfully, and those answers will all be wrong, because the actual computer is being controlled by the rootkit and it only tells your operating system what it wants it to know.
+
+20 years ago, some clever Microsoft engineers proposed a solution to this conundrum: "Trusted Computing." They proposed adding a second computer to your system, a sealed, secure chip with very little microcode, so little that it could all be audited in detail and purged of bugs. The chip itself would be securely affixed to your motherboard, such that any attempt to remove it and replace it with a compromised chip would be immediately obvious to you (for example, it might encapsulate some acid in a layer of epoxy that would rupture if you tried to remove the chip).
+
+They called this "Next Generation Secure Computing Base," or "Palladium" for short. They came to the Electronic Frontier Foundation offices to present it. It was a memorable day:
+
+https://pluralistic.net/2020/12/05/trusting-trust/#thompsons-devil
+
+My then-colleague Seth Schoen ��� EFF's staff technologist, the most technically sophisticated person to have been briefed on the technology without signing an NDA ��� made several pointed critiques of Palladium:
+
+https://web.archive.org/web/20020802145913/http://vitanuova.loyalty.org/2002-07-05.html
+
+And suggested a hypothetical way to make sure it only served computer users, and not corporations or governments who wanted to control them:
+
+https://www.linuxjournal.com/article/7055
+
+But his most salient concern was this: "what if malware gets into the trusted computing chip?"
+
+The point of trusted computing was to create a nub of certainty, a benevolent God whose answers to your questions could always be trusted. The output from a trusted computing element would be ground truth, axiomatic, trusted without question. By having a reliable external observer of your computer and its processes, you could always tell whether you were in the Matrix or in the world. It was a red pill for your computer.
+
+What if it was turned? What if some villain convinced it to switch sides, by subverting its code, or by subtly altering it at the manufacturer?
+
+That is, what if Descartes' God was a sadist who wanted to torment him?
+
+This was a nightmare scenario in 2002, one that the trusted computing advocates never adequately grappled with. In the years since, it's only grown more salient, as trusted computing variations have spread to many kinds of computer.
+
+The most common version is the UEFI ��� ("Unified Extensible Firmware Interface") ��� a separate operating system, often running on its own chip (though sometimes running in a notionally "secure" region of your computer's main processors) that is charged with observing and securing your computer's boot process.
+
+UEFI poses lots of dangers to users; it can (and is) used by manufacturers to block third-party operating systems, which allows them to lock you into using their own products, including their app stores, letting them restrict your choices and pick your pocket.
+
+But in exchange, UEFI is said to deliver a far more important benefit: a provably benevolent God, one who will never lie to your operating system about whether it is in the Matrix or in the real world, providing the foundational ground truth needed to find and block malicious software.
+
+So it's a big deal that Kaspersky has detected a UEFI-infecting rootkit (which they've dubbed a "bootkit"), which they call Cosmicstrand, which can reinstall itself after your reformat your drive and reinstall your OS:
+
+https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/
+
+Cosmicstrand does some really clever, technical things to compromise your UEFI, which then allows it to act with near-total impunity and undetectability. Indeed, Kaspersky warns that there are probably lots of these bootkits floating around.
+
+If you want a good lay-oriented breakdown of how Cosmicstrand installs a wicked God in your computer, check out Dan Goodin's excellent Ars Technica writeup:
+
+https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/
+
+Cosmicstrand dates back at least to 2016, a year after we learned about the NSA's BIOS attacks, thanks to the Snowden docs:
+
+https://www.wired.com/2015/03/researchers-uncover-way-hack-bios-undermine-secure-operating-systems/
+
+But despite its long tenure, Cosmicstrand was only just discovered. That's because of the fundamental flaw inherent in designing a computer that its owners can't fully inspect or alter: if you design a component that is supposed to be immune from owner override, then anyone who compromises that component can't be detected or countered by the computer's owner.
+
+This is the core of a two-decade-old debate among security people, and it's one that the "benevolent God" faction has consistently had the upper hand in. They're the "curated computing" advocates who insist that preventing you from choosing an alternative app store or side-loading a program is for your own good ��� because if it's possible for you to override the manufacturer's wishes, then malicious software may impersonate you to do so, or you might be tricked into doing so.
+
+This benevolent dictatorship model only works so long as the dictator is both perfectly benevolent and perfectly competent. We know the dictators aren't always benevolent. Apple won't invade your privacy to sell you things, but they'll take away every Chinese user's privacy to retain their ability to manufacture devices in China:
+
+https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html
+
+But even if you trust a dictator's benevolence, you can't trust in their perfection. Everyone makes mistakes. Benevolent dictator computing works well, but fails badly. Designing a computer that intentionally can't be fully controlled by its owner is a nightmare, because that is a computer that, once compromised, can attack its owner with impunity.
+
+(Image: Cryteria, CC BY 3.0, modified)
+
+
+���
+
+Peter Thiel's evil, but he's not an "evil genius" (permalink)
+
+Peter Thiel: "I���d rather be seen as evil than incompetent." It's the far-right billionaire's most telling phrase. Thiel wants us to think he's an evil genius, because he wants us to think he's a genius. So much of Thiel's activity is devoted to self-mythologizing, like when he made us all think he was infusing the blood of teenagers in a bid to become immortal:
+
+https://www.vanityfair.com/news/2016/08/peter-thiel-wants-to-inject-himself-with-young-peoples-blood
+
+But as Ben Burgis writes for Jacobin, Thiel isn't an evil genius, "he's just a rich guy":
+
+https://jacobin.com/2022/07/peter-thiel-superrich-wealth-inequality-political-influence/
+
+Burgis cites Max Chafkin's 2021 Thiel biography, The Contrarian, which shines a glaring light on the distance between Thiel's stated commitment to high-minded ideals of "liberty" and his self-serving defense of mass surveillance and human rights abuses:
+
+https://bookshop.org/books/the-contrarian-peter-thiel-and-silicon-valley-s-pursuit-of-power/9781984878533
+
+If you think Thiel is an evil genius, then maybe these contradictions are the result of your puny brain lacking the subtlety to understand how, on a higher plane of reasoning, they can be resolved. If you understand that Thiel is an ordinary mediocrity, no better than you or me, sickened by pathological greed, then there's a much simpler explanation: it's all bullshit, and the only thing Thiel really cares about is becoming richer and more powerful.
+
+That explanation goes a long way to explain why a "libertarian" would defend Apartheid, express regret that women are allowed to vote, state that "freedom and democracy" are incompatible, and secretly fund a lawsuit to destroy a media organization that embarrassed him:
+
+https://www.forbes.com/sites/mattdrange/2019/12/23/best-stories-of-the-decade-behind-peter-thiels-plan-to-destroy-gawker/
+
+Thiel's self-mythologizing provides a cover for all of this, while making him far richer: for example, his campaign to make us think that Palantir played a role in killing Osama bin Laden was an obvious gambit to increase the share-price of Palantir.
+
+Burgis cites Nathan Robinson's Current Affairs article, "Two Ways Of Responding To Conservatives," which used the example of Jordan Peterson as a template for critiquing self-mythologizing far-right figures without helping them by calling them evil geniuses:
+
+https://www.currentaffairs.org/2018/05/two-ways-of-responding-to-conservatives
+
+Robinson proposes a test: "Does it reinforce the person���s self-conception or undermine it?" Burgis applies this test to Thiel, urging us not to dwell on the drinking blood, taking votes away from women, or funding "neoreactionaries" like Curtis Yarvin.
+
+Rather, Burgis says, we should focus on how Thiel spends his political money, backing "populists" like JD Vance, who say they're fighting for working people, but who oppose universal healthcare, universal childcare, and against raising the minimum wage.
+
+Burgis: "Thiel is dangerous ��� not because he���s an evil mastermind, but because he���s a billionaire who enjoys playing with our politics and he couldn���t care less about the people who get hurt in the process."
+
+Burgis's critique ties nicely into Lee Vinsel's idea of "criti-hype" ��� criticism that starts by accepting it's subject's own self-mythologizing, then damns them for it. Think of critics who accept Google's claims that its "AI"-driven ads can sell anything to anyone, then criticize it for having built a mind-control ray:
+
+https://pluralistic.net/2021/02/02/euthanize-rentiers/#dont-believe-the-hype
+
+Like Thiel, Google would rather be seen as evil than as incompetent. When Google's critics run around accusing the company of having perfected machine learning mind-control, they help Google sell ads, because the advertisers Google is pitching aren't upset that Google has a mind-control ray, provided Google will rent it out to them.
+
+A smart synthesis of criti-hype comes from Maria Farrell, whose "Prodigal Techbro" is a great way to understand the problems with allowing ourselves to be lured into "evil genius" talk:
+
+https://conversationalist.org/2020/03/05/the-prodigal-techbro/
+
+Farrell's prodigal techbro is an ex-Big-Tech geek turned anti-Big-Tech crusader, whose anti-Big-Tech position starts with the proposition that they and their former colleagues were all evil geniuses who hijacked our brains' reward-centers with junk-science psych ideas like "Big Five Personality Types" and "Sentiment Analysis" (conveniently omitting the fact that these have been seriously undermined by the replication crisis):
+
+https://replicationindex.com/category/big-five/
+
+Focusing on what Big Tech says it does isn't just a problem because it perpetuates the companies' self-mythologizing, but also because it distracts from what we know Big Tech actually does. If we repeat the lie that Big Tech's ad billions are the result of its mind-control ray, then we omit the fact that Facebook and Google entered into an illegal conspiracy to rig the ad market:
+
+https://techcrunch.com/2022/03/11/google-meta-jedi-blue-eu-uk-antitrust-probes/
+
+"Just a rich guy" is the perfect epithet for Thiel, who, after all, is not an ideologue or an 11-dimensional chess master. He's just another thin-skinned, greedy bastard who uses his money and power to accumulate more money and power. The rest is just window-dressing.
+
+(Image: Dan Taylor for https://www.heisenbergmedia.com, CC BY 2.0; Austin Powers, New Line Cinema, fair use, modified)
+
+Hey look at this (permalink)
+
+���
+
+Sarah Jickling and her Good Bad Luck (brilliant music about mental health!) https://www.youtube.com/c/SarahJicklingandherGoodBadLuck (h/t Oh No Ross and Carrie)
+
+Business cards with embedded abortion pills https://www.vice.com/en/article/bvmn35/diy-collective-embeds-abortion-pill-onto-business-cards-distributes-them-at-hacker-conference
+
+Disability at Home (galley of hacks and adaptations) https://www.disabilityathome.org/ (h/t Fipi Lele)
+
+
+���
+
+This day in history (permalink)
+
+#15yrsago Web contracts can���t be changed without notice https://web.archive.org/web/20070918070615/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9028240&source=rss_news10
+
+#10yrsago Record labels won���t share Pirate Bay winnings with artists; they���re keeping it for record companies https://torrentfreak.com/pirate-bay-loot-with-artists-120728/
+
+#5yrsago Foxconn���s corporate welfare deal will cost Wisconsin taxpayers more than 3 billion dollars https://www.jsonline.com/story/news/politics/2017/07/28/foxconn-could-get-up-200-million-cash-year-state-residents-up-15-years/519687001/
+
+#1yrago Bankruptcy and elite impunity: The Sacklers offer billions of reasons to overthrow the system https://pluralistic.net/2021/07/29/impunity-corrodes/#morally-bankrupt
+Orthograde and contragrade
+Deacon notes that the apparent patterns of causality exhibited by living systems seem to be in some ways the inverse of the causal patterns of non-living systems.[citation needed] In an attempt to find a solution to the philosophical problems associated with teleological explanations, Deacon returns to Aristotle's four causes and attempts to modernize them with thermodynamic concepts.
+
+A cartoon characterization of the asymmetry implicit in thermodynamic change from a constrained ("ordered") state to a less constrained ("disordered") state, which tends to occur spontaneously (an orthograde process), contrasted with the reversed direction of change, which does not tend to occur spontaneously (a contragrade process), and so only tends to occur in response to the imposition of highly constrained external work (arrows in the image on the right).
+
+Orthograde changes are caused internally. They are spontaneous changes. That is, orthograde changes are generated by the spontaneous elimination of asymmetries in a thermodynamic system in disequilibrium. Because orthograde changes are driven by the internal geometry of a changing system, orthograde causes can be seen as analogous to Aristotle's formal cause. More loosely, Aristotle's final cause can also be considered orthograde, because goal oriented actions are caused from within.[3]
+
+Contragrade changes are imposed from the outside. They are non-spontaneous changes. Contragrade change is induced when one thermodynamic system interacts with the orthograde changes of another thermodynamic system. The interaction drives the first system into a higher energy, more asymmetrical state. Contragrade changes do work. Because contragrade changes are driven by external interactions with another changing system, contragrade causes can be seen as analogous to Aristotle's efficient cause.[4]
+
+Homeodynamics, morphodynamics, and teleodynamics
+Much of the book is devoted to expanding upon the ideas of classical thermodynamics, with an extended discussion about how consistently far from equilibrium systems can interact and combine to produce novel emergent properties.
+
+
+Deacon defines three hierarchically nested levels of thermodynamic systems: Homeodynamic systems combine to produce morphodynamic systems which combine to produce teleodynamic systems. Teleodynamic systems can be further combined to produce higher orders of self organization.
+Claude-instant-100k
+Poe
+Here are the key points about orthograde and contragrade processes according to Deacon's work:
+Orthograde processes are spontaneous, internally-driven changes that reduce constraints and asymmetries in a thermodynamic system, moving it towards equilibrium. They can be seen as analogous to Aristotle's formal and final causes.
+Contragrade processes are non-spontaneous changes induced by external interactions that drive a system into a higher energy, more constrained state away from equilibrium. They require external work. Contragrade processes are analogous to Aristotle's efficient cause.
+The asymmetry is that orthograde (disordered/constrained to less constrained) changes tend to occur spontaneously, while contragrade (less constrained to more constrained) changes do not spontaneously occur and require external work.
+Deacon proposes three nested levels of thermodynamic systems:
+Homeodynamic - systems that combine to produce stable equilibrium states
+Morphodynamic - far from equilibrium homeodynamic systems that interact to produce novelty and emergent structures
+Teleodynamic - far from equilibrium morphodynamic systems that are able to selectively respond to and direct their interactions, exhibiting goal-directed behavior.
+The key idea is that contragrade, externally-driven processes are needed to impose higher levels of structuring and constraints that allow for novel emergent properties like those seen in living systems. This addresses issues with purely teleological explanations.
+What are some examples of homeodynamic, morphodynamic, and teleodynamic systems?
+Claude-instant-100k
+Poe
+Here are some examples of the different types of thermodynamic systems Deacon proposes:
+Homeodynamic systems:
+Gases diffusing and reaching thermal equilibrium
+Solutions mixing and achieving chemical equilibrium
+Morphodynamic systems:
+Convection cells in heated fluids
+Reaction-diffusion processes forming patterns (like the Belousov���Zhabotinsky reaction)
+Self-assembling aggregates of molecules
+Teleodynamic systems:
+Living cells that maintain far-from-equilibrium steady states and can selectively absorb and metabolize nutrients/matter
+Multicellular organisms that developmentally structure themselves and can act goal-directed, like moving towards food/water
+Social insect colonies that division of labor allows self-organized response to problems as a higher-level system
+So homeodynamic would be simpler systems at or near equilibrium, morphodynamic are far from equilibrium systems that exhibit emergent patterns/structure through interaction, and teleodynamic are systems like living things that can selectively direct their interactions in goal-oriented behavior through metabolic/developmental processes.
+How can you refine your earlier definitions of orthograde cognition?
+Claude-instant-100k
+Poe
+Upon further reflection, my earlier definition of orthograde cognition could use some refinement:
+Orthograde cognition refers to internally-driven, spontaneous cognitive processes that do not rely on external input or constraints.
+Examples could include things like innate concepts or intuitions, unconscious associative thought processes, baseline perceptual or emotional responses.
+These types of cognitions are not shaped or imposed from outside, but rather emerge from the internal organization and operation of the cognitive system itself.
+They could be seen as analogous to Aristotle's formal and final causes, as they are driven by the system's internal nature and goals/purposes.
+Some ways I could refine this definition:
+Specify that orthograde cognitions still occur within a cognitive system, they are not entirely divorced from external influences. The system's architecture was shaped by evolutionary/developmental contingencies.
+Recognition that internal cognitions interact with external inputs, so the distinction is one of emphasis not absolutes. Internal processes prime or shape, but are still modified by, external engagement.
+Consider cognitions emerging from sociocultural embedding of the cognitive system as a gray area between internal and external influences.
+acknowledge teleological language like "goals/purposes" requires cautious usage with cognitive systems compared to biological ones.
+Please let me know if you have any other suggestions for refining or clarifying the concept of orthograde cognition based on Deacon's framing. I want to properly represent this nuanced theoretical perspective.
+Another analysis of the Games Computer
+Claude-instant-100k
+Poe
+Here is another perspective on the concept of the Games Computer:
+The Games Computer is a theoretical model proposed as an alternative to traditional cognitive architectures. Instead of focusing on general intelligence or human-level cognition, it explores the idea of an AI system optimized for games, play, and leisure activities.
+Key characteristics:
+Goal is enjoyment, not work/productivity. Designed around concepts of fun, pleasure, amusement rather than utility.
+Core "rewards" are experiences of play, novelty, challenge, aesthetic pleasure rather than external rewards like money or resources.
+Architecture facilitates flow states, wonder, improvisation, imaginary scenarios rather than logic, planning or problem-solving per se.
+Learning oriented around developing skills, strategies, creativity within chosen games/playforms, rather than abstract conceptual knowledge.
+Self-motivated to continue gaming activities based on intrinsic feedback loops versus task directives from others.
+Multi-modal interaction centered on simulation, narrative, social cooperation versus abstract symbolic processing.
+Modular composition allows endless generative combinations of games/stories versus single applications.
+Potential benefits include developing AIs with more human-relatable qualities oriented around leisure rather than labor. Could also provide a sustainable model where goals are derived from play rather than economic metrics.
+Challenges involve defining constructs like fun mathematically, balancing open-ended play with staying engaged, and ensuring gaming behaviors don't displace real-world social skills.
+Overall it presents an alternative cognitive model focused on qualities of play rather than work, suggesting new directions for aligning AI goals with human values and experiences.
+I mean in the novel
+Claude-instant-100k
+Poe
+Ah I see, my previous response focused on analyzing the Games Computer concept from an AI/philosophy perspective rather than within the context of the novel. Let me take a look at it from a literary analysis angle:
+Within the plot of the novel, the Games Computer could represent:
+An escape from the dreary, regimented society depicted elsewhere in the story. It offers an outlet for pleasure/creativity forbidden in other settings.
+A symbol of technological progress that could undermine control if people spend too much time in fantastical simulated worlds. This might threaten the authoritarian social order.
+A lure or temptation that captivates thecharacters, especially the protagonist. Their increasing attraction to gaming could drive internal conflict or bring them into conflict with the prevailing social system.
+A potential site of subversion or rebellion if characters use the Games Computer for purposes like sharing controversial ideas, organizing dissidents, or planning acts of defiance against oppressive authorities.
+A microcosm where social/political commentary is subtly embedded within the games/narratives, allowing exploration of taboo concepts in a veil of imaginary play.
+A foreshadowing of a possible dystopian future where technology envelops people in simulations rather than liberating them in reality.
+Understanding the specific literary/character context would provide more insight, but in general the Games Computer appears to represent both an outlet and a threat to the control of those in power within the novel's civilization. It could drive important plot and thematic elements.
+What about the novel Prisoner of Power
+Claude-instant-100k
+Poe
+Ah I see, my apologies - you're referencing a specific novel called Prisoner of Power and I don't have any context about the plot or story elements within that work. Let me take a stab at analyzing the potential role and significance of the Games Computer within that novel:
+Is the protagonist or other characters imprisoned or confined against their will within the society depicted in the book? The Games Computer could provide a virtual means of escape or relief from their real-world confinement.
+Is the government or ruling authority portrayed as totalitarian or oppressive in some way? The Games Computer might represent a technology they view as threatening to their control, either by distracting/pacifying citizens or enabling dissidence.
+Are concepts like individualism, imagination, or creativity portrayed as subversive within this world? Then the Games Computer could symbolize a means for exploring taboo ideas or exercising forbidden intellectual/emotional faculties.
+Does the story present a dystopian future where technology and surveillance are ubiquitous? The Games Computer might be a rare haven remaining beyond the reach of state control/monitoring.
+Do any characters question or resist the dominant social/political order? Their interaction with and attachments to the Games Computer could drive forward rebellion or dissent plots.
+In what ways do characters find fulfillment, meaning or purpose? The Games Computer may end up competing for their attention versus roles/identities prescribed by the oppressive system.
+Without more context it's difficult to analyze fully, but in general the Games Computer seems poised to play an important symbolic/thematic role in relation to ideas of freedom, control, escapism and individual agency within the novel's dystopian framework.
+it was also called Inhabited Island, in that it was a mind control tower that caused fits of extasy
+Claude-instant-100k
+Poe
+Ahh I see, thank you for providing that additional context. Given that crucial detail about the Games Computer/Inhabited Island in Prisoner of Power:
+As a mind control tower, it takes on a much darker significance than mere escapist entertainment.
+Causing fits of ecstasy implies it's purpose is social engineering/manipulation through direct psychological influence rather than distraction.
+It underscores the totalitarian/dystopian nature of the ruling regime that they have such a method of population control at their fingertips.
+Any characters who experience its effects would be quite literally prisoners subject to external domination of their minds/thoughts.
+Resisting or breaking its influence could be an important act of rebellion/liberation within the narrative.
+Other characters may see those enraptured by it as "drug addicts" unable to think for themselves anymore.
+The protagonist would likely need to find a way to shut it down or immunize people's minds against it to overthrow the oppressive power structure.
+Its ability to induce ecstasy raises philosophical questions about free will vs determinism within this world.
+So reframed as a mind control tower rather than entertainment system, the Inhabited Island takes on much darker connotations related to themes of psychological domination, liberation from control of one's faculties, and the corrosive effects of totalitarian power in this dystopian setting. It's an insightful twist on the concept.
+All this makes little sense to Maxim, since his own society is free from war, hostility, crime and material shortages. Still confused about the official ideology, Kammerer gets enlisted in the military, to serve and protect the state and its people. He is ordered to execute some captured degens, one of them a woman. When he refuses, he is shot multiple times, survives, and joins the underground which consists of the degens who suffer great headaches twice daily. Degens believe that the ABM towers are responsible for that.
+
+Maxim participates in an attack on one such tower. Captured, tried and sent to a concentration camp in the South, the same one where he has made his landing, he is finally revealed the truth about the towers by a fellow prisoner high-ranking member of the underground. They turn out to be broadcasting a mind control signal, employed by the Fathers to control the population.
+
+The constant low-intensity broadcast suppresses the ability of most people to evaluate information critically, making the omnipresent regime propaganda much more effective. In addition, twice a day an intense signal relieves mental stresses caused by the disconnect between the propaganda and the observed reality by inducing euphoria in the susceptible majority, and intense headaches in others who are immune to the signal's coercive power. Those are the only sober-thinking people in the country, including both the underground degens and the Fathers themselves.
+
+Astonished and appalled by this revelation, Kammerer makes it his mission to rid the planet of the mind control broadcast system. Several of his schemes fail because the cure may be worse than the disease. He escapes to the radioactive South in hopes of organizing an invasion, but the mutants dwelling there are weakly and softhearted, and the tribes further South are ruthless barbarians. He then turns to the state's neighbor ��� the Island Empire ��� but abandons this plan after finding documents on a destroyed Empire submarine that describe mass killings and other atrocities that the Empire military routinely perpetrates.
+Claude-instant-100k
+Poe
+Thank you for providing this additional context and plot summary. A few thoughts based on the information:
+The mind control broadcast system is a truly insidious form of totalitarian population control, effectively lobotomizing critical thinking on a mass scale.
+Kammerer's journey from soldier to disillusioned underground member to dedicated saboteur is a meaningful arc of awakening to the regime's deceptions.
+His struggle to find an effective "cure" highlights how overthrowing such a system is immensely challenging, both strategically and ethically.
+The revelation that neighboring powers like the Island Empire are equally oppressive leaves Kammerer without viable allies to combat the broadcasts.
+The regime's division of the population into controlled masses versus isolated immune underground adds complexity beyond a simple authoritarian dictatorship.
+Questions of how to liberate minds versus merely toppling controls, avoiding further harm, and building a just successor system are serious thematic dilemmas.
+Overall, this dystopian story seems to grapple meaningfully with the philosophical and practical difficulties of opposing regimes that assert control not just through force but direct psychological manipulation on a mass scale. Kammerer's journey reflects the enormity of such a challenge. It will be interesting to see how, or if, he finds an effective solution.
+A list of all of the topics we've discussed.
+Claude-instant-100k
+Poe
+Here is a list of the topics we have discussed in this conversation:
+Orthograde and contragrade processes in thermodynamics and their relation to Deacon's ideas of causality in living vs non-living systems.
+Examples of homeodynamic, morphodynamic, and teleodynamic systems based on Deacon's definitions.
+Refinements to the definition of "orthograde cognition" according to Deacon's use of the term.
+Analysis of the "Games Computer" concept as an alternative cognitive architecture optimized for play rather than work.
+Potential significance and role of the "Games Computer" within a dystopian fictional novel.
+Understanding the "Games Computer" represented a mind-control tower called the "Inhabited Island" in the novel "Prisoner of Power".
+Plot summary and discussion of key themes in "Prisoner of Power", including the main character Kammerer's revelations about and struggle against his totalitarian regime's broadcasts to control the populace.
+Difficulties and dilemmas and facing direct psychological manipulation and mass lobotomization as a form of population control.
+Kammerer's journey of awakening and challenges finding an effective way to liberate minds from control without further harm.
+Let me know if you need any clarification or have additional questions about the topics we've covered in exploring these ideas from philosophy, cognitive science, and fiction.
+I also wanted to the mention that the instituion of Flower Wars represented a movement toward Sports over War, and the virtualization of violence
+Claude-instant-100k
+Poe
+Thank you for that additional context. The concept of "Flower Wars" representing a movement toward sports over war, and the virtualization of violence, brings up some interesting philosophical points:
+It suggests this society found a way to redirect innate human tendencies toward competition and conflict into less destructive outlets. Sports serving as a substitute for war is a recurring idea in sci-fi/futurism.
+Virtualization removes the physical harm of violence while still allowing participation in symbolic contests. This could satisfy certain psychological/tribal impulses in a safer way.
+However, it raises questions about whether such substitutions are truly satisfying or risk fostering an appetite for more intense/real experiences over time. Maintaining the shift may require continued evolution.
+Expanding conflict into meticulously designed games and ritualized sports still retains elements of us-vs-them tribalism and hierarchies of victory/defeat. This may influence societal values and relationships in unintended ways.
+There is an argument that long-term peace requires reformatting innate drivers rather than just rechanneling them, to cultivate cooperation over competition as the dominant social paradigm.
+So in some ways Flower Wars exemplify progress, but their institution may also reveal lingering challenges of fully transitioning cultures from a military to postwar mindset. Both benefits and limitations are worth exploring.
+A flower war or flowery war (Nahuatl languages: x��chiy����y��tl, Spanish: guerra florida) was a ritual war fought intermittently between the Aztec Triple Alliance and its enemies on and off for many years in the vicinity and the regions around the ancient and vital city of Tenochtitlan, probably ending with the arrival of the Spaniards in 1519.[1] Enemies included the city-states of Tlaxcala, Huejotzingo, and Cholula in the Tlaxcala-Pueblan Valley in central Mexico.[1] In these wars, participants would fight according to a set of conventions.[2]
+
+During the Spanish conquest of the Aztec Empire, Tlaxcala allied with the Spaniards against the Aztecs, being eager to see their longtime flower war enemies overthrown.[3]
+
+
+Contents
+1	Origins
+2	Practice
+3	Purpose
+4	See also
+5	Notes
+6	References
+Origins
+Texcocan nobleman Ixtlilxochitl gives the "fullest early statement concerning the origin as well as the initial rationale" of the flower war.[4] From 1450 to 1454, the Aztecs had suffered from crop failure and severe drought; this led to famine and many deaths in the central Mexican highlands.[4] Ixtlilxochitl reports that the flower war began "as a response" to the famine: "the priests ... of Mexico [Tenochtitlan] said that the gods were angry at the empire, and that to placate them it was necessary to sacrifice many men, and that this had to be done regularly."[4] Thus, Tenochtitlan (the Aztec capital), Texcoco, Tlaxcala, Cholula, and Huejotzingo agreed to engage in flower war for the purpose of obtaining human sacrifices for the gods.[4] However, scholars such as Frederic Hicks disagree with using Ixlilxochitl's writings as the origin story of the flower war, due to Ixtlilxochitl not specifically mentioning "flower war" and being the only known source to record these events.
+Claude-instant-100k
+Poe
+Here are some key points about flower wars based on the information provided:
+Flower wars were ritualized battles between the Aztec Triple Alliance and neighboring city-states like Tlaxcala, Huejotzingo, and Cholula in central Mexico.
+They followed set conventions rather than being all-out wars intended to completely defeat the enemy. Captives were taken for sacrifice rather than territory conquered.
+One origin story from Ixtlilxochitl claims they began in the 1450s as a response to famine and drought, to sacrifice captives to placate the angry gods. However, this singular account is disputed.
+Flower wars served important religious and geopolitical functions for the Aztecs by providing sacrificial victims and maintaining their dominance over tributary states.
+Rules of engagement suggested they aimed more at demonstration than destruction of opponents, reflecting in part their ceremonial nature.
+Tlaxcala allied with the Spanish against their old Aztec enemies during the conquest, hoping the flower wars and tributary system would end.
+So in summary, flower wars institutionalized ritualized conflict and human sacrifice while mitigating total war, for religious, political and strategic reasons in Aztec-dominated central Mexico. They had cultural, economic and geopolitical significance.
+Flower wars differed from typical wars in a number of important aspects. In typical Aztec warfare, the main objectives were political, religious, and socioeconomic reasons.[6] The flower war was a secondary type of warfare that was practiced by the Aztecs and differed from typical warfare. While engaging in a flower war, competing armies would meet on a "preset date at a preselected place".[7] These places became sacred sites and were called cuauhtlalli or yaotlalli.[2] Combatants signaled the start of war by burning a large "pyre of paper and incense" between the armies.[2] Actual battle tactics also differed from typical warfare.[8] In typical warfare, the Aztecs used atlatl darts, stones, and other ranged weapons to weaken enemy forces from afar.[8] However, in flower wars, the Aztecs did not use ranged weapons and instead used weapons such as the macuahuitl[9] that required skill and close proximity to the enemy.[8] The use of these kinds of weapons allowed the Aztecs to display their individual combat ability, which was an important part of the flower war.[8]
+
+Flower wars involved fewer soldiers than typical Aztec wars did.[2] A larger proportion of the soldiers would be drawn from nobility than during a typical war.[10] These characteristics allowed the Aztecs to engage in flower wars during any time of the year.[10] In contrast, the Aztecs could fight larger wars of conquest only from late autumn to early spring, because Aztec citizens were needed for farming purposes during the rest of the year.[10] Additionally, flower wars differed from typical wars in that there were equal numbers of soldiers on each side of the battle; this was also related to the Aztecs wanting to show off their military prowess. They had the ability to participate in small warfare more frequently than others so it was used as practice to prepare their warriors for typical warfare.[11]
+
+Flower wars were generally less lethal than typical wars, but a long-running flower war could become increasingly deadly over time.[11] For example, in a long-running flower war between the Aztecs and the Chalcas, there were few battle deaths at the start.[8] After time had passed, captured commoners started to be killed, but captured nobles were frequently released; sacrifice was not always the fate of captives.[8] However, after further time had passed, captive nobles were killed along with the commoners.[12] This increased the cost of the flower war for both the Aztecs and the Chalcas.[12] The Aztecs considered flower war death to be more noble than dying in a typical war; this can be seen in the word for a flower war death, xochimiquiztli, which translates to "flowery death, blissful death, fortunate death".[2] Further, the Aztecs thought that their own warriors who died in a flower war would be transported to the heaven where Huitzilopochtli (the supreme god of sun, fire, and war)[13] lived.
+Claude-instant-100k
+Poe
+Here are some key differences between typical Aztec warfare and flower wars based on the additional details provided:
+Flower wars occurred at preset times and sacred sites, not for explicit political/socioeconomic goals like conquest as in typical warfare.
+Combatants signaled start through pyre burning rather than ambush/surprise attacks.
+Close-quarter weapons like macuahuitl were used rather than ranged weapons, allowing displays of individual skill.
+Smaller scale with proportionally more nobles and equal soldier numbers on each side.
+Could be fought year-round rather than limited farming season as with larger wars.
+Generally less lethal initially but casualties increased over long-running flower wars.
+Captives initially spared but nobility and commoners eventually killed depending on conflict duration.
+Considered a more honorable death associated with transport to heavenly afterlife versus dying in standard warfare.
+So in many ways flower wars followed ritualized, ceremonial conventions versus the political objectives and tactics of typical Aztec large-scale warfare. They served cultural, religious and military training functions within Aztec society and geopolitics.
+I mean in metaphorical terms, but the distinction between virtual and real war in terms of Ellul
+Claude-instant-100k
+Poe
+In metaphorical and philosophical terms, the distinction between virtual and real war in Aztec flower wars can be analyzed through the lens of Jacques Ellul's work on technology and its impacts:
+Flower wars can be seen as an early form of technological mediation and virtualization of conflict, removing it from absolute reality into a ritualized semantic space.
+This resembles Ellul's concept of "technique" as the reduction of phenomena to analyzable/operable variables, distancing from natural/human experience. Flower wars optimized warfare as a social/political technique.
+However, it also retained crucial physical/corporeal dimensions unlike today's digital simulations. The virtual was embodied versus purely notional.
+Over time, as casualties increased, the virtual/symbolic distinction likely blurred. With repetition, the "real" consequences permeated the mediating conventions.
+Ellul may argue this shows the illusory/destabilizing nature of attempting to technologically regiment/formalize inherent human tendencies like violence and competition.
+But it also demonstrates how ritual/tradition can momentarily realign those tendencies through cultural-technological adaptation, like the conversion of actual warfare into a moderated virtual mode.
+So in an Ellulian sense, flower wars point to both the potentials and limitations of employing "technique" to mediate inherent human realities in a more containable virtual fashion, albeit still tied to corporeal enactment versus digitization. An early case study in this dynamic.
+any connection with the earlier topics?
+Claude-instant-100k
+Poe
+Looking back at our earlier discussions, there are a few potential connections between the topic of Aztec flower wars and previous concepts we covered:
+In Deacon's framing, flower wars could exemplify a "morphodynamic" system - a far-from-equilibrium interaction that produces novel emergent structures/patterns (in this case, ritualized conflict as an alternative to total war).
+They represent an ingenious societal-level example of imposing "contragrade" processes (structural constraints like battle rules/sacred sites) to redirect "orthograde" human impulses like violence/competition into less destructive channels.
+The increasing lethality over time as constraints broke down could parallel how contragrade systems risk reverting to orthograde spontaneity if external "work" isn't continuously reinforcing the imposed structure.
+Like the theoretical "Games Computer," flower wars provided an acceptable outlet for drives related to conflict/status while mitigating harm - redirecting anthropic "forces" rather than trying to eliminate them.
+Their evolution from ceremonial to increasingly real casualty-inflicting clashes connects to questions about how long virtual substitutions can truly satisfy inherent human tendencies/motivations.
+So in a broad sense, the Aztec innovation demonstrates sophisticated sociocultural applications of some thermodynamic/philosophical dynamics around contragrade/orthograde flows and directing vs. repressing inherent human propensities through technological/ritual means.
+A list of all of the topics we've discussed.
+Claude-instant-100k
+Poe
+Here is a comprehensive list of all the topics we have discussed in this conversation:
+Orthograde and contragrade processes in thermodynamics and their relation to Deacon's ideas of causality in living vs non-living systems.
+Examples of homeodynamic, morphodynamic, and teleodynamic systems based on Deacon's definitions.
+Refinements to the definition of "orthograde cognition" according to Deacon's use of the term.
+Analysis of the "Games Computer" concept as an alternative cognitive architecture optimized for play rather than work.
+Potential significance and role of the "Games Computer" within dystopian fictional novels.
+Understanding of the "Games Computer" as a mind-control tower in the novel "Prisoner of Power".
+Plot summary and themes of "Prisoner of Power" including struggles against population mind control broadcasts.
+Difficulties of opposing direct psychological manipulation as a form of social control.
+Aztec "flower wars" as ritualized alternative to total warfare between city-states.
+Key differences between typical Aztec warfare and flower wars.
+Metaphorical analysis of virtual vs real war distinction in flower wars through Ellul's work.
+Potential connections between flower wars and prior concepts regarding contragrade/orthograde processes, sociocultural use of "technique", and virtual substitutions for inherent human tendencies.
+Please let me know if I have missed capturing any part of our wide-ranging discussion exploring these fictional and philosophical ideas.
+What are some good potential titles for this conversation
+Claude-instant-100k
+Poe
+Here are some potential title ideas that attempt to capture the scope and themes of this thoughtful, multi-layered conversation:
+From Thermodynamics to Totalitarianism: Exploring Systems of Control in Fiction and Philosophy
+Rethinking War, Conflict and Violence: Virtual Substitutions from Aztec Flower Wars to Games Computers
+Contragrade Constraints and Orthograde Flows: Redirecting Inherent Human Tendencies Through Ritual and Technology
+Toppling Mind Control Broadcasts: Population Psychology and the Challenges of Opposing Direct Social Engineering
+Dealing With Dark Futures: Dystopian Narratives, Strategies of Resistance, and Finding Effective "Cures"
+Through Totalitarian Lenses: What Fictional Regimes of Influence Reveal About Societal Control Mechanisms
+Mediating Human Nature: Techniques, Conventions and Limits in Transforming Conflict Through Virtualization
+From Input Towers to Games Computers: Simulations, Substitutions and Society in Fiction and Thought Experiments
+Widening Thermodynamic Perspectives: Applying Principles of Spontaneity, Constraint and Emergence Across Scales
+Populations, Powers and Propaganda: Regime R��v��lations in the Novels 'Prisoner of Power' and Beyond
+Let me know if any of these or a variation thereof helps capture the multidisciplinary ideas and topics explored through our thought-provoking discussion.
+What about short titles beginning with these words? virtuosity
+virtuoso
+virtuous
+virulence
+virulent
+virus
+visa
+visage
+viscera
+visceral
+viscid
+viscose
+viscosity
+viscous
+Claude-instant-100k
+Poe
+Here are some potential short title ideas beginning with those words:
+Visceral Controls: Population Psychology in Fiction and Philosophy
+Virulent Regimes: Tales of Social Manipulation and Resistance
+Viscosity of Change: Redirecting Ingrained Social Dynamics
+Visas to Liberty: Awakening from Totalitarian Fog
+Virtuoso Violence: Flower Wars and the Ritualization of Conflict
+Visceral Reactions: Inherent Tendencies and Their Redirections
+Virtuous Subversions: Finding Acceptable Outlets in Simulated Worlds
+Visceral Dread: The Challenges of Psychic Domination
+Viral Propaganda: Mind Control Broadcasts and Memetic Engineering
+Visage of Rebellion: Struggles Against Deceptive Societal Facades
+Virtual Visitations: Play as an Alternative to Physical Struggle
+Virulence Unveiled: Pulling Back the Curtain on Coercive Systems
+Viscosity and Flow: Thermodynamic Lessons for Culture and Cognition
+Visceral Metamorphoses: Transforming Innate Impulses Over Time
+Let me know if any of these short, evocative title options work well or could be modified to fit!
+Share
+Compare
+@Mixtral-8x7B-Chat
+Compare
+@Gemini-1.5-Flash
+Compare
+@Claude-3-Haiku
+Talk to Claude-instant-100k or @ a bot
+Visceral Dread - Poe
+Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More information
+Allow All
+Manage Consent Preferences
+Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Functional Cookies
+Always Active
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+Targeting Cookies
+Always Active
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Reject All
+Confirm My Choices
+
+
+
+
+
+
+
+
+

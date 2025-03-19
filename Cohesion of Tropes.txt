@@ -1,0 +1,543 @@
+Gemini
+Try Gemini Advanced
+New chat
+Recent
+Data Timeline Options
+Refining Innovative Sustainability Concepts
+Simple Rules, Big Ideas
+ICH: Mind-Altering Tech Risk
+Could you rewrite this in a more natural and human style?
+Show less
+Sustainable Agriculture Through IP in Nigeria
+Vestigial Indolence: Efficiency's Cognitive Roots
+No Image Support Yet
+Unsupported Language
+Abstracting Math's Paradox
+Children's Ideal Environments
+Math as Timeless Agent
+Agency in Math: Choice & Efficiency
+Agency in Math: A New Perspective
+Recursion in Dog City
+Anarchism & Beyond: Exploring Freedom and Governance
+Efficient World Modeling with Causal Submodels
+Biomimetic AI via Mortal Computation
+DBT Therapy for Mental Health
+Provide more information
+Formal Epistemology and Degrees of Belief
+Thinking Cost: Escape Negativity
+The Dark Fetish Side to Crazy Trans Ideology - Stella O���Malley (4K) | heretics. 35
+Humanity's Destructive Potential
+Strategy Games for Reasoning Training
+Rethinking Capitalism: Is Reverse Possible?
+The Uncanny Valley of Communication
+Self-Repair in Large Language Models
+Mental development through adulthood
+Balancing Bone and Blood: A Look at Conflicting Forces in Decision-Making
+Infrascarse Economics
+Diagonal Argument: Real Numbers Uncountable
+Improving Beam Search with Patience
+Termite nest architecture: Self-organization and mathematical modeling
+Removing Bias: INLP Learns Fairer Word Embeddings
+Unveiling Neural Networks: Amnesic Probing as Loss-of-Function
+Mind & Matter as Information Geometry
+Escaping the Feature Trap: Software Bloat & the Growth Myth
+Metasurfaces: Light Manipulation Revolution
+Seeing Beyond Our Blindness
+Multiordinal Terms
+Canada joins the Gemini AI revolution
+Awe Soars in a Future Eden
+Prompt Engineering
+Futuristic Innovations for Daily Life
+Knowledge Leakage
+Cohesion of Tropes
+Gem manager
+Help
+Activity
+Settings
+Saint John, NB, Canada
+From your device
+���
+Update location
+Gemini
+Conversation with Gemini
+The story that unfolded
+after that morning did not
+have a triumphant conclu-
+sion. Several molecules isolated-scotophobin
+were being the best known-that
+were alleged to have behav-
+ioral effects. Other peptides
+were shown to be neuroac-
+tive beyond the shadow of a
+doubt.
+And I did go on to
+have a modestly successful
+and rewarding career in
+science. But scotophobin's
+discoverer, Georges Ungar,
+died in greater ignominy
+and less honor than his
+considerable
+accomplishments warranted.
+Scotophobin was discred-
+ited but never fully ex-
+plained. And those of us
+who worked even briefly on
+the disreputable notion of
+biochemical transfer
+memory found it a ride we
+would never forget.
+Scotophobin: Darkness at the Dawn
+of the Search for Memory Molecules
+by Louis Neal Irwin
+Analysis of the Text
+This passage recounts the story of scotophobin, a molecule once thought to be responsible for fear of darkness, and its eventual downfall.
+Key Points:
+Scotophobin's discovery and subsequent discrediting:
+The initial excitement surrounding scotophobin's potential as a memory molecule ultimately led to its demise and damage to the reputation of its discoverer, Georges Ungar.
+The author's personal experience:
+The author, a researcher involved in the scotophobin saga, reflects on the enduring impact of the discovery and its eventual unraveling.
+The legacy of scotophobin:
+Despite its downfall, the pursuit of scotophobin paved the way for the discovery of other neuroactive peptides like endorphins.
+Overall tone:
+The passage conveys a sense of disappointment and reflection, acknowledging the scientific community's missteps but also recognizing the valuable lessons learned from the experience.
+Possible Interpretations:
+The story of scotophobin serves as a cautionary tale about the dangers of overhyping scientific discoveries and the importance of rigorous research.
+The pursuit of scotophobin, though ultimately unsuccessful, contributed to the advancement of knowledge in the field of neuroscience.
+The passage reflects on the human tendency to seek simple explanations for complex phenomena, like the biological basis of memory.
+Additional Information:
+The passage is an excerpt from the book "Scotophobin: Darkness at the Dawn of the Search for Memory Molecules" by Louis Neal Irwin. The book delves deeper into the history of scotophobin, its impact on the scientific community, and the ethical considerations surrounding the study of memory.
+Further Discussion Questions:
+What are the ethical implications of researching memory transfer?
+How can the scientific community learn from the mistakes made in the case of scotophobin?
+What is the role of skepticism and critical thinking in scientific research?
+So do you know anything about the history of this molecule?
+Yes, I do have some information about the history of scotophobin. Here's a summary:
+Early Claims:
+1965:
+Georges Ungar, a prominent neuroscientist, claimed to have isolated a molecule from trained planarians (flatworms) that could transfer their acquired fear of darkness (scotophobia) to untrained ones. This molecule was named scotophobin.
+Public and scientific excitement:
+The discovery garnered widespread attention due to its potential implications for understanding memory and manipulating behavior.
+Growing Doubts and Discrediting:
+Difficulties in replicating results:
+Several researchers attempted to replicate Ungar's findings but faced inconsistencies and failures.
+Allegations of scientific misconduct:
+Questions arose about Ungar's methodology and data analysis, leading to accusations of fraud.
+1970s:
+Scotophobin's existence and memory-transferring effects were largely discredited.
+Legacy and Further Research:
+Damage to Ungar's reputation:
+The scotophobin scandal significantly tarnished Ungar's scientific reputation, despite his other contributions to neuroscience.
+Shift in focus:
+While scotophobin itself was debunked, the research surrounding it paved the way for the discovery of other neuroactive peptides like endorphins.
+Continuing search for memory molecules:
+Research into the biological basis of memory continues, exploring various pathways and mechanisms.
+Additional Resources:
+Book:
+"Scotophobin: Darkness at the Dawn of the Search for Memory Molecules" by Louis Neal Irwin
+Article:
+"Georges Ungar and memory transfer" by B Setlow (Journal of the History of the Neurosciences, 1997)
+Online resources:
+National Institutes of Health, Society for Neuroscience
+It's important to note that the history of scotophobin remains a complex and controversial topic, with ongoing debates about scientific rigor and ethical considerations surrounding research on memory transfer.
+( How ( + ( - ( 1 ) ( 2 ) ) ( - ( 1 ) ( 2 ) ) play ) spherepop: ( (Find the ( innermost bubble ) ) and then pop as many ( + b u b b l e s ) ) as you can ( . ) ) )
+Spherepop - A 3D programming language where you grow bubbles from seed and each nested sphere represents a node in an abstract syntax tree, and you evaluate functions and run programs by popping bubbles.
+We started by discussing the impact of a researcher's measurement choice on performance.
+Then we talked about Spherepop, a hypothetical 3D programming language where programs are written by growing bubbles and evaluated by popping them.
+We then shifted to discussing Haplopraxis, a space exploration and typing tutor game. The goal of the game is to explore planets by flying a spaceship and popping bubbles associated with vocabulary words.
+You lose all your points if the game is reset, except if you are blinking, which can be enabled with autoblink or super autoblink.
+The global reset key is 'g'.
+Finally, we clarified some of the details about the game, including the controls for flying the spaceship and the mechanics of popping bubbles and avoiding resets.
+I analyzed the provided text and can offer the following insights:
+1. Spherepop Programming Language:
+The text introduces "Spherepop," a 3D programming language where programs are grown from seed bubbles and evaluated by popping them.
+The nested structure of bubbles represents nodes in an abstract syntax tree.
+This suggests that Spherepop could be a unique and engaging way to learn and understand programming concepts.
+2. Haplopraxis Game:
+The text introduces "Haplopraxis," a space exploration game that combines vocabulary learning with typing practice.
+Players explore planets by flying a spaceship and popping bubbles associated with vocabulary words.
+Losing points due to resets (except when blinking) adds a challenge and encourages players to be careful.
+The global reset key 'g' provides a way to restart the game if needed.
+3. Game Controls and Mechanics:
+Specific details about flying the spaceship and popping bubbles are missing.
+Clarifying these controls and mechanics would be helpful for understanding how to play the game.
+Additionally, information about avoiding resets would be beneficial for players to avoid losing points.
+Overall:
+The provided text introduces two intriguing concepts: Spherepop, a novel programming language, and Haplopraxis, an educational game. While some details are missing, the information provided is sufficient to spark interest and encourage further exploration.
+Here are some additional questions that may be helpful:
+For Spherepop:
+How are different programming constructs represented in the bubbles?
+How is program execution visualized with popping bubbles?
+Are there any existing implementations of Spherepop available?
+For Haplopraxis:
+What is the difficulty level of the vocabulary words?
+Are there multiple levels or challenges in the game?
+What are the rewards for successfully completing tasks?
+How is blinking implemented and how does it affect gameplay?
+By answering these questions, we can gain a deeper understanding of these concepts and their potential impact on learning and entertainment.
+On the Compresence of Tropes
+Arda Denkel
+Philosophy and Phenomenological Research
+Vol. 57, No. 3 (Sep., 1997), pp. 599-606 (8 pages)
+Published By: International Phenomenological Society
+Abstract
+Once we assume that objects are bundles of tropes, we want to know how the latter cohere. Are they held together by a substratum, are they linked by external relations or do they cling to one another by internal relations? This paper begins by exploring the reasons for eliminating the first two suggestions. Defending that the third option can be made plausible, it advances the following thesis: Maintaining that tropes are held in a compresence by appropriately qualified internal relations avoids the consequence that such properties will be essential to the object. The specific targets of the second part of the paper include, first, a more precise description of the notion of a cohesive internal relation, and second, an explanation of how alteration is possible in an object the particular properties of which hold together by qualified internal relations
+1) Theories of Cohesion. Once we assume that substances are (at least) comp-
+resences of particular properties (or "tropes"), we become liable to the ques-
+tion "How do properties hold together (or "'cohere") in bundles?" In an inter-
+esting paper,' Peter Simons discusses a number of alternative answers to this
+question. First, he considers attempts to explain the cohesion of the elements
+of a compresence by external relations, and criticizes them mainly for the im-
+plausibly large number of such relations they entail. He also rejects the ex-
+planation of concrete bundles which views properties bonded to particular po-
+sitions: The latter type of account reveals its implausibility when we take
+motion into account. How, on such a view, can the same substance, and
+hence the same tropes in the same bundle, be said to change position? A third
+explanation of cohesion hypothesizes a substratum bearing the tropes and
+lending them unity within a single concrete entity. Simons' objection is that
+such bare particulars are "...inconsistent in that it is essential to them that
+they have no properties ..essentially, and essential that they be not in more
+than one substance at once".2
+Let us note here that there exist yet other reasons for rejecting theories of
+cohesion that appeal to external bonds between tropes, whether or not they
+also appeal to substrata: For example any such view is bothered by some
+"Particulars in Particular Clothing: Three Trope Theories of Substance", Philosophy and
+Phenomenological Research 54 (1994), pp. 553-75.
+P. 566.
+Summary of the Text: "On the Compresence of Tropes"
+This article discusses the concept of
+tropes
+in metaphysics, specifically how they cohere to form substances. The author, Arda Denkel, explores three main theories of cohesion:
+1. External Relations:
+This theory proposes that tropes are held together by external relations between them. However, it is rejected due to the implausibly large number of relations it would require.
+2. Concrete Bundles:
+This theory suggests that tropes are bonded to specific positions within a substance. However, it is criticized for its difficulty in explaining how substances can change position while maintaining the same tropes.
+3. Substratum:
+This theory posits the existence of a substratum, a bare particular that bears the tropes and grants them unity. Denkel argues against this view, stating that such substrata would be inconsistent because they would have no essential properties and could not be part of multiple substances.
+Denkel then proposes an alternative theory:
+qualified internal relations
+. He argues that the compresence of tropes can be explained by internal relations that are specific to the particular tropes involved. These relations are not essential to the tropes themselves, avoiding the problem of essential properties.
+The second part of the article further elaborates on this theory by:
+Providing a more precise description of cohesive internal relations.
+Explaining how alteration is possible in an object whose properties are held together by these relations.
+Overall, the article argues that tropes cohere through qualified internal relations, offering a solution to the problem of cohesion that avoids the shortcomings of other theories.
+A list of all of the topics we've discussed.
+Memory Transfer
+: We discussed the discovery of Scotophobin, a molecule once believed to transfer fear of darkness, and its eventual downfall. This included discussing the ethical implications of researching memory transfer and the impact of scientific misconduct.
+Spherepop
+: We explored the concept of Spherepop, a hypothetical 3D programming language where programs are written by growing bubbles and evaluated by popping them. We discussed the potential benefits and challenges of this approach to learning programming.
+Haplopraxis
+: We introduced Haplopraxis, a space exploration game that combines vocabulary learning with typing practice. We discussed the game mechanics, controls, and challenges.
+Cohesion of Tropes
+: We analyzed a philosophical article discussing the concept of tropes and how they cohere to form substances. We explored different theories of cohesion, including external relations, concrete bundles, and substrata, and ultimately discussed the proposed solution of qualified internal relations.
+These are the main topics we have discussed so far. Is there anything specific you would like to discuss further or ask questions about?
+Connections between the topics.
+Connections between the Topics:
+While seemingly diverse, the topics we discussed share some interesting connections:
+1. Learning and Knowledge:
+Spherepop:
+This 3D programming language offers a novel and potentially engaging way to learn programming concepts. It gamifies the learning process and promotes visual representation of abstract concepts.
+Haplopraxis:
+This game combines vocabulary learning with typing practice, making the process more interactive and enjoyable. It also emphasizes space exploration, adding an element of adventure and discovery.
+Cohesion of Tropes:
+Understanding the nature of properties and their relationships is crucial for comprehending complex concepts and forming knowledge.
+2. Representation and Reality:
+Spherepop:
+This language challenges traditional text-based programming by representing concepts through 3D bubbles. This raises questions about the relationship between symbolic representation and the underlying reality.
+Haplopraxis:
+The game combines real-world vocabulary learning with a virtual space exploration experience, blurring the lines between virtual and actual environments.
+Cohesion of Tropes:
+The debate over the nature of tropes and their relations delves into fundamental questions about the relationship between individual properties and the objects they compose.
+3. Ethics and Responsibility:
+Scotophobin:
+The story highlights the ethical concerns surrounding scientific research, particularly the potential for manipulation and harm.
+Spherepop:
+The design and implementation of such a unique language will raise questions about accessibility and inclusivity, requiring careful consideration.
+Haplopraxis:
+The game's mechanics and content should be designed to promote responsible behavior and positive learning experiences.
+4. Creativity and Innovation:
+Spherepop:
+This language encourages a new way of thinking about programming, fostering creativity and innovation in software development.
+Haplopraxis:
+The combination of vocabulary learning and space exploration creates a unique and engaging learning experience, stimulating creative thinking.
+Cohesion of Tropes:
+Understanding the nature of tropes and their relationships can lead to new insights into the world around us and inspire creative approaches to problem-solving.
+By exploring the connections between these seemingly disparate topics, we can gain a deeper understanding of the complex interplay between technology, learning, ethics, and creativity.
+Do you think you could write the introduction to an essay on these topics?
+Introduction: Exploring the Intertwined Threads of Learning, Technology, Ethics, and Creativity
+Across seemingly disparate fields, fascinating threads connect learning, technology, ethics, and creativity. From the burgeoning possibilities of novel programming languages like Spherepop (imagine a program written by growing and popping bubbles!) to the ethical considerations surrounding the search for memory transfer molecules like scotophobin, these diverse topics are intricately intertwined.
+Imagine a child engrossed in Haplopraxis, a game that transforms learning vocabulary into an exciting space exploration adventure. As they navigate their spaceship, popping bubbles associated with words, they are not just acquiring knowledge, but also developing critical thinking, problem-solving skills, and a sense of wonder. This playful engagement with language exemplifies the profound impact technology can have on learning, fostering not just memorization but genuine understanding and joy.
+Yet, alongside the excitement of technological advancements, we must also consider the ethical implications. The case of scotophobin, a molecule once believed to transfer fear, serves as a stark reminder of the potential for scientific research to veer off course. As we delve deeper into the mysteries of cognition and consciousness, ensuring responsible and ethical research practices becomes paramount.
+Furthermore, the question of how properties and concepts cohere to form our understanding of the world lies at the heart of philosophical debates surrounding tropes. Examining the nature of these fundamental building blocks of knowledge illuminates the complex relationship between individual elements and the whole, reminding us that creativity thrives on a foundation of understanding and interconnectedness.
+As we embark on this exploration, we invite you to join us in unraveling the intricate tapestry woven from these seemingly disparate threads. Together, we can explore the ways in which technology empowers learning, the ethical boundaries that guide our pursuit of knowledge, and how creativity flourishes through the interplay of diverse perspectives.
+This journey promises to be both enlightening and thought-provoking, prompting us to question our assumptions, challenge our preconceptions, and ultimately, gain a deeper appreciation for the interconnectedness of all things. So, buckle up, and let us begin!
+More academic and technical
+Introduction: A Convergence of Learning, Technology, Ethics, and Creativity
+Within the contemporary landscape of knowledge exploration, a fascinating convergence emerges at the intersection of learning, technology, ethics, and creativity. This confluence presents a fertile ground for investigation, where diverse disciplines and methodologies intersect to illuminate the complexities of human cognition, ethical conduct, and artistic expression.
+On the one hand, technological advancements propel learning experiences into new frontiers. Innovative programming languages like Spherepop, with its 3D bubble-based syntax, offer a glimpse into the future of education, blurring the line between instruction and play. Similarly, Haplopraxis, a game that merges vocabulary acquisition with space exploration, exemplifies the potential of technology to transform learning from a passive process to an immersive adventure.
+However, the transformative power of technology necessitates a critical lens. The saga of Scotophobin, a molecule once purported to transfer fear, serves as a stark reminder of the ethical considerations that accompany scientific inquiry. The pursuit of knowledge demands a rigorous commitment to responsible research practices, ensuring that advancements do not come at the cost of human well-being or the environment.
+Furthermore, the intricate interplay of these various elements finds expression in the philosophical realm. Debates surrounding the nature of tropes, the fundamental units of properties that constitute our understanding of the world, delve into the very essence of coherence and creation. Exploring how these building blocks coalesce into meaningful wholes sheds light on the mechanisms of creativity and innovation, revealing the intricate dance between individual elements and the emergent whole.
+This exploration of the interconnectedness of learning, technology, ethics, and creativity necessitates a multi-faceted approach. We must delve into the technical intricacies of programming languages like Spherepop, analyze the ethical implications of scientific research surrounding molecules like Scotophobin, and explore the philosophical underpinnings of concepts like tropes. Only through such a comprehensive lens can we truly grasp the profound implications of this convergence and its impact on the future of knowledge, human understanding, and artistic expression.
+This journey into the heart of this interconnected system promises to be a challenging yet rewarding endeavor. By engaging in rigorous inquiry, fostering open dialogue, and embracing diverse perspectives, we can gain invaluable insights into the nature of learning, the role of technology, the importance of ethical conduct, and the boundless potential of creativity. So, let us embark on this collaborative exploration, prepared to challenge assumptions, broaden our horizons, and ultimately, unveil the hidden connections that bind these seemingly disparate threads together.
+Some metaphors and analogies to help explain it.
+Metaphors and Analogies to Explain the Interconnectedness of Learning, Technology, Ethics, and Creativity:
+1. The Orchestra:
+Imagine these four elements as different sections of an orchestra. Each plays a vital role in creating a harmonious and impactful performance.
+Learning:
+Learning is like the melody that guides the composition, providing the core theme and structure.
+Technology:
+Technology acts like the instruments, amplifying the melody and adding layers of complexity and richness.
+Ethics:
+Ethics serves as the conductor, ensuring that the orchestra plays in tune and with respect for the audience.
+Creativity:
+Creativity is the improvisational element, adding flourishes and surprises that keep the performance engaging and dynamic.
+2. The Seedling:
+Consider these elements as the different components necessary for a seedling to grow into a vibrant tree.
+Learning:
+Learning is the fertile soil, providing the nutrients and foundation for growth.
+Technology:
+Technology is the sunlight and water, nourishing the seedling and enabling it to reach its full potential.
+Ethics:
+Ethics is the protective fence, safeguarding the seedling from harmful influences and ensuring its healthy development.
+Creativity:
+Creativity is the unique genetic makeup of the seedling, allowing it to blossom into a unique and beautiful tree.
+3. The Mosaic:
+These elements can be seen as the individual tiles that come together to form a stunning mosaic.
+Learning:
+Each tile represents a piece of knowledge, contributing to the overall picture.
+Technology:
+Technology is the adhesive that bonds the tiles together, creating a cohesive and unified whole.
+Ethics:
+Ethics ensures that the tiles are arranged in a meaningful and responsible way, reflecting positive values and intentions.
+Creativity:
+Creativity is the artistic vision that guides the selection and arrangement of tiles, resulting in a unique and visually engaging mosaic.
+These metaphors and analogies help to illustrate the interconnectedness of these four elements. They highlight how each plays a vital role in shaping our experiences, understanding, and creative expression. By recognizing their interdependence, we can foster a more holistic and balanced approach to learning, technology, ethics, and creativity, ultimately enriching our lives and fostering a more enlightened future.
+The paper titled "Reliable Adversarial Distillation with Unreliable Teachers" by Jianing Zhu et al. introduces a new approach called reliable introspective adversarial distillation (IAD) for training student networks with unreliable teachers. In traditional distillation, student networks are trained using soft labels provided by pretrained teacher networks, with the expectation that students will outperform their teachers since soft labels are stronger supervision than hard labels. However, when considering adversarial robustness, teachers may become unreliable as they are pretrained on their own adversarial data, and it is unrealistic to expect them to be good at every adversarial data queried by students.
+In response to this challenge, the authors propose IAD, which allows students to partially trust their teachers. IAD distinguishes between three cases when a query consists of a natural data (ND) and its corresponding adversarial data (AD):
+(a) If a teacher is good at AD, its soft label is fully trusted by the student.
+(b) If a teacher is good at ND but not AD, its soft label is partially trusted, and the student also takes its own soft label into account.
+(c) Otherwise, the student relies solely on its own soft label.
+Experimental results show that IAD is effective in improving the adversarial robustness of student networks compared to their teachers.
+Summary of "Reliable Adversarial Distillation with Unreliable Teachers" by Jianing Zhu et al.
+This paper introduces a new approach called
+Reliable Introspective Adversarial Distillation (IAD)
+to address the challenge of training student networks with unreliable teachers in the context of adversarial robustness.
+Problem:
+Traditional distillation uses soft labels from pretrained teachers to train students, expecting them to surpass teachers.
+This fails when considering adversarial robustness because:
+Teachers are pretrained on their own adversarial data, which may not generalize to students' queries.
+Expecting teachers to be good at every adversarial data queried by students is unrealistic.
+Solution: IAD
+Allows students to partially trust teachers, distinguishing three cases:
+Teacher good at AD:
+Student fully trusts teacher's soft label.
+Teacher good at ND but not AD:
+Student partially trusts teacher's soft label and also considers its own.
+Teacher unreliable:
+Student relies solely on its own soft label.
+Benefits:
+IAD improves students' adversarial robustness compared to their teachers.
+It addresses the issue of unreliable teachers in adversarial distillation.
+Key Points:
+IAD adapts traditional distillation to handle unreliable teachers for improved adversarial robustness.
+It leverages a flexible approach based on teacher performance on specific adversarial data.
+Experimental results demonstrate the effectiveness of IAD in enhancing student networks' resilience to adversarial attacks.
+How do you think it works?
+Unfortunately, I don't have enough information to fully understand the specific implementation details of IAD. However, based on the provided summary, I can offer some insights into its likely working principles:
+1. Teacher Evaluation:
+IAD likely involves a mechanism for evaluating the teacher's performance on both natural data (ND) and its corresponding adversarial data (AD). This evaluation could involve metrics like accuracy or robustness to specific adversarial attacks.
+2. Soft Label Generation:
+Depending on the teacher's performance, IAD generates different types of soft labels for the student network:
+Full Trust:
+If the teacher performs well on both ND and AD, its soft label is directly used by the student.
+Partial Trust:
+If the teacher performs well on ND but not AD, its soft label is combined with the student's own soft label for training.
+No Trust:
+If the teacher is unreliable on both ND and AD, the student relies solely on its own soft label derived from the training data.
+3. Student Training:
+The student network is trained using the chosen soft labels, incorporating both the teacher's knowledge and its own learning. This allows the student to benefit from the teacher's expertise while also adapting to potential adversarial challenges that the teacher may not have encountered.
+4. Iteration and Refinement:
+The teacher evaluation and soft label generation process could be iterative. As the student learns and improves, its own performance on both ND and AD can be used to evaluate the teacher's reliability, potentially leading to adjustments in the trust level and soft label generation.
+5. Adaptive and Robust Learning:
+This dynamic approach allows the student to actively assess and adapt to the reliability of its teacher, ultimately leading to a more robust and effective learning process in the presence of adversarial attacks.
+For a more comprehensive understanding of the technical details and nuances of IAD, it would be helpful to access the full paper by Jianing Zhu et al. This would provide a deeper dive into the specific algorithms, evaluation methods, and experimental results that support the effectiveness of IAD.
+Another list of all of the topics we've discussed.
+Topics Discussed:
+1. Scotophobin and Memory Transfer:
+Ethical considerations of scientific research
+Impact of scientific misconduct
+Search for memory molecules
+2. Spherepop Programming Language:
+3D programming language using bubbles
+Representation of concepts through 3D
+Accessibility and inclusivity considerations
+3. Haplopraxis Game:
+Combining vocabulary learning and typing practice
+Gamification of learning
+Balance between learning and entertainment
+4. Cohesion of Tropes:
+Relationship between individual properties and the objects they compose
+Internal relations and qualified internal relations
+Debate over the nature of tropes and their relations
+5. Intertwined Threads:
+Connections between learning, technology, ethics, and creativity
+Role of each element in shaping our experiences and understanding
+Metaphors and analogies to explain the interconnectedness
+6. Reliable Adversarial Distillation with Unreliable Teachers:
+IAD approach for training student networks with unreliable teachers
+Distinction between three cases based on teacher performance
+Benefits of IAD for improved adversarial robustness
+7. How IAD Works:
+Teacher evaluation on both natural and adversarial data
+Generation of different soft labels based on trust level
+Adaptive and robust learning through dynamic trust adjustments
+I decided to call the conversation Cohesion of Tropes, do you have a summary?
+Show drafts
+Cohesion of Tropes: A Summary
+Our conversation explored various topics related to information representation, learning, and the relationship between individual parts and the whole.
+Key areas covered:
+Scotophobin and Memory Transfer:
+We discussed the ethical implications of research in memory transfer, the potential for scientific misconduct, and the ongoing search for memory molecules.
+Spherepop Programming Language:
+We explored this novel 3D programming language that uses bubbles to represent concepts, highlighting its potential benefits and challenges in terms of accessibility and inclusivity.
+Haplopraxis Game:
+We delved into this game that combines vocabulary learning and typing practice, examining the effectiveness of gamifying learning and achieving the right balance between education and entertainment.
+Cohesion of Tropes:
+We engaged in a philosophical discussion about the nature of tropes, the relationship between individual properties and the objects they form, and the role of internal relations, particularly qualified internal relations, in understanding how these elements cohere.
+Intertwined Threads:
+We explored the interconnectedness of learning, technology, ethics, and creativity, recognizing how each element plays a vital role in shaping our experiences, understanding, and creative expression. We also utilized metaphors and analogies to illustrate this interconnectedness.
+Reliable Adversarial Distillation with Unreliable Teachers:
+We discussed the IAD approach, which helps train student networks even when their teacher models are unreliable. We explored how IAD distinguishes between different cases based on the teacher's performance and how it generates different types of soft labels for the student network.
+How IAD Works:
+We delved into the possible mechanisms behind IAD, including the evaluation of the teacher's performance, the generation of various soft labels based on trust level, and the adaptive and robust learning process facilitated by dynamic trust adjustments.
+Overall, this conversation highlighted the complex and interconnected nature of knowledge representation, learning, and the various elements that contribute to our understanding of the world.
+Upload an image
+This prompt requires an image that you need to add. Tap the image button to upload an image.
+Got it
+Gemini can make mistakes, so double-check it
+Google apps
+Google Account
+Nate Guimond
+nateguimondart@gmail.com
+Upload Image
+Use microphone
+Collapse menu
+Data Timeline Options
+Refining Innovative Sustainability Concepts
+Simple Rules, Big Ideas
+ICH: Mind-Altering Tech Risk
+Could you rewrite this in a more natural and human style?
+Help
+Gemini Apps Activity
+Settings
+Gem manager
+Sustainable Agriculture Through IP in Nigeria
+Vestigial Indolence: Efficiency's Cognitive Roots
+No Image Support Yet
+Unsupported Language
+Abstracting Math's Paradox
+Children's Ideal Environments
+Math as Timeless Agent
+Agency in Math: Choice & Efficiency
+Agency in Math: A New Perspective
+Recursion in Dog City
+Anarchism & Beyond: Exploring Freedom and Governance
+Efficient World Modeling with Causal Submodels
+Biomimetic AI via Mortal Computation
+DBT Therapy for Mental Health
+Provide more information
+Formal Epistemology and Degrees of Belief
+Thinking Cost: Escape Negativity
+The Dark Fetish Side to Crazy Trans Ideology - Stella O���Malley (4K) | heretics. 35
+Humanity's Destructive Potential
+Strategy Games for Reasoning Training
+Rethinking Capitalism: Is Reverse Possible?
+The Uncanny Valley of Communication
+Self-Repair in Large Language Models
+Mental development through adulthood
+Balancing Bone and Blood: A Look at Conflicting Forces in Decision-Making
+Infrascarse Economics
+Diagonal Argument: Real Numbers Uncountable
+Improving Beam Search with Patience
+Termite nest architecture: Self-organization and mathematical modeling
+Removing Bias: INLP Learns Fairer Word Embeddings
+Unveiling Neural Networks: Amnesic Probing as Loss-of-Function
+Mind & Matter as Information Geometry
+Escaping the Feature Trap: Software Bloat & the Growth Myth
+Metasurfaces: Light Manipulation Revolution
+Seeing Beyond Our Blindness
+Multiordinal Terms
+Canada joins the Gemini AI revolution
+Awe Soars in a Future Eden
+Prompt Engineering
+Futuristic Innovations for Daily Life
+Knowledge Leakage
+Cohesion of Tropes
+Edit text
+More
+Collapse text
+
+
+
+
+
+
+
+Account
+Search
+Maps
+YouTube
+Play
+Gmail
+Drive
+Calendar
+Translate
+Photos
+Business Profile Manager
+Gemini
+News
+Meet
+Chat
+My Ad Center
+Chrome
+Shopping
+Finance
+Docs
+Books
+Blogger
+Contacts
+Keep
+Classroom
+Sheets
+Slides
+Earth
+Saved
+Arts and Culture
+Google Ads
+Google One
+Travel
+Forms
+Google Store
+Chrome Web Store
+Password Manager
+Google Analytics
+More from Google Workspace Marketplace
+
+nateguimondart@gmail.com
+Loading accounts
+nateguimondart@gmail.com
+Hi, Nate!
+Manage your Google Account
+Manage Google Account
+Google Account
+Hide more accounts
+Nate Guimond
+nateguimond@gmail.com
+(opens a new tab)
+Add another account
+Sign out of all accounts
+Privacy Policy
+Privacy Policy
+Terms of Service
+Terms of Service
+
