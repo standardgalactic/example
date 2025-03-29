@@ -204,7 +204,6 @@ return
 
 ::getr::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/playlist?list=PLcKyTzEkOa-hFMouYj3EvBwNNahnFQBzs"
 
-<<<<<<< HEAD
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
 
 
@@ -218,6 +217,8 @@ return
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
+=======
+>>>>>>> ca586f6 (Update Repository List)
 ::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
 
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
@@ -234,8 +235,6 @@ return
 
 ::gettrivium::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@52LivingIdeas  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::geteye::yt-dlp --cookies cookies.txt --no-overwrites  --write-sub --skip-download --yes-playlist "https://www.youtube.com/@eyeonai3425"
-
 ::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
@@ -245,6 +244,7 @@ return
 ::despacito::yt-dlp -f bestaudio https://www.youtube.com/watch?v=TG8jxGmOpOg --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getcurious::yt-dlp -f bestaudio https://www.youtube.com/watch?v=gg5gtAI7Tb8 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+
 
 ::truepath::yt-dlp -f bestaudio https://www.youtube.com/watch?v=Sqq_iQisoK0 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -261,13 +261,9 @@ return
 ;; https://www.youtube.com/@hume_ai
 
 ::gett::yt-dlp -f best https://www.youtube.com/@trajectoryai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
-<<<<<<< HEAD
-
 
 ::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
 
-
-::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getmath::yt-dlp -f best https://www.youtube.com/@DrJuanKlopper  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -374,31 +370,6 @@ return
 A list of everything we've talked about so far.`n
 )
 return
-
-
-;;;;;;; SROLL READER ;;;;;;;;
-
-;; For reading Quadrivium ;;
-;; https://github.com/standardgalactic/quadrivium ;;
-
-::slowtype::pv -q -L 44 < 
-
-::psy cin::pv -q -L 110 < psychocinema-summary.txt
-
-::psycho cin::pv -q -L 110 < psychocinema-summary.txt
-
-::re caps::
-(
-find . -type f -name "*.txt" | while IFS= read -r file
-do
-    echo "Checking $file"
-    # Run the ollama command on the file and output the results to the terminal
-    ollama run mistral "Summarize:" < "$file"
-done
-)
-return
-
-
 
 
 ;;;;;;; SROLL READER ;;;;;;;;
@@ -726,6 +697,7 @@ mortal(X) :- man(X).
 ::Wq::wq
 ::;s::ls
 ::sq::squash
+
 
 /*
 ;; test for above ;;
@@ -1968,7 +1940,7 @@ Return
 
 ::justnames::gh api users/standardgalactic/repos --paginate | jq -r '.[] | select(.fork == false) | .name'
 
-::get repos::gh repo list --limit 18000 > repo-list
+::get repos::gh repo list --limit 20000 > repo-list
 
 ;; what limit ;;
 
