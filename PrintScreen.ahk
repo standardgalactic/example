@@ -247,12 +247,11 @@ for file in *.txt; do
     mv "$file" "${file%.txt}"
 done`n
 )
-return
+return 
 
 ::into100::split -d -l 100
 
-
-;; Summarize in detail and explain:
+;; Overview
 
 ::re cap::
 (
@@ -273,7 +272,7 @@ for file in {*.vtt,*.txt}; do
 
     echo "Checking $file" | tee -a "$output_file"
     echo "=== Summary for $file ===" | tee -a "$output_file"
-    ollama run vanilj/phi-4 "Translate the followingto Nigerian Pijin English, with no additional commentary or boilerplate: " < "$file" | tee -a "$output_file"
+    ollama run vanilj/phi-4 "Summarize in detail and explain: " < "$file" | tee -a "$output_file"
     echo -e "\n" | tee -a "$output_file" # Add a blank line between summaries
 done`n
 )
