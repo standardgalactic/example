@@ -204,21 +204,6 @@ return
 
 ::getr::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/playlist?list=PLcKyTzEkOa-hFMouYj3EvBwNNahnFQBzs"
 
-::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
-
-
-::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
-
-::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
-
-::getdoom::yt-dlp --cookies cookies.txt --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
-
-::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
-
-::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
-
-=======
->>>>>>> ca586f6 (Update Repository List)
 ::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
 
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
@@ -261,6 +246,7 @@ return
 ;; https://www.youtube.com/@hume_ai
 
 ::gett::yt-dlp -f best https://www.youtube.com/@trajectoryai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
 
 ::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
 
@@ -441,6 +427,9 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 randomizer.gif
+
+::compresss::ffmpeg -i input.mp4 -vcodec libx264 -preset slow -b:v 2500k -af "volume=1.2" -acodec aac -b:a 192k "Daughters of the Air.mp4"
+
 
 ::invrt::mogrify -negate *.png
 
