@@ -1523,8 +1523,37 @@ return
 
 ::getpill::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=zduw75zB3Iw
 
-::getpills::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=Y82sMnvPYKU
+;; superintelligence
 
+::getsuper::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=NbMsAWvq0aU
+
+:*:and then you type this::yt-dlp --cookies ./cookies.txt --sub-lang "en*" --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/watch?v=NbMsAWvq0aU"
+
+::get thumbnail::
+(
+if [ ! -f temp_thumbnail.jpg ]; then
+    ffmpeg -i "Visions of a Spirit-Seer.mp4" -vf "thumbnail" -frames:v 1 -q:v 2 temp_thumbnail.jpg
+fi`n
+)
+return
+
+::no warranty::
+(
+# Extract thumbnail if it doesn’t exist
+if [ ! -f temp_thumbnail.jpg ]; then
+    ffmpeg -i "Visions of a Spirit-Seer.mp4" -vf "thumbnail" -frames:v 1 -q:v 2 temp_thumbnail.jpg
+fi
+
+# Get audio duration
+audio_duration=$(ffprobe -i superintelligence.mp3 -show_entries format=duration -v quiet -of compact=p=0:nk=1)
+
+# Create the looped video with audio, matching audio duration
+ffmpeg -stream_loop 121 -i "Visions of a Spirit-Seer.mp4" -i superintelligence.mp3 -i temp_thumbnail.jpg -map 0:v -map 1:a -map 2:v -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k -c:v:1 copy -disposition:v:1 attached_pic -t "$audio_duration" "Transdimensional Superintelligence.mp4"
+
+# Clean up (optional)
+rm temp_thumbnail.jpg`n
+)
+return
 
 ;; audiobook ; audiobooks
 
