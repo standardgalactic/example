@@ -240,6 +240,18 @@ done`n
 )
 return
 
+::nogrok::
+(
+for file in *; do
+    # Check if the file name contains " - Grok"
+    if [[ "$file" == *" - Grok"* ]]; then
+        # Remove " - Grok" from the file name
+        new_name="${file// - Grok/}"
+        mv "$file" "$new_name"
+    fi
+done
+)
+return
 
 ::notxt::
 (
@@ -359,7 +371,20 @@ return
 ;; For reading Quadrivium ;;
 ;; https://github.com/standardgalactic/quadrivium ;;
 
-::slowtype::pv -q -L 110 < 
+::getslow::pandoc -f markdown -t plain biogrammar.txt | pv -q -L 110
+
+::makebio::pandoc -f markdown -t html --mathjax biogrammar.txt -o biogrammar.html
+
+::slowtype::lynx -dump biogrammar.html | pv -q -L 110 
+
+::slowtyp::pv -q -L 110 < 
+
+::cleanup::%s/<think>\_.\{-}<\/think>//g
+
+::makeslow::pandoc -f markdown -t html --mathjax biogrammar-reasoning.txt -o biogrammar-reasoning.html
+
+::slowbio::lynx -dump biogrammar-reasoning.html | pv -q -L 110 
+
 
 ::slow c::for file in *critique.txt; do pv -q -L 80 < "$file"; done
 ::slow s::for file in *sardonic.txt; do pv -q -L 80 < "$file"; done
@@ -1916,7 +1941,7 @@ print "\n"
 
 
 ;; docker -- dockersh ;;
-::fixdisplay::export DISPLAY=172.17.0.1:0.0
+::fixdisplay::export DISPLAY=127.0.0.1:0.0
 
 ;; openai - openaish ;;
 
