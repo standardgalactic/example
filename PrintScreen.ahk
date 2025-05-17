@@ -28,6 +28,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; standardgalactic ;;
 
+::greatdebate::ffmpeg -i the-great-debate.mp3 -ss 6.4 -t 274.46 -c copy "The Great Debate.mp3"
+
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
 
 ::getflashy::ffmpeg -loop 1 -i ready-to-play.png -vf "eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_flashy.gif
@@ -220,7 +222,17 @@ return
 
 ::gettrivium::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@52LivingIdeas  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getstuff::yt-dlp --cookies ./cookies.txt -f bestaudio https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
+::getstuff::
+(
+yt-dlp -s --cookies cookies.txt \
+  -f bestaudio \
+  --extract-audio \
+  --audio-format mp3 \
+  --audio-quality 0 \
+  --output "%(uploader)s/%(title)s.%(ext)s" \
+  "https://www.youtube.com/@tetasao"`n
+)
+Return
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -256,7 +268,7 @@ return
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
 
-::getvids::yt-dlp -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getvids::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getchannel::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@galactromeda  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -2289,6 +2301,8 @@ ghhihh
 ::nonotes::%s#\[.*]##g 
 ::nonums::%s#\[\d*\]##g ;; remove [1],[2],[3], etc
 ::notags::%s#\[\d*\:\d*\:\d*\]##g
+::nofoot::%s/\(\D\)\.\d/\1\./g
+::nocom::%s/\(\D\)\,\d/\1\,/g
 ::vim in title::ls -l | grep -i vim
 ::into100::split -d -l 100
 ::next4::0,4!column -t -s "|" 
@@ -2514,10 +2528,14 @@ return
 ::cd /user/bin::cd /usr/bin
 
 
+::hb::#!/usr/bin/python3
+
 ::hashbang::!#/usr/bin/bash
-::hb::!#/usr/bin/bash
+
 ::binbash::!#/bin/bash
 ::bib::!#/bin/bash
+
+
 
 ::forloop::
 Send for i in 1 2 3 4 5;
