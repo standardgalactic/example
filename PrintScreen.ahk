@@ -43,6 +43,8 @@ https://archive.org/details/so-big-1953
 
 ;;;;;;;;;;;;;;;;;;;;;;;;
 
+::startstable::docker compose --profile comfy up --build
+
 
 ::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
 
@@ -162,6 +164,11 @@ return
 :*:cd..::cd ..
 
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
+
+
+::ollama serve::OLLAMA_CONTEXT_LENGTH=8192 ollama serve
+
+::longcontext::OLLAMA_CONTEXT_LENGTH=32768 ollama serve
 
 ::chec::ollama run vanilj/phi-4
 
@@ -284,7 +291,7 @@ for file in {*.vtt,*.txt}; do
 
     echo "Checking $file" | tee -a "$output_file"
     echo "=== Summary for $file ===" | tee -a "$output_file"
-    ollama run vanilj/phi-4 "Summarize in detail and explain: " < "$file" | tee -a "$output_file"
+    ollama run granite3.2:8b "Summarize in detail and explain: " < "$file" | tee -a "$output_file"
     echo -e "\n" | tee -a "$output_file" # Add a blank line between summaries
 done`n
 )
@@ -986,6 +993,15 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
 ::getghost::sudo apt update && sudo apt install ghostscript -y
+
+:*:compresss::
+(
+mkdir -p compressed
+for f in *.png; do
+  convert "$f" -resize 50% "compressed/$f"
+done`n
+)
+Return
 
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
 
