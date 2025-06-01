@@ -52,6 +52,12 @@ https://archive.org/details/so-big-1953
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
 
+::cd!::conda deactivate
+
+::ayt::Are you there?`n
+
+::ayst::Are you still there?`n
+
 ::?txt::ls -1 *.txt | wc -l
 
 ::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
@@ -163,6 +169,11 @@ return
 
 :*:cd..::cd ..
 
+::makejson::find output/comfy -maxdepth 1 -name '*.png' | sort | sed 's|output/comfy/||' | jq -R -s -c 'split("\n")[:-1]' > output/comfy/filenames.json
+
+::--br::--break-system-packages
+::--break::--break-system-packages
+
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
 
@@ -254,6 +265,30 @@ for file in *; do
     if [[ "$file" == *" - Grok"* ]]; then
         # Remove " - Grok" from the file name
         new_name="${file// - Grok/}"
+        mv "$file" "$new_name"
+    fi
+done
+)
+return
+
+::noclaude::
+(
+for file in *; do
+    # Check if the file name contains " - Claude"
+    if [[ "$file" == *" - Claude"* ]]; then
+        # Remove " - Claude" from the file name
+        new_name="${file// - Claude/}"
+        mv "$file" "$new_name"
+    fi
+done
+)
+return
+
+::nocloak::
+(
+for file in *; do
+    if [[ "$file" == *".cloak"* ]]; then
+        new_name="${file//.cloak/}"
         mv "$file" "$new_name"
     fi
 done
@@ -382,9 +417,21 @@ return
 
 ::makebio::pandoc -f markdown -t html --mathjax biogrammar.txt -o biogrammar.html
 
+::makeit::pandoc -f markdown -t html --mathjax -o plenum-cosmology.html plenum-cosmology.txt
+
+::makehtml::
+(
+for file in *.txt; do
+    pandoc -f markdown -t html --mathjax "$file" -o "${file%.txt}.html"
+done`n
+)
+Return
+
 ::slowtype::lynx -dump biogrammar.html | pv -q -L 110 
 
 ::slowtyp::pv -q -L 110 < 
+
+::fasttype::lynx -dump deontology.html | pv -q -L 48000000000000000000000000
 
 ::cleanup::%s/<think>\_.\{-}<\/think>//g
 
@@ -969,6 +1016,9 @@ return
 #z::Send, #{Vk2CSc137}
 ^#z::Send, {Vk2CSc137}
 
+
+::getmp3::ffmpeg -i Hierarchical-Swarm-Piloting.wav -codec:a libmp3lame -qscale:a 2 Hierarchical-Swarm-Piloting.mp3
+
 ;; gpt ;;
 
 :*:afaf::
@@ -1530,7 +1580,10 @@ Now just start ubuntu: ./startubuntu.sh
 
 ::rn::rename 's/$/\.tsv/' *
 
-::pastebin::cat "filename" | curl -F 'f:1=<-' ix.io
+::pastebin::https://github.com/standardgalactic/pastebin
+
+
+::outofservice::cat "filename" | curl -F 'f:1=<-' ix.io
 :o:getback::curl http://ix.io/
 ::getix::curl http://ix.io/2F1r > /tmp/ix
 ::moveit::sudo mv /tmp/ix /bin
@@ -2123,6 +2176,11 @@ Return
 
 ::treee::alias tree="/c/Windows/System32/tree.com"
 
+;; standardgalactic ;;
+
+;; web ;;
+
+::goon::ssh -i "sordid.pem" ubuntu@ec2-184-72-200-165.compute-1.amazonaws.com
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
