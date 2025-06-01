@@ -163,6 +163,11 @@ return
 
 :*:cd..::cd ..
 
+::makejson::find output/comfy -maxdepth 1 -name '*.png' | sort | sed 's|output/comfy/||' | jq -R -s -c 'split("\n")[:-1]' > output/comfy/filenames.json
+
+::--br::--break-system-packages
+::--break::--break-system-packages
+
 ::get ollama::curl -fsSL https://ollama.com/install.sh | sh
 
 
@@ -385,6 +390,8 @@ return
 ::slowtype::lynx -dump biogrammar.html | pv -q -L 110 
 
 ::slowtyp::pv -q -L 110 < 
+
+::fasttype::lynx -dump deontology.html | pv -q -L 48000000000000000000000000
 
 ::cleanup::%s/<think>\_.\{-}<\/think>//g
 
@@ -1530,7 +1537,10 @@ Now just start ubuntu: ./startubuntu.sh
 
 ::rn::rename 's/$/\.tsv/' *
 
-::pastebin::cat "filename" | curl -F 'f:1=<-' ix.io
+::pastebin::https://github.com/standardgalactic/pastebin
+
+
+::outofservice::cat "filename" | curl -F 'f:1=<-' ix.io
 :o:getback::curl http://ix.io/
 ::getix::curl http://ix.io/2F1r > /tmp/ix
 ::moveit::sudo mv /tmp/ix /bin
