@@ -28,6 +28,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; standardgalactic ;;
 
+;; web ;;
+
+::goon::ssh -i "sordid.pem" ubuntu@ec2-184-72-200-165.compute-1.amazonaws.com
+
+
 ::greatdebate::ffmpeg -i the-great-debate.mp3 -ss 6.4 -t 274.46 -c copy "The Great Debate.mp3"
 
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
@@ -196,6 +201,8 @@ return
 
 ;; https://www.youtube.com/@rmcelreath
 
+::getself::yt-dlp --cookies cookies.txt -f best https://www.youtube.com/watch?v=z-9JO49ckSI --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ;; Protosociology ;; ;; https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7
@@ -328,7 +335,6 @@ SC121::BS
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
 ::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
-
 
 ;; vim convert to unicode ;;
 
