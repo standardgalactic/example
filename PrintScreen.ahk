@@ -32,6 +32,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::goon::ssh -i "sordid.pem" ubuntu@ec2-184-72-200-165.compute-1.amazonaws.com
 
+::goonish::scp -r -i "sordid.pem" ubuntu@ec2-184-72-200-165.compute-1.amazonaws.com:~/workspace/alphabet/fonts ./
 
 ::greatdebate::ffmpeg -i the-great-debate.mp3 -ss 6.4 -t 274.46 -c copy "The Great Debate.mp3"
 
@@ -475,6 +476,11 @@ return
 
 :*:afs::A final summary.`n
 :*:cbt::Connections between the topics.`n
+
+::findo::find . -name "*overview*"
+
+::everythingbut::find . -maxdepth 1 ! -name "fonts" ! -name "." -exec rm -rf {} +
+
 
 ::tchat::sudo docker run -it lwe_llm-workflow-engine /bin/bash
 
@@ -2604,7 +2610,7 @@ Return
 
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
-::flyx::ssh flyxion@172.23.111.255
+::flyx::ssh flyxion@172.25.23.181
 ::astro::ssh aardvark@192.168.2.73
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
