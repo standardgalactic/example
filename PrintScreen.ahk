@@ -26,6 +26,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
 */
 
+::findcloud::find . -type d \( -name "cloud" -o -name "cloud-computing" \)
+
+::zipit::zip lambda_function.zip lambda_function.py
+
 ;; For thematic parsing and critical decoding of cinema ;;
 
 ::so big summary::pv -q -L 33 < so-big-summary.txt
@@ -51,6 +55,7 @@ https://archive.org/details/so-big-1953
 
 ::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
 
+::localfacts::ffmpeg -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -f segment -segment_time $(ffprobe -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -show_entries format=duration -v quiet -of csv="p=0" | awk '{print $1/30}') -c copy -segment_format mp3 -segment_list_type flat -map_metadata -1 local-scope-%02d.mp3
 
 ::cd!::conda deactivate
 
@@ -1865,6 +1870,10 @@ return
 ;; microsize video to mp3 ;;
 
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
+
+;; compress mp3 ;; 
+
+::makesmaller::for f in *.mp3; do ffmpeg -i "$f" -vn -ab 64k "compressed_$f" && mv "compressed_$f" "$f"; done
 
 ::filelist::
 (
