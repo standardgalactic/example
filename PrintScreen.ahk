@@ -263,6 +263,8 @@ done`n
 )
 return
 
+::nounder::for file in *; do mv "$file" "${file//_/ }"; done
+
 ::nogrok::
 (
 for file in *; do
@@ -1049,6 +1051,8 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 
 ::getghost::sudo apt update && sudo apt install ghostscript -y
 
+::makelizard::a=1; for i in *.png; do mv "$i" "lizard-$(printf "%02d" $a).png"; ((a++)); done
+
 :*:compresss::
 (
 mkdir -p compressed
@@ -1530,6 +1534,17 @@ for file in gp``*.*``:
 ::getdocker::apt-get install docker-ce docker-ce-cli containerd.io
 
 ::didntwork::curl -fsSL test.docker.com -o get-docker.sh && sh get-docker.sh
+
+
+;; node ;;
+
+::getnpm::curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+;; nvm install 22
+;; nvm use 22
+
+
+::getclaude::npm install -g @anthropic-ai/claude-code
 
 
 ;; update node.js ;;
