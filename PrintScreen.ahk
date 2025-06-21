@@ -263,6 +263,8 @@ done`n
 )
 return
 
+::nounder::for file in *; do mv "$file" "${file//_/ }"; done
+
 ::nogrok::
 (
 for file in *; do
@@ -1024,6 +1026,15 @@ return
 
 ::getmp3::ffmpeg -i Hierarchical-Swarm-Piloting.wav -codec:a libmp3lame -qscale:a 2 Hierarchical-Swarm-Piloting.mp3
 
+::nomp4::
+(
+for file in *.mp4; do
+    ffmpeg -i "$file" -vn -acodec mp3 -ab 192k "${file%.mp4}.mp3"
+done`n
+)
+Return
+
+
 ;; gpt ;;
 
 :*:afaf::
@@ -1048,6 +1059,8 @@ for file in new_*.png; do mv "$file" "${file/new_/}"; done
 ::ocrall::for file in *.pdf; do ocrmypdf "$file" "${file%.pdf}-ocr.pdf"; done
 
 ::getghost::sudo apt update && sudo apt install ghostscript -y
+
+::makelizard::a=1; for i in *.png; do mv "$i" "lizard-$(printf "%02d" $a).png"; ((a++)); done
 
 :*:compresss::
 (
@@ -1532,6 +1545,17 @@ for file in gp``*.*``:
 ::didntwork::curl -fsSL test.docker.com -o get-docker.sh && sh get-docker.sh
 
 
+;; node ;;
+
+::getnpm::curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+;; nvm install 22
+;; nvm use 22
+
+
+::getclaude::npm install -g @anthropic-ai/claude-code
+
+
 ;; update node.js ;;
 ::nodesteps::# update node; clearcache, andthen, andthenn
 ::clearcache::sudo npm cache clean -f
@@ -1851,6 +1875,17 @@ return
 :*:n``::ñ
 :*:n~::ñ
 
+;; 
+
+::wd!::
+(
+for mp3 in *.webm; do
+    base="${webm%.webm}"
+    if [ ! -f "${base}.mp3" ]; then
+        echo "$mp3"
+    fi
+done
+)
 
 ;; audiobook ; audiobooks
 
@@ -1868,6 +1903,8 @@ return
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
 ;; microsize video to mp3 ;;
+
+::getsmaller::for file in *.webm; do ffmpeg -i "$file" -codec:a libmp3lame -b:a 128k "${file%.webm}.mp3"; done
 
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
 
