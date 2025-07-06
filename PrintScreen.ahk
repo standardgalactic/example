@@ -40,6 +40,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::getflashy::ffmpeg -loop 1 -i ready-to-play.png -vf "eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_flashy.gif
 
+::getmind::mkdir tmpframes && ffmpeg -i mind-in-motion.webm -vf "fps=5,scale=320:-1" tmpframes/frame_%03d.png && convert -delay 20 -loop 0 tmpframes/*.png -dither FloydSteinberg -colors 32 mind-in-motion.gif && rm -r tmpframes
+
 ::getwhisper::pip install git+https://github.com/openai/whisper.git 
 
 ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
@@ -92,6 +94,9 @@ return
 
 
 ::oneline::git log --oneline --decorate --graph --all
+
+::add pdftk::apt-get install pdftk
+::getwirehead::pdftk *.pdf cat output "Wireheading is Easy.pdf"
 
 ;; remove pages
 
@@ -216,6 +221,10 @@ return
 
 ::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
 
+::getknowledge::yt-dlp --cookies cookies.txt --write-auto-sub --yes-playlist --no-overwrites "https://www.youtube.com/@ekkolapto3"
+
+::getmemory::yt-dlp --cookies cookies.txt --write-auto-sub --yes-playlist --no-overwrites "https://www.youtube.com/@Elan_Barenholtz"
+
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
@@ -275,6 +284,7 @@ Return
 
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
+::getlocalscope::yt-dlp  --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=xHxqa8m1NqE
 
 ::getvids::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -587,6 +597,10 @@ VARIABLE (RND)
 :*:a != b::let x = !(a >= b); let y = !(b >= a); x || y
 
 */
+
+::getcloak::for file in *; do mv "$file" "$file.cloak"; done
+
+::nocloak::for file in *.cloak; do mv "$file" "${file%.cloak}"; done
 
 ;; windows tricks ;;
 ::blam::for i in {1..5}; do touch file$((i)); done
@@ -1067,6 +1081,9 @@ while
 xor
 xor_eq
 )
+
+::getlanguage::wget --recursive --no-parent https://elanbarenholtz.substack.com/
+
 ;; asahi -- asahish ;;
 
 ::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
@@ -1344,6 +1361,46 @@ done `n
 )
 return
 
+::addtxt::
+(
+for file in *; do
+  if [[ -f "$file" && "$file" != *.txt && "$file" != *.* ]]; then
+    mv "$file" "$file.txt"
+  fi
+done`n
+)
+return
+
+::addsource::
+(
+# Define the line to prepend
+line="From Neural Activity to Field Topology: How Coupling Kernels Shape Consciousness\n\nFeb 21, 2025\n\nAndrés Gómez Emilsson\n\n\n"
+
+# Loop through each text file in the current directory
+for file in *.txt; do
+    # Prepend the line to the file
+    echo -e "$line" | cat - "$file" > temp && mv temp "$file"
+done`n
+)
+return
+
+
+::addnums::
+(
+# Count total text files
+total_files=$(ls -1 *.txt | wc -l)
+
+# Initialize a counter
+counter=1
+
+# Loop through each text file in the current directory
+for file in *.txt; do
+    # Append the line with the format "X/Y"
+    echo "$counter/$total_files" >> "$file"
+    ((counter++))  # Increment the counter
+done`n
+)
+return
 
 ::pls::sudo !!
 ::huh:: man !!
