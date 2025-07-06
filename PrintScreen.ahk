@@ -93,6 +93,9 @@ return
 
 ::oneline::git log --oneline --decorate --graph --all
 
+::add pdftk::apt-get install pdftk
+::getwirehead::pdftk *.pdf cat output "Wireheading is Easy.pdf"
+
 ;; remove pages
 
 ::rmpages::qpdf input.pdf --pages input.pdf 5-19 -- output.pdf
@@ -216,6 +219,10 @@ return
 
 ::geteco::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@instituteofdavidgraeber2258"
 
+::getknowledge::yt-dlp --cookies cookies.txt --write-auto-sub --yes-playlist --no-overwrites "https://www.youtube.com/@ekkolapto3"
+
+::getmemory::yt-dlp --cookies cookies.txt --write-auto-sub --yes-playlist --no-overwrites "https://www.youtube.com/@Elan_Barenholtz"
+
 ::getevo::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@evolutionunleashedai"
 
 ::getintel::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@intelligence-ai"
@@ -275,6 +282,7 @@ Return
 
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
+::getlocalscope::yt-dlp  --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=xHxqa8m1NqE
 
 ::getvids::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -587,6 +595,10 @@ VARIABLE (RND)
 :*:a != b::let x = !(a >= b); let y = !(b >= a); x || y
 
 */
+
+::getcloak::for file in *; do mv "$file" "$file.cloak"; done
+
+::nocloak::for file in *.cloak; do mv "$file" "${file%.cloak}"; done
 
 ;; windows tricks ;;
 ::blam::for i in {1..5}; do touch file$((i)); done
