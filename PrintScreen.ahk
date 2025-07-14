@@ -47,6 +47,17 @@ https://archive.org/details/so-big-1953
 
 ;;;;;;;;;;;;;;;;;;;;;;;;
 
+::addmetad::
+Send, exiftool -overwrite_original -Author="Flyxion" -Title="Relevance Activation Theory — A Cue-Indexed Model of Gradient-Based Cognition" -Subject="Physics" "Relevance Activation Theory.pdf"
+Return
+
+
+::addmeta::
+Send, exiftool -overwrite_original -Author="Flyxion" -Title="Semantic Recursion as Entropic Smoothing" -Subject="Physics" "Semantic Recursion.pdf"
+Return
+
+::addflyxion::exiftool -Author="Flyxion" Semantic\ Recursion.pdf
+
 ::startstable::docker compose --profile comfy up --build
 
 
