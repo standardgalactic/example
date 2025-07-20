@@ -177,6 +177,7 @@ return
 
 ;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
 
+::fromvocals::find . -maxdepth 2 -type f -name 'vocals.wav' -exec sh -c 'whisper "$1" --output_dir "$(dirname "$1")"' _ {} \;
 
 
 ::getvids::yt-dlp -f best -ciw https://www.youtube.com/@tetasao --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
@@ -1913,9 +1914,10 @@ done
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
-;; microsize video to mp3 ;;
-
 ::getsmaller::for file in *.webm; do ffmpeg -i "$file" -codec:a libmp3lame -b:a 128k "${file%.webm}.mp3"; done
+
+
+;; microsize video to mp3 ;;
 
 ::musize::ffmpeg -i input.mp4 -vn -ab 64k output.mp3
 
