@@ -207,6 +207,9 @@ return
 
 ;; https://www.youtube.com/@rmcelreath
 
+::fulllist::yt-dlp --flat-playlist --dump-single-json "https://www.youtube.com/playlist?list=PLcKyTzEkOa-hNAvTKcYHBiubcjLWmKVkp" > full_playlist.json
+
+
 ::getself::yt-dlp --cookies cookies.txt -f best https://www.youtube.com/watch?v=z-9JO49ckSI --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getbayes::yt-dlp -f best https://youtu.be/R1vcdhPBlXA?si=Ah7ZnTYM-n3oT76l  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
