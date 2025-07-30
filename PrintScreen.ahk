@@ -101,20 +101,20 @@ Return
 
 ::getsubs::
 (
-find . -maxdepth 1 \( -type d -o -type f \( -name "*.mp3" -o -name "*.m4a" -o -name "*.webm" \) \) -print0 | while IFS= read -r -d '' item; do
-  if [ -d "$item" ]; then
-    cd "$item" || continue
-    for file in *.mp3 *.m4a *.webm; do
-      [ -f "$file" ] && [ ! -f "${file%.*}.txt" ] && whisper "$file" --language English
-    done
-    cd ..
-  elif [ -f "$item" ] && [ ! -f "${item%.*}.txt" ]; then
-    whisper "$item" --language English
-  fi
+topdir="$(pwd)"
+
+find . -mindepth 2 -type f \( -name "*.mp3" -o -name "*.m4a" -o -name "*.webm" \) -print0 | while IFS= read -r -d '' file; do
+    base="$(basename "${file%.*}")"
+    txtfile="$topdir/$base.txt"
+    if [ ! -f "$txtfile" ]; then
+        echo "Processing: $file"
+        whisper "$file" --language English --output_dir "$topdir"
+    else
+        echo "Already summarized: $file"
+    fi
 done`n
 )
 return
-
 
 
 ::getsubs -v::
