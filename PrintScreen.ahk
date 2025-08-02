@@ -182,7 +182,7 @@ return
 
 ::getvids::yt-dlp -f best -ciw https://www.youtube.com/@tetasao --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
-::getmp3s::yt-dlp -f best -ciw https://www.youtube.com/@timsanderson4076 --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getaudio::yt-dlp -f best -ciw https://www.youtube.com/@timsanderson4076 --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 :*:cd..::cd ..
 
@@ -321,6 +321,17 @@ for file in *.txt; do
 done`n
 )
 return 
+
+::splitmp3s::
+(
+find . -type f -name "*.mp3" -size +100M -print0 | while IFS= read -r -d '' file; do
+    # Rename original
+    mv "$file" "$file.orig"
+    # Split into 6000 sec chunks (adjust segment_time as needed for your bitrate)
+    ffmpeg -i "$file.orig" -f segment -segment_time 6000 -c copy "${file%.*}_chunk_%03d.mp3"
+done`n
+)
+return
 
 ::into100::split -d -l 100
 
@@ -1037,6 +1048,22 @@ return
 
 
 ::getmp3::ffmpeg -i Hierarchical-Swarm-Piloting.wav -codec:a libmp3lame -qscale:a 2 Hierarchical-Swarm-Piloting.mp3
+
+::getmp3s::
+(
+for file in *.wav; do
+    ffmpeg -i "$file" -codec:a libmp3lame -qscale:a 2 "${file%.wav}.mp3"
+done`n
+)
+return
+
+::nom4a::
+(
+for file in *.m4a; do
+    ffmpeg -i "$file" -vn -acodec libmp3lame -ab 192k "${file%.m4a}.mp3"
+done`n
+)
+return
 
 ::nomp4::
 (
