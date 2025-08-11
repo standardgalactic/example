@@ -117,7 +117,7 @@ done`n
 return
 
 
-::getsubs -v::
+::getsubsv::
 (
 find . -maxdepth 1 -type d -exec sh -c '
 shopt -s nullglob
@@ -191,7 +191,9 @@ return
 ::--br::--break-system-packages
 ::--break::--break-system-packages
 
-::get ollama::curl -fsSL https://ollama.com/install.sh | sh
+::getollama::curl -fsSL https://ollama.com/install.sh | sh
+
+::stopollama::sudo systemctl stop ollama
 
 
 ::ollama serve::OLLAMA_CONTEXT_LENGTH=8192 ollama serve
@@ -446,6 +448,8 @@ return
 ::getslow::pandoc -f markdown -t plain biogrammar.txt | pv -q -L 110
 
 ::makebio::pandoc -f markdown -t html --mathjax biogrammar.txt -o biogrammar.html
+
+::makebackground::pandoc -f markdown-yaml_metadata_block -t html --mathjax background.txt -o background.html
 
 ::makeit::pandoc -f markdown -t html --mathjax -o plenum-cosmology.html plenum-cosmology.txt
 
@@ -1940,6 +1944,9 @@ done
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
+
+::sloww::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 bio-relational.mp3
+
 
 ::getsmaller::for file in *.webm; do ffmpeg -i "$file" -codec:a libmp3lame -b:a 128k "${file%.webm}.mp3"; done
 
