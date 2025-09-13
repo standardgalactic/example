@@ -70,6 +70,17 @@ Say "A sower went out to sow some seed: and as he sowed, some fell by the waysid
 
 ::darkcycle::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness='sin(2*PI*t)':saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_dark_light_cycle.gif
 
+
+::addmhtml::
+(
+for file in *; do
+  if [[ -f "$file" && "$file" != *.txt && "$file" != *.* ]]; then
+    mv "$file" "$file.mhtml"
+  fi
+done`n
+)
+return
+
 ::re cap::
 (
 for file in * ; do
@@ -94,6 +105,17 @@ return
 
 
 ::oneline::git log --oneline --decorate --graph --all
+
+::gettex::sudo apt-get install texlive-full
+
+
+::addmeta::
+Send, exiftool -overwrite_original -Author="Flyxion" -Title="Semantic Recursion as Entropic Smoothing" -Subject="Physics" "Semantic Recursion.pdf"
+Return
+
+::addflyxion::exiftool -Author="Flyxion" Clickbait\ Empire.pdf
+
+
 
 ::add pdftk::apt-get install pdftk
 ::getwirehead::pdftk *.pdf cat output "Wireheading is Easy.pdf"
@@ -483,7 +505,6 @@ program = client.messages.create(
     ])
 )
 return
-
 
 ;; !S::Send, Summarize:
 
@@ -1710,6 +1731,20 @@ Return
 
 ::togif::ffmpeg -i spinning-cage.mkv -vf "fps=15,scale=480:-1:flags=lanczos" -ss 00:00:05 -to 00:00:25 spinning-cage.gif
 
+::-jpg::
+(
+for f in *.jpg; do
+  ffmpeg -y -i "$f" -q:v 5 "$f"
+done`n
+)
+return
+
+::renameall::
+(
+i=0; for f in *.jpg; do mv -- "$f" "$(printf "%04d.jpg" $i)"; i=$((i+1)); done`n
+)
+return
+
 
 ::compressall::for file in *.mp3; do  ffmpeg -i "$file" -vn -ab 16k "${file%.mp3}-small.mp3"; done
 
@@ -2605,7 +2640,7 @@ return
 ::hashbang::!#/usr/bin/bash
 
 ::binbash::!#/bin/bash
-::bib::!#/bin/bash
+::!!b::!#/bin/bash
 
 
 
