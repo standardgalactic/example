@@ -70,6 +70,7 @@ Say "A sower went out to sow some seed: and as he sowed, some fell by the waysid
 
 ::darkcycle::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=150:-1, eq=contrast=1.5:brightness='sin(2*PI*t)':saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1" -t 10 -r 20 output_dark_light_cycle.gif
 
+::noref::Fill in this section without adding additional references:
 
 ::addmhtml::
 (
@@ -275,6 +276,21 @@ yt-dlp -s --cookies cookies.txt \
   "https://www.youtube.com/@tetasao"`n
 )
 Return
+
+::nounder::for file in *; do mv "$file" "${file//_/ }"; done
+
+::nogrok::
+(
+for file in *; do
+    # Check if the file name contains " - Grok"
+    if [[ "$file" == *" - Grok"* ]]; then
+        # Remove " - Grok" from the file name
+        new_name="${file// - Grok/}"
+        mv "$file" "$new_name"
+    fi
+done
+)
+return
 
 ::getproto::yt-dlp -f bestaudio https://www.youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7 --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
