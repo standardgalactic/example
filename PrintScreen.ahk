@@ -1,3 +1,5 @@
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -19,6 +21,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #Include AutoHotkey-script-Open-Show-Apps.ahk
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
+; Alt + p to edit this script
+; Notepad Ctrl+S to save
+; F8 to refresh the script.
 
 /*
 ::slowtype::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < 
@@ -51,6 +56,7 @@ https://archive.org/details/so-big-1953
 Send, exiftool -overwrite_original -Author="Flyxion" -Title="Relevance Activation Theory — A Cue-Indexed Model of Gradient-Based Cognition" -Subject="Physics" "Relevance Activation Theory.pdf"
 Return
 
+!i::SendRaw, @@:w`n:n`n
 
 ::addmeta::
 Send, exiftool -overwrite_original -Author="Flyxion" -Title="Semantic Recursion as Entropic Smoothing" -Subject="Physics" "Semantic Recursion.pdf"
@@ -60,6 +66,7 @@ Return
 
 ::startstable::docker compose --profile comfy up --build
 
+::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
 
 ::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
 
@@ -98,6 +105,7 @@ Return
 )
 Return
 
+::smalller::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=iw/2:ih/2, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1, drawtext=fontfile=/path/to/font.ttf: text='Todo Listo Para Jugar': fontcolor=white: fontsize=18: x=(w-text_w)/2: y=(h-text_h)/2" -t 10 -r 20 -compression_level 10 output_flashy_text_small.gif
 
 ::getsubs::
 (
@@ -245,6 +253,8 @@ done`n
 return
 
 ::onlytext::find . -type f ! -name '*.txt' -exec rm -f {} +
+
+::noref::Fill in this section without adding additional references:
 
 ::addmhtml::
 (
@@ -438,7 +448,9 @@ return
 
 ^e::Send, explorer.exe .`n
 
+::justdir::ls -d */
 
+::prettylog::git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 
 ;;;;;;; SROLL READER ;;;;;;;;
 
@@ -856,11 +868,23 @@ DesktopIcons( Show:=-1 )                  ; By SKAN for ahk/ah2
 
 ::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
 
+::getdoom::yt-dlp --sub-lang "en*" --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
 
 ;; Shutdown windows in 10 minutes ;;
 
 ::in10::Shutdown -s -t 600
 
+::getstuff::
+(
+yt-dlp -s --cookies cookies.txt \
+  -f bestaudio \
+  --extract-audio \
+  --audio-format mp3 \
+  --audio-quality 0 \
+  --output "%(uploader)s/%(title)s.%(ext)s" \
+  "https://www.youtube.com/@tetasao"`n
+)
+Return
 
 ::whichtorch::python -c "import torch; print(torch.__version__)"
 
@@ -894,20 +918,26 @@ SC121::BS
 
 ::noq::ls() {`n# only way I can stop ls from escaping with backslashes`n    if [ -t 1 ]; then`n/bin/ls -C $@ |cat`n    else`n/bin/ls $@ |cat`n    fi`n}
 
+::eliza::yt-dlp -f bestaudio https://www.youtube.com/watch?v=0WQAmmJJ34c --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
+::futureproof::yt-dlp -f bestaudio https://www.youtube.com/watch?v=6WbZPRzrE4o --extract-audio --audio-format mp3 --audio-quality 0 --output "%(uploader)s/%(title)s.%(ext)s"
 
+;; https://www.youtube.com/@hume_ai
 
 ::convertt::ffmpeg -i peripatetic.mkv -codec copy peripatetic.mp4
 
 ::clipp::ffmpeg -i patetic.mp4 -t 30 -c:v copy -c:a copy peripatetitic-walking.mp4
 
+::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
 
 
 ::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
 
+::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
+::getlocalscope::yt-dlp  --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=xHxqa8m1NqE
 
 ;; Shutdown windows in 10 minutes ;;
 
@@ -999,6 +1029,20 @@ return
 
 ::nowrap::set nowrapscan
 ::yeswrap::set wrapscan
+
+;; remove ALLCAPS
+
+::smalll::%s/\u\+/\L&/g ;;small caps
+
+::talll::%s/\(^\|[.!?] \)\zs\w/\u&/g  ;; capitalize first letter of each sentence
+
+;; remap calculator key  to backspace;;
+
+SC121::BS
+
+;; News Curator ;; Haplopraxis/IFM
+::curate-news::awk 'NR==FNR { exclude[$0]; next } !($0 in exclude)' global-deletions.txt Overloaded-watchlist.txt > Wikipedia-watchlist.txt
+
 
 ::fontss::C:\USERS\MECHACHLEOPTERYX\APPDATA\LOCAL\MICROSOFT\WINDOWS\FONTS\
 
@@ -1092,10 +1136,13 @@ What is the purpose of a propagating null wave front in Null Convention Logic?
 )
 return
 
+
 ::nonew::
 (
 for file in new_*.png; do mv "$file" "${file/new_/}"; done
 )
+::nosmall::for file in *-small*; do mv "$file" "${file%-small*}.${file##*.}"; done
+
 
 ::cropall::mogrify - crop 1080x1985+0+360 *.jpg
 
@@ -1128,6 +1175,11 @@ done
 !S::Send, Summarize:
 :*:afs::A final summary.`n
 :*:cbt::Connections between the topics.`n
+
+::findo::find . -name "*overview*"
+
+::everythingbut::find . -maxdepth 1 ! -name "fonts" ! -name "." -exec rm -rf {} +
+
 
 ::tchat::sudo docker run -it lwe_llm-workflow-engine /bin/bash
 
@@ -1246,6 +1298,10 @@ VARIABLE (RND)
 
 */
 
+::getcloak::for file in *; do mv "$file" "$file.cloak"; done
+
+::nocloak::for file in *.cloak; do mv "$file" "${file%.cloak}"; done
+
 ;; windows tricks ;;
 ::blam::for i in {1..5}; do touch file$((i)); done
 ::blip::for i in {1..100}; do touch file$((i)); done
@@ -1257,11 +1313,17 @@ VARIABLE (RND)
 ::no::rm *
 */
 
+;; remove prefix ;;
+
+::noprefix::for file in PREFIX*; do mv "$file" "${file#PREFIX}"; done
+
+
 ;; Mouse clicks
 
 ;; Send a right click
 
 #c::Click, left
+NumpadEnter::Click, left
 
 ;; cut / paste in powershell terminal
 
@@ -1345,6 +1407,7 @@ mortal(X) :- man(X).
 ::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
 ::croll::Contiguous Rolling Context Mixed Initiative Dialog
+;; ::md::Contiguous Rolling Context Mixed Initiative Dialog
 
 ;; not a counter countersh ;;
 
@@ -1360,6 +1423,19 @@ mortal(X) :- man(X).
 ;; speed  speedsh ;;
 ::fasle::false
 ::INt::int
+::Wq::wq
+::;s::ls
+::sq::squash
+
+
+/*
+;; test for above ;;
+
+::check::check one two
+::another test::yeah, it really works 
+::really?::yes it works 
+;;
+*/ 
 
 ;; this is annoying
 /*
@@ -1392,6 +1468,11 @@ Return
 
 
 ::fixssh::ssh-keyscan -H 192.168.2.233 >> /c/Users/Mechachleopteryx/.ssh/known_hosts
+
+;; spanish spanishsh
+
+;; hasta
+::ahta::# One of the most distinctive features of the Spanish variants is the pronunciation of /s/ when it is not aspirated to [h] or elided. In northern and central Spain, and in the Paisa Region of Colombia, as well as in some other, isolated dialects (e.g. some inland areas of Peru and Bolivia), the sibilant realization of /s/ is an apico-alveolar retracted fricative [s̺], a sound transitional between laminodental [s] and palatal [ʃ]. However, in most of Andalusia, in a few other areas in southern Spain, and in most of Latin America it is instead pronounced as a lamino-alveolar or dental sibilant. The phoneme /s/ is realized as [z] or [z̺] before voiced consonants when it is not aspirated to [h] or elided; [z̺] is a sound transitional between [z] and [ʒ]. Before voiced consonants, [z ~ z̺] is more common in natural and colloquial speech and oratorical pronunciation, [s ~ s̺] is mostly pronounced in emphatic and slower speech.
 
 ;; enxrypt ;; myaliases ;; sga aliases aliash
 
@@ -1433,6 +1514,15 @@ $PROMPT = "{me}{user}{g}@{hostname}{me}{cwd}> "`n
 
 ::dockrun::sudo docker run -ip 127.0.0.1:3000:3000 mechachleopteryx/devenv
 
+;; lua -- luash ;;
+::luarr:: --[[ and       break     do        else      elseif    end       false     for       function  if    in        local     nil       not       or    repeat    return    then      true      until    while --]]
+::leav::os.exit()
+::luuaa::lua -i -e "_PROMPT='luuaa> '"
+
+
+;; considered harmful ;;
+;; ::goto::go to  ;; need it to program basic
+
 ;; hide ip addresses ;;
 
 ::hideip::
@@ -1456,7 +1546,11 @@ return
 ; :*:testtttttttttttttttttttttttt::testtttttttttttttttttttttttt    w  o   r   k  i   n  g  !!   tttttttttttttttttt
 ; ::test?::working!  
 
+;;flipper;;
 
+LAlt & n::AltTab
+LAlt & m::ShiftAltTab
+LAlt & b::Send, ^a
 
 ::mereo::
 (
@@ -1518,10 +1612,22 @@ for file in gp``*.*``:
 
 ;; linux -- linuxsh;;
 
+
+::get ollama::curl -fsSL https://ollama.com/install.sh | sh
+
 ::gimme::for i in ``seq 1 10``; do   let result="$RANDOM % 300 + 200";   echo "A number: $result"; done
 
 ::addme::adduser -m flyxion
 ::undome::userdel -r flyxion
+
+::re fresh::curl -X POST http://localhost:3000/reset -H "Content-Type: application/json" -d '{"email": "nateguimondart@gmail.com"}'
+
+:o:keyg::ssh-keygen -t rsa -b 4096 -C "standardgalactic@protonmail.com"
+
+:o:getpid::eval "$(ssh-agent -s)"
+
+:o:add2::ssh-add . ~/.ssh/id_rsa
+
 
 ::gita::git config --global user.name "standardgalactic"
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
@@ -1537,6 +1643,7 @@ for file in gp``*.*``:
 ::upd::sudo apt-get update
 ::upg::sudo apt-get upgrade
 ::updg::sudo apt-get dist-upgrade
+::upr::sudo apt-get auto-remove
 
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
@@ -1783,10 +1890,60 @@ done `n
 )
 return
 
+::addtxt::
+(
+for file in *; do
+  if [[ -f "$file" && "$file" != *.txt && "$file" != *.* ]]; then
+    mv "$file" "$file.txt"
+  fi
+done`n
+)
+return
+
+::addsource::
+(
+# Define the line to prepend
+line="From Neural Activity to Field Topology: How Coupling Kernels Shape Consciousness\n\nFeb 21, 2025\n\nAndrés Gómez Emilsson\n\n\n"
+
+# Loop through each text file in the current directory
+for file in *.txt; do
+    # Prepend the line to the file
+    echo -e "$line" | cat - "$file" > temp && mv temp "$file"
+done`n
+)
+return
+
+
+::addnums::
+(
+# Count total text files
+total_files=$(ls -1 *.txt | wc -l)
+
+# Initialize a counter
+counter=1
+
+# Loop through each text file in the current directory
+for file in *.txt; do
+    # Append the line with the format "X/Y"
+    echo "$counter/$total_files" >> "$file"
+    ((counter++))  # Increment the counter
+done`n
+)
+return
 
 ::pls::sudo !!
 ::huh:: man !!
 
+::explainai::
+(
+
+
+curl \
+  -H 'Content-Type: application/json' \
+  -d '{"contents":[{"parts":[{"text":"Explain how AI works"}]}]}' \
+  -X POST 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDtcMdSuQH9WBq37hQuTQwmW5r2PZ_uqrM' > explain.txt
+)
+return
 
 ;; System and Environment Configuration ;;
 
@@ -1831,6 +1988,8 @@ return
 ::checkpack::ls /bin/b* | xargs /usr/bin/dpkg-query -S
 
 ; Lists packages associated with executables in /bin that start with 'b'.
+
+::getindex::jq -r '.title + " by " + .uploader' *.info.json > partial-index.txt
 
 ::what load::watch `cat /proc/loadavg`
 
@@ -1929,6 +2088,25 @@ for mp3 in *.webm; do
     fi
 done
 )
+return
+
+::no warranty::
+(
+# Extract thumbnail if it doesn’t exist
+if [ ! -f temp_thumbnail.jpg ]; then
+    ffmpeg -i "Visions of a Spirit-Seer.mp4" -vf "thumbnail" -frames:v 1 -q:v 2 temp_thumbnail.jpg
+fi
+
+# Get audio duration
+audio_duration=$(ffprobe -i superintelligence.mp3 -show_entries format=duration -v quiet -of compact=p=0:nk=1)
+
+# Create the looped video with audio, matching audio duration
+ffmpeg -stream_loop 121 -i "Visions of a Spirit-Seer.mp4" -i superintelligence.mp3 -i temp_thumbnail.jpg -map 0:v -map 1:a -map 2:v -c:v libx264 -crf 23 -preset medium -c:a aac -b:a 128k -c:v:1 copy -disposition:v:1 attached_pic -t "$audio_duration" "Transdimensional Superintelligence.mp4"
+
+# Clean up (optional)
+rm temp_thumbnail.jpg`n
+)
+return
 
 ;; audiobook ; audiobooks
 
@@ -1972,6 +2150,10 @@ fi
 done
 )
 return
+
+::supersplit::awk '{print > ("output/en_" sprintf("%05d.txt", NR)); close("output/en_" sprintf("%05d.txt", NR))}' english.txt
+
+::foreach::for file in * `; do say -o "${file%.*}.aiff" -f "$file"`; done
 
 
 ;;;;;;;;;;;;;jose;;;;;;;;;;;;;;;
@@ -2258,6 +2440,11 @@ Return
 ;; randomsh ;;
 
 :o:neander::Neanderthal
+
+
+;; Transmogrify ;;
+
+::howmuch::find . -maxdepth 1 -type f -name "*.jpg" -exec du -ch {} + | grep total$
 
 ;; Github githubsh ;;
 
@@ -3384,3 +3571,5 @@ PrintScreen::
 ::wroks::works
 ::specail::special
 ::claer::clear
+::exot::exit
+::exut::exit
