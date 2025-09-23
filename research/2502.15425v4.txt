@@ -1,0 +1,1454 @@
+TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement
+Learning
+Giuseppe Paolo 1 Abdelhakim Benechehab 1 2 Hamza Cherkaoui 1 Albert Thomas 1 Balázs Kégl 1
+Abstract
+Hierarchical organization is fundamental to bio-
+logical systems and human societies, yet artifi-
+cial intelligence systems often rely on monolithic
+architectures that limit adaptability and scalabil-
+ity. Current hierarchical reinforcement learning
+(HRL) approaches typically restrict hierarchies to
+two levels or require centralized training, which
+limits their practical applicability. We introduce
+TAME Agent Framework (TAG), a framework
+for constructing fully decentralized hierarchical
+multi-agent systems. TAG enables hierarchies
+of arbitrary depth through a novel LevelEnv con-
+cept, which abstracts each hierarchy level as the
+environment for the agents above it. This ap-
+proach standardizes information flow between lev-
+els while preserving loose coupling, allowing for
+seamless integration of diverse agent types. We
+demonstrate the effectiveness of TAG by imple-
+menting hierarchical architectures that combine
+different RL agents across multiple levels, achiev-
+ing improved performance over classical multi-
+agent RL baselines on standard benchmarks. Our
+results show that decentralized hierarchical orga-
+nization enhances both learning speed and final
+performance, positioning TAG as a promising di-
+rection for scalable multi-agent systems.
+1. Introduction
+Human societies are organized as hierarchical networks
+of agents, ranging from organizational structures (junior
+employees →middle managers →CEO) to ontological
+relationships (individuals →families →nations). This
+hierarchical organization facilitates complex coordination
+by decomposing problems across multiple scales while en-
+suring robustness through localized failure handling. As
+*Equal contribution
+1Noah's Ark Lab, Huawei Technologies
+France 2Department of Data Science, EURECOM. Correspon-
+dence to: Giuseppe Paolo <giuseppe.g.paolo@gmail.com>.
+TAG codebase available at: https://github.com/
+GPaolo/TAG_Framework
+(a)
+(b)
+Figure 1: Three- and two-level hierarchical agents used in
+the four-agent MPE-Spread environment. Yellow boxes rep-
+resent the hierarchy levels, while blue connections indicate
+what each agent perceives as its environment. Red con-
+nections illustrate how the agents in the real environment
+are controlled, and green boxes represent the goals that the
+agents must reach.
+proposed in the TAME approach (Levin, 2022), biological
+systems also function as hierarchical networks of agents,
+where higher-level agents coordinate lower-level ones. Each
+level exhibits varying degrees of cognitive sophistication,
+corresponding to the scale of the goals it can pursue. From
+single cells managing basic homeostasis to tissues coordinat-
+ing morphogenesis to brains overseeing complex behaviors,
+each level builds upon and integrates the intelligence of its
+components to achieve increasingly sophisticated cognitive
+capabilities. However, implementing similar hierarchical
+structures in artificial systems presents several key chal-
+lenges: (1) coordinating information flow between levels
+without centralized control, (2) enabling efficient learning
+despite the non-stationarity introduced by the simultaneous
+adaptation of agents at multiple levels, and (3) maintaining
+scalability as the depth of the hierarchy increases.
+Formally, we consider the challenge of learning in multi-
+agent systems where N agents must collaborate to solve
+complex tasks, each maximizing their own expected returns.
+In this setting, each agent receives its own reward. As N in-
+1
+arXiv:2502.15425v4  [cs.AI]  5 Mar 2025
+
+TAG: TAME Agent Framework
+creases, the joint action and state spaces grow exponentially,
+rendering centralized approaches intractable. Moreover,
+agents must learn to coordinate across different temporal
+and spatial scales, ranging from immediate reactive behav-
+iors to long-term strategic planning.
+Current AI systems predominantly rely on monolithic ar-
+chitectures that limit their adaptability and scalability in ad-
+dressing these challenges. This is evident in large language
+models (LLMs) and traditional reinforcement learning (RL)
+approaches where agents are typically defined as single,
+end-to-end trainable instances. Such monolithic designs
+present several limitations: they require complete retraining
+when conditions change, lack the natural compositionality
+of hierarchical systems, and scale poorly with increasing
+task complexity. Traditional multi-agent approaches based
+on centralized training with decentralized execution or two-
+level hierarchies with manager/worker structures struggle in
+such situations due to the high dimensionality of the states,
+limiting their applicability to small number of agents. At
+the same time, strategies consisting of independent learners
+with communication protocols are less afflicted by this, but
+suffer from possible communication overhead.
+Our key insight is that biological systems address similar
+coordination challenges through flexible, multi-scale hier-
+archical organization. We propose that future intelligent
+systems should be structured more like societies of agents
+than as monolithic entities. Our long-term goal is to build
+agents that resemble hierarchical and dynamic networks
+of sub-agents, rather than static structures. In this work,
+we take the first step in that direction with the introduction
+of the TAME Agent Framework (TAG), which draws in-
+spiration from TAME's biological insights (Levin, 2022)
+to create a hierarchical multi-agent RL framework that en-
+ables the construction of arbitrarily deep agent hierarchies.
+The core innovation of TAG is the LevelEnv abstraction,
+which facilitates the construction of multi-level multi-agent
+systems. Through this abstraction, each agent in the hierar-
+chy interacts with the level below as if it were its environ-
+ment—observing it through state representations, influenc-
+ing it through actions, and receiving rewards based on the
+lower level's performance. The resulting system consists of
+multiple horizontal levels, as shown in Fig. 1, each contain-
+ing one or more sub-agents, loosely connected to both their
+upper-level counterparts and their lower-level components.
+This structure reduces communication overhead and state
+space size by connecting agents locally within the hierarchy.
+TAG introduces several key innovations:
+1. A LevelEnv abstraction that standardizes information
+flow between levels while preserving agent autonomy,
+by presenting each level of the hierarchy as the envi-
+ronment to the level above;
+2. A flexible communication protocol that enables coordi-
+nation without requiring centralized control;
+3. Support for heterogeneous agents across levels, allow-
+ing different learning algorithms to be deployed where
+most appropriate.
+This approach enables more efficient learning by naturally
+decomposing tasks across multiple scales while maintain-
+ing scalability through loose coupling between levels. We
+demonstrate the effectiveness of TAG through empirical
+validation on standard multi-agent reinforcement learning
+(MARL) benchmarks, where we instantiate multiple two-
+and three-level hierarchies. The experiments show improved
+sample efficiency and final performance compared to both
+flat and shallow multi-agent baselines.
+In the following sections, we first review related work in
+both MARL (Sec.2.1) and HRL (Sec.2.2). We then present
+the TAG framework, including our key LevelEnv abstraction,
+in Sec.3. Sec.5 provides empirical validation on standard
+benchmarks for multiple instantiations of agents. We con-
+clude with a discussion of implications and future directions
+in Sec.6 and Sec.7.
+2. Related Works
+2.1. Multi-Agent Reinforcement Learning
+Research in multi-agent systems has gained significant at-
+tention in recent years (Nguyen et al., 2020; Oroojlooy &
+Hajinezhad, 2023). Leibo et al. (2019) proposed that inno-
+vation in intelligent systems emerges through social inter-
+actions via autocurricula—naturally occurring sequences
+of challenges resulting from competition and cooperation
+between adaptive units, which drive continuous innovation
+and learning. The authors argue that advancing intelligent
+systems requires a strong focus on multi-agent research.
+To support this growing field, several benchmarks have
+emerged (Samvelyan et al., 2019; Hu et al., 2021; Bettini
+et al., 2024; Terry et al., 2021). Terry et al. (2021) intro-
+duced PettingZoo, which provides a standardized OpenAI
+Gym-like (Brockman, 2016) interface for multi-agent en-
+vironments, while Bettini et al. (2024) introduced Bench-
+MARL, which addresses fragmentation and reproducibility
+challenges by offering comprehensive benchmarking tools
+and standardized baselines.
+MARL approaches can be broadly categorized into three
+main groups based on their coordination strategy:
+1. Independent learners operate without inter-agent com-
+munication, with each agent maintaining its own learn-
+ing algorithm and treating other agents as part of the en-
+vironment. Common examples include IPPO (De Witt
+et al., 2020), IQL (Thorpe, 1997), and ISAC (Bettini
+2
+
+TAG: TAME Agent Framework
+et al., 2024), which are independent adaptations of
+their single-agent counterparts: PPO (Schulman et al.,
+2017), Q-Learning (Watkins & Dayan, 1992), and SAC
+(Haarnoja et al., 2018) respectively;
+2. Parameter sharing approaches have agents share com-
+ponents like critics or value functions, as in MAPPO
+(Yu et al., 2022), MASAC (Bettini et al., 2024), and
+MADDPG (Lowe et al., 2017);
+3. Communicating agents actively exchange information,
+either through consensus-based approaches (Cassano
+et al., 2020; Zhang et al., 2018) where agents must
+reach agreement over a communication network, or
+through learned communication protocols (Foerster
+et al., 2016; Jorge et al., 2016).
+For a comprehensive taxonomy and review, we refer readers
+to Oroojlooy & Hajinezhad (2023).
+A significant challenge in MARL is the non-stationarity of
+the environment from each agent's perspective. As other
+agents learn and change their behaviors, the state transi-
+tion dynamics also change. This impacts experience replay
+mechanisms, as stored experiences quickly become obso-
+lete (Foerster et al., 2016). The dominant paradigm of cen-
+tralized learning with decentralized execution (Oroojlooy
+& Hajinezhad, 2023) attempts to address these challenges
+through shared learning components. However, this ap-
+proach constrains the architecture during training and limits
+applicability to lifelong learning scenarios.
+2.2. Hierarchical Reinforcement Learning
+Hierarchical organization is fundamental to intelligent be-
+havior in nature. Human infants naturally decompose com-
+plex tasks into hierarchical goal structures (Spelke & Kin-
+zler, 2007), enabling both temporal and behavioral abstrac-
+tions. This hierarchical approach offers two key advan-
+tages: it improves credit assignment through abstraction-
+based value propagation and enables more semantically
+meaningful exploration through temporal and state abstrac-
+tion (Hutsebaut-Buysse et al., 2022). Nachum et al. (2019)
+demonstrates that this enhanced exploration capability is
+one of the major benefits of hierarchical RL over flat RL
+approaches.
+The foundational approaches to HRL focus on two-level
+architectures. The Options framework formalizes tempo-
+ral abstraction through Semi-Markov Decision Processes
+(SMDPs), where temporally-extended actions ("options")
+consist of a policy, termination condition, and initiation set
+(Sutton et al., 1999). The framework supports concurrent
+option execution and allows for option interruption, provid-
+ing flexibility beyond simple hierarchical structures. While
+options were initially predefined (Sutton et al., 1999), later
+work enabled learning them with fixed high-level policies
+(Silver & Ciosek, 2012; Mann & Mannor, 2014) or through
+end-to-end training, as in Option-Critic (Bacon et al., 2017).
+An alternative approach, Feudal RL (Dayan & Hinton, 1992;
+Kumar et al., 2017; Vezhnevets et al., 2017), implements
+a manager-worker architecture where managers provide in-
+trinsic goals to lower-level workers. This creates bidirec-
+tional information hiding—managers need not represent
+low-level details, while workers focus solely on their imme-
+diate intrinsic rewards without requiring access to high-level
+goals. These approaches face a common challenge: the non-
+stationarity of the lower level during learning complicates
+value estimation for the higher level.
+Model-based approaches attempt to address this—Xu &
+Fekri (2021) learn symbolic models for high-level planning,
+while Li et al. (2017) build on MAXQ's value function
+decomposition by breaking down the global MDP into task-
+specific local MDPs. However, these typically require hand-
+specified state abstractions or task decompositions. Recent
+work focuses on learning stability, with Luo et al. (2023)
+introducing attention-based reward shaping to guide explo-
+ration, and Hu et al. (2023) developing uncertainty-aware
+techniques to handle distribution shifts between levels.
+The multi-agent setting introduces additional complexity, as
+hierarchical coordination must now handle both temporal
+and agent-to-agent dependencies. Tang et al. (2018) ad-
+dresses this through temporal abstraction with specialized
+replay buffers to handle the resulting non-stationarity. Mean-
+while, Zheng & Yu (2024) introduces hierarchical reward
+machines but require significant domain knowledge. The
+scarcity of work combining HRL and MARL highlights
+the challenges of stable learning with multiple sources of
+non-stationarity.
+Our approach, TAG, departs from traditional hierarchical
+frameworks by directly learning to shape lower-level ob-
+servation spaces, rather than explicitly assigning goals like
+Feudal RL. This is directly inspired by the work of Levin
+(2022), which proposes that in biological systems, local
+environmental changes drive coordinated responses with-
+out central control. The closest approach to our work is
+FMH (Ahilan & Dayan, 2019), but in this work, the agent is
+limited to shallow two-depth hierarchies and has only top-
+bottom information flow in the form of goals. In contrast,
+TAG supports arbitrary-depth hierarchies without requiring
+explicit task specifications, and the communication across
+levels relies on bottom-up messages and top-down actions
+modifying the observations of the agents, rather than provid-
+ing them goals. In this way, TAG offers a flexible solution
+for multi-agent coordination.
+3
+
+TAG: TAME Agent Framework
+3. TAG Framework
+The TAG framework addresses scenarios where multiple
+agents collaborate to maximize individual rewards over a
+Markov Decision Process (MDP), which we refer to as
+the real environment. Inspired by biological systems, as
+described in TAME (Levin, 2022), TAG implements a hier-
+archical multi-agent architecture where higher-level agents
+coordinate lower-level ones, each with varying cognitive
+sophistication matching their goal complexity. As shown in
+Fig. 1, at its core, TAG organizes agents into levels, where
+each level perceives and interacts only with the level directly
+below it. While agents at the lowest level operate directly in
+the real environment MDP, agents at higher levels perceive
+and interact with increasingly abstract representations of the
+system through the LevelEnv construct. This structure facil-
+itates both horizontal (intra-level) and vertical (inter-level)
+coordination, allowing higher levels to maintain strategic
+oversight without requiring detailed knowledge of lower-
+level behaviors, while influencing lower levels through ac-
+tions that modify their environmental observations.
+The framework's key innovation is the LevelEnv abstraction,
+which transforms each hierarchical layer into an environ-
+ment for the agents above it. This abstraction reshapes
+the original MDP into a series of coupled decision pro-
+cesses, with each level operating on its own temporal and
+spatial scale. Within this structure, agents optimize their
+individual rewards while contributing to the overall system
+performance through the hierarchical arrangement.
+TAG enables bidirectional information flow: feedback
+moves upward through the hierarchy via agent communica-
+tions, while control flows downward through actions that
+shape lower-level observations. This design preserves mod-
+ularity between levels while facilitating coordination and
+integrates heterogeneous agents whose capabilities match
+the complexity requirements of their respective levels.
+3.1. Formal Framework Definition
+A TAG-hierarchy consists of L ordered levels, with each
+level l containing Nl parallel agents [ωl
+1, . . . , ωl
+Nl]. Within
+the hierarchy, each agent ωl
+i is connected to agents in the lev-
+els immediately above and below. We define I+1
+i
+and I−1
+i
+as the sets of indices of agents connected to ωl
+i from levels
+l + 1 and l −1, respectively. Each agent ωl
+i is characterized
+by
+• an observation space Ol
+i that aggregates messages from
+lower-level agents into a single observation: ol
+i =
+[ml−1j]j ∈I−1
+i
+;
+• an action space Al
+i for influencing the observations of
+lower-level agents;
+• a communication function ϕl
+i that generates upward-
+Algorithm 1 LevelEnv .step()
+1: Input: al+1
+t
+(Actions from level above)
+2: al
+i ←πl
+i(al+1
+i
+, ol−1
+i
+) ∀i ∈l {Get actions}
+3: ol−1, rl−1 ←env.step(al) {Step lower level}
+4: ml
+i, rl
+i ←ϕl
+i(ol−1
+i
+, rl−1
+i
+) ∀i ∈l {Get messages}
+5: if training then
+6:
+for agent ωl
+i ∈Level l do
+7:
+agent.store(al+1
+i
+, ol−1
+i
+, al
+i, rl−1
+i
+)
+8:
+agent.update()
+9:
+end for
+10: end if
+11: ol = [ml
+0, . . . , ml
+Nl] {Make observation}
+12: rl = [rl
+0, . . . , rl
+Nl] {Make reward}
+13: Return: ol, rl
+flowing messages and rewards based on observa-
+tions, rewards, and internal states:
+mli, rli
+=
+ϕl
+i(ol−1
+i
+, rl−1
+i
+);
+• a policy πl
+i that selects actions based on lower-
+level observations and higher-level actions: al
+i =
+πl
+i(al+1
+i
+, ol−1
+i
+).
+The reward structure reflects this hierarchical decomposi-
+tion: while the lowest-level agents receive rewards directly
+from the real environment, higher-level agents (ωl) receive
+rewards computed by the communication function ϕl−1
+j
+of
+the agents in the levels below, based on their own perfor-
+mance. This creates a cascade of reward signals that aligns
+the objectives of the individual agents with the overall goal
+of the system, which is optimizing performance in the real
+environment. During training, each agent stores its experi-
+ences and updates its policy based on the received rewards,
+enabling the entire hierarchy to learn coordinated behavior.
+The LevelEnv abstraction standardizes information ex-
+change between levels while preserving their independence.
+As detailed in Alg. 1, at each step, agents at level l gen-
+erate messages and rewards through their communication
+functions and influence lower levels through their policies.
+This enables coordinated behavior through bidirectional
+information flow while maintaining the autonomy of the
+implementation of each level.
+3.2. Information Flow and Agent Interactions
+Information in TAG flows through a continuous cycle be-
+tween adjacent levels, facilitated by the LevelEnv abstrac-
+tion. This flow can be characterized by two distinct path-
+ways: bottom-up and top-down, as illustrated in Fig. 2.
+Bottom-up Flow
+Information ascends the hierarchy from
+the real environment at the bottom through all the successive
+levels until the top. At each timestep, agents at level l receive
+4
+
+TAG: TAME Agent Framework
+Figure 2: Representation of the information flows between a
+level l with two agents and the levels above and below. The
+top-down flow of actions is shown in blue. The bottom-up
+flux of messages and rewards is shown in red and green,
+respectively.
+messages ml−1 and rewards rl−1 from level l −1, defined
+as:
+(
+ol−1 = [ml−1
+0
+, . . . , ml−1
+Nl−1]
+rl−1 = [rl−1
+0
+, . . . , rl−1
+Nl−1]
+where Nl−1 represents the number of agents at level l −1.
+Each message ml−1
+i
+encodes both environmental state and
+internal agent state information.
+Agents ωl
+i process information from their subordinate agents
+through their communication function:
+(ml
+i, rl
+i) = ϕl
+i(ol−1
+i
+, rl−1
+i
+),
+where ol−1
+i
+= [ml−1
+j
+]j∈I−1
+i
+and rl−1
+i
+= [rl−1
+j
+]j∈I−1
+i
+repre-
+sent the collections of messages and rewards directed to
+agent i. Finally, level l returns to level l + 1 its observations
+ol = [ml
+0, ..., ml
+Nl] and rewards rl = [rl
+0, ..., rl
+Nl].
+The strength of this framework lies in how messages are
+processed and transformed. Rather than simply relaying raw
+observations, agents can learn to extract and communicate
+relevant features that are crucial for coordination. For exam-
+ple, an agent might learn to signal when it needs assistance
+from other agents or when it has achieved a subgoal that
+contributes to the larger objective.
+Top-bottom Flow
+Control information descends the hier-
+archy through actions, starting at the top level. Each level
+l receives actions al+1 = [al+1
+0
+, . . . , al+1
+Nl ] from level l + 1,
+where each component i corresponds to the action input
+for agent ωl
+i. These actions influence lower-level behavior
+through the policy function:
+al
+i = πi(al+1
+i
+, ol−1
+i
+).
+The actions do not directly control the agents at lower levels
+but instead modify their observation space, subtly influenc-
+ing their behavior while preserving their autonomy. This
+indirect influence mechanism is crucial as it allows higher
+levels to guide lower levels toward desired behaviors with-
+out needing to specify exact goals, similar to how biological
+systems maintain coordination across scales, while preserv-
+ing the environmental abstraction at each level.
+3.3. Learning and Adaptation
+The learning process in TAG naturally accommodates the
+hierarchical structure instantiated by the framework. Each
+agent learns two key functions: a policy π for generating
+actions, and a communication function ϕ for generating
+messages and rewards. The policy learns to map the com-
+bination of received actions and observations to actions for
+the level below, while the communication function learns to
+extract and transmit relevant information to higher levels.
+The modular design of the framework allows agents at each
+level to learn independently using appropriate algorithms for
+their specific roles. This flexibility accommodates a wide
+range of learning approaches, from simple Q-learning to
+sophisticated policy gradient methods. During training, each
+agent stores its experiences and updates its policy based on
+received rewards, as shown in Alg. 1. This independent
+learning capability enables the framework to adapt more
+easily to different scenarios—lower levels might employ
+basic reactive policies, while higher levels can use advanced
+planning algorithms.
+3.4. Scalability and Flexibility
+The architecture of TAG enables scaling to arbitrary depths
+while maintaining computational efficiency through sev-
+eral mechanisms. First, the loose coupling between levels
+allows each layer to operate at its own temporal scale, sim-
+ilar to how biological systems separate strategic planning
+from reactive control. Higher levels can make decisions
+at lower frequencies than lower levels, reducing computa-
+tional overhead while maintaining effective coordination.
+Second, standardized interfaces, implemented through the
+LevelEnv abstraction, naturally handle the integration of
+heterogeneous agents with varying capabilities and learning
+algorithms. This standardization ensures effective commu-
+nication and coordination regardless of the implementation
+of individual agents.
+In practice, the LevelEnv implementation follows the Pet-
+tingZoo API (Terry et al., 2021), providing two primary
+interface functions: .reset() and .step()1. The first,
+.reset(), initializes the system state from the real envi-
+ronment through all hierarchy levels and returns the initial
+1Code will be released upon acceptance.
+5
+
+TAG: TAME Agent Framework
+observation, starting the upward flow of information. The
+.step() function accepts a dictionary of actions and re-
+turns dictionaries containing observations, rewards, termina-
+tion conditions, and additional information for each agent in
+the level. It is during the call to .step() that actions for
+the lower level are generated, the .step() of the lower
+level is called, and the agents are updated, as detailed in
+Alg. 1.
+4. Empirical Validation
+4.1. Multi Level Hierarchy Examples
+To demonstrate the effectiveness of TAG, we implement
+multiple concrete examples consisting of two- and three-
+level hierarchical systems using PPO- and MAPPO- based
+agents. Their structures are shown in Fig. 1. We focus on
+on-policy algorithms as the lack of the replay buffer helps in
+dealing with the changing distributions in the environment
+(Foerster et al., 2016).
+5. Empirical Validation
+5.1. Examples of Multi-Level Hierarchy
+To demonstrate the effectiveness of TAG, we implement
+multiple concrete examples consisting of two- and three-
+level hierarchical systems using PPO- and MAPPO-based
+agents. Their structures are shown in Fig. 1. We focus on
+on-policy algorithms, as the lack of a replay buffer helps ad-
+dress the changing distributions in the environment (Foerster
+et al., 2016).
+As shown in Fig. 1(a), the three-level architecture consists of
+a bottom level comprising four agents, each directly control-
+ling an actor in the environment. These agents must learn
+to translate high-level directives into concrete actions while
+adapting to local conditions. The middle level contains two
+agents, each coordinating a pair of bottom-level agents. Fi-
+nally, the top level contains a single agent that learns to pro-
+vide strategic direction to the entire system. In contrast, the
+two-level hierarchy consists of four low-level agents inter-
+acting with the real environment and coordinated by a single
+high-level manager. For each of these topologies, we instan-
+tiate one homogeneous system, containing only PPO-based
+agents, and one heterogeneous system, with PPO-agents
+at the bottom and MAPPO-agents at the upper levels. We
+refer to these agents as 3PPO and 2MAPPO-PPO for the
+three-level systems, and 2PPO and MAPPO-PPO for the
+two-level systems.
+Except for the agents at the bottom level, whose action space
+depends on the environment, all the PPO-based agents in
+2PPO and 3PPO produce one-dimensional discrete actions
+in the range [0, . . . , 5]. Given that PPO is not a MARL
+algorithm, it cannot control multiple agents in the level
+below the hierarchy without adaptation. To overcome this,
+we design the action space of each PPO agent in the upper
+levels l of 2PPO and 3PPO to be the combination of the
+input action spaces of level l −1, resulting from the subset
+of agents in l −1 connected to it. For example, if level
+l −1 contains two agents, each with an input action space
+of size K, the PPO agent at level l will have an action
+space of size K × K. In the heterogeneous hierarchies
+of 2MAPPO-PPO and MAPPO-PPO, each MAPPO-based
+agent produces a two-dimensional continuous action for
+each of the agents to which it is connected. In this case,
+since MAPPO is a MARL algorithm by design, we did
+not modify its outputs. The agents in all these four systems
+(2PPO, 3PPO, MAPPO-PPO and 2MAPPO-PPO) only learn
+their policy πi, while the communication function ϕi is
+hand-designed to return as message ml
+i = [ml−1
+j
+] ∀j ∈I−1
+i
+,
+corresponding to the concatenation of the observations from
+the level below, and as reward the sum of the rewards from
+l −1: rl
+i = P
+j∈I−1
+i
+rl−1
+j
+. Moreover, in the three-level
+agents, the top two levels provide a new action once every
+two steps of the level below, making each level effectively
+work at different frequencies compared to the levels below.
+Finally, we implement 3PPO-comm, a version of 3PPO in
+which the communication function ϕi is learned. This con-
+sists of a two-layer AutoEncoder (AE) (Bank et al., 2023)
+with ReLU activation functions between the layers and Sig-
+moid on its feature space. The AE is continually trained
+together with the PPO agents, on the same batch, to recon-
+struct ol−1
+i
+by minimizing the MSE. The message ml
+i cor-
+responds to the representation of ol−1
+i
+in the 8-dimensional
+feature space of the trained autoencoder. As with the other
+agents, the reward returned by ϕi is the sum of rewards from
+the level below. The hyperparameters of all the implemented
+systems are presented in App. A.
+5.2. Experimental Design and Results
+We evaluate TAG-based systems across two standard multi-
+agent environments that test different aspects of coordina-
+tion and scalability. The first is the Simple Spread envi-
+ronment from the MPE suite (Lowe et al., 2017; Mordatch
+& Abbeel, 2017), where agents must maximize area cov-
+erage while avoiding collisions, testing both coordination
+and spatial reasoning. The second is the Balance environ-
+ment from the VMAS suite (Bettini et al., 2022), which
+tests synchronized control by requiring agents to maintain
+collective stability through coordinated actions. Both envi-
+ronments operate with four agents and limit episodes to 100
+time-steps.
+We compare our approach against three baselines: MAPPO
+(Yu et al., 2022), I-PPO (De Witt et al., 2020), and classic
+PPO (Schulman et al., 2017). Being in a multi-agent setting,
+6
+
+TAG: TAME Agent Framework
+(a)
+(b)
+Figure 3: Mean average reward in the MPE-Spread environment (a) and Balance environment (b). Mean is calculated over
+5 random seeds. Shaded areas represent 95% confidence intervals. Dotted red line in (a) shows the performance of an
+hand-designed heuristic.
+we adapted PPO by expanding its action space to encompass
+the combined action spaces of all agents in the real envi-
+ronment. Additionally, for the MPE-Spread environment,
+we developed a hand-designed heuristic that assigns and
+directs each agent to a specific goal along the shortest path
+from their initial position. The average performance of this
+heuristic across 10 episodes is indicated by a red dotted line
+in Fig. 3.(a).
+Fig. 3 shows the average reward obtained by all tested al-
+gorithms in both benchmark environments over 5 random
+seeds. The shaded areas represent 95% confidence inter-
+vals. The results demonstrate that increasing the depth of
+the hierarchy improves both final performance and sample
+efficiency. This improvement is particularly pronounced in
+the MPE-Spread environment (Fig. 3.(a)), where only the
+depth-three agents, 3PPO and 2MAPPO-PPO, match the
+hand-designed heuristic performance, while all other agents
+achieve lower rewards. We particularly focus on 3PPO-
+comm due to its performance in the Balance environment
+(Fig. 3.(b)). Its ability to achieve significantly higher average
+rewards compared to other baselines suggests that learned
+communication is crucial for proper coordination in certain
+settings. However, the implementation and learning of com-
+munication require careful consideration. While a simple
+AE might suffice for the Balance task, 3PPO-comm shows
+lower performance in MPE-Spread compared to methods us-
+ing the identity function as their communication function ϕ.
+Currently, the learning of ϕ occurs independently of agent
+performance. We believe incorporating performance-related
+communication between agents could significantly enhance
+both performance and communication quality, which we
+leave for future work.
+Regarding the baselines, while MAPPO and I-PPO even-
+tually reach similar performance levels as the two-level
+TAG-based agents, they require more training time. No-
+tably, PPO struggles to achieve performance similar to the
+other baselines in both environments, highlighting the limi-
+tations of monolithic approaches when dealing with large
+action and observation spaces.
+These results demonstrate two key advantages of the TAG
+approach. First, the hierarchical structure enables more effi-
+cient learning compared to flat architectures, as the division
+of labor across levels allows each agent to focus on a man-
+ageable subset of the overall problem, leading to increased
+sample efficiency. Second, the framework shows improved
+scalability; as we increase the number of agents, the hier-
+archical structure helps maintain coordination without the
+exponential complexity growth typical of flat architectures.
+5.3. Analysis of Communication Mechanisms
+In this section, we analyze the learned communication mech-
+anism between hierarchy levels by examining correlations
+between the actions of connected agents. The presence of
+such correlations would indicate that agents can effectively
+use the modifications to their observations from higher-level
+agents. We focus our analysis on the action relationships
+between the top and bottom levels of 2PPO and MAPPO-
+PPO in the MPE-Spread environment, where all agents in
+the hierarchy have a discrete action space of 5. Figs. 4 and
+5 display the discrete actions of one low-level agent on the
+y-axis and the training episodes on the x-axis. The colors
+indicate which top-level action was most frequently chosen
+(mode) when the bottom-level agent performed each of its
+actions during an episode. This is calculated as follows: for
+each episode, we: 1) look at every instance when the bottom-
+level agent performs a specific action, 2) record which ac-
+tion the top-level agent chose in each of these instances, and
+3) determine which top-level action occurred most often
+(mode) for that bottom-level action. White spaces represent
+episodes where the low-level agent did not select the corre-
+sponding action. A constant mode across multiple episodes
+indicates an association between the actions of agents across
+two levels.
+As shown in Figs. 4.(a) and 5.(a), there is a strong correla-
+tion between the actions selected by the top agent ω2 for the
+bottom agent ω1
+i and the actions of ω1
+i for both 2PPO and
+MAPPO-PPO, evidenced by the mode remaining constant
+across multiple episodes. While this association evolves
+7
+
+TAG: TAME Agent Framework
+(a)
+(b)
+Figure 4: Action distributions between top and bottom
+agents in MAPPO-PPO. (a) The bottom agent receives ac-
+tions from the top. (b) The bottom agent does not receive
+actions from the top.
+(a)
+(b)
+Figure 5: Action distributions between top and bottom
+agents in 2PPO. (a) Bottom agent receives actions from
+the top. (b) Bottom agent does not receive actions from the
+top.
+throughout training, it maintains clear definition. In con-
+trast, Figs. 4.(b) and 5.(b) show the correlation between
+actions selected by ω2 for ω1
+i and the actions of ω1
+j , with
+j ̸= i. If the correlations observed earlier were merely co-
+incidental rather than due to meaningful communication,
+we would expect to see similar patterns even between un-
+connected agents. Nonetheless, no correlation is present,
+as indicated by the mode changing every episode. The ab-
+sence of correlation in this case confirms that the patterns
+observed between connected agents reflect actual informa-
+tion flow through the hierarchy. These results demonstrate
+that higher-level agents learn to provide useful feedback
+that lower-level agents can build on, confirming that the
+hierarchical structure and information flow instantiated by
+TAG are beneficial.
+6. Discussion and Future Work
+Our results demonstrate the benefits of TAG for hierarchical
+coordination, while highlighting several important consid-
+erations. The framework excels in tasks requiring coor-
+dination between multiple agents, though determining the
+optimal hierarchy configuration - specifically, the number
+of levels and agents per level - currently relies on empiri-
+cal tuning, presenting an important area for future research.
+Another key consideration emerges from the definition of
+our communication function. While most of our baselines
+use the identity function for inter-level communication, our
+experiments with learned communication functions reveal
+promising improvements in performance. These results un-
+derscore the need for a more thorough investigation into
+learning optimal communication between agents. Under-
+standing how to effectively learn and shape this communica-
+tion could significantly enhance information flow between
+hierarchical levels and potentially reduce coordination over-
+head.
+A particularly promising direction is adapting the hierar-
+chical structure automatically. The current implementation
+requires pre-specifying the number of levels and inter-agent
+connections. Extending TAG to dynamically adjust its struc-
+ture based on the demands of the task could enhance its
+flexibility and efficiency. This development could draw in-
+spiration from biological systems, where hierarchical orga-
+nization typically emerges through self-organization rather
+than external specification. The success of TAG in enabling
+scalable multi-agent coordination extends beyond pure rein-
+forcement learning. Its principles of loose coupling between
+levels and standardized information flow could inform the
+design of other complex systems, from robotic swarms to
+distributed computing architectures. Additionally, the ca-
+pability of the framework to handle heterogeneous agents
+suggests potential applications in human-AI collaboration,
+where artificial agents must coordinate with human opera-
+tors across multiple levels of abstraction.
+Several promising avenues for future research emerge from
+this work. First, investigating theoretical guarantees for
+learning convergence in deep hierarchies could provide
+valuable insights for designing more robust systems, par-
+ticularly regarding the stability of learning across multiple
+hierarchical levels. Second, enabling the creation of au-
+tonomous hierarchies and composing the team dynamically
+would enhance practical applicability by allowing agents to
+join or leave the hierarchy during operation. Furthermore,
+integrating model-based planning at higher levels while
+maintaining reactive control at lower levels could improve
+performance in complex domains. This could include incor-
+porating LLM-based agents at the highest levels to enhance
+reasoning capabilities and facilitate natural interaction with
+human operators. The study of how agents learn to com-
+municate effectively within the hierarchy represents another
+crucial direction, as our preliminary results with learned
+communication functions suggest significant potential for
+improving coordination efficiency and system performance.
+8
+
+TAG: TAME Agent Framework
+7. Conclusion
+TAG represents a step toward more scalable and flexible
+multi-agent systems. By providing a principled framework
+for hierarchical coordination while maintaining agent auton-
+omy, it enables complex collective behaviors to emerge from
+relatively simple components, similar to biological systems.
+The demonstrated success in our comprehensive evaluation
+across standard multi-agent benchmarks, including both
+cooperative navigation and manipulation tasks, suggests
+its potential for addressing increasingly challenging multi-
+agent problems. Having heterogeneous agents and arbitrary
+depths of hierarchy, while maintaining stable learning, poses
+several key challenges in multi-agent reinforcement learn-
+ing. As we move toward increasingly complex multi-agent
+systems, frameworks like TAG that enable principled hierar-
+chical organization will become increasingly important.
+Impact statement
+This paper presents work whose goal is to advance the field
+of Machine Learning. There are many potential societal
+consequences of our work, none which we feel must be
+specifically highlighted here.
+References
+Ahilan, S. and Dayan, P. Feudal multi-agent hierarchies
+for cooperative reinforcement learning. arXiv preprint
+arXiv:1901.08492, 2019.
+Bacon, P.-L., Harb, J., and Precup, D. The option-critic
+architecture. In Proceedings of the AAAI conference on
+artificial intelligence, volume 31, 2017.
+Bank, D., Koenigstein, N., and Giryes, R. Autoencoders.
+Machine learning for data science handbook: data min-
+ing and knowledge discovery handbook, pp. 353-374,
+2023.
+Bettini, M., Kortvelesy, R., Blumenkamp, J., and Prorok,
+A. Vmas: A vectorized multi-agent simulator for col-
+lective robot learning. In International Symposium on
+Distributed Autonomous Robotic Systems, pp. 42-56.
+Springer, 2022.
+Bettini, M., Prorok, A., and Moens, V.
+Benchmarl:
+Benchmarking multi-agent reinforcement learning. Jour-
+nal of Machine Learning Research, 25(217):1-10,
+2024.
+URL http://jmlr.org/papers/v25/
+23-1612.html.
+Brockman,
+G.
+Openai
+gym.
+arXiv
+preprint
+arXiv:1606.01540, 2016.
+Cassano, L., Yuan, K., and Sayed, A. H. Multiagent fully
+decentralized value function learning with linear conver-
+gence rates. IEEE Transactions on Automatic Control, 66
+(4):1497-1512, 2020.
+Dayan, P. and Hinton, G. E. Feudal reinforcement learning.
+Advances in neural information processing systems, 5,
+1992.
+De Witt, C. S., Gupta, T., Makoviichuk, D., Makoviychuk,
+V., Torr, P. H., Sun, M., and Whiteson, S. Is indepen-
+dent learning all you need in the starcraft multi-agent
+challenge? arXiv preprint arXiv:2011.09533, 2020.
+Foerster, J., Assael, I. A., De Freitas, N., and Whiteson,
+S. Learning to communicate with deep multi-agent re-
+inforcement learning. Advances in neural information
+processing systems, 29, 2016.
+Haarnoja, T., Zhou, A., Abbeel, P., and Levine, S. Soft
+actor-critic: Off-policy maximum entropy deep reinforce-
+ment learning with a stochastic actor. In International
+conference on machine learning, pp. 1861-1870. PMLR,
+2018.
+Hu, J., Jiang, S., Harding, S. A., Wu, H., and Liao, S.-w.
+Rethinking the implementation tricks and monotonicity
+constraint in cooperative multi-agent reinforcement learn-
+ing. arXiv preprint arXiv:2102.03479, 2021.
+Hu, W., Wang, H., He, M., and Wang, N. Uncertainty-aware
+hierarchical reinforcement learning for long-horizon
+tasks. Applied Intelligence, 53(23):28555-28569, 2023.
+Hutsebaut-Buysse, M., Mets, K., and Latré, S. Hierarchical
+reinforcement learning: A survey and open research chal-
+lenges. Machine Learning and Knowledge Extraction, 4
+(1):172-221, 2022.
+Jorge, E., Kågebäck, M., Johansson, F. D., and Gustavs-
+son, E. Learning to play guess who? and inventing a
+grounded language as a consequence. arXiv preprint
+arXiv:1611.03218, 2016.
+Kumar, A., Swersky, K., and Hinton, G. Feudal learning for
+large discrete action spaces with recursive substructure.
+In Proceedings of the NIPS Workshop Hierarchical Re-
+inforcement Learning, Long Beach, CA, USA, volume 9,
+2017.
+Leibo, J. Z., Hughes, E., Lanctot, M., and Graepel, T. Au-
+tocurricula and the emergence of innovation from social
+interaction: A manifesto for multi-agent intelligence re-
+search. arXiv preprint arXiv:1903.00742, 2019.
+Levin, M.
+Technological approach to mind every-
+where:
+An
+experimentally-grounded
+framework
+for understanding diverse bodies and minds.
+Fron-
+tiers in Systems Neuroscience, 16, 2022.
+ISSN
+1662-5137.
+doi: 10.3389/fnsys.2022.768201.
+URL
+9
+
+TAG: TAME Agent Framework
+https://www.frontiersin.org/articles/
+10.3389/fnsys.2022.768201.
+Li, Z., Narayan, A., and Leong, T.-Y. An efficient approach
+to model-based hierarchical reinforcement learning. In
+Proceedings of the AAAI Conference on Artificial Intelli-
+gence, volume 31, 2017.
+Lowe, R., Wu, Y. I., Tamar, A., Harb, J., Pieter Abbeel,
+O., and Mordatch, I. Multi-agent actor-critic for mixed
+cooperative-competitive environments. Advances in neu-
+ral information processing systems, 30, 2017.
+Luo, S., Chen, J., Hu, Z., Zhang, C., and Zhuang, B. Hi-
+erarchical reinforcement learning with attention reward.
+In Proceedings of the 2023 International Conference on
+Autonomous Agents and Multiagent Systems, pp. 2804-
+2806, 2023.
+Mann, T. and Mannor, S. Scaling up approximate value
+iteration with options: Better policies with fewer itera-
+tions. In International conference on machine learning,
+pp. 127-135. PMLR, 2014.
+Mordatch, I. and Abbeel, P. Emergence of grounded com-
+positional language in multi-agent populations. arXiv
+preprint arXiv:1703.04908, 2017.
+Nachum, O., Tang, H., Lu, X., Gu, S., Lee, H., and Levine,
+S. Why does hierarchy (sometimes) work so well in re-
+inforcement learning? arXiv preprint arXiv:1909.10618,
+2019.
+Nguyen, T. T., Nguyen, N. D., and Nahavandi, S. Deep
+reinforcement learning for multiagent systems: A review
+of challenges, solutions, and applications. IEEE transac-
+tions on cybernetics, 50(9):3826-3839, 2020.
+Oroojlooy, A. and Hajinezhad, D. A review of coopera-
+tive multi-agent deep reinforcement learning. Applied
+Intelligence, 53(11):13677-13722, 2023.
+Samvelyan, M., Rashid, T., De Witt, C. S., Farquhar, G.,
+Nardelli, N., Rudner, T. G., Hung, C.-M., Torr, P. H.,
+Foerster, J., and Whiteson, S. The starcraft multi-agent
+challenge. arXiv preprint arXiv:1902.04043, 2019.
+Schulman, J., Wolski, F., Dhariwal, P., Radford, A., and
+Klimov, O. Proximal policy optimization algorithms.
+arXiv preprint arXiv:1707.06347, 2017.
+Silver, D. and Ciosek, K. Compositional planning using
+optimal option models. arXiv preprint arXiv:1206.6473,
+2012.
+Spelke, E. S. and Kinzler, K. D. Core knowledge. Develop-
+mental science, 10(1):89-96, 2007.
+Sutton, R. S., Precup, D., and Singh, S. Between mdps
+and semi-mdps: A framework for temporal abstraction in
+reinforcement learning. Artificial intelligence, 112(1-2):
+181-211, 1999.
+Tang, H., Hao, J., Lv, T., Chen, Y., Zhang, Z., Jia, H., Ren,
+C., Zheng, Y., Meng, Z., Fan, C., et al. Hierarchical
+deep multiagent reinforcement learning with temporal
+abstraction. arXiv preprint arXiv:1809.09332, 2018.
+Terry, J., Black, B., Grammel, N., Jayakumar, M., Hari, A.,
+Sullivan, R., Santos, L. S., Dieffendahl, C., Horsch, C.,
+Perez-Vicente, R., et al. Pettingzoo: Gym for multi-agent
+reinforcement learning. Advances in Neural Information
+Processing Systems, 34:15032-15043, 2021.
+Thorpe, T. Multi-agent reinforcement learning: Indepen-
+dent vs. cooperative agents. PhD thesis, Master's thesis,
+Department of Computer Science, Colorado State Univer-
+sity, 1997.
+Vezhnevets, A. S., Osindero, S., Schaul, T., Heess, N., Jader-
+berg, M., Silver, D., and Kavukcuoglu, K. Feudal net-
+works for hierarchical reinforcement learning. In Interna-
+tional conference on machine learning, pp. 3540-3549.
+PMLR, 2017.
+Watkins, C. J. and Dayan, P. Q-learning. Machine learning,
+8:279-292, 1992.
+Xu, D. and Fekri, F. Interpretable model-based hierarchical
+reinforcement learning using inductive logic program-
+ming. arXiv preprint arXiv:2106.11417, 2021.
+Yu, C., Velu, A., Vinitsky, E., Gao, J., Wang, Y., Bayen, A.,
+and Wu, Y. The surprising effectiveness of ppo in cooper-
+ative multi-agent games. Advances in Neural Information
+Processing Systems, 35:24611-24624, 2022.
+Zhang, K., Yang, Z., Liu, H., Zhang, T., and Basar, T. Fully
+decentralized multi-agent reinforcement learning with
+networked agents. In International conference on ma-
+chine learning, pp. 5872-5881. PMLR, 2018.
+Zheng, X. and Yu, C. Multi-agent reinforcement learning
+with a hierarchy of reward machines. arXiv preprint
+arXiv:2403.07005, 2024.
+10
+
+TAG: TAME Agent Framework
+Appendix
+A. Hyperparameters
+The hyperparameters of the actor critic networks of all our PPO-based agents are the following:
+Component
+Actor
+Critic
+Number of Layers
+3
+3
+Input Layer
+Observation Size →64
+Observation Size →64
+Activation 1
+Tanh
+Tanh
+Hidden Layer
+64 →64
+64 →64
+Activation 2
+Tanh
+Tanh
+Output Layer
+64 →Actions Size
+64 →1
+Output Init std
+0.01
+1.0
+Action Type
+Discrete
+−
+The hyperparameters of the actor critic networks of all our MAPPO-based agents are the following:
+Component
+Actor
+Critic
+Number of Layers
+3
+3
+Input Layer
+Observation Size →64
+N_agents * Observation Size →64
+Activation 1
+ReLU
+ReLU
+Hidden Layer
+64 →64
+64 →64
+Activation 2
+ReLU
+ReLU
+Output Layer
+64 →Actions Size
+64 →1
+Output Type
+Normal Distribution
+Value
+Init Method
+Orthogonal
+Orthogonal
+Output Init
+gain = 0.01
+default
+Action Type
+Continuous
+−
+A.1. Hyperparameters of 2PPO
+The training hyperparameters of 2PPO are the following:
+Parameter
+Value
+Total training steps
+2, 000, 000
+Learning rate
+0.001
+Anneal learning rate
+true
+Max grad norm
+0.5
+Buffer size
+2, 048
+Number minibatches
+4
+Update epochs
+4
+Gamma
+0.99
+GAE lambda
+0.95
+Norm advantage
+true
+Clip coef ratio
+0.2
+Clip value loss
+true
+Entropy loss coef
+0.0
+Value Function loss Coef
+0.5
+Target KL
+None
+11
+
+TAG: TAME Agent Framework
+The size of the observation and action spaces for the agents in the hierarchy are:
+Environment
+Simple Spread
+Balance
+Bottom agents Observation Size
+25
+17
+Bottom agents number of Actions
+5
+9
+Top agent Observation Size
+96
+64
+Top agent number of Actions
+625
+625
+Bottom level action frequency wrt to top
+1
+1
+A.2. Hyperparameters of 3PPO
+The training hyperparameters of 3PPO are the following:
+Parameter
+Value
+Total training steps
+2, 000, 000
+Learning rate
+0.001
+Anneal learning rate
+true
+Max grad norm
+0.5
+Buffer size
+2, 048
+Number minibatches
+8
+Update epochs
+4
+Gamma
+0.99
+GAE lambda
+0.95
+Norm advantage
+true
+Clip coef ratio
+0.1
+Clip value loss
+true
+Entropy loss coef
+0.01
+Value Function loss Coef
+0.5
+Target KL
+0.015
+The size of the observation and action spaces for the agents in the hierarchy are:
+Environment
+Simple Spread
+Balance
+Bottom agents Observation Size
+25
+17
+Bottom agents number of Actions
+5
+9
+Middle agents Observation Size
+34
+34
+Middle agents number of Actions
+25
+25
+Top agent Observation Size
+32
+64
+Top agent number of Actions
+25
+625
+Bottom level action frequency wrt to middle
+2
+2
+Middle level action frequency wrt to top
+2
+2
+12
+
+TAG: TAME Agent Framework
+A.3. Hyperparameters of 3PPO-comm
+The training hyperparameters of 3PPO-comm are the following:
+Parameter
+Value
+Total training steps
+2, 000, 000
+Learning rate
+0.001
+Anneal learning rate
+true
+Max grad norm
+0.5
+Buffer size
+2, 048
+Number minibatches
+8
+Update epochs
+4
+Gamma
+0.99
+GAE lambda
+0.95
+Norm advantage
+true
+Clip coef ratio
+0.1
+Clip value loss
+true
+Entropy loss coef
+0.01
+Value Function loss Coef
+0.5
+Target KL
+0.015
+The Autoencoder has the following hyperparameters:
+Component
+Encoder
+Decoder
+Input Layer
+Observation Shape →32
+8 →32
+Activation 1
+ReLU
+ReLU
+Output Layer
+32 →8
+32 →Observation Shape
+Activation 2
+Sigmoid
+None
+Loss
+MSE Loss
+Training epochs
+50
+The size of the observation and action spaces for the agents in the hierarchy are:
+Environment
+Simple Spread
+Balance
+Bottom agents Observation Size
+25
+17
+Bottom agents number of Actions
+5
+9
+Middle agents Observation Size
+34
+34
+Middle agents number of Actions
+25
+25
+Top agent Observation Size
+32
+64
+Top agent number of Actions
+25
+625
+Bottom level action frequency wrt to middle
+2
+2
+Middle level action frequency wrt to top
+2
+2
+13
+
+TAG: TAME Agent Framework
+A.4. Hyperparameters of MAPPO-PPO
+The training hyperparameters of MAPPO-PPO are the following:
+Parameter
+Value
+Total training steps
+2, 000, 000
+Learning rate
+0.001
+Anneal learning rate
+true
+Max grad norm
+0.5
+MAPPO Buffer size
+10, 000
+PPO Batch size
+2, 048
+Number minibatches
+4
+Update epochs
+4
+Gamma
+0.99
+GAE lambda
+0.95
+Norm advantage
+true
+Clip coef ratio
+0.2
+Clip value loss
+true
+Entropy loss coef
+0.0
+Value Function loss Coef
+0.5
+Target KL
+None
+The size of the observation and action spaces for the agents in the hierarchy are:
+Environment
+Simple Spread
+Balance
+Bottom agents Observation Size
+26
+18
+Bottom agents number of Actions
+5
+9
+Top agent Observation Size
+24
+16
+Top agent Action Size
+2
+2
+Bottom level action frequency wrt to top
+1
+1
+A.5. Hyperparameters of 2MAPPO-PPO
+The training hyperparameters of 2MAPPO-PPO are the following:
+Parameter
+Value
+Total training steps
+2, 000, 000
+Learning rate
+0.001
+Anneal learning rate
+true
+Max grad norm
+0.5
+MAPPO Buffer size
+10, 000
+PPO Batch size
+2, 048
+Number minibatches
+4
+Update epochs
+4
+Gamma
+0.99
+GAE lambda
+0.95
+Norm advantage
+true
+Clip coef ratio
+0.2
+Clip value loss
+true
+Entropy loss coef
+0.01
+Value Function loss Coef
+0.5
+Max Grad Norm
+0.5
+Target KL
+0.015
+14
+
+TAG: TAME Agent Framework
+The size of the observation and action spaces for the agents in the hierarchy are:
+Environment
+Simple Spread
+Balance
+Bottom agents Observation Size
+26
+18
+Bottom agents number of Actions
+5
+9
+Middle agent Observation Size
+26
+18
+Middle agent Action Size
+2
+2
+Top agent Observation Size
+48
+32
+Top agent Action Size
+2
+2
+Bottom level action frequency wrt to middle
+2
+2
+Middle level action frequency wrt to top
+2
+2
+15
+

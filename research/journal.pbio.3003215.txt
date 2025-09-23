@@ -1,0 +1,179 @@
+PLOS Biology | https://doi.org/10.1371/journal.pbio.3003215  June 23, 2025
+1 / 4
+ 
+ OPEN ACCESS
+Citation: Amano T, Bowker L, Burton-Jones A 
+(2025) AI-mediated translation presents two 
+possible futures for academic publishing in a 
+multilingual world. PLoS Biol 23(6): e3003215. 
+https://doi.org/10.1371/journal.pbio.3003215
+Published: June 23, 2025
+Copyright: © 2025 Amano et al. This is an open 
+access article distributed under the terms of 
+the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.
+Funding: This work was supported by 
+the Australian Research Council (Future 
+Fellowship FT180100354 to TA; Discovery 
+Project DP230101734 to TA), The University 
+of Queensland (The University of Queensland 
+strategic funding to TA), and the Social 
+Sciences and Humanities Research Council of 
+Canada (Insight Grant #435-2020-0089 to LB). 
+The funders had no role in study design, data 
+collection and analysis, decision to publish, or 
+preparation of the manuscript.
+Competing interests: The authors have 
+declared that no competing interests exist.
+PERSPECTIVE
+AI-mediated translation presents two possible 
+futures for academic publishing in a multilingual 
+world
+Tatsuya Amano
+1,2*, Lynne Bowker3, Andrew Burton-Jones4
+1  School of the Environment, The University of Queensland, Brisbane, Queensland, Australia, 2  Centre 
+for Biodiversity and Conservation Science, The University of Queensland, Brisbane, Queensland, 
+Australia, 3  Département de langues, linguistique et traduction, Université Laval, Québec City, Québec, 
+Canada, 4  School of Business, The University of Queensland, Brisbane, Queensland, Australia 
+* t.amano@uq.edu.au
+As the availability and performance of artificial intelligence 
+for language editing and translation continues to improve, we 
+can imagine a future in which everyone can use their own 
+language to write, assess, and read science. The question 
+is, how can we achieve it?
+In an ideal world, academic publishing is about "removing barriers and promoting 
+inclusion in knowledge creation and sharing, and publishing research outputs that 
+enable everyone to learn from, reuse and build upon scientific knowledge".  The use 
+of English as the common language of science has boosted international scholarly 
+communication, including publishing, but has also posed unignorable barriers to the 
+progress and application of science. For example, reading, writing, and publishing 
+papers requires much more time and effort for scientists whose first language is not 
+English compared to native English speakers [1], which can lead to higher levels of 
+anxiety and dissatisfaction [2]. Centralizing the publication of research around English 
+also undermines the ability of people with limited English proficiency to read and use 
+the research [3] and drives international research to ignore science published in other 
+languages [4]. The scientific community urgently needs to move beyond the use of 
+English as the singular default language to ensure that all scientists (and other actors 
+and stakeholders) have an equal opportunity to access, contribute to, and benefit 
+from science, regardless of their backgrounds [5].
+A primary reasons that science has not yet become fully multilingual is that trans­
+lation can be slow and costly. Artificial intelligence (AI), however, may finally allow us 
+to overcome this problem, as it can provide useful, often free or affordable, support 
+in language editing and translation [6]. Large language models are already widely 
+used in academic writing, especially in countries where English is not widely spoken 
+[7]. Existing AI has limitations, most notably variations in the availability and perfor­
+mance of AI among different languages [8]. However, assuming that this situation 
+
+PLOS Biology | https://doi.org/10.1371/journal.pbio.3003215  June 23, 2025
+2 / 4
+will continue to improve, we can now imagine two futures for academic publishing in 
+which we could leverage the power of AI to overcome language barriers and improve 
+equity in the publication, synthesis, and application of science.
+In Future 1, English would continue to be the lingua franca in science (Fig 1A). 
+Although international journals would continue to publish in English, researchers 
+with limited English proficiency could write papers in their own language and use AI 
+to translate them into English before submission. They could also use AI to trans­
+late English-language papers into their own language when reading, reviewing, and 
+editing those papers. Scientific knowledge would continue to be centralized around 
+English, but the use of AI would help to make science more easily producible and 
+accessible for those with limited English proficiency.
+This future is less 'disruptive' because the scientific community would con­
+tinue to operate using the existing publishing system. Also, as most AI models are 
+Abbreviation: AI, artificial intelligence.
+Fig 1.  Two futures for academic publishing using artificial intelligence language tools. Information communicated in English is shown in pale blue 
+and that in a language other than English (Japanese in this example) is shown in orange. (A) In Future 1, scientific papers continue to be published in 
+English. Artificial intelligence (AI) is used by those with limited English proficiency to translate information between their preferred language and English 
+when writing, assessing (reviewing and editing) and reading papers. (B) In Future 2, scientific papers are published in any language of the authors' 
+choice (English or Japanese in this example). AI is used by those without proficiency in the publication language (e.g., Japanese) to translate information 
+between that language and their preferred language (e.g., English). Here, only one non-English language is shown for simplicity, but translation may be 
+between different non-English languages. For example, Reviewer #1 may read a Japanese-written paper and provide feedback in Spanish, Reviewer #2 
+may do the same in Chinese, the Editor may read the paper and the reviewers' comments and provide feedback in Arabic, and the authors would read 
+all of their feedback in Japanese, all through AI translation.
+https://doi.org/10.1371/journal.pbio.3003215.g001
+
+PLOS Biology | https://doi.org/10.1371/journal.pbio.3003215  June 23, 2025
+3 / 4
+disproportionately trained on English-language data, translation to and from English tends to be of higher quality than 
+translation between non-English languages. However, Future 1 would have various drawbacks. Inequality between fluent 
+and non-fluent English speakers would remain; any negative consequences of using AI in academic publishing, including 
+translation inaccuracies and the financial cost of using AI tools, would be imposed only on non-fluent English speakers. 
+As long as scientific knowledge is centralized around English, the ongoing 'domain loss' (the idea that the growing use 
+of English in a certain domain leads to other languages losing status and eventually not being used at all [9]) for other 
+languages will not decelerate and could even intensify. New concepts in science may be described only in English, and 
+other languages may not even have terms for new concepts. People will not be able to talk about science in their own 
+language easily, and this may further isolate science from non-scientists, potentially leading to a lower uptake of science 
+in ­decision-making and less trust in science among the general public.
+Now imagine another future, Future 2, in which academic journals publish papers written in any language (Fig 1B). 
+This would enable authors to write and submit papers in their own language. Here, assessors (editors and reviewers) 
+and recipients of science (both scientists and non-scientists) would use AI to read those papers in their own language. A 
+major advantage of this future would be that everyone can use their own language for science, which would help maintain 
+and promote the diversity of science and scientific languages. This would be a giant leap forwards for 95% of the world's 
+population (native speakers of languages other than English) who, at present, have little choice but to conduct science in 
+English. Publishing science in other languages could also help to halt domain loss and facilitate the understanding and 
+use of science in countries where English is not widely spoken.
+That said, making academic publishing multilingual in a fair way will not be easy. For example, even with AI tools, will 
+people find and read English-language papers and papers in unfamiliar languages equally frequently? Will the evaluation 
+of papers written in a non-English language be conducted in an unbiased manner? Given that AI translation is inevitably 
+imperfect, especially for low-resource languages, this future could introduce another bias in the assessment, visibility 
+and use of science depending on the language of publication. Various pragmatic roadblocks also exist; for instance, 
+literature search systems would need to integrate multilingual metadata and cross-language information retrieval to allow 
+users to search for literature written in different languages. The AI-driven automation of literature searching, screening 
+and data extraction using multilingual models should help researchers to better use evidence in multiple languages [10]. 
+However, encouraging publishing in languages beyond English will require a systemic change, as the current English-
+based assessment of science and scientists drives scientists to publish in English, even in countries where English is not 
+widely spoken.
+We should be mindful about the inaccuracy of AI translation and its consequences in science. But we also need to 
+understand trade-offs between the consequences of AI inaccuracy and the considerable benefits of overcoming existing 
+language barriers. The acceptable risk of using AI translation likely differs depending on purpose and discipline. Training 
+subject area experts continues to be essential for spotting improbable AI translations, and the involvement of such experts 
+will be necessary, especially where misunderstanding evidence can have serious implications.
+Despite these and other counterarguments, Future 2 is still our preferred future, as it would truly democratize academic 
+publishing. People often express concern that AI translation does not meet a phantom gold standard. But the reality is that 
+issues around inaccurate use and understanding of English are already widespread in every process of academic pub­
+lishing, and these are now entirely attributed to a lack of effort by researchers with lower English proficiency. The use of AI 
+can at least create a more level playing field in the sense that it does not privilege one language above all others. There 
+is no single big step towards Future 2; what we need are small stepping stones, such as experimenting with multilingual 
+publication in just a few languages. To make a start, we have launched various initiatives [11] and encourage others to 
+follow suit. AI will no doubt be integrated into all elements of the academic publishing workflow in the near future, and we 
+believe now is the time for the scientific community to start discussing how we can use its benefits to move towards mak­
+ing science multilingual.
+
+PLOS Biology | https://doi.org/10.1371/journal.pbio.3003215  June 23, 2025
+4 / 4
+References
+	 1.	
+Amano T, Ramírez-Castañeda V, Berdejo-Espinola V, Borokini I, Chowdhury S, Golivets M, et al. The manifold costs of being a non-native English 
+speaker in science. PLoS Biol. 2023;21(7):e3002184. https://doi.org/10.1371/journal.pbio.3002184 PMID: 37463136
+	 2.	
+Hanauer DI, Sheridan CL, Englander K. Linguistic injustice in the writing of research articles in English as a second language: data from Taiwanese 
+and Mexican researchers. Written Communication. 2019;36(1):136-54. https://doi.org/10.1177/0741088318804821
+	 3.	
+Amano T, Berdejo-Espinola V, Akasaka M, de Andrade Junior MAU, Blaise N, Checco J, et al. The role of non-English-language science in inform­
+ing national biodiversity assessments. Nat Sustain. 2023;6(7):845-54. https://doi.org/10.1038/s41893-023-01087-8
+	 4.	
+Hannah K, Haddaway NR, Fuller RA, Amano T. Language inclusion in ecological systematic reviews and maps: barriers and perspectives. Res 
+Synth Methods. 2024;15(3):466-82. https://doi.org/10.1002/jrsm.1699 PMID: 38286438
+	 5.	
+UNESCO. UNESCO recommendation on open science. Paris, France; 2021.
+	 6.	
+Bowker L, Ayeni P, Kulczycki E. Linguistic privilege and marginalization in scholarly communication: understanding the role of new language tech­
+nologies for shifting language dynamics. Final report submitted to the Social Sciences and Humanities Research Council of Canada. 2023.
+	 7.	
+Kobak D, Márquez RG, Horvát E-Á, Lause J. Delving into ChatGPT usage in academic writing through excess vocabulary. arXiv. 2024;2406.07016. 
+https://doi.org/10.48550/arXiv.2406.07016.
+	 8.	
+Amano T, Berdejo-Espinola V. Language barriers in conservation: consequences and solutions. Trends Ecol Evol. 2025;40(3):273-85. https://doi.
+org/10.1016/j.tree.2024.11.003 PMID: 39706729
+	 9.	
+Hultgren AK. 4.4 Domain loss: the rise and demise of a concept. In: Investigating English in Europe. Volume 6. Berlin; Boston, MA: De Gruyter 
+Mouton; 2016. p. 153-8.
+	10.	
+Khraisha Q, Put S, Kappenberg J, Warraitch A, Hadfield K. Can large language models replace humans in systematic reviews? Evaluating GPT-4's 
+efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages. Res Synth Methods. 2024;15(4):616-26. 
+https://doi.org/10.1002/jrsm.1715 PMID: 38484744
+	11.	
+Burton-Jones A, Amano T, Boyce J, Chau P, Feng J, Guzman IR, et al. Why is this article in English? It's time to design a more impactful, inclusive 
+science. Australasian J Inform Syst. Forthcoming. https://doi.org/10.3127/ajis.v29.5875
+

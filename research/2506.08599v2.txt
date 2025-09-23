@@ -1,0 +1,733 @@
+Geometric Hyperscanning of Affect
+under Active Inference
+Nicolás Hinrichs1,2 , Mahault Albarracin3,4 , Dimitris Bolis5 , Yuyue
+Jiang6,7 , Leonardo Christov-Moore8,9 , and Leonhard Schilbach10,11
+1 Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany
+2 Okinawa Institute of Science and Technology, Okinawa, Japan
+3 VERSES AI Research Lab, Los Angeles, USA
+4 Université du Québec à Montréal, Montréal (Québec), Canada
+5 Instituto Italiano di Tecnologia, Rovereto, Italy
+6 University of California, Santa Barbara, USA
+7 University of California, Irvine, USA
+8 Institute for Advanced Consciousness Studies, Santa Monica, USA
+9 SENSORIA Research, San Francisco, CA
+10 Ludwig Maximilians Universität, Munich, Germany
+11 LVR-Klinikum Düsseldorf / Heinrich Heine University, Düsseldorf, Germany
+hinrichsn@cbs.mpg.de nicolas.hinrichs@oist.jp
+Abstract. Second-person neuroscience holds social cognition as em-
+bodied meaning co- regulation through reciprocal interaction, modeled
+here as coupled active inference with affect emerging as inference over
+identity-relevant surprise. Each agent maintains a self- model that tracks
+violations in its predictive coherence while recursively modeling the other.
+Valence is computed from self-model prediction error, weighted by self-
+relevance, and modulated by prior affective states and by what we term
+temporal aiming, which captures affective appraisal over time. This ac-
+commodates shifts in the self-other boundary, allowing affect to emerge
+at individual and dyadic levels. We propose a novel method termed geo-
+metric hyperscanning, based on the Forman-Ricci curvature, to empiri-
+cally operationalize these processes: it tracks topological reconfigurations
+in inter-brain networks, with its entropy serving as a proxy for affective
+phase transitions such as rupture, co-regulation, and re-attunement.
+Keywords: Active inference · Hyperscanning · Second-person neuro-
+science · Dyadic coupling · Forman-Ricci curvature · Phase transitions.
+1
+Introduction
+How do agents come to feel 'together'? How do they navigate the sharing of
+beliefs about the world and themselves, and the fragile terrain of affective mean-
+ing? Traditional models of social cognition often approach this question through
+the lens of mental state attribution: one agent models another's beliefs, inten-
+tions, and emotions. This framing which we call adopting a third-person stance
+towards someone, has dominated both theoretical and empirical social cognition
+arXiv:2506.08599v2  [q-bio.NC]  17 Jul 2025
+
+2
+Hinrichs, Albarracin, Bolis, et al.
+research [9]. However, such models ignore a crucial fact: social understanding, in
+most of its ecologically valid forms, does not unfold in detached observation but
+in active, embodied engagement with others. As Schilbach et al. [37] argue, social
+interaction is not simply the backdrop against which inference occurs; instead, it
+is itself the medium through which meaning is constituted. This shift, often cap-
+tured under the rubric of 'second-person neuroscience' [35,38], reframes the unit
+of analysis from the isolated agent to the dyad as a generative system in its own
+right, by taking mutual engagement in social interaction, rather than social ob-
+servation, as its central explanandum. Recent formalizations of this framework
+through the lens of active inference [29] have provided the missing computa-
+tional scaffolding: they model interacting agents as mutually coupled generative
+systems that co-regulate meaning via recursive belief updating. Social under-
+standing, in this view, is not computed about another agent, but emerges while
+in social interaction with another through ongoing cycles of expectation, its vi-
+olation, and realignment. The dyad becomes a unit of analysis in its own right
+and can be regarded as a shared generative manifold, which can be modeled as a
+coupled system of intra- and interpersonal processes across multiple modalities
+[5,6].
+1.1
+The Affective Gap
+We extend second-person active inference to the domain of affect, modeling
+it as recursive inference over two types of prediction error: mismatch between
+predictions and outcomes relevant to the world, and those relevant to identity.
+Drawing on Jiang and Luo's [26,25] model, valence reflects an inference over
+the integrity of the self-model, embedded in the dyadic generative manifold. Be-
+cause both agents maintain self-models while recursively modeling each other,
+affective dynamics become entangled, shaping belief updating and action selec-
+tion. This recursive process promotes interpersonal attunement and stabilization
+[6,42,39], while affective rupture triggers cognitively costly recalibration [10,3].
+We propose geometric hyperscanning to link these formal dynamics to neural
+signatures, expanding the framework of second-person active inference and its
+formal dynamics of belief and affect to empiric research.
+This paper makes three contributions. First, we formalize affect as recursive
+inference over self-model coherence, modeling valence as identity-relevant pre-
+diction error weighted by self-relevance, modulated by affective memory, and
+shaped by temporal aiming — the agent's orientation across past and future af-
+fective states (Section 2.1). We show how recursive modeling of the other dynam-
+ically shifts self-other boundaries (Section 2.2). Second, we introduce geometric
+hyperscanning, an empirical method based on Forman-Ricci curvature (FRc),
+to track topological reconfigurations in inter-brain networks and infer affective
+phase transitions (Section 2.3). Third, we integrate this formal-empirical frame-
+work within second-person neuroscience and active inference, offering a scal-
+able architecture for modeling recursive affective dynamics across psychotherapy,
+
+Geometric Hyperscanning of Affect under Active Inference
+3
+development, and naturalistic interaction, and outline its broader implications
+(Section 3).
+2
+Second-Person Neuroscience and Dyadic Active
+Inference
+Second-person neuroscience [37] holds that social understanding is constituted
+through real-time mutual engagement, as opposed to detached or post-hoc at-
+tribution. From a computational standpoint, this view is well-expressed in the
+active inference framework, in which agents minimize variational free energy to
+maintain a coherent embodied model of the world and their role within it. In
+second-person settings, this framework must be extended [7,29,41]: agents not
+only predict external states, but also the inferred generative models of others.
+These recursive beliefs form a shared generative manifold, wherein action and
+perception are jointly coordinated. We can conceive of each agent maintaining
+a generative model:
+M = p(oi, aj, si, sj | πi)
+(1)
+where:
+- oi = observations available to agent i,
+- aj = inferred actions of agent j,
+- si, sj = hidden states of agents i and j,
+- πi = current policy or sequence of expected actions for agent i.
+The recursive nature of this system (wherein both agents model each other
+modeling them) does not lead to an infinite regress. Rather, as Friston and Frith
+(2015) demonstrated, it dissolves into a shared dynamic narrative, where both
+agents come to predict and enact the same process. In other words, both agents
+use the same model and the dyad, thus, becomes the minimal unit of inference.
+In contrast, traditional third-person approaches to social cognition, such as
+Theory of Mind or mindreading paradigms cast social understanding as an ob-
+server inferring another's hidden mental states. Classic experiments, for instance,
+might have a participant watch a video or read a story and then guess what an-
+other person believes or intends. These paradigms, while valid, involve a one-way
+attribution process, often in non-interactive settings. Neuroscientifically, third-
+person "mentalizing" tasks reliably engage a network including the dorsomedial
+prefrontal cortex (dmPFC), ventromedial prefrontal cortex (vmPFC), and tem-
+poroparietal junction (TPJ), which is often called the mentalizing or theory-of-
+mind network [19]. But in a live interaction, one's brain is not only modeling the
+other but also responding to them in real time, creating a feedback loop. This
+form of social connectedness has measurable two-brain dynamics: an engaged
+"I-Thou" exchange produces alignment of neural rhythms that does not occur
+in a one-directional "I observe him" situation (see [14,38] for a recent review).
+[20] refers to these coupled networks as mutual social attention systems,
+proposing that when two people directly attend to each other, their brains tem-
+porarily form an integrated system. The second-person emphasis on real-time
+
+4
+Hinrichs, Albarracin, Bolis, et al.
+mutual engagement dovetails with active inference, because both paradigms rec-
+ognize that understanding others is an active, dynamical, and bidirectional pro-
+cess of alignment.
+2.1
+Valence as Inference over the Self-Model
+Within this coupled generative architecture, affect is conceptualized as dynamic
+regulatory processes guiding cognition and behavior on the basis of the integrity
+and coherence of an agent's predictive self-model [26,25]. Central to this approach
+is the idea that emotional valence signals the alignment or mismatch between
+predicted and observed outcomes, particularly those relevant to identity and
+social expectations [3].
+Prior work has modeled valence as a derivative of free energy [27], a metacog-
+nitive signal [21], interoceptive inference [40], shifts in processing modes [46], and
+recursive affective dynamics linked to self-relevance and identity [2,26,1]. Build-
+ing on these insights, and drawing on [26], we propose an extended model of
+emotional valence as a continuous inference over the integrity of the agent's self-
+model. Emotional states emerge from prediction errors tied to identity-relevant
+expectations. Valence operationalizes the emotional appraisal of interactions via
+two primary factors: (1) the magnitude of self-model prediction error, and (2)
+the self-relevance assigned to that error. We further incorporate a temporal pa-
+rameter into this model, reflecting the directionality and velocity of affective
+processing. Building on [27] and [46], we introduce temporal aiming (see Fig. 1),
+encompassing both the velocity of affective evaluation (fast learning rates vs.
+slow enduring states) and its temporal direction (retrospective vs. prospective
+appraisal).
+This modulation adds an important dimension to affective inference: agents
+may respond differently to the same interaction depending on whether they are
+prospectively anxious, retrospectively regretful, or temporally stable. Temporal
+aiming thus complements self-relevance and prediction error as core variables in
+our model of valence. We conceptualize emotions as functions of valence (align-
+ment of identity-relevant predictions) and arousal (uncertainty and intensity of
+self-relevant evaluations), with both dimensions anchored in the evolving self-
+concept, shaped by reflection, comparison, and internalized ideals. In this frame-
+work, valence reflects the agent's appraisal of ongoing interaction, computed as
+a weighted function of self-model prediction error and self-relevance, and mod-
+ulated by prior affective memory [25]:
+Vt = α · PEself,t · SRt + β · VSR,t
+(2)
+where:
+- PEself,t is the prediction error between expected and actual self-state,
+- SRt is a dynamic scalar indexing the self-relevance of the context,
+- VSR,t is retrieved from similar prior contexts,
+- α, β are precision-modulating weights.
+
+Geometric Hyperscanning of Affect under Active Inference
+5
+Fig. 1. Temporal aiming in affective inference. The figure illustrates how agents A
+evaluate self-model prediction error over time according to different temporal orienta-
+tions. Affect is shaped not only by the magnitude and relevance of prediction error,
+but also by the agent's temporal aim, i.e. whether inference is directed toward antic-
+ipated futures or prior experiences, and whether updates occur rapidly or gradually.
+This temporal structuring of affect modulates both the stability and flexibility of policy
+selection within dyadic interaction.
+It follows that whenever the agent experiences a self-related prediction error,
+it generates an affective response proportional to that error and to how self-
+relevant it is. The parameter α scales the impact of immediate prediction error on
+valence. An agent i with a larger α will exhibit heightened emotional sensitivity
+to surprises—particularly negative surprises, which yield more negative valence.
+The second term, β · VSR,t with 0 < β < 1, makes valence a leaky integrator:
+it carries forward some fraction of previous valence (mood) into the current
+moment. The term PEself,t includes both the agent's previous valence V (t −1)
+and contributions from past episodes that had similar self-relevance or context
+as the current one. We can treat VSR,t as an exponentially decaying sum of past
+valences, with greater weight assigned to more recent times and to events with
+comparable self-relevance (SR). In the notation of the original model, self-model
+prediction error and self-relevance map onto PEself and SR, respectively, where
+the last term of VSR,t helps to maintain the affective experience as iterative and
+continuous.
+Valence under the Dyadic Inference Framework In the dyadic active
+inference framework, each agent's self-model is treated as a dynamic function of
+its internal world model, which includes a simulated model of the other agent and
+incoming interactional feedback. At time t, agent i's self-model is conditioned
+on beliefs about the other agent's state, actions, and observations:
+P i
+t = f(Si
+t, Aj
+t, Oj
+t)
+(3)
+
+6
+Hinrichs, Albarracin, Bolis, et al.
+Agent i's full generative model factorizes as:
+P(Oi, Ai, Si, Sj) = P(Oi | Si, Ai) · P(Ai | Si, Sj) · P(Si | Sj)
+(4)
+Within this framework, valence (Vi, t) reflects the agent's affective appraisal
+of self- model coherence over time. It is computed from the prediction error in the
+self-model, modulated by both SRt and VSR,t. The expected valence is defined
+as:
+E(V t
+i ) = α · PEself,t · SRt + β · VSR,t
+(5)
+where PEi
+self,t is the prediction error between expected and actual self-state,
+and alpha, beta are precision-modulating weights. The realized valence reflects
+how well observed outcomes under the current policypit
+i align with these expec-
+tations; it is given by:
+V t
+i = EP (ot|πt)
+
+log P
+ ot | E(V t
+i )
+
+= EP (ot|πt)
+h
+log P
+
+ot | α
+P t
+i −ˆP t
+i
+ SRt
+i + βV t
+i,SR
+i
+(6)
+This expresses the agent's belief about the likelihood that future outcomes
+will sustain its internalized social narrative, given its evolving model of the part-
+ner and ongoing interactional feedback.
+Affective Valence as a Prior Over Policy in Planning-as-Inference By
+design, valence serves as an internal reward/safety signal: high positive valence
+indicates smooth, effective interaction and affective synchrony, while negative va-
+lence signals that current synchrony is underperforming: prompting either a new
+attempt to restore alignment or a withdrawal from the interaction, depending
+on individual differences in valence construction and perception (modeled by the
+parameters α and β). Though we do not explicitly model all downstream effects
+here, valence functions as a feedback loop, providing a readout of each agent˘2019s
+internal model performance and modulating subsequent perception and action.
+In our model, affect modulates the posterior over policies, effectively serving as
+a soft prior that biases action selection toward more affectively coherent tra-
+jectories. Following Da Costa's (2020) [13] planning-as-inference paradigm, we
+express policy selection as:
+P(πi | Vt) ∝eλ·g(Vt,πt)
+(7)
+where:
+- λ is an inverse temperature parameter controlling affective precision or con-
+fidence in the valence signal, and
+- g(Vt, πt) is a compatibility function mapping affective coherence to policy
+likelihood.
+
+Geometric Hyperscanning of Affect under Active Inference
+7
+This captures the recursive and value-sensitive nature of planning in social
+contexts. The agent is more likely to choose plans that are consistent with pos-
+itive valence (i.e., minimal surprise and maximal narrative alignment), while
+negative valence reduces the likelihood of maintaining the current trajectory.
+When both agents are engaged in this recursive affective inference, the system
+forms a dynamically coupled manifold —a shared generative space in which each
+agent's self- coherence is entangled with the other's behavior. Moments of af-
+fective rupture mark local minima in joint narrative alignment and correspond
+to peaks in dyadic expected free energy. Repairing these ruptures requires coor-
+dinated adjustments in beliefs and policies across both agents. This framework
+completes a recursive loop: expected valence, derived from self-model integrity
+and anticipated partner behavior, acts as a prior over policy selection, guiding the
+agent toward actions expected to preserve or restore affective coherence. These
+chosen policies then lead to new interactions and observations, which update the
+agent's self-model and generate realized valence. In turn, the mismatch between
+expected and realized valence yields an affective prediction error that shapes the
+next cycle of inference. This recursive loop (Fig. 2) summarizes how affectively
+modulated policies guide dyadic interaction through cycles of prediction error,
+self-model update, and realignment.
+Fig. 2.
+Recursive Affective Inference Framework for Dyadic Social Interaction. Il-
+lustrates a recursive framework wherein affect dynamically regulates social behavior
+between two agents via cycles of inference, prediction error, and adaptive policy up-
+dates grounded in self-model coherence.
+
+8
+Hinrichs, Albarracin, Bolis, et al.
+2.2
+Recursive Coupling and Shared Surprise
+In exploring the dynamics of affective interactions, it is useful to draw upon the
+concept of intra-action from neo-materialist philosophy [4]. Intra-action empha-
+sizes that interacting entities do not preexist independently but rather emerge
+through their mutual entanglement. Under this lens, the dyadic interaction is
+not simply a transfer of emotional states between two separate agents; instead, it
+represents a continual co-construction of affective experiences and identities [33].
+Affective states, from this perspective, are inherently recursive and relational,
+arising from the iterative feedback loops between agents. Affective ruptures,
+moments of misalignment or increased prediction error, serve as significant in-
+formational signals indicating points of divergence in the shared expectations of
+interacting agents. These affective evaluations modulate the posterior over poli-
+cies, biasing action selection toward trajectories that restore narrative alignment
+and reduce identity-relevant surprise. Such an entanglement of affect and policy
+selection turns the dyad into a dynamic field of co-regulated affective inference,
+where both agents are simultaneously minimizing joint expected free energy:
+G = Eq(s)[log q(s) −log p(o, s)]
+(8)
+Then, in a dyadic setting, we can express the joint free energy as:
+Gjoint = Gi + Gj = Eq(si,sj)
+
+log
+q(si, sj)
+p(oi, oj, si, sj)
+
+(9)
+At the dyadic level, recursive coupling of valence creates a shared attractor
+structure: higher valence biases policy selection toward trajectories that pre-
+serve narrative coherence and reduce expected future free energy. Conversely,
+negative valence can trigger exploratory policies aimed at restoring alignment
+or withdrawing from destabilizing interactional trajectories. In this way, valence
+modulates both immediate affective dynamics and the agent's future epistemic
+and instrumental uncertainty.
+Critically, moments of affective rupture—sharp drops in valence—correspond to
+increases in joint free energy, typically arising from mismatches in the agents' self-
+model priors. These transitions are not noise but informative inflection points
+in the dyadic generative process. Mismatches in self-model coherence directly
+elevate free energy, as valence encodes deviations between observed interaction
+outcomes and expected self-relevant predictions. Because valence reflects each
+agent's affective confidence in their internal model, it serves as both a readout
+of local free energy minimization and a control signal that shapes future joint
+free energy via policy adaptation. This recursive structure is central to how
+dyadic affective inference maintains, destabilizes, or reconstructs interpersonal
+synchrony over time.
+2.3
+Geometric Hyperscanning as Second-Person Method
+To empirically access the internal dynamics of dyadic affective inference, we in-
+troduce geometric hyperscanning based on the Forman-Ricci curvature (FRc)
+
+Geometric Hyperscanning of Affect under Active Inference
+9
+[23,22], which captures phase transitions in inter-brain network topology us-
+ing geometric markers derived from EEG hyperscanning data. This method en-
+ables operationalization of latent affective and narrative coherence as measurable
+transformations in the topology of inter-brain networks. Importantly, FRc is not
+treated as a post hoc readout; rather, we propose it as a data-derived proxy for
+latent generative states in the dyadic active inference model. Traditional hyper-
+scanning methods focus on node-level synchrony, typically correlating homolo-
+gous regions across two brains. While informative about temporal alignment,
+these methods fall short of detecting topological reconfigurations in inter-brain
+structure. FRc, by contrast, is an edge-centric geometric measure that quan-
+tifies the local expansion or contraction of topological flow within a network
+[45], and has been shown to characterize network robustness, signal routing, and
+functional reorganization.
+Given a network G = (V, E) with edge eij connecting nodes vi and vj, the FRc
+is computed as:
+FRc(eij) = w(eij)
+
+1
+w(vi) +
+1
+w(vj)
+
+−
+X
+e∼eij
+ 
+w(eij)
+p
+w(eij) · w(e)
+!
+(10)
+where we interpret w(·) as node and edge weights (e.g., derived from functional
+connectivity matrices). To track the evolution of inter-brain topology over time,
+we calculate the entropy of the FRc distribution within a sliding window.
+HFRc(t) = −
+X
+e∈Et
+p(e) log p(e)
+(11)
+This scalar quantity acts as a proxy for interactional volatility. Peaks or dis-
+continuities in FRc entropy correspond to phase transitions in the shared gen-
+erative manifold and reflect affective rupture, repair, or co-regulation dynamics.
+p(e) =
+FRc(e)
+P
+e′ FRc(e′)
+(12)
+FRc entropy is not simply an output variable but can be formalized as an
+observation model over latent affective prediction error. That is, curvature dy-
+namics can be used to infer or constrain internal state variables such as valence
+or identity coherence. This closes the loop between model and measurement, as
+the generative model predicts changes in self-model coherence and dyadic free
+energy, and the FRc entropy serves as an empirical signal that can be used to
+update model beliefs via Bayesian inference. To make these transitions tractable
+and interpretable, we propose a multi-level operationalization of rupture, repair,
+and reattunement, linking neural signatures to behavioral and psychological in-
+dicators. Neurally, rupture corresponds to abrupt drops in network integration
+(low FRc), high curvature entropy, or rapid shifts in entropy gradients; repair
+and reattunement reflect a return to more stable topologies. Behaviorally, rup-
+ture may manifest as disengagement, disrupted synchrony, or confusion (e.g.,
+
+10
+Hinrichs, Albarracin, Bolis, et al.
+gaze aversion, vocal interruptions), while repair involves re-engagement cues
+such as gesture mirroring, prosodic modulation, or turn-taking; reattunement
+is evidenced by fluent, coordinated interaction and mutual responsiveness. Psy-
+chologically, rupture can be self-reported as disconnection or emotional distanc-
+ing, repair as subjective efforts to reconnect, and reattunement as restored mu-
+tual understanding or relational safety. These experiences can be measured via
+self-reports (affective sliders, post-session interviews, validated instruments), an-
+notated through multimodal behavioral data (gaze, prosody, synchrony), and
+aligned with curvature dynamics in the inter-brain manifold. Treated as latent
+categorical states (e.g., within a hidden Markov model), these phases can serve
+as points of annotation, classification, or real-time feedback in both experimental
+and clinical contexts.
+Importantly, embedding these events within the recursive generative model of
+dyadic inference allows rupture-repair cycles to function not just as outcomes
+but as endogenous features of interactional dynamics. Affective coherence drives
+policy selection, while behavioral and neural feedback recursively update each
+agent's self-model. This recursive structure enables in situ inference over dy-
+namic interpersonal states, validation of model predictions across modalities,
+and fine-grained adaptation to moment-by-moment shifts in relational coher-
+ence.Integrating geometric hyperscanning into the generative model therefore
+bounds the model with an additional objective: not only minimising identity-
+relevant prediction error, but implicitly driving the system toward maximal in-
+terpersonal attunement—an intrinsically rewarding state even in the absence of
+overt instrumental gain [35,7]. Curvature-induced surprises can surface to aware-
+ness, prompting explicit attempts at repair.
+In sum, FRc-based geometric hyperscanning offers a scalable, multimodal method
+for detecting and interpreting recursive affective inference. By triangulating neu-
+ral entropy, behavioral dynamics, and psychological experience, we gain an inte-
+grated empirical handle on how dyads co-regulate meaning, affect, and identity
+over time. This framework not only advances a formal, testable architecture for
+second-person neuroscience but also lays the groundwork for modeling recursive
+emotional entanglement, the subject of the following section.
+3
+Future Directions and Conclusions
+In this paper, we proposed that affect is best understood as recursive infer-
+ence over self-model coherence within coupled generative systems. Modeling the
+dyad via active inference, we formalized affect as a valuation of identity-relevant
+surprise, driving and modulating recursive loops of belief updating, policy selec-
+tion, and behavioral adaptation during social interaction. We introduced a novel
+method based on the FRc, termed geometric hyperscanning [22], which tracks
+dynamic reconfigurations in inter-brain networks, providing an empirical window
+onto moments of rupture, repair, and re-attunement. By unifying formal models
+
+Geometric Hyperscanning of Affect under Active Inference
+11
+of belief dynamics, affective evaluation, and network geometry, we advance a
+scalable and interpretable framework for operationalizing second-person active
+inference.
+3.1
+Future Directions
+The theoretical formulation proposed here invites a number of concrete avenues
+for empirical investigation and computational development. Foremost among
+these is the simulation of agent-based models in which curvature entropy is
+treated as a streamed sensory input—continuously informing belief updates
+about narrative alignment. Such models would allow us to test whether the ar-
+chitecture, under active inference, spontaneously reproduces the rupture-repair
+cycles observed in real dyadic interaction. In doing so, they provide a crucial
+bridge between formalism, neurophysiology, and phenomenology. Beyond dyads,
+the framework naturally extends to hierarchically structured systems. By intro-
+ducing group-level alignment variables one can model small-group coherence as
+an emergent property of multiple interacting pairwise dynamics. This multiscale
+extension opens the door to applications in collective behaviour, organisational
+synchrony, and crowd psychology, where relational inference is distributed across
+agents and temporal scales. Furthermore, the curvature-informed likelihood may
+be productively integrated with other sensorimotor channels. Prosodic variation,
+gaze dynamics, and even facial microexpressions can all be incorporated within a
+deep generative model, allowing heterogeneous evidence streams to converge on
+shared latent variables. This multimodal fusion enriches the inferential landscape
+and supports more robust decoding of the intersubjective field. Yet the prospect
+of real-time inference over relational states is not without ethical consequence. As
+structural priors become actionable in applied contexts—be it psychotherapy, ed-
+ucation, or social robotics—the issues of privacy, autonomy, and interpretability
+move to the fore. Any translational implementation must therefore be grounded
+in transparent consent procedures, and designed to yield feedback that is intel-
+ligible not only to clinicians and researchers, but also to the individuals whose
+relational trajectories it purports to track.
+3.2
+Sociomarkers for Interpersonalized Psychiatry
+Geometric hyperscanning offers a promising foundation for sociomarkers: real-
+time, measurable signatures of dynamic interpersonal coordination [6], analo-
+gous to biomarkers of individual physiology. Affective co-regulation—vital for so-
+cial bonding across species [12,16,8,36]—is foundational to human development,
+shaping cognition, emotion, and relational selfhood through early caregiver-
+infant interactions [7,15,43,17,24]. Misattunement and repair cycles scaffold re-
+silience and relational growth [6,7], with fluctuations in curvature entropy po-
+tentially indexing key developmental processes [37,11,44]. Such signatures could
+inform personalized [31,30] and interpersonalized psychiatry [6], which views psy-
+chopathology as disruption in co-regulation and narrative repair [5,32]. In psy-
+chotherapy, real-time dyadic metrics [5,28] can track attunement, rupture, and
+
+12
+Hinrichs, Albarracin, Bolis, et al.
+repair [34], helping both therapists and clients navigate the relational dynamics
+of change. Crucially, synchrony is neither inherently good nor constant: transi-
+tions into and out of synchrony may reflect autonomy, resistance, or meaningful
+differentiation, not dysfunction. Modeling these dynamics as recursive affective
+inference provides a principled lens for both basic science and relational mental
+health care.
+3.3
+Conclusions
+Building on these formal and empirical insights, this approach carries several
+key implications. First, it invites a rethinking of affect in social interaction—not
+merely as a byproduct of inference, but as a primary regulatory signal that modu-
+lates the stability and flexibility of generative coupling itself. On this view, affect
+becomes the felt sense of coherence or incoherence within the dyadic narrative,
+serving as a signal for when beliefs must be renegotiated or when interactional
+roles require repair. Second, by shifting emphasis from synchrony per se to the
+topology of inter-brain networks, our method aligns with a broader movement
+in second-person neuroscience toward characterizing the structure of interaction.
+In this respect, FRc extends Friston and Frith's (2015) [18] notion of generalized
+synchrony by capturing the reconfigurations in network structure that accom-
+pany recursive affective inference. Third, by embedding affect into the posterior
+over policies, we extend da Costa's (2020) planning-as-inference formalism into
+the affective domain. Crucially, the affective signal can operate implicitly, as
+a precision-weight on policy beliefs that never reaches phenomenal awareness,
+or explicitly, as a consciously accessible feeling that furnishes the agent with
+propositional knowledge about its own relational stance. In either guise, pol-
+icy selection is driven not only by epistemic or instrumental imperatives, but
+also by the imperative to preserve narrative and relational coherence. Affect
+thereby becomes an intrinsic dimension of social planning, covertly biasing ac-
+tion when tacit and overtly guiding behaviour when made conscious—steering
+agents through moments of ambiguity toward restored interactional alignment.
+These considerations open a range of empirical and computational possibilities.
+In psychotherapy, curvature entropy may serve as a real-time sociomarker of rup-
+ture and repair; in early development, FRc could illuminate how co-regulatory
+patterns emerge between infants and caregivers. Simulations of affective agents
+equipped with recursive self- and other-models offer a formal means to investi-
+gate relational resilience and breakdown. In particular, such models allow us to
+test the dialectical misattunement hypothesis (Bolis et al., 2017), which posits
+that psychiatric risk arises not from individual deficits alone but from persis-
+tent mismatches in communicative expectations or learning rates. Simulating
+these mismatches under controlled conditions reveals how dyads adapt—or fail
+to—over developmental time, providing insight into both vulnerability and re-
+pair mechanisms. The theoretical landscape also invites expansion. How does
+this framework scale to group interactions, where recursive generative coupling
+involves multiple agents? What ethical safeguards are needed when automating
+the detection of affective rupture and repair—especially in sensitive contexts like
+
+Geometric Hyperscanning of Affect under Active Inference
+13
+therapy or education? And how might shared belief geometry interact with lin-
+guistic, prosodic, and bodily cues to form a rich, multimodal map of affective
+inference? Together, these questions point toward a broader scientific project:
+one that integrates formal modeling, empirical measurement, and philosophical
+reflection into a unified account of relational meaning. In this view, the dynam-
+ics of belief, affect, and participation are not peripheral but fundamental to the
+fabric of social cognition. By reframing affect as recursive inference within cou-
+pled generative systems—and rendering those dynamics tractable via network
+geometry—we move closer to the vision of interaction as the basic unit of so-
+cial neuroscience. Our proposal thus offers both a conceptual framework and
+methodological toolkit for studying the structural and affective choreography of
+human interaction.
+Contributions. NH and YJ jointly conceived and drafted the initial manuscript. MA
+and DB contributed core conceptual ideas and critically revised the text. LCM and
+LS provided additional feedback and editorial refinement. All authors reviewed and
+approved the final version of the manuscript.
+Acknowledgments. NH and YJ would like to thank Danielle J. Williams and the
+inaugural meeting of the Society for Neuroscience and Philosophy, at which the authors
+contributed papers and discussed integrating their presented approaches. NH would like
+to thank Lancelot Da Costa and Sebastian Sosa for their insightful feedback.
+Disclosure of Interests. NH was funded by CNPq, MPI-CBS, and OIST. DB receives
+funding from the IIT. LS receives funding from the DFG.
+References
+1. Albarracin, M., Bouchard-Joly, G., Sheikhbahaee, Z., Miller, M., Pitliya, R.,
+Poirier, P.: Feeling our place in the world: an active inference account of self-
+esteem. Neuroscience of Consciousness 2024(1), niae007 (2024)
+2. Albarracin, M., Pitliya, R., Ramstead, M.: Mapping husserlian phenomenology.
+In: Friston, K., Ramstead, M., Constant, A. (eds.) Active Inference: Third Inter-
+national Workshop, IWAI 2022, Grenoble, France, September 19, 2022, Revised
+Selected Papers. p. 99. Springer, Heidelberg (2023)
+3. Albarracin, M., et al.: A sociometric model of self-esteem as inference. Trends in
+Cognitive Sciences 28(1), 45-57 (2024)
+4. Barad, K.: Meeting the Universe Halfway: Quantum Physics and the Entanglement
+of Matter and Meaning. Duke University Press, Durham (2007)
+5. Bolis, D., Balsters, J., Wenderoth, N., Becchio, C., Schilbach, L.: Beyond autism:
+Introducing the dialectical misattunement hypothesis and a bayesian account of
+intersubjectivity. Psychopathology 50(6), 355-372 (2017)
+6. Bolis, D., Dumas, G., Schilbach, L.: Interpersonal attunement in social interac-
+tions: from collective psychophysiology to inter-personalized psychiatry and be-
+yond. Philosophical Transactions of the Royal Society B 378(1870), 20210365
+(2023)
+7. Bolis, D., Schilbach, L.: 'i interact therefore i am': the self as a historical product
+of dialectical attunement. Topoi 39, 521-534 (2020)
+
+14
+Hinrichs, Albarracin, Bolis, et al.
+8. Brosnan, S., de Waal, F.: Monkeys reject unequal pay. Nature 425(6955), 297-299
+(2003)
+9. Çatal, O., Van de Maele, T., Pitliya, R., Albarracin, M., Pattisapu, C., Verbelen,
+T.: Belief sharing: a blessing or a curse. In: International Workshop on Active
+Inference. pp. 121-133. Springer, Cham (2024)
+10. Christov-Moore, L., Schoeller, F., von Guttenberg, M., Durinski, T., Jain, F., Ia-
+coboni, M., Reggente, N.: Using a chills-inducing score to augment loving kindness
+meditation: Effects on self-transcendence, emotional breakthrough, and psycholog-
+ical insight. OSF Preprints (2025)
+11. Cittern, D., Nolte, T., Friston, K., Edalat, A.: Intrinsic and extrinsic motivators
+of attachment under active inference. PloS One 13(4), e0193955 (2018)
+12. Coleman, M., et al.: Neurophysiological coordination of duet singing. PNAS
+118(24), e2023035118 (2021)
+13. Da Costa, L., Parr, T., Sajid, N., Veselic, S., Neacsu, V., Friston, K.: Active in-
+ference on discrete state-spaces: A synthesis. Journal of Mathematical Psychology
+99, 102447 (2020)
+14. Dumas, G., Nadel, J., Soussignan, R., Martinerie, J., Garnero, L.: Inter-brain syn-
+chronization during social interaction. PLoS ONE 5(8), e12166 (2010). https:
+//doi.org/10.1371/journal.pone.0012166
+15. Fini, C., Bardi, L., Bolis, D., Fusaro, M., Lisi, M., Michalland, A., Era, V.: The
+social roots of self development: from a bodily to an intellectual interpersonal
+dialogue. Psychological Research 87(6), 1683-1695 (2023)
+16. Fortune, E., et al.: Neural mechanisms for the coordination of duet singing in
+wrens. Science 334(6056), 666-670 (2011)
+17. Fotopoulou, A., Tsakiris, M.: Mentalizing homeostasis: The social origins of inte-
+roceptive inference. Neuropsychoanalysis 19(1), 3-28 (2017)
+18. Friston, K., Frith, C.: A duet for one. Consciousness and Cognition 36, 390-405
+(2015). https://doi.org/10.1016/j.concog.2014.12.003
+19. Gvirts, H.Z., Perobolovski, A.: Commentary: Using second-person neuroscience to
+elucidate the mechanisms of reciprocal social interaction. Frontiers in Behavioral
+Neuroscience 14, 13 (2020). https://doi.org/10.3389/fnbeh.2020.00013
+20. Gvirts, H.Z., Perlmutter, R.: What guides us to neurally and behaviorally align
+with anyone specific? a neurobiological model based on fnirs hyperscanning studies.
+The Neuroscientist (2019). https://doi.org/10.1177/1073858419861912
+21. Hesp, C., Smith, R., Parr, T., Allen, M., Friston, K., Ramstead, M.: Deeply felt
+affect: The emergence of valence in deep active inference. Neural Computation
+33(2), 398-446 (2021)
+22. Hinrichs, N., Bolis, D., Hartwigsen, G., Froese, T., Dumas, G., Schilbach, L.: Be-
+yond inter-brain synchrony: Geometric phase transitions in hyperscanning net-
+works. Forthcoming (2025)
+23. Hinrichs, N., Hartwigsen, G., Guzman, N.: Detecting phase transitions in eeg hy-
+perscanning networks using geometric markers (2025)
+24. Hoehl, S., Markova, G.: Moving developmental social neuroscience toward a second-
+person approach. PLOS Biology 16(12), e3000055 (2018)
+25. Jiang, F., Luo, D.: Implementing self models through joint-embedding predictive
+architecture. In: Proceedings of the Annual Meeting of the Cognitive Science So-
+ciety. vol. 46 (2024)
+26. Jiang, Y., Luo, D.: Valence computation as higher-order inference via conceptual
+self-processing (2025), manuscript in preparation
+27. Joffily, M., Coricelli, G.: Emotional valence and the free-energy principle. PLoS
+Computational Biology 9(6), e1003094 (2013)
+
+Geometric Hyperscanning of Affect under Active Inference
+15
+28. Lahnakoski, J.M., Forbes, P.A., McCall, C., Schilbach, L.: Unobtrusive tracking
+of interpersonal orienting and distance predicts the subjective quality of social
+interactions. Royal Society Open Science 7(8), 191815 (2020)
+29. Lehmann, K., Bolis, D., Friston, K.J., Schilbach, L., Ramstead, M.J.D., Kanske,
+P.: An active-inference approach to second-person neuroscience. Perspectives on
+Psychological Science 19(6), 931-951 (2023)
+30. Lombardo, M.V., Lai, M.C., Baron-Cohen, S.: Big data approaches to decomposing
+heterogeneity across the autism spectrum. Molecular Psychiatry 24(10), 1435-1450
+(2019)
+31. Mandelli, V., Landi, I., Busuoli, E.M., Courchesne, E., Pierce, K., Lombardo, M.V.:
+Prognostic early snapshot stratification of autism based on adaptive functioning.
+Nature Mental Health 1(5), 327-336 (2023)
+32. Milton, D.E.: On the ontological status of autism: The 'double empathy problem'.
+Disability & Society 27(6), 883-887 (2012)
+33. Rahmjoo, A., Albarracin, M.: Intra-active inference i: Fundamentals (2023),
+preprint
+34. Ramseyer, F., Tschacher, W.: Nonverbal synchrony in psychotherapy: coordinated
+body movement reflects relationship quality and outcome. Journal of Consulting
+and Clinical Psychology 79(3), 284 (2011)
+35. Redcay, E., Schilbach, L.: Using second-person neuroscience to elucidate the mech-
+anisms of social interaction. Nature Reviews Neuroscience 20(8), 495-505 (2019)
+36. Roma, P.G., Silberberg, A., Ruggiero, A.M., Suomi, S.J.: Capuchin monkeys, in-
+equity aversion, and the frustration effect. Journal of Comparative Psychology
+120(1), 67-73 (2006)
+37. Schilbach, L., Timmermans, B., Reddy, V., Costall, A., Bente, G., Schlicht, T.,
+Vogeley, K.: Toward a second-person neuroscience. Behavioral and Brain Sciences
+36(4), 393-414 (2013)
+38. Schilbach,
+L.,
+Redcay,
+E.:
+Synchrony
+across
+brains.
+Annual
+Review
+of
+Psychology
+76(1),
+883-911
+(2025).
+https://doi.org/10.1146/
+annurev-psych-080123-101149
+39. Scholtes, C.M., Poppelaars, E.S., van Berkel, S.R., van IJzendoorn, M.H.: Dyadic
+synchrony, rupture, and repair in mother-child interaction: Implications for emo-
+tional and behavioral development. Development and Psychopathology 32(4),
+1519-1533 (2020)
+40. Smith, R., Parr, T., Friston, K.J.: Simulating emotions: An active inference model
+of emotional state inference and emotion concept learning. Frontiers in Psychology
+10, 2844 (2019)
+41. Veissière, S.P., Constant, A., Ramstead, M.J., Friston, K.J., Kirmayer, L.J.: Think-
+ing through other minds: A variational approach to cognition and culture. Behav-
+ioral and Brain Sciences 43, e90 (2020)
+42. van Vugt, M.K., Lu, Z., Zhang, Z.: Inter-brain synchronization during agreement
+versus disagreement in debate. Mindfulness 11(5), 1103-1112 (2020)
+43. Vygotsky, L.S.: Mind in society: The development of higher psychological processes,
+vol. 86. Harvard University Press, Cambridge, MA (1978), (Original work published
+1935)
+44. Wass, S.V., Whitehorn, M., Haresign, I.M., Phillips, E., Leong, V.: Interpersonal
+neural entrainment during early social interaction. Trends in Cognitive Sciences
+24(4), 329-342 (2020)
+45. Weber, M., Saucan, E., Jost, J.: Characterizing complex networks with forman-
+ricci curvature and associated geometric flows. Journal of Complex Networks 5(4),
+527-550 (2017)
+
+16
+Hinrichs, Albarracin, Bolis, et al.
+46. Yanagisawa, H., Wu, X., Ueda, K., Kato, T.: Free energy model of emotional
+valence in dual-process perceptions. Neural Networks 157, 422-436 (2023)
+

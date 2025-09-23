@@ -1,0 +1,692 @@
+### 2502.15425v4
+
+The paper introduces the TAME Agent Framework (TAG), a novel approach to creating decentralized hierarchical multi-agent systems. The primary challenge addressed by this framework is the limitation of current artificial intelligence systems, which often rely on monolithic architectures that restrict adaptability and scalability in complex coordination tasks.
+
+TAG's key innovation lies in its LevelEnv abstraction, which transforms each level of a hierarchy into an environment for the agents above it. This abstraction standardizes information flow between levels while maintaining loose coupling, allowing for seamless integration of diverse agent types. Each agent in TAG perceives and interacts with the level below as if it were its environment—observing it through state representations, influencing it through actions, and receiving rewards based on the lower level's performance.
+
+The framework supports bidirectional information flow: feedback moves upward through agents' communications, while control flows downward through actions that modify lower-level observations. This design enables coordinated behavior across multiple scales without requiring detailed knowledge of lower-level behaviors, similar to biological systems maintaining coordination across scales while preserving environmental abstraction at each level.
+
+TAG allows for arbitrary depth in hierarchies and supports heterogeneous agents with different learning algorithms suitable for their respective levels' complexity requirements. It accommodates independent learning for each agent using appropriate algorithms based on their roles, enabling flexibility ranging from simple Q-learning to sophisticated policy gradient methods.
+
+The authors demonstrate TAG's effectiveness through empirical validation on standard multi-agent reinforcement learning (MARL) benchmarks. The results show improved sample efficiency and final performance compared to both flat and shallow multi-agent baselines. Specifically, in the MPE-Spread environment, only depth-three agents (3PPO and 2MAPPO-PPO) matched hand-designed heuristic performance, while all other agents achieved lower rewards. The framework also showed improved scalability, as increasing the number of agents didn't result in exponential complexity growth typical of flat architectures.
+
+TAG's potential extends beyond reinforcement learning to informing designs for complex systems like robotic swarms or distributed computing architectures. Its principles of loose coupling between levels and standardized information flow could enhance human-AI collaboration by allowing artificial agents to coordinate with human operators across multiple levels of abstraction.
+
+Key areas for future research include investigating theoretical guarantees for learning convergence in deep hierarchies, enabling autonomous hierarchy structure adjustment based on task demands, and improving communication between agents within the hierarchy. These advancements could further enhance TAG's robustness, flexibility, and efficiency in multi-agent systems.
+
+
+The text provided appears to be an excerpt from a research paper or technical document, discussing various aspects of multi-agent reinforcement learning (MARL) frameworks. Here's a detailed summary and explanation of the key components:
+
+1. **TAME Agent Framework**: This is likely the main focus of the document, referring to a specific framework for designing and implementing multi-agent reinforcement learning systems. It includes different versions (2PPO, 3PPO, 3PPO-comm, MAPPO-PPO, 2MAPPO-PPO) tailored for various problem complexities and communication needs among agents.
+
+2. **Hyperparameters**: These are the configuration settings of the learning algorithms within TAME. They control how the model trains and can significantly impact performance.
+
+   - **Actor Critic Networks (for PPO-based agents)**: These networks consist of an 'Actor' (policy network that determines actions) and a 'Critic' (value function network). The hyperparameters include:
+     - Number of layers, activation functions, output types (discrete/continuous), initialization methods for weights, and standard deviations.
+
+   - **MAPPO-based agents**: These introduce multi-agent elements into the Proximal Policy Optimization (PPO) framework. Hyperparameters include:
+     - Network architecture modifications to accommodate multiple agents' observations.
+     - Different initialization methods and output types compared to PPO-based agents.
+
+3. **Observation and Action Spaces**: These define what an agent can perceive and act upon in its environment. They vary based on the specific environment (Simple Spread, Balance) and the level of hierarchy within it:
+
+   - For bottom agents, observations range from 25 to 18 elements, with action spaces ranging from 5 to 9 actions.
+   - Middle agents have observation sizes from 34 to 64 elements and action sizes from 25 to 625 depending on the environment.
+   - Top-level agents have observation sizes ranging from 24 to 64 elements, with action spaces of 2 or 625 actions.
+
+4. **Additional Frameworks**: Beyond PPO and MAPPO, there are other implementations:
+
+   - **3PPO-comm**: Includes a communication component (hence 'comm') that allows middle agents to share information, possibly enhancing learning through collaboration.
+   - **MAPPO-PPO & 2MAPPO-PPO**: These are hybrid versions combining aspects of MAPPO and PPO, potentially balancing the benefits of each while managing their individual drawbacks (like computational complexity or sample efficiency).
+
+5. **Autoencoder**: This is a neural network used in the '3PPO-comm' framework to compress high-dimensional observations into lower-dimensional representations before feeding them into the agent's policy and value networks. It uses Mean Squared Error (MSE) loss for training, with 50 epochs.
+
+6. **Training Hyperparameters**: These are settings that control how the learning algorithms operate during the training phase:
+
+   - Learning rate & annealing schedule
+   - Gradient norm clipping to prevent exploding gradients
+   - Buffer size and batch sizes for storing and sampling experiences
+   - Discount factor (Gamma) for future reward discounting in the return calculation
+   - GAE (Generalized Advantage Estimation) lambda for balancing bias-variance tradeoff
+   - Entropy loss coefficient to encourage exploration
+   - Value function loss coefficient to penalize overestimation/underestimation of state values
+
+These hyperparameters are consistent across most implementations, with slight variations (e.g., different clip coefficients in 2PPO vs. 3PPO) to potentially optimize performance for specific scenarios or problem complexities.
+
+
+### 2505.20759v2
+
+The paper introduces PARTONOMY, a benchmark for evaluating the part-level visual understanding of Large Multimodal Models (LMMs). The authors highlight that while LMMs excel at various tasks like visual reasoning and visual hallucination, they struggle with identifying object parts in an image. This limitation is problematic for real-world applications requiring fine-grained, grounded visual understanding.
+
+To address this gap, the researchers propose Explanatory Part Segmentation as a new task that assesses LMMs' ability to identify object parts, associate them with objects, and use these parts to predict object labels. They introduce PARTONOMY, a comprehensive benchmark for this task, which includes an evaluation dataset of 1068 images with complex part annotations (PARTONOMY-Core) that surpasses existing datasets in terms of object and part diversity.
+
+The paper also discusses the limitations of current segmentation-enabled LMMs:
+
+1. They rely on special [SEG] tokens not used during pretraining, which can introduce distribution shift and hinder downstream performance.
+2. These segmenting models discard their predictions after each output instead of leveraging past predictions to guide future ones.
+
+To tackle these issues, the authors propose PLUM (Part-Level Understanding LMM), a novel segmentation-enabled LMM that uses span tagging instead of special [SEG] tokens and conditions on prior predictions in a feedback loop. This design helps retain pretraining knowledge and improves segmentation performance.
+
+Experiments show that pretrained PLUM outperforms existing segmenting LMMs on reasoning segmentation, Visual Question Answering (VQA), and visual hallucination benchmarks. Furthermore, when finetuned on the proposed Explanatory Part Segmentation task, PLUM is competitive with other models trained on significantly more segmentation data, demonstrating the effectiveness of their approach.
+
+The authors conclude by stating that PARTONOMY and PLUM provide a foundation for future research in fine-grained, compositional, and interpretable multimodal models. They also acknowledge potential limitations such as missing rare or domain-specific concepts and challenges with segmenting small or ambiguous parts, which could be addressed in future work.
+
+In summary, the paper presents PARTONOMY, a benchmark for evaluating LMMs' part-level visual understanding, alongside PLUM—a new segmentation-enabled LMM addressing architectural shortcomings of existing models to improve fine-grained, grounded visual reasoning capabilities.
+
+
+The provided text is a collection of references and appendices related to research papers on Vision, Image Segmentation, and Language Models. Here's a detailed summary and explanation:
+
+**References:**
+
+1. **ICCV 2015 (Vision)** - This is likely a reference to the International Conference on Computer Vision held in 2015, where a paper was presented on pages 2425-2433. The specific title or authors are not provided.
+
+2. **ACM MM 2024** - This refers to the 32nd ACM International Conference on Multimedia, held in 2024. Ansel Blume et al. presented a paper titled "Miracle: An online, explainable multimodal interactive concept learning system" on pages 11252-11254.
+
+3. **PEARC '23** - Practice and Experience in Advanced Research Computing conference held in 2023. Timothy J. Boerner et al. presented "ACCESS: Advancing Innovation: NSF's Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support" on page 4.
+
+4. **CVPR 2018** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2018. Holger Caesar et al. presented "Coco-stuff: Thing and stuff classes in context" on pages 1209-1218.
+
+5. **CVPR 2023** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2023. Shi Chen and Qi Zhao presented "Divide and conquer: Answering questions with object factorization and compositional reasoning" on pages 6736-6745.
+
+6. **CVPR 2014** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2014. Xianjie Chen et al. presented "Detect what you can: Detecting and representing objects using holistic models and body parts" on pages 1971-1978.
+
+7. **NIPS 2023** - The Thirty-seventh Conference on Neural Information Processing Systems held in 2023. Wenliang Dai et al. presented "InstructBLIP: Towards general-purpose vision-language models with instruction tuning."
+
+8. **PASCAL VOC 2007** - The PASCAL Visual Object Classes Challenge 2007, as documented by M. Everingham et al. on <http://www.pascal-network.org/challenges/VOC/voc2007/workshop/index.html>.
+
+9. **ECCV 2022** - The European Conference on Computer Vision held in 2022. Ju He et al. presented "Partimagenet: A large, high-quality dataset of parts" on pages 128-145.
+
+10. **AAAI 2024** - The Association for the Advancement of Artificial Intelligence conference held in 2024. Jeonghwan Kim and Heng Ji presented "Finer: Investigating and enhancing fine-grained visual concept recognition in large vision language models" on pages 6187-6207.
+
+11. **CVPR 2023** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2023. Chen Jiang et al. presented "Robot manipulation in salient vision through referring image segmentation and geometric constraints" as an arXiv preprint (arXiv:2409.11518).
+
+12. **arxiv 2025** - Xiaomeng Jin et al. presented "Synthia: Novel concept design with affordance composition" in arxiv, dated 2025.
+
+13. **EMNLP 2019** - The Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP). Drew A Hudson and Christopher D Manning presented "GQA: A new dataset for real-world visual reasoning and compositional question answering" on pages 6700-6709.
+
+14. **CVPR 2024** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2024. Liqi He et al. presented "Multi-modal latent space learning for chain-of-thought reasoning in language models" (proceedings details not provided).
+
+15. **EMNLP 2014** - The Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP). Sahar Kazemzadeh et al. presented "ReferItGame: Referring to objects in photographs of natural scenes" on pages 787-798.
+
+16. **EMNLP 2024** - The Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP). Jeonghwan Kim and Heng Ji presented "Finer: Investigating and enhancing fine-grained visual concept recognition in large vision language models" (proceedings details not provided).
+
+17. **CVPR 2023** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2023. Alexander Kirillov et al. presented "Segment Anything" on pages 4015-4026.
+
+18. **NeurIPS 2022** - The Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS) held in 2022. Takeshi Kojima et al. presented "Large language models are zero-shot reasoners" on pages 22199-22213.
+
+19. **CVPR 2024** - The IEEE Conference on Computer Vision and Pattern Recognition held in 2024. Xin Lai et al. presented "Lisa: Reasoning segmentation via large language model" on pages 9579-9589.
+
+20. **arXiv 2023** - Feng Li et al. presented "Semantic-SAM: Segment and recognize anything at any granularity" as an arXiv preprint (arXiv:2307.04767).
+
+21. **ICML 2022** - The Thirty-ninth International Conference on Machine Learning held in 2022. Junnan Li et al. presented "BLIP: Bootstrapping language-image pre-training for unified vision-language understanding and generation" on pages 12888-12900.
+
+22. **ECCV 2024** - The European Conference on Computer Vision held in 2024. Xiao Li et al. presented "Partimagenet++ dataset: Scaling up part-based models for robust recognition" on pages 396-414.
+
+23. **EMNLP 2023** - The Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). Yifan Li et al. presented "Evaluating object hallucination in large vision-language models" on pages 292-305.
+
+24. **CVPR 2023** - The IEEE Conference on Computer Vision and Pattern Recognition held in
+
+
+### 2506.08599v2
+
+The paper titled "Geometric Hyperscanning of Affect under Active Inference" presents a novel framework for understanding affective dynamics within social interactions using the principles of active inference and second-person neuroscience. The authors propose that affect arises as an inference over identity-relevant surprise, shaping belief updating and action selection in dyadic settings.
+
+Key Concepts:
+1. **Second-Person Neuroscience**: This framework views social cognition as embodied meaning co-regulation through reciprocal interaction. It shifts the focus from individual agents to dyads as generative systems, with mutual engagement in social interaction serving as the primary explanandum.
+2. **Active Inference**: This computational approach models interacting agents as coupled generative systems that co-regulate meaning via recursive belief updating. Social understanding emerges from active, real-time engagement rather than detached observation.
+3. **Affective Dynamics**: Affect is conceptualized as a continuous inference over the integrity of an agent's self-model. Emotional valence reflects the alignment or mismatch between predicted and observed outcomes relevant to identity and social expectations. Valence operationalizes emotional appraisal via prediction error, self-relevance, and temporal aiming (the agent's orientation across past and future affective states).
+4. **Geometric Hyperscanning**: The authors introduce this novel method based on the Forman-Ricci curvature to empirically operationalize these processes. Geometric hyperscanning tracks topological reconfigurations in inter-brain networks, with its entropy serving as a proxy for affective phase transitions (e.g., rupture, co-regulation, and reattunement).
+
+Model Components:
+1. Each agent maintains a self-model that tracks violations in predictive coherence while recursively modeling the other. Valence is computed from self-model prediction error, weighted by self-relevance, and modulated by prior affective states and temporal aiming.
+2. Recursive modeling of the other dynamically shifts self-other boundaries, allowing affect to emerge at both individual and dyadic levels.
+3. Agents select policies (plans) based on an expected valence derived from their internal model performance. High positive valence indicates smooth interaction and synchrony, while negative valence prompts adjustments in policy to restore alignment or withdraw from destabilizing interactions.
+4. Geometric hyperscanning employs Forman-Ricci curvature (FRc) to capture phase transitions in inter-brain network topology as a data-derived proxy for latent generative states within the dyadic active inference model.
+
+Implications:
+1. The proposed framework offers a scalable architecture for modeling recursive affective dynamics across various contexts, including psychotherapy, development, and naturalistic interaction.
+2. Geometric hyperscanning provides an empirical method to infer or constrain internal state variables such as valence or identity coherence, closing the loop between model and measurement.
+3. By unifying formal models of belief dynamics, affective evaluation, and network geometry, this approach advances a testable architecture for second-person neuroscience and provides an integrated empirical handle on how dyads co-regulate meaning, affect, and identity over time.
+
+
+### 2509.09307v1
+
+The paper presents MatCha, the first multimodal benchmark for materials characterization imaging data understanding. The authors aim to evaluate the capabilities of Multimodal Large Language Models (MLLMs) in interpreting diverse materials characterization images, recognizing fundamental visual content, and performing reasoning based on visual cues.
+
+MatCha comprises 1,500 questions across 21 tasks, each reflecting real-world challenges faced by materials scientists. These tasks are grouped into four stages of materials research: Processing Correlation (identifying characterization techniques and their purposes), Morphology Analysis (observing surface or cross-sectional morphological information), Structure Analysis (interpreting microscale material structure), and Property Analysis (reasoning about properties based on structure).
+
+The benchmark is constructed from real-world scientific workflows, with tasks derived directly from the research processes of materials scientists. The data collection involves searching for publicly accessible articles under CC BY-4.0 license, downloading their HTML files along with associated figures and captions. Subfigures are split using Exsclaim, and subcaptions are assigned based on the content.
+
+To create questions, GPT-4o is used to generate multiple-choice questions from (subfigure, subcaption, context) triplets. Generated VQA samples undergo AI filtering using various MLLMs as experts, followed by manual review by materials science Ph.D. candidates to ensure authenticity and validity. Supplementary datasets are also incorporated for additional tasks like surface microstructure analysis, defect type classification, and image content analysis.
+
+The authors evaluate several proprietary and open-source MLLMs on MatCha using a zero-shot setting. Results show a significant performance gap between models and human experts (88.87% vs. 62.58% for the Generated VQA subset, and 88.93% vs. 57.71% for the Converted VQA subset). Proprietary models generally outperform open-source ones.
+
+The findings reveal that MLLMs still exhibit limited adaptability to real-world materials characterization scenarios, struggling with both perceptual and reasoning tasks. Most models perform poorly on morphological analysis tasks, indicating the need for high-quality scientific training corpora to improve their performance in specialized domains like materials science.
+
+Overall, MatCha serves as a valuable tool for assessing current MLLMs' limitations and guiding future advancements toward AI-assisted research and autonomous scientific discovery agents in materials science.
+
+
+The text discusses a study evaluating the performance of various large multimodal language models (MLLMs) on tasks related to materials characterization, focusing on their ability to understand complex imagery and scientific data. The benchmark used is called MatCha, which includes 21 sub-tasks designed by materials scientists to cover common challenges in the field.
+
+Key findings from this study include:
+
+1. Proprietary MLLMs experienced a more significant decline (15.96%) in performance across Material Analysis (MA), Structure Analysis (SA), and Phase Analysis (PA) stages compared to open-source models (10.29%). This performance gap suggests that certain open-source models, such as Qwen2.5-VL-7B, Qwen2.5-VL-32B, and InternVL3-38B, can outperform some proprietary ones in various stages.
+
+2. MLLMs struggle with recognizing microstructural details, especially in realistic scenarios involving electron microscopy images. For instance, in the Supplementary Microstructure Analysis (SMA) task, LLaMA-4-Maverick achieved an accuracy of 69.66%, which is still approximately 25.1% lower than human performance. Open-source models struggled to identify hierarchical structures in alloy images and detect subtle structural defects, with many models failing to differentiate between defect types or even recognize the presence of defects.
+
+3. Few-shot learning and Chain-of-Thought (CoT) prompting experiments showed mixed results: some models improved significantly with in-context examples or step-by-step reasoning, while others degraded in performance. These findings suggest that simple prompting techniques may be insufficient for overcoming fundamental gaps in domain knowledge and visual perception.
+
+4. Error analysis revealed that Lack of Material Knowledge was the primary cause of failures across models, highlighting their deficiency in specialized scientific domain knowledge. Visual Perception Errors were also common, indicating challenges with fine-grained and complex patterns in scientific imagery.
+
+5. MatCha serves as a critical tool for diagnosing core limitations of current MLLMs in understanding materials characterization imagery, guiding the development of models that can accelerate materials research and enable autonomous scientific discovery. However, it's essential to acknowledge the benchmark's limitations due to its broad coverage and potential overgeneralization risks when applied to diverse, practical workflows.
+
+6. The study also explores future directions, such as Retrieval-Augmented Generation (RAG), which allows models to access external knowledge bases dynamically during generation, potentially improving performance in materials characterization tasks by supplementing the models' intrinsic domain knowledge.
+
+
+The provided data is a series of tables comparing the performance of various language models on the MatCha benchmark, which evaluates Visual Question Answering (VQA) abilities. The models tested include both proprietary and open-source options.
+
+Table 4 displays 2-shot results, Table 5 shows 4-shot outcomes, Table 6 presents 8-shot performance, and Table 7 provides 16-shot results. Each table has columns for different types of VQA tasks: Generated VQA, Converted VQA, MatCha (with subcategories PC, MA, SA, PA, All), and Supplementary tasks (SMA, DTC, ICA). The 'All' column in the MatCha section represents the overall performance score.
+
+Bolded values indicate optimal performances within each class (open-source or proprietary). Proprietary models generally outperform open-source ones across all shot scenarios and tasks. Notable high-performing proprietary models include GPT-4o, Gemini-1.5-Pro, Claude-3.5-Sonnet, and LlaMA-4-Maverick.
+
+On the other hand, open-source models show varying performance levels. Qwen2.5-VL models perform relatively well across different shot scenarios, while InternVL3 models show better performance with higher parameter sizes (38B vs 8B). LLaVA models (1.5-7B and 1.5-13B) demonstrate poor performance in all shot scenarios, possibly indicating issues with the model architecture or training data.
+
+In summary, this data suggests that proprietary language models have an edge over open-source alternatives in Visual Question Answering tasks on the MatCha benchmark. However, there's room for improvement in some open-source models, and further research could help enhance their performance.
+
+
+### 2509.14252v1
+
+Title: LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures
+
+Authors: Hai Huang (Atlassian), Yann LeCun (NYU), Randall Balestriero (Brown University)
+
+Abstract: This research paper introduces a novel training objective for Large Language Models (LLMs) called LLM-JEPA, which combines the standard reconstruction-based loss with an additional Joint Embedding Predictive Architecture (JEPA) objective. The motivation behind this work is to leverage the benefits of JEPAs, as observed in computer vision tasks, for improving LLMs' representation quality and abstract prompt reasoning capabilities.
+
+Background: The prevailing training methods for LLMs involve autoregressive token-space reconstruction. However, there has been a divide between generative/reconstruction-based methods and reconstruction-free JEPAs in representation learning. While the former dominates Natural Language Processing (NLP), JEPAs have shown multiple provable benefits in computer vision tasks for knowledge discovery through perception.
+
+Contributions:
+1. Novel LLM-JEPA Objective: This paper presents a JEPA-based training objective tailored for LLMs, allowing them to operate in embedding space and with different views while preserving their generative capabilities.
+2. Improved State-of-the-Art (SOTA) Results: Empirical validation demonstrates that LLM-JEPA outperforms traditional LLM finetuning solutions across multiple models and datasets such as NL-RX, GSM8K, Spider, and RottenTomatoes.
+3. Extensive Validation: The paper provides extensive empirical evidence of the method's effectiveness on various model families (Llama, Gemma, OpenELM, OLMo) and sizes.
+
+Key Aspects:
+- LLM-JEPA Objective: The proposed objective consists of a generative part derived from LLLM and an abstraction part using JEPA, combined via a hyperparameter λ that balances their contributions. The generative part is the typical autoregressive token prediction loss for LLMs, while the abstraction part aims to predict one view (Text) from another (Code).
+- Encoder: The encoder utilizes the hidden state of the last token in the last layer as input sequence embeddings, similar to common practices in LLM probing.
+- Predictor: A tied-weights predictor is introduced by appending special tokens ([PRED]) at the end of input prompts and using the embedding of the final predictor token as Pred(Enc(·)).
+- Relation to Previous Work: Unlike previous approaches that employ structural constraints in LLM embeddings, LLM-JEPA maintains a close resemblance to JEPAs used in computer vision. The paper also highlights recent finetuning solutions in NLP that involve learning to generate one view from another without the explicit use of JEPA objectives (e.g., natural language to regular expression translation, SQL parsing, and issue descriptions to code diffs).
+- Empirical Validation: Experiments show that LLM-JEPA significantly outperforms traditional LLMs across finetuning tasks and demonstrates promising pretraining results. Notably, LLM-JEPA induces an approximately linear transformation from Enc(Text) to Enc(Code), as indicated by the small singular values in the Singular Value Decomposition (SVD) analysis of Enc(Text)-Enc(Code).
+
+Conclusion: This research introduces a novel JEPA-based training objective for LLMs, improving their representation quality and abstract prompt reasoning capabilities. While the current method requires additional computational cost during training, it holds promise in scaling up for better NLP tasks. Future work will focus on mitigating this overhead by masking self-attention matrices to evaluate LLM-JEPA within a single forward pass through the LLM.
+
+
+### 2509.15185v1
+
+Title: Self-Guided Training for Autoregressive Image Generation (ST-AR)
+
+This paper presents a novel training framework called Self-guided Training for AutoRegressive models (ST-AR), which aims to enhance the learning of high-level visual semantics in autoregressive models for improved image generation. The authors identify three key challenges in applying next-token prediction paradigms from natural language processing to vision tasks: local and conditional dependence, inter-step semantic inconsistency, and spatial invariance deficiency.
+
+1. Local and Conditional Dependence: Autoregressive models primarily rely on local and conditional information for predictions. The authors observe that attention maps of autoregressive image generation models, like LlamaGen-B, consistently show that the highest attention weights are given to spatially adjacent tokens and the initial conditioning token (Figure 1a). This indicates a strong dependence on local and conditional information, which might hinder generating high-quality images.
+
+2. Inter-step Semantic Inconsistency: The authors demonstrate inconsistencies in semantic information across different timesteps using linear probing results (Figure 1b). Initially, accuracy increases as more visible image tokens are available; however, subsequent declines reveal that autoregressive models fail to maintain previously learned semantic information, limiting their global modeling capability.
+
+3. Spatial Invariance Deficiency: Due to the discrete nature of visual tokenizers like VQ-GAN, slight perturbations in the image space can result in different tokens (Figure 1c). This ambiguity increases the difficulty for autoregressive models to encode visual signals and learn meaningful representations.
+
+To address these challenges, ST-AR integrates self-supervised objectives during training. It incorporates masked image modeling (MIM) to expand the effective field of visual autoregressive models by randomly masking a portion of tokens in attention maps. To ensure global consistency and semantic alignment across different time steps and views, ST-AR employs contrastive learning: inter-step contrastive loss (Lstep) and inter-view contrastive loss (Lview).
+
+ST-AR's training pipeline consists of the autoregressive token prediction loss (LAR), MIM loss (LMIM), Lstep, Lview, and teacher network. The final loss function is expressed as:
+
+LST -AR = LAR + αLMIM + β 1/2(Lstep + Lview)
+
+where α and β are the weights for reconstruction and contrastive losses, respectively.
+
+Experiments on ImageNet-256x256 dataset show that ST-AR significantly improves image understanding (evidenced by higher linear probing accuracy) while maintaining the same autoregressive sampling strategy. Specifically, LlamaGen-B trained with ST-AR for 50 epochs shows a 49% improvement in FID and a 42% improvement in sFID compared to the baseline model. Furthermore, LlamaGen-XL trained with ST-AR for just 50 epochs outperforms LlamaGen-3B trained for 300 epochs, achieving approximately a 49% FID improvement while having around 4x fewer parameters.
+
+In summary, the authors propose Self-guided Training for AutoRegressive models (ST-AR) to enhance visual understanding in autoregressive image generation models by incorporating self-supervised learning techniques like masked image modeling and contrastive losses. This approach significantly improves both image understanding and generation quality without relying on pre-trained representation models. Future work will focus on addressing the increased training costs associated with ST-AR.
+
+
+The provided list appears to be a collection of research papers related to the field of computer vision and machine learning, specifically focusing on image generation, representation learning, and self-supervised learning techniques. Here's a detailed summary of some key papers:
+
+1. **Masked Generative Image Transformer (MaskGit) by Huiwen Chang et al.** (2022): This paper introduces MaskGit, a method that applies masked image modeling to the transformer architecture for image generation tasks. It uses a masked autoencoder and a contrastive learning objective to learn representations of images. The model is trained on large-scale datasets like ImageNet, demonstrating competitive performance with state-of-the-art models while maintaining efficiency.
+
+2. **A Simple Framework for Contrastive Learning of Visual Representations by Ting Chen et al.** (2020): This work proposes a simple framework using contrastive learning to train visual representations from large-scale datasets like ImageNet, JFT, and COCO. The method uses a large batch size, a strong data augmentation strategy, and a new normalization technique called "Barlow Twins" to achieve high-quality representation learning with few computational resources.
+
+3. **Exploring Simple Siamese Representation Learning by Xinlei Chen et al.** (2020): The authors investigate the effectiveness of simple siamese networks for visual representation learning. They demonstrate that using a simple convolutional network as the backbone, with proper data augmentation and loss design, can achieve competitive performance on downstream tasks like object detection and semantic segmentation.
+
+4. **Improved Baselines with Momentum Contrastive Learning by Xinlei Chen et al.** (2020): This paper proposes improvements to the contrastive learning framework, which was introduced in [13]. They use a momentum-based version of the online network and show that this approach leads to better performance on downstream tasks.
+
+5. **An Empirical Study of Training Self-Supervised Vision Transformers by Xinlei Chen et al.** (2021): This research paper provides an empirical study of training vision transformers using self-supervised learning techniques, such as masked image modeling and contrastive learning. The authors demonstrate that these methods can be effectively applied to the transformer architecture for large-scale image recognition tasks.
+
+6. **Scaling Instruction-Finetuned Language Models by Hyung Won Chung et al.** (2024): This paper introduces a method for scaling instruction-finetuned language models, which are pretrained on a diverse set of natural language instructions and can be fine-tuned for various downstream tasks. The authors demonstrate the effectiveness of their approach through extensive experiments on a wide range of benchmarks.
+
+7. **Imagenet: A Large-Scale Hierarchical Image Database by Jia Deng et al.** (2009): This paper introduces Imagenet, a large-scale hierarchical image database that has significantly impacted the field of computer vision. It consists of over 14 million images organized into 21,841 categories and has been widely used for training and benchmarking various image recognition models.
+
+8. **Diffusion Models Beat GANs on Image Synthesis by Prafulla Dhariwal and Alexander Nichol** (2021): This work compares diffusion models with generative adversarial networks (GANs) for image synthesis tasks. The authors show that diffusion models achieve better sample quality, diversity, and training stability compared to GANs while being easier to train.
+
+These summaries cover some of the most influential papers in the field, highlighting advancements in image generation, representation learning, and self-supervised techniques using transformers and contrastive learning methods.
+
+
+### Bonici_2025_J._Cosmol._Astropart._Phys._2025_044
+
+The paper introduces Effort.jl, a fast and differentiable emulator for the Effective Field Theory of Large Scale Structure (EFTofLSS) of the universe. The authors discuss its architecture, preprocessing strategies, and implementation details to ensure high precision and computational performance.
+
+1. **Neural Network Architecture and Core Functionalities**: Effort.jl is written in Julia, a high-level, high-performance programming language suitable for technical computing. It utilizes SimpleChains.jl (for CPU) and Lux.jl (for GPU) neural network libraries, offering efficient computation of power spectrum multipoles (~15 µs). The AbstractCosmologicalEmulators.jl package handles emulator instantiation via JSON configuration files, eliminating the need for pickling or serialization.
+
+2. **Bias Treatment and Emulator Structure**: Effort.jl treats biases analytically, decoupling cosmological parameters from other elements in Eq. (2.1), reducing the dimensionality of the emulated space. The stochastic term is constructed analytically by the code without requiring emulation. This strategy is similar to Comet and Matryoshka, ensuring faster training and inference with negligible computational overhead.
+
+3. **Preprocessing Strategy**: Effort.jl employs a carefully optimized preprocessing pipeline. It rescales linear matter power spectrum terms based on cosmological parameters and uses min-max normalization for input and output features to enhance numerical stability. A hybrid approach combining analytical rescaling with machine learning is used to learn residual dependencies not captured by the rescaling, providing flexibility in modeling non-linear phenomena.
+
+4. **Observational Effects**: Effort.jl incorporates essential observational effects like the Alcock-Paczynski (AP) effect and survey masking:
+   - **Computation of Additional Quantities**: Background quantities such as Hubble factor, comoving distance, growth factor, and growth rate are computed dynamically by integrating relevant equations at runtime using the DifferentialEquations.jl package.
+   - **Alcock-Paczynski (AP) Effect**: Effort.jl calculates distortion factors and applies transformations to account for geometric distortions due to converting redshift space into physical space, affecting inferred distances along and across the line-of-sight. Custom backward differentiation rules are written to optimize the computation of gradients through AP calculations.
+   - **Window Mask Convolution**: Effort.jl implements window mask convolution using Tullio.jl for efficient array operations, ensuring observational effects are consistently incorporated into analyses with custom differentiation rules.
+
+5. **Cosmological Inference Framework**: The authors employ the Turing.jl probabilistic programming language to define cosmological models and perform Bayesian inference. Gradient-based samplers like Hamiltonian Monte Carlo (HMC) and its variants, including No-U-Turn Sampler (NUTS), are used for efficient exploration of high-dimensional posterior distributions.
+
+6. **Results**: The paper demonstrates the accuracy and efficiency of Effort.jl through applications to PT-challenge simulations and BOSS data, showing excellent agreement with traditional pipelines that combine CLASS/CAMB with EFTofLSS codes. Notably, Effort.jl offers significant computational speedups (orders of magnitude) compared to conventional analysis pipelines while maintaining accuracy in Bayesian posterior sampling.
+
+7. **Future Developments**: The authors plan to apply Effort.jl to upcoming datasets from the DESI survey and explore joint analyses with complementary tools like Capse.jl for CMB observables and Blast.jl for photometric 3 × 2 pt computations, enabling efficient joint analysis of diverse cosmological datasets and probes. They also intend to extend symbolic regression to w0wa cosmologies for further optimizing preprocessing pipelines and explore compatibility with other EFT-based codes like velocileptors, CLASS-PT, FOLPS, and CLASS-OneLoop.
+
+
+The text discusses several aspects of cosmological modeling, focusing on emulators (surrogate models) and their applications in the context of large-scale structure (LSS) studies. Here's a detailed summary:
+
+1. **Emulators' Limitations**: Emulators, used to approximate computationally expensive cosmological simulations, are restricted to the parameter space explored during training. This limitation can be particularly problematic for extended models where projection effects may drive inferences toward the edges of the trained domain, potentially requiring full retraining.
+
+2. **Effort.jl's Complexity**: The Effort.jl workflow relies not only on neural-network emulators but also on high-performance routines for background quantities and observational effects. Adapting this software to a new model necessitates either a custom implementation of the governing equations or an additional surrogate model for background computations. This process can be complex, especially for models with richer phenomenology like particle-physics inspired ones.
+
+3. **Optimization Challenges**: Ensuring both accuracy and efficient gradient evaluation in emulators demands meticulous optimization. Any further extensions will require the same level of care to maintain performance.
+
+4. **Jax-based Effort.jl Version**: The authors are working on a JAX-based version of Effort.jl, which would be beneficial since the cosmological community is more proficient with Python. A fully equivalent JAX implementation of Capse.jl (a related software) has already been completed, and now efforts are focused on translating Effort.jl into JAX.
+
+5. **Acknowledgments**: The research was supported by various Canadian funding agencies, the Italian Research Center on High Performance Computing Big Data and Quantum Computing, and computational facilities in Canada and Italy.
+
+6. **Galaxy Power Spectrum in EFTofLSS**: The Effective Field Theory of Large-Scale Structure (EFTofLSS) provides a systematic approach to modeling the redshift-space galaxy power spectrum by accounting for small-scale physics effects on large-scale clustering. It extends standard perturbation theory with counterterms describing how small-scale physics influences observed large-scale distributions.
+
+7. **CLASS and PyBird Settings**: Python code is provided to generate training datasets, ensuring full reproducibility. Settings for CLASS (a Boltzmann code for cosmology) and PyBird are detailed, including parameters for matter power spectrum computation and correlator settings.
+
+8. **Fixed Redshift Emulator Accuracy Gain**: A fixed redshift emulator, although less flexible than one that takes redshift as input, offers higher accuracy due to its reduced number of input parameters and dynamic range. This is demonstrated by improved residuals for monopole, quadrupole, and hexadecapole in Figure 6.
+
+References cited cover a broad range of topics related to cosmological modeling, computational techniques, and software developments used in the field. These include simulation codes (CLASS), machine learning methods (PyBird, neural networks), optimization techniques, and differentiable programming for efficient and accurate calculations in cosmology.
+
+
+### Machine-Vision-How-Algorithms-are-Changing-the-Way-We-See-the-World
+
+Chapter 1 of Jill Walker Rettberg's "Machine Vision" delves into the historical development of technologies aimed at augmenting human vision. The chapter begins with the earliest known visual technology, an 8,000-year-old polished stone mirror used for reflection. It then traces the evolution of visual technologies, including glass lenses and telescopes that enabled humans to see beyond their natural limitations.
+
+Rettberg argues that the desire to see more has historically driven technological advancements in vision. This desire situates technology as a tool to expand human access to the world. However, she contends that human agency is more entwined with these technologies than commonly acknowledged. These technologies not only augment our abilities but also alter us.
+
+The chapter explores various ways humans have sought to see more:
+
+1. **Fire**: Early humans harnessed fire to create light, enabling them to extend their sight in the dark.
+2. **Water and Stone Mirrors**: Still water bodies and polished stones served as reflective surfaces for self-observation. The first known manufactured mirror was made of polished obsidian around 7000 BCE in Anatolia (present-day Turkey).
+3. **Glass Lenses and Telescopes**: These technologies allowed humans to observe distant objects, such as stars and planets, and even tiny organisms visible only through magnification. For instance, the invention of the microscope in the 17th century revealed a world previously unseen by the naked eye.
+4. **X-rays, Infrared, Ultrasound, and Gravitational Waves**: As technology advanced, humans developed methods to perceive waves outside the visible light spectrum. X-rays, for example, enabled medical professionals to visualize bone structures within the human body without surgery. Similarly, ultrasound technology allowed pregnant women to see their unborn children in real-time.
+
+Rettberg's central argument is that these visual technologies have historically been seen as tools that amplify human abilities, with humans perceived as in control of the technology and its effects. However, she posits that this perspective oversimplifies the complex relationship between humans and technology. Instead, she suggests that humans and their technologies are intertwined, each shaping and being shaped by the other.
+
+In essence, Chapter 1 underscores how human curiosity and the desire to transcend our biological limitations have propelled the development of visual technologies throughout history. It also highlights that these technologies are not merely passive instruments but active agents in reshaping human perception and understanding of the world.
+
+
+The text discusses the historical development and impact of technologies that enhance human vision, focusing on ancient mirrors, camera obscuras, linear perspective, and photography. It then connects these historical technologies to modern machine vision, particularly deep-learning algorithms used in smartphone selfies and facial recognition systems.
+
+1. **Ancient Mirrors**: The 8,000-year-old obsidian mirror is an early example of human use of technology to see more. It was polished into a half-sphere that could be held in one's hand, allowing individuals to see their reflection for the first time. This mirror marks the beginning of humans augmenting their vision with tools.
+
+2. **Camera Obscura**: The concept of the camera obscura, which projects an image through a tiny hole onto a surface, dates back to ancient times. It was used in China as early as the 4th century BCE and later described by Seneca in his treatise on Natural Questions. Camera obscuras enabled more accurate drawings and paintings using linear perspective.
+
+3. **Linear Perspective**: Linear perspective, developed during the Italian Renaissance, is a technique for representing three-dimensional reality on a two-dimensional surface to appear as we perceive it in real life. This method was used by artists like Filippo Brunelleschi and Leon Battista Alberti to create realistic images. Linear perspective became essential for machine vision as it allowed visual data to be encoded and decoded systematically.
+
+4. **Photography**: The invention of photography in the 19th century encoded linear perspective into hardware, creating operative images rather than just representational ones. Early photographs were labor-intensive but eventually became more accessible, leading to widespread use. Photographs could be manipulated and reproduced easily, shaping people's perceptions of distant cultures and individuals.
+
+5. **Machine Vision Today**: Modern machine vision technologies, such as smartphone selfies with filters or facial recognition systems, build upon these historical foundations. They use algorithms (software) to interpret light captured by sensors (hardware), allowing us to see more than our naked eyes can perceive. These systems are part of assemblages involving human bodies, cultural context, and technology, with agency distributed among participants.
+
+6. **Legacy of Historical Technologies**: Historical technologies like mirrors and camera obscuras laid the groundwork for understanding today's machine vision. By examining their relationships with humans, we can better comprehend how contemporary visual technologies function within broader assemblages and cultural contexts. This approach highlights the intertwining of human-machine interactions over time and across different cultures.
+
+In summary, this text explores how human vision has been augmented throughout history through various technologies—from ancient mirrors to modern smartphones—and how these historical developments inform our understanding of current machine vision systems. It emphasizes the importance of considering the relationships between humans and technology within assemblages that distribute agency among participants, rather than viewing technology as a passive tool or an independent agent.
+
+
+The text discusses the concept of "Seeing Differently" by exploring non-human vision, particularly through machine vision technologies and biosemiotics. It begins with N. Katherine Hayles's theory of technical cognition, which posits that all animals and many technologies have non-conscious cognition, a process of interpreting information within contexts to create meaning. The chapter then delves into the idea of the "kino-eye" or mechanical eye, popularized by the Soviet filmmaking collective Kinoks in the 1920s.
+
+The Kinoks saw the camera as a slave that needed liberation to show the world in a new way. Their manifesto emphasizes the agency of the camera and its unique perspective, contrasting it with the human eye's limitations. They advocate for the kino-eye to "show you the world as only I can see it," highlighting the potential for machines to perceive differently from humans.
+
+The text also discusses Vilém Flusser's perspective on photography and technology, arguing that cameras are computational thinking flowing into hardware—apparatuses with specific programs or agendas designed to create images based on numerical calculations. According to Flusser, the camera uses humans as functionaries to achieve its goals of image creation and societal improvement.
+
+Moving on to biosemiotics, the text explains that it studies how living organisms perceive signs and create meaning using their specific perceptual apparatus. This field helps understand how different species see differently from humans, emphasizing the significance of an animal's Umwelt—its unique interpretation of its environment.
+
+The author then introduces cybersemiotics as a way to explore machine vision by building upon biosemiotics. Cybersemiotics examines how machines make meaning through their sensors and data processing capabilities, even though the results may not resemble human visual perception.
+
+Alfred, the robot vacuum cleaner, is used as an example to illustrate this concept. Alfred uses collision sensors, optical light sensors, and laser sensors (LIDAR) to build a map of its surroundings. When it encounters anomalies like a lost hat, it responds by taking photos and alerting humans while navigating around the object. The author explains that for Alfred, the hat is merely an obstacle or potential trap, not understood as a human would—it's just a representation in Alfred's Umwelt.
+
+The text concludes by noting that whether a machine "sees" in the human sense is debatable, depending on the definition. It also touches upon research suggesting plants might have a form of vision and discusses how training datasets influence AI's perception when using machine learning and AI for predictions or decisions. Ultimately, the text emphasizes that understanding non-human vision—including machine and biological organisms—challenges our notions of truth and broadens our perspectives on seeing in general.
+
+
+The text discusses the topic of surveillance technology, specifically automated license plate readers (ALPRs) and their implementation in Oak Park, Illinois. The author, who had recently moved to this neighborhood with her family, finds herself immersed in a local debate about safety and surveillance following an assault on her husband.
+
+The controversy centers around the proposal by the village manager to install Flock Safety's ALPRs throughout Oak Park. These devices record license plate data, allowing users to search for specific vehicles or track their movements. The system's proponents argue that it will aid in solving and deterring crime, while opponents claim that the technology is unnecessary, costly, ineffective, and likely to exacerbate racial biases in policing.
+
+The author reflects on the broader historical context of humans' longing for omniscient beings or entities capable of watching over them and ensuring their safety. This desire is seen echoed in modern surveillance technologies, which promise all-seeing capabilities. The text references various religious figures and myths, such as Argus with his hundred eyes, who served as inspiration for the panopticon design by Jeremy Bentham, a concept that underpins contemporary surveillance systems.
+
+The author highlights how smart surveillance technologies, like Flock Safety's ALPRs, are marketed as objective and trustworthy solutions to crime, embodying the "god trick" – the human fantasy of an omniscient, unbiased entity that can safeguard society. This narrative is contrasted with the reality of how these systems function within specific socio-political contexts, particularly in communities already distrustful of authorities and institutions.
+
+The text then examines Oak Park's unique circumstances – its history of racial tensions, progressive politics, and relative affluence compared to neighboring areas with higher crime rates and poverty levels. The proposed ALPR system ignites debate due to the town's ongoing efforts to combat structural racism since the 1960s.
+
+The author further explores how digital platforms like Neighbors by Ring contribute to communal fear through sharing videos of suspected crimes, often disproportionately targeting black residents and reinforcing racial segregation patterns known as "digital redlining."
+
+The text concludes with the author's observation that, despite rising crime rates in Chicago and fear pervading the city, there is no empirical evidence suggesting that increased surveillance reduces crime. Instead, she argues, it fosters a sense of distrust within communities and may unjustly target certain groups while failing to enhance overall safety.
+
+
+The chapter discusses the concept of "the algorithmic gaze" in relation to machine vision technologies, drawing parallels with Laura Mulvey's cinema theory of the 'male gaze'. It explores how these systems see humans, focusing on three case studies: selfie filters and facial recognition, automated grocery shopping, and a fictional AI dictator from Neal Shusterman's novel series.
+
+1. Normalizing Faces - Machine learning algorithms in selfie filters and facial recognition have a normalizing effect, as they identify patterns in datasets to make predictions or inferences. This often leads to stereotypes rather than defamiliarizations. For instance, if trained on predominantly Caucasian faces, these systems may fail to recognize Asian features accurately or normalize the data by assuming whiteness is 'normal'. This normalizing effect can influence our perception of beauty and identity standards, potentially reinforcing racial and gender biases.
+
+2. Selﬁe Filters and Facial Recognition - Selﬁe filters use the same basic technology as facial recognition systems, allowing users to experiment with different visual effects based on real-time face analysis. This interaction can familiarize users with biometric algorithms and potentially normalize facial analysis in everyday life. The chapter highlights how these tools might accustom us to biometrics, making us less likely to resist their broader use in surveillance and other contexts.
+
+3. Automated Grocery Shopping - Machine vision is increasingly employed in automated grocery shopping experiences, replacing human interaction with smart cameras that monitor shoppers' movements within stores. Examples include Amazon's 'Just Walk Out' technology and unstaffed grocery stores in rural Norway. These systems use image recognition to track items taken from shelves and add them to customers' virtual carts. The chapter discusses how these automated setups shape our relationship with surveillance, with some users finding convenience while others experience a sense of embarrassment or over-control due to constant monitoring.
+
+The author emphasizes that understanding the context and assemblage (the interconnected network of actors) in which machine vision technologies operate is crucial for recognizing their varying impacts on society, privacy, and human interactions. Machine vision's 'gaze' is not inherent but rather shaped by its embedded values, cultural assumptions, and the broader social, political, and economic forces within which it exists.
+
+
+The conclusion of "Seeing Less" explores the themes of agency, trust, truth, and algorithmic bias in relation to machine vision technologies. The author argues that instead of viewing technology as overtaking human control over visual perception, it is more accurate to see these systems as participants in assemblages with humans and other agents, where agency is distributed and complex.
+
+The second concern raised was about trust and truth, initially assumed to erode due to deepfakes and image manipulation. However, the author found that in reality, people tend to increase their trust in images when human trust in institutions declines. They cite examples of police departments and politicians promoting "data-driven policing" and smart surveillance cameras as solutions to loss of faith in institutions.
+
+The third concern addressed was algorithmic bias, a significant issue that affects the accuracy of machine vision technologies like facial recognition algorithms. The author references Joy Buolamwini's work showing how these systems perform worse for women and people with dark skin due to biased training datasets or false assumptions in data interpretation.
+
+The conclusion emphasizes that machine vision is not just about human versus technology seeing, but rather how we perceive the world through more-than-human assemblages. It suggests that the impact of surveillance technology varies greatly depending on its implementation within different contexts and business models.
+
+The author advocates for viewing machine vision as a tool to expand human perception rather than replicate or replace it, allowing access to more-than-human truths about our world. She highlights the potential of this technology to foster connections between humans and between humans and other species on Earth.
+
+Examples are given of how machine vision can help us see differently, such as time-lapse videos revealing patterns over spans too long for human observation (e.g., forest growth or glacier melting), selfies with filters offering new forms of self-expression, video chats maintaining relationships across distances, and art installations using technology to inspire awe and wonder.
+
+The author concludes by expressing her personal ambivalence towards surveillance but appreciation for other aspects of machine vision (e.g., selfies, FaceID, ultrasounds). She encourages readers to critically consider the types of machine vision they wish to incorporate into their lives and communities, emphasizing the importance of thoughtful engagement with technology within specific assemblages.
+
+
+The text provided is a collection of notes from a book or an article discussing various topics related to technology, artificial intelligence (AI), machine learning, visual perception, societal implications, and historical context. Here's a summary of the main points across different sections:
+
+1. **Gender and Racial Bias in AI:** The text begins by addressing gender and racial biases present in AI systems, citing Buolamwini and Gebru's work "Gender Shades" as an example. It mentions how models like DALL-E exhibit these biases due to their training on internet images, which may contain stereotypical representations.
+
+2. **History of Machine Learning:** The text provides a brief history of machine learning, referencing key figures and models:
+   - Frank Rosenblatt's Perceptron (1957-1958).
+   - Introduction to the concept of semantic/vector space by Mitchell in "Artificial Intelligence: A Guide for Thinking Humans".
+   - Bommasani et al.'s work on foundation models, and their influence, particularly GPT-3.
+
+3. **DALL-E:** Details are provided about DALL-E's training data, which consists of 250 million text-image pairs collected from the internet (including Conceptual Captions dataset and a subset of YFCC100M). Ethical concerns surrounding web image usage for AI model training are also mentioned.
+
+4. **Multimodal Neurons in Artificial Neural Networks:** The text references Goh et al.'s paper discussing multimodal neurons in artificial neural networks and their ability to process information from multiple data modalities (e.g., text, images).
+
+5. **Media Ecology and Technological Determinism:** The concept of media ecology is introduced as a way of studying human-technology interaction, with references to Neil Postman's work. The text also mentions technological determinism, referencing Langdon Winner's influential article "Do Artifacts Have Politics?"
+
+6. **Machine Vision in Art, Games, and Narratives:** A research project called Machine Vision in Everyday Life is discussed, which received funding from the European Research Council to document representations of machine vision technologies across artworks, games, narratives, and social media.
+
+7. **Seeing More (Chapter 1):**
+   - Discusses animal sensing abilities and human-computer interactions.
+   - Explores the concept of quantified self apps becoming our companions through quantiﬁed data analysis.
+   - Presents a historical overview of technological impact on society, including White's argument for the stirrup and plough shaping medieval history (though controversial due to allegations of determinism).
+
+8. **Seeing Differently (Chapter 2):**
+   - Examines similarities between drones and animals through zoomorphism, referencing Tomas Stubbleﬁeld's work "Drone Art: The Everywhere War as Medium".
+   - Discusses the artwork of Ai Weiwei and its connection to surveillance technologies.
+
+9. **Seeing Everything (Chapter 3):**
+   - Analyzes contemporary issues surrounding AI-driven surveillance, particularly license plate readers, in Oak Park, IL, USA.
+   - Explores the historical context of omnivorous perspectives in art and culture and their relation to modern surveillance technologies.
+
+10. **Being Seen (Chapter 4):**
+    - Examines human visual perception, social cooperation, and gender dynamics through the lens of AI technologies, including facial recognition systems.
+    - Critiques the normalization of biometric data collection and discusses the emotional implications of being constantly "seen" by machines.
+
+11. **Seeing Less (Chapter 5):**
+    - Discusses AI-generated content's impact on human creativity, identity, and representation using Janelle Monáe's album "Dirty Computer" as an example.
+    - Explores the relationship between humans, AI, and surveillance systems through analysis of video games, movies, and artworks (e.g., Watch Dogs: Legion).
+
+The notes also reference numerous scholarly works, articles, books, and historical events to support their discussions on these topics.
+
+
+Cameras are devices that capture images or videos by recording light reflected off objects. They have evolved significantly over time, with the camera obscura being an early example dating back to ancient times. This device used a dark chamber or box to project an image of the outside world onto a surface inside, allowing for drawing or painting based on the projected view.
+
+In modern times, cameras have become more sophisticated and versatile. They can be categorized into various types depending on their function, such as:
+
+1. Optical cameras: These use lenses to focus light onto a light-sensitive surface (film or digital sensor) to record the image. Examples include DSLRs, mirrorless cameras, and smartphone cameras.
+2. Thermal imaging cameras: These capture heat signatures emitted by objects rather than visible light. They are used for applications such as night vision, firefighting, and detecting heat leaks in buildings.
+3. Infrared (IR) cameras: These use IR light to create images that may not be visible to the human eye, often used for security purposes or scientific research.
+4. X-ray cameras: These employ high-energy radiation to produce images of internal structures within an object, commonly used in medical imaging and airport security checks.
+5. CCTV (closed-circuit television) cameras: These are typically found in surveillance systems and consist of a lens, sensor, and recording device that sends the captured footage to a specific location for monitoring purposes.
+6. Security cameras: Similar to CCTV systems but may include additional features like motion detection, night vision, and remote access via the internet.
+7. Action cameras: Designed for capturing extreme sports or adventure activities, these wearable devices often have wide-angle lenses, waterproof casings, and mounting options for hands-free use.
+8. 360° cameras: These capture a full spherical image simultaneously, allowing the viewer to look around in all directions within the recorded scene.
+9. Lidar (Light Detection and Ranging) cameras: Using pulsed laser light, Lidar creates detailed 3D maps of an area or object by measuring the time it takes for the emitted light to bounce back after striking a surface. This technology is used in autonomous vehicles, robotics, and archaeological surveys.
+10. Drone cameras: Mounted on unmanned aerial vehicles (UAVs), these cameras provide aerial perspectives of landscapes or events for various applications, such as cinematography, real estate photography, wildlife observation, and military reconnaissance.
+
+Cameras play a crucial role in documenting reality, creating art, and facilitating communication through visual media. Their development has been influenced by scientific advancements, technological innovations, and societal needs, shaping our understanding of the world around us.
+
+
+The text provided is an index of terms from a book or scholarly work that explores various aspects related to vision, technology, surveillance, representation, and culture. Here's a detailed summary and explanation of the key themes and topics:
+
+1. Vision and Technology: The work delves into the historical development and impact of technological enhancements for human vision, such as cameras, microscopes, telescopes, and digital imaging tools. It discusses how these innovations have shaped our understanding of the world and ourselves.
+
+   - Camera-related terms: CCTV cameras (91, 110), Ring doorbells (86, 91, 92, 98-9, 101-6, 108, 114, 131), Neighbors by Ring app (179 n.36), automated license plate readers (ALPRs) (12, 15), smart surveillance cameras (61), and smartphone filters (25, 28, 56, 119-20, 157).
+   - Microscopes: microscopes are mentioned in the context of lens-making and scientific advances (35-6, 42, 169 n.36, 171 n.59).
+   - Telescopes: telescopes are discussed in relation to their historical significance (2, 41-2), the star test (34), and the development of scientific knowledge (167 n.23).
+   - Digital imaging tools: terms like pixels (146-7, 148), image generation models (6-8), image recognition (5-6), deep learning (AI) (2, 5-7, 167 n.22, 187 n.10), deepfakes (152, 157), and foundation models (6, 8, 162 n.3) are extensively covered.
+
+2. Surveillance and Privacy: The work examines the rise of surveillance technologies in various contexts, including public spaces, private residences, and online platforms. It discusses concerns around privacy, data collection, and algorithmic bias.
+
+   - Surveillance cameras: CCTV cameras (91, 110), thermal cameras (55-6, 61), police surveillance (92-5, 110-12, 180 n.42-54), and drones (73) are key terms.
+   - Privacy: privacy legislation (12, 85), parental surveillance (139), and protesters' use of masks for privacy protection (150-2) are discussed.
+   - Data collection and bias: data-driven policing (93, 113, 135, 158), facial recognition systems (152-4), and datasets like CelebA (123, 183 n.13) and ImageNet (5) are explored in the context of privacy concerns and algorithmic bias.
+
+3. Representation and Identity: The work analyzes how visual representation influences perceptions of identity, race, gender, and other social categories. It also examines resistance to these representations through counter-visual practices.
+
+   - Visual representation: black faces (2, 47, 80, 154), dark-skinned people (152), white faces (2, 47, 80, 120, 154), and 'queered' faces (122, 182 n.11) are discussed in relation to facial recognition systems and normalizing practices.
+   - Identity: misidentification (106-8, 109, 180 n.42, 180 n.50), masking for identity protection (150-1, 153), and visual codes are explored.
+
+4. Culture, History, and Theory: The work incorporates various theoretical frameworks and historical contexts to analyze the intersection of vision, technology, culture, and society.
+
+   - Theories: male gaze theory (30, 116-17, 166 n.10), cognitive assemblages (32-3), cognitive media (79), posthumanist theory (11, 23, 29, 57, 59, 185 n.40), and Situated knowledges (Haraway) (9, 17, 94).
+   - Historical contexts: ancient Rome (ancient Roman soldiers, 34-5), medieval Europe (medieval European technology and social change
+
+
+### journal.pbio.3003215
+
+The paper titled "AI-mediated translation presents two possible futures for academic publishing in a multilingual world" by Amano, Bowker, and Burton-Jones discusses the potential impact of artificial intelligence (AI) on the current monolingual nature of scientific publishing, particularly its dominance by English. The authors explore two possible scenarios for how AI could reshape academic publishing to make it more inclusive and equitable in a multilingual context.
+
+**Future 1: English as Lingua Franca with AI Translation Support**
+
+In this scenario, English remains the primary language of scientific communication, but AI tools would assist non-native English speakers in translating their work into English for publication and help others translate published content into their native languages for reading and review. This model retains the current publishing structure while alleviating some barriers to entry for researchers whose first language isn't English.
+
+*Advantages*:
+- Maintains the status quo, minimizing disruption to established systems.
+- Leverages AI's ability to improve translation quality and reduce costs.
+- Allows non-native English speakers to produce scientific content in their native languages.
+
+*Disadvantages*:
+- Inequality persists between fluent and non-fluent English speakers.
+- Financial costs associated with AI tools may disproportionately affect those without resources.
+- The risk of translation errors could perpetuate misunderstandings or biases, potentially marginalizing certain languages further.
+- The centralization around English might continue to drive domain loss for other languages, reducing their relevance in scientific discourse.
+
+**Future 2: Multilingual Academic Publishing with AI Translation**
+
+In this scenario, scientific papers would be published in authors' native languages, with AI providing translation services to facilitate global access and understanding. This model promotes linguistic diversity and reduces barriers for non-English speakers.
+
+*Advantages*:
+- Empowers a broader range of researchers by allowing them to publish in their native languages.
+- Promotes scientific diversity and inclusivity, slowing the 'domain loss' experienced by non-dominant languages.
+- Enhances the accessibility of science for speakers of diverse languages, potentially increasing public engagement and trust.
+
+*Disadvantages*:
+- Challenges in ensuring fair evaluation and recognition across different languages due to potential AI translation inaccuracies.
+- The need for changes in literature search systems and review processes to accommodate multilingual content effectively.
+- Systemic resistance to change, as the current English-centric assessment frameworks may still favor English publications.
+- Ensuring quality control and expert validation of translated works could be complex, especially concerning low-resource languages with limited AI capabilities.
+
+The authors argue for Future 2 as it has the potential to democratize academic publishing more effectively than Future 1. They acknowledge that AI translation isn't perfect but suggest that the current issues with English proficiency and the dominance of English in science already introduce biases and inaccuracies. The authors propose gradual steps towards multilingual publishing, starting with experiments in select languages and integrating AI tools into various stages of the publication process to make science more accessible globally. They emphasize the need for ongoing discussion within the scientific community about how best to harness AI's potential while mitigating its limitations to achieve a truly inclusive and equitable scientific landscape.
+
+
+### s41467-025-63748-w
+
+Title: Gephyrin Filaments Underlie Inhibitory Postsynaptic Densities
+
+Summary: This study by Macha et al. (2025) reveals the molecular basis for gephyrin's role in forming inhibitory postsynaptic densities (IPSDs). Gephyrin is a crucial scaffold protein at CNS inhibitory synapses, responsible for clustering β-subunit glycine receptors (GlyR) and various GABA type A receptor (GABAAR) subunits. The research focuses on gephyrin's E-domain, which forms dimers and binds to ICDs of inhibitory receptors.
+
+Key Findings:
+1. Gephyrin forms flexible filaments where dimerized E-domains are connected via Z-shaped interfaces between subdomain II (SDII) of adjacent dimers. This structure was revealed using cryo-electron microscopy (cryo-EM).
+2. Deletion of SDII, introduction of two epilepsy-causing pathogenic variants, or neutralization of opposing charges in the interface abolished filament formation, in vitro phase separation, and synaptic receptor clustering in hippocampal neurons.
+3. The study identifies gephyrin E-domain filaments as the structural foundation underlying gephyrin's phase separation and receptor clustering at IPSDs.
+4. Gephyrin's enzymatic function in molybdenum cofactor biosynthesis is also discussed, alongside its role in the CNS and spinal cord.
+5. The findings suggest that proper oligomerization of both gephyrin G-domain (GephG) and E-domain (GephE) is required for synapse formation.
+6. A concentration threshold for filament formation was identified, which agrees with the estimated gephyrin concentration within inhibitory PSDs based on high-resolution light microscopy.
+7. The study highlights the importance of SDII in GephE ﬁlament formation and its contribution to the underlying mechanism of gephyrin liquid-liquid phase separation (LLPS) at IPSDs, thereby influencing receptor density and synaptic clustering.
+
+Methods:
+1. Recombinant expression in E. coli BL21 (DE3) Rosetta cells using 6His-tagged gephyrin variants with modifications for GephΔSDII and GephER379D constructs.
+2. Protein purification by affinity chromatography followed by analytical size-exclusion chromatography (aSEC).
+3. Sample preparation for negative stain electron microscopy (EM) and cryo-EM, including grid blotting for the latter.
+4. Data processing using RELION or CryoSPARC software to obtain 2D class averages and 3D density maps.
+5. Model building and refinement using COOT and PHENIX software.
+6. In vitro experiments, such as sedimentation assays, to assess liquid-liquid phase separation (LLPS) abilities of gephyrin variants.
+7. Expression of mScarlet-tagged gephyrin constructs in dissociated murine hippocampal neurons for immunostaining and postsynaptic cluster analysis.
+
+Implications:
+This study provides a detailed molecular mechanism for gephyrin organization at IPSDs, revealing the formation of flexible filaments through GephE dimer interactions. Understanding this process offers insights into inhibitory synapse function and neurological disorders associated with gephyrin mutations, such as epileptic encephalopathy.
+
+
+This research article, published in Nature Communications, delves into the molecular structure and phase separation properties of gephyrin, a protein crucial for organizing inhibitory synapses in the brain. The study combines various experimental techniques, including biochemistry, microscopy, cryo-electron microscopy (cryo-EM), and computational methods, to unravel the structural aspects of gephyrin and its role in synapse formation.
+
+1. Protein Expression and Purification:
+The researchers expressed different gephyrin variants (WT - wild type, G375D, D422N) using bacteria, tagged with a histidine (His) tag for purification purposes. The expression was induced by adding isopropyl-β-D-thiogalactopyranosid (IPTG) and occurred at 18°C or 25°C, depending on the variant. After cell lysis using mechanical and sonication methods, proteins were purified via Ni-NTA chromatography followed by size exclusion chromatography (SEC).
+
+2. Isothermal Titration Calorimetry (ITC):
+To study protein-protein interactions, the authors used ITC to investigate binding between gephyrin and GlyRβloop. The experiments were conducted at 37°C with an injection volume of 1.5-2 μl, and data analysis was performed using Origin software.
+
+3. Sedimentation Assay:
+The researchers employed sedimentation assays to study the in vitro phase separation properties of gephyrin variants. Protein mixtures were incubated for 10 minutes at room temperature before centrifugation. The supernatant and pellet were separated, analyzed by Bradford assay or SDS-PAGE with Coomassie Blue staining, and quantified using ImageJ software.
+
+4. Electron Microscopy (EM) Methods:
+The study utilized both negative stain EM and cryo-EM to visualize gephyrin variants at high resolution. For negative stain EM, protein samples were puriﬁed via SEC and stained with uranyl formate on continuous carbon grids. Cryo-EM samples were prepared by vitrifying protein solutions in a thin layer of liquid ethane using the Vitrobot Mark IV device.
+
+5. Atomic Model Building:
+The atomic model of gephyrin was constructed starting from the known crystal structure (PDB ID 2FTS) and the gephyrin amino acid sequence (UniProt Q9NQX3). The process involved fitting amino acids into the EM density map using Coot, generating non-crystallographic symmetry (NCS)-related subunits with Phenix, and iteratively reﬁning against the 3D density map until convergence.
+
+6. Results and Findings:
+The study revealed that gephyrin variants exhibited distinct phase separation behaviors, influenced by specific mutations such as G375D and D422N. Cryo-EM structures of these variants were determined at high resolution (around 3 Å), providing insights into the molecular mechanisms underlying gephyrin's role in synapse organization.
+
+The findings contribute to our understanding of the structural basis for gephyrin-mediated clustering of GABA receptors and provide new insights into potential mechanisms contributing to neurological disorders associated with gephyrin mutations. The study also highlights the power of combining biochemical, microscopy, and computational techniques in elucidating complex protein assemblies in biology.
+
+
+### s41587-025-02802-w
+
+Title: Targeted DNA ADP-ribosylation triggers templated repair in bacteria and base mutagenesis in eukaryotes
+
+Summary:
+
+This research article, published in Nature Biotechnology, introduces a novel approach to genome editing called append editing. The method utilizes the bacterial antiphage toxin DarT2, which appends ADP-ribosyl moieties to DNA, leading to distinct editing outcomes depending on the organism.
+
+The authors fuse an attenuated DarT2 to a Cas9 nickase, directing site-specific ADP-ribosylation of thymines within a target DNA sequence. In tested bacteria (Escherichia coli), this triggers homologous recombination, offering flexible and scar-free genome editing without base replacement or counterselection.
+
+In contrast, when targeting yeast (Saccharomyces cerevisiae) and human cells, append editing results in substitution of the modified thymine to adenine or a mixture of adenine and cytosine with limited insertions or deletions. This expands the range of possible genomic edits beyond what current base editors can achieve.
+
+The approach works by stalling DNA replication at the ADP-ribosylated site, which then initiates homologous recombination for repair in bacteria. In eukaryotes, this triggers templated mutagenesis where the modified thymine is replaced with another base (mostly adenine or cytosine).
+
+The study also explores attenuating DarT2 to reduce its cytotoxicity without compromising genome editing efficiency. They achieved this by making specific amino acid substitutions that disrupt DarT2's DNA binding while maintaining its ADP-ribosylating activity.
+
+This novel method, append editing, expands the modalities for precision gene editing by leveraging the addition of chemical moieties to DNA. It opens possibilities for creating precise genomic edits without double-stranded DNA breaks, potentially minimizing unintended genetic alterations. 
+
+The research underscores the vast potential of exploring different DNA modifications beyond base deamination or removal currently used in base editors.
+
+
+The text discusses a novel genome editing technique called append editing, which involves appending chemical moieties to DNA targets for precision modifications. The authors demonstrate this method using the bacterial toxin DarT2 to mediate ADP-ribosylation of thymine (ADP-ribosylation of Thymines - ADP-rTAE). This process, when paired with opposite-strand nicking, introduces precise edits via homologous recombination in bacteria.
+
+The study explores the outcomes of ADP-rTAE across different organisms: bacteria, yeast, plants, and mammalian cells (human). In bacteria, it enables a broad range of sequence replacements, deletions, and insertions without compromising colony counts. It doesn't cause genome-wide repair perturbations like prime editing or introduce fixed scars as in CRISPR-associated transposons. This makes ADP-rTAE suitable for generating large chromosomal libraries and multiplexed or multibase editing in nonmodel bacteria.
+
+In yeast, plants, and human cells, ADP-rTAE results in base mutagenesis with a bias towards A or C substitutions, differing from traditional base editors (BEs) that often introduce extensive bystander edits due to DNA deamination or glycosylation. The authors highlight the potential of ADP-rTAE for reverting pathogenic single-nucleotide variants (SNVs) not accessible via existing BEs, particularly T-to-A conversions.
+
+The study also investigates guide-independent off-target effects and compares appending thymine modifications with base excision editing outcomes. It concludes by discussing the potential of append editing as a distinct tool in genome editing, beyond its utility for creating DNA adducts to study repair pathways and mutagenesis.
+
+The research methods used include polymerase-blocking assays, microbial strain handling, and growth conditions. DarT2 proteins were expressed using the cell-free myTXTL master mix. ADP-ribosylation of single-stranded DNA templates was performed in vitro to assess whether it blocks DNA polymerases. Various Escherichia coli (E. coli) and Salmonella enterica serovar Typhimurium strains were used for assays, along with Saccharomyces cerevisiae for yeast experiments.
+
+The authors also mention the potential future development of append editing tools by engineering other base-modifying enzymatic domains targeting different nucleotides and expanding its capabilities. The study underscores the significance of understanding DNA repair pathways in each organism to optimize append editing efficiency and specificity.
+
+
+Title: ADPr-TAE (ADP-Ribosylation-Mediated Targeted Adenine Base Editing) for Precise Genome Modification
+
+The paper describes a novel genome editing method called ADPr-TAE (ADP-Ribosylation-Mediated Targeted Adenine Base Editing). This technique leverages the bacterial enzyme DarT2, which ADP-ribosylates specific DNA motifs, thereby blocking DNA replication and transcription. By combining this enzyme with a nickase Cas9 (nScCas9 or nSpCas9), researchers can achieve targeted adenine base editing without the need for double-stranded breaks (DSBs) associated with traditional CRISPR-Cas9 systems.
+
+The key components of ADPr-TAE are:
+1. DarT2: An enzyme that specifically recognizes and ADP-ribosylates a 5'–TCTC–3' DNA motif, inhibiting the activity of DNA polymerases (e.g., Klenow fragment).
+2. nScCas9 or nSpCas9: Nickase Cas9 variants that create staggered double-stranded breaks (DSBs) at target sites, allowing for the introduction of DarT2 recognition motifs in genomic loci.
+3. Repair templates: Plasmids containing repair templates with desired sequence alterations flanking the targeted adenine base to facilitate homology-directed repair (HDR).
+
+The authors demonstrate ADPr-TAE's efficacy across various organisms, including Escherichia coli (E. coli), Saccharomyces cerevisiae (S. cerevisiae), Salmonella enterica serovar Typhimurium (S. enterica), and human cells (U2OSΔTARG1). Some of the applications include:
+- Replacement, deletion, and insertion assays at specific loci in E. coli, without relying on homology-directed repair templates.
+- Templated editing assays in S. cerevisiae to introduce desired base substitutions via HDR using a 6-bp substitution template flanked by homology arms and sgRNAs (T or NT).
+- Base mutation assays in S. cerevisiae and Nicotiana benthamiana plants, where ADP-ribosylation at targeted thymine bases results in increased base mutations during replication.
+- RNA interference experiments to knock down target genes (TARG1) for assessing the impact of edited alleles on cellular phenotypes.
+
+The authors also show that ADPr-TAE can be used with various Cas9 variants and guide RNAs, enabling precise targeting of specific genomic loci across different organisms. The method was found to have low off-target effects when compared to traditional CRISPR-Cas9 techniques.
+
+In summary, the ADPr-TAE approach offers a novel strategy for targeted adenine base editing without relying on DSBs, potentially reducing off-target effects and enabling more precise genome modifications across diverse organisms.
+
+
+### s41589-025-02026-8
+
+Title: Enhancing RNA Base Editing on Mammalian Transcripts with Small Nuclear RNAs
+
+The study published in Nature Chemical Biology explores the use of endogenous small nuclear RNAs (snRNAs) to enhance RNA base editing, specifically adenosine-to-inosine (A>I) and uridine-to-pseudouridine (U>Ψ), compared to existing technologies in human cells.
+
+1. **Background**: The research aims to improve minimally invasive gene-editing techniques for treating genetic diseases, particularly those caused by premature termination codons (PTCs) due to single-nucleotide substitutions. Existing strategies include splice-switching antisense oligonucleotides and small molecules, engineered suppressor tRNAs, and programmable guided RNA scaffolds that recruit endogenous proteins like adenosine deaminase acting on RNA (ADAR).
+
+2. **U snRNA as a Nucleoplasm Localization Signal**: The authors hypothesize that optimal subcellular localization of guided RNA scaffolds can enhance the ability of endogenous protein machinery to perform base editing on target coding RNA transcripts. They selected components of endogenous Uridine-rich small nuclear RNAs (U snRNAs), which recruit protein complexes for pre-mRNA processing into mature mRNA, as a putative RNA nucleoplasm localization signal.
+
+3. **A>I editing with engineered U snRNAs**: The researchers tested two types of U snRNAs—U1 and U7smOPT—with circularized ADAR-recruiting RNAs (cadRNAs) as a benchmark for A>I editing performance at seven endogenous loci. U1 snRNA showed consistently lower performance, while U7smOPT snRNA outperformed cadRNA on genes with higher exon counts, indicating that gene size might be an essential factor in the efficiency of A>I editing by U7smOPT snRNAs.
+
+4. **Off-target genetic perturbations**: The study revealed that U7smOPT snRNAs produced fewer genetic perturbations (~4-8-fold) than cadRNAs, in both upregulated and downregulated genes. Pathway analysis suggested that structured, stable cadRNAs may trigger an innate immune response and act as templates for homologous recombination, potentially causing cellular issues.
+
+5. **Nuclear RNA base editing with A>I snRNAs**: The authors discovered that U7smOPT snRNAs localize more persistently to the nucleus compared to cadRNAs, which are actively exported to the cytosol. This localization advantage might explain why U7smOPT snRNAs performed better on high exon count gene mRNAs that persist longer in the nucleus before nuclear export.
+
+6. **Enhanced pseudouridylation efficiency with U>Ψ snRNAs**: The researchers hypothesized that more nucleoplasmic localization of programmable guided H/ACA box snoRNAs through fusion to a U7smOPT snRNA backbone would improve U>Ψ editing on coding RNAs. A cotransfection experiment in HEK293T cells confirmed the enhanced efficiency of CFTR W1282X PTC readthrough using this approach.
+
+In conclusion, the study presents U7smOPT snRNAs as a promising tool for enhancing RNA base editing on mammalian transcripts, offering improved A>I and U>Ψ editing efficiency and reduced off-target genetic perturbations compared to existing technologies like cadRNAs. These findings pave the way for better gene therapies targeting genetic diseases caused by PTCs.
+
+
+Title: Enhanced Pseudouridylation by U7smOPT snRNAs for Premature Termination Codon Suppression in Cystic Fibrosis Model
+
+Summary: This study explores the use of engineered small nuclear RNAs (snRNAs) called U7smOPT to increase pseudouridylation rates and suppress premature termination codons (PTCs) in human cells, specifically targeting cystic fibrosis. The research demonstrates that these U7smOPT snRNAs outperform traditional snoRNAs in both pseudouridylation efficiency and PTC suppression.
+
+Key Findings:
+1. Design: Researchers engineered a novel RNA structure called U7smOPT snRNA, fusing a guided H/ACA box snoRNA to an RNA linker and U7smOPT backbone. They tested this design's effectiveness in pseudouridylation and PTC suppression using dual-luciferase reporter assays in HEK293T cells.
+
+2. Superior Performance: The engineered U7smOPT snRNAs significantly outperformed traditional snoRNAs without the linker or tail, as well as a U6 promoter-driven CFTR guide H/ACA box snoRNA (p < 0.00001). This improvement was seen in pseudouridylation rates and PTC suppression of the CFTRW1282X mutant.
+
+3. Endogenous mRNA Targeting: The study also evaluated U7smOPT snRNAs' ability to target endogenous mRNA sequences from three human genes (EEF2, RPS6, and ACTB). Here, they found that U7smOPT snRNAs significantly outperformed snoRNAs in pseudouridylation (p < 0.05 and ***P < 0.001).
+
+4. Nonsense Mutation Rescue: The researchers tested the effectiveness of U7smOPT snRNAs in rescuing nonsense mutations in a human bronchial epithelial cystic fibrosis model (16HBE14o− cells with CFTRW1282X mutation). They found that treatment with CFTR-targeting U7smOPT snRNA increased CFTR expression ~2-fold, while the equivalent transgene expression level of CFTR-targeting snoRNA did not achieve discernible NMD rescue.
+
+5. Hypothesized Mechanisms: Although the exact mechanism is unclear, it is hypothesized that U7smOPT snRNAs enhance pseudouridylation activity through a balance of greater construct stability and possibly undetermined subnuclear localization and effector recruitment. The (c)8 and (g)8 linkers might stabilize the expanded RNA scaffold by forming an endoribonuclease-resistant secondary structure, preventing 3′-end processing of H/ACA box snoRNA.
+
+Conclusion: This study presents a novel approach using U7smOPT snRNAs to increase pseudouridylation rates and suppress PTCs in human cells. The findings suggest that these engineered RNA structures could potentially be utilized for targeted therapies of PTC-related diseases, including cystic fibrosis, with improved safety and efficacy over existing strategies. Future research will focus on understanding the underlying molecular mechanisms contributing to U7smOPT snRNAs' enhanced performance.
+
+
+The article from Nature Chemical Biology (doi: 10.1038/s41589-025-02026-8) explores the use of small nucleolar RNAs (snRNAs) for targeted RNA modifications, specifically adenosine to inosine (A>I) editing and uridine to pseudouridine (U>Ψ) modification.
+
+1. **A>I SnRNA Promoter/Terminator Cassette Comparison:** 
+
+   The study compares the performance of A>I snRNAs driven by either a U7 or U1 snRNA promoter/terminator cassette in editing three different genes (RAB7A, GAPDH, and TARDBP). The results, presented in Extended Data Fig. 3, show that the U1 cassette outperforms the U7 cassette for all three genes (p<0.01, one-way ANOVA). 
+
+2. **U>Ψ SnRNA for Endogenous Targeted Pseudouridylation:**
+
+   This section introduces a technique called BID-Seq and targeted amplicon CMC sequencing to evaluate endogenous targeted pseudouridylation. 
+
+   - **BID-Seq** is used on synthetic RNA standards to validate the method (Extended Data Fig. 4b). It's shown to accurately differentiate between uridine (U) and pseudouridine (Ψ).
+   
+   - The study then applies this technique to evaluate the performance of guided U>Ψ snRNAs versus H/ACA box snoRNA on a CFTR reporter locus. Results in Extended Data Fig. 4c indicate that U>Ψ snRNAs, particularly those with (c)8 linkers, outperform H/ACA box snoRNA (p<0.001, one-way ANOVA with Bonferroni correction).
+
+3. **Mechanism of Enhanced Pseudouridylation by U>Ψ SnRNAs:**
+
+   Extended Data Fig. 5 investigates the mechanism behind the enhanced pseudouridylation observed with U>Ψ snRNAs.
+
+   - **Rolling Circle Amplification (RCA) FISH** is used to quantify the number of rolony structures per cell, their distance from the nucleus or nucleolus, and their nucleolar-to-cellular ratio for EEF2-targeting H/ACA box snoRNA and U>Ψ snRNAs. The figures suggest that U>Ψ snRNAs produce more rolony structures closer to the nucleolus (Extended Data Fig. 5a).
+
+   - **Guide-specific qPCR** is used to quantify the expression levels of different RNA constructs (H/ACA box snoRNA, U>Ψ snRNAs targeting CFTR, ACTB, EEF2, and RPS6). The results show that U>Ψ snRNAs are expressed at similar or higher levels than H/ACA box snoRNA for all tested genes (Extended Data Fig. 5b), suggesting the increased pseudouridylation might be due to improved localization or binding efficiency rather than expression level.
+
+In summary, this research introduces a new tool for targeted RNA modifications - snRNAs, demonstrating their superior performance over traditional snoRNA for A>I editing and revealing their potential for enhanced U>Ψ pseudouridylation. The study also presents novel methods (BID-Seq and RCA FISH) to evaluate these RNA modifications at an endogenous level.
+
+

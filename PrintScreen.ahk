@@ -1036,10 +1036,6 @@ return
 
 ::talll::%s/\(^\|[.!?] \)\zs\w/\u&/g  ;; capitalize first letter of each sentence
 
-;; remap calculator key  to backspace;;
-
-SC121::BS
-
 ;; News Curator ;; Haplopraxis/IFM
 ::curate-news::awk 'NR==FNR { exclude[$0]; next } !($0 in exclude)' global-deletions.txt Overloaded-watchlist.txt > Wikipedia-watchlist.txt
 

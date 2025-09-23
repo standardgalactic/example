@@ -1,0 +1,360 @@
+### 2502.15425v4
+
+Title: TAG: TAME Agent Framework for Decentralized Hierarchical Multi-Agent Reinforcement Learning
+
+Summary:
+
+TAG (TAME Agent Framework) is a novel decentralized framework designed for constructing hierarchical multi-agent systems. The main goal of this framework is to address the limitations of current AI systems, which often rely on monolithic architectures that limit adaptability and scalability in complex tasks involving multiple agents. TAG enables hierarchies of arbitrary depth through a novel LevelEnv abstraction, standardizing information flow between levels while preserving loose coupling, thus allowing for seamless integration of diverse agent types.
+
+Key Innovations:
+1. **LevelEnv Abstraction**: This is the core innovation of TAG. Each level of the hierarchy is abstracted as an environment for the agents above it. Agents perceive and interact only with the level directly below, observing state representations, influencing actions, and receiving rewards based on lower-level performance.
+
+2. **Flexible Communication Protocol**: This protocol enables coordination without centralized control, allowing agents to exchange information effectively across levels. 
+
+3. **Support for Heterogeneous Agents**: TAG can accommodate different learning algorithms for various levels of the hierarchy, enhancing its flexibility and scalability.
+
+TAG's design improves learning efficiency by naturally decomposing tasks across multiple scales while maintaining scalability through loose coupling between levels. The effectiveness of this framework is demonstrated through empirical validation on standard multi-agent reinforcement learning benchmarks. Experiments show improved sample efficiency and final performance compared to flat and shallow multi-agent baselines.
+
+The TAG framework consists of L ordered levels, each containing Nl parallel agents. Each agent interacts with its subordinate agents from the lower level, shaping their observation space through actions rather than directly controlling them. This design allows higher levels to guide lower levels toward desired behaviors without specifying exact goals, similar to biological systems' coordination across scales.
+
+The learning process in TAG involves each agent learning two functions: a policy for generating actions and a communication function for generating messages and rewards. The modular design of the framework allows agents at each level to learn independently using appropriate algorithms for their specific roles. This flexibility accommodates various learning approaches, from simple Q-learning to sophisticated policy gradient methods.
+
+The TAG framework's architecture enables scaling to arbitrary depths while maintaining computational efficiency through loose coupling between levels and standardized interfaces implemented via the LevelEnv abstraction. The study of how agents learn to communicate effectively within the hierarchy represents a crucial direction for future research, as it could significantly enhance coordination efficiency and system performance.
+
+The TAG framework's potential applications extend beyond pure reinforcement learning, influencing the design of other complex systems like robotic swarms or distributed computing architectures. Its principles of loose coupling between levels and standardized information flow can also contribute to human-AI collaboration scenarios where artificial agents must coordinate with human operators across multiple levels of abstraction.
+
+
+### 2505.20759v2
+
+The paper presents PLUM (Pixel Language Modeling for Understanding), a system designed to perform explanatory part segmentation tasks using large language models (LLMs). The main contributions of the paper are as follows:
+
+1. **Model Architecture**: PLUM combines an LLM with a vision transformer (ViT) based mask decoder and introduces additional components like a bidirectional BIO encoder and Temporal Mask Pooler for mask feedback loop. These modules enable the model to generate accurate part segmentations and understand the relationships between parts and objects.
+
+2. **Data Construction**: The authors introduce PARTONOMY, a large-scale dataset containing 74,500 images with 606 object categories and 975 unique part types. Each object category has an average of 1.6 unique parts. The dataset is constructed by defining a hierarchical ontology of objects and parts, using existing datasets (Pascal Part, PartImageNet, PACO) to expand the diversity of tasks.
+
+3. **Training**: PLUM is trained in two stages: Stage-0 mixes four publicly available multi-task corpora for 25 epochs, followed by optional fine-tuning on PARTONOMY splits for an additional 4 epochs. The training uses DeepSpeed ZeRO-2 with bf16 precision and AdamW optimizer with a peak learning rate of 3 × 10^-4.
+
+4. **Evaluation**: PLUM is evaluated in two facets: pixel-level mask prediction and multiple choice answer selection. For the former, the model's performance on part segmentation is assessed using ground-truth annotations. The latter evaluates the model's ability to correctly identify parts based on given question types (Difference, Intersection, Positive Seg., Negative Seg., Whole2Part, Part2Whole).
+
+5. **Results**: PLUM outperforms other state-of-the-art models in explanatory part segmentation tasks, demonstrating strong generalization capabilities even without additional segmentation data during pre-training. After fine-tuning on the PARTONOMY dataset, PLUM achieves significant improvements across all metrics on three public, large-scale part-segmentation benchmarks (PACO_LVIS, PartImageNet, and PascalParts). The model's robustness to open-vocabulary shift is highlighted, as it performs well even on datasets with long-tailed distributions and heavy occlusions.
+
+In summary, PLUM is a novel approach to explanatory part segmentation that leverages large language models and additional components like bidirectional encoders and Temporal Mask Poolers for mask feedback loop. The paper introduces the PARTONOMY dataset, which contains 74,500 images with 606 object categories and 975 unique part types, and demonstrates PLUM's superior performance in explanatory part segmentation tasks compared to existing models.
+
+
+### 2506.08599v2
+
+The paper titled "Geometric Hyperscanning of Affect under Active Inference" proposes a theoretical framework for understanding how affect emerges in social interactions within the context of second-person neuroscience and active inference. The authors argue that social cognition should be viewed as embodied meaning co-regulation through reciprocal interaction, which they model using coupled active inference with affect arising from inference over identity-relevant surprise.
+
+Key Components:
+1. **Self-Model Maintenance**: Each agent in a dyad maintains a self-model that tracks violations (prediction errors) between expected and actual outcomes, particularly those relevant to their identity.
+2. **Valence Calculation**: Valence is computed as a weighted function of self-model prediction error and self-relevance, modulated by prior affective states and temporal aiming - an agent's orientation towards past and future affective states. This allows for shifts in the self-other boundary and emergence of affect at both individual and dyadic levels.
+3. **Geometric Hyperscanning**: The authors introduce a novel method, geometric hyperscanning based on Forman-Ricci curvature (FRc), to empirically operationalize these processes. This method tracks topological reconfigurations in inter-brain networks and uses its entropy as a proxy for affective phase transitions such as rupture, co-regulation, and re-attunement.
+
+Theoretical Framework:
+1. **Active Inference**: The authors build upon the active inference framework where agents minimize variational free energy to maintain a coherent embodied model of the world and their role within it. In dyadic settings, this involves predicting not only external states but also others' inferred generative models.
+2. **Second-Person Neuroscience**: This perspective emphasizes social understanding as constituted through real-time mutual engagement rather than detached observation. It views the dyad as a generative system in its own right, where action and perception are jointly coordinated within a shared generative manifold.
+3. **Recursive Affective Inference**: Within this dyadic active inference framework, affect is conceptualized as dynamic regulatory processes guiding cognition and behavior based on the integrity and coherence of an agent's predictive self-model. Emotional valence signals alignment or mismatch between predicted and observed outcomes relevant to identity and social expectations.
+
+Geometric Hyperscanning:
+1. **Forman-Ricci Curvature (FRc)**: The authors propose using FRc as a geometric measure of network topology changes, specifically designed to capture phase transitions in inter-brain network structure. It quantifies local expansion or contraction of topological flow within a network and has been shown to characterize network robustness, signal routing, and functional reorganization.
+2. **Entropy Calculation**: To track the evolution of inter-brain topology over time, the authors propose calculating the entropy of the FRc distribution within a sliding window. This scalar quantity acts as a proxy for interactional volatility, with peaks or discontinuities in FRc entropy corresponding to phase transitions (affective rupture, repair, or co-regulation dynamics).
+3. **Operationalization**: The paper suggests a multi-level operationalization of rupture, repair, and reattunement, linking neural signatures with behavioral and psychological indicators. This involves annotating these phases within the recursive generative model, allowing for real-time inference over dynamic interpersonal states and fine-grained adaptation to moment-by-moment shifts in relational coherence.
+
+Implications:
+1. **Relational Meaning**: The approach reframes affect as a primary regulatory signal that modulates the stability and flexibility of generative coupling itself, serving as a felt sense of coherence or incoherence within dyadic narratives.
+2. **Network Structure**: By focusing on inter-brain network topology rather than mere synchrony, it aligns with a broader movement in second-person neuroscience towards characterizing the structure of interaction.
+3. **Interpersonalized Psychiatry**: The methodology offers potential for sociomarkers that can track attunement, rupture, and repair in psychotherapy contexts, contributing to personalized and interpersonalized mental health care models.
+
+
+### 2509.09307v1
+
+The provided text is a research paper discussing the development of a benchmark dataset, MatCha, for evaluating large language models (LLMs) in the field of materials science characterization. The dataset consists of sub-tasks categorized into four stages: Processing Correlation, Morphology Analysis, Structure Analysis, and Property Analysis. Each stage contains specific tasks designed to cover common challenges and characterization techniques used in materials science.
+
+The dataset is sourced from various journals, including Communications Earth & Environment, Communications Materials, Light: Science & Applications, NPG Asia Materials, Nature Biotechnology, Nature Communications, Nature Materials, Nature Photonics, Nature Synthesis, Polymer Journal, Scientific Data, Scientific Reports, npj Computational Materials, and npj Heritage Science. The materials covered in the dataset are diverse, including metallic materials, inorganic non-metallic materials, composite materials, and organic polymer materials.
+
+The paper also discusses experiments conducted to evaluate the performance of LLMs on MatCha. These experiments include zero-shot, few-shot, and Chain-of-Thought (CoT) prompting settings. In the no-image ablation study, the contribution of visual information to model performance was investigated, revealing that LLMs significantly rely on visual input for accurate answers.
+
+The results show that while some proprietary models like LlaMA-4-Maverick and Gemini-1.5-Pro performed well across various stages and sub-tasks, others struggled with specific areas such as Defect Type Classification (DTC) in the Converted VQA and Supplementary Analysis (SMA). Open-source models like InternVL3-8B and Qwen2.5-VL-7B also showed varying levels of performance across different stages and sub-tasks.
+
+The paper concludes by suggesting Retrieval-Augmented Generation (RAG) as a potential solution to improve LLM performance in materials science characterization. RAG allows models to access external knowledge bases dynamically, which could supplement the specialized domain knowledge currently lacking in LLMs. The authors propose that MatCha serves as an ideal testbed for evaluating future multimodal RAG systems in materials science.
+
+
+The provided text contains performance results for various models on the MatCha dataset, a benchmark for visual question answering (VQA) in materials science. The models are categorized as either proprietary or open-source, and their performance is evaluated across different numbers of shots (samples used for training): 2, 4, 8, and 16, as well as with the "CoT" (Chain-of-Thought) approach.
+
+For each model, several VQA tasks are presented, including Generated VQA, Converted VQA, and MatCha (Material Characterization), along with subcategories such as Physical and Chemical Properties Inference, Crystallographic Data Inference, Surface Microstructure Assessment, Material Morphology and Composition Uniformity Assessment, Mechanical Properties Analysis, and Characterization Technique Identification.
+
+The results are presented in tables, with each table containing different shot numbers:
+
+1. **2-shot results** (Table 4):
+   - LLaVA-1.5-7B and LLaVA-1.5-13B from Liu et al., 2024 show relatively low performance across all categories.
+   - Janus-Pro-7B from Chen et al., 2025 has better results, especially in Generated VQA and Converted VQA tasks.
+   - Gemma-3-4b-it from Team et al., 2025 also demonstrates competitive performance across various categories.
+
+2. **4-shot results** (Table 5):
+   - LLaVA models still show low performance in all categories, while other proprietary and open-source models have better outcomes.
+
+3. **8-shot results** (Table 6):
+   - LLaVA models continue to underperform across the board.
+   - Gemma-3-4b-it from Team et al., 2025 shows improved performance compared to lower shot numbers, with strong results in Generated VQA and Converted VQA tasks.
+
+4. **16-shot results** (Table 7):
+   - LLaVA models maintain their poor performance, while other models show mixed results, with some open-source models outperforming proprietary ones.
+
+5. **CoT results** (Table 8):
+   - LLaVA models demonstrate the poorest performance among all models under this setting.
+   - Gemma-3-4b-it from Team et al., 2025 has relatively strong outcomes in Generated VQA and Converted VQA tasks.
+
+In summary, while some proprietary and open-source models show competitive results across various MatCha categories, LLaVA models (LLaVA-1.5-7B and LLaVA-1.5-13B) consistently underperform in all evaluated settings. This suggests that there might be room for improvement in the LLaVA model architecture or training methodology to better tackle materials science VQA tasks.
+
+
+### 2509.14252v1
+
+Title: LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures
+
+Authors: Hai Huang (Atlassian), Yann LeCun (NYU), Randall Balestriero (Brown University)
+
+Abstract: This paper introduces a novel training objective for Large Language Models (LLMs) called LLM-JEPA, which is based on Joint Embedding Predictive Architectures (JEPAs). The authors argue that, while JEPAs have been successful in vision tasks, their application to language models remains challenging. They propose LLM-JEPA as a first step towards incorporating JEPA principles into LLMs, which they claim can improve representation quality and abstract prompt understanding.
+
+Key Contributions:
+1. A novel JEPA-based training objective for LLMs that operates in the embedding space and utilizes different views of the same underlying knowledge (e.g., text and code).
+2. Empirical validation showing improvements over standard LLM finetuning solutions across various models, datasets, and sizes.
+3. Exploration of pretraining scenarios with encouraging results, demonstrating the potential for LLM-JEPA in both finetuning and pretraining phases.
+
+Background: Large Language Models (LLMs) are predominantly trained using reconstruction-based methods, which have been successful but may introduce biases. In contrast, Joint Embedding Predictive Architectures (JEPAs) learn representations by ensuring predictability between different views of the same knowledge without input-space collapse.
+
+Methodology: The LLM-JEPA objective is constructed as a combination of two terms:
+1. LLLM (the standard LLM objective), which maintains generative capabilities, and
+2. A JEPA term that improves abstraction capabilities by comparing the predictions of an encoder for Text and Code embeddings.
+
+The authors propose using a predictor network with tied weights and an auto-regressive nature to produce Pred(·) at the final embedding layer. The metric used to compare embeddings is cosine similarity, which is widely accepted in vision. Two additional forward passes are employed to obtain Enc(Text) and Enc(Code), introducing computational costs during training but not inference.
+
+Results: Empirical validation demonstrates that LLM-JEPA improves finetuning performance across multiple pretrained models (Llama-3.2-1B-Instruct, gemma-2-2b-it, OpenELM-1_1B-Instruct, and OLMo-2-0425-1B-Instruct) on various datasets (NL-RX-SYNTH, NL-RX-TURK, GSM8K, Spider, RottenTomatoes). The improvements are observed in accuracy, training time, and size.
+
+Additionally, LLM-JEPA shows promise for pretraining: pretraining Llama-3.2-1B-Instruct on NL-RX-SYNTH dataset with JEPA loss results in better representation quality, as evidenced by downstream finetuning performance improvements.
+
+Conclusion and Future Work: This paper introduces LLM-JEPA, a novel training objective for LLMs based on JEPAs, which maintains generative capabilities while improving abstract prompt understanding. Preliminary pretraining experiments are promising, but the main limitation is the computational cost of obtaining representations from different views during training. The authors plan to explore solutions to mitigate this issue in future work.
+
+References: This paper references various works on LLMs, JEPAs, and related topics in natural language processing, computer vision, and machine learning.
+
+
+### 2509.15185v1
+
+Title: Understanding Before You Generate: Self-Guided Training for Autoregressive Image Generation
+
+Authors: Xiaoyu Yue, Zidong Wang, Yuqing Wang, Wenlong Zhang, Xihui Liu, Wanli Ouyang, and Lei Bai
+
+Affiliations: Shanghai AI Laboratory, University of Sydney, Chinese University of Hong Kong, University of Hong Kong
+
+Abstract:
+This research paper investigates the mechanisms of applying the next-token prediction paradigm from natural language processing (NLP) to image generation using autoregressive models. The authors identify three key challenges in learning high-level visual semantics within these models and propose a novel training framework, Self-guided Training for AutoRegressive models (ST-AR), to address them.
+
+Key Findings:
+1. Local and conditional dependence: Autoregressive image generation models primarily rely on local and conditional information, as demonstrated by strong attention weights assigned to initial steps and spatially adjacent tokens in the attention maps. This limitation restricts their ability to capture broader contextual information for high-quality image generation.
+2. Inter-step semantic inconsistency: The model's linear probing results show inconsistent semantic information across different timesteps, with accuracy increasing initially but then declining as generation proceeds. This issue implies that the autoregressive models fail to maintain previously learned semantic information effectively throughout the generation process.
+3. Spatial invariance deficiency: Autoregressive image generation models employ visual tokenizers (e.g., VQ-GAN) that can produce different tokens for slightly perturbed image inputs, creating ambiguity and making it difficult for the model to encode visual signals.
+
+ST-AR Framework:
+The authors introduce ST-AR as a training paradigm that integrates self-supervised techniques into next-token prediction to enhance image understanding in autoregressive models. It includes three main components to address the identified challenges:
+1. Masked Image Modeling (MIM): Randomly masking a portion of tokens in attention maps within transformer layers, inspired by masked language modeling from NLP. This technique expands the effective receptive field of image encoding models and helps autoregressive models capture more contextual information.
+2. Inter-step contrastive loss: Ensuring semantic consistency across different timesteps during the generation process using a contrastive learning approach. This is achieved by comparing features extracted from student and teacher networks at randomly chosen positions along the sequence length.
+3. Inter-view contrastive loss: Enforcing semantic consistency between different augmented views of images for the same model, thereby addressing the spatial invariance deficiency issue.
+
+Results:
+Training autoregressive models using ST-AR significantly enhances their image understanding ability without relying on pre-trained representation models. This improvement leads to better generation quality as well. For instance, LlamaGen-L and LlamaGen-XL demonstrate approximately 42% and 49% FID improvements, respectively, when trained with ST-AR for just 50 epochs. These results are comparable to LlamaGen-3B models that have about four times more parameters and were trained for 300 epochs.
+
+Conclusion:
+This work presents a novel training paradigm, Self-guided Training for AutoRegressive models (ST-AR), to address the challenges faced by autoregressive image generation models in learning high-level visual representations. By incorporating masked image modeling and contrastive learning techniques into next-token prediction, ST-AR significantly enhances image understanding while maintaining an autoregressive sampling strategy. This framework holds promise for improving image generation quality across various modalities.
+
+
+### Bonici_2025_J._Cosmol._Astropart._Phys._2025_044
+
+Title: Efficient and Auto-differentiable CMB Power Spectra Emulation with Capse.jl
+
+Summary:
+This research introduces Capse.jl, an open-source software package developed for fast and accurate emulation of Cosmic Microwave Background (CMB) power spectra using Julia programming language. The primary goal is to enable efficient cosmological parameter inference, particularly in the context of modified gravity models and massive neutrino cosmologies.
+
+Capse.jl utilizes automatic differentiation techniques to achieve high precision and computational efficiency, bypassing traditional interpolation methods that can suffer from loss of accuracy or increased computational costs when evaluating derivatives. This software is designed to be user-friendly, allowing researchers with limited programming expertise to employ it in their cosmological analyses.
+
+Key features of Capse.jl include:
+1. Auto-differentiable emulator for CMB power spectra using the effective field theory (EFT) of large scale structures.
+2. High precision and computational efficiency, leveraging Julia's built-in support for automatic differentiation.
+3. Compatibility with Bayesian inference frameworks like Turing.jl, enabling seamless integration into existing workflows.
+4. Flexible configuration options to accommodate various cosmological models, including modified gravity theories and massive neutrino scenarios.
+5. Open-source nature that promotes collaboration and community contributions for further development and improvements.
+
+Applications of Capse.jl extend beyond mere emulation; it also aids in probing model parameter constraints, studying theoretical uncertainties, and assessing the impact of systematic effects on cosmological inference. Additionally, its auto-differentiable nature facilitates gradient-based optimization routines crucial for efficient Bayesian sampling methods like Hamiltonian Monte Carlo (HMC) and No-U-Turn Sampler (NUTS).
+
+The software's development team consists of researchers specializing in cosmology, computational physics, and programming. They have tested Capse.jl against various benchmarks and found it to be reliable, accurate, and highly competitive compared with other state-of-the-art emulation methods. By making this tool publicly available, the authors aim to foster a collaborative environment for pushing the boundaries of cosmological parameter estimation and promoting new discoveries in cosmology and astrophysics.
+
+
+### Machine-Vision-How-Algorithms-are-Changing-the-Way-We-See-the-World
+
+The text discusses the evolution of machine vision technologies, focusing on photography and high-speed photography. It begins by explaining how linear perspective, developed during the Renaissance, allowed for more accurate visual representations of three-dimensional spaces on two-dimensional surfaces. This technique was crucial in the development of technical drawings and later, photography.
+
+Photography, invented in the early 19th century, encoded linear perspective into its hardware, making it a significant step in machine vision technology. The process of capturing images on film without manual calculations became more accessible over time, leading to the popularization of photography worldwide. However, the spread of cameras also facilitated the dissemination of colonialist and racist visual stereotypes.
+
+The text highlights the role of physiognomy, the belief that physical features reflect intelligence and personality, in early photography. This idea influenced the development of facial recognition systems, which can perpetuate outdated notions about race. An example is forensic DNA phenotyping, where a DNA sample generates a photorealistic image based on 'normal' facial structures for a given gender and race, often reinforcing racial stereotypes.
+
+High-speed photography, pioneered by Eadweard Muybridge in the late 19th century, allowed humans to perceive motion beyond their natural visual capabilities. Initially used to capture the 'beauty of movement' in horses for Governor Stanford, high-speed photography eventually became a standard method for scientific observation of rapid or slow processes that are imperceptible to the human eye. This technology paved the way for cinema and time-lapse videos, enabling humans to study phenomena in greater detail and expanding our understanding of the world.
+
+
+The text discusses the controversy surrounding the implementation of surveillance cameras in Oak Park, a suburb of Chicago, Illinois. The debate was sparked by a shootout on November 7, 2021, which was captured on a neighbor's Ring doorbell camera. This event heightened fears about crime and safety in the community.
+
+In response to these concerns, Flock Safety, a company specializing in automated license plate readers (ALPR), proposed installing their cameras in Oak Park. These cameras would not only capture license plate numbers but also use image recognition and machine learning for various purposes, such as identifying suspicious vehicles or sounds like gunshots.
+
+The proposal was met with resistance from some residents due to concerns about privacy, potential racial bias, and the lack of evidence that surveillance cameras effectively reduce crime. Critics argued that ALPRs could disproportionately target black residents, contributing to a history of discrimination in Oak Park and surrounding areas.
+
+Oak Park's history plays a significant role in understanding this controversy. The town has a long-standing commitment to combating racism and promoting diversity. Despite these efforts, there remains a stark contrast between the predominantly white and affluent Oak Park and its neighboring communities, which are predominantly black, poor, and crime-ridden (Austin).
+
+Fear of crime is pervasive in Chicago, with violent incidents increasing since the start of the pandemic. This fear has led many residents to rely on surveillance cameras as a solution for safety concerns. However, research shows that there is no evidence that increased surveillance reduces crime effectively.
+
+In Oak Park, emotions ran high during public discussions about Flock's proposal. Supporters argued that the cameras would help solve crimes and deter potential criminals. Critics, on the other hand, emphasized concerns about privacy, racial bias, and the ineffectiveness of surveillance in reducing crime rates.
+
+The Oak Park Village Board eventually decided to install eight Flock cameras instead of the initially proposed twenty, after a heated debate that lasted several months. This decision reflected the community's complex relationship with safety, fear, and the potential consequences of implementing surveillance technology in their neighborhoods.
+
+
+The conclusion of the book "Seeing Less" by Ingrid Burrington explores three main themes: agency, trust, and algorithmic bias in relation to machine vision technologies.
+
+1. Agency: The author argues that technology does not take over human vision but shares agency with humans in assemblages. Machine vision technologies adapt differently based on their context and participating agents. This coexistence can lead to changes in human behavior and perception.
+
+2. Trust: Contrary to initial expectations, the widespread use of machine vision has increased public trust rather than decreased it. Politicians and law enforcement promote smart surveillance as a solution to institutional mistrust. Homeowners install security cameras, relying on technology to verify their safety. The author suggests that when humans lose faith in each other and institutions, they turn to technology for reassurance.
+
+3. Algorithmic Bias: Despite growing awareness of the issue, algorithmic bias remains a concern in facial recognition algorithms. Biases can stem from training datasets primarily featuring white males or from normalization processes within machine learning that amplify common patterns at the expense of diversity. The author emphasizes the need to address these biases to ensure fair and accurate representation for all individuals.
+
+Burrington concludes by highlighting the importance of viewing machine vision technologies as part of broader assemblages involving humans, technology, and other agents. She suggests that these assemblages can either foster anxiety or promote sympathy and connection, depending on their implementation. Machine vision has the potential to expand human vision beyond our natural capacities, enabling us to perceive patterns, truths, and beauty unattainable through human senses alone.
+
+The author encourages readers to think critically about the types of machine vision they want in their lives and communities and emphasizes the importance of participating in assemblages that strengthen bonds between humans and other species rather than driving them apart. She expresses her love for various aspects of machine vision, such as photography, selfie filters, and video games, while acknowledging concerns about surveillance and misuse. Ultimately, the book aims to inspire thoughtful consideration of machine vision technologies' roles in our lives without instilling undue fear or mistrust.
+
+
+The index entry "cameras" refers to various aspects of camera technology and its representation in literature, art, and science. Here are some details and explanations related to this term:
+
+1. Camera obscura: This is an optical device that projects an image of its surroundings onto a screen or surface. It was used as a drawing aid by artists like Brunelleschi and Leonardo da Vinci (39, 43). In literature, it appears in Richard Brautigan's "The Blue Marble" (185 n.35), symbolizing a broader perspective on the world.
+
+2. Apparatus cameras: This term refers to the idea that cameras are not just neutral tools but embody specific ideologies and biases (71-2). James Bridle discusses this concept in his work, highlighting how cameras can shape our understanding of reality (58-9, 136, 160, 171 n.65, 176 n.9).
+
+3. High-speed cameras: These are specialized devices capable of capturing images at extremely fast speeds, revealing details invisible to the human eye (2-3, 26, 51-2). In science fiction and art, high-speed cameras can represent enhanced perception or surveillance capabilities.
+
+4. Cameras in literature: Cameras appear as motifs in various novels and stories, often symbolizing different aspects of observation, control, and representation. For instance, Margaret Atwood's "The Handmaid's Tale" (140) features a camera-like device called the "Seeing Eye," which enforces social norms and surveillance in a dystopian society.
+
+5. Camera technology in art: Artists use cameras as subjects or mediums to explore themes related to vision, perception, and reality. For example, Adam Harvey's "CV Dazzle" (76-7) is a fashion project that uses makeup and hair to disrupt facial recognition algorithms, while Trevor Paglen's "ImageNet Roulette" (108) highlights the biases in AI image classification systems by allowing users to search for images tagged with absurd labels.
+
+6. Camera technology in games: In video games, cameras often serve as tools for players to navigate and interact with virtual worlds. For instance, in "Detroit: Become Human" (137-9), the camera can be manipulated to create different perspectives or reveal hidden information about characters' emotions and intentions.
+
+In summary, cameras play a significant role in various fields, from art and literature to science and technology. They can symbolize enhanced perception, control, or representation, and their portrayal often reflects broader societal concerns about surveillance, bias, and the nature of reality.
+
+
+Title: "Seeing Through Technology: A Multidisciplinary Exploration of Vision, Surveillance, and Representation"
+
+The book "Seeing Through Technology: A Multidisciplinary Exploration of Vision, Surveillance, and Representation" is a comprehensive exploration of various aspects related to vision, surveillance, and representation in the context of technology. The book brings together scholars from diverse fields such as media studies, cultural studies, art history, science and technology studies (STS), and critical race theory, among others.
+
+The text is organized into several interconnected themes that revolve around how technology shapes our understanding of vision, representation, surveillance, and identity. Here are some key topics discussed in the book:
+
+1. Historical perspectives on vision: The book examines historical shifts in visual technologies, from ancient lenses to contemporary digital cameras, shedding light on how these advancements have influenced our perceptions of reality and representation.
+
+2. Surveillance and its implications: The authors discuss various surveillance mechanisms, including CCTV cameras, facial recognition systems, and data-driven policing. They analyze the social, political, and ethical consequences of these technologies on communities, particularly marginalized groups who face disproportionate levels of monitoring.
+
+3. Representation and bias: The book explores how visual representations are not neutral but rather shaped by historical, cultural, and technological factors. It highlights the issue of algorithmic bias in image recognition systems, which may perpetuate racial, gender, or other stereotypes.
+
+4. Privacy concerns and data ownership: The authors examine the tension between privacy and the growing capabilities of visual technologies, including facial recognition, thermal imaging, and deepfake videos. They also raise questions about who owns and controls the vast amounts of image data collected by corporations and governments.
+
+5. Aesthetics and artistic expressions: The book incorporates perspectives from artists and media practitioners to explore how they critique, subvert, or reimagine visual technologies in their work. Examples include digital art projects, critical design interventions, and speculative fiction narratives.
+
+6. Philosophical implications: The authors engage with philosophical questions surrounding the nature of perception, agency, and identity in an increasingly visualized world. They also explore posthumanist theory and its relevance to understanding our evolving relationship with technology.
+
+7. Methodological approaches: The book showcases various research methods employed by scholars to study visual technologies critically. These include content analysis of image datasets, media ethnography, artistic practices, and philosophical inquiries.
+
+Overall, "Seeing Through Technology" offers a multifaceted exploration of how technological advancements impact our understanding of vision, representation, surveillance, and identity. By bringing together diverse perspectives from various disciplines, the book fosters interdisciplinary dialogue and critical thinking about the complex implications of visual technologies in contemporary society.
+
+
+### journal.pbio.3003215
+
+The article titled "AI-mediated translation presents two possible futures for academic publishing in a multilingual world" by Amano, Bowker, and Burton-Jones explores the potential impact of artificial intelligence (AI) on overcoming language barriers in academic publishing. The authors argue that while English has been the dominant language in scientific communication due to its widespread use and availability of resources, it poses significant challenges for non-native English speakers, including increased time and effort in writing, reviewing, and understanding research.
+
+The paper discusses two possible futures for academic publishing with AI:
+
+1. **Future 1 - Continued Dominance of English**: In this scenario, scientific papers continue to be published predominantly in English. Researchers with limited English proficiency would use AI tools to translate their work into English before submission and for reading, reviewing, and editing purposes. Although this approach would make science more accessible for non-native English speakers, it would not address the underlying issue of centralizing scientific knowledge around a single language. Key drawbacks include perpetuating inequality between fluent and non-fluent English speakers and continuing domain loss in other languages, potentially isolating science from non-scientists and reducing public trust.
+
+2. **Future 2 - Multilingual Academic Publishing**: This future envisions a world where scientific papers can be published in any language of the authors' choice, with AI tools facilitating translation for assessors (editors and reviewers) and readers. Advantages include promoting diversity in scientific languages, making science more accessible to 95% of the global population who are not native English speakers, and potentially halting domain loss for other languages. However, challenges include ensuring equal visibility and evaluation of papers across different languages, addressing potential biases introduced by AI translation inaccuracies, and adapting literature search systems to handle multilingual metadata.
+
+The authors advocate for Future 2 as the preferred option for democratizing academic publishing. They acknowledge concerns about AI translation's imperfections but emphasize that current issues with English proficiency already impact the quality of scientific communication. By embracing AI-mediated multilingual publishing, they argue it can create a more level playing field and better incorporate diverse perspectives in science.
+
+The paper concludes by urging the scientific community to start discussing how to harness AI's benefits for overcoming language barriers and moving toward making science truly multilingual. It suggests small, incremental changes like experimenting with multilingual publication in select languages as a starting point.
+
+
+### s41467-025-63748-w
+
+This research study, conducted by authors A.M., E.B., and G.S., focuses on understanding the structure and function of gephyrin, a protein crucial for maintaining glycine receptor (GlyR) clustering at inhibitory synapses. The study employs various techniques, including cryo-electron microscopy (cryo-EM), biochemistry, cell culture, and mouse models.
+
+1. Cryo-Electron Microscopy (cryo-EM): The researchers used cryo-EM to determine the high-resolution structure of gephyrin in its native state. They found that gephyrin forms a dimeric structure with a unique interface, which is essential for GlyR clustering and synaptic function. The study also revealed that gephyrin's C-terminal region (CT) plays a significant role in this process by mediating intermolecular interactions between dimers.
+2. Biochemistry: To further investigate the importance of gephyrin's CT, the authors performed biochemical assays. They found that mutations within the CT led to impaired GlyR clustering and reduced synaptic currents. This suggests that the CT is critical for gephyrin's function in organizing synapses.
+3. Cell Culture: Using primary hippocampal cultures, the researchers demonstrated that overexpressing wild-type (WT) gephyrin resulted in proper GlyR clustering and function, while mutant forms with disrupted CT regions led to abnormal GlyR organization and reduced synaptic currents. This further supports the critical role of the CT in gephyrin's function.
+4. Mouse Models: The authors employed floxed gephyrin mice, which allowed them to conditionally knock out gephyrin in specific brain regions. They found that loss of gephyrin led to reduced GlyR clustering and impaired synaptic transmission, confirming the importance of gephyrin in maintaining proper synaptic function.
+5. Phase Separation: The study also explored the role of gephyrin in phase separation, a process by which biomolecules form membraneless organelles through liquid-liquid phase transitions. The authors showed that gephyrin's CT is essential for this process, and disrupting it leads to abnormal phase behavior, further highlighting its importance in synaptic organization.
+
+In summary, this research provides new insights into the structure and function of gephyrin, particularly focusing on the critical role of its C-terminal region in maintaining proper GlyR clustering and synaptic transmission. The study employs various techniques to demonstrate that gephyrin forms a dimeric structure with unique intermolecular interactions mediated by the CT, which is essential for its function in organizing synapses. Furthermore, the research highlights the role of gephyrin in phase separation, a process critical for the formation of membraneless organelles within cells. These findings contribute to our understanding of the molecular mechanisms underlying inhibitory synapse organization and function.
+
+
+### s41587-025-02802-w
+
+The study presents a novel method called ADP-ribosylation of DNA (ADPr-TAE) for precise base editing in bacteria, yeast, and human cells. This technique employs the DarT2 toxin from EPEC bacteria, which ADP-ribosylates DNA at thymine bases, causing mispairing during replication and leading to targeted mutations. The researchers engineered a variant of DarT2 (E170A) to abolish its toxicity while preserving its ADPr activity.
+
+The authors demonstrated that ADPr-TAE can efficiently introduce base substitutions in Escherichia coli, Salmonella enterica serovar Typhimurium, and Saccharomyces cerevisiae. They showed that DarT2-mediated DNA ADP-ribosylation blocks DNA polymerases in vitro, preventing further replication and causing mutations at the targeted sites. The study also revealed that ADPr-TAE could correct genetic defects in E. coli strains lacking specific repair genes (e.g., recA, recB, recF, recT, recJ, recO, xthA, mutS, and uvrA).
+
+Furthermore, the researchers applied ADPr-TAE to human cells, demonstrating that it can efficiently convert thymine to cytosine in HeLa cells. They also engineered a DarT2 variant (DarT2-M) with improved targeting specificity for T:G mismatches and showed that it could correct pathogenic mutations in the ATM gene associated with ataxia telangiectasia.
+
+The study highlights several advantages of ADPr-TAE over existing base editing techniques, such as its ability to target T:G mismatches without causing bystander edits, its compatibility with various cell types, and its potential for creating novel therapeutic strategies against genetic diseases. However, the authors acknowledge that further optimization and validation are needed before ADPr-TAE can be widely adopted in research and clinical settings.
+
+
+The research paper presented focuses on a novel method for genome editing called ADPr-TAE (ADP-ribosylation-assisted transcription-activator-like effector nuclease). This technique uses the bacterial enzyme DarT2, which can create an ADP-ribose modification on specific DNA sequences. The researchers combined this with a nuclease-deficient Cas9 variant (nScCas9) to form a targeted editing system (DarT2D-nScCas9).
+
+The study demonstrates the efficacy of DarT2D-nScCas9 in various bacterial and yeast species, including E. coli and Saccharomyces cerevisiae. The researchers first verified that DarT2 can effectively ADP-ribosylate a specific DNA motif (5'-TCTC-3') on single-stranded DNA, which blocks DNA polymerization by the Klenow fragment of E. coli DNA Polymerase I.
+
+Subsequently, they used this DarT2D-nScCas9 system to introduce targeted nucleotide changes in the bacterial genomes of E. coli and Salmonella enterica. They achieved single-nucleotide substitutions (SNS) at predefined sites by using a DNA repair template alongside the editing components, indicating precise genome editing.
+
+Furthermore, they demonstrated that DarT2D-nScCas9 could also introduce deletions and replacements in E. coli without the need for a repair template. They confirmed these changes through Sanger sequencing of transformed colonies. 
+
+The study also explores the use of this system to edit genes in yeast (Saccharomyces cerevisiae) and human cells, highlighting its potential broad applicability across different organisms. In these experiments, they edited the FCY1 gene in S. cerevisiae both with and without a repair template, and performed base substitution assays on the EMX1, FANCF, and VEGFA genes in U2OS ΔTARG1 human cells.
+
+The researchers compared ADPr-TAE to traditional Cas9-mediated genome editing by analyzing the correlation between predicted or measured indel formation and base mutation frequencies. They found that the two methods showed distinct patterns, suggesting that ADPr-TAE may enable more precise editing with potentially fewer off-target effects.
+
+Lastly, they explored sgRNA-independent off-target editing via an orthogonal R-loop generation using dSaCas9 and demonstrated low off-target effects under non-targeting conditions.
+
+In summary, the paper introduces a novel genome editing method called ADPr-TAE, which uses DarT2 to introduce precise base modifications at predefined DNA sequences. This technique shows promise for more accurate genome editing with fewer off-target effects than traditional Cas9 methods across various organisms, including bacteria, yeast, and human cells.
+
+
+### s41589-025-02026-8
+
+This research article presents a study on the development and application of RNA-guided A-to-I base editors for precisely targeting and editing specific sites within messenger RNA (mRNA) transcripts. The authors designed and executed experiments using two types of guides, cadRNA and U7smOPT snRNA backbones, to evaluate their performance in introducing A-to-I edits into target genes RAB7A and DMD.
+
+1. **Performance comparison of U7smOPT snRNA vs cadRNA:**
+   The authors compared the efficiency of U7smOPT snRNA backbone versus cadRNA for introducing A-to-I edits in target mRNAs (Fig. 2a). They observed that both types of guides led to significant downregulation and upregulation of genes, with unique sets of perturbed pathways for each guide. Specifically:
+   - RAB7A-targeting cadRNA caused perturbations in cilium or flagellum-dependent cell motility, double-strand break repair via synthesis strand annealing, and other pathways.
+   - DMD-targeting cadRNA affected SIRT1 negatively regulating rRNA expression, Herpes simplex virus 1 infection, and axonemal dynein complex assembly among others.
+
+   In contrast, U7smOPT snRNA backbone resulted in fewer significantly perturbed pathways compared to cadRNA (Fig. 2b). This suggests that U7smOPT might be a more efficient and specific tool for introducing A-to-I edits than cadRNA.
+
+2. **A-to-I edit counts:**
+   The authors investigated the number of significant transcriptome A-to-I edits (both exonic and non-exonic) in target genes RAB7A and DMD using both guide types (Fig. 2b). They found that, for various edit fraction thresholds:
+   - RAB7A exonic sites with a threshold of 0.1, 0.25, and 0.75 showed significant differences between U7smOPT and cadRNA backbones (p < 0.05, one-way ANOVA).
+   - Similarly, DMD non-exonic sites at thresholds of 0.25 and 0.5 displayed differences in edit counts between the two guide types (p < 0.05, one-way ANOVA).
+
+3. **RNA structure analysis:**
+   The researchers also analyzed mRNA secondary structures to identify potential obstacles for RNA editing using both cadRNA and U7smOPT backbones (Extended Data Fig. 1). They found that the performance ratio of U7smOPT snRNA-to-cadRNA was correlated with gene exon count, but not significantly associated with gene length or mRNA nuclear export rate.
+
+4. **Disease modeling in cystic fibrosis:**
+   Lastly, the authors demonstrated the utility of their A-to-I editing tools by applying them to a cystic fibrosis disease model using 16HBE14o− CFTRW1282X cells (Fig. 3). They transduced these cells with lentiviruses encoding either cadRNA or U7smOPT snRNA backbones targeting the CFTR gene and observed changes in CFTR expression levels after puromycin selection. Although cadRNA-transduced cells showed elevated CFTR expression compared to controls, they also displayed increased PuroR expression (housekeeping gene used as a control), which might indicate some off-target effects or toxicity associated with the cadRNA system. On the other hand, U7smOPT snRNA backbone resulted in higher specificity and better performance for increasing CFTR levels without significant changes in PuroR expression.
+
+In conclusion, this study presents a comparison between two RNA guide systems—cadRNA and U7smOPT snRNA backbones—for A-to-I base editing of mRNA transcripts. The results suggest that the U7smOPT snRNA backbone is more efficient and specific for introducing precise edits into target genes while minimizing off-target effects, as demonstrated in a cystic fibrosis disease model. This research paves the way for future applications of RNA editing tools in various therapeutic contexts.
+
+
+This research article from Nature Chemical Biology explores the use of engineered small non-coding RNAs (snRNAs) for targeted RNA modifications, specifically adenosine-to-inosine (A>I) editing and pseudouridylation. Here's a detailed summary:
+
+1. **A>I snRNA Editing Performance**: The study compares the efficiency of A>I snRNAs driven by either U7 or U1 small nuclear RNA (snRNA) promoter/terminator cassettes in editing three different genes - RAB7A, GAPDH, and TARDBP. Results show that U1-driven A>I snRNAs exhibit a higher editing rate than those driven by the U7 promoter, as indicated by significant p-values from one-way ANOVA (p < 1e-2 for GAPDH, p = 6e-4 for TARDBP).
+
+2. **Endogenous Targeted Pseudouridylation**: The research also examines the use of guided U>Ψ snRNAs for pseudouridylation, an RNA modification where uridine is replaced by pseudouridine. This technique was tested on a CFTR reporter locus using BID-Seq and targeted amplicon CMC sequencing methods. Compared to H/ACA box snoRNA, U>Ψ snRNAs demonstrated improved pseudouridylation performance (significant p-values from one-way ANOVA with Bonferroni correction: CFTR snoRNA:(c)8 p = 1e-5, CFTR snoRNA:(g)8 p = 2e-6).
+
+3. **Mechanism of Enhanced Pseudouridylation**: To understand why U>Ψ snRNAs outperform H/ACA box snoRNAs, the authors used rolling circle amplification FISH (RCA FISH) in human U-2 OS cells to evaluate rolonies (RNA circles produced by rolling circle amplification). Results showed that U>Ψ snRNAs resulted in more rolonies per cell and a higher nucleolar-to-cellular rolony ratio, suggesting they are more effectively localized within the nucleolus where pseudouridylation occurs. Guide-specific qPCR confirmed comparable expression levels between H/ACA box snoRNA and U>Ψ snRNAs.
+
+In summary, this study demonstrates that U1 promoter-driven A>I snRNAs can achieve higher editing efficiency compared to U7, and engineered U>Ψ snRNAs offer enhanced pseudouridylation performance over traditional H/ACA box snoRNAs. These findings could have significant implications for gene therapy and RNA modification studies.
+
+

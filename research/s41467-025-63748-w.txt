@@ -1,0 +1,1586 @@
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Gephyrin ﬁlaments represent the molecular
+basis of inhibitory postsynaptic densities
+Arthur Macha1, Filip Liebsch
+1, Emanuel H. W. Bruckisch
+1, Nele Burdina1,
+Imke von Stülpnagel
+1, Konrad Benting
+1, Monika Gunkel
+1,
+Elmar Behrmann
+1
+& Guenter Schwarz
+1,2
+The multifunctional protein gephyrin clusters inhibitory receptors at the
+postsynaptic membrane in the CNS. Gephyrin has been proposed to form the
+inhibitory postsynaptic density by liquid-liquid phase separation, involving a
+complex interplay between receptor binding and oligomerization via its con-
+served G- and E-domains. Here we show by single particle cryo-EM analysis that
+dimerization promotes the formation of gephyrin ﬁlaments in which two
+E-domain dimers are linked by Z-shaped interfaces formed between two sub-
+domains II (SDII) of adjacent dimers. Deletion of SDII, introduction of two
+epilepsy-causing pathogenic variants, or neutralization of an opposing charge
+in the interface abolish the formation of ﬁlaments, in vitro phase separation,
+and synaptic receptor clustering in hippocampal neurons. In conclusion, this
+work identiﬁes gephyrin E-domain ﬁlaments as the structural foundation
+underlying gephyrin both phase separation and receptor clustering at inhibi-
+tory postsynaptic densities.
+Gephyrin (Geph) is the major scaffold protein at inhibitory synapses in
+the central nervous system (CNS)1-3. It directly interacts with the
+intracellular domains (ICDs) of the β-subunit of glycine receptors
+(GlyR) as well as with various subunits of γ-aminobutyric acid type A
+receptors (GABAARs)4-8. These interactions facilitate the incorporation
+of inhibitory receptors into the postsynaptic density (PSD), which
+involves many other interacting proteins such as tubulin, collybistin
+and neuroligin9-13. The presence of a sufﬁcient number of inhibitory
+receptors at the synaptic site is essential for efﬁcient inhibitory signal
+transmission between neurons14,15.
+Gephyrin was initially identiﬁed as a 93 kDa protein associated
+with GlyR16-18. It is comprised of an N-terminal G-domain (GephG), an
+E-domain (GephE), and a ﬂexible central linker region, referred to as
+the C-domain (GephC) (Fig. 1a)4,19,20. Structural analyses showed that
+isolated GephG forms trimers19,21, while GephE forms dimers4,20,22.
+Biochemical studies suggest that full-length Geph is a trimer, mediated
+by the central GephG trimer9,16,20. The interaction with the ICDs of
+inhibitory receptors occurs at the dimerized GephE, in which the two
+GephE subunits form two C-shaped hydrophobic binding pockets23,24.
+In vitro interaction studies using gephyrin trimer and a peptide derived
+from the ICD of the GlyR-β subunit (GlyR-loop) revealed biphasic
+binding kinetics, characterized by distinct high-afﬁnity and low-afﬁnity
+interactions with dissociation constants (KD) in the low nanomolar to
+low micromolar range4,20. The ICDs of GABAARα1, GABAARα3,
+GABAARβ2, and GABAARβ3 subunits bind to the same binding pocket
+as the GlyR-loop, but with approximately 20-50 times lower afﬁnity5,7
+Based on the distinct oligomerization properties of the G- and
+E-domains of gephyrin, a hexagonal lattice has been proposed as the
+structural basis for the inhibitory postsynaptic density22,25. While such
+an ordered lattice has neither been observed in vitro nor in vivo, a
+complex network of receptors at the synaptic cleft has been identiﬁed
+by cryo-electron tomography that appears to be supported by a thin
+electron-dense layer that would agree with a network of Geph26. Fur-
+thermore, structural and functional data revealed that localized var-
+iations in protein density of both receptors and scaffolding proteins
+can lead to the formation of highly stable nanodomains within the
+PSD27-30. On a conceptual level, liquid-liquid phase separation (LLPS)
+has been proposed as an underlying principle of gephyrin clustering
+and inhibitory synapse formation and linked to the unstructured and
+charged GephC domain based on in vitro assays31,32. However, the
+Received: 4 February 2025
+Accepted: 26 August 2025
+Check for updates
+1Institute of Biochemistry, Department of Chemistry and Biochemistry, University of Cologne, Cologne, Germany. 2Center for Molecular Medicine Cologne
+(CMMC), University of Cologne, Cologne, Germany.
+e-mail: ebehrman@uni-koeln.de; gschwarz@uni-koeln.de
+Nature Communications|        (2025) 16:8293 
+1
+1234567890():,;
+1234567890():,;
+
+b
+a
+N
+C
+GephG
+GephC
+GephE
+c
+d
+e
+f
+g
+Unindentiﬁed
+GephG + GephE
+GephE
+c1
+c2
+c3
+e1
+e2
+e3
+e4
+120 Å
+60 Å
+Unidentiﬁed
+160 A
+GephG + GephE
+GephE + GephE
+GephE
+Unidentiﬁed
+70%
+17%
+13%
+35%
+7%
+29%
+GephE dimer
+GephG trimer +
+GephE dimer
+Unindentiﬁed
+GephE dimer
+GephG trimer + GephE dimer
+GephE dimer + GephE dimer
+30%
+90
+90°
+90°
+90°
+N
+318
+341
+G375
+G375
+367
+463
+498
+654
+736
+III
+C
+I
+I
+II
+III
+IV
+GlyR-loop
+D422
+D422
+GephG
+GephE
+90°
+Fig. 1 | GlyR-loop stabilizes GephE dimerization within gephyrin trimer.
+a Gephyrin trimer domain structure overview showing G-domain (GephG), C-domain
+(GephC) and E-domain (GephE). The respective crystal structures of GephG (green,
+PDB: 1JLJ) and GephE (blue, PDB 2FU3) are shown in cartoon representation with faded
+surfaces and size indicators. A graphical representation of the full-length gephyrin
+trimer is depicted (middle panel). b Cartoon representation of isolated GephE dimer
+in complex with GlyR-loop (PDB: 2FTS), highlighting subdomain (SD) division (color
+code: SDI: red; SDII: green; SDIII: yellow; SDIV: blue) and position of GlyR-loop
+(orange). The second monomer is shown in gray. Positions of G375 and D422 in SDII
+are highlighted (magenta). c Representative 2D class averages of isolated Geph trimer
+following negative stain SPA showing GephE with GephG (c1), isolated GephE (c2) and
+undeﬁnable densities (c3). The pie chart indicates the relative distribution of particles
+throughout the 2D class averages. d Surface representation of ﬁnal map using parti-
+cles from classes with GephE + GephG (c1). GephE dimer (PDB 2FU3, blue) and GephG
+trimer (PDB: 1JLJ, green) shown in cartoon representation were rigid-body ﬁtted into
+the respective densities in the map. Scale bar: 50 Å. e Representative 2D class averages
+of isolated Geph trimer in complex with GlyR-loop after negative stain SPA showing
+GephE with GephG (e1), isolated GephE (e2), complex of two GephE dimers (e3) and
+undeﬁnable densities (e4). The pie chart indicates the relative distribution of particles
+throughout the 2D class averages. f Surface representation of ﬁnal map using particles
+from classes with GephE + GephG (e1). GephE dimer (PDB 2FU3, blue) and GephG
+trimer (PDB: 1JLJ, green) shown in cartoon representation were rigid-body ﬁtted into
+the respective densities in the map. g Surface representation of ﬁnal map using par-
+ticles from classes with GephE + GephE complex (e3). Two consecutive GephE dimers
+shown in cartoon representation (PDB 2FU3, blue) were rigid body ﬁtted into the
+respective densities in the map. Scale bar 50 Å. Cartoon bar diagrams illustrate the
+Geph constructs used in this experiment (green: GephG, gray: GephC, light green:
+SDII, red: position of amino acid substitution, orange: GlyR-loop).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+2
+
+molecular mechanism that enables Geph to self-assemble at the PSD
+remained elusive for nearly three decades, and neither the hexagonal
+lattice nor the LLPS hypothesis have been able to fully explain known
+pathogenic variants of Geph, as highlighted by GephG375D and
+GephD422N 14,33, which harbor mutations outside the known receptor and
+oligomerization sites (Fig. 1b). In addition to its function in the CNS and
+spinal cord, Geph also harbors an enzymatic function in molybdenum
+cofactor biosynthesis34-36.
+Here we elucidated a hitherto unknown molecular interface
+formed between subregions of GephE, which not only rationalizes two
+known pathogenic patient variants carrying point mutations in this
+subregion, but also allowed the rational design of a third variant again
+disrupting Geph oligomerization. Our negative stain EM data, in
+combination with functional data, revealed that the presence of the
+GlyR-loop stabilized intramolecular GephE dimerization within full-
+length Geph. Subsequent cryo-EM data of the Geph-GlyR-loop com-
+plex uncovered that Geph is able to form ﬂexible ﬁlaments, in which
+dimerized GephE domains are connected via their subdomain II (SDII).
+Geph variants either lacking SDII or carrying known pathogenic amino
+acid exchanges consistently lose ﬁlament-forming capability, are
+unable to engage in LLPS in vitro, and are deﬁcient in synapse forma-
+tion in vivo. Moreover, the structural data allowed predicting a com-
+plementary third variant showing the same kind of loss in ﬁlament
+formation and phase separation. Collectively, our structural and
+functional studies highlight Geph ﬁlament formation as an underlying
+molecular mechanism of Geph-mediated postsynaptic clustering of
+inhibitory neurotransmitter receptors.
+Results
+GlyR-loop stabilizes GephE dimerization within full-length Geph
+Given that the full-length structure of gephyrin remains unknown, we
+carried out single-particle analyses (SPA) of isolated wild-type
+gephyrin trimers (GephWT). For this, GephWT was overexpressed in E.
+coli and puriﬁed to homogeneity using afﬁnity chromatography
+combined with analytical scale size-exclusion chromatography (aSEC)
+(Supplementary Fig. 1a), and then prepared for negative stain EM.
+Micrographs showed particles of varying sizes (Supplementary Fig. 2a)
+with a high degree of heterogeneity; however, common architectural
+principles could be identiﬁed after 2D classiﬁcation (Fig. 1a, c). A subset
+of class averages, accounting for about 17% of particles, showed an
+elongated bilobed structure adjacent to a round structure. Based on
+the molecular dimensions of the GephG (PDB 1JLJ) and GephE (PDB
+1JLJ) crystal structures, these shapes likely represent a GephG trimer
+and GephE dimer, respectively (Fig 1c1). A second subset of class
+averages, accounting for about 13% of particles, showed a single
+elongated bilobed structure, likely representing a GephE dimer with-
+out a resolved GephG trimer (Fig 1c2). A third subset of class averages
+showed structures of varying shapes and sizes that could not be con-
+ﬁdently assigned to any gephyrin domain (Fig 1c3). Approximately 70%
+of all particles fell into this heterogeneous group of class averages,
+suggesting that the majority of gephyrin trimers adopted hetero-
+geneous conformations, consistent with structural ﬂexibility observed
+in previous SAXS and AFM studies20. The particle subset showing
+putative GephG and GephE densities in close proximity (Fig 1c1, green)
+was further processed in 3D (Supplementary Fig. 2b), yielding an
+intermediate-resolution negative stain EM density map that features
+two distinct, disconnected densities that were conﬁrmed as GephE and
+GephG by rigid-body ﬁtting known crystal structures (PDB 2FU3 and
+PDB 1JLJ) indicating the presence of stable GephE dimers and GephG
+trimers in our sample (Fig. 1d and Supplementary Fig. 2c). Neither
+density corresponding to the third copy of GephE nor density that
+might correspond to GephC could be identiﬁed.
+We next investigated if the addition of GlyR-loop, as a mimic for
+receptor ICD binding, affects the architecture of full-length GephWT.
+For this we added a 3-fold excess of GlyR-loop to GephWT and
+subsequently isolated the complex by aSEC before staining for nega-
+tive stain EM (Supplementary Figs. 1a and 3). Micrographs appeared
+similar to those obtained for the sample without the GlyR-loop (apo-
+Geph), showing particles of varying sizes (Supplementary Fig. 3a),
+which, after processing resulted in visually similar 2D class averages as
+before (Fig. 1e). However, in contrast to apo-Geph, the relative number
+of particles contributing to the heterogeneous group of class averages
+was decreased more than two-fold (Fig 1e1-4), implying that the pre-
+sence of the GlyR-loop reduced heterogeneity by stabilizing Geph in
+deﬁned conformations. Again, the particle subset showing GephG and
+GephE in close proximity (Fig 1e1) was further processed in 3D,
+revealing a structure composed of two distinct densities that was
+similar to the one obtained for apo-Geph (Fig. 1f and Supplementary
+Fig. 3b). However, while nominal at the same resolution and only 50%
+more particles contributed to the reconstruction, the structure was
+much better deﬁned, particularly in the GephE region (Fig. 1d, f). Still,
+stain granularity prevented the direct observation of GlyR-loop
+binding.
+Interestingly, 2D classiﬁcation revealed an additional subset of 2D
+class averages that appeared to comprise linear assemblies of two or
+more GephE dimers (Fig 1e3). We also processed this particle subset
+showing linear assemblies (Fig 1e3) in 3D, resulting in an elongated
+negative stain EM density that allowed rigid-body ﬁtting of two GephE
+dimers, which appeared to be linked via their respective SDIIs (Fig. 1g
+and Supplementary Fig. 3c).
+In conclusion, our SPA analysis of full-length Geph revealed high
+structural heterogeneity, which was decreased following the incuba-
+tion with GlyR-loop. The presence of GlyR-loop, moreover, triggered
+the formation of linear assemblies that appear to comprise two or
+more directly interacting GephE dimers.
+Full-length Geph forms ﬂexible ﬁlaments at high protein
+concentrations
+To uncover the molecular basis for the linear assemblies of Geph
+observed in negative stain EM, we investigated full-length GephWT tri-
+mers complexed with the GlyR-loop by cryo-EM. Under identical
+sample preparation conditions as used for negative stain EM, except at
+a 100-fold increased protein concentration, we obtained micrographs
+that were densely packed with particles (Supplementary Fig. 4a).
+Subsequent unsupervised 2D classiﬁcation resulted in a set of high-
+quality 2D class averages featuring distinct secondary structure ele-
+ments (Fig. 2a). While some 2D class averages were centered on the
+GephE dimer, others were centered on a Z-shaped structural feature
+connecting two GephE dimers (Fig. 2a and Supplementary Fig. 4b). 2D
+class averages centered on the GephE dimer showed weak adjacent
+density, indicating that these GephE dimers are likely incorporated
+into larger linear assemblies, or ﬁlaments, in agreement with our
+negative stain EM data (Figs. 1e3 and 2a). Therefore, we re-extracted
+these particles using a box size twice as big as before and repeated the
+unsupervised 2D classiﬁcation. The resulting 2D class averages con-
+ﬁrmed the presence of slightly curved GephE ﬁlaments comprising
+GephE dimers interconnected by a Z-shaped interface (Fig. 2a and
+Supplementary Fig. 4c). We additionally observed 2D class averages
+showing GephE dimers in close proximity to a smaller bilobed density,
+which could be identiﬁed as a side view of the GephG trimer based on
+in silico 2D back-projections of the GephG crystal structure (Fig. 2a, b).
+However, subsequent 3D reconstruction of the GephE ﬁlament failed
+due to the crowdedness of these grids and a high degree of pre-
+ferential orientation of the particles (Supplementary Fig. 4d).
+Given that Geph complexed with the GlyR-loop eluted in SEC
+homogeneously at the expected elution volume of the trimeric Geph-
+GlyR complex (Supplementary Fig. 1a), we concluded that the
+observed GephE ﬁlaments must have been formed during the cryo-EM
+sample grid preparation. As the vitriﬁcation process itself has been
+shown to only minimally affect the sample, especially with regard to
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+3
+
+processes on the time-scale of protein oligomerisation37, we hypo-
+thesize that the blotting step might have induced the oligomerisation
+process, possibly due to a rapid increase in local protein concentration
+as observed for other proteins38.
+Because in our negative staining SPA elongated assemblies of
+GephE dimers were only observed when Geph was complexed with the
+GlyR-loop, but not for apo-Geph, we also prepared cryo-EM samples in
+the absence of the GlyR-loop. Resulting micrographs were of com-
+parable quality, also showing densely packed particles (Supplementary
+Fig. 5a). Interestingly, despite the absence of the GlyR-loop, data pro-
+cessing revealed 2D class averages that were similar to those observed
+in the presence of the GlyR-loop, showing GephE ﬁlaments alone or in
+a
+b
+c
+d
+e
+90°
+90°
+GephG
+GephG
+GephG
+Box 512 px
+Box 256 px
+Box 512 px
+Box 256 px
+Z-interface
+Z-interface
+GephE
+GephE
+GephE ﬁlament
+SDII
+SDII
+Fig. 2 | Cryo-EM SPA of gephyrin reveals formation of ﬁlaments facilitated by
+GephE SDII interactions. a Representative micrograph (scale bar 100 nm) of Geph
+trimer in complex with GlyR-loop with representative 2D class averages depicting
+GephG and GephE incorporated into ﬁlaments through a Z-shaped interface
+(arrow). Densities corresponding to GephE and GephG are highlighted in the 2D
+class average pictures, respectively (arrow). b Representative 2D back-projections
+of GephG (PDB:1JLJ) and GephE (PDB 2FU3).c Representative micrograph (scale bar
+100 nm) with GephE in complex with GlyR-loop with representative 2D class
+averages depicting GephE incorporated into ﬁlaments through a Z-shapedinterface
+(arrow). d Surface representation of cryo-EM map of GephE dimer inserted into
+ﬁlaments with highlighted SDI (red), SDII (dark green), SDIII (yellow), SDIV (blue)
+from one GephE monomer and SDII from adjacent GephE dimer (SDII', light green).
+The second GephE monomer is colored in gray. Regions of the structure not used
+for model building are shown in white. Scale bar 50 Å. e Final structure of GephE,
+shown on a cartoon representation incorporated into ﬁlaments, is built into the
+map shown in (d), highlighting the SDs positions and the SDII-SDII' interface. Car-
+toon bar diagrams illustrate the Geph constructs used in this experiment (green:
+GephG, gray: GephC, light green: SDII, red: position of amino acid substitution,
+orange: GlyR-loop).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+4
+
+close proximity to a smaller bilobed density (Supplementary Fig. 5b),
+implicating that potentially the increased concentration might over-
+come the necessety for GlyR-loop binding observed during negative
+stain EM.
+GephE ﬁlaments are connected via an interlocking interface of
+neighboring SDIIs
+In order to conﬁrm that neither GephG nor the C-linker is involved
+in the formation of the ﬁlaments, and aiming to reduce the crowded-
+ness of the sample on the grid, we prepared cryo-EM samples of iso-
+lated
+GephE
+(residues
+327-736)
+using
+identical
+experimental
+conditions as for full-length Geph before (Supplementary Fig. 6).
+Again, 2D class averages revealed linear, but ﬂexible assemblies of
+GephE dimers connected by a Z-shaped interface (Fig. 2c and Sup-
+plementary Fig. 6c).
+To mitigate the effects of preferred orientation, we acquired an
+additional dataset at a 25° tilt of the sample stage (Supplementary
+Fig. 6b). In this dataset, several micrographs showed highly reduced
+particle crowdedness and clearly illustrated the distribution and pro-
+portions of ﬁlaments on the micrographs (Supplementary Fig. 6b1).
+Processing of combined datasets yielded extended particle orienta-
+tions (Supplementary Fig. 6d), which allowed for an ab-initio 3D
+reconstruction that revealed a complete GephE dimer with additional
+density on one side, corresponding to the SDII of an adjacent GephE
+dimer in the ﬁlament (hereafter referred to as SDII') (Supplementary
+Fig. 6e). Further processing yielded a ﬁnal map at a global resolution of
+3.5 Å, showing clear side-chain density in most areas (Supplementary
+Fig. 6f). However, density for the SDII-SDII' interface remained frag-
+mented, which we attributed to conformational ﬂexibility in agree-
+ment with the various degrees of curvature observed for the 2D class
+averages of the ﬁlament (Fig. 2c and Supplementary Fig. 6c, d). Using a
+motion-based deep generative model for continuous heterogeneity39,
+the ﬂexibility of SDII and the SDII-SDII' interface to the adjacent GephE
+dimer was conﬁrmed (Supplementary Fig. 6g).
+In order to improve the resolution in the SDII-SDII' interface
+region, we used in silico-generated 3D structures based on the defor-
+mation ﬂow ﬁeld from the ﬂexibility analysis to initiate a 3D classiﬁ-
+cation. This yielded one class with a poorly resolved SDII-SDII' interface
+(35% of particles) and two classes with improved resolution at the SDII-
+SDII' interface (65% of particles, Supplementary Fig. 6h), of which the
+latter subset of particles was further reﬁned. Global reﬁnement and
+subsequent local reﬁnement focussing on the area encompassing the
+core part of GephE dimer including the SDII-SDII' interface yielded a
+map with continuous density at the SDII-SDII' interface and a resolu-
+tion of approximately 3.0 Å in the core part of the GephE dimer and 3.5
+to 4.0 Å in the SDII-SDII' interface (Fig. 2d; Supplementary Figs. 6i,
+j and 7a), allowing us to build an almost complete atomic model into
+the density map following additional deep-learning based40 map
+sharpening (Fig. 2e and Supplementary Fig. 6j). In our atomic model
+chain A comprises all four subdomains of GephE (Fig. 2e). Due to the
+highly fragmented density of chain B in the SDII region, the respective
+amino acid residues (Ala370-Pro459) were not build into our atomic
+model (Fig. 2e). For SDII' (chain C) we utilized a predicted structure of
+SDII as a starting template for building the atomic model41,42.
+Overall, our structure of the GephE dimer highly agrees with
+previous crystal structures, especially in the regions of SDI, SDIII and
+SDIV4. The here identiﬁed SDII-SDII' interface features a prominent
+groove on the SDII side that interlocked with a complementary bulge
+on the SDII' side (Fig. 2e and Supplementary Fig. 7b, c).
+Plasticity of the SDII-SDII' interface supports GephE ﬁlaments
+ﬂexibility
+While our 3D sorting strategy could alleviate the fragmentation of the
+SDII-SDII' interface density, likely caused by hinge-like motions at the
+two loops connecting SDI and SDII, the lower resolution of this area in
+our ﬁnal reconstruction implied the presence of remaining structural
+ﬂexibility. To further characterize potential heterogeneity of the SDII-
+SDII' interface we re-processed the particles from the initial 3D sorting
+(Supplementary Figs. 6h and 8). For this, particles that did not show a
+well-resolved SDII-SDII' interface region ("fragmented"), and particles
+that showed a well-resolved SDII-SDII' interface region ("deﬁned"),
+were individually reﬁned and then subjected to a motion-based deep
+generative model for continuous heterogeneity in order to visualize
+the main modes of SDII-SDII' interface movement (Supplementary
+Fig. 8a, b). Notably, the consensus position of the SDII' in the structure
+from the "fragmented" subset was shifted by approximately. 9.8°
+upward as compared to the previously identiﬁed, higher resolved, SDII'
+position (Fig. 3a and Supplementary Fig. 8c). SDII and SDII' from the
+"deﬁned" subset showed a movement of up to 3.9° and 9.5° for SDII
+and SDII', respectively (Fig. 3b and Supplementary Fig. 9a). In contrast,
+the movement of the interface with the uptilted SDII' showed an
+increased movement of up to 9.9° for SDII and 20.9° for SDII' (Fig. 3c
+and Supplementary Fig. 9b). Potentially, the later "fragmented" parti-
+cle population (Supplementary Fig. 8a) might represent a less stable
+state before SDII and SDII' fully interlock.
+To follow up on the observed mobility of the SDII, we investigated
+whether the incorporation of GephE into ﬁlaments changes the posi-
+tion of the SDII in relation to the other domains of the protein. When
+comparing SDII positions in the crystal structure of human GephE
+either without or with bound GlyR-loop (PDB: 2FU3, 2FTS) we found
+that SDII in our structure is positioned further away from the core part
+of the protein compared to the GephE crystal structure without bound
+GlyR-loop (Fig. 3d). This difference was smaller if comparing to the
+GlyR-loop bound GephE crystal structure, implying a GlyR-loop
+dependent shift in the SDII positioning might be related to ﬁlament
+formation as it promotes a positioning of the SDII more similar to the
+positioning observed in GephE ﬁlaments (Fig. 3e and Supplementary
+Fig. 9d). A similar effect was observed in the crystal structures of the
+GephE plant orthologue, Cnx1E, that shows a shift of SDII towards the
+ﬁlament-promotion angle when the cofactor was bound (Fig. 3f, g and
+Supplementary Fig. 9e, f)43,44.
+A single GlyR-loop is able to occupy both binding sites within
+one GephE dimer
+Despite saturation of the sample with the GlyR-loop, the consensus
+structure showed only fragmented density in the receptor binding
+sites (Figs. 1b and 2d). We hypothesized that this might be caused by
+the GlyR-loop adopting multiple conformations within the binding
+pocket4,45. In order to better resolve the GlyR-loop density, we carried
+out a 3D classiﬁcation of all particles of GephE irrespective their SDII
+conformation using a mask focusing on the core part of the GephE
+dimer, including both receptor-binding sites (Supplementary Fig. 6f;
+Sub-Fig. 10). The subset of particles showing the most continuous
+density for the GlyR-loop was further processed by local reﬁnement
+excluding the SDII subdomains (Supplementary Fig. 10a). This yielded
+a ﬁnal map that after low-pass ﬁltration to 6 Å showed a continuous
+density spanning both binding pockets on the GephE dimer (Fig. 4a;
+Supplementary Fig. 10a). 3D classiﬁcation resulted in classes that
+either showed GlyR-loop density in both binding sites or a complete
+absence of GlyR-loop density, suggesting that in the case of binding, a
+single GlyR-loop is simultaneously occupying both binding sites within
+one GephE dimer (Fig. 4a, b; Supplementary Fig. 10b). Importantly, this
+ﬁnding rationalizes previous biochemical data reporting the binding of
+one GlyR-loop to one GephE dimer4,23,31,45. Moreover, machine-learning-
+based structure predictions46 of the most probable position of a single
+GlyR-loop within the GephE dimer are in line with the observed density
+for GlyR-loop in our reconstruction (Fig. 4c-e and Supplementary
+Fig. 11), and predict an extension of the GlyR-loop core binding motive
+(R394-Y412) towards the C-terminal end, enabling the occupation of
+both binding sites simultaneously (D413-L426, Fig. 4d, e). This agrees
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+5
+
+with previous in vitro studies showing that residues 413-426 are
+required for high-afﬁnity binding of the GlyR-loop to GephE dimer23.
+SDII is crucial for Geph ﬁlament formation, LLPS, and clustering
+at synapses
+To conﬁrm that the observed ﬁlament formation is solely dependent
+on SDII interactions, we generated a full-length Geph variant lacking
+the SDII domain (GephΔSDII, deleted residues 371-459) and puriﬁed the
+protein in complex with GlyR-loop to homogeneity similarly to the
+wild-type protein previously. Structural analysis revealed dimeric and
+trimeric particles, but no signs of ﬁlament formation as seen with wild-
+type protein, conﬁrming thatalso in the presence of GephC and GephG
+ﬁlament formation requires SDII (Supplementary Fig. 12). Importantly,
+binding studies with GlyR-loop showed that both full-length GephΔSDII
+as well as GephEΔSDII maintained similar binding afﬁnities as compared
+to the wild-type protein, indicating that the deletion of SDII does not
+interfere with receptor binding and GephE dimerization (Supplemen-
+tary Fig. 1c-f).
+Next, we asked whether the deletion of SDII would abolish Geph
+LLPS in vitro, which has been hypothesized to represent the molecular
+basis of Geph clustering31,32,47. For this, we mixed the GlyR- and
+GABAAR-mimetic
+ICD
+proteins
+GlyR-LD,
+GABAAR-α1LD,
+and
+GABAAR-α3LD as described previously31 with GephE variants and per-
+formed sedimentation experiments. In the presence of GlyR-LD,
+approx. 10 times more GephEWT was detected in the pellet fraction as
+compared to the sample without GlyR-LD, thus demonstrating strong
+a
+b
+c
+d
+e
+f
+g
+90°
+3.9°
+9.9°
+9.8°
+20.9°
+9.5°
+SDII
+SDII`
+Distance: 4.0 Å
+Distance: 6.2 Å
+0.13°
+1.24°
+1.0°
+3.77°
+Distance: 4.7 Å
+Distance: 3.9 Å
+Fig. 3 | The SDII-SDII' interface allows for motion between GephE dimers.
+a Overlay of the alternative SDII' binding position (orange) within the SDII-SDII'
+interface with the main position observed for SDII' in the interface (green). For
+orientation, SDI and SDII of one GephE subunit (light blue), and SDII and SDIV of the
+second GephE monomer (dark blue) in the dimer are shown. The shift between the
+SDII' positions is indicated. For further information, see Supplementary Fig. 8. Scale
+bar is 25 Å. b, c Visualization of main trajectories depicting possible degrees of
+freedom of SDII (blue) and SDII' (green or orange) in the main (b) and alternative (c)
+binding positions based on motion-based deep generative modeling. Strongest
+deviation from the consensus position is highlighted in color, the course of
+movement shown in shades of gray, and the difference between the extreme
+positions indicated in degrees. For further information see Supplementary
+Figs. 8 and 9d-g) Structural comparison of the SDII position in the GephE dimer
+incorporated into ﬁlaments in the presence of GlyR-loop (blue) with the crystal
+structure without GlyR-loop (PDB: 2FU3, olive (d), the GephE crystal structure
+bound to GlyR-loop (PDB: 2FTS, red (e), the Cnx1E crystal structure without Moco-
+AMP (PDB: 5G2R, dark orange (f), and the Cnx1E crystal structure bound to Moco-
+AMP (PDB: 6Q32, purple (g). Differences in SDIIs positions are indicated in dis-
+tances and angular changes. For further information, see Supplementary Fig. 9.
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+6
+
+LLPS formation (Fig. 5a, b). In contrast, GephΔSDII did not sediment in
+the presence of GlyR-LD, as the band in the pellet fraction was similar
+to the control without GlyR-LD (Fig. 5a, b). Similar results were
+obtained for GABAAR-α1LD and GABAAR-α3LD, with again the amount
+of GephΔSDII within the pellet fraction being unaffected by the presence
+or absence of the respective receptor ICD model proteins (Supple-
+mentary Fig. 1g, h). This data collectively demonstrated that SDII is
+required for Geph LLPS.
+To conﬁrm the physiological relevance of SDII-mediated Geph
+ﬁlament formation for postsynaptic Geph clustering, we expressed
+mScarlet-tagged gephyrin constructs in dissociated murine hippo-
+campal neurons lacking endogenous gephyrin. This was achieved by
+infecting hippocampal cultures from ﬂoxed gephyrin mice48 with
+recombinant adeno-associated viruses (rAAVs) encoding Cre recom-
+binase and subsequently with rAAVs encoding Cre-dependent mScar-
+let-Geph
+or
+mScarlet-GephΔSDII,
+before
+the
+onset
+of
+synapse
+formation49,50. After 14 days in vitro, mScarlet-Geph formed frequent
+somatic and dendritic clusters, which co-localized with pre-synaptic
+vesicular GABA transporter (vGAT) and post-synaptic GABAARs
+(GABAAR-γ2), both markers of GABAergic synapses. In contrast,
+mScarlet-GephΔSDII was diffusely distributed and did not form post-
+synaptic clusters (Fig. 5c, d), despite the fact that GephΔSDII retained its
+receptor-binding but lost its ﬁlament formation ability. Overall, these
+experiments demonstrate that the SDII subdomain-mediated ﬁlaments
+are a prerequisite for the formation of postsynaptic clusters at
+GABAergic synapses.
+Loss of Geph ﬁlaments provides the molecular basis of epileptic
+encephalopathy in two patients
+After showing that SDII is required for Geph ﬁlament formation, LLPS
+and receptor clustering, we asked whether we can disclose the
+mechanistic basis of epileptic encephalopathy in previously identiﬁed
+pathogenic variants of Geph, GephG375D and GephD422N, which are both
+located within SDII and in case of GephG375D shows a strong impairment
+in LLPS formation14,31,33.
+Similar to GephEWT, we puriﬁed GephEG375D to high homogeneity
+and added the GlyR-loop in a ﬁve-fold molar excess before cryo-EM
+sample preparation (Supplementary Fig. 1b). The resulting micro-
+graphs were of high quality, showing numerous evenly distributed
+particles (Supplementary Fig. 13a). Unsupervised 2D classiﬁcation
+yielded high-quality class averages showing dimeric structures from
+various angles, but no indications of ﬁlament formation. Moreover, the
+observed structures were more compact than those observed for
+GephEWT (Supplementary Fig. 13b). Further 3D processing yielded a
+378
+394
+413
+426
+VGETRCKKVCTSKSDLRSNDFSIVGSLPRDFELSNYDCYGKPIEVNNGL
+90°
+90°
+a
+b
+c
+d
+e
+Fig. 4 | GlyR-loop occupies both binding sites within one GephE dimer simul-
+taneously. a Surface representation of GephE dimer in complex with GlyR-loop
+lowpass ﬁltered to 6 Å (light blue) with highlighted density depicting the position of
+GlyR-loop (orange). b Surface representation of GephE dimer without GlyR-loop
+lowpass ﬁltered to 6 Å. For further information, see Supplementary Fig. 10).
+c GephE dimer in complex with GlyR-loop modeled after structure prediction.
+GephE dimer is shown in surface presentation with highlighted GephE monomers
+(light gray, dark gray). GlyR-loop is shown in stick presentation with color-coded
+amino acid sequence. Amino acid sequence of modeled GlyR-loop with respective
+positions is depicted beneath. d Magniﬁcation of GlyR-loop binding site one
+occupied by the core binding motive of GlyR-loop (red). e Magniﬁcation of second
+GlyR-loop binding site occupied by the C-terminally extended binding motive of
+GlyR-loop (blue).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+7
+
+ﬁnal map of the GephE dimer with a global resolution of 3.2 Å, which,
+while showing density for the GlyR-loop was lacked density for the SDII
+region in both subunits (Fig. 5e and Supplementary Fig. 13c, d). Given
+that neither 3D sorting nor local reﬁnement allowed us to recover
+density in the SDII region, we hypothesize that the SDII in GephEG375D is
+unable to fold properly. This ﬁnding is supported by GephEG375D aSEC
+experiments showing a larger hydrodynamic radius than GephEWT
+(Supplementary Fig. 1b). In conclusion, GephEG375D exhibits an
+unstructured SDII, thus leading to a loss of Geph ﬁlament formation.
+Next, we expressed and puriﬁed the second pathogenic Geph
+variant, GephED422N, and prepared it for cryo-EM. The resulting micro-
+graphs were of high quality, showing numerous evenly distributed
+particles (Supplementary Fig. 14a). Unsupervised 2D classiﬁcation
+yielded high-quality class averages showing dimeric structures from
+SDII
+SDII`
+R379
+D422
+a
+c
+b
+d
+e
+g
+h
+i
+f
+P
+55
+[kDa]
+ctrl
+WT
+GephE
+ctrl
+D422N
+ctrl
+R379D
+ctrl
+WT
+ΔSDII
+ctrl
+ΔSDII +
+GephEΔSDII
+WT +
+GlyR-LD
+D422N +
+GlyR-LD
+R379D +
+GlyR-LD
+GlyR-LD
+GephE
+GlyR-LD
+WT +
+GlyR-LD
+GlyR-LD
+35
+25
+15
+S
+P
+S
+P
+S
+P
+S
+S
+P
+P
+S
+P
+S
+P
+S
+P
+S
+P
+S
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+<0.0001
+0.6278
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+8
+
+various angles, but no indications of ﬁlament formation. Different
+from GephEG375D, the observed structures were similar to those
+observed for GephEWT, including folded SDIIs (Supplementary Fig. 14b,
+c). Further 3D processing yielded a ﬁnal map of the GephE dimer with a
+global resolution of 3.1 Å, which showed density for the SDII region in
+both subunits, allowing for C2 symmetric 3D reconstruction (Fig. 5f
+and Supplementary Fig. 14d, e). Importantly, while GephED422N showed
+a completely folded SDII, no ﬁlament formation was evident either
+during 2D or 3D processing (Fig. 5f and Supplementary Fig. 14c).
+Therefore, the substitution of Asp422 by Asn appears to fully abolish
+SDII-based ﬁlament formation. Close inspection of the SDII-SDII'
+interface in our GephEWT structure identiﬁed a possible ion bridge
+between Asp422 and Arg379 of the neighboring GephE dimer (Fig. 5g).
+To investigate the potential importance of this hypothesized ion
+bridge, we created a variant in which Arg379 was substituted with Asp
+(GephER379D) to reverse the charge and thus disrupt the hypothesized
+ion bridge. Similar to GephED422N, GephER379D showed completely fol-
+ded SDIIs but no ﬁlament formation, demonstrating that this ion
+bridge is a crucial component of the ﬁlament interface (Supplemen-
+tary Fig. 15).
+Next, we corroborated that for both the known patient mutant
+GephED422N and the mutant GephER379D the inability to form ﬁlaments
+affects their ability to undergo LLPS in vitro. Indeed, both mutant
+variants exhibited strongly reduced LLPS formation comparable to
+GephΔSDII. (Fig. 5a, b).
+Finally, to corroborate that the inability to form ﬁlaments also has
+physiological
+relevance,
+we
+expressed
+either
+mScarlet-tagged
+GephG375D or GephD422N constructs in dissociated murine hippocampal
+neurons lacking endogenous gephyrin. Similar to mScarlet-GephΔSDII,
+mScarlet-GephG375D and mScarlet-GephD422N were diffusely localized
+throughout hippocampal neurons and did not form any postsynaptic
+clusters (Fig. 5h, i).
+Combined, our structural and functional studies of Geph dis-
+closed a hitherto unknown type of oligomerization of GephE dimers,
+leading to Geph ﬁlament formation. This interaction is stabilized by a
+single GlyR-loop bound to both receptor bindings sites of a GephE
+dimer. Deleting the ﬁlament forming SDII or introducing either known
+pathogenic mutations or targeted disruption of an ion-bridge, all
+prohibited GephE ﬁlament formation, caused loss in LLPS and
+impaired synapse formation in neurons.
+Discussion
+Our structural and functional data uncovered GephE dimer ﬁlament
+formation as the underlying molecular mechanism for the formation
+of Geph-containing postsynaptic densities. Negative stain EM data
+revealed pronounced conformational heterogeneity of full-length
+gephyrin, consistent with previous studies, which suggest structural
+variability in puriﬁed Geph trimers ranging from so-called 'closed' to
+'open' states20. The addition of the GlyR-loop not only reduced overall
+heterogeneity, but also led to the formation of ﬁlamentous assemblies
+of Geph. Cryo-EM data revealed that these ﬁlaments are mediated by a
+hitherto unknown SDII-SDII' interface, which was corroborated by
+structural data derived both from full-length gephyrin and various
+GephE variants. Our observation that a single GlyR-loop could bridge
+two GephE subunits by occupying both previously identiﬁed GlyR-loop
+binding sites simultaneously highlights the important role of receptor
+binding in GephE dimerization and ﬁlament formation: While previous
+studies have shown that multiple receptor binding sites increase afﬁ-
+nity towards gephyrin24, the here observed binding of a single peptide
+bridging both receptor sites in GephE would support a receptor-
+mediated stabilization of GephE dimers, thus probably lowering the
+concentration threshold required for ﬁlament formation. Notably,
+gephyrin variants with either a deleted SDII or with single residue
+substitutions in SDII derived either from epileptic patients or designed
+based on our atomic model were collectively unable to form GephE
+ﬁlaments, to engage in LLPS or to form postsynaptic clusters. Neither
+deletion of SDII nor the pathogenic amino acid substitutions affected
+Geph's ability to bind the receptor drastically, with only minor loss in
+afﬁnity observed14,33. This ﬁnding highlights that the underlying cause
+of the pathological loss of gephyrin function is most likely the inability
+to form Geph ﬁlaments. Given that ﬁlament formation requires a cri-
+tical interplay of GephE dimers, the lack of ﬁlament formation by
+GephG375D variant further explains its dominant nature in the patient
+with the hemizygous GPHN mutation14.
+Previous electron tomography (ET) has uncovered that the PSD of
+inhibitory synapses forms a thin layer of 5-15 nm width underneath the
+postsynaptic membrane51. Cryo-ET revealed a mesophasic organiza-
+tion of inhibitory receptors in the postsynaptic membrane, with most
+receptors having four or fewer neighbors assembling into short,
+curved and presumably branched assemblies26. Our structural obser-
+vation that Geph is able to form ﬂexible ﬁlaments, with trimeric GephG
+forming the basis for GephE dimer-linked ﬁlaments and/or branching
+points, aligns well with the Cryo-ET data. In addition, an underlying
+ﬁlament network at inhibitory PSD was identiﬁed in previous ET stu-
+dies of GABAergic synapses, revealing ﬁlaments with a length of
+approx. 24 to 32 nm29, which would correlate to ﬁlaments consisting of
+two to three GephE dimers, agreeing with what has been observed in
+our study. In contrast to the previously proposed hexagonal lattice
+model, relying on GephG trimer and GephE dimer interactions,
+gephyrin ﬁlaments not only help to understand the observed regular
+assemblies of inhibitory receptors in the postsynaptic membrane, but
+also provide further understanding of the mode of action of patho-
+genic gephyrin variants14,33. Our data lend themselves to the conclusion
+that a hexagonal lattice is neither a requirement nor a precursor for
+gephyrin ﬁlaments, given that gephyrin ﬁlaments were also observed
+for isolated GephE dimers. However, based on studies from human
+Fig. 5 | Proper SDII folding and build-up of Gephyrin ﬁlaments are essential for
+synaptic cluster formation and LLPS. a Representative SDS-PAGE of sedimenta-
+tion experiment showing the amount of protein present in pellet (P) and super-
+natant (S) fractions of GephE variants (WT, ΔSDII, D422N, R379D) either without
+GlyT-LD (ctrl) or with (+GlyR-LD). b Quantiﬁcation of band intensities in the pellet
+fraction; n = 3 presented as means ± SD. Data were analyzed by one-way ANOVA
+(F9,20 = 47.78, p = 1.42·10-11), Tukey's post hoc test; p-values are indicated.
+c Representative images of gephyrinﬂoxed/ﬂoxed murine hippocampal neurons infec-
+ted with moxBFP-Cre and either mScarlet-GephWT or mScarlet-GephΔSDII (pseudo-
+colored ﬁre LUT, magenta) and immunostained against vesicular GABA transporter
+(vGAT, green) and GABAAR γ2 subunit (yellow). d Quantiﬁcation of gephyrin clus-
+ters from c per cell area; n = 20 images per condition from four independent cul-
+tures. Each data point represents cluster density per acquired image, means ± SD
+are indicated. Data were analyzed by unpaired, two-tailed Welch's two-sample t-test
+(t(19.3) = 13.8, p = 1.92·10-11). e Surface representation of GephEG375D dimer high-
+lighting the positions of SDI (red), SDIII (yellow) and SDIV (blue) of one monomer.
+The second monomer is shown in gray. Scale bar 50 Å. f Surface representation of
+GephED422N dimer highlighting the positions of SDI (red), SDII (green) SDIII (yellow)
+and SDIV (blue) of one monomer. The second monomer is shown in gray. Scale
+similar to (f).g Close up depiction of the SDII interfacehighlighting D422 situated in
+SDII' and R379 in close proximity situated in SDII. h Representative images of
+gephyrinﬂoxed/ﬂoxed murine hippocampal neurons infected with moxBFP-Cre and
+either mScarlet-GephWT, mScarlet-GephG375D or mScarlet-GephD422N (pseudo-colored
+ﬁre LUT, magenta) and immunostained against vesicular GABA transporter (vGAT,
+green) and GABAAR γ2 subunit (yellow). i Quantiﬁcation of gephyrin clusters from h
+per cell area; n = 20 images per condition from four independent cultures. Each
+data point represents cluster density per acquired image; means ± SD are indicated.
+Data were analyzed by one-way ANOVA (F2,57 = 34.94, p = 1.25·10-10), Tukey's post
+hoc test; p-values are indicated. Cartoon bar diagrams illustrate the Geph con-
+structs used in this experiment (green: GephG, gray: GephC, light green: SDII, red:
+position of amino acid substitution).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+9
+
+patients with different forms of neuropsychiatric disorders harboring
+gephyrin deletions in either GephG, GephC, or GephE, we conclude
+that proper oligomerization of both GephG and GephE is required for
+synapse formation52. Future studies are needed to structurally resolve
+the GephG in gephyrin full-length ﬁlaments. One possible role is gen-
+erating branching points that connect gephyrin ﬁlaments, thus incor-
+porating elements of the hexagonal lattice model.
+Multiple lines of studies have shown speciﬁc organization of
+receptors and PSD protein throughout the synapse, indicating reg-
+ulatory mechanisms controlling protein density26,29,30,53. Receptor ICD
+binding stabilizes the GephE dimer, thereby fostering ﬁlament forma-
+tion and PSD stabilization. Our data also suggests that in the absence of
+receptors, Geph retains its ability to self-organize but only at elevated
+protein concentration. While we did not observe ﬁlament formation
+during SEC experiments, neither in the presence nor in the absence of
+the GlyR-loop, we detected ﬁlaments also in the absence of the GlyR-
+loop during cryo-EM. In negative stain EM, we only observed ﬁlaments
+in the presence of GlyR-loop. Geph concentration is a main difference
+between these three experimental approaches, with SEC having the
+lowest, negative stain-EM an intermediate, and cryo-EM the highest
+concentration, especially when accounting for a concentration increase
+due to the blotting process during grid preparation38. Considering an
+ice thickness of approximately 200 Å and a particle density ranging
+from 300 to 1000 particles per micrograph, as estimated from our data,
+a Geph concentration between 0.2 mM and 0.7 mM can be assumed54.
+According to high-resolution light microscopy of postsynaptic
+densities, it was estimated that an inhibitory PSD contains approxi-
+mately 200-300 gephyrin molecules12,28. Based on an average synapse
+area of 0.07 µm² and a thickness of 0.015 µm, this corresponds to an
+estimated gephyrin concentration between 0.34 mM and 0.51 mM
+within the inhibitory PSD, which agrees well with the gephyrin con-
+centration estimated on our cryo-EM grids51. Additionally, it can be
+assumed that the length of gephyrin ﬁlaments correlates with
+increased or decreased local protein concentrations in the PSD26,53,55.
+Local increase in receptor and gephyrin concentration likely inﬂuences
+the formation of nanodomains within the synapse, which are char-
+acterized by elevated receptor and PSD protein concentrations, which
+is an underlying prerequisite for LLPS at the postsynapse30,53,55.
+A structural comparison of apo- and ﬁlament-GephE revealed that
+binding to GlyR-loop alters the position of SDII closer to the position
+observed in GephE ﬁlaments. This observation suggests a GlyR-ICD-
+induced conformational change rendering SDII more prone to engage
+in GephE ﬁlament formation. This agrees with the previous X-ray
+structure of GephE, which identiﬁed SDII as the most mobile part of
+GephE4,8. As SDII harbors one half of the substrate binding site for
+gephyrin's enzymatic function, the conversion of molybdopterin-
+adenylate into molybdenum cofactor44, this activity may also impact
+SDII position and thus ﬁlament formation. Additionally, a negatively
+charged and partially disordered region in SDII, opposite to the here
+identiﬁed ﬁlament-forming SDII-interface, has been found crucial for
+LLPS formation, probably impacting the conformational position of
+SDII within GephE dimers as well31.
+The concept of LLPS as an underlying mechanistic principleinPSD
+formation has been put forward in recent years31,32,56,57. LLPS often
+requires increased local protein concentration, intrinsically unstruc-
+tured protein motifs and a deﬁned window of ion strength31,58-61.
+Although the unstructured GephC could not be resolved in our cryo-
+EM study, we can exclude its direct participation in the protein-protein
+interaction. It rather enabled the alignment of various GephE dimers
+derived from different Geph trimers and may play a regulatory role in
+the prohibition of phase separation at lower concentrations62,63. Given
+that an SDII-deﬁcient Geph variant was unable to form ﬁlaments, to
+engage in LLPS and to form synapses, we conclude that SDII-
+dependent GephE ﬁlaments contribute strongly to the underlying
+mechanistic principle of Geph LLPS31. Furthermore, in line with
+previous studies that identiﬁed a lack in LLPS for the pathogenic
+GephEG375D variant31, we could now resolve the underlying cause as a
+loss in SDII folding, thus prohibiting GephE ﬁlament formation while
+receptor binding remained largely uncompromised. Finally, in the
+pathogenic variant GephD422N a critical salt bridge within the SDII
+interaction site has been abolished underlying the functional impor-
+tance of a precise alignment of both SDII domains during GephE ﬁla-
+ment formation. In this regard, receptor binding was slightly reduced,
+but gephyrin's enzymatic function remained unchanged33.
+In summary, our data collectively support the concept of LLPS-
+driven subcellular compartmentalization and identiﬁed GephE ﬁla-
+ment formation as the underlying molecular principle that assembles
+gephyrin into the PSD of inhibitory synapses58,64.
+Methods
+Ethics statement
+We complied with all relevant ethical regulations for animaltesting and
+research. Experiments were approved by the local research ethics
+committees (Germany, Landesamt für Natur, Umwelt und Ver-
+braucherschutz Nordrhein-Westfalen, reference 2021.A450).
+Expression constructs
+6His-tagged Geph, GephE WT and GlyR β-loop-intein expression vec-
+tors have been described before14,23. 6His-tagged GephEG375D and
+GephED422N expression vectors have been described before14,33. For the
+6His-tagged GephΔSDII (residues: 1-383, GSGSG-linker, 473-751) var-
+iant, the previously described 6His-tagged Geph construct was used as
+template23. Deletion of SDII (residue: 383-473) and insertion of GSGSG-
+linker was achieved by Gibson Assembly using DpnI restriction enzyme
+and the following primers (fw-GGCTCAGGTTCCGGACCCATCGGC-
+CACGACATTAA;
+rv-CAACCTACCCCCATTCCCAGGCTCAGGTTCCGG
+A). For the 6His-tagged GephER379D variant, the previously described
+6His-tagged GephE WT construct was used as template23. Side-directed
+mutagenesis for GephER379D was achieved by PCR with the following
+primers (fw-CTATGCTGTTGATGCTGCTGATGGT; rv-ACCATCAGCAG-
+CATCAACAGCATAG) followed by DpnI restriction enzyme digest.
+GlyR-DL and GABAAR-ɑ1/3-DL were kindly provided by the Zhang lab31.
+Protein expression and puriﬁcation
+All gephyrin variants used in this study were recombinantly expressed
+in E. coli BL21 (DE3) Rosetta cells in 1x LB medium containing 0.1 mg/ml
+ampicillin. Prior to expression, cells were grown until an OD600 of
+0.3-0.4 was reached. His-tagged gephyrin variants were expressed for
+16 h at 18 °C. His-tagged GephE WT was expressed for 5 h at 25 °C,
+whereas GephE variants were expressed for 16 h at 18 °C. Protein
+expression
+was
+induced
+by
+the
+addition
+of
+isopropyl-β-D-
+thiogalactopyranosid (IPTG) to an end-concentration of 250 μM in
+the cell culture. After protein expression, cells were harvested by
+centrifugation at 4000 × g and resuspended in lysis buffer (50 mM
+Tris/HCl, pH 7.5, 250 mM NaCl, 5 mM β-mercaptoethanol, 1x protease
+inhibitor (cOmplete, Roche, Basel, Switzerland) and lysozyme from
+chicken egg (Sigma-Aldrich) and stored at -20 °C for further use. For
+puriﬁcation, the cells were lysed mechanically using EmulsiFlex
+(Avestin, Ottawa, Canada) and ultrasound for 3 × 30 s at 45% ampli-
+tude. Cytosolic extract was separated from cell debris by centrifuga-
+tion at 50,000 × g for 45 min. Prior to Ni-NTA chromatography, the cell
+extracts were supplemented with imidazole to 20 mM ﬁnal con-
+centration. The cell extract was applied to 10 ml Ni-NTA resin, and
+proteins were washed with 10 column volumes (CV) of lysis buffer and
+10 CV of lysis buffer containing 40 mM imidazole. Proteins were eluted
+with 3 CV lysis buffer containing 300 mM imidazole. All proteins were
+further puriﬁed via size exclusion chromatography (SEC) (Superdex
+16/600 prep grade, GE Healthcare) using protein buffer (25 mM Tris/
+HCl, pH 7.5, 250 mM NaCl, 5 mM β-mercaptoethanol, 5% glycerol). All
+puriﬁcation steps were performed at 4 °C. GlyR-βloop was expressed
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+10
+
+and puriﬁed as stated previously23. GlyR-βLD, GABAAR-αLD and
+GABAAR-α3LD were puriﬁed according to the protocol provided by Bai
+and colleagues31
+Isothermal titration calorimetry (ITC)
+All experiments were performed with a MicroCal Auto-ITC200 (Mal-
+vern, Malvern, United Kingdom) in ITC buffer (25 mM Tris pH 7.5,
+250 mM NaCl, 5 mM β-mercaptoethanol, 5% glycerol. The sample cell
+was ﬁlled with gephyrin or GephE variants at a concentration of
+20-30 μM. GlyR-βloop was ﬁlled into the syringe at a concentration of
+250-350 μM. Experiments were conducted at 37 °C with an injection
+volume of 1.5-2 μl, a set reference power of 5 μcal/s, spacing time of
+180-300 s and a stirring speed of 750 rpm. Data was analyzed using
+Origin 7 (OriginLab Corporation), and binding parameters were
+derived by applying a one-site or two-site binding model.
+Sedimentation assay of in vitro phase separation
+For sedimentation assays, proteins were mixed at designated combi-
+nations and conditions in a 100 μl ﬁnal volume in assay buffer (25 mM
+Tris, pH 7.5, 150 mM NaCl). After 10 min incubation at room tem-
+perature, the mixtures were centrifuged at 16,000 × g for 10 min at
+25 °C. Right after centrifugation, the supernatant and pellet were
+separated. The pellet was brought to the same volume as the super-
+natant. Proteins recovered in supernatant and pellet were analyzed by
+the Bradford assays or SDS-PAGE with Coomassie Blue staining. The
+band intensities in SDS-PAGE gels were quantiﬁed by ImageJ software.
+Relative and absolute amounts of proteins in supernatant and pellet
+were calculated based on the input amounts and relative band inten-
+sities. Data from three repeats were presented as means ± SD.
+Negative stain sample preparation and data collection
+For negative stain EM, all samples were SEC puriﬁed prior to grid
+preparation using either a Superdex 6 increase 10/300 GL or Superose
+6 increase 10/300 GL column with grid buffer (25 mM Tris pH 7.5,
+250 mM NaCl, 25 mM Arg/Glu, 5 mM β-mercaptoethanol, 1.5%sucrose).
+For grid preparation, protein samples were diluted to a ﬁnal con-
+centration of 0.005 mg/ml using grid buffer. Continuous carbon grids
+(Quantifoil, Cu 200 mesh) were subjected to glow discharge using a
+Zepto Plasma Cleaner (Diener) for 30 s to clean the surface and render
+it hydrophilic. 3 µl protein solution was incubated on the grid for
+approximately 1 min at room temperature, and then stained with
+uranyl formate as described elsewhere65. The grids were stored in the
+dark in a dry atmosphere until further use. EM data were acquired
+using a Talos L120C (Thermo Fisher Scientiﬁc) electron microscope
+equipped with a LaB6 emitter operated at 120 kV. Images were col-
+lected automatically using EPU (version 2.12.1.2782REL, Thermo Fisher
+Scientiﬁc) on Ceta16M CMOS detector with a calibrated pixel size of
+1.86 Å per pixel. Defocus values were set to range from −0.3 to −2.0 µm.
+Cryo-EM sample preparation and data collection
+Prior to grid preparation, all samples were isolated using a Superdex 6
+increase 10/300 GL column with grid buffer. Afterwards, samples were
+diluted to a concentration of 0.5 mg/ml using the grid buffer. Protein
+samples were applied to a glow-discharged UltrAUfoil R1.2/1.3 Au300
+(Quantifoil Micro Tools GmbH), incubated for 5 s, blotted for 3.5 s and
+ﬂash-frozen in liquid ethane using a Vitrobot Mark IV device (Thermo
+Fisher Scientiﬁc) set to 100% humidity at 21 °C. Grids were stored
+under liquid nitrogen conditions until usage. Cryo-EM data were
+acquired using a Titan Krios G3i (Thermo Fisher Scientiﬁc) electron
+microscope operated at 300 kV with either 0° or 25 ° stage tilt. Images
+were collected automatically using EPU (version 2.12.1.2782REL,
+Thermo Fisher Scientiﬁc) on a Falcon III direct electron detector with a
+calibrated pixel size of 0.862 Å px−1. Movies were collected in counting
+mode with a total dose of approximately 30-40 e-/Å2 distributed
+among 42 frames. Defocus values ranged from −0.5 to −2.6 μm.
+EM image processing
+Image processing was performed using cryoSPARC (version 4.4)66.
+Movie stacks were ﬁrst corrected for drift and beam-induction motion,
+and then used to determine defocus and other CTF-related values.
+Only high-quality micrographs with low drift metrics, low astigmatism
+and good agreement between experimental and calculated CTFs were
+further processed. On these high-quality micrographs, putative parti-
+cles were automatically picked based on expected protein diameter,
+extracted, and subjected to reference-free 2D classiﬁcation. Repre-
+sentative 2D classes were then used for a template-based picking
+approach, particles extracted again, subjected to reference-free 2D
+classiﬁcation to exclude artefacts, and subsequent 3D classiﬁcation
+using C1 symmetry to identify high-quality particles. 3D classiﬁcation
+was performed with a target resolution of 6 Å in order to ensure that
+secondary-structure elements are also included as a feature in the
+classiﬁcation algorithm. Particles showing protein-like density fea-
+tures, especially features resembling secondary structure elements,
+were further reﬁned using the non-uniform reﬁnement strategy. Sub-
+sequent data processing workﬂows differ from this point onwards
+between the different datasets (For more information, see supple-
+mentary information).
+Atomic model building
+The atomic model was built starting from the gephyrin E domain
+dimer crystal structure (PDB ID 2FTS) and the gephyrin amino
+acid sequence (UniProt Q9NQX3). First, Coot (version 0.9.8.02)67 was
+used to semi-manually ﬁt amino acids into a single subunit of the EM
+density map. Next, Phenix (version 1.21)68 was used to generate a non-
+crystallographic symmetry (NCS)-related second subunit and both
+subunits were then simultaneously reﬁned against the 3D density map.
+This process was iterated until the ﬁt to the density map and geometric
+parameters converged. The ﬁnal atomic model accounts for residues
+31 to 556. For further details and statistics, see Supplementary Table 1.
+Molecular visualization and analysis were done using UCSF ChimeraX
+(version 1.9)69
+In the ﬁnal atomic model, the following amino acid sequences
+were reduced to their respective C-alpha: ChainA/LEU 432-ILE 447,
+ChainA/VAL 574-ASP 580, ChainB/VAL 574-ASP 580, ChainC/LEU 432-
+ILE 447.
+DNA constructs
+mScarlet-Gphn
+C4c
+from
+pAAV-hSyn-fDIO-mScarlet-Gphn_C4c
+(Addgene plasmid # 194974; RRID:Addgene_194974) and pAAV-hSyn-
+fDIO-mScarlet-Gphn_P1
+(Addgene
+plasmid
+#
+[194972];
+RRID:
+Addgene_194972) were initially subcloned into pGP-AAV-syn-FLEX-
+jGCaMP7s, in which the WPRE was removed using HindIII and NotI
+(pGP-AAV-syn-FLEX-jGCaMP7s-WPRE was a gift from Douglas Kim &
+GENIE Project (Addgene plasmid # 104491; RRID:Addgene_104491))
+using NEBuilder HiFi DNA Assembly (NEB). Since one of the AAV2 ITR
+sites was destroyed in the process, the inserts mScarlet-Gphn C4c
+and mScarlet-Gphn_P1, including loxP and lox2272 sites, were sub-
+cloned
+into
+the
+backbone
+of
+pAAV-hSyn-fDIO-mScarlet-Gphn_P1
+(Addgene plasmid # 194972; RRID:Addgene_194972) using HindIII
+and Eco47III. His-tagged Gphn C4c (P2) ΔSDII in pQE80 was
+generated by site-directed mutagenesis using forward GGCTCA
+GGTTCCGGACCCATCGGCCACGACATTAA
+and
+reverse
+TCCGGAA
+CCTGAGCCTGGGAATGGGGGTAGGTTG primers. His-tagged Gphn (P1)
+D422N in pQE80 was generated by site-directed mutagenesis using
+forward TGCGGTGCTAATGCAGTAGTG and reverse CACTACTGCAT-
+TAGCACCGCA primers. His-tagged Gphn (P1) G375D in pQE80 was
+generated by site-directed mutagenesis using forward CATCAG-
+TAAAAGATGACTATGCTGTTCG
+and
+reverse
+CGAACAGCATAGT
+CATCTTTTACTGATG primers. Gphn C4c (P2) ΔSDII, Gphn (P1) D422N,
+and Gphn (P1) G375D were subcloned into the backbone of pAAV-hSyn-
+FLEX-mScarlet-Gphn C4c or pAAV-hSyn-FLEX-mScarlet-Gphn P1 using
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+11
+
+XhoI and BshTI restriction sites. pAAV-CamKIIa-moxBFP-P2A-Cre was
+generated in two steps. First, pAAV-CamKIIa-moxBFP-Cre was gener-
+ated by subcloning Cre from pAAV.CMV.HI.eGFP-Cre.WPRE.SV40 (a
+gift from James M. Wilson (Addgene plasmid # 105545; RRI-
+D:Addgene_105545))
+into
+pAAV-CamKIIa-moxBFP-WPRE
+(Addgene
+plasmid # 194976; RRID:Addgene_194976). In the second step, the P2A
+site was inserted in between moxBFP and Cre via site-directed muta-
+genesis using forward GGCGACGTGGAGGAGAACCCCGGCCCCGCCGG
+CAGCATGTCCGGAGAGCAAAAGCTG and reverse primers TCTCCTCC
+ACGTCGCCGGCCTGCTTCAGCAGGCTGAAGTTGGTGGCGCCGCTGCC
+CTTGTACAGCTCGTCCATGC. The plasmids pAdDeltaF6 (Addgene
+plasmid # 112867; RRID:Addgene_112867) and pAAV2/1 (Addgene
+plasmid # 112862; RRID:Addgene_112862) were gifts from James M.
+Wilson. All DNA constructs were conﬁrmed by Sanger sequencing
+(Euroﬁns), and the integrity of AAV2 ITR sites was conﬁrmed by ana-
+lytical SmaI restriction digest.
+Primary hippocampal cultures
+Floxed gephyrin mice48 were a gift from Ralph A. Nawrotzki. Floxed
+gephyrin mice were back-crossed to C57BL/6NRj. Mice were housed at
+22 ± 2 °C, with a humidity of 55 ± 10%, on a 12 h light-dark cycle with
+free access to food and water.
+Dissociated primary hippocampal cultures were prepared from
+homozygous gephyrin ﬂoxed embryos (E17.5) of either sex, which were
+obtained from a total of four homozygous parental pairs. Per pre-
+paration, all embryonal hippocampi obtained from one pregnant
+mouse were pooled prior to cell dissociation. After dissociation,
+65,000 cells were seeded on Poly-L-lysine-coated 13-mm cover slips.
+Cultures were grown in 0.5 ml per well neurobasal medium supple-
+mented with B-27, N-2, GlutaMAXTM (Thermo Fisher Scientiﬁc), and
+Pen/Strep. Recombinant AAV1 particles were diluted in Neurobasal
+medium with supplements before they were added to the cultures.
+Cultures were infected after 4 days in vitro (DIV) with 1 × 108 viral
+genome copies (GC) of moxBFP or moxBFP-P2A-Cre and after 8 DIV
+with 5 × 108 GC of either AAV-hSyn-FLEX-mScarlet-Gphn C4c. On DIV
+11, 50% media was exchanged for fresh neurobasal media with
+supplements.
+rAAV2/1 preparation
+Recombinant AAV2/1 particles were prepared in HEK293T cells (DSMZ
+no. ACC 635) according to the protocol by Kimura and colleagues70.
+Viral particles were precipitated with PEG/NaCl and subsequently
+cleared via chloroform extraction70. Purity of viral preparations was
+assessed with SDS-PAGE, and AAV titers were determined using Gel
+green®
+(Biotium)
+protocol71.
+Fluorescence
+was
+measured
+at
+507 ± 5 nm excitation and 528 ± 5 nm emission using a plate reader
+equipped with monochromators (Tecan Spark).
+Immunocytochemistry
+Cells were ﬁxed at DIV14 with 4% formaldehyde in PBS for 15 min and
+quenched with NH4Cl in PBS at room temperature (RT). All subsequent
+incubation and wash steps (PBS) were performed at RT. After blocking/
+permeabilization for 1 h with 10% goat serum, 1% BSA, 0.2% Triton
+X-100 in PBS, the following primary antibodies (Synaptic Systems)
+were used: anti-vesicular GABA transporter (vGAT) (1:1000, #131003)
+for inhibitory presynaptic terminals; anti-GABAAR γ2 (1:500, #224004)
+for postsynaptic GABAARs. The following secondary antibodies were
+used: goat anti-rabbit AlexaFluor 488 (1:500, #A-11034, Thermo Fisher
+Scientiﬁc) and goat anti-guinea pig AlexaFluor 647 (1:500, #ab150187,
+Abcam). Coverslips were mounted with Mowiol/Dabco.
+Confocal microscopy and image analysis
+Image stacks [0.3-μm z-step size, 3432 × 3432 (144.77 × 144.77 μm)]
+were acquired on a Leica TCS SP8 LIGHTNING upright confocal
+microscope with an HC PL APO CS2 63×/1.30 glycerol objective,
+equipped with hybrid detectors (Leica HyD) and the following diode
+lasers: 405, 488, 552, and 638 nm. LIGHTNING adaptive deconvolution
+using "Mowiol" setting was applied. Images were segmented and
+analyzed in an automated fashion using ImageJ/FIJI 1.53c (https://
+imagej.net/software/ﬁji/), and the code is available online at GitHub
+(https://github.com/FilLieb/quantitative_synapse_analysis).
+Statistics and reproducibility
+Micrographs shown for the cryo-EM experiments are representative
+for the respective dataset. Statistical analyses were performed using R
+version 4.2.2 (2022-10-31 ucrt), readxl v. 1.4.1, rstatix v. 0.7.1, tidyverse
+v. 1.3.2 in Rstudio environment (https://www.rstudio.com/), Platform:
+x86 64-w64-mingw32/x64 (64-bit). Exact p-values can be found in the
+source data.
+Reporting summary
+Further information on research design is available in the Nature
+Portfolio Reporting Summary linked to this article.
+Data availability
+Unless otherwise stated, all data supporting the results of this study
+can be found in the article, supplementary, and source data ﬁles.
+Plasmids have been made available via Addgene [https://www.
+addgene.org/]. The EM maps for GephEWT, GephEG375D, GephED422N,
+and GephER379D have been deposited in the EMDB under accession
+codes EMD-51644, EMD-54820, EMD-54821, EMD-54824. The raw
+electron microscopy imaging data are available on request due to their
+large size. Atomic coordinates for GephEWT have been deposited in the
+Protein Data Bank under the accession code 9GW9. Source data are
+provided with this paper.
+Code availability
+The code used for the image analysis is available at GitHub [https://
+github.com/FilLieb/quantitative_synapse_analysis].
+References
+1.
+Fritschy, J.-M., Harvey, R. J. & Schwarz, G. Gephyrin: where do we
+stand, where do we go? Trends Neurosci. 31, 257-264 (2008).
+2.
+Tretter, V. et al. Gephyrin, the enigmatic organizer at GABAergic
+synapses. Front. Cell. Neurosci. 6, 23 (2012).
+3.
+Tyagarajan, S. K. & Fritschy, J.-M. Gephyrin: a master regulator of
+neuronal function? Nat. Rev. Neurosci. 15, 141-156 (2014).
+4.
+Kim, E. Y. et al. Deciphering the structural framework of glycine
+receptor anchoring by gephyrin. EMBO J. 25, 1385-1395 (2006).
+5.
+Kowalczyk, S. et al. Direct binding of GABAA receptor β2 and
+β3 subunits to gephyrin. Eur. J. Neurosci. 37, 544-554 (2013).
+6.
+Maric, H.-M., Mukherjee, J., Tretter, V., Moss, S. J. & Schindelin, H.
+Gephyrin-mediated γ-aminobutyric acid type A and glycine recep-
+tor clustering relies on a common binding site. J. Biol. Chem. 286,
+42105-42114 (2011).
+7.
+Maric, H. M. et al. Molecular basis of the alternative recruitment of
+GABAA versus glycine receptors through gephyrin. Nat. Commun.
+5, 5767 (2014).
+8.
+Schrader, N. et al. Biochemical characterization of the high afﬁnity
+binding between the glycine receptor and gephyrin. J. Biol. Chem.
+279, 18733-18741 (2004).
+9.
+Calamai, M. et al. Gephyrin oligomerization controls GlyR mobility
+and synaptic clustering. J. Neurosci. 29, 7639-7648 (2009).
+10.
+Hannan, S. et al. GABAAR isoform and subunit structural motifs
+determine synaptic and extrasynaptic receptor localisation. Neu-
+ropharmacology 169, 107540 (2020).
+11.
+Kirsch, J. & Betz, H. The postsynaptic localization of the glycine
+receptor-associated protein gephyrin is regulated by the cytoske-
+leton. J. Neurosci. 15, 4148 LP-4144156 (1995).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+12
+
+12.
+Patrizio, A., Renner, M., Pizzarelli, R., Triller, A. & Specht, C. G. Alpha
+subunit-dependent glycine receptor clustering and regulation of
+synaptic receptor numbers. Sci. Rep. 7, 10899 (2017).
+13.
+Yu, W. et al. Gephyrin clustering is required for the stability of
+GABAergic synapses. Mol. Cell. Neurosci. 36, 484-500 (2007).
+14.
+Dejanovic, B. et al. Simultaneous impairment of neuronal and
+metabolic function of mutated gephyrin in a patient with epileptic
+encephalopathy. EMBO Mol. Med 7, 1580-1594 (2015).
+15.
+Förstera, B. et al. Irregular RNA splicing curtails postsynaptic
+gephyrin in the cornu ammonis of patients with epilepsy. Brain 133,
+3778-3794 (2010).
+16.
+Herweg, J. & Schwarz, G. Splice-speciﬁc glycine receptor binding,
+folding, and phosphorylation of the scaffolding protein gephyrin. J.
+Biol. Chem. 287, 12645-12656 (2012).
+17.
+Pfeiffer, F., Graham, D. & Betz, H. Puriﬁcation by afﬁnity chromato-
+graphy of the glycine receptor of rat spinal cord. J. Biol. Chem. 257,
+9389-9393 (1982).
+18.
+Prior, P. et al. Primary structure and alternative splice variants of
+gephyrin, a putative glycine receptor-tubulin linker protein. Neuron
+8, 1161-1170 (1992).
+19.
+Schwarz, G., Schrader, N., Mendel, R. R., Hecht, H.-J. & Schindelin,
+H. Crystal structures of human gephyrin and plant Cnx1 G domains:
+comparative analysis and functional implications. J. Mol. Biol. 312,
+405-418 (2001).
+20. Sander, B. et al. Structural characterization of gephyrin by AFM and
+SAXS reveals a mixture of compact and extended states. Acta
+Crystallogr. D. Biol. Crystallogr. 69, 2050-2060 (2013).
+21.
+Sola, M., Kneussel, M., Heck, I. S., Betz, H. & Weissenhorn, W. X-ray
+crystal structure of the trimeric N-terminal domain of gephyrin. J.
+Biol. Chem. 276, 25294-25301 (2001).
+22. Sola, M. et al. Structural basis of dynamic glycine receptor clus-
+tering by gephyrin. EMBO J. 23, 2510-2519 (2004).
+23. Grünewald, N. et al. Sequences ﬂanking the gephyrin-binding site
+of GlyRβ tune receptor stabilization at synapses. eNeuro https://doi.
+org/10.1523/ENEURO.0042-17.2018 (2018).
+24. Maric, H. M., Kasaragod, V. B. & Schindelin, H. Modulation of
+gephyrin-glycine receptor afﬁnity by multivalency. ACS Chem. Biol.
+9, 2554-2562 (2014).
+25. Saiyed, T. et al. Molecular basis of gephyrin clustering at inhibitory
+synapses: role of G- and E-domain interactionS. J. Biol. Chem. 282,
+5625-5632 (2007).
+26. Liu, Y.-T. et al. Mesophasic organization of GABAA receptors in
+hippocampal inhibitory synapses. Nat. Neurosci. 23,
+1589-1596 (2020).
+27.
+Rubinski, A. & Ziv, N. E. Remodeling and tenacity of inhibitory
+synapses: relationships with network activity and neighboring
+excitatory synapses. PLoS Comput Biol. 11, e1004632 (2015).
+28. Specht, C. G. et al. Quantitative nanoscopy of inhibitory synapses:
+counting gephyrin molecules and receptor binding sites. Neuron
+79, 308-321 (2013).
+29. Linsalata, A. E., Chen, X., Winters, C. A. & Reese, T. S. Electron
+tomography on γ-aminobutyric acid-ergic synapses reveals a dis-
+continuous postsynaptic network of ﬁlaments. J. Comp. Neurol.
+522, 921-936 (2014).
+30. Pennacchietti, F. et al. Nanoscale molecular reorganization
+of the inhibitory postsynaptic density is a determinant of
+GABAergic synaptic potentiation. J. Neurosci. 37, 1747
+LP-1741756 (2017).
+31.
+Bai, G., Wang, Y. & Zhang, M. Gephyrin-mediated formation of
+inhibitory postsynaptic density sheet via phase separation. Cell Res
+https://doi.org/10.1038/s41422-020-00433-1 (2020).
+32. Lee, G. et al. Thermodynamic modulation of gephyrin condensation
+by inhibitory synapse components. Proc. Natl Acad. Sci. 121,
+e2313236121 (2024).
+33. Macha, A. et al. Biallelic gephyrin variants lead to impaired
+GABAergic inhibition in a patient with developmental and epileptic
+encephalopathy. Hum. Mol. Genet 31, 901-913 (2022).
+34. Mayr, S. J., Mendel, R.-R. & Schwarz, G. Molybdenum cofactor
+biology, evolution and deﬁciency. Biochim. Biophys. Acta 1868,
+118883 (2021).
+35. Smolinsky, B., Eichler, S. A., Buchmeier, S., Meier, J. C. & Schwarz,
+G. Splice-speciﬁc functions of gephyrin in molybdenum cofactor
+biosynthesis. J. Biol. Chem. 283, 17370-17379 (2008).
+36. Johannes, L., Fu, C.-Y. & Schwarz, G. Molybdenum cofactor deﬁ-
+ciency in humans. Molecules 27, 6896 (2022).
+37. Grubmuller, H. & Bock, L. V. Effects of cryo-EM freezing on struc-
+tural ensembles. Biophys. J. 120, 117a (2021).
+38. Klebl, D. P. et al. Need for speed: examining protein behavior during
+CryoEM grid preparation at different timescales. Structure 28,
+1238-1248.e4 (2020).
+39. Punjani, A. & Fleet, D. J. 3D ﬂexible reﬁnement: structure and
+motion of ﬂexible proteins from cryo-EM. bioRxiv https://doi.org/10.
+1101/2021.04.22.440893 (2021).
+40. Cianfrocco, M. A., Wong-Barnum, M., Youn, C., Wagner, R. &
+Leschziner, A. COSMIC2: A science gateway for cryo-electron
+microscopy structure determination. in Practice and Experience in
+Advanced Research Computing 2017: Sustainability, Success and
+Impact (Association for Computing Machinery, New York, NY,
+USA, 2017).
+41.
+Baek, M. et al. Accurate prediction of protein structures and inter-
+actions using a three-track neural network. Science (1979) 373,
+871-876 (2021).
+42. Hiranuma, N. et al. Improved protein structure reﬁnement guided
+by deep learning based accuracy estimation. Nat. Commun. https://
+doi.org/10.1101/2020.07.17.209643 (2020).
+43. Krausze, J. et al. Dimerization of the plant molybdenum insertase
+Cnx1E is required for synthesis of the molybdenum cofactor. Bio-
+chem. J. 474, 163-178 (2016).
+44. Probst, C. et al. Mechanism of molybdate insertion into pterin-
+based molybdenum cofactors. Nat. Chem. 13, 758-765 (2021).
+45. Maric, H. M. et al. Gephyrin-binding peptides visualize postsynaptic
+sites and modulate neurotransmission. Nat. Chem. Biol. 13,
+153-160 (2017).
+46. Abramson, J. et al. Accurate structure prediction of biomolecular
+interactions with AlphaFold 3. Nature 630, 493-500 (2024).
+47. Chen, X., Wu, X., Wu, H. & Zhang, M. Phase separation at the
+synapse. Nat. Neurosci. 23, 301-310 (2020).
+48. O'Sullivan, G. A. et al. Forebrain-speciﬁc loss of synaptic GABAA
+receptors results in altered neuronal excitability and synaptic
+plasticity in mice. Mol. Cell. Neurosci. 72, 101-113 (2016).
+49. Deng, L. et al. Sequential postsynaptic maturation governs the
+temporal order of GABAergic and glutamatergic synaptogenesis in
+rat embryonic cultures. J. Neurosci. 27, 10860 (2007).
+50. Grabrucker, A., Vaida, B., Bockmann, J. & Boeckers, T. M. Synapto-
+genesis of hippocampal neurons in primary cell culture. Cell Tissue
+Res. 338, 333-341 (2009).
+51.
+Tao, C.-L. et al. Differentiation and characterization of excitatory and
+inhibitory synapses by cryo-electron tomography and correlative
+microscopy. J. Neurosci. 38, 1493 LP-1491510 (2018).
+52. Lionel, A. C. et al. Rare exonic deletions implicate the synaptic
+organizer Gephyrin (GPHN) in risk for autism, schizophrenia and
+seizures. Hum. Mol. Genet. 22, 2055-2066 (2013).
+53. Crosby, K. C. et al. Nanoscale subsynaptic domains underlie the
+organization of the inhibitory synapse. Cell Rep. 26,
+3284-3297.e3 (2019).
+54. Brown, H. G. & Hanssen, E. MeasureIce: accessible on-the-ﬂy
+measurement of ice thickness in cryo-electron microscopy. Com-
+mun. Biol. 5, 817 (2022).
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+13
+
+55. Liu, P.-W., Hosokawa, T. & Hayashi, Y. Regulation of synaptic
+nanodomain by liquid-liquid phase separation: A novel mechanism
+of synaptic plasticity. Curr. Opin. Neurobiol. 69, 84-92 (2021).
+56. Feng, Z., Zeng, M., Chen, X. & Zhang, M. Neuronal synapses:
+microscale signal processing machineries formed by phase
+separation? Biochemistry 57, 2530-2539 (2018).
+57. Zhu, S. et al. Demixing is a default process for biological con-
+densates formed via phase separation. Science 384,
+920-928 (2024).
+58. Kato, M. et al. Cell-free formation of RNA granules: low complexity
+sequence domains form dynamic ﬁbers within hydrogels. Cell 149,
+753-767 (2012).
+59. Molliex, A. et al. Phase separation by low complexity domains
+promotes stress granule assembly and drives Pathological ﬁbrilli-
+zation. Cell 163, 123-133 (2015).
+60. Nott, T. J. et al. Phase transition of a disordered nuage protein
+generates environmentally responsive membraneless organelles.
+Mol. Cell 57, 936-947 (2015).
+61.
+Lin, Y., Currie, S. L. & Rosen, M. K. Intrinsically disordered sequences
+enable modulation of protein phase separation through distributed
+tyrosine motifs. J. Biol. Chem. 292, 19110-19120 (2017).
+62. Feng, Z., Chen, X., Wu, X. & Zhang, M. Formation of biological
+condensates via phase separation: Characteristics, analytical
+methods, and physiological implications. J. Biol. Chem. 294,
+14823-14835 (2019).
+63. Alberti, S., Gladfelter, A. & Mittag, T. Considerations and challenges
+in studying liquid-liquid phase separation and biomolecular con-
+densates. Cell 176, 419-434 (2019).
+64. Krainer, G. et al. Reentrant liquid condensate phase of proteins is
+stabilized by hydrophobic and non-ionic interactions. Nat. Com-
+mun. 12, 1085 (2021).
+65. Gunkel, M. M. A. B. E. Revisiting sodium phosphotungstate and
+ammonium molybdate as nonradioactive negative-staining agents
+for single-particle analysis. Struct. Biol. Commun. 80,
+356-362 (2024).
+66. Punjani, A., Rubinstein, J. L., Fleet, D. J. & Brubaker, M. A. cryoS-
+PARC: algorithms for rapid unsupervised cryo-EM structure deter-
+mination. Nat. Methods 14, 290-296 (2017).
+67. Emsley, P., Lohkamp, B., Scott, W. G. & Cowtan, K. Features and
+development of Coot. Acta Crystallogr D Biol Crystallogr 66,
+486-501 (2010).
+68. Adams, P. D. et al. PHENIX: a comprehensive Python-based system
+for macromolecular structure solution. Acta Crystallogr. D Biol.
+Crystallogr. 66, 213-221 (2010).
+69. Pettersen, E. F. et al. UCSF ChimeraX: structure visualization for
+researchers, educators, and developers. Protein Sci. 30,
+70-82 (2021).
+70. Kimura, T. et al. Production of adeno-associated virus vectors for
+in vitro and in vivo applications. Sci. Rep. 9, 13601 (2019).
+71.
+Xu, J., DeVries, S. H. & Zhu, Y. Quantiﬁcation of adeno-associated
+virus with safe nucleic acid dyes. Hum. Gene Ther. 31,
+1086-1099 (2020).
+Acknowledgements
+We thank the Biocenter Imaging Facility for their support with confocal
+microscopy, Dr. Franziska Neuser and Julia Reich, for their support with
+primary hippocampal cultures, as well as Monika Laurien, Simona
+Jansen and Jennifer Lange for their technical support. We thank
+PD Dr. med. Ralph A. Nawrotzki, Universität Heidelberg, for kindly
+sharing ﬂoxed gephyrin mice with us. We thank the StruBiTEM facility for
+access to the cryo-EM infrastructure (Cologne, funded by DFG Grant
+INST 216/949-1 FUGG) and the RRZK for access to the computing infra-
+structure of CHEOPS (Cologne, funded by DFG Grant INST 216/512/1
+FUGG). Funding by the German Research Foundation is gratefully
+acknowledged by GS (RTG2550/1736 project ID 411422114). Funding by
+the Ministry of Culture and Science of the State of North Rhine-
+Westphalia is gratefully acknowledged by EB (iHEAD MKW NRW, PB22-
+025A). We also thank Prof. Mingjie Zhang, Hong Kong University of
+Science and Technology, for kindly sharing their DNA constructs with us.
+Author contributions
+A.M., E.B., and G.S. designed the research study; A.M., F.L., E.H.W.B.,
+I.v.S., and K.B. conducted experiments; A.M., F.L., E.H.W.B., N.B., K.B.,
+and M.G. acquired data; A.M., F.L., E.H.W.B., N.B., M.G. analyzed data;
+A.M. performed structural model building; A.M., F.L., E.B., and G.S. wrote
+the manuscript with input from all coauthors.
+Funding
+Open Access funding enabled and organized by Projekt DEAL.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s41467-025-63748-w.
+Correspondence and requests for materials should be addressed to
+Elmar Behrmann or Guenter Schwarz.
+Peer review information Nature Communications thanks the anon-
+ymous reviewers for their contribution to the peer review of this work. A
+peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher's note Springer Nature remains neutral with regard to jur-
+isdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as
+long as you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this
+article are included in the article's Creative Commons licence, unless
+indicated otherwise in a credit line to the material. If material is not
+included in the article's Creative Commons licence and your intended
+use is not permitted by statutory regulation or exceeds the permitted
+use, you will need to obtain permission directly from the copyright
+holder. To view a copy of this licence, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2025
+Article
+https://doi.org/10.1038/s41467-025-63748-w
+Nature Communications|        (2025) 16:8293 
+14
+

@@ -1,0 +1,2142 @@
+Nature Chemical Biology
+nature chemical biology
+https://doi.org/10.1038/s41589-025-02026-8
+Article
+Enhancing RNA base editing on mammalian 
+transcripts with small nuclear RNAs
+ 
+Aaron A. Smargon 
+  1,2,3, Deepak Pant 
+  1,2,3,4, Trent A. Gomberg1,2,3,5, 
+Christian Fagre6, Sofia Glynne1,2,3, Johnathan Nguyen1,2,3, Jack T. Naritomi1,2,3,7, 
+Wendy V. Gilbert 
+  6 & Gene W. Yeo 
+  1,2,3,4,5,7 
+Endogenous uridine-rich small nuclear RNAs (U snRNAs) form RNA-protein 
+complexes to process eukaryotic pre-mRNA into mRNA. Previous studies 
+have demonstrated programmable U snRNA guide-targeted exon inclusion 
+and exclusion. Here we investigated whether snRNAs can also enhance RNA 
+base editing over state-of-the-art RNA-targeting technologies in human 
+cells. Compared with adenosine deaminase acting on RNA (ADAR)-recruiting 
+circular RNAs, we find that guided A>I snRNAs consistently increase 
+adenosine-to-inosine editing for higher exon count genes, perturb 
+substantially fewer off-target genes and localize more persistently to the 
+nucleus where ADAR is expressed. A>I snRNAs also more efficiently edit long 
+noncoding RNAs and pre-mRNA 3′ splice sites to promote splicing changes. 
+Lastly, snRNA-H/ACA box snoRNA fusions (U>Ψ snRNAs) increase targeted 
+RNA pseudouridylation without DKC1 overexpression, facilitating improved 
+CFTR rescue from nonsense-mediated mRNA decay in a cystic fibrosis 
+human bronchial epithelial cell model. Our results advance the endogenous 
+protein-mediated RNA base editing toolbox and RNA-targeting technologies 
+to treat genetic diseases.
+Recently the gene-editing field has turned from CRISPR (clustered 
+regularly interspaced short palindromic repeats) and other exog-
+enous protein-encoded multicomponent systems toward minimally 
+invasive single-component guided RNA scaffolds that recruit highly 
+expressed endogenous protein machinery to edit genes at the RNA 
+level1. Researchers have particularly focused on suppressing in-frame 
+premature termination codons (PTCs) caused by single-base-pair sub-
+stitution nonsense mutations in coding regions of mRNA transcripts. 
+PTCs, which account for an estimated 10-15% of human genetic diseases 
+such as cystic fibrosis and Hurler syndrome, lead to truncated proteins 
+and subsequent degradation of PTC-harboring mRNAs by nonsense-
+mediated mRNA decay (NMD)2.
+Given a clearly defined mechanism, several minimally invasive 
+strategies already exist to treat PTC-associated diseases. More clinically 
+established drugs such as splice-switching antisense oligonucleotides 
+and small molecules could be administered to patients3-5, but not all 
+PTC diseases are amenable to exon skipping and PTC suppressor small 
+molecules lack target-site specificity. Similarly, engineered suppressor 
+tRNAs designed to read through PTCs at the translational level could do 
+so at any targeted stop codon context sequence6,7. In contrast to these 
+approaches, programmable guided RNA scaffolds that recruit highly 
+expressed endogenous proteins to edit PTC bases directly strike a safer 
+balance between minimal invasiveness and specificity.
+One such class of systems recruits endogenous adenosine  
+deaminase acting on RNA (ADAR) enzymes to edit PTC adenosines 
+to inosines. In mammalian cells, active ADAR family members ADAR1  
+and ADAR2 recognize regions of nuclear double-stranded RNA,  
+primarily at Alu repetitive regions but also in coding regions and even 
+Received: 11 June 2024
+Accepted: 19 August 2025
+Published online: xx xx xxxx
+ Check for updates
+1Department of Cellular and Molecular Medicine, University of California, San Diego, La Jolla, CA, USA. 2Sanford Stem Cell Institute Innovation Center 
+and Sanford Consortium for Regenerative Medicine, La Jolla, CA, USA. 3Institute for Genomic Medicine, University of California, San Diego, La Jolla, CA, 
+USA. 4Biological Sciences Graduate Program, University of California, San Diego, La Jolla, CA, USA. 5Biomedical Sciences Graduate Program, University 
+of California, San Diego, La Jolla, CA, USA. 6Department of Molecular Biophysics and Biochemistry, Yale University, New Haven, CT, USA. 7Center for RNA 
+Technologies and Therapeutics, University of California, San Diego, La Jolla, CA, USA. 
+ e-mail: geneyeo@ucsd.edu
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+PTC sequence contexts (UAG, UGA and UAA), leading to successful 
+translational readthrough16,17. While a promising approach, snoRNAs 
+localize predominantly to the nucleolus and not to the nucleoplasm 
+where pre-mRNAs are transcribed and processed into mRNAs, thus 
+limiting their base editing potential.
+Although the gene-editing field has evolved beyond CRISPR, 
+important lessons endure from CRISPR's success. For example, a 
+peptide nuclear localization signal was critical for translation of 
+Cas9 activity from prokaryotic to eukaryotic cells18,19. Analogously, 
+we hypothesized that achieving optimal subcellular localization 
+of programmable guided RNA scaffolds could enhance the ability  
+of endogenous protein machinery to perform base editing on tar-
+get coding RNA transcripts. To test this hypothesis, we selected as a 
+putative RNA nucleoplasm localization signal components of endo­
+genous uridine-rich snRNAs (U snRNAs), which natively recruit pro-
+tein complexes to process pre-mRNA into mature mRNA and were  
+previously engineered to modulate RNA splicing20,21. In this new appli-
+cation, we evaluated the capacity of U snRNAs to enhance endogenous 
+protein-mediated base editing, both A>I and U>Ψ, on mammalian 
+transcripts.
+at splice sites8. After A>I editing, splicing and translation machin-
+ery generally recognizes inosine as its structurally comparable  
+base, guanosine. Leveraging this finding, several groups have encoded 
+a cytosine-mismatch (C-mismatch) guided RNA scaffold of both  
+linear and circular form, which, when hybridized to the RNA sequence 
+surrounding a targeted adenosine, recruits endogenous ADARs that 
+efficiently edit the targeted adenosine opposite the cytosine to 
+inosine9-11. While robust editing is possible, ADARs display a strong 
+preference for the UAG motif, with diminished activity for the other 
+PTC sequence contexts of UGA and UAA, in addition to varying by cell 
+type expression12.
+Another class of systems uses H/ACA box small nucleolar ribo­
+nucleoproteins (snoRNPs), which are highly conserved across eukary-
+otes and catalyze uridine-to-pseudouridine (U>Ψ) editing on small 
+nuclear RNAs (snRNAs), ribosomal RNAs (rRNAs) and some mRNAs13,14. 
+In mammalian cells, H/ACA box snoRNAs recruit four core proteins, 
+DKC1, NOP10, NHP2 and GAR1. Together, these proteins edit U>Ψ at a 
+site between two guide-templated regions specified by the H/ACA box 
+snoRNA. Building upon initial work performed in yeast15, two groups 
+reprogrammed human H/ACA box snoRNAs to edit U>Ψ at all three 
+a
+100 nt
+100 nt
+m7G
+(A)n
+5′
+ 3′
+ 5′
+Target mRNA transcript
+ 3′
+C-mismatch guide
+U7smOPT snRNA
+backbone
+Endogenous
+ADAR
+Sm core
+cadRNA
+backbone
+U1 snRNA
+backbone
+5′
+3′
+Sm core
+U1C
+U1A
+U1-70K
+b
+0
+10
+20
+30
+40
+50
+60
+70
+80
+ RAB7A
+DAXX
+GAPDH
+TARDBP
+ALDOA
+SMAD4
+FANCC
+A>I editing rate (%)
+cadRNA
+U7smOPT snRNA
+U1 snRNA
+Empty vector
+***
+****
+*****
+***
+*****
+0
+10
+20
+30
+40
+50
+60
+6
+8
+10
+10
+11
+14
+15
+21
+24
+42
+45
+57
+89
+102
+106
+DMD
+MDN1
+UBR4
+CHD7
+FANCD2
+COL4A5
+GAA
+BLM
+A>I editing rate (%)
+****
+**
+*****
+*****
+*****
+****
+Gene:
+Exons:
+Gene:
+Exons:
+c
+cadRNA
+U7smOPT snRNA
+Empty vector
+Established cadRNA-edited mRNA sites
+New mRNA sites on genes with higher exon counts
+Fig. 1 | Programmable U snRNAs edit A>I on endogenous human transcripts 
+with stronger activity on target genes containing high exon counts.  
+a, Schematic of three different RNA-guided A>I base editors targeting an mRNA 
+transcript with the same C-mismatch guide: U7smOPT (blue), U1 snRNA (purple) 
+and cadRNA (green). b, Editing percent performance by transfection in HEK293T 
+cells of three A>I base editors on target sites from various human genes. A>I 
+overperformance significance versus cadRNA: ***P < 0.001, ****P < 0.0001 and 
+*****P < 0.00001 (one-way analysis of variance (ANOVA), Bonferroni correction 
+for multiple comparisons) (DAXX U7:cad, 1 × 10−4; DAXX U1:cad, 9 × 10−4; TARDBP 
+U7:cad, 5 × 10−5; SMAD4 U7:cad, 4 × 10−7; FANCC U7:cad, 9 × 10−4; FANCC U1:cad, 
+6 × 10−4). Error bars reflect the s.e.m. (n = 3 biological replicates per condition).  
+c, Editing percentage performance by transfection in HEK293T cells of U7smOPT 
+snRNA and cadRNA A>I base editors on target sites from human genes with 
+high exon counts. A>I overperformance significance versus cadRNA: **P < 0.01, 
+****P < 0.0001 and *****P < 0.00001 (one-way ANOVA) (GAA, 2 × 10−7; CHD7, 
+4 × 10−5; FANCD2, 0.0012; COL4A5, 7 × 10−6; DMD, 3 × 10−5; MDN1, 5 × 10−7; UBR4, 
+1 × 10−7). Error bars reflect the s.e.m. (n = 3 biological replicates per condition).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+Results
+Preclinical studies using engineered U1 and U7smOPT snRNAs have 
+already shown promise for the inclusion and exclusion of exons in 
+disease rescue20,21. In fact, an AAV9-mediated U7smOPT snRNA gene 
+therapy to treat boys with DMD exon 2 duplications is currently in phase 
+1/2 clinical trials (NCT04240314). On the basis of this established track 
+record and the fact that most other U snRNAs are recruited downstream 
+of U1, we concentrated on these two U snRNAs. U1 snRNAs (bound  
+by highly expressed U1A, U1-70K, U1C and members of the Sm core)  
+initiate the major spliceosome to splice introns out of pre-mRNA.  
+Meanwhile, U7 snRNAs initiate the 3′ end processing of nonpoly-
+adenylated histone pre-mRNAs. Researchers previously mutated U7 
+snRNAs into U7smOPT snRNAs that bind only the Sm core, a key com-
+ponent of the majority of splicing U snRNAs, and not LSm proteins. 
+With backbone sizes of 153 and 45 nt respectively, U1 and U7smOPT 
+snRNAs are comparatively small and easily encodable in a variety  
+of genetic delivery vehicles, from lipid nanoparticles to adeno- 
+associated virus.
+A>I editing with engineered U snRNAs
+Of the existing single-component A>I programmable guided RNA 
+scaffolds, circularized ADAR-recruiting RNAs (cadRNAs) have dem-
+onstrated potent editing using a simple design10,11. With their elegant 
+circularization by autoligating twister ribozymes, cadRNAs effectively 
+withstand degradation by exoribonucleases to sustain strong expres-
+sion in cells. cadRNAs contain a C-mismatch guide with typically 100-nt 
+homology regions flanking either side of the mismatched C and occa-
+sionally mismatches and loops throughout these flanking regions to 
+inhibit spurious bystander editing by ADAR. Because of their shared 
+nuclear localization with ADAR, U snRNAs may be more efficient A>I 
+editors than cadRNAs. Moreover, spliceosomal component Sm proteins 
+have been found to associate with ADAR1 and ADAR2 (ref. 22). To test 
+this conjecture, we replaced the cadRNA backbone (in a U6 promoter 
+and U6 terminator cassette) with either the U7smOPT snRNA backbone 
+(in a U7 promoter and U7 terminator cassette) or U1 snRNA backbone 
+(in a U1 promoter and U1 terminator cassette) at the 3′ end of fixed 
+C-mismatch guides (Fig. 1a).
+IFIT5
+EOLA1
+cadRNA
+backbone
+a
+b
+U7smOPT 
+snRNA backbone
+3′
+5′
+RAB7A-targeting guide
+DMD-targeting guide
+log2(fold change)
+log2(fold change)
+-log10(adj. P value)
+-log10(adj. P value)
+n downregulated: 1,050
+n upregulated: 816
+n downregulated: 606
+n upregulated: 164
+n downregulated: 111
+n upregulated: 103
+n downregulated: 160
+n upregulated: 35
+DMD
+RAB7A
+cadRNA
+DMD
+RAB7A
+cadRNA
+U7smOPT
+snRNA
+Upregulated splicing factors
+Downregulated splicing factors
+1
+3
+7
+0
+2
+0
+10
+0
+0
+0
+1
+0
+0
+6
+0
+0
+14
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+100
+200
+300
+400
+500
+417
+347
+55
+251
+215
+31
+388
+349
+58
+209
+203
+26
+Local splicing variation events
+Event count (P < 0.05)
+DMD
+RAB7A
+Guide:
+|dPSI| > 0.1
+|dPSI| > 0.2
+|dPSI| > 0.3
+DMD
+RAB7A
+DMD
+RAB7A
+U7smOPT
+snRNA
+cadRNA
+0
+50
+100
+150
+200
+250
+-2
+0
+2
+4
+6
+H1-0
+HSPA5
+AEN
+TUBB
+ENO1
+CXCR4
+FOS
+CARS1
+RASSF1
+CDC6
+AEN
+RASSF1
+FRMD1
+SLC3A2
+TAF1D
+DHRS2 POLR3C
+IFI6
+STAT1
+RASSF1
+AEN
+PARP9
+USP39
+PARP6
+CXCR4
+ADAMTS1
+SESN2
+SLC7A11
+MT-ND2
+-2
+0
+2
+HSPA1B
+4
+6
+0
+2
+4
+6
+-2
+0
+2
+4
+0
+50
+100
+150
+200
+0
+50
+100
+150
+200
+250
+0
+20
+40
+60
+80
+100
+Fig. 2 | A>I snRNAs perturb fewer genes than cadRNAs. a, Scatter plots of 
+differential gene expression analysis against empty control (pUC19) of cadRNA 
+backbone versus U7smOPT snRNA backbone for RAB7A-targeting and DMD-
+targeting guides. Cutoffs for significance: |log2(fold change)| > 0.5 and adjusted 
+P value < 0.05. Upregulated genes are colored in red and downregulated genes 
+are colored in blue (n = 2 biological replicates per condition). b, Left: number of 
+LSV events from differential splicing analysis against empty control (pUC19) of 
+cadRNA backbone versus U7smOPT snRNA backbone for RAB7A-targeting and 
+DMD-targeting guides, with P < 0.05 and different thresholds of dPSI for events. 
+Right: four-way Venn diagrams of the number of significantly upregulated and 
+downregulated splicing factors represented in the significantly perturbed genes 
+from a (n = 2 biological replicates per condition).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+A head-to-head A>I editing test of the two U snRNAs against 
+cadRNA across seven previously published endogenous loci and associ-
+ated C-mismatch guide sequences in HEK293T cells revealed several 
+findings (Fig. 1b)10. Firstly, U1 snRNA almost invariably performed more 
+poorly than U7smOPT snRNA. We reasoned that its greater molecular 
+complexity and proclivity for splicing machinery recruitment caused 
+this limiting effect; thus, we disregarded U1 snRNA as a construct for 
+the remainder of our study. Secondly, although U7smOPT snRNA 
+bested cadRNA across four of the seven loci, neither initially appeared 
+a clear winner. Lastly, U7smOPT snRNA most unambiguously out-
+shone cadRNA editing performance at loci on SMAD4 and FANCC, 
+genes with the highest exon counts. We, therefore, hypothesized that 
+the relative A>I editing performance of U7smOPT snRNA compared 
+to cadRNA across target genes correlates positively with gene exon 
+count. To test this theory further, we compared U7smOPT snRNA 
+and cadRNA performance on eight new loci of genes with progres-
+sively higher exon counts (Fig. 1c). On all target genes except BLM, 
+U7smOPT snRNA convincingly outperformed cadRNA across high 
+exon count gene loci. Lending more credence to our theory, the ratio 
+of U7smOPT snRNA-to-cadRNA editing efficiency over the 15 tested 
+genes correlated moderately and statistically significantly with exon 
+count (Pearson correlation coefficient r = 0.6282, P = 0.0121) in contrast 
+with unsupported alternative hypotheses of gene length (r = −0.0414, 
+P = 0.8836) or mRNA nuclear export rate as reported in a recent study 
+(r = 0.1436, P = 0.6096) (Extended Data Fig. 1)23. Given that genes with 
+high exon count tend to be larger and more prone to accumulating 
+disease-relevant mutations (as is the case for DMD, in which ~15% of 
+Duchenne muscular dystrophy-implicated mutations are nonsense)24, 
+U7smOPT snRNAs present an attractive new modality for treating PTC 
+diseases.
+Off-target genetic perturbations of A>I snRNAs
+Next, we asked how U7smOPT snRNAs compared to cadRNAs with 
+respect to off-target genetic perturbations. Selecting one guide for 
+which cadRNA outperformed (RAB7A-targeting) and one for which 
+U7smOPT snRNA outperformed (DMD-targeting), we conducted dif-
+ferential gene expression analysis with DESeq2 on two replicates of RNA 
+sequencing (RNA-seq) data from each condition compared to empty 
+vector (significance cutoffs of |log2(fold change)| > 0.5 and adjusted P 
+value < 0.05) (Fig. 2a, Supplementary Fig. 1 and Supplementary Dataset 
+1)25. In analyzing the data, we removed apparent overexpression of DMD 
+because of a library preparation artifact, as applied in previous work 
+(Supplementary Fig. 2)10. In either case, U7smOPT snRNA produced far 
+fewer genetic perturbations (~4-8-fold) than cadRNA, in both upregu-
+lated and downregulated genes. Notably, more misregulated genes are 
+shared exclusively between the two cadRNA conditions (267 genes) 
+than between the two DMD-targeting conditions (42 genes) or the two 
+RAB7A-targeting conditions (121 genes) (Extended Data Fig. 2a). This 
+paradox suggests that guide RNA-independent mechanisms dominate 
+the off-target landscape. Pathway analysis with Metascape of perturbed 
+genes conserved across both cadRNA conditions and absent from either 
+U7smOPT snRNA condition showed notable downregulation of Herpes 
+a
+cadRNA
+A>I snRNA
+ 3′
+ 5′
+Random hexamer 
+cDNA priming
+Subcellular localization qPCR
+Guide PCR
+Sample
+Nuclear RNA
+Cytosolic RNA
+Guide PCR
+GAPDH PCR
+NEAT1 PCR
+Guide PCR
+GAPDH PCR
+NEAT1 PCR
+cadRNA
+A>I snRNA
+Unfilled: sample-matched NEAT1
+GAPDH-normalized
+nuclear-to-cytosolic ratio
+Guide:
+RAB7A
+A>I snRNA
+cadRNA
+Empty vector
+A>I snRNA
+cadRNA
+A>I snRNA
+cadRNA
+GAPDH
+TARDBP
+1
+10
+100
+***
+*
+*
+b
+RCA FISH
+Targeted 
+cDNA priming
+Padlock probe 
+RCA FISH
+cadRNA
+A>I snRNA
+ 3′
+ 5′
+GAPDH 
+guide
+Gene-targeting
+guide
+DAPI
+RCA
+rolony
+20 µm
+20 µm
+Rolonies per cell
+Mean rolony distance
+to nucleus (µm)
+**
+*
+Nuclear-to-cellular rolony ratio
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+0
+1
+2
+3
+4
+5
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+**
+Fig. 3 | A>I snRNAs localize more persistently to the nucleus. a, Left: schematic 
+of subcellular localization qPCR to determine nuclear-to-cytosolic enrichment 
+of A>I snRNA and cadRNA A>I base editors. Right: results from subcellular 
+localization qPCR of the A>I base editors with guides targeting three different 
+genes, using the lncRNA NEAT1 as a positive control for the assay. Nuclear-to-
+cytosolic enrichment significance versus cadRNA: *P < 0.05 and ***P < 0.001 (one-
+way ANOVA) (RAB7A, 0.0121; GAPDH, 5 × 10−4; TARDBP, 0.0216). Error bars reflect 
+the s.e.m. (n = 3 biological replicates per condition). b, RCA FISH schematic, 
+representative images and plots of rolonies per cell, mean rolony distance to 
+nucleus and nuclear-to-cellular rolony ratio for GAPDH-targeting A>I snRNA and 
+cadRNA. RCA FISH was performed in human U-2 OS cells with ×10 magnification 
+images. Images depicting fluorescence signal are small representations of the 
+total number of nuclei (thousands per biological replicate) and are not suitable 
+for visual interpretation. Pixel resolution: 752 nm × 752 nm. Significance of 
+difference: *P < 0.05 and **P < 0.01 (one-way ANOVA) (rolonies per cell, 0.0191; 
+mean rolony distance to nucleus, 0.0016; nuclear-to-cellular rolony ratio, 
+0.0051). Error bars reflect the s.e.m. (n = 3 biological replicates per condition).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+simplex virus 1 infection and double-stranded break repair by syn-
+thesis strand annealing (Extended Data Fig. 2a)26. These results imply 
+that structured, stable cadRNAs may be inducing an innate immune 
+response and acting as templates for homologous recombination, 
+either of which would be highly problematic for cells.
+While cadRNA may be more genetically perturbative overall, we 
+expected U7smOPT snRNA to generate more splicing changes in the 
+transcriptome. To test this hypothesis, we performed local splicing vari-
+ation (LSV) analysis with MAJIQ of the RNA-seq datasets (significance 
+cutoff of P value < 0.05) (Fig. 2b and Supplementary Fig. 3)27. Astonish-
+ingly, for both guides across three different thresholds of differential 
+percent spliced in (dPSI), cadRNA produced ~1.5-2-fold more signifi-
+cant LSV events than U7smOPT snRNA. We attribute this unexpected 
+finding not to directly guided splicing perturbations but rather to 
+pleiotropic effects stemming from cadRNA-mediated downregula-
+tion of splicing factors (24 versus 7 for DMD-targeting and 21 versus 3 
+for RAB7A-targeting, cadRNA versus U7smOPT snRNA, respectively).
+Lastly, we examined the number of off-target A>I editing events 
+absent from both empty vector replicates and present across cadRNA 
+and U7smOPT snRNA replicates with our established SAILOR pipeline 
+(significance cutoff: >75% confidence) (Extended Data Fig. 2b)28. In the 
+case of each guide, for both exonic and nonexonic edit sites and at vari-
+ous edit fraction thresholds, U7smOPT snRNA generated consistently 
+more transcriptome-wide A>I edits than cadRNA. While concerning, 
+these increased off-target edits do not appear to contribute signifi-
+cantly to transcriptome-wide genetic perturbations (Fig. 2). Moreover, 
+they could be mitigated by reducing the guide length or by introduc-
+ing mutations to disrupt RNA-RNA hybridization against concerning 
+homology-mediated off-target sites.
+Nuclear RNA base editing with A>I snRNAs
+We reasoned that the seeming contradiction between higher 
+cadRNA-mediated genetic perturbations and U7smOPT snRNA- 
+mediated transcriptome-wide A>I edits could be reconciled by known 
+more durable expression of cadRNAs (and accompanying antisense 
+knockdown of transcripts) coupled with higher localization of  
+U7smOPT snRNAs to the ADAR protein-enriched nucleoplasm. 
+Whereas U snRNAs spend most of their life cycle in the nucleoplasm29, 
+circular RNAs are actively exported to the cytosol30. This localization 
+hypothesis would also explain why A>I snRNA (C-mismatch guide 
+with U7smOPT snRNA backbone) outperforms cadRNA on high exon  
+count gene mRNAs, which typically persist longer in the nucleus 
+because of more extensive splicing before nuclear export.
+To test the localization hypothesis, we devised a subcellular  
+localization qPCR assay, whereby qPCR performed on both A>I scaf-
+folded guides and genes from nuclear and cytosolic fractionated RNA 
+enables inferred nuclear-to-cytosolic ratio comparison between A>I 
+snRNA and cadRNA for equivalent guides (Fig. 3a). As expected, across 
+three different guides, A>I snRNA localized more highly to the nucleus 
+than cadRNA, with a sample-matched NEAT1 positive control show-
+ing no significant difference in nuclear-to-cytosolic ratio between 
+conditions (Fig. 3a). We orthogonally validated the enriched nuclear 
+localization of A>I snRNA using single-molecule rolling circle amplifi-
+cation fluorescence in situ hybridization (RCA FISH), demonstrating 
+that A>I snRNAs reside ~2 μm closer to the nucleus on average and 
+are ~70% more localized (~42% versus ~25%) within the nucleus than 
+cadRNAs (Fig. 3b). Additionally, RCA FISH enabled us to quantify the 
+expression of cadRNA relative to A>I snRNA, which is ~5-fold for the 
+GAPDH guide and likely impacts relative A>I editing performance. 
+Unlike the subcellular localization qPCR experiment in which cadRNA 
+qPCR threshold cycles for nuclear and cytosolic fractions cancel  
+each other out, cadRNA and A>I snRNA qPCR threshold cycles cannot 
+be directly compared to each other because of differences in circular-
+ized and linear templated strand-displacing complementary DNA 
+(cDNA) synthesis.
+Given this exciting nuclear localization discovery, we wondered 
+whether A>I snRNAs could be leveraged to edit long noncoding RNAs 
+(lncRNAs) and pre-mRNAs, applications not robustly demonstrated 
+with single-component A>I programmable guided RNA scaffold 
+modalities. To boost editing activity in these subsequent experiments, 
+we engineered U7smOPT scaffold A>I snRNAs within a U1 promoter 
+and U1 terminator cassette for more efficient construct expression 
+(Extended Data Fig. 3). We first targeted three well-characterized 
+lncRNAs: HOTAIR, MALAT1 and XIST (Fig. 4a). As predicted, A>I snRNA 
+outperformed cadRNA in all cases. Next, we targeted pre-mRNA 3′ 
+splice sites, whose disruption leads to exon exclusion (Fig. 4b). In 
+addition to testing A>I snRNA and cadRNA, we included an antisense 
+snRNA condition (C-mismatch eliminated from guide) to control for 
+the effects of spliceosomal assembly steric hindrance. We first tested 
+three 3′ splice site contexts for which native A>I editing has previously 
+been implicated in splicing perturbation through ADAR knockdown: 
+DENND4A, FBXL4 and PDE4DIP (Fig. 4c and Supplementary Fig. 4)31. 
+A>I snRNAs edited all three pre-mRNA loci more efficiently than the 
+other conditions, with editing rates ranging from ~10% to 30%. These 
+increased editing rates modestly translated to improved exon skip-
+ping of A>I snRNA over both cadRNA and antisense snRNA (DENND4A 
+-dPSI, ~25% A>I snRNA versus ~5% antisense snRNA; FBXL4 -dPSI, 
+~35% A>I snRNA versus ~29% antisense snRNA), except for PDE4DIP, 
+in which case splicing changes fell below the sensitivity of the reverse 
+transcription (RT)-PCR assay and a weakly editing cadRNA degraded 
+the transcript. Lastly, we tested three additional 3′ splice site con-
+texts for which CRISPR-Cas9 adenine deaminase base editing of DNA 
+results in exon skipping (Fig. 4d and Supplementary Fig. 5)32. Again, 
+A>I snRNA outperformed cadRNA in editing efficiency (~20-85%) and 
+exon skipping (~10-65%). These splicing results indicate a new use of 
+A>I snRNAs whose efficacy above antisense-mediated steric hindrance 
+of spliceosomal assembly may depend largely on cis-splicing factors.
+Increased pseudouridylation efficiency with U>Ψ snRNAs
+Given our success in localizing A>I snRNAs to the nucleus for enhanced 
+A>I editing, we applied a similar approach to U>Ψ RNA base editing.  
+H/ACA box snoRNAs, which catalyze U>Ψ modification (editing) of  
+rRNAs and snRNAs, localize predominantly to the nucleolus. We hypo­
+thesized that more nucleoplasmic localization of programmable guided 
+Fig. 4 | A>I snRNAs edit lncRNAs and pre-mRNAs more efficiently. a, Editing 
+percentage performance by transfection in HEK293T cells of A>I snRNA and 
+cadRNA A>I base editors on lncRNAs. A>I overperformance significance versus 
+cadRNA: ***P < 0.001 and ****P < 0.0001 (one-way ANOVA) (HOTAIR, 3 × 10−4; 
+MALAT1, 1 × 10−4; XIST, 4 × 10−5). Error bars reflect the s.e.m. (n = 3 biological 
+replicates per condition). b, Schematic of A>I snRNA targeting 3′ splice site 
+of pre-mRNA. c,d, A>I editing, RT-PCR gels and quantified PSI performance 
+by transfection in HEK293T cells of A>I snRNAs, antisense snRNAs, cadRNAs 
+and empty control (pUC19) for endogenous ADAR-sensitive (c) and CRISPR 
+base editor-sensitive (d) 3′ splice sites of three human genes. Significance of 
+differences: *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001 and *****P < 0.00001 
+(one-way ANOVA, Bonferroni correction for multiple comparisons) (DENND4A 
+editing A>I:anti, A>I:cad and A>I:empty, 0.0130, 0.0094 and 0.0117; FBXL4 
+editing A>I:anti, A>I:cad and A>I:empty: 0.0078, 0.0052 and 0.0015; PDE4DIP 
+editing A>I:cad and A>I:empty, 0.0040 and 0.0104; DENND4A splicing A>I:anti, 
+A>I:cad and A>I:empty, 0.0055, 0.0024 and 0.0012; FBXL4 splicing A>I:cad, 
+anti:cad, A>I:empty, anti:empty and cad:empty, 0.0030, 0.0480, 1 × 10−5, 1 × 10−5 
+and 2 × 10−4; AHCY editing A>I:cad and A>I:empty, 5 × 10−9 and 5 × 10−9; CTNNA1 
+editing A>I:cad and A>I:empty, 0.0474 and 0.0498; HSF1 editing A>I:empty 
+and cad:empty, 0.0116 and 0.0289; AHCY splicing A>I:empty and cad:empty, 
+1 × 10−5 and 1 × 10−4; CTNNA1 splicing A>I:cad and A>I:empty, 0.0046 and 0.0013; 
+HSF1 splicing A>I:cad, A>I:empty and cad:empty, 0.0209, 1 × 10−5 and 1 × 10−5). 
+Error bars reflect the s.e.m. (n = 3 biological replicates per condition). aGel 
+quantification not reliable because of low abundance of dominant band.
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+a
+***
+0
+10
+20
+30
+40
+50
+60
+Gene:
+HOTAIR
+MALAT1
+XIST
+A>I editing rate (%)
+***
+****
+lncRNA targeting
+cadRNA
+A>I snRNA
+Empty vector
+c
+Endogenous ADAR-sensitive 3′ss targeting
+d
+CRISPR base editor-sensitive 3′ss targeting
+b
+pre-mRNA targeting
+ 3′
+ 5′
+ 5′
+ 3′
+5′ss
+3′ss
+Target intron
+Upstream exon
+Target exon
+Downstream exon
+Downstream
+intron
+Exon
+inclusion
+Exon
+exclusion
+0
+20
+40
+60
+80
+0
+10
+20
+30
+40
+A>I editing rate (%)
+A>I editing rate (%)
+cadRNA
+A>I snRNA
+Empty vector
+cadRNA
+A>I snRNA
+Empty vector
+Antisense snRNA
+Gene:
+Gene:
+*
+**
+*
+*****
+*
+*
+100
+80
+60
+40
+20
+0
+100
+80
+60
+40
+20
+0
+PSI (%)
+PSI (%)
+HSF1
+*
+****
+AHCY
+***
+CTNNA1
+**
+PDE4DIP
+a
+DENND4A
+**
+FBXL4
+*****
+*
+**
+***
+M
+M
+M
+200
+150
+100
+350
+250
+200
+450
+350
+250
+550
+650
+M
+350
+300
+500
+600
+M
+450
+550
+700
+M
+800
+650
+500
+550
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+H/ACA box snoRNAs through fusion to a U7smOPT snRNA backbone 
+would direct the snoRNAs away from the nucleolus for more efficient 
+U>Ψ editing on coding RNAs (Fig. 5a).
+To test whether an snRNA approach could enhance U>Ψ editing, 
+we designed a monocistronic, internally controlled dual-luminescence 
+reporter harboring a cystic fibrosis-implicated PTC from human 
+CFTRW1282X between Renilla luciferase (RLuc) and firefly luciferase (FLuc) 
+(Fig. 5b). In a cotransfection experiment in HEK293T cells, expression 
+of an established CFTR target-guided H/ACA box snoRNA increased 
+the FLuc/RLuc luminescence ratio ~4-fold over a negative control IDUA 
+target-guided H/ACA box snoRNA, validating the assay's sensitivity 
+as a proxy for PTC readthrough. Of all linkers tested between CFTR 
+target-guided H/ACA box snoRNA and U7smOPT snRNA backbone, 
+both the (c)8 and (g)8 linkers (5′-cccccccc-3′ and 5′-gggggggg-3′) 
+resulted in significant FLuc/RLuc luminescence ratio increases, with 
+the (g)8 linker raising the luminescence ratio by ~70% above the snoRNA 
+U6
+U6
+U7
+U7
+U7
+U7
+U7
+U7
+U7
+IDUA CFTR CFTR CFTR CFTR CFTR CFTR CFTR CFTR
+-
+-
+-
+-
+(a)8
+(u)8
+(c)8
+(g)8
+(g)8
+-
+-
+-
++
++
++
++
++
+-
+Promoter:
+H/ACA snoRNA guides:
+Linker/tail:
+U7smOPT snRNA backbone:
+5′
+N
+3′
+C
+0
+0.4
+0.8
+1.2
+1.6
+2
+FLuc/RLuc (a.u.)
+*****
+*****
+NMD rescue in cystic fibrosis human bronchial epithelial cell model
+Exon 22
+Exon 23
+Exon 24
+W1282X
+Ribosome
+Exon junction 
+complex
+NMD
+CFTR pre-mRNA
+CFTR mRNA
+0
+0.4
+0.8
+1.2
+PuroR
+(transgene) expression
+0
+0.5
+1
+1.5
+2
+CFTR
+expression
+Empty vector
+snoRNA
+U>Ψ snRNA
+GAPDH-normalized
+ANXA5-normalized
+Empty vector
+snoRNA
+U>Ψ snRNA
+***
+***
+*
+***
+Lentiviral transduction of
+16HBE14o- CFTR W1282X
+cystic fibrosis model
+PTC suppression dual-luminescence assay:
+CFTR target
+a
+b
+5′
+5′
+3′
+3′
+5′
+3′
+Native 3′ end (        ) if no 
+linker or tail and no backbone
+H/ACA box
+snoRNA 
+guides
+H/ACA box
+snoRNA 
+backbone
+Ψ
+Ψ
+Target
+mRNA
+transcripts
+Stop codon
+H box
+ACA box
+DKC1
+DKC1
+GAR1
+NHP2
+NOP10
+GAR1
+NHP2
+NOP10
+Optional
+linker/tail
+Optional U7smOPT 
+snRNA backbone
+CP degron
+CFTR PTC
+Firefly luciferase
+Renilla luciferase
+XTEN
+Ψ
+CMV
+Poly(A)
+Eﬀective pseudouridylation rate (%)
+c
+ACTB-U1226
+UAG
+EEF2-U2881
+UAG
+RPS6-U514
+UAA
+Empty vector
+snoRNA
+U>Ψ snRNA
+W1282X
+*
+***
+Endogenous mRNA targeting
+0
+10
+20
+30
+40
+Empty vector
+snoRNA
+U>Ψ snRNA
+Empty vector
+snoRNA
+U>Ψ snRNA
+d
+Fig. 5 | U>Ψ snRNAs demonstrate increased potency over engineered snoRNAs 
+in pseudouridylation and PTC suppression. a, Design of engineered U>Ψ 
+snRNA, with guided H/ACA box snoRNA targeting an mRNA transcript fused by 
+RNA linker to U7smOPT backbone. b, Top: schematic of dual-luciferase reporter 
+to quantify PTC suppression of CFTRW1282X mutant by tested U>Ψ snRNA designs. 
+Bottom: luciferase ratio performance by cotransfection in HEK293T cells of 
+various U>Ψ snRNA designs on PTC suppression dual-luciferase reporter. FLuc/
+RLuc significance versus U6 promoter-driven CFTR guide H/ACA box snoRNA 
+without linker or tail and U7smOPT backbone: *****P < 0.00001 (one-way ANOVA, 
+Bonferroni correction for multiple comparisons) (snoRNA IDUA:CFTR, 1 × 10−12; 
+CFTR snoRNA:(c)8, 7 × 10−11; CFTR snoRNA:(g)8, 3 × 10−12). Error bars reflect the 
+s.e.m. (n = 4 biological replicates per condition). c, Effective pseudouridylation 
+performance by transfection in HEK293T cells of guided U>Ψ snRNAs versus  
+H/ACA box snoRNAs on stop codon context sequences from three human genes. 
+Pseudouridylation overperformance significance versus snoRNA: *P < 0.05 and 
+***P < 0.001 (one-way ANOVA) (EEF2, 2 × 10−4; RPS6, 0.0264). Error bars reflect the 
+s.e.m. (n = 3 biological replicates per condition). d, Left: schematic of CFTRW1282X-
+induced NMD and 16HBE14o− lentiviral transduction experiment. Right: CFTR 
+and PuroR (transgene) expression evaluated by qPCR, with both GAPDH and 
+ANXA5 as housekeeping genes. Significance of expression difference: *P < 0.05, 
+**P < 0.01 and ***P < 0.001 (one-way ANOVA, Bonferroni correction for multiple 
+comparisons) (CFTR-GAPDH empty:U>Ψ, 2 × 10−4; CFTR-GAPDH snoRNA:U>Ψ, 
+1 × 10−5; CFTR-ANXA5 empty:U>Ψ, 0.0082; CFTR-ANXA5 snoRNA:U>Ψ, 0.0328; 
+PuroR-GAPDH empty:snoRNA, 3 × 10−4; PuroR-GAPDH empty:U>Ψ, 2 × 10−4; 
+PuroR-ANXA5 empty:U>Ψ, 0.0173). Error bars reflect the s.e.m. (n = 3 biological 
+replicates for empty vector condition; n = 4 biological replicates for snoRNA and 
+U>Ψ snRNA conditions).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+condition, whereas a (g)8 tail without U7smOPT snRNA backbone 
+had no significant effect. Pseudouridylation quantitation by bisulfite 
+sequencing (BID-seq) revealed a concomitant U>Ψ editing rate increase 
+of ~40% for (c)8 and (g)8 linker conditions (~70% editing) compared to 
+the snoRNA condition (~50% editing), indicating a superlinear relation-
+ship between protein-level PTC readthrough and pseudouridylation 
+rates (Extended Data Fig. 4a-c)33. Meanwhile, neither the (a)8 nor the 
+(u)8 linkers (5′-aaaaaaaa-3′ and 5′-uuuuuuuu-3′) increased the lumines-
+cence ratio. Considering these results, we suspect that, unlike the other 
+linkers tested, the (c)8 and (g)8 linkers help stabilize the expanded 
+RNA scaffold. Potentially, the (c)8 and (g)8 linkers, when followed 
+by U7smOPT snRNA backbone, form an endoribonuclease-resistant 
+secondary structure that prevents 3′-end processing of the H/ACA 
+box snoRNA. On the other hand, the (a)8 and (u)8 linkers may recruit 
+poly(A)-binding and poly(U)-binding proteins, respectively, that desta-
+bilize the construct.
+We next tested the H/ACA box snoRNA-(g)8 linker-U7smOPT 
+snRNA backbone fusions (U>Ψ snRNAs) on three endogenous loci 
+in HEK293T cells and quantified the U>Ψ editing rate using targeted 
+amplicon CMC sequencing (Fig. 5c and Extended Data Fig. 4d,e)16. On 
+all three loci, two with statistical significance and one >2-fold, U>Ψ 
+snRNAs outperformed H/ACA box snoRNAs as predicted (pseudouri-
+dylation rates of ~20-40%). This generalization suggests that increased 
+RNA-guided targeted pseudouridylation can be achieved without 
+cytoplasmic DKC1 overexpression, a reportedly successful strategy 
+that nevertheless poses the risk of promoting cancer progression16.
+Given that U>Ψ snRNAs reproducibly enhance pseudouri-
+dylation over H/ACA box snoRNAs, we sought to assess our work-
+ing hypothesis of snRNA-mediated subcellular localization into the 
+nucleoplasm and out of the nucleolus. However, RCA FISH of the EEF2 
+guide on both U>Ψ editing RNA scaffolds did not conclusively dem-
+onstrate either increased nuclear localization or decreased nucleolar 
+localization of the U>Ψ snRNA compared to the H/ACA box snoRNA 
+(Extended Data Fig. 5a). Notwithstanding these results, it is conceiv-
+able that snRNAs may localize the constructs to other subnuclear 
+structures such as nuclear speckles, where DKC1 has been found to 
+reside34. As an alternative hypothesis, U>Ψ snRNAs may achieve higher 
+cellular abundance through Sm core-mediated stabilization and, 
+thus, greater construct-to-target stoichiometry. Guide-specific qPCR 
+revealed this hypothesis to be the case for both CFTR-targeting and 
+ACTB-targeting constructs but, importantly, for neither EEF2-targeting 
+nor RPS6-targeting constructs (Extended Data Fig. 5b). Although we 
+have not totally resolved the molecular mechanism of U>Ψ snRNA 
+efficiency, we posit that the snRNA enhances pseudouridylation activ-
+ity through a balance of both greater construct stability and presently 
+undetermined subnuclear localization and effector recruitment.
+Lastly, we tested the ability of the U>Ψ snRNA to improve NMD 
+rescue in a human bronchial epithelial cystic fibrosis model (Fig. 5d). 
+PTCs lead to NMD through the downstream presence of exon junction 
+complexes, and PTC suppression rescues PTC-harboring mRNAs from 
+NMD. We transduced 16HBE14o− cells harboring the CFTRW1282X muta-
+tion with lentivirus encoding empty vector, CFTR-targeting snoRNA or 
+previously optimized CFTR-targeting U>Ψ snRNA construct (Fig. 5a). 
+Treatment with CFTR-targeting U>Ψ snRNA increased CFTR expression 
+~2-fold when evaluated by qPCR against two distinct housekeeping 
+genes (GAPDH and ANXA5). However, treatment with CFTR-targeting 
+snoRNA at an equivalent transgene expression level did not achieve 
+discernible NMD rescue. Encouragingly, this enhanced activity of U>Ψ 
+snRNAs will enable lower dosage and, thus, safer therapeutics for the 
+same PTC suppression efficacy.
+Discussion
+RNA base editing by programmable single-component guided RNA 
+scaffolds has demonstrated promise as both a minimally invasive and 
+a target-specific approach to gene editing. In this study, we engineered 
+U snRNAs to enhance such systems for A>I and U>Ψ editing on mam-
+malian transcripts. In either base editing case, snRNAs improved system 
+safety and/or efficacy performance over state-of-the-art approaches, 
+with an aspiration toward preclinical targeted suppression of PTC dis-
+eases. Given that Sm core proteins are highly conserved and expressed 
+in all mammalian cells, we expect our findings to translate effectively 
+to other cell types and broadly to PTC disease therapeutics.
+Excitingly, we showed in our study that U>Ψ snRNA significantly 
+increases PTC readthrough over state-of-the-art engineered snoRNA 
+in a human cellular disease model of cystic fibrosis. Given the general-
+izability of enhanced pseudouridylation to other endogenous mRNA 
+targets and an observed superlinear relationship between protein-level 
+PTC readthrough and pseudouridylation rates, U>Ψ snRNAs likely 
+could broadly advance the development of PTC disease gene therapies. 
+Beyond genetically encoded gene therapies, U>Ψ snRNAs could also 
+be administered to patients through nonviral delivery methods such 
+as lipid nanoparticles. Here, the snRNA backbone may further aid in 
+nuclear delivery, as snRNAs spend part of their life cycle at the cyto-
+plasmic SMN complex before returning to the nucleus35.
+More efficient genetically encodable single-component 
+RNA-guided editing of RNA noncoding regions, including the 3′ splice 
+sites of pre-mRNA, enables other therapeutic opportunities. For example,  
+RNA base editor snRNAs could edit intronic RNA-binding protein (RBP) 
+motifs to displace destabilizing RBPs and increase nuclear RNA expres-
+sion. When coupled with single-component RNA-guided translational 
+activation systems, RNA base editor snRNAs could provide an addi-
+tional boost to protein expression36.
+Importantly, snRNA enhancements to RNA base editing systems 
+are guide independent, suggesting an approach that will benefit  
+researchers even as they orthogonally optimize RNA guides for 
+on-target base editing efficiency and specificity37. While our study 
+focused on the U7smOPT snRNA backbone, there are likely further 
+optimizations to be made to the sequence of the snRNA enhancement 
+for augmented scaffold stability and nucleoplasmic RNA localization38. 
+In addition to the H/ACA box snoRNA, we anticipate that snRNA compo-
+nents could enhance programmable base editing by other noncoding 
+RNAs, such as C/D box snoRNAs39-42. Future studies will undoubtedly 
+explore these open questions and potential use cases.
+Online content
+Any methods, additional references, Nature Portfolio reporting sum-
+maries, source data, extended data, supplementary information, 
+acknowledgements, peer review information; details of author contri-
+butions and competing interests; and statements of data and code avail-
+ability are available at https://doi.org/10.1038/s41589-025-02026-8.
+References
+1.	
+Song, J., Zhuang, Y. & Yi, C. Programmable RNA base editing via 
+targeted modifications. Nat. Chem. Biol. 20, 277-290 (2024).
+2.	
+Mort, M., Ivanov, D., Cooper, D. N. & Chuzhanova, N. A.  
+A meta-analysis of nonsense mutations causing human genetic 
+disease. Hum. Mutat. 29, 1037-1047 (2008).
+3.	
+Havens, M. A. & Hastings, M. L. Splice-switching antisense 
+oligonucleotides as therapeutic drugs. Nucleic Acids Res. 44, 
+6549-6563 (2016).
+4.	
+Howard, M., Frizzell, R. A. & Bedwell, D. M. Aminoglycoside 
+antibiotics restore CFTR function by overcoming premature stop 
+mutations. Nat. Med. 2, 467-469 (1996).
+5.	
+Welch, E. M. et al. PTC124 targets genetic disorders caused by 
+nonsense mutations. Nature 447, 87-91 (2007).
+6.	
+Albers, S. et al. Engineered tRNAs suppress nonsense mutations 
+in cells and in vivo. Nature 618, 842-848 (2023).
+7.	
+Porter, J. J., Heil, C. S. & Lueck, J. D. Therapeutic promise of 
+engineered nonsense suppressor tRNAs. Wiley Interdiscip.  
+Rev. RNA 12, e1641 (2021).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+8.	
+Nishikura, K. A-to-I editing of coding and non-coding RNAs by 
+ADARs. Nat. Rev. Mol. Cell Biol. 17, 83-96 (2016).
+9.	
+Reautschnig, P. et al. CLUSTER guide RNAs enable precise and 
+efficient RNA editing with endogenous ADAR enzymes in vivo. 
+Nat. Biotechnol. 40, 759-768 (2022).
+10.	 Katrekar, D. et al. Efficient in vitro and in vivo RNA editing via 
+recruitment of endogenous ADARs using circular guide RNAs. 
+Nat. Biotechnol. 40, 938-945 (2022).
+11.	
+Yi, Z. et al. Engineered circular ADAR-recruiting RNAs increase 
+the efficiency and fidelity of RNA editing in vitro and in vivo. Nat. 
+Biotechnol. 40, 946-955 (2022).
+12.	 Eggington, J. M., Greene, T. & Bass, B. L. Predicting sites of ADAR 
+editing in double-stranded RNA. Nat. Commun. 2, 319 (2011).
+13.	 Borchardt, E. K., Martinez, N. M. & Gilbert, W. V. Regulation and 
+function of RNA pseudouridylation in human cells. Annu. Rev. 
+Genet. 54, 309-336 (2020).
+14.	 Kufel, J. & Grzechnik, P. Small nucleolar RNAs tell a different tale. 
+Trends Genet. 35, 104-117 (2019).
+15.	 Karijolich, J. & Yu, Y. T. Converting nonsense codons into sense 
+codons by targeted pseudouridylation. Nature 474, 395-398 (2011).
+16.	 Song, J. et al. CRISPR-free, programmable RNA pseudouridylation 
+to suppress premature termination codons. Mol. Cell 83, 139-155 
+(2023).
+17.	 Adachi, H. et al. Targeted pseudouridylation: an approach for 
+suppressing nonsense mutations in disease genes. Mol. Cell 83, 
+637-651 (2023).
+18.	 Cong, L. et al. Multiplex genome engineering using CRISPR/Cas 
+systems. Science 339, 819-823 (2013).
+19.	 Mali, P. et al. RNA-guided human genome engineering via Cas9. 
+Science 339, 823-826 (2013).
+20.	 Gadgil, A. & Raczynska, K. D. U7 snRNA: a tool for gene therapy.  
+J. Gene Med. 23, e3321 (2021).
+21.	 Rogalska, M. E. et al. Therapeutic activity of modified U1 core 
+spliceosomal particles. Nat. Commun. 7, 11168 (2016).
+22.	 Raitskin, O., Cho, D. S., Sperling, J., Nishikura, K. & Sperling, R. 
+RNA editing activity is associated with splicing factors in lnRNP 
+particles: the nuclear pre-mRNA processing machinery. Proc. Natl 
+Acad. Sci. USA 98, 6571-6576 (2001).
+23.	 Ietswaart, R. et al. Genome-wide quantification of RNA flow 
+across subcellular compartments reveals determinants of the 
+mammalian transcript life cycle. Mol. Cell 84, 2765-2784 (2024).
+24.	 Flanigan, K. M. et al. Nonsense mutation-associated Becker 
+muscular dystrophy: interplay between exon definition and 
+splicing regulatory elements within the DMD gene. Hum. Mutat. 
+32, 299-308 (2011).
+25.	 Love, M. I., Huber, W. & Anders, S. Moderated estimation of fold 
+change and dispersion for RNA-seq data with DESeq2. Genome 
+Biol. 15, 550 (2014).
+26.	 Zhou, Y. et al. Metascape provides a biologist-oriented resource 
+for the analysis of systems-level datasets. Nat. Commun. 10, 1523 
+(2019).
+27.	 Vaquero-Garcia, J. et al. RNA splicing analysis using hetero­geneous 
+and large RNA-seq datasets. Nat. Commun. 14, 1230 (2023).
+28.	 Deffit, S. N. et al. The C. elegans neural editome reveals an  
+ADAR target mRNA required for proper chemotaxis. eLife 6, 
+e28625 (2017).
+29.	 Patel, S. B. & Bellini, M. The assembly of a spliceosomal small 
+nuclear ribonucleoprotein particle. Nucleic Acids Res. 36, 
+6482-6493 (2008).
+30.	 Ngo, L. H. et al. Nuclear export of circular RNA. Nature 627, 
+212-220 (2024).
+31.	 Hsiao, Y. E. et al. RNA editing in nascent RNA affects pre-mRNA 
+splicing. Genome Res. 28, 812-823 (2018).
+32.	 Winter, J. et al. Targeted exon skipping with AAV-mediated split 
+adenine base editors. Cell Discov. 5, 41 (2019).
+33.	 Dai, Q. et al. Quantitative sequencing using BID-seq uncovers 
+abundant pseudouridines in mammalian mRNA at base 
+resolution. Nat. Biotechnol. 41, 344-354 (2023).
+34.	 Pederiva, C. et al. Control of protein synthesis through mRNA 
+pseudouridylation by dyskerin. Sci. Adv. 9, eadg1805 (2023).
+35.	 Matera, A. G. & Wang, Z. A day in the life of the spliceosome.  
+Nat. Rev. Mol. Cell Biol. 15, 108-121 (2014).
+36.	 Cao, Y. et al. RNA-based translation activators for targeted gene 
+upregulation. Nat. Commun. 14, 6827 (2023).
+37.	 Sun, Y. et al. Improved RNA base editing with guide RNAs 
+mimicking highly edited endogenous ADAR substrates. Nat. 
+Biotechnol. https://doi.org/10.1038/s41587-025-02628-6 (2025).
+38.	 Byrne, S. M. et al. An engineered U7 small nuclear RNA scaffold 
+greatly increases ADAR-mediated programmable RNA base 
+editing. Nat. Commun. 16, 4860 (2025).
+39.	 Choi, J. et al. 2′-O-methylation in mRNA disrupts tRNA decoding 
+during translation elongation. Nat. Struct. Mol. Biol. 25, 208-216 
+(2018).
+40.	 Elliott, B. A. et al. Modification of messenger RNA by 
+2′-O-methylation regulates gene expression in vivo. Nat. Commun. 
+10, 3401 (2019).
+41.	 Arango, D. et al. Direct epitranscriptomic regulation of mammalian 
+translation initiation through N4-acetylcytidine. Mol. Cell 82, 
+2797-2814 (2022).
+42.	 Thalalla Gamage, S. et al. Antisense pairing and SNORD13 
+structure guide RNA cytidine acetylation. RNA 28, 1582-1596 
+(2022).
+Publisher's note Springer Nature remains neutral with regard  
+to jurisdictional claims in published maps and institutional  
+affiliations.
+Open Access This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article's Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article's Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this licence, visit http://creativecommons.
+org/licenses/by/4.0/.
+© The Author(s) 2025
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+Methods
+Cloning of plasmids
+gRNA and snoRNA plasmids (Supplementary Tables 1 and 2) were sub-
+cloned into pUC19 (N3041S, New England Biolabs) and pcDNA 3.1(-) 
+(V79520, Life Technologies Corporation) using EcoRI-HF and BamHI-HF 
+digestion followed by Gibson assembly (E2611L, New England Biolabs). 
+Lentiviral plasmids, containing CFTR-targeting small RNAs, were ordered 
+as gene fragments (Twist) and similarly assembled into a lentiviral trans-
+fer vector with an Ef1a core-eGFP-PuroR cassette (Supplementary Table 1) 
+by Gibson assembly. Nonlentiviral Gibson assemblies were transformed 
+into Mix & Go! competent cells JM109 (T3005, Zymo Research)  
+and plated on Luria-Bertani (LB) agar with antibiotic. Lentiviral  
+Gibson assemblies used One Shot Stbl3 chemically competent  
+Escherichia coli (C737303, Thermo Fisher Scientific). All plasmids were 
+cultured in LB medium with antibiotic, miniprepped using a QIAprep 
+Spin miniprep kit and verified by sequencing and SnapGene analysis.
+Cell culture
+Human HEK 293T cells (632180, Takara Bio) and U-2 OS cells (HTB-96, 
+American Type Culture Collection) were maintained in D10 (DMEM 
+(4.5 g L−1 d-glucose) supplemented with 10% FBS (Gibco) and 1%  
+penicillin-streptomycin (10,000 U per ml) (Gibco) at 37 °C with 5% 
+CO2. Cells were periodically passaged once at 70-90% confluency by 
+dissociating with TrypLE Express enzyme (Gibco) at a ratio of 1:10.
+The 16HBE14o− CFTRW1282X human bronchial epithelial cells (Cystic  
+Fibrosis Foundation) were cultured at 37 °C, 5% CO2 in 16HBE14o− expan-
+sion medium (α-MEM (Sigma-Aldrich, M2279-500ML) supplemented 
+with 10% FBS (Gibco), 1% GlutaMax (ThermoFisher Scientific) and 1% 
+penicillin-streptomycin (10,000 U per ml) (Gibco)). Before cell plating, 
+flasks were coated for ~2 h with an unrinsed fibronectin and collagen ECM 
+mixture (97 ml of α-MEM, 2 ml of human fibronectin stock (0.5 mg ml−1 
+in α-MEM; Sigma-Aldrich, F2006-5MG) and 1 ml of PureCol (3 mg ml−1 
+in 0.01 N HCl; Sigma-Aldrich 5006-15MG)). Cells were passaged 1:10 
+using TrypLE Express when 90-95% confluent. 16HBE14o− CFTRW1282X 
+cells were genotyped by harvesting in QuickExtract DNA extraction 
+solution (QE09050, LGC, Biosearch Technologies), followed by PCR 
+with primers containing sequences 5′-GGTCAGGATTGAAAGTGTGCA-3′ 
+and 5′-CTATGAGAAAACTGCACTGGA-3′, PCR purification and amplicon 
+sequencing (Plasmidsaurus).
+Transfections
+HEK 293T cells (<30 passages) were transfected using jetOPTIMUS 
+DNA transfection reagent (VWR International, 76299-632). For A>I RNA 
+extractions, cells in 48-well plates were transfected at ~60% confluency 
+with 250 ng of plasmid DNA. For U>Ψ RNA extractions, cells in 12-well 
+plates were transfected at ~60% confluency with 1 µg of plasmid DNA. 
+For luciferase reporter assays, cells in 96-well plates were transfected at 
+~60% confluency with 100 ng of plasmid DNA (75 ng of guide and 25 ng 
+of reporter). All transfections routinely achieved over 80% efficiency.
+RNA extraction, A>I editing quantification and RNA-seq library 
+preparation
+First, 48 h after transfection, cells were washed twice with PBS and 
+RNA was extracted using the Qiagen RNeasy Plus mini kit, eluting in 
+30 µl. For A>I editing, cDNA was synthesized from 3 µl of RNA in a 10-µl 
+volume using a New England Biolabs ProtoScript II first-strand cDNA 
+synthesis kit and oligo(dT) primers. PCR was performed with 500 nM 
+of specified primers (Supplementary Table 3) using NEBNext Ultra II Q5 
+master mix, with a 68 °C Tm and 30-s extension for 30 cycles (mRNA) or 
+32 cycles (pre-mRNA). PCR products were purified (Qiagen QIAquick) 
+and Sanger-sequenced to quantify A>I editing. RNA-seq libraries were 
+prepared from 1 µg of RNA using the Illumina stranded mRNA prep, liga-
+tion kit (20040532, Illumina) following the manufacturer's protocol. 
+Libraries were sequenced on an Illumina NovaSeq X Plus 10B (100-bp 
+paired-end reads) with a target depth of ~50 million reads per sample.
+Correlation modeling of U7smOPT snRNA versus cadRNA A>I 
+editing
+Analysis was performed on the 15 genes targeted in Fig. 1b,c. U7smOPT 
+snRNA-to-cadRNA performance ratios were calculated as the ratios of 
+the mean editing efficiencies for each respective target. Exon counts 
+were taken from GRCh38.p14. Gene lengths were calculated as the dif-
+ference between start and end base indices of genes from GENCODE 
+version 44 (GRCh38.p14). Mean nuclear export rates of gene mRNAs 
+were calculated as the average of two replicates of k_nucexp_from_
+nucres.mean in K562 cells from Table S1 of Ietswaart et al.23. Pearson's 
+linear correlation coefficients were taken for the performance ratio 
+versus each hypothesis (exon count, gene length and mean nuclear 
+export rate) across all targets. Data were analyzed and plotted in Matlab 
+(version R2024a).
+RNA-seq alignment
+Reads were quality-checked and adaptor-trimmed with FastQC. Paired 
+reads were then aligned to the GENCODE version 44 hg38 primary 
+assembly using STAR aligner (version 2.7.6a). A genome index was 
+built using GRCh38.primary_assembly.genome.fa, gencode.v44.pri-
+mary_assembly.annotation.gtf and '--sjdbOverhang 100'. FASTQ files 
+were mapped with default options and '--outSAMtype BAM unsorted'. 
+SAMtools (version 1.3.1) sorted and indexed the resulting BAM files.
+Differential gene expression analysis
+Differential expression analysis of RNA-seq reads involved Subread fea-
+tureCounts (version 1.5.3) for gene quantification and DESeq2 (version 
+1.39.3) for identifying differentially expressed genes (DEGs). Subread 
+featureCounts generated gene count matrices from paired-end reads, 
+using parameters such as gencode.v44.primary_assembly.annotation.
+gtf, exon features and filtering for primary alignments, quality score 
+(Q255) and duplicate reads. These matrices were loaded into R and 
+converted to DESeq2 datasets; genes with no expression were removed. 
+DESeq2::DESeq identified DEGs using default parameters, with results 
+saved as .csv files. Volcano plots were generated using RNAlysis 2 
+(version 3.9.2) with a significance threshold of adjusted P < 0.05 and 
+log2(fold change) > 0.5. Principal component analysis plots were also 
+created with RNAlysis 2 after normalizing counts by relative log expres-
+sion and filtering low-expression genes. Gene set enrichment analysis 
+(GSEA) (version 4.3.2) was performed on ranked gene lists, filtered by 
+a log2(fold change) threshold of ±0.5. Ranking metrics were calculated 
+as the sum of the product of the log2(fold change) and −log10(P value). 
+GSEA used the c5.go.bp.v2023.2.Hs.symbols.gmt gene set and classic 
+enrichment statistics. DMD was excluded from lists for DMD-targeting 
+guide RNAs because of an artifact. Full DESeq2 outputs are in Supple-
+mentary Dataset 1.
+Gene pathway analysis
+Significantly upregulated and downregulated genes identified in 
+both cadRNA datasets but not in either U7smOPT snRNA dataset 
+were analyzed for gene pathway significance with Metascape (version 
+3.5.20240101) using as background all genes without an 'NA' adjusted 
+P value in all replicates of cadRNA and U7smOPT snRNA datasets from 
+the DESeq2 pipeline.
+Differential splicing analysis
+Splicing variations across cadRNA, U7 smOPT and pUC19 controls were 
+assessed using MAJIQ and VOILA (version 2.5). MAJIQ builder created 
+splice graphs and MAJIQ quantifier measured the dPSI of LSVs at known 
+splice sites. VOILA TSV selected genes with P(|dPSI| > x) > 0.95. PRISM 
+and R were used for plotting.
+Splicing factor analysis
+Significantly perturbed splicing factors were identified as a subset of 
+significantly upregulated and downregulated genes from both cadRNA 
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+and U7 smOPT datasets contained within the Gene Ontology biological 
+process RNA splicing (GO:0008380)
+Transcriptome-wide A>I editing analysis
+Transcriptome-wide RNA editing was quantified using SAILOR (version 
+1.1.0). Aligned reads were processed to generate base quality MD tags 
+with sAMtools (version 1.3.1) calmd -b and the GENCODE version 44 
+GRCh38.primary_assembly.genome.fa sequence. Reads with MD tags 
+were analyzed using the SAILOR cwl workflow, using the same reference 
+genome as for alignment and MD tag generation. Edit sites required a 
+SAILOR confidence level exceeding 0.75 for significance. Exonic sites 
+intersected with 'exon' features from gencode.v44.primary_assem-
+bly.annotation.gtf using 'BEDTools intersect -s -wa -a'. All other sites 
+were classified as nonexonic. Edit fraction thresholds were applied to 
+SAILOR's post-pseudocount edit percentage output.
+Subcellular localization qPCR
+Cells were washed twice with ice cold PBS and then spun down for 
+5 min at 300g, before aspirating the supernatant. Cells were then resus-
+pended completely by gentle pipetting with 150 μl of buffer A (15 mM 
+Tris-HCl pH 8, 15 mM NaCl, 60 mM KCl, 1 mM EDTA pH 8, 0.5 mM EGTA 
+pH 8, 0.5 mM spermidine and 10 U per ml SUPERase•In RNase Inhibitor 
+(AM2694, Thermo Fisher Scientific)). To this solution, 150 μl of 2× lysis 
+buffer (buffer A with 0.5% NP-40) was added and mixed by inversion. 
+The mixture was incubated for 8 min at 4 °C and then spun down for 
+5 min at 400g. The top 200 μl of supernatant was carefully removed 
+and placed into a new tube (the cytosolic fraction). The remaining 
+supernatant was removed and discarded from the nuclear pellet and 
+this pellet was resuspended in 1 ml of RLN buffer (50 mM Tris-HCl pH 
+8, 140 mM NaCl, 1.5 mM MgCl2, 0.5% NP-40, 10 mM EDTA pH 8, 10 U per 
+ml SUPERase•In RNase inhibitor (AM2694, Thermo Fisher Scientific)). 
+This nuclear resuspension was incubated for 5 min at 4 °C. During the 
+incubation, the cytosolic fraction was spun again for 1 min at 500g and 
+its supernatant was collected into a new tube. Next, 500 μl of Trizol LS 
+(10296010, Invitrogen) was added to this cytosolic fraction. The nuclear 
+fraction was spun down once more for 5 min at 500g. Supernatant 
+was removed from the nuclear fraction pellet and 500 μl of TRIzol 
+(15596018, Invitrogen) was added to the nuclear fraction pellet. To 
+both TRIzol homogenizations was added 1 μl of GlycoBlue coprecipi-
+tant (AM9516, Thermo Fisher Scientific). Then, RNA was extracted by 
+phenol-chloroform extraction, followed by ethanol precipitation.
+cDNA synthesis was carried out using the ProtoScript II first-strand 
+cDNA synthesis kit (E6560L, New England Biolabs) with 6 μl of RNA in a 
+20-μl total volume using random hexamer primers supplied with the kit. 
+Before qPCR, nuclear fraction cDNA was diluted 1:2 with nuclease-free 
+water and cytosolic fraction cDNA was diluted 1:60 with nuclease-free 
+water. qPCR with 500 nM of specified primers (Supplementary Table 3) 
+was carried out using PowerTrack SYBR green master mix (A46109, 
+Thermo Fisher Scientific) using the CFX Opus 384 (Bio-Rad) and qPCR 
+parameters of 95 °C for 2 min, followed by 40 cycles of 95 °C for 15 s 
+and 60 C°C for 1 min. From the qPCR Cq values, subcellular (nuclear 
+and cytosolic), guide and NEAT1 expression levels were normalized 
+relative to their subcellular GAPDH expression controls; then, the ratio 
+of these normalized subcellular expressions was calculated. Data were 
+analyzed and plotted in Matlab (version R2024a).
+Splicing isoform quantification
+For splicing isoform quantification, cDNA synthesis was carried out 
+using the ProtoScript II first-strand cDNA synthesis kit (E6560L, New 
+England Biolabs) with 3 μl of RNA in a 10-μl total volume using oligo(dT) 
+primers supplied with the kit. PCR with 500 nM of specified primers 
+(Supplementary Table 3) was carried out using NEBNext Ultra II Q5 
+master mix (M0544L, New England Biolabs) with a Tm of 68 °C and 30-s 
+extension time for 32 cycles. PCR products were purified by a QIAquick 
+PCR purification kit (28106, Qiagen), with 50% of eluted volume run 
+on 2% E-Gel EX agarose gels(G402022, Thermo Fisher Scientific) for  
+~15 min with E-Gel ultralow-range DNA ladder (10488096, Thermo Fisher  
+Scientific) and E-Gel 50-bp DNA ladder (10488099, Thermo Fisher 
+Scientific). Gels were visualized using the Azure Biosystems c600. 
+Gel bands were quantitated using GelAnalyzer (version 19.1), with PSI 
+values calculated after adjusting bands for relative molecular weights.
+Luciferase reporter assay
+The cell medium was changed 48 h after transfection. Luminescence 
+was measured using a Tekan Infinite 200Pro plate reader (Costar 96 
+flat white setting, automatic attenuation) and Promega's Dual-Glo 
+luciferase assay system (E2920). Integration times were 500 ms for 
+FLuc and 100 ms for RLuc. Data were analyzed and plotted in Matlab 
+(version R2024a).
+In vitro transcription of pseudouridine standards
+Template DNA was first generated by a two-stage PCR on a DNA oligo  
+containing the respective target sequence context (Supplementary  
+Table 3). First, the oligo was PCR-amplified for two cycles with pseudo­
+uridylation standard primers (PCR1). This PCR amplicon was then 
+used as a template for a 15-cycle reaction with PCR2. The resulting  
+PCR amplicon was PAGE-purified and divided into two T7 in vitro 
+transcription reactions (MEGAshortscript, Invitrogen), containing 
+the standard triphosphate pool (for unmodified standards) or with 
+substitution of UTP for ΨTP (for pseudouridine standards). After a 
+120-min in vitro transcription, the reaction was treated with DNase 
+(Turbo DNase, Invitrogen) and RNA was purified by PAGE before use 
+in CMC or BID-seq reactions.
+Targeted BID-seq
+BID-seq33 began with bisulfite treatment using 8.5 μl of DNaseI-treated 
+total RNA, mixing it with 45 μl of 2.4 M Na2SO3 and 0.36 M NaHSO3 and 
+heating at 70 °C for 3 h. The reaction was diluted with 75 μl of RNase-free 
+water, combined with 270 μl of RNA-binding buffer and 400 μL ethanol 
+and loaded onto a Zymo RNA clean and concentrator-5 column. The col-
+umn was washed with 200 μl of RNA wash buffer and then incubated for 
+90 min at room temperature with 200 μl of RNA desulfonation buffer. 
+After clearing the desulfonation buffer, the column was washed twice 
+with 700 μl of RNA wash buffer. Bisulfite-treated RNA was eluted in 
+10.5 μl of nuclease-free water. For RT, 5 μl of treated RNA was combined 
+with 1 μl of 50 mM random hexamers or 10 mM dNTPs and 6 μl of water, 
+annealed at 65 °C for 5 min and snap-chilled. The primer-annealed RNA 
+underwent RT with 4 μl of 5× SSIV buffer, 100 mM DTT, 1 μl of RNasein 
+Plus and 1 μl of SSIV, incubated at 23 °C for 10 min, 55 °C for 10 min and 
+80 °C for 10 min. RNA hydrolysis involved adding 5 μl of 1 M NaOH and 
+heating at 95 °C for 5 min, before quenching with 5 μl of 1 M HCl. The 
+resulting cDNA was purified using MyOne Silane Dynabeads and eluted 
+in 20 μl of nuclease-free water. Gene-specific PCR amplification used 
+primers from Supplementary Table 3. PCR products were purified with 
+AMPure XP beads, pooled equally and sent for amplicon sequencing. 
+Raw FASTQ files were aligned to target references using bbmap; BAM 
+files were sorted and indexed with SAMtools. Deletion rates were quan-
+tified per position using SAMtools mpileup and custom Python scripts. 
+Effective pseudouridylation rates were calculated by normalizing to 
+the 100% ΨTP CFTR synthetic RNA standard. Data were analyzed and 
+plotted in Matlab (version R2024a).
+Targeted amplicon CMC sequencing
+To disrupt RNA secondary structure, 5 μg of RNA in ~10 μl of 
+nuclease-free water was incubated at 80 °C for 5 min and then chilled 
+on ice. Denatured RNA was transferred to 100 μl of BEU buffer (50 mM 
+bicine pH 8.5, 4 mM EDTA and 7 M urea) with 0.2 M CMC (C106402-1G, 
+Sigma-Aldrich), incubated at 37 °C for 20 min and purified by ethanol  
+precipitation. Pellets were dissolved in 50 μl of Na2CO3 buffer (50 mM 
+Na2CO3 pH 10.4 and 2 mM EDTA), incubated at 37 °C for 2 h and 
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+purified by ethanol precipitation. Pellets were redissolved in 10 μl 
+of nuclease-free water. For RT, 2 μl of random hexamer primers from 
+the SuperScript first-strand synthesis system for RT-PCR (11904018, 
+Thermo Fisher Scientific) were added, denatured at 65 °C for 5 min and 
+chilled on ice. Then, 8 μl of freshly prepared 2.5× RT buffer (125 mM Tris 
+pH 8.0, 15 mM MnCl2, 187.5 mM KCl, 1.25 mM dNTPs and 25 mM DTT) 
+was added before incubating at 25 °C for 2 min. Next, 1 μl of SuperScript 
+II reverse transcriptase from the SuperScript first-strand synthesis 
+system for RT-PCR (11904018, Thermo Fisher Scientific) was added. 
+Reactions ran at 25 °C for 10 min, 42 °C for 3 h and 70 °C for 15 min.
+Library preparation involved two PCR steps. First, PCR with 
+500 nM locus-specific primers (Supplementary Table 3) used 1 μl of 
+cDNA with NEBNext Ultra II Q5 master mix (M0544L, New England Bio-
+labs) in 10 μl (Tm 65 °C) with a 30-s extension for 15 cycles. Products were 
+cleaned with 1.8× AMPure XP beads (A63881, Beckman Coulter), eluted 
+in 11 μl. Second, PCR with 500 nM next-generation sequencing universal 
+barcoded primers (Supplementary Table 3) used 10 μl of first-round 
+product with NEBNext Ultra II Q5 master mix (M0544L, New England 
+Biolabs) in 20 μl (Tm 65 °C) with a 30-s extension for 15 cycles. Products 
+were pooled, purified using the QIAquick PCR purification kit (28106, 
+Qiagen) and run on 2% E-Gel EX agarose gels (G402022, Thermo Fisher 
+Scientific) for ~15 min. The ~250-bp upper band was extracted and 
+purified using the QIAquick gel extraction kit (28704, Qiagen) before 
+sequencing. The library was sequenced on an Illumina NovaSeq X Plus 
+10B (150-bp paired-end reads), targeting ~5 million reads per sample.
+FASTQ files were collapsed along UMI (unique molecular identi-
+fier) using the first occurrence of a 10-mer UMI. Only sequences with 
+perfect 8-mer matches upstream or downstream of target NΨN were 
+considered. Deletion rates were calculated as the fraction of total 
+sequences at a locus with 2 nt between perfect 8-mer matches. Muta-
+tion rates were calculated as the fraction of total sequences at a locus 
+with 3 nt between perfect 8-mer matches and no T at the Ψ position 
+in target NΨN. Effective pseudouridylation rates were normalized to 
+100% ΨTP ACTB, EEF2 and RPS6 synthetic RNA standards. Data were 
+analyzed and plotted in Matlab (version R2024a).
+Guide-specific qPCR to quantitate construct expression
+First, 48 h after transfection, HEK293T cells were washed twice with PBS; 
+then, RNA was extracted using the RNeasy Plus mini kit (74136, Qiagen) 
+with an elution volume of 30 μl. cDNA synthesis was carried out using 
+the ProtoScript II first-strand cDNA synthesis kit (E6560L, New England 
+Biolabs) with 3 μl of RNA in a 10-μl total volume using two different reac-
+tions per replicate: random hexamer primers supplied with the kit for 
+GAPDH quantitation and the primer used as the reverse qPCR primer 
+for guide quantification (Supplementary Table 3). Before qPCR, cDNA 
+was diluted 1:3 with nuclease-free water. qPCR with 500 nM specified 
+primers (Supplementary Table 3) was carried out using the PowerUp 
+SYBR green master mix (A25742, Thermo Fisher Scientific) with the 
+CFX96 (Bio-Rad) and qPCR parameters of 50 °C for 2 min and 95 °C for 
+2 min, followed by 40 cycles of 95 °C for 15 s and 60 °C for 1 min. From 
+the qPCR Cq values, guide expression levels were normalized relative 
+to GAPDH. Data were analyzed and plotted in Matlab (version R2024a).
+RCA FISH experiment
+U-2 OS cells (<20 passages) were seeded into 96-well glass-bottom 
+microplates (Greiner Bio-One SensoPlate, 07-000-109). Plasmids were 
+transfected into ~30% confluent cells using jetOPTIMUS DNA transfec-
+tion reagent (76299-632, VWR International). Three bioreplicate wells 
+per condition received 12.5 ng of plasmid DNA for A>I RNA RCA FISH 
+and 25 ng for U>Ψ RNA RCA FISH. Cells were cultured to ~80% conflu-
+ency and then incubated at 65 °C for 5 min, followed by rapid ice cooling 
+before fixation. Cells were fixed for 30 min at room temperature in 4% 
+(w/v) paraformaldehyde (PFA; Electron Microscopy Sciences, 15714) 
+and 0.007% (v/v) glutaraldehyde (Electron Microscopy Sciences, 16120) 
+in 1× PBS (Ambion, AM9625). After three 1× PBS washes, cells were 
+permeabilized with 0.5% (v/v) Triton X-100 in 1× PBS for 10 min at room 
+temperature. Permeabilization solution was removed by three washes 
+with PBS containing 0.05% (v/v) Tween-20 (PBS-T; VWR, 100216-360).
+Target snRNAs and snoRNAs were reverse-transcribed in situ. 
+Each 50-μl well reaction contained 1× SuperScript IV buffer (Lifetech, 
+18090050), 500 μM of each dNTP (New England Biolabs, N0447L), 
+1 μM RT primer (Integrated DNA Technologies), 0.2 mg ml−1 BSA  
+(New England Biolabs, B9200S), 0.8 U per μl RNase inhibitor (M0314L 
+or Thermo Fisher Scientific, EO0384) and 20 U per μl of SuperScript IV 
+reverse transcriptase (Lifetech, 18090050) in RNase-free water. Plates 
+were sealed and incubated overnight (approximately 16-18 h) at 37 °C. 
+Following RT, cells were washed three times with PBS-T and postfixed 
+for 30 min at room temperature in 1× PBS with 3% (w/v) PFA and 0.1% 
+(v/v) glutaraldehyde. Cells were washed five times with PBS-T. Padlock 
+probe ligation was performed in a 50-μl well reaction with 1× Ampligase 
+buffer (Lucigen, A3210K), 100 nM padlock probe (Integrated DNA Tech-
+nologies, high-performance liquid chromatography (HPLC)-purified), 
+0.2 mg ml−1 BSA, 0.4 U per μl of RNase H (Enzymatics, Y9220L) and 0.5 U 
+per μl of Ampligase (Lucigen, A3210K). The reaction incubated at 37 °C 
+for 30 min and then 45 °C for 45 min on a thermocycler with a heated 
+lid. Cells were then washed three times with PBS-T.
+Ligated padlock probes were amplified by RCA. The 50-μl reaction 
+mix per well, prepared on ice, contained 1× Phi29 buffer (Thermo Fisher 
+Scientific, EP0091), 5% (v/v) glycerol (Sigma-Aldrich, G5516), 250 μM 
+of each dNTP, 0.2 mg ml−1 BSA and 1 U per μl Phi29 DNA polymerase 
+(Thermo Fisher Scientific, EP0091) (added last to chilled mixture). 
+Plates were sealed (adjacent empty wells contained water for humidity) 
+and incubated overnight (approximately 18 h) at 30 °C. After RCA, cells 
+were washed three times with PBS-T. RCA products were detected by 
+hybridization with fluorescently labeled hybridization probes (Inte-
+grated DNA Technologies, HPLC-purified). The 100-μl hybridization 
+mix per well contained 1 μM hybridization probe in hybridization buffer 
+(2× saline sodium citrate (Ambion, AM9763) and 10% (v/v) formamide). 
+Hybridization was for 30 min at room temperature, followed by three 
+PBS-T washes. Nucleoli were stained with 1 μM nucleolar red in 1× PBS 
+for 5 min. Nuclei were counterstained with DAPI.
+Fluorescence imaging used a Squid microscopy system (Cepha-
+logics) with a pentaband filter set (laser lines at 405, 470, 550, 640 and 
+730 nm) and an IMX571 camera. An Olympus ×10 (0.8 numerical aperture) 
+Plan Apo objective was used. Excitation wavelengths were 405 nm (DAPI), 
+561 nm (nucleolar red) and 638 nm (TYE665). For A>I RNA RCA FISH, nine 
+images (~10,000-20,000 cells total) were taken per well. For U>Ψ RNA 
+RCA FISH, 13 images (~20,000-40,000 cells total) were taken per well.
+RCA FISH analysis
+RCA FISH images were analyzed using a custom CellProfiler (version 
+4.2.8) pipeline. Nuclei were identified in 405 filter images (10-40-pixel 
+diameter) using IdentifyPrimaryObjects with a global, minimum 
+cross-entropy thresholding method (smoothing scale, 1.3488; cor-
+rection factor, 1.0; bounds, 0.2-1.0). Clumped objects were divided by 
+shape and intensity. Cell boundaries were identified by expanding 20 
+pixels using ExpandOrShinkObjects. RCA rolonies were identified in 
+640 filter images (1-10-pixel diameter) using IdentifyPrimaryObjects 
+with similar global, minimum cross-entropy thresholding (smooth-
+ing scale, 1.3488; correction factor, 1.0; bounds, 0.07-1.0). Clumped 
+objects were divided by shape and intensity. Only rolonies within cell 
+boundaries were counted (RelateObjects). For U>Ψ RNA RCA FISH 
+images, nucleoli were identified in 550 filter images (1-7-pixel diameter) 
+using IdentifyPrimaryObjects with an adaptive, robust background 
+thresholding method (outlier fractions, 0.05; mean and s.d. methods, 
+1.5 deviations; smoothing scale, 0.674; correction factor, 1; bounds, 
+0.02-1.0; adaptive window, 7). Clumped objects were divided by inten-
+sity. Only nucleoli within nuclei were counted (RelateObjects).
+Edge-to-edge distances between RCA rolonies and nuclei  
+and nucleoli were determined first by binarizing nuclei and nucleoli 
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+(ConvertObjectsToImage) and then inverting (ImageMath, invert 
+operation, standard scaling and clamping). A distance map was gen-
+erated from these inverted images using Morph (distance operation). 
+Finally, MeasureObjectIntensity calculated edge-to-edge distances 
+as Intensity_MinIntensityEdge values, with 0 assigned if rolonies were 
+within nuclei or nucleoli. RCA rolonies were considered localized within 
+nuclei or nucleoli if they were children of nuclei or nucleoli (Relate-
+Objects). Data were analyzed and plotted in Matlab (version R2024a).
+Cystic fibrosis disease modeling
+Lentivirus was produced by seeding 8 × 106 LentiX cells in a 10-cm 
+dish 24 h before transfection. Virus particles were packaged using 
+standard three-plasmid transfection with VirusGen reagent. Super-
+natants were collected 72 h after transfection, filtered (0.45-μm 
+PVDF), concentrated by PEG precipitation (LentiX concentrator), 
+snap-frozen and stored at −80 °C. Functional titers were deter-
+mined on HEK293T cells by eGFP flow cytometry. For transduction, 
+200,000 16HBE14o− CFTRW1282X cells were seeded on ECM-coated 
+48-well plates 24 h beforehand. Cells were spin-transduced with 
+titer-adjusted virus in PBS containing 5 μg ml−1 polybrene at 1,000 rcf 
+for 15 min at 37 °C. The medium was changed after 48 h. Cul-
+tures were expanded over 3 weeks to 10-cm dishes, with 1.5 μg ml−1 
+puromycin selection on days 7-14 to prevent nontransduced cell  
+expansion. Cells were then washed, scraped, pelleted and snap-frozen.
+RNA was extracted from cell pellets using the RNeasy Plus mini 
+kit (74136, Qiagen) with an elution volume of 30 μl. cDNA synthesis 
+was carried out using the ProtoScript II first-strand cDNA synthesis 
+kit (E6560L, New England Biolabs) with 6 μl of RNA in a 20-μl total  
+volume using oligo(dT) primers supplied with the kit. qPCR with 
+500 nM of specified primers (Supplementary Table 3) was carried out 
+using PowerTrack SYBR green master mix (A46109, Thermo Fisher 
+Scientific) with the CFX Opus 384 (Bio-Rad) and qPCR parameters of 
+95 °C for 2 min, followed by 40 cycles of 95 °C for 15 s and 60 C°C for 
+1 min. From the qPCR Cq values, CFTR and PuroR expression levels were 
+normalized relative to GAPDH and ANXA5 housekeeping genes. Data 
+were analyzed and plotted in Matlab (version R2024a).
+Reporting summary
+Further information on research design is available in the Nature 
+Portfolio Reporting Summary linked to this article.
+Data availability
+RNA-seq data from this study are available from the National Center for 
+Biotechnology Information's Gene Expression Omnibus under acces-
+sion number GSE295421. Datasets from GENCODE Human Release 44 
+(GRCh38.p14) were used in this study. Uncropped scans of gels for Fig. 4 
+annotated with conditions and biological replicates are provided in 
+Supplementary Figs. 4 and 5. Source data are provided with this paper.
+Code availability
+Critical code used for data analysis can be accessed via Zenodo at 
+https://doi.org/10.5281/zenodo.16755321 (ref. 43).
+References
+43.	 Smargon, A. A. & Yee, B. YeoLab/Yeo_RNA_base_editing: v1.0. 
+Zenodo https://doi.org/10.5281/zenodo.16755321 (2025).
+Acknowledgements
+We thank members and alumni of the G.W.Y. laboratory, particularly 
+O. Mizrahi, S. Aigner, R. Marina, B. Yee and S. Hatch, for their input on 
+the research and S. Blue for his support in the lab. This publication 
+includes data generated at the University of California, San Diego 
+Institute for Genomic Medicine Genomics Center using an Illumina 
+X Plus that was purchased with funding from a National Institutes 
+of Health (NIH) Shared Instrument Grant (S10 OD026929). G.W.Y. is 
+supported by NIH R01 HG004659 and U24 HG009889. A.A.S. was 
+supported by a Biomedical Research Fellowship from the Hartwell 
+Foundation. W.V.G. is supported by NIH R01GM101316 and National 
+Science Foundation 2330451. T.A.G. was supported in part by National 
+Institute of General Medical Sciences Predoctoral Basic Biomedical 
+Sciences Research Training Program T32 GM145427.
+Author contributions
+A.A.S. was primarily responsible for designing and executing the 
+experiments, analyzing the data and writing the paper, under 
+the supervision of G.W.Y. D.P. and J.N. performed the RCA FISH 
+experiments. D.P. assisted in the experiments and analyses related to 
+targeted amplicon CMC sequencing. T.A.G. transduced the disease 
+model cells and performed the subsequent qPCR. C.F. produced 
+the pseudouridylation standards and performed BID-seq under the 
+supervision of W.V.G. S.G. and T.A.G. analyzed the A>I RNA-seq data. 
+J.T.N. assisted in the cloning and disease model characterization. 
+W.V.G. provided the expertise relevant to RNA pseudouridylation. All 
+authors interpreted data and reviewed the paper before publication.
+Competing interests
+G.W.Y. and A.A.S. have filed for patent application number PCT/
+US2025/032791 related to this work. G.W.Y. is a cofounder, member 
+of the board of directors, scientific advisory board member, equity 
+holder and paid consultant for Eclipse BioInnovations. G.W.Y.'s interests 
+have been reviewed and approved by the University of California,  
+San Diego in accordance with its conflict-of-interest policies.  
+W.V.G. is a cofounder and scientific advisory board member for 
+Cloverleaf Bio. W.V.G.'s interests have been reviewed and approved  
+by Yale University in accordance with its conflict-of-interest policies. 
+The other authors declare no competing interests.
+Additional information
+Extended data is available for this paper at  
+https://doi.org/10.1038/s41589-025-02026-8.
+Supplementary information The online version contains supplementary 
+material available at https://doi.org/10.1038/s41589-025-02026-8.
+Correspondence and requests for materials should be addressed to 
+Gene W. Yeo.
+Peer review information Nature Chemical Biology thanks Yitao Yu and 
+the other, anonymous, reviewer(s) for their contribution to the peer 
+review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+0
+20
+40
+60
+80
+100
+120
+Exon count
+0
+2
+4
+6
+8
+10
+12
+14
+U7smOPT snRNA-to-cadRNA
+ performance ratio
+0
+0.5
+1
+1.5
+2
+2.5
+Gene length (Mbps)
+0
+2
+4
+6
+8
+10
+12
+14
+0
+0.005
+0.01
+0.015
+0.02
+0.025
+0.03
+0.035
+mRNA nuclear export rate (1/min)
+0
+2
+4
+6
+8
+10
+12
+14
+Exon count: r = 0.6282, p = 0.0121
+Gene length: r = -0.0414, p = 0.8836
+mRNA nuclear export rate: r = 0.1436, p = 0.6096
+U7smOPT snRNA-to-cadRNA
+ performance ratio
+U7smOPT snRNA-to-cadRNA
+ performance ratio
+Extended Data Fig. 1 | Competing model test for U7smOPT snRNA-to-cadRNA performance ratio. Scatter plots with corresponding Pearson correlation coefficients 
+(r) and p-values for three competing models of U7smOPT snRNA-to-cadRNA performance ratio: gene exon counts, gene lengths and empirical gene mRNA nuclear 
+export rates. n = 15 genes (all targets from Fig. 1b, c).
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+25
+721
+115
+23
+54
+2
+20
+18
+1
+1
+7
+1
+1
+0
+1
+32
+606
+195
+2
+67
+0
+247
+8
+1
+1
+35
+0
+0
+118
+3
+DMD
+RAB7A
+cadRNA
+U7smOPT
+DMD
+RAB7A
+cadRNA
+U7smOPT
+Upregulated genes
+Downregulated genes
+ M5885: NABA MATRISOME ASSOCIATED
+ GO:0001539: cilium or flagellum-dependent cell motility
+ GO:0045003: double-strand break repair via synthesis strand annealing
+ R-HSA-427359: SIRT1 negatively regulates rRNA expression
+ hsa05168: Herpes simplex virus 1 infection
+ GO:0045652: regulation of megakaryocyte differentiation
+ WP43: Oxidation by cytochrome P450
+ GO:0070286: axonemal dynein complex assembly
+ GO:0030858: positive regulation of epithelial cell differentiation
+ GO:1902018: negative regulation of cilium assembly
+ M145: PID P53 DOWNSTREAM PATHWAY
+0
+234
+6
+10
+20
+-log10(P)
+cadRNA
+down
+cadRNA
+up
+b
+0.1
+0.25 0.5
+0.75
+0.1
+0.25 0.5
+0.75
+Significant transcriptome
+A-to-I edits
+0.1
+0.25 0.5
+0.75
+0.1
+0.25 0.5
+0.75
+10
+100
+1000
+10,000
+10
+100
+1000
+10,000
+Edit fraction threshold:
+exonic
+non-exonic
+exonic
+non-exonic
+RAB7A-targeting guide
+DMD-targeting guide
+cadRNA
+backbone
+U7smOPT 
+snRNA backbone
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+a
+Extended Data Fig. 2 | Significant gene perturbations by RNA-guided 
+A > I base editors. a, 4-way Venn diagrams of the number of significantly 
+downregulated and upregulated genes across conditions from Fig. 2 (top). 
+Enriched pathway heatmap of downregulated and upregulated genes conserved 
+across both cadRNA guides (bottom). b, Counts of significant transcriptome 
+A > I edits, both exonic and non-exonic, absent in both empty control (pUC19) 
+condition replicates of cadRNA backbone versus U7smOPT snRNA backbone 
+for RAB7A- and DMD-targeting guides, with different edit fraction thresholds 
+(1 = 100% editing). Edit count significance of U7smOPT versus cadRNA: p < 5e-2 
+(one-way ANOVA) (RAB7A exonic 0.1, 0.25, 0.75: 0.0422, 0.0476, 0.0336; RAB7A 
+non-exonic 0.1, 0.25, 0.5: 0.0124, 0.0134, 0.0196; DMD exonic 0.1, 0.25: 0.0179, 
+0.0107; DMD non-exonic 0.25, 0.5: 0.0427, 0.0124). n = 2 biological replicates per 
+condition.
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+0
+5
+10
+15
+20
+25
+U1 promoter/terminator A>I snRNA
+Empty vector
+U7 promoter/terminator A>I snRNA
+A>I editing rate %
+Gene:
+RAB7A
+GAPDH
+TARDBP
+***
+**
+Extended Data Fig. 3 | Editing performance of A > I snRNAs with U7 versus 
+U1 snRNA promoter/terminator cassette. Editing percent performance 
+by transfection in HEK293T cells of A > I snRNAs targeting three different 
+genes and driven by either U7 or U1 snRNA promoter/terminator cassette. 
+Overperformance significance versus U7 promoter: **, ***: p < 1e-2, 1e-3 (one-way 
+ANOVA) (GAPDH 0.0023, TARDBP 6e-4). Error bars reflect standard error of mean. 
+n = 3 biological replicates per condition.
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+Extended Data Fig. 4 | Targeted amplicon sequencing for evaluating 
+endogenous targeted pseudouridylation. a, Schematic of BID-Seq to infer 
+pseudouridylation of endogenous targeted mRNA by deletion rate. b, BID-Seq 
+deletion rates on synthetic RNA standards (100% U and 100% Ψ at targeted 
+base) for CFTR reporter locus. n = 1 technical replicate per condition. c, Effective 
+pseudouridylation performance by transfection in HEK293T cells of  
+guided U > Ψ snRNAs with (g)8 and (c)8 linkers versus H/ACA box snoRNA on 
+CFTR reporter. Pseudouridylation difference significance versus snoRNA: 
+****, *****: p < 1e-4, 1e-5 (one-way ANOVA, Bonferroni correction for multiple 
+comparisons) (snoRNA IDUA:CFTR 3e-9, CFTR snoRNA:(c)8 1e-5, CFTR 
+snoRNA:(g)8 2e-6). Error bars reflect standard error of mean. n = 4 biological 
+replicates per condition. d, Schematic of targeted amplicon CMC sequencing to 
+infer pseudouridylation of endogenous targeted mRNA by mutation/deletion 
+rate. e, Targeted amplicon CMC sequencing mutation/deletion rates on synthetic 
+RNA standards (100% U and 100% Ψ at targeted base) for endogenous ACTB, EEF2, 
+and RPS6 loci. n = 2 technical replicates per condition.
+
+Nature Chemical Biology
+Article
+https://doi.org/10.1038/s41589-025-02026-8
+a
+b
+0
+1
+2
+3
+4
+5
+6
+CFTR
+ACTB
+EEF2
+RPS6
+Empty vector
+snoRNA
+U>Ψ snRNA
+Empty vector
+snoRNA
+U>Ψ snRNA
+Empty vector
+snoRNA
+U>Ψ snRNA
+Empty vector
+snoRNA
+U>Ψ snRNA
+Guide:
+Expression relative to snoRNA
+(normalized to GAPDH)
+***
+***
+Guide-specific qPCR to quantitate construct expression
+snoRNA
+U>Ψ snRNA
+Empty vector
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+Rolonies per cell
+0
+0.5
+1
+1.5
+2
+2.5
+Mean rolony distance to nucleus (microns)
+0
+1
+2
+3
+4
+Mean rolony distance to nucleolus (microns)
+snoRNA
+U>Ψ snRNA
+snoRNA
+U>Ψ snRNA
+Rolling circle amplification (RCA) FISH: EEF2 guide
+DAPI
+RCA
+rolony
+20µm
+20µm
+snoRNA
+U>Ψ snRNA
+Nucleolus
+0
+0.1
+0.2
+0.3
+Nucleolar-to-cellular rolony ratio
+snoRNA
+U>Ψ snRNA
+Extended Data Fig. 5 | Experiments to evaluate mechanism of enhanced 
+pseudouridylation by U > Ψ snRNAs. a, Rolling circle amplification FISH (RCA 
+FISH) schematic, representative images and plots of rolonies per cell, mean 
+rolony distance to nucleus/nucleolus and nucleolar-to-cellular rolony ratio for 
+EEF2-targeting H/ACA box snoRNA and U > Ψ snRNAs. RCA FISH was performed in 
+human U-2 OS cells with ×10 magnification images. Images depicting fluorescent 
+signal are small representations of total number of nuclei (thousands per 
+biological replicate) and are not suitable for visual interpretation. Scale bar:  
+20 microns. Pixel resolution: 752 nm x 752 nm. b, Guide-specific qPCR to 
+quantitate expression levels of H/ACA box snoRNA and U > Ψ snRNA constructs 
+targeting CFTR, ACTB, EEF2 and RPS6. Significance of difference: ***: p < 1e-3  
+(one-way ANOVA) (CFTR 3e-4, ACTB 3e-4). Error bars reflect standard error of 
+mean. n = 3 biological replicates per condition.
+
+
+
+
