@@ -50,6 +50,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::nopoint::%s/\(\d\)\.\(\d\)/\1point\2/g
 
+::spoonfull::ffmpeg -i spoonful.aac -codec:a libmp3lame -qscale:a 2 spoonful.mp3
+
+
 ::getadvice::wget -r --no-parent https://books.danielhofstetter.com/
 
 ::getcrypto::wget -r --no-parent https://cryptocriticscorner.com/
