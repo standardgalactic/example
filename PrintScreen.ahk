@@ -326,6 +326,28 @@ done
 )
 return
 
+::nowelib::
+(
+for file in *; do
+    if [[ "$file" == *" -- ( WeLib.org )"* ]]; then
+        new_name="${file// -- ( WeLib.org )/}"
+        # Ensure new_name is not the same as the original file
+        if [[ "$new_name" != "$file" ]]; then
+            mv "$file" "$new_name"
+        fi
+    fi
+done
+)
+Return
+
+::nodjvu::
+(
+for file in *.djvu; do
+    convert "$file" "${file%.djvu}.pdf"
+done
+)
+return
+
 ::notxt::
 (
 for file in *.txt; do
