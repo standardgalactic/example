@@ -31,6 +31,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
 */
 
+::getessays::cat essays.txt | xargs -d '\n' cp -t processing/
+
 ::findcloud::find . -type d \( -name "cloud" -o -name "cloud-computing" \)
 
 ::zipit::zip lambda_function.zip lambda_function.py
@@ -1675,6 +1677,16 @@ for file in gp``*.*``:
 
 ;; bash bashsh ;;
 
+::unzipall::
+(
+for file in *.zip; do
+  dirname="${file%.zip}"
+  mkdir -p "$dirname"
+  unzip "$file" -d "$dirname"
+done`n
+)
+Return
+
 ::lasthour::find . -mmin -60 -print -exec tail -n 2 \{\} \;
 
 ;; remove by node (inode) ;;
@@ -2141,8 +2153,9 @@ return
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
-::sloww::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 bio-relational.mp3
+::sloww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
 
+::slowww::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 bio-relational.mp3
 
 ::getsmaller::for file in *.webm; do ffmpeg -i "$file" -codec:a libmp3lame -b:a 128k "${file%.webm}.mp3"; done
 
@@ -2469,6 +2482,15 @@ Return
 ::howmany::gh api users/standardgalactic | jq '.total_private_repos + .public_repos'
 
 ::get repos::gh repo list --limit 18000 > repo-list
+
+::checkunique::
+(
+find . -type f -name '*.txt' -print0 \
+  | xargs -0 md5sum \
+  | sort \
+  | uniq -w 32 -D`n
+)
+return
 
 ::bulkk::git diff --name-only HEAD~1 | cut -d/ -f1 | sort | uniq -c | sort -nr
 
