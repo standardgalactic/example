@@ -1192,7 +1192,8 @@ convert "$file" -fill "#0D1019" -draw "color 0,0 replace" "new_$file"
 done
 )
 
-!S::Send, Summarize:
+!S::Send, Continue`n
+
 :*:afs::A final summary.`n
 :*:cbt::Connections between the topics.`n
 
