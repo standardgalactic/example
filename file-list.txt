@@ -1,0 +1,433 @@
+.
+├── 01_parameter_fitting.ipynb
+├── 02_rg_analysis.ipynb
+├── 03_intervention_scenarios.ipynb
+├── 20220518_191502.jpg
+├── A Typology of Theoretical Failure - draft 01.pdf
+├── A Typology of Theoretical Failure - draft 02.pdf
+├── A Typology of Theoretical Failure - draft 03.pdf
+├── A Typology of Theoretical Failure - draft 04.pdf
+├── A Typology of Theoretical Failure - draft 05.pdf
+├── A Typology of Theoretical Failure - draft 06.pdf
+├── A Typology of Theoretical Failure.pdf
+├── A summary
+├── AHK-Studio.ahk
+├── API.ahk
+├── ARBITRARY REPOSITORY CONSTRAINT.txt
+├── Alfa Beta Charlie.ahk
+├── Align Selected Text.ahk
+├── Aspect Relegation and Habits.mhtml
+├── Aspect Relegation and Habits.txt
+├── Attentional Cladistics_ Evolution's Hidden Dynamics
+├── Audiobook Generator Pipeline.txt
+├── AutoCorrect.ahk
+├── AutoHotkey Scripts.mhtml
+├── AutoHotkey Scripts.txt
+├── AutoHotkey-script-Open-Show-Apps.ahk
+├── AutoHotkey-script-Switch-Windows-same-App.ahk
+├── Autonomic Meme Proliferation.mhtml
+├── Autonomic Meme Proliferation.txt
+├── BlenderShortcuts.ahk
+├── BookMarks.ahk
+├── Brainstorming Session.mhtml
+├── Class_SQLiteDB.ahk
+├── Clipjump.ahk
+├── Cognition as Generative Autoregression
+├── Cohesion of Tropes.mhtml
+├── Cohesion of Tropes.txt
+├── Consciousness as gait_ cortical cycles and embodied cognition
+├── Consciousness as neural gait
+├── Cryptomnesia.txt
+├── Custom Commands.ahk
+├── DebugWindow.ahk
+├── Deontic Ideology System.mhtml
+├── Deontic Ideology System.txt
+├── Desire as Field Dynamics - draft.pdf
+├── Desire as Field Dynamics.pdf
+├── Emergency Greek Keyboard.mhtml
+├── Emergency Greek Keyboard.txt
+├── Essay Extension Strategies
+├── Expanding an interdisciplinary essay on field theory and psychoanalysis
+├── Extended radio alphabet.txt
+├── Extending RSVP aphantasia framework with rigor and scope
+├── Extending a type theory specification
+├── Extending research methodology rigorously
+├── Fix Start Menu.exe
+├── FlipScreen.ahk
+├── Formalizing procedural ontology with rigorous mathematics
+├── Futarchy_ Democratic Market Governance
+├── Gdp_All.ahk
+├── Github repository naming advice
+├── Grand unified theories and the limits of mathematical meaning
+├── HardToRead.ahk
+├── Harebrained Ideas_ Corporate Rebellion and Radical Concepts
+├── Haskell proof of the ontological argument.txt
+├── History GUI Plug.ahk
+├── HotkeyParser.ahk
+├── Hotstring Helper.mhtml
+├── Hotstring Helper.txt
+├── INTRODUCTION.txt
+├── ImageSearch.ahk
+├── Interdisciplinary Portfolio Review
+├── LICENSE
+├── La geometría del pensamiento sin imágenes.png
+├── Longer Pauses.mhtml
+├── Longer Pauses.txt
+├── Memory as Generative Computation
+├── Middle Scroll.ahk
+├── MsgBox Creator.ahk
+├── MyLog.txt
+├── MyScript.ahk
+├── New.ahk
+├── Nine directives in category theory
+├── NirCmd.chm
+├── OTB.ahk
+├── Open Settings.ahk
+├── Orthograde Cognition.mhtml
+├── Orthograde Cognition.txt
+├── Paradigms of intelligence framework
+├── Paste Script.ahk
+├── Phoenician-Regular.ttf
+├── Phrenesis_ Clarifying a Term
+├── PrintScreen.ahk
+├── Procedural Ontology - version 0.pdf
+├── Procedural Ontology - version 1.pdf
+├── Procedural ontology - version 2.pdf
+├── PrtSc.AHK
+├── README.md
+├── Random Functions.AHK
+├── RandomFunctions.AHK
+├── RandomNameGenerator.ahk
+├── RandomNameGeneratorForWindows.ahk
+├── RapidClicker.ahk
+├── Recursion in Dog City.mhtml
+├── Recursion in Dog City.txt
+├── Relativistic scalar-vector plenum theory
+├── Remove Blank Lines.ahk
+├── Remove Comments.ahk
+├── Rigorous extension of the RSVP framework
+├── Settings GUI Plug.ahk
+├── Sga-Regular.ttf
+├── Shell script pipeline.mhtml
+├── Sort Selected.ahk
+├── Split Code.ahk
+├── Swap Key Value.ahk
+├── TT_Console.ahk
+├── Template.ahk
+├── The Ecology of Neoteny.pdf
+├── The Last Dream of MIMA
+├── The vanity press economy
+├── Theoretical work and cognitive boundaries
+├── Thermodynamics of knowledge ecosystems
+├── Time's geometry of perception
+├── Toggle Fullscreen.ahk
+├── TooltipEx.ahk
+├── Trust Apocalypse - draft 1.pdf
+├── Trust Apocalypse.pdf
+├── Unicode Italic Keyboard (SGA).pdf
+├── Unicode Italic Keyboard.mhtml
+├── Unicode Italic Keyboard.txt
+├── Unified Theory of Relativistic Scalar Vector Plenum
+├── Upload.ahk
+├── Vim Navigation Basics.mhtml
+├── Vim Navigation Basics.txt
+├── Visceral Dread.mhtml
+├── Visceral Dread.txt
+├── WM_MOUSEMOVE.ahk
+├── Wholesome Sudo Aliases.mhtml
+├── Wholesome Sudo Aliases.txt
+├── WinClip.ahk
+├── WinClipAPI.ahk
+├── Wordless Imageless Thought.pdf
+├── Xylomorphic Computation_ Forest-Inspired AI Safety Architecture
+├── _registry.ahk
+├── a-new-arabic-keyboard.jpg
+├── aboutGUI - Copy.ahk
+├── aboutGUI.ahk
+├── analyze_rigor_log.py
+├── anticj_func_labels.ahk
+├── aphantasia-essay.tex
+├── autojump.ahk
+├── autospace.ahk
+├── byobu comma separated file.txt
+├── byobu shortcuts ubuntu.txt
+├── bytheway.ahk
+├── case_test.ahk
+├── change_hue.ahk
+├── channelOrganizer.ahk
+├── check-mute.ahk
+├── check-mute.txt
+├── clio_hydra_demo.gif
+├── code to show or hide icons.ahk
+├── color-check.ahk
+├── cookies.txt
+├── curated-list.txt
+├── cursors
+│   ├── Alternate Select v4.1.ani
+│   ├── Alternate Select v4.1.gif
+│   ├── Busy v4.1.ani
+│   ├── Busy v4.1.gif
+│   ├── Diagonal Resize 1 v4.1.ani
+│   ├── Diagonal Resize 1 v4.1.gif
+│   ├── Diagonal Resize 2 v4.1.ani
+│   ├── Diagonal Resize 2 v4.1.gif
+│   ├── Handwriting v4.1.ani
+│   ├── Handwriting v4.1.gif
+│   ├── Help Select v4.1.ani
+│   ├── Help Select v4.1.gif
+│   ├── Horizontal Resize v4.1.ani
+│   ├── Horizontal Resize v4.1.gif
+│   ├── Link Select v4.1.ani
+│   ├── Link Select v4.1.gif
+│   ├── Location Select v4.1.ani
+│   ├── Location Select v4.1.gif
+│   ├── Move v4.1.ani
+│   ├── Move v4.1.gif
+│   ├── Normal Select v4.1.ani
+│   ├── Normal Select v4.1.gif
+│   ├── Person Select v4.1.ani
+│   ├── Person Select v4.1.gif
+│   ├── Precision Select v4.1.ani
+│   ├── Precision Select v4.1.gif
+│   ├── Text Select v4.1.ani
+│   ├── Text Select v4.1.gif
+│   ├── Transparent Aero Cursor.cur
+│   ├── Unavailable v4.1.ani
+│   ├── Unavailable v4.1.gif
+│   ├── Vertical Resize v4.1.ani
+│   ├── Vertical Resize v4.1.gif
+│   ├── Working In Background v4.1.ani
+│   ├── Working In Background v4.1.gif
+│   ├── readme.txt
+│   ├── transparent-windows-10.crs
+│   ├── transparent_alt.cur
+│   ├── transparent_busy.cur
+│   ├── transparent_diag1.cur
+│   ├── transparent_diag2.cur
+│   ├── transparent_help.cur
+│   ├── transparent_hor.cur
+│   ├── transparent_link.cur
+│   ├── transparent_move.cur
+│   ├── transparent_pen.cur
+│   ├── transparent_person.cur
+│   ├── transparent_pin.cur
+│   ├── transparent_precision.cur
+│   ├── transparent_text.cur
+│   ├── transparent_unavailable.cur
+│   ├── transparent_vert.cur
+│   └── transparent_working.cur
+├── customizer.ahk
+├── deleteFileFolder.ahk
+├── doom-debates
+│   ├── AI Doom Debate with Roman Yampolskiy： 50% vs. 99.999% P(Doom) — For Humanity Crosspost [a3Z3Sc4Hrdg].en.txt
+│   ├── AI Doom Debate with Roman Yampolskiy： 50% vs. 99.999% P(Doom) — For Humanity Crosspost [a3Z3Sc4Hrdg].en.vtt
+│   ├── AI Doom Debate： George Hotz vs. Liron Shapira [XnoaRtyYOqY].en.txt
+│   ├── AI Doom Debate： George Hotz vs. Liron Shapira [XnoaRtyYOqY].en.vtt
+│   ├── AI Doom Debate： Liron Shapira vs. Kelvin Santos [ObSPSGRw5LQ].en.txt
+│   ├── AI Doom Debate： Liron Shapira vs. Kelvin Santos [ObSPSGRw5LQ].en.vtt
+│   ├── AI Doom Debate： Tilek Mamutov vs. Liron Shapira [4YWAZEcYeMQ].en.txt
+│   ├── AI Doom Debate： Tilek Mamutov vs. Liron Shapira [4YWAZEcYeMQ].en.vtt
+│   ├── AI Doom Debate： Vaden Masrani & Ben Chugg vs. Liron Shapira [mUpfD9ZoNSM].en.txt
+│   ├── AI Doom Debate： Vaden Masrani & Ben Chugg vs. Liron Shapira [mUpfD9ZoNSM].en.vtt
+│   ├── AI Doom Debate： What's a plausible alignment scenario？ [cj5rgWbRyMI].en.txt
+│   ├── AI Doom Debate： What's a plausible alignment scenario？ [cj5rgWbRyMI].en.vtt
+│   ├── AI Doom Debate： Will AGI’s analysis paralysis save humanity？ [FIlUViK5zSY].en.txt
+│   ├── AI Doom Debate： Will AGI’s analysis paralysis save humanity？ [FIlUViK5zSY].en.vtt
+│   ├── AI Doom Debate： “Cards Against Humanity” Co-Creator David Pinsof [QGYwCv1jwx8].en.txt
+│   ├── AI Doom Debate： “Cards Against Humanity” Co-Creator David Pinsof [QGYwCv1jwx8].en.vtt
+│   ├── AI Doom Q&A with Tony Warner and Liron Shapira [08vZT2LLvtA].en.txt
+│   ├── AI Doom Q&A with Tony Warner and Liron Shapira [08vZT2LLvtA].en.vtt
+│   ├── AI Twitter Beefs #2： Yann LeCun, David Deutsch, Tyler Cowen vs. Eliezer Yudkowsky, Geoffrey Hinton [G6lGA7yPaV8].en.txt
+│   ├── AI Twitter Beefs #2： Yann LeCun, David Deutsch, Tyler Cowen vs. Eliezer Yudkowsky, Geoffrey Hinton [G6lGA7yPaV8].en.vtt
+│   ├── AI Will Kill Us All — Liron Shapira on The Flares [_sksNkjT-wA].en.txt
+│   ├── AI Will Kill Us All — Liron Shapira on The Flares [_sksNkjT-wA].en.vtt
+│   ├── Andrew Critch vs. Liron Shapira： Will AI Extinction Be Fast Or Slow？ [opIvVzJF8t0].en.txt
+│   ├── Andrew Critch vs. Liron Shapira： Will AI Extinction Be Fast Or Slow？ [opIvVzJF8t0].en.vtt
+│   ├── Are you ready for this？ [uWL4DPaX8fE].en.txt
+│   ├── Are you ready for this？ [uWL4DPaX8fE].en.vtt
+│   ├── Arguing ＂By Definition＂ ｜ Rationality 101 [ueam4fq8k8I].en.txt
+│   ├── Arguing ＂By Definition＂ ｜ Rationality 101 [ueam4fq8k8I].en.vtt
+│   ├── Arvind Narayanan Makes AI Sound Normal ｜ Liron Reacts [lehJlitQvZE].en.txt
+│   ├── Arvind Narayanan Makes AI Sound Normal ｜ Liron Reacts [lehJlitQvZE].en.vtt
+│   ├── Ben Horowitz says nuclear proliferation is GOOD？ I disagree. [ueB9iRQsvQ8].en.txt
+│   ├── Ben Horowitz says nuclear proliferation is GOOD？ I disagree. [ueB9iRQsvQ8].en.vtt
+│   ├── Bret Weinstein Bungles It On AI Extinction ｜ Liron Reacts [xge8PXFQKEE].en.txt
+│   ├── Bret Weinstein Bungles It On AI Extinction ｜ Liron Reacts [xge8PXFQKEE].en.vtt
+│   ├── Can GPT o1 Reason？ ｜ Liron Reacts to Tim Scarfe & Keith Duggar [59PTmetkPCY].en.txt
+│   ├── Can GPT o1 Reason？ ｜ Liron Reacts to Tim Scarfe & Keith Duggar [59PTmetkPCY].en.vtt
+│   ├── Can Humans Judge AI's Arguments [loaT9eAjLv0].en.txt
+│   ├── Can Humans Judge AI's Arguments [loaT9eAjLv0].en.vtt
+│   ├── Can LLMs Reason？ Liron Reacts to Subbarao Kambhampati on Machine Learning Street Talk [wXGiV6tVtN0].en.txt
+│   ├── Can LLMs Reason？ Liron Reacts to Subbarao Kambhampati on Machine Learning Street Talk [wXGiV6tVtN0].en.vtt
+│   ├── Cosmology, AI Doom, and the Future of Humanity with Fraser Cain [1u07Q7WUVWo].en.txt
+│   ├── Cosmology, AI Doom, and the Future of Humanity with Fraser Cain [1u07Q7WUVWo].en.vtt
+│   ├── David Shapiro Doesn't Get PauseAI ｜ Liron Reacts [58T1Ig56EHU].en.txt
+│   ├── David Shapiro Doesn't Get PauseAI ｜ Liron Reacts [58T1Ig56EHU].en.vtt
+│   ├── David Shapiro Part II： Unaligned Superintelligence Is Totally Fine？ [nYQsL3dYqds].en.txt
+│   ├── David Shapiro Part II： Unaligned Superintelligence Is Totally Fine？ [nYQsL3dYqds].en.vtt
+│   ├── Doom Tiffs #1： Amjad Masad, Eliezer Yudkowsky, Roon, Lee Cronin, Naval Ravikant, Martin Casado [Ppx8_eZ5yt8].en.txt
+│   ├── Doom Tiffs #1： Amjad Masad, Eliezer Yudkowsky, Roon, Lee Cronin, Naval Ravikant, Martin Casado [Ppx8_eZ5yt8].en.vtt
+│   ├── Dr. Keith Duggar (Machine Learning Street Talk) vs. Liron Shapira — AI Doom Debate [4v-Qh3JQ4Jc].en.txt
+│   ├── Dr. Keith Duggar (Machine Learning Street Talk) vs. Liron Shapira — AI Doom Debate [4v-Qh3JQ4Jc].en.vtt
+│   ├── Getting ARRESTED for barricading OpenAI's office to Stop AI — Sam Kirchner and Remmelt Ellen [2ql1iq520Kk].en.txt
+│   ├── Getting ARRESTED for barricading OpenAI's office to Stop AI — Sam Kirchner and Remmelt Ellen [2ql1iq520Kk].en.vtt
+│   ├── Is P(Doom) Meaningful？ Epistemology Debate with Vaden Masrani and Ben Chugg [zKz-t_l5yHg].en.txt
+│   ├── Is P(Doom) Meaningful？ Epistemology Debate with Vaden Masrani and Ben Chugg [zKz-t_l5yHg].en.vtt
+│   ├── Is our brain's superpower just ＂culture＂？ [9iWiA5i1Uy8].en.txt
+│   ├── Is our brain's superpower just ＂culture＂？ [9iWiA5i1Uy8].en.vtt
+│   ├── Jobst Landgrebe Doesn't Believe In AGI ｜ Liron Reacts [GbHTLfTrjAs].en.txt
+│   ├── Jobst Landgrebe Doesn't Believe In AGI ｜ Liron Reacts [GbHTLfTrjAs].en.vtt
+│   ├── Lee Cronin vs. Liron Shapira： AI Doom Debate and Assembly Theory Questions [2fg8an1pEaA].en.txt
+│   ├── Lee Cronin vs. Liron Shapira： AI Doom Debate and Assembly Theory Questions [2fg8an1pEaA].en.vtt
+│   ├── Liron Reacts to Martin Casado's AI Claims [wwnMVGCAeoI].en.txt
+│   ├── Liron Reacts to Martin Casado's AI Claims [wwnMVGCAeoI].en.vtt
+│   ├── Liron Reacts to Mike Israetel's ＂Solving the AI Alignment Problem＂ [VYB037dXf4M].en.txt
+│   ├── Liron Reacts to Mike Israetel's ＂Solving the AI Alignment Problem＂ [VYB037dXf4M].en.vtt
+│   ├── Liron is Anti-AI on Jubilee's ＂Middle Ground＂ [Hp-7gdCyU60].en.txt
+│   ├── Liron is Anti-AI on Jubilee's ＂Middle Ground＂ [Hp-7gdCyU60].en.vtt
+│   ├── Maciej Ceglowski (Pinboard) Rejects AI Doomerism ｜ Liron Reacts [hlvAPAkwq34].en.txt
+│   ├── Maciej Ceglowski (Pinboard) Rejects AI Doomerism ｜ Liron Reacts [hlvAPAkwq34].en.vtt
+│   ├── OpenAI o3 and Claude Alignment Faking — How doomed are we？ [0n6rF48PaJc].en.txt
+│   ├── OpenAI o3 and Claude Alignment Faking — How doomed are we？ [0n6rF48PaJc].en.vtt
+│   ├── Optimization and the Intelligence Explosion [_i4Liqj4G0g].en.txt
+│   ├── Optimization and the Intelligence Explosion [_i4Liqj4G0g].en.vtt
+│   ├── P(Doom) Estimates Shouldn't Inform Policy？？ Liron Reacts to Sayash Kapoor [vV6JKQ6p918].en.txt
+│   ├── P(Doom) Estimates Shouldn't Inform Policy？？ Liron Reacts to Sayash Kapoor [vV6JKQ6p918].en.vtt
+│   ├── Preparing for my AI Doom Debate with Robin Hanson [darVPzEhh-I].en.txt
+│   ├── Preparing for my AI Doom Debate with Robin Hanson [darVPzEhh-I].en.vtt
+│   ├── Q&A #1 Part 1： College, Asperger's, Elon Musk, Double Crux, Liron's IQ [BXg_HEAEf8s].en.txt
+│   ├── Q&A #1 Part 1： College, Asperger's, Elon Musk, Double Crux, Liron's IQ [BXg_HEAEf8s].en.vtt
+│   ├── Q&A #1 Part 2： Stock Picking, Creativity, Types of Doomers, Favorite Books [F9ytuPTBeBI].en.txt
+│   ├── Q&A #1 Part 2： Stock Picking, Creativity, Types of Doomers, Favorite Books [F9ytuPTBeBI].en.vtt
+│   ├── Q&A： How scary is a superintelligent football coach？ [Ahq-EMSrskI].en.txt
+│   ├── Q&A： How scary is a superintelligent football coach？ [Ahq-EMSrskI].en.vtt
+│   ├── Rationality 101： Mysterious Answers to Mysterious Questions [RpSsuHyi4pg].en.txt
+│   ├── Rationality 101： Mysterious Answers to Mysterious Questions [RpSsuHyi4pg].en.vtt
+│   ├── Rationality 101： The Bottom Line [tf251Ig1Pas].en.txt
+│   ├── Rationality 101： The Bottom Line [tf251Ig1Pas].en.vtt
+│   ├── Richard Sutton Dismisses AI Extinction Fears with Simplistic Arguments ｜ Liron Reacts [SBm19zCk9HY].en.txt
+│   ├── Richard Sutton Dismisses AI Extinction Fears with Simplistic Arguments ｜ Liron Reacts [SBm19zCk9HY].en.vtt
+│   ├── Robin Hanson AI Doom Debate Highlights and Post-Debate Analysis [i0DxeBhjzlY].en.txt
+│   ├── Robin Hanson AI Doom Debate Highlights and Post-Debate Analysis [i0DxeBhjzlY].en.vtt
+│   ├── Robin Hanson debate prep： Liron argues ＊against＊ AI doom! [iNnoJnuOXFA].en.txt
+│   ├── Robin Hanson debate prep： Liron argues ＊against＊ AI doom! [iNnoJnuOXFA].en.vtt
+│   ├── Robin Hanson says AGI might be 100+ years away [xo5d_pCDmmo].en.txt
+│   ├── Robin Hanson says AGI might be 100+ years away [xo5d_pCDmmo].en.vtt
+│   ├── Robin Hanson vs. Liron Shapira： Is Near-Term Extinction From AGI Plausible？ [dTQb6N3_zu8].en.txt
+│   ├── Robin Hanson vs. Liron Shapira： Is Near-Term Extinction From AGI Plausible？ [dTQb6N3_zu8].en.vtt
+│   ├── Robin Hanson vs. Liron Shapira： Is Near-Term Extinction From AGI Plausible？ [dTQb6N3_zu8].live_chat.json
+│   ├── Roon vs. Liron： AI Doom Debate [GfgKQpevnUE].en.txt
+│   ├── Roon vs. Liron： AI Doom Debate [GfgKQpevnUE].en.vtt
+│   ├── SB 1047 AI Regulation Debate： Holly Elmore vs. Greg Tanaka [xUP3GywD0yM].en.txt
+│   ├── SB 1047 AI Regulation Debate： Holly Elmore vs. Greg Tanaka [xUP3GywD0yM].en.vtt
+│   ├── Scott Aaronson Makes Me Think OpenAI's “Safety” Is Fake, Clueless, Reckless and Insane [xsGqWeqKjEg].en.txt
+│   ├── Scott Aaronson Makes Me Think OpenAI's “Safety” Is Fake, Clueless, Reckless and Insane [xsGqWeqKjEg].en.vtt
+│   ├── Should we gamble on AGI before all 8 billion of us die？ [5wqVR9NjiII].en.txt
+│   ├── Should we gamble on AGI before all 8 billion of us die？ [5wqVR9NjiII].en.vtt
+│   ├── Steven Pinker doesn’t get the AI doom argument ｜ Liron Reacts [-tIq6kbrF-4].en.txt
+│   ├── Steven Pinker doesn’t get the AI doom argument ｜ Liron Reacts [-tIq6kbrF-4].en.vtt
+│   ├── This Yudkowskian Has A 99.999% P(Doom) [Hes10uWGP7Y].en.txt
+│   ├── This Yudkowskian Has A 99.999% P(Doom) [Hes10uWGP7Y].en.vtt
+│   ├── What this ＂Doom Debates＂ podcast is about [Pjpgx-n78X8].en.txt
+│   ├── What this ＂Doom Debates＂ podcast is about [Pjpgx-n78X8].en.vtt
+│   ├── Yuval Noah Harari's AI Warnings Don't Go Far Enough ｜ Liron Reacts [rqiunloHu0o].en.txt
+│   ├── Yuval Noah Harari's AI Warnings Don't Go Far Enough ｜ Liron Reacts [rqiunloHu0o].en.vtt
+│   ├── to-text.py
+│   ├── “AI Snake Oil” Prof. Arvind Narayanan Can't See AGI Coming ｜ Liron Reacts [lyYIK_ATDm4].en.txt
+│   └── “AI Snake Oil” Prof. Arvind Narayanan Can't See AGI Coming ｜ Liron Reacts [lyYIK_ATDm4].en.vtt
+├── emergency-keyboard.png
+├── escalated-control.png
+├── explain.txt
+├── extending-aphantasia-essay.pdf
+├── external.historyPathClean.ahk
+├── external.ignoreWmanager.ahk
+├── external.inieditor.ahk
+├── external.translationFileCleaner.ahk
+├── extract-text.py
+├── field-dynamics-essay.tex
+├── field_solver.py
+├── file-list.txt
+├── gdip_min.ahk
+├── hello-world.jpg
+├── hotPaste.ahk
+├── i-use-arch-linux-btw.ahk
+├── index.html
+├── islands_of_coherence_refs.bib
+├── locale_test.ahk
+├── logo.png
+├── lyapunov_convergence.png
+├── mac super resolution first session.txt
+├── main.tex
+├── math code.txt
+├── monopole_profile.png
+├── multi.ahk
+├── mygithub.ahk
+├── neofetch-plain-dark.png
+├── neofetch-plain-dark.txt.png
+├── neofetch-plain-gray.png
+├── neofetch-systada-terminal.png
+├── neofetch-systada.png
+├── neofetch-update-plain.png
+├── neofetch-update-rosetta.png
+├── neofetch-update.png
+├── neofetch-update.txt
+├── network_rg.py
+├── newtons method.txt
+├── nircmd
+├── nircmd.exe
+├── nircmdc.exe
+├── noformatting_paste.ahk
+├── overview.txt
+├── pformat.commonformats.ahk
+├── pformat.noformatting.ahk
+├── pformat.sentencecase.ahk
+├── pluginManager.ahk
+├── poe-chat-list.mhtml
+├── poe-chat-list.txt
+├── power-of-now.png
+├── power-of-now.txt
+├── procedural-complexity-landscape.png
+├── procedural-ontology-version-1.tex
+├── procedural-ontology-version-2.tex
+├── publicAPI.ahk
+├── quantum-spherepop.pdf
+├── quick-help.ahk
+├── repo-list.txt
+├── rhinoscript.txt
+├── rsvp_rigor_metrics.py
+├── scaling_fit.py
+├── screencapture-books-danielhofstetter-the-power-of-now-2024-07-19-08_05_44.png
+├── searchPasteMode.ahk
+├── settingsHelper.ahk
+├── sharp_enter.ahk
+├── spinning-cage.gif
+├── stochastic_langevin.py
+├── survey_codebook.md
+├── swap-escape.reg
+├── test-eject.ahk
+├── test.ahk
+├── test_conservation_laws.py
+├── toarabic.ahk
+├── toarabic.exe
+├── toitalic.ahk
+├── toitalic.exe
+├── tophone.ahk
+├── tophone.exe
+├── tosga.ahk
+├── tosga.exe
+├── translations.ahk
+├── trionic-cyclex.png
+├── trust-apocalypse.tex
+├── trust_timeseries.csv
+├── twist.py
+├── typology-of-failure.tex
+├── unhtml.ahk
+├── unimono.ahk
+├── updateClipjumpClipboard.ahk
+├── vim-scripts.ahk
+├── vim-sripts.ahk
+├── volume_control.ahk
+├── vorticon-restore.reg
+└── vorticon.reg
+
+3 directories, 427 files

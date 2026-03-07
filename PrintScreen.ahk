@@ -24,6 +24,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running. 
 
+::cc::continue`n
+
 ;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
 
 ;; standardgalactic ;;
@@ -35,6 +37,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::goonish::scp -r -i "sordid.pem" ubuntu@ec2-184-72-200-165.compute-1.amazonaws.com:~/workspace/alphabet/fonts ./
 
 ::greatdebate::ffmpeg -i the-great-debate.mp3 -ss 6.4 -t 274.46 -c copy "The Great Debate.mp3"
+
+::makelatex::for file in *.tex; do lualatex "$file" && lualatex "$file"; done
 
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
 
@@ -268,6 +272,9 @@ return
 
 ::gettrivium::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@52LivingIdeas  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
+
+;; darin stevenson ;; @tetasao
+
 ::getstuff::
 (
 yt-dlp -s --cookies cookies.txt \
@@ -318,8 +325,7 @@ return
 
 ;; https://www.youtube.com/@hume_ai
 
-::gett::yt-dlp -f best https://www.youtube.com/@trajectoryai --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
-
+::gett::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 \ --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" \ https://www.youtube.com/@DwarkeshPatel
 
 ::getworthy::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@trajectoryai"
 
@@ -329,6 +335,23 @@ return
 ::getwatchlist::yt-dlp -f bestaudio --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s" https://youtube.com/playlist?list=PLcKyTzEkOa-jf5kKmmBkf5JZPXyrz63i7&si=I6zhFkqe7AI7xOIy
 
 ::getlocalscope::yt-dlp  --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=xHxqa8m1NqE
+
+::getbored::
+(
+yt-dlp \
+--cookies cookies.txt \
+--download-archive archive.txt \
+--ignore-errors \
+--continue \
+--extractor-args "youtube:skip=dash,hls" \
+-f bestaudio \
+--extract-audio \
+--audio-format mp3 \
+--audio-quality 0 \
+--output "%(uploader)s/%(upload_date)s - %(title).200B.%(ext)s" \
+https://www.youtube.com/@functionalmelancholic/videos`n
+)
+return
 
 ::getvids::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
@@ -1229,6 +1252,11 @@ xor_eq
 
 ::didntwork::curl -fsSL test.docker.com -o get-docker.sh && sh get-docker.sh
 
+::nozip::find . -name '*.zip' -execdir sh -c 'unzip -o "{}" -d "${0%.*}"' {} \;
+
+::unzipall::for file in *.zip; do unzip "$file" -d "${file%.zip}"; done
+
+::rmzip::find . -name '*.zip' -delete
 
 ;; update node.js ;;
 ::nodesteps::# update node; clearcache, andthen, andthenn
