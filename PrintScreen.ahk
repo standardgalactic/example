@@ -30,27 +30,15 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
 */
-
 ::getessays::cat essays.txt | xargs -d '\n' cp -t processing/
 
 ::findcloud::find . -type d \( -name "cloud" -o -name "cloud-computing" \)
 
 ::zipit::zip lambda_function.zip lambda_function.py
 
-;; For thematic parsing and critical decoding of cinema ;;
-
 ::so big summary::pv -q -L 33 < so-big-summary.txt
 
-/*
-::so big summary::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] and printf "\n"; sleep $DELAY; done < so-big-summary.txt
-
-The narrative script, *So Big*, exhibits an engineered transition of Selina from metropolitan elegance to agrarian drudgery, symbolically compiled as an effort to farm value from personal sacrifice. This module, viewed through SPROLL READER, enhances the linear decoding of narrative data, processing Selina's character development from cultural sophistication to agricultural resilience. Each byte of text unspools her ideological recompilation from socialite to soil-tender, her shifts encoded within a cinematic interface that marries pastoral binaries with urban binaries—ideal for SPROLL's temporal dilation capabilities.
-
-Viewers can adjust textual output velocity to reflect on how the film's programming converts personal sacrifices into societal virtues, an algorithm of existential computation. This strategic reading pace allows a deeper system-level analysis of the film's socio-economic commentary, facilitated by customized font rendering to enhance cognitive engagement and aesthetic processing.
-
-See also:
-https://archive.org/details/so-big-1953
-*/
+::makelatex::for file in *.tex; do lualatex "$file" && lualatex "$file"; done
 
 ;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -2156,7 +2144,9 @@ return
 
 ::sloww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
 
-::slowww::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 bio-relational.mp3
+;; too slow ;;
+
+::sloow::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.7937,atempo=0.90,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
 
 ::getsmaller::for file in *.webm; do ffmpeg -i "$file" -codec:a libmp3lame -b:a 128k "${file%.webm}.mp3"; done
 
@@ -3099,9 +3089,10 @@ Return
 ;; start openssh server
 ::startssh::sudo systemctl start ssh
 
+::srvr::python -m http.server 8000 
+
 ;;  Laptops
 
-=======
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
 
