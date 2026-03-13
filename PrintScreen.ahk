@@ -97,6 +97,17 @@ Return
 
 ::smalller::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=iw/2:ih/2, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1, drawtext=fontfile=/path/to/font.ttf: text='Todo Listo Para Jugar': fontcolor=white: fontsize=18: x=(w-text_w)/2: y=(h-text_h)/2" -t 10 -r 20 -compression_level 10 output_flashy_text_small.gif
 
+::?diff::echo "mp3: $(ls -1 -- *.mp3 2>/dev/null | wc -l), txt: $(ls -1 -- *.txt 2>/dev/null | wc -l)"
+
+::whisperr::
+(
+for f in *.mp3; do
+  [ -e "${f%.mp3}.txt" ] && continue
+  whisper "$f" --model medium
+done`n
+)
+return
+
 ::getsubs::
 (
 topdir="$(pwd)"
