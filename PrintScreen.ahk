@@ -353,6 +353,8 @@ https://www.youtube.com/@functionalmelancholic/videos`n
 )
 return
 
+::getparadox::yt-dlp --download-archive archive.txt --ignore-errors --continue -f "bestaudio/best" -x --audio-format mp3 --audio-quality 0  -o "%(uploader)s/%(upload_date)s - %(title).200B.%(ext)s" https://www.youtube.com/@waymaking23/videos
+
 ::getvids::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@tetasao  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
 
 ::getchannel::yt-dlp --cookies ./cookies.txt -f best https://www.youtube.com/@galactromeda  --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
