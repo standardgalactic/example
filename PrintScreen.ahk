@@ -36,6 +36,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::zipit::zip lambda_function.zip lambda_function.py
 
+:*:nameonly::name-only
+
 ::so big summary::pv -q -L 33 < so-big-summary.txt
 
 ::makelatex::for file in *.tex; do lualatex "$file" && lualatex "$file"; done
@@ -108,18 +110,30 @@ done`n
 )
 return
 
+::whisperer::
+(
+shopt -s nullglob
+for f in *.mp3; do
+  txt="${f%.mp3}.txt"
+  if [[ -e "$txt" ]]; then
+    continue
+  fi
+  whisper "$f" --model medium
+done`n
+)
+return
+
 ::getsubs::
 (
-topdir="$(pwd)"
+find . -maxdepth 1 -type f \( -iname "*.mp3" -o -iname "*.m4a" -o -iname "*.webm" \) -print0 |
+while IFS= read -r -d '' file; do
+    txtfile="${file%.*}.txt"
 
-find . -mindepth 2 -type f \( -name "*.mp3" -o -name "*.m4a" -o -name "*.webm" \) -print0 | while IFS= read -r -d '' file; do
-    base="$(basename "${file%.*}")"
-    txtfile="$topdir/$base.txt"
     if [ ! -f "$txtfile" ]; then
         echo "Processing: $file"
-        whisper "$file" --language English --output_dir "$topdir"
+        whisper "$file" --language English --output_format txt --output_dir .
     else
-        echo "Already summarized: $file"
+        echo "Already transcribed: $file"
     fi
 done`n
 )
@@ -1180,6 +1194,15 @@ done`n
 )
 Return
 
+:*:thumbss::
+(
+mkdir -p thumbnails
+for f in *.png; do
+  convert "$f" -thumbnail 140x140\> -strip -quality 85 "thumbnails/$f"
+done`n
+)
+Return
+
 ::compressgif::convert animated.gif -fuzz 5% -layers Optimize -colors 64 -delay 20 -loop 0 compressed_animated.gif
 
 ::invrt::mogrify -negate *.png
@@ -1653,7 +1676,7 @@ for file in gp``*.*``:
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
 ::goto::git checkout main
-::re set::git reset --hard 0478f98189ae613b533f4e4829799354549353e9
+::re set::git reset --hard 0c766452d925c3223bb53e94f57da4f56b7d9434
 ::do ne::git push --force origin main
 
 
@@ -1668,7 +1691,7 @@ for file in gp``*.*``:
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
 
-::s a::{,,,,,,,,,,,,,,,,,,,,,,,,,}
+::'sga::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
 ; a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
 ; ,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1920,6 +1943,9 @@ done `n
 )
 return
 
+
+::addzero::for f in *.tex; do [[ "$f" =~ _v([0-9]+)\.tex$ ]] && printf -v n "%02d" "${BASH_REMATCH[1]}" && mv -n "$f" "${f%_v*}_v${n}.tex" || [[ "$f" != *_v*.tex ]] && mv -n "$f" "${f%.tex}_v01.tex"; done
+
 ::addtxt::
 (
 for file in *; do
@@ -2153,7 +2179,17 @@ return
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
-::sloww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.944,atempo=0.95,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
+::sloww::
+(
+for f in *.mp3; do
+  ffmpeg -i "$f" -filter_complex \
+  "asetrate=44100*0.85,atempo=1.05,aresample=44100" \
+  -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"
+done`n
+)
+return
+
+::slowww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.900,atempo=0.94,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
 
 ;; too slow ;;
 
@@ -3107,7 +3143,7 @@ Return
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
 
-::flyx::ssh flyxion@172.27.178.246
+;; ::flyx::ssh flyxion@172.27.178.246
 ::astro::ssh aardvark@192.168.2.73
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
