@@ -2177,9 +2177,33 @@ return
 
 ::sewit::ffmpeg -f concat -i list.txt -c copy output.mp3
 
+::!capitalize::
+(
+for f in *.mp3; do
+  tmp="tmp_$f"
+  new=$(echo "$f" | perl -pe '
+    @small = qw(a an the and but or for nor on at to from by is of in);
+    ($name, $ext) = /^(.+?)(\.[^.]+)$/;
+    @words = split /_/, $name;
+    for $i (0..$#words) {
+      $w = lc($words[$i]);
+      if ($i == 0 || !grep { $_ eq $w } @small) {
+        $w =~ s/^(\w)/\U$1/;
+      }
+      $words[$i] = $w;
+    }
+    $_ = join("_", @words) . $ext;
+  ')
+  mv "$f" "$tmp" && mv "$tmp" "$new"
+done`n
+)
+return
+
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
-::sloww::
+::sloww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.900,atempo=0.94,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
+
+::slowww:: ;; too deep
 (
 for f in *.mp3; do
   ffmpeg -i "$f" -filter_complex \
@@ -2188,8 +2212,6 @@ for f in *.mp3; do
 done`n
 )
 return
-
-::slowww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.900,atempo=0.94,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
 
 ;; too slow ;;
 
