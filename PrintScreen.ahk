@@ -264,6 +264,12 @@ return
 
 ::getplaylist::yt-dlp --write-auto-sub --skip-download --yes-playlist --no-overwrites https://www.youtube.com/playlist?list=PLcKyTzEkOa-gAPLAuYBITSmeMq3t78VfP
 
+::novid::for f in *.mkv *.webm; do ffmpeg -i "$f" -vn -acodec libmp3lame -ab 192k "${f%.*}.mp3"; done
+
+::getfragments::yt-dlp -f "bv*+ba/b" --yes-playlist --no-overwrites "https://www.youtube.com/@8bit-wraith"
+
+::getpiano::yt-dlp -f "bv*+ba/b" --yes-playlist --no-overwrites "https://www.youtube.com/playlist?list=PLMi1aT9wj1oF7iftTvkPjc4TYNpY-E5CI"
+
 ::getrob::yt-dlp --cookies cookies.txt --write-auto-sub --skip-download --yes-playlist --no-overwrites "https://www.youtube.com/@rwxrob"
 
 ::getdoom::yt-dlp --sub-lang "en*" --write-sub --skip-download --yes-playlist "https://www.youtube.com/@DoomDebates"
@@ -1433,6 +1439,8 @@ while true; do !! `n
 done `n
 )
 return
+
+::addv::for file in *.txt; do mv "$file" "v1-$file"; done
 
 ::addtxt::
 (
