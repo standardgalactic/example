@@ -75,7 +75,18 @@ Return
 
 ::?txt::ls -1 *.txt | wc -l
 
-::?lines::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
+::?lines::
+(
+find . -type f -name "*.txt" -exec sh -c '
+  for file do
+    lines=$(wc -l < "$file" 2>/dev/null) || continue
+    [ "$lines" -gt 200 ] && echo "$file: $lines"
+  done
+' sh {} +`n
+)
+return 
+
+::?liness::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
 
 ;; how many overviews ;;
 
@@ -123,6 +134,8 @@ done`n
 )
 return
 
+::nobrackets::for f in *.mp3; do mv "$f" "${f% \[*].mp3}.mp3"; done
+
 ::getsubs::
 (
 find . -maxdepth 1 -type f \( -iname "*.mp3" -o -iname "*.m4a" -o -iname "*.webm" \) -print0 |
@@ -131,7 +144,7 @@ while IFS= read -r -d '' file; do
 
     if [ ! -f "$txtfile" ]; then
         echo "Processing: $file"
-        whisper "$file" --language English --output_format txt --output_dir .
+        whisper "$file" --output_format txt --output_dir .
     else
         echo "Already transcribed: $file"
     fi
@@ -1141,7 +1154,7 @@ return
 ::nom4a::
 (
 for file in *.m4a; do
-    ffmpeg -i "$file" -vn -acodec libmp3lame -ab 192k "${file%.m4a}.mp3"
+  ffmpeg -n -i "$file" -vn -acodec libmp3lame -ab 192k "${file%.m4a}.mp3"
 done`n
 )
 return
@@ -2226,6 +2239,7 @@ return
 
 ;; compress mp3 ;; 
 
+::verysmall::for f in *.mp3; do ffmpeg -y -i "$f" -vn -c:a libmp3lame -b:a 32k -ac 1 -ar 16000 "tmp_$f" && mv "tmp_$f" "$f"; done
 ::makesmaller::for f in *.mp3; do ffmpeg -i "$f" -vn -ab 64k "compressed_$f" && mv "compressed_$f" "$f"; done
 
 ::filelist::
