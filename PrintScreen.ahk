@@ -395,6 +395,14 @@ done`n
 )
 return
 
+::allbut::rm -f *.aux *.log *.out *.pdf
+
+::whatfiles::find . -type f -exec file --brief --mime-type {} + | sort | uniq -c
+
+::whatextensions::find . -type f | sed 's/.*\.//' | sort | uniq -c
+
+::rungranite::ollama run granite3.2:8b 
+
 ::into100::split -d -l 100
 
 ;; Overview
