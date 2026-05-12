@@ -56,6 +56,8 @@ Return
 
 ::addflyxion::exiftool -Author="Flyxion" Semantic\ Recursion.pdf
 
+::startworkspace::docker run --rm -it --gpus all -v $PWD:/workspace nvcr.io/nvidia/pytorch:25.08-py3 /bin/bash
+
 ::startstable::docker compose --profile comfy up --build
 
 ::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
@@ -2222,7 +2224,15 @@ return
 
 ::slowdown::ffmpeg -i bio-rational.mp3 -filter_complex "asetrate=44100*0.44,atempo=0.88" -q:a 0 bio-relational.mp3
 
-::sloww::for f in *.mp3; do ffmpeg -i "$f" -filter_complex "asetrate=44100*0.900,atempo=0.94,aresample=44100" -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"; done
+::sloww::
+(
+for f in *.mp3; do
+  ffmpeg -i "$f" -filter_complex \
+  "asetrate=44100*0.95,atempo=1.03,aresample=44100" \
+  -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"
+done`n
+)
+return
 
 ::slowww:: ;; too deep
 (
