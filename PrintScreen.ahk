@@ -370,6 +370,18 @@ done
 )
 Return
 
+::enhancedd::
+(
+mkdir enhanced
+
+for f in *.png; do
+    ffmpeg -y -i "$f" \
+        -vf "eq=brightness=0.05:contrast=1.15" \
+        "enhanced/$f"
+done`n
+)
+Return
+
 ::nodjvu::
 (
 for file in *.djvu; do
@@ -882,6 +894,9 @@ EOF`n
 )
 return
 
+
+::!icepick::find . -type f ! -iname "*.md" -exec sh -c 'for f; do printf "\n===== %s =====\n" "$f"; cat "$f"; done' sh {} +
+
 ;; Changed files ;;
 
 ::whatnames::git diff --name-only HEAD~1 HEAD
@@ -1160,6 +1175,18 @@ for file in *.wav; do
 done`n
 )
 return
+
+
+::nowav::for file in *.wav; do ffmpeg -n -i "$file" -vn -acodec libmp3lame -ab 192k "${file%.wav}.mp3"; done
+
+::cropmp3::ffmpeg -i cor.mp3 -t 00:04:03 -acodec libmp3lame -ab 192k cor_temp.mp3 && mv cor_temp.mp3 cor.mp3
+
+::noopus::
+(
+for file in *.opus; do
+    ffmpeg -i "$file" -q:a 2 "${file%.opus}.mp3"
+done`n
+)
 
 ::nom4a::
 (
@@ -2747,7 +2774,7 @@ Return
 
 ::howtopdf::step1, step2
 
-::step1::convert *.jpg -auto-orient octoplect.pdf
+::step1::convert *.png -auto-orient octoplect.pdf
 ::step2::ocrmypdf octoplect.pdf octoplexis.pdf
 
 ;; docker ;;
