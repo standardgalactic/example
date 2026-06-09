@@ -376,7 +376,7 @@ mkdir enhanced
 
 for f in *.png; do
     ffmpeg -y -i "$f" \
-        -vf "eq=brightness=0.05:contrast=1.15" \
+        -vf "eq=brightness=0.09:contrast=1.25" \
         "enhanced/$f"
 done`n
 )
@@ -2384,6 +2384,25 @@ Searching()
 
 !p::Run, notepad.exe "C:\Users\nateg\OneDrive\Documentos\Github\example\PrintScreen.ahk" ; press Alt+p to open this file. (if OpenShowApps is running
 ; hit F8 to source this script.) ;; implemented in AutoHotkey-script-Open-Show-Apps.ahk-
+
+!r::Run, notepad.exe "C:\Users\nateg\OneDrive\Documentos\Github\example\fix_transcription_errors.sh"
+
+!f::
+SendInput vim fix_transcription_errors.sh{Enter}
+
+Sleep 500
+
+FileRead, Text, C:\Users\nateg\OneDrive\Documentos\Github\example\fix_transcription_errors.sh
+
+SendInput i
+Sleep 500
+
+SendRaw %Text%
+
+Sleep 1000
+SendInput {Esc}:wq{Enter}
+return
+
 
 ;; Starting Task View — tested with Win10
 ;; same as Windows+Tab
