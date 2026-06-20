@@ -171,15 +171,7 @@ while IFS= read -r -d '' file; do
         if [ -s "$MATCH_FILE" ]; then
           while IFS=$'\x01' read -r lineno before_text; do
             [ -z "$lineno" ] && continue
-            if [[ "$lineno" =~ ^[0-9]+$ ]]; then
-              after_text="$(sed -n "${lineno}p" "$file" 2>/dev/null || true)"
-            else
-              after_text="(unparsed match record, skipped)"
-            fi
-            {
-              printf '  L%s: %s\n' "$lineno" "$before_text"
-              printf '        -> %s\n' "$after_text"
-            } >> "$LOG_FILE"
+            printf '  L%s: %s\n' "$lineno" "$before_text" >> "$LOG_FILE"
             match_count=$((match_count + 1))
           done < "$MATCH_FILE"
         fi

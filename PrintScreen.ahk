@@ -1,107 +1,77 @@
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-#Include RandomFunctions.ahk 
+;==============================================================
+; Includes
+;==============================================================
+#Include RandomFunctions.ahk
 #Include AutoCorrect.ahk
 #Include RandomNameGenerator.ahk
+#Include AutoHotkey-script-Open-Show-Apps.ahk  ; Open/Restore/Minimize apps via hotkey -- by JuanmaMenendez
 
+; Disabled includes, kept for reference:
 ;;#Include Gdp_All.ahk
-;;#Include tosga.ahk ;; Alt + home to toggle, may be inconvenient
-;#Include vim-scripts.ahk ;; toggle with windows+v ;; wow that was annoying
-
-;; AutoHotkey script to Open, Restore or Minimize
-;; any Apps using the hotkeys you want
-;; -- by JuanmaMenendez --
-
-;; Alt+`(backtick) to switch between windows of the same type, eg. chrome, notepad
-
-#Include AutoHotkey-script-Open-Show-Apps.ahk
+;;#Include tosga.ahk             ; Alt+Home to toggle, may be inconvenient
+;#Include vim-scripts.ahk        ; toggle with Win+V -- wow that was annoying
 ;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
 
-; Alt + p to edit this script
-; Notepad Ctrl+S to save
-; F8 to refresh the script.
+;==============================================================
+; Script-level reminders
+;==============================================================
+; Alt+` (backtick)  switches between windows of the same app (chrome, notepad, etc.)
+; Alt+P             edit this script
+; Ctrl+S in Notepad  save it
+; F8                refresh/reload the script
 
-/*
-::slowtype::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < 
-
-::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
-*/
-::getessays::cat essays.txt | xargs -d '\n' cp -t processing/
-
-::findcloud::find . -type d \( -name "cloud" -o -name "cloud-computing" \)
-
-::zipit::zip lambda_function.zip lambda_function.py
-
-:*:nameonly::name-only
-
-::so big summary::pv -q -L 33 < so-big-summary.txt
-
+;==============================================================
+; LaTeX
+;==============================================================
+::latexx::lualatex -interaction=nonstopmode main.tex
+; Compile every .tex file in the directory, twice each (for refs/TOC).
 ::makelatex::for file in *.tex; do lualatex "$file" && lualatex "$file"; done
 
-;;;;;;;;;;;;;;;;;;;;;;;;
-
+;==============================================================
+; PDF metadata (exiftool)
+;==============================================================
 ::addmetad::
 Send, exiftool -overwrite_original -Author="Flyxion" -Title="Relevance Activation Theory — A Cue-Indexed Model of Gradient-Based Cognition" -Subject="Physics" "Relevance Activation Theory.pdf"
 Return
-
-!i::SendRaw, @@:w`n:n`n
 
 ::addmeta::
 Send, exiftool -overwrite_original -Author="Flyxion" -Title="Semantic Recursion as Entropic Smoothing" -Subject="Physics" "Semantic Recursion.pdf"
 Return
 
+; Sets author only, doesn't touch title/subject.
 ::addflyxion::exiftool -Author="Flyxion" Semantic\ Recursion.pdf
 
+;==============================================================
+; Docker / GPU workspaces
+;==============================================================
 ::startworkspace::docker run --rm -it --gpus all -v $PWD:/workspace nvcr.io/nvidia/pytorch:25.08-py3 /bin/bash
-
 ::startstable::docker compose --profile comfy up --build
-
-::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
-
-::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
-
-
-::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
-
-::localfacts::ffmpeg -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -f segment -segment_time $(ffprobe -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -show_entries format=duration -v quiet -of csv="p=0" | awk '{print $1/30}') -c copy -segment_format mp3 -segment_list_type flat -map_metadata -1 local-scope-%02d.mp3
-
 ::cd!::conda deactivate
 
-::ayt::Are you there?`n
-
-::ayst::Are you still there?`n
-
-::?txt::ls -1 *.txt | wc -l
-
-::?lines::
-(
-find . -type f -name "*.txt" -exec sh -c '
-  for file do
-    lines=$(wc -l < "$file" 2>/dev/null) || continue
-    [ "$lines" -gt 200 ] && echo "$file: $lines"
-  done
-' sh {} +`n
-)
-return 
-
-::?liness::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
-
-;; how many overviews ;;
-
-::?count::ls -1 *-overview.txt 2>/dev/null | wc -l
-
-
-;; Autohotkey shortcut - get subtitles
+;==============================================================
+; Whisper transcription
+;==============================================================
+; NOTE: the five hotstrings below are an evolving series of the
+; same idea (skip already-transcribed files, transcribe the rest).
+; Each later one adds something the previous lacked:
+;   wspr       -> baseline, default whisper model
+;   whisperr   -> adds --model medium
+;   whisperer  -> same as whisperr, but uses [[ ]] + nullglob
+;   getsubs    -> adds m4a/webm support, --output_format/--output_dir flags
+;   getsubsv   -> recurses into subdirectories, adds a timeout per file
+;   logsubs    -> same as getsubsv, plus failures get logged to a file
+; getsubsv/logsubs are the most capable; the earlier ones are kept
+; in case you want the lighter-weight, top-level-only behavior.
 
 ::updatewhisper::pip install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
 
 ::wspr::
 (
-
     for file in *.mp3; do
         if [ -f "$file" ] && [ ! -f "${file%.*}.txt" ]; then
             whisper "$file"
@@ -109,10 +79,6 @@ return
     done
 )
 Return
-
-::smalller::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=iw/2:ih/2, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1, drawtext=fontfile=/path/to/font.ttf: text='Todo Listo Para Jugar': fontcolor=white: fontsize=18: x=(w-text_w)/2: y=(h-text_h)/2" -t 10 -r 20 -compression_level 10 output_flashy_text_small.gif
-
-::?diff::echo "mp3: $(ls -1 -- *.mp3 2>/dev/null | wc -l), txt: $(ls -1 -- *.txt 2>/dev/null | wc -l)"
 
 ::whisperr::
 (
@@ -136,8 +102,7 @@ done`n
 )
 return
 
-::nobrackets::for f in *.mp3; do mv "$f" "${f% \[*].mp3}.mp3"; done
-
+; Top-level only; mp3/m4a/webm; skips files that already have a .txt.
 ::getsubs::
 (
 find . -maxdepth 1 -type f \( -iname "*.mp3" -o -iname "*.m4a" -o -iname "*.webm" \) -print0 |
@@ -154,7 +119,7 @@ done`n
 )
 return
 
-
+; Recurses one level into subdirectories; 10-minute timeout per file.
 ::getsubsv::
 (
 find . -maxdepth 1 -type d -exec sh -c '
@@ -181,6 +146,7 @@ done
 )
 return
 
+; Same as getsubsv, but failures get written to whisper_errors.log.
 ::logsubs::
 (
 find . -maxdepth 1 -type d -exec sh -c '
@@ -210,19 +176,84 @@ done
 )
 return
 
-
-;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
-
-;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
-
+; Transcribe an isolated-vocals stem two levels down, output beside it.
 ::fromvocals::find . -maxdepth 2 -type f -name 'vocals.wav' -exec sh -c 'whisper "$1" --output_dir "$(dirname "$1")"' _ {} \;
 
+; Older/superseded getsubs attempts, kept commented out for reference:
+;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && whisper *' \;
+;; ::getsubs::find . -maxdepth 1 -type d -exec sh -c 'cd "{}" && find . -maxdepth 1 -type f -exec whisper {} \;' \;
 
+;==============================================================
+; Downloads
+;==============================================================
 ::getvids::yt-dlp -f best -ciw https://www.youtube.com/@tetasao --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
-
 ::getaudio::yt-dlp -f best -ciw https://www.youtube.com/@timsanderson4076 --extract-audio --audio-format mp3 --audio-quality 0 --socket-timeout 5 --output "%(uploader)s/%(title)s.%(ext)s"
+::getthinking::wget -r --no-parent https://thinkingwithnate.wordpress.com/
 
+;==============================================================
+; File / media utilities
+;==============================================================
+::getessays::cat essays.txt | xargs -d '\n' cp -t processing/
+::findcloud::find . -type d \( -name "cloud" -o -name "cloud-computing" \)
+::zipit::zip lambda_function.zip lambda_function.py
+::so big summary::pv -q -L 33 < so-big-summary.txt
+
+; Reports, per .m4a, whether a matching .mp3 already exists alongside it.
+::checkdup::find . -type f -name "*.m4a" -exec bash -c '[[ -f "${1%.m4a}.mp3" ]] && echo "Matching MP3 found for: $1" || echo "No matching MP3 for: $1"' bash {} \;
+
+::clearprogress::find . -type f \( -name 'overview.txt' -o -name 'progress.log' \) -delete
+
+; Strips a trailing " [...]" tag (e.g. yt-dlp ids) off mp3 filenames.
+::nobrackets::for f in *.mp3; do mv "$f" "${f% \[*].mp3}.mp3"; done
+
+::smalller::ffmpeg -loop 1 -i ready-to-play.png -vf "scale=iw/2:ih/2, eq=contrast=1.5:brightness=0.1:saturation=1.5, hue='h=mod(4*PI*t,2*PI)':s=1, drawtext=fontfile=/path/to/font.ttf: text='Todo Listo Para Jugar': fontcolor=white: fontsize=18: x=(w-text_w)/2: y=(h-text_h)/2" -t 10 -r 20 -compression_level 10 output_flashy_text_small.gif
+
+; Splits an audio file into 30 equal-length segments.
+::localfacts::ffmpeg -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -f segment -segment_time $(ffprobe -i "The Local Scope of 'Facts' ⧸ Zen (Prajna Paramita).mp3" -show_entries format=duration -v quiet -of csv="p=0" | awk '{print $1/30}') -c copy -segment_format mp3 -segment_list_type flat -map_metadata -1 local-scope-%02d.mp3
+
+;==============================================================
+; Counting / listing helpers
+;==============================================================
+::?txt::ls -1 *.txt | wc -l
+::?count::ls -1 *-overview.txt 2>/dev/null | wc -l
+::?diff::echo "mp3: $(ls -1 -- *.mp3 2>/dev/null | wc -l), txt: $(ls -1 -- *.txt 2>/dev/null | wc -l)"
+
+; Lists .txt files (recursive) over 200 lines.
+::?lines::
+(
+find . -type f -name "*.txt" -exec sh -c '
+  for file do
+    lines=$(wc -l < "$file" 2>/dev/null) || continue
+    [ "$lines" -gt 200 ] && echo "$file: $lines"
+  done
+' sh {} +`n
+)
+return
+
+; Same idea as ?lines, one-file-at-a-time version (slower, no batching).
+::?liness::find . -type f -name "*.txt" -exec sh -c 'lines=$(wc -l < "{}"); [ "$lines" -gt 200 ] && echo "{}: $lines"' \;
+
+;==============================================================
+; Quick replies / text expansion
+;==============================================================
+::ayt::Are you there?`n
+::ayst::Are you still there?`n
+:*:nameonly::name-only
 :*:cd..::cd ..
+
+;==============================================================
+; Manual keystroke shortcuts
+;==============================================================
+!i::SendRaw, @@:w`n:n`n
+
+;==============================================================
+; Disabled / experimental (kept for reference)
+;==============================================================
+/*
+::slowtype::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done <
+
+::psy cin::CPM=4400; DELAY=$(echo "scale=3; 60 / $CPM" | bc); while IFS= read -r -n1 char; do printf "%s" "$char"; [ "$char" = $'\n' ] && printf "\n"; sleep $DELAY; done < psychocinema-summary.txt;;;;;;; SROLL READER ;;;;;;;;
+*/
 
 ::makejson::find output/comfy -maxdepth 1 -name '*.png' | sort | sed 's|output/comfy/||' | jq -R -s -c 'split("\n")[:-1]' > output/comfy/filenames.json
 
