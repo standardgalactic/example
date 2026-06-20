@@ -376,7 +376,7 @@ mkdir enhanced
 
 for f in *.png; do
     ffmpeg -y -i "$f" \
-        -vf "eq=brightness=0.09:contrast=1.25" \
+        -vf "eq=brightness=0.07:contrast=1.14" \
         "enhanced/$f"
 done`n
 )
