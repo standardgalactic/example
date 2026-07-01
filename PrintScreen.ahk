@@ -29,9 +29,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; LaTeX
 ;==============================================================
 ::latexx::lualatex -interaction=nonstopmode main.tex
-; Compile every .tex file in the directory, twice each (for refs/TOC).
-::makelatex::for file in *.tex; do lualatex "$file" && lualatex "$file"; done
 
+; Compile every .tex file in the directory, twice each (for refs/TOC).
+::makelatex::for file in *.tex; do lualatex -interaction=nonstopmode "$file" && lualatex -interaction=nonstopmode "$file"; done
 ;==============================================================
 ; PDF metadata (exiftool)
 ;==============================================================
@@ -583,6 +583,8 @@ Return
 ::fasttype::lynx -dump deontology.html | pv -q -L 48000000000000000000000000
 
 ::cleanup::%s/<think>\_.\{-}<\/think>//g
+
+::delblanks::%s/\(\\\[\_.\{-}\)\n\s*\n/\1\r/ge
 
 ::makeslow::pandoc -f markdown -t html --mathjax biogrammar-reasoning.txt -o biogrammar-reasoning.html
 
