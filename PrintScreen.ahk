@@ -32,6 +32,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; Compile every .tex file in the directory, twice each (for refs/TOC).
 ::makelatex::for file in *.tex; do lualatex -interaction=nonstopmode "$file" && lualatex -interaction=nonstopmode "$file"; done
+
+::makex::latexmk -xelatex -interaction=nonstopmode *.tex
+
 ;==============================================================
 ; PDF metadata (exiftool)
 ;==============================================================
