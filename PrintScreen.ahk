@@ -1217,6 +1217,12 @@ return
 
 ::cropmp3::ffmpeg -i cor.mp3 -t 00:04:03 -acodec libmp3lame -ab 192k cor_temp.mp3 && mv cor_temp.mp3 cor.mp3
 
+::findp::find . -type f -name "process_audio.sh"
+
+::checka::find . -maxdepth 1 -type f ! -name "process_audio.sh" -print
+
+::noaudio::find . -maxdepth 1 -type f ! -name "process_audio.sh" -exec rm {} \;
+
 ::noopus::
 (
 for file in *.opus; do
@@ -2322,6 +2328,8 @@ return
 
 ::verysmall::for f in *.mp3; do ffmpeg -y -i "$f" -vn -c:a libmp3lame -b:a 32k -ac 1 -ar 16000 "tmp_$f" && mv "tmp_$f" "$f"; done
 ::makesmaller::for f in *.mp3; do ffmpeg -i "$f" -vn -ab 64k "compressed_$f" && mv "compressed_$f" "$f"; done
+
+::smallerr::f=$(find . -maxdepth 1 -iname '*.mp4' -print -quit); ffmpeg -i "$f" -an -c:v libx264 -crf 32 -preset medium "${f%.*}_compressed.mp4"
 
 ::filelist::
 (
