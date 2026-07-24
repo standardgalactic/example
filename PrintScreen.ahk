@@ -69,16 +69,7 @@ done
 )
 return
 
-;; AutoHotkey script to Open, Restore or Minimize
-;; any Apps using the hotkeys you want
-;; -- by JuanmaMenendez --
-
-;; Alt+`(backtick) to switch between windows of the same type, eg. chrome, notepad
-
-#Include AutoHotkey-script-Open-Show-Apps.ahk
-;#Include AutoHotkey-script-Switch-Windows-same-App.ahk
-
-::justdir::ls -d */
+::dirs::ls -d */
 
 ::prettylog::git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
 
@@ -509,6 +500,7 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 */
 
+::bs::--break-system-packages
 
 ;; cognate cognatesh cognac cognacsh ;;
 
@@ -1700,8 +1692,10 @@ Searching()
 
 ;; Source this script ;;
 
-!p::Run, notepad.exe "C:\Users\Mechachleopteryx\OneDrive\Desktop\Blank\Examples\PrintScreen.ahk" ; press Alt+p to open this file. (if OpenShowApps is running
-; hit F8 to source this script.) ;; implemented in AutoHotkey-script-Open-Show-Apps.ahk-
+!p::Run, notepad.exe "\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk" ; press Alt+p to open this file. (if OpenShowApps is running
+; hit F8 to source this script.)
+
+F8::Run, "\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk"
 
 ;; Starting Task View — tested with Win10
 ;; same as Windows+Tab
@@ -1712,12 +1706,14 @@ Searching()
 
 ;; Instructions. After making changes, save, then
 ;;run script PrintScreen.ahk in
-;;C:\Users\Mechachleopteryx\OneDrive\Desktop\Blank\Examples
+;;\\wsl.localhost\Ubuntu\home\bonobo\example
 ;;to put in startup menu, first compile into an executable (.exe)
 ;;and then place in (startup) folder C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 ;; or make a executable script just runs printscreen.ahk;; it hasn't gotten
 ;; annoying yet, so I haven't tried this. 
 
+;; Initializing ;;
+::tesht::It works!
 
 :*:
 ;;  fill form

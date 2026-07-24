@@ -166,17 +166,10 @@ ExtractAppTitle(FullTitle)
 ;F7:: OpenOrShowAppBasedOnExeName("C:\Windows\System32\SnippingTool.exe")
 
 ; F8 - Open||Show "PrintScreen" (personal hotstrings)
-F8:: OpenOrShowAppBasedOnExeName("C:\Users\Mechachleopteryx\OneDrive\Desktop\Blank\Examples\PrintScreen.ahk") ;; for some reason I can't get it to work with alt-s
+F8:: OpenOrShowAppBasedOnExeName("\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk") ;; for some reason I can't get it to work with alt-s
 ;; interfering with something? (possibly byobu name window function)
 F1:: OpenOrShowAppBasedOnExeName("C:\Users\Mechachleopteryx\OneDrive\Desktop\Blank\Examples\autospace.ahk")
 
-
-; F8 - Open||Show "Gmail as Chrome App"
-;F8:: OpenOrShowAppBasedOnWindowTitle("Gmail", "C:\Program Files\Google\Chrome\Application\chrome.exe --app=https://mail.google.com/mail/")
-/*
- Use this if you have your chrome in the "Program Files (x86)" folder
- F8:: OpenOrShowAppBasedOnWindowTitle("Gmail", "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --app=https://mail.google.com/mail/")
- */
 
 ;; I already have a shortcut for this, probably not going to use it ;;
 
