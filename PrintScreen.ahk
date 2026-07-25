@@ -1697,6 +1697,19 @@ Searching()
 
 F8::Run, "\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk"
 
+
+;==============================================================
+; LaTeX
+;==============================================================
+::latexx::lualatex -interaction=nonstopmode main.tex
+
+; Compile every .tex file in the directory, twice each (for refs/TOC).
+::makelatex::for file in *.tex; do lualatex -interaction=nonstopmode "$file" && lualatex -interaction=nonstopmode "$file"; done
+
+::makex::latexmk -xelatex -interaction=nonstopmode *.tex
+
+
+
 ;; Starting Task View — tested with Win10
 ;; same as Windows+Tab
 
