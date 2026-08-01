@@ -502,6 +502,40 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 ::bs::--break-system-packages
 
+;==============================================================
+; Counting / listing helpers
+;==============================================================
+::?txt::ls -1 *.txt | wc -l
+::?count::ls -1 *-overview.txt 2>/dev/null | wc -l
+::?diff::echo "mp3: $(ls -1 -- *.mp3 2>/dev/null | wc -l), txt: $(ls -1 -- *.txt 2>/dev/null | wc -l)"
+
+; Lists .txt files (recursive) over 200 lines.
+::?lines::
+(
+find . -type f -name "*.txt" -exec sh -c '
+  for file do
+    lines=$(wc -l < "$file" 2>/dev/null) || continue
+    [ "$lines" -gt 200 ] && printf "%s: %s\n" "$file" "$lines"
+  done
+' sh {} +
+)
+return
+
+; Reports the top 10 .txt files with the most lines, recursively.
+::toplines::
+(
+find . -type f -name "*.txt" -exec sh -c '
+  for file do
+    lines=$(wc -l < "$file" 2>/dev/null) || continue
+    printf "%s\t%s\n" "$lines" "$file"
+  done
+' sh {} + | sort -nr | head -n 10
+)
+return
+
+
+
+
 ;; cognate cognatesh cognac cognacsh ;;
 
 ::runall::for FILE in *; do cognac $FILE -run ; done
@@ -516,6 +550,7 @@ from https://www.autohotkey.com/board/topic/5991-how-to-interrupt-ahk-loop/
 
 ::ghistory::vim ~/.gforth-history
 
+/*
 ;; generate random ;;
 
 ::gr::
@@ -525,7 +560,7 @@ VARIABLE (RND)
 
 : rnd ( -- n ) (rnd) @ dup 13 lshift xor dup 17 rshift xor dup dup 5 lshift xor (rnd) ! ;
 )
-
+*/
 
 ::basicc::vintbas
 
@@ -1216,7 +1251,7 @@ Now just start ubuntu: ./startubuntu.sh
 ::upgrayde::sudo apt-get update && sudo apt-get dist-upgrade
 ::grock::grep -ri -C 10 "docker" .
 
-::findm::find . -type f -exec grep -i -l 'michel' {} +
+::findm::find . -type f -exec grep -i -l 'extract_text' {} +
 
 
 ::editt::vim README.md
@@ -1437,7 +1472,7 @@ return
 :*:~!::¡
 :*:!``::¡
 
-
+/*
 ; Sets up hotstrings for typing accented vowels and 'ü'.
 
 :*:a``::á
@@ -1446,6 +1481,7 @@ return
 :*:o``::ó
 :*:u``::ú
 :*::u::ü
+*/
 
 ; Sets up hotstrings for typing the 'ñ' character.
 
@@ -1511,6 +1547,8 @@ return
 
 ::getpills::yt-dlp --cookies ./cookies.txt --extract-audio --audio-format mp3 --audio-quality 0 --output "%(title)s.%(ext)s" https://www.youtube.com/watch?v=Y82sMnvPYKU
 
+
+::nozone::find . -type f -name '*Zone.Identifier' -delete
 
 ;; audiobook ; audiobooks
 
@@ -1708,7 +1746,43 @@ F8::Run, "\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk"
 
 ::makex::latexmk -xelatex -interaction=nonstopmode *.tex
 
+::gr::git remote set-url origin git@github.com:standardgalactic/
 
+::wtf?::git config --global core.editor "vim"
+
+/*
+::nom4a::
+(
+for file in *.m4a; do
+  ffmpeg -n -i "$file" -vn -acodec libmp3lame -ab 192k "${file%.m4a}.mp3"
+done`n
+)
+return
+*/
+
+::nom4a::for file in *.m4a; do ffmpeg -n -i "$file"  -vn -acodec libmp3lame -ab 192k "${file%.m4a}.mp3"; done
+
+/*
+::sloww::
+(
+for f in *.mp3; do
+  ffmpeg -i "$f"  -filter_complex \
+  "asetrate=44100*0.95,atempo=1.03,aresample=44100" \
+  -q:a 0 "temp_$f" && mv "temp_$f" "$f" || rm -f "temp_$f"
+done`n
+)
+return
+*/
+
+::sloww::for f in *.mp3; do ffmpeg -y -i "$f"  -filter_complex  "asetrate=44100*0.95,atempo=1.03,aresample=44100"  -q:a 0  "temp_$f"  &&  mv "temp_$f" "$f"  ||  rm -f "temp_$f"; done
+
+::makesmaller::for f in *.mp3; do ffmpeg -i "$f" -vn -ab 64k "compressed_$f" && mv "compressed_$f" "$f"; done
+
+;==========================================================
+; Rust
+;==========================================================
+
+::runbench::cargo run --release -p kompress-core --example bench_pipeline
 
 ;; Starting Task View — tested with Win10
 ;; same as Windows+Tab
