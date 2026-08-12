@@ -1,5 +1,4 @@
 ﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
@@ -1735,6 +1734,21 @@ Searching()
 
 F8::Run, "\\wsl.localhost\Ubuntu\home\bonobo\example\PrintScreen.ahk"
 
+!r::Run, notepad.exe "\\wsl.localhost\Ubuntu\home\bonobo\example\fix_transcription_errors.sh"
+
+!f::
+SendInput, vim fix_transcription_errors.sh{Enter}
+Sleep, 700
+
+SendInput, {Esc}
+SendInput, :1,$d{Enter}
+Sleep, 200
+
+SendInput, :0read /home/bonobo/example/fix_transcription_errors.sh{Enter}
+Sleep, 500
+
+SendInput, :wq{Enter}
+return
 
 ;==============================================================
 ; LaTeX
