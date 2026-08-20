@@ -3,11 +3,12 @@ set -euo pipefail
 
 REPLACEMENT="Flyxion"
 LOG_FILE="corrections.log"
+POLYXAN_PATTERN="Paul Exam|Polluxan|Pollack['’]s end|Polluxian|Polluxen|polyxand|polysync"
 CANDIDATE_FILE="$(mktemp)"
 VIM_SCRIPT="$(mktemp)"
 MATCH_FILE="$(mktemp)"
 
-PATTERN='FLECTION|FLICTION|Felican|Felician|Felictian|Felixian|Flaccion|Flagellian|Flakirin|Flakiron|Flaxian|Flixnian|Flaxion|Flaxon|Flaxson|Fleckession|Fleckstown|Flection|Flectional|Fleekshin|Fleishness|Fleishon|Flixenian|Fluxinian|Fleixing|Fleksheen|Flekshun|Fleksian|Fleksion|Flekzion|Fletchen|Fletcher|Fletchian|Fletchion|Fletian|Fletuchin|Flexian|Flexion|Flexition|Flexiton|Flexivision|Flextion|Flexumian|Fliccine|Flickditschian|Flickenden|Flickening|Flickession|Flickian|Flickiewen|Flickishin|Flicklian|Flickpnam|Flickrinnian|Flickshahn|Flicksham|Flickshan|Flickshane|Flickshank|Flickshanth|Flicksheen|Flicksheens|Flickshen|Flickshenman|Flickshian|Flickshin|Flickshion|Flickshon|Flicksion|Flickson|Flickshorn|Flickstahn|Flickstein|Flickxion|Flickzion|Fliction|Flictionon|Flijnen|Flikshun|Flikstian|Flikxion|Flikzion|Flinchin|Flipchin|Flipchian|Flippshen|Flipschen|Flischin|Flisham|Flishan|Flishen|Flitchian|Flitchin|Flitchinan|Flitian|Flitschen|Flixton|Fleekshian|Flickshone|Flixieman|Flicksheim|Flickshinen|Flieckshien|Flixioon|Flickshim|Flitscheon|Flitschernard|Flitschian|Flixam|Flixan|Flixbyan|Flixchan|Flixchen|Flixen|Flixgen|Flixheen|Flixia|Flixian|Flickin|Flixidan|Flixie|Flixien|Flixim|Flixing|Flixingen|Flixion|Flixionne|Flixium|Flixjan|Flixman|Flixon|Flixson|Flixten|Flixtion|Flixuen|Flixxion|Flixxon|Flixyon|Floodioxin|Fluxian|Fluxin|Fluxion|Fluxium|Fluxunian|Flykem|Flykshion|Flykshun|Flyxen|Flyxian|Flyxionn|Flyxionne|Flyxionu|Flyzion|Folicurian|Fouiches|Fuchin|Fugchin|Flickjino|Liction|Slikin|Flisker|Flick Sheenan|Flick Sheehan|Flick Sheenum|Flick Sheen'
+PATTERN='FLECTION|FLICTION|Phlyxion|Fleichshind|Felican|Felician|Felictian|Felixian|Flexen|Fleixen|Flaccion|Flagellian|Flakirin|Flakiron|Flaxian|Flaixion|Flixnian|Flaxion|Flaxi|Flaxon|Flaxen|Flaxson|Fleckession|Fleckstown|Flection|Flectional|Fleekshin|Fleishness|Fleishon|Flisheen|Flixenian|Fluxinian|Fleixing|Fleksheen|Flekshun|Fleksian|Fleksion|Flekzion|Fletchen|Fletcher|Fletchian|Fletchion|Fletian|Fletuchin|Flexian|Flexion|Flexition|Flexiton|Flexivision|Flextion|Flexumian|Fleikshen|Fliccine|Flickditschian|Flickenden|Flickening|Flickession|Flickian|Flickiewen|Flickishin|Flicklian|Flickpnam|Flickrinnian|Flickshahn|Flicksham|Flickshan|Flickshane|Flickshank|Flickshanth|Flicksheen|Flicksheens|Flickshen|Flickshenman|Flickshian|Flickshin|Flickshion|Flickshon|Flicksion|Flickson|Flicksonin|Flickshorn|Flickstahn|Flickstein|Flickxion|Flickzion|Fliction|Flictionon|Flijnen|Flikshun|Flikstian|Flikxion|Flikzion|Flinchin|Flipchin|Flipchian|Flippshen|Flyaction|Flyoxon|Flyaxon|Flaregon|Fladiero|Flipschen|Flischin|Flisham|Flishan|Flishen|Flitchian|Flitchin|Flitchinan|Flitian|Flitschen|Flixton|Flixenum|Fleekshian|Flickshone|Flixieman|Fliximmon|Flyon|Flyshon|Flyxón|Flycone|Flicksheim|Flickshinen|Flieckshien|Flixioon|Flickshim|Flitching|Flitscheon|Flywitz and|Flitschernard|Flitschian|Flixam|Flixan|Flixbyan|Flixchan|Flixchen|Fleishian|Fleissing|Fly Agassine|Flagg-Messon|Fleixchen|Flyekson|Floxquan|Flagson|Flixen|Flixgen|Flixheen|Flixia|Flixian|Flickin|Flixidan|Flixie|Flixien|Flixim|Flixin|Flixing|Flixingen|Flixshink|Flixion|Flixionne|Flixium|Flixjan|Flixman|Flixon|Flixson|Flixten|Flixtion|Flixuen|Flixxion|Flixxon|Flixyon|Floodioxin|Fluxian|Fluxin|Fluxion|Fluxium|Fluxunian|Flykem|Flykshion|Flykshun|Flyxen|Flyxian|Flyxionn|Flyxionne|Flyxionu|Flyzion|Flickstone|Folicurian|Fouiches|Fuchin|Fugchin|Fuggeshin|Flickjino|Liction|Slikin|Klixian|Flisker|Flyarian|Flyarion|Flick Sheenan|Flick Sheehan|Flick Sheenum|Flick Sheen|Flyluzen|Phlyoxion|Flyzon|Fligerson|Flyxene|Flykon|Flaxodin|Flaixson|Flickshman|flictions|flitchton|Flagarian|Flaggy and|Floxium|Flymoxon|Flyaxiom|Flickeron|Flixionet|flickshione|FlexSign|Flickon|Flickshina|Flickshind|Flinction|Flixine|Flypexun|Flyson|Flickshenand|Flickshinn|Flixiana|Flickshenon|flickshun|Flybian|flickshent|flikshin|flaction|flicion|flickshine|flickshing|flipchon|flishon|flixikin|flexemian|fliccion|flickshinian|flickshmer|flixenium|flixirin|flexton|flickaon|flickshaneer|flickshenian|flickshinin|flickshund|flickton|flippton|flixene|flixenon|flixinet|flixingin|flixiny|flixionin|flixionit|flixixion|fluxen|flickshun|flickshent|flikshin|flaction|flicion|flickshine|flickshing|flipchon|flishon|flixikin|flexemian|fliccion|flickshaw|flickshinian|flickshmer|flixenium|flixirin|flexine|flexton|flickaon|flickshaneer|flicksheet|flickshenian|flickshinin|flickshund|flickton|flippton|flixene|flixenon|flixinet|flixingin|flixiny|flixionin|flixionit|flixixion|fluxen|flaikshen|flakion|flaskions|flaxleon|fleifson|flexan|flexchina|flexiz|flication|flickshaman|flickshamers|flickshanine|flickshannon|flickshant|flickshawn|flickshe|flickshie|flickshemia|flickshenow|flickshien|flickshigen|flickshinkues|flickshire|flickshound|flickshow|flickshum|flictiona|flipption|flipsion|fliption|flission|flitchorn|flitton|flixation|flixenden|floxian|flixens|flixentian|fliximian|flixinen|flixinian|flixio|flixional|flixionian|flixions|flixit|flixition|flixivision|flixn|flixorin|flixsonen|flixtreon|flotition|flushion|fluxena|fluxenia|fluxim|fluxina|fluxinan|fluxunon|flykeon|flyon|flygon|flyorson|flison|flyosyn|flyoxing|flyseon|flyseons|flyshon|flyxi|flyxon|flyoxin|flyaxium|flyaxian|flyoxian|flayoxian|flamixion|flyjan|flybonian|flyzeon|flimixian|flexio|floxion|fletion|flaxo'
 
 cleanup() {
   rm -f "$CANDIDATE_FILE" "$VIM_SCRIPT" "$MATCH_FILE"
@@ -49,7 +50,7 @@ echo "Backup complete."
 {
   echo ""
   echo "================================================================"
-  echo "Flyxion correction run — $(date '+%Y-%m-%d %H:%M:%S')"
+  echo "Flyxion correction run - $(date '+%Y-%m-%d %H:%M:%S')"
   echo "Backup snapshot: $BACKUP_DIR"
   echo "================================================================"
 } >> "$LOG_FILE"
@@ -215,6 +216,10 @@ g/\v\c<amplitwist>/call add(g:flyxion_matches, line('.') . "\x01" . getline('.')
 %s/\v\c<Zeem's scaled>/zoom-scaled/g
 %s/\v\c<Happo Praxis>/Haplopraxis/g
 %s/\v\c<haphopraxis>/Haplopraxis/g
+g/\v\c<Pollack Sandpaper>/call add(g:flyxion_matches, line('.') . "\x01" . getline('.'))
+%s/\v\c<Pollack Sandpaper>/Polyxan paper/g
+g/\v\c<(${POLYXAN_PATTERN})>/call add(g:flyxion_matches, line('.') . "\x01" . getline('.'))
+%s/\v\c<(${POLYXAN_PATTERN})>/Polyxan/g
 wq!
 EOF
 
@@ -247,7 +252,11 @@ while IFS= read -r -d '' file; do
         if [ -s "$MATCH_FILE" ]; then
           while IFS=$'\x01' read -r lineno before_text; do
             [ -z "$lineno" ] && continue
-            printf '  L%s: %s\n' "$lineno" "$before_text" >> "$LOG_FILE"
+            if [[ "$file" == *.json ]]; then
+              printf '  L%s: [JSON content omitted]\n' "$lineno" >> "$LOG_FILE"
+            else
+              printf '  L%s: %s\n' "$lineno" "$before_text" >> "$LOG_FILE"
+            fi
             match_count=$((match_count + 1))
           done < "$MATCH_FILE"
         fi
@@ -326,7 +335,7 @@ fi
   echo "Elapsed time         : ${SECONDS}s"
   echo ""
   echo "================================================================"
-  echo "Run complete — $(date '+%Y-%m-%d %H:%M:%S')"
+  echo "Run complete at $(date '+%Y-%m-%d %H:%M:%S')"
   echo "================================================================"
 } >> "$LOG_FILE"
 
