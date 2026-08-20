@@ -23,7 +23,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running. 
 
-;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
+
+::gettree::tree -I '.git|build|cache|search-cache|file-list.txt' . > file-list.txt
+
 
 ;; standardgalactic ;;
 
@@ -447,7 +449,7 @@ return
 ::gptchat::chatgpt
 ::ccc::chatgpt
 
-::summ::A summary of the themes and topics of this conversation.
+::stt::A summary of the themes and topics of this conversation.
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
@@ -686,7 +688,6 @@ mortal(X) :- man(X).
 ::mxid::Contiguous Rolling Context Mixed Initiative Dialog
 ::noo::Contiguous Rolling Context Mixed Initiative Dialog
 ::corc::Contiguous Rolling Context Mixed Initiative Dialog
-::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
 ::croll::Contiguous Rolling Context Mixed Initiative Dialog
 ;; ::md::Contiguous Rolling Context Mixed Initiative Dialog
@@ -1289,6 +1290,8 @@ return
 
 :*:@k::㉿ ;; sends a double tab in kali linux
 ::eqwals::====================================
+
+;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
 
 /*
 !k::Send,㉿ ;; sends a double tab in kali linux
@@ -2541,6 +2544,9 @@ return
 ::cprompt::PROMPT=C:\$G
 ::C:\>::set PROMPT=C:\$G
 
+::git prompt::PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ 'cst
+::gitprompt::PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ 'cst
+
 ::macprompt::PS1="%n@%m %1~ %# "
 
 ::normal prompt::PS1="\[\e[38;5;202m\]$(byobu_prompt_status)\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\]$(byobu_prompt_symbol) "
@@ -3165,7 +3171,6 @@ PrintScreen::
 ::catually::actually
 ::antything::anything
 ::aynthing::anything
-::concat::concatenate
 ::ep::Easy peasy. 
 ::owrks::works
 ::exit90::exit()

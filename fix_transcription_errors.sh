@@ -7,7 +7,7 @@ CANDIDATE_FILE="$(mktemp)"
 VIM_SCRIPT="$(mktemp)"
 MATCH_FILE="$(mktemp)"
 
-PATTERN='FLECTION|FLICTION|Felican|Felician|Felictian|Felixian|Flaccion|Flagellian|Flakirin|Flakiron|Flaxian|Flixnian|Flaxion|Flaxon|Flaxson|Fleckession|Fleckstown|Flection|Flectional|Fleekshin|Fleishness|Fleishon|Flixenian|Fluxinian|Fleixing|Fleksheen|Flekshun|Fleksian|Fleksion|Flekzion|Fletchen|Fletcher|Fletchian|Fletchion|Fletian|Fletuchin|Flexian|Flexion|Flexition|Flexiton|Flexivision|Flextion|Flexumian|Fliccine|Flickditschian|Flickenden|Flickening|Flickession|Flickian|Flickiewen|Flickishin|Flicklian|Flickpnam|Flickrinnian|Flickshahn|Flicksham|Flickshan|Flickshane|Flickshank|Flickshanth|Flicksheen|Flicksheens|Flickshen|Flickshenman|Flickshian|Flickshin|Flickshion|Flickshon|Flicksion|Flickson|Flickshorn|Flickstahn|Flickstein|Flickxion|Flickzion|Fliction|Flictionon|Flijnen|Flikshun|Flikstian|Flikxion|Flikzion|Flinchin|Flipchin|Flipchian|Flippshen|Flipschen|Flischin|Flisham|Flishan|Flishen|Flitchian|Flitchin|Flitchinan|Flitian|Flitschen|Flixton|Fleekshian|Flickshone|Flixieman|Flicksheim|Flickshinen|Flieckshien|Flixioon|Flickshim|Flitscheon|Flitschernard|Flitschian|Flixam|Flixan|Flixbyan|Flixchan|Flixchen|Flixen|Flixgen|Flixheen|Flixia|Flixian|Flickin|Flixidan|Flixie|Flixien|Flixim|Flixing|Flixingen|Flixion|Flixionne|Flixium|Flixjan|Flixman|Flixon|Flixson|Flixten|Flixtion|Flixuen|Flixxion|Flixxon|Flixyon|Floodioxin|Fluxian|Fluxin|Fluxion|Fluxium|Fluxunian|Flykem|Flykshion|Flykshun|Flyxen|Flyxian|Flyxionn|Flyxionne|Flyxionu|Flyzion|Folicurian|Fouiches|Fuchin|Fugchin|Flickjino|Liction|Slikin|Flisker|Flick Sheenan|Flick Sheehan|Flick Sheenum|Flick Sheen'
+PATTERN='FLECTION|FLICTION|Felican|Felician|Felictian|Felixian|Flaccion|Flagellian|Flakirin|Flakiron|Flaxian|Flixnian|Flaxion|Flaxon|Flaxson|Fleckession|Fleckstown|Flection|Flectional|Fleekshin|Fleishness|Fleishon|Flixenian|Fluxinian|Fleixing|Fleksheen|Flekshun|Fleksian|Fleksion|Flekzion|Fletchen|Fletcher|Fletchian|Fletchion|Fletian|Fletuchin|Flexian|Flexion|Flexition|Flexiton|Flexivision|Flextion|Flexumian|Fliccine|Flickditschian|Flickenden|Flickening|Flickession|Flickian|Flickiewen|Flickishin|Flicklian|Flickpnam|Flickrinnian|Flickshahn|Flicksham|Flickshan|Flickshane|Flickshank|Flickshanth|Flicksheen|Flicksheens|Flickshen|Flickshenman|Flickshian|Flickshin|Flickshion|Flickshon|Flicksion|Flickson|Flickshorn|Flickstahn|Flickstein|Flickxion|Flickzion|Fliction|Flictionon|Flijnen|Flikshun|Flikstian|Flikxion|Flikzion|Flinchin|Flipchin|Flipchian|Flippshen|Flipschen|Flischin|Flisham|Flishan|Flishen|Flitchian|Flitchin|Flitchinan|Flitian|Flitschen|Flixton|Flixenum|Fleekshian|Flickshone|Flixieman|Flicksheim|Flickshinen|Flieckshien|Flixioon|Flickshim|Flitscheon|Flitschernard|Flitschian|Flixam|Flixan|Flixbyan|Flixchan|Flixchen|Flixen|Flixgen|Flixheen|Flixia|Flixian|Flickin|Flixidan|Flixie|Flixien|Flixim|Flixin|Flixing|Flixingen|Flixion|Flixionne|Flixium|Flixjan|Flixman|Flixon|Flixson|Flixten|Flixtion|Flixuen|Flixxion|Flixxon|Flixyon|Floodioxin|Fluxian|Fluxin|Fluxion|Fluxium|Fluxunian|Flykem|Flykshion|Flykshun|Flyxen|Flyxian|Flyxionn|Flyxionne|Flyxionu|Flyzion|Folicurian|Fouiches|Fuchin|Fugchin|Flickjino|Liction|Slikin|Klixian|Flisker|Flick Sheenan|Flick Sheehan|Flick Sheenum|Flick Sheen'
 
 cleanup() {
   rm -f "$CANDIDATE_FILE" "$VIM_SCRIPT" "$MATCH_FILE"
@@ -49,7 +49,7 @@ echo "Backup complete."
 {
   echo ""
   echo "================================================================"
-  echo "Flyxion correction run — $(date '+%Y-%m-%d %H:%M:%S')"
+  echo "Flyxion correction run â€” $(date '+%Y-%m-%d %H:%M:%S')"
   echo "Backup snapshot: $BACKUP_DIR"
   echo "================================================================"
 } >> "$LOG_FILE"
@@ -247,7 +247,11 @@ while IFS= read -r -d '' file; do
         if [ -s "$MATCH_FILE" ]; then
           while IFS=$'\x01' read -r lineno before_text; do
             [ -z "$lineno" ] && continue
-            printf '  L%s: %s\n' "$lineno" "$before_text" >> "$LOG_FILE"
+            if [[ "$file" == *.json ]]; then
+              printf '  L%s: [JSON content omitted]\n' "$lineno" >> "$LOG_FILE"
+            else
+              printf '  L%s: %s\n' "$lineno" "$before_text" >> "$LOG_FILE"
+            fi
             match_count=$((match_count + 1))
           done < "$MATCH_FILE"
         fi
@@ -326,7 +330,7 @@ fi
   echo "Elapsed time         : ${SECONDS}s"
   echo ""
   echo "================================================================"
-  echo "Run complete — $(date '+%Y-%m-%d %H:%M:%S')"
+  echo "Run complete â€” $(date '+%Y-%m-%d %H:%M:%S')"
   echo "================================================================"
 } >> "$LOG_FILE"
 
