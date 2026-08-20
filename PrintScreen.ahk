@@ -23,7 +23,11 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running. 
 
-;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
+::bumpit::git commit --amend --no-edit && git push --force-with-lease
+
+::gettree::tree -I '.git|build|cache|search-cache|file-list.txt' . > file-list.txt
+
+::transferss::C:\Users\nateg\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\77E324009958DACF912D4A5555FA9EC159198590\transfers
 
 ;; standardgalactic ;;
 
@@ -447,7 +451,7 @@ return
 ::gptchat::chatgpt
 ::ccc::chatgpt
 
-::summ::A summary of the themes and topics of this conversation.
+::stt::A summary of the themes and topics of this conversation.
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
@@ -686,7 +690,6 @@ mortal(X) :- man(X).
 ::mxid::Contiguous Rolling Context Mixed Initiative Dialog
 ::noo::Contiguous Rolling Context Mixed Initiative Dialog
 ::corc::Contiguous Rolling Context Mixed Initiative Dialog
-::conc::Contiguous Rolling Context Mixed Initiative Dialog
 ::crd::Contiguous Rolling Context Mixed Initiative Dialog
 ::croll::Contiguous Rolling Context Mixed Initiative Dialog
 ;; ::md::Contiguous Rolling Context Mixed Initiative Dialog
@@ -1290,6 +1293,8 @@ return
 :*:@k::㉿ ;; sends a double tab in kali linux
 ::eqwals::====================================
 
+;; Ctrl + hjkl to move around instead of arrow keys ←↓↑→ ;;
+
 /*
 !k::Send,㉿ ;; sends a double tab in kali linux
 return
@@ -1549,6 +1554,8 @@ return
 
 ::nozone::find . -type f -name '*Zone.Identifier' -delete
 
+::no1::for f in *-1*; do mv -- "$f" "${f/-1/}"; done
+
 ;; audiobook ; audiobooks
 
 ::doit::say -o monicaspills.aiff -f mpills.txt
@@ -1750,9 +1757,19 @@ Sleep, 500
 SendInput, :wq{Enter}
 return
 
+
+::tobasic::ffmpeg -i 20260828_234913.mp4 -vf "fps=15,scale=960:-1:flags=lanczos" -loop 0 basic-prompt.gif
+
+::nometa::for f in *.tex; do t=$(mktemp); cat "$f" > "$t" && mv "$t" "$f"; done
+
 ;==============================================================
 ; LaTeX
 ;==============================================================
+
+::prevyew::find . -maxdepth 1 -type f ! -name '*.tex' -print
+
+::onlytex::find . -maxdepth 1 -type f ! -name '*.tex' -delete
+
 ::latexx::lualatex -interaction=nonstopmode main.tex
 
 ; Compile every .tex file in the directory, twice each (for refs/TOC).
@@ -1791,6 +1808,37 @@ return
 ::sloww::for f in *.mp3; do ffmpeg -y -i "$f"  -filter_complex  "asetrate=44100*0.95,atempo=1.03,aresample=44100"  -q:a 0  "temp_$f"  &&  mv "temp_$f" "$f"  ||  rm -f "temp_$f"; done
 
 ::makesmaller::for f in *.mp3; do ffmpeg -i "$f" -vn -ab 64k "compressed_$f" && mv "compressed_$f" "$f"; done
+
+::smallerr::
+(
+find . -type f -iname '*.mp3' -not -path './.git/*' -print0 |
+while IFS= read -r -d '' f; do
+    br="$(ffprobe -v error \
+        -select_streams a:0 \
+        -show_entries stream=bit_rate \
+        -of csv=p=0 "$f" | head -n1)"
+
+    case "$br" in
+        ''|*[!0-9]*) continue ;;
+    esac
+
+    if [ "$br" -gt 70000 ]; then
+        tmp="$(dirname "$f")/.compressed_$(basename "$f")"
+
+        echo "$((br / 1000)) kbps -> 64 kbps : $f"
+
+        if ffmpeg -nostdin -hide_banner -loglevel error -y \
+            -i "$f" -vn -b:a 64k "$tmp"
+        then
+            mv -- "$tmp" "$f"
+        else
+            echo "FAILED: $f" >&2
+            rm -f -- "$tmp"
+        fi
+    fi
+done`n
+)
+return
 
 ;==========================================================
 ; Rust
@@ -2541,6 +2589,9 @@ return
 ::cprompt::PROMPT=C:\$G
 ::C:\>::set PROMPT=C:\$G
 
+::git prompt::PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ 'cst
+::gitprompt::PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ 'cst
+
 ::macprompt::PS1="%n@%m %1~ %# "
 
 ::normal prompt::PS1="\[\e[38;5;202m\]$(byobu_prompt_status)\[\e[38;5;245m\]\u\[\e[00m\]@\[\e[38;5;172m\]\h\[\e[00m\]:\[\e[38;5;5m\]\w\[\e[00m\]$(byobu_prompt_symbol) "
@@ -2611,7 +2662,8 @@ Return
 
 ;;  Programming Shortcuts
 ::Haplo::Haplopraxis
-::clonemy::git clone https://github.com/standardgalactic/Haplopraxis
+::clonemy::git clone git@github.com:standardgalactic/active-inference.git
+
 ::ratelimit::curl -I https://api.github.com/users/standardgalactic
 
 ;;  Desktops
@@ -2643,7 +2695,7 @@ Return
 ::mymac::ssh mecha@192.168.2.233 ;os/10 shell zsh, brew
 
 ::flyx::ssh flyxion@172.23.111.255
-::astro::ssh aardvark@192.168.2.73
+::astroa::ssh aardvark@192.168.2.73
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
@@ -3165,12 +3217,12 @@ PrintScreen::
 ::catually::actually
 ::antything::anything
 ::aynthing::anything
-::concat::concatenate
 ::ep::Easy peasy. 
 ::owrks::works
 ::exit90::exit()
 :*:exit  ::exit()
 ::exiut::exit
+::sjon::json
 ::pygrame::pygame
 ::exitt::exit
 ::exti::exit
