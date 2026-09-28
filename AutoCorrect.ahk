@@ -394,7 +394,6 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::eclairs::éclairs
 ::eclat::éclat
 ::el nino::El Niño
-::elan::élan
 ::emigre::émigré
 ::emigres::émigrés
 ::entree::entrée
