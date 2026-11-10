@@ -21,7 +21,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Notepad Ctrl+S to save
 ; F8 to refresh the script.
 
-::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running. 
+::testt::; Control+F8 does them in one step but I barely ever use it. It does nothing if the script isn't already running.
 
 ::bumpit::git commit --amend --no-edit && git push --force-with-lease
 
@@ -30,6 +30,10 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::transferss::C:\Users\nateg\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\77E324009958DACF912D4A5555FA9EC159198590\transfers
 
 ;; standardgalactic ;;
+
+::ghw::gh workflow run pages.yml --repo standardgalactic/correspondence --ref main
+
+::ghr::gh run list --repo standardgalactic/correspondence --workflow pages.yml --limit 3
 
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
 
@@ -1122,7 +1126,7 @@ xor_eq
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
 
-::sa::{,,,,,,,,,,,,,,,,,,,,,,,,,}
+::sgau::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
 ; a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
 ; ,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2615,7 +2619,7 @@ return
 ::xwolf::Exit[]
 
 ::wolf::wolframscript
-::wo::
+::wodr::
 
 ::startgui::explorer.exe "c:\users\Mechachleopteryx\.ubuntu"
 ::startgraphical::powershell.exe -command "invoke-item c:\users\Mechachleopteryx\.ubuntu\ubuntu.lnk"
