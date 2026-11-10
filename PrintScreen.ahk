@@ -1122,7 +1122,7 @@ xor_eq
 ;; llast ;; last loop(?) ;; exit status ;; did it work?  -- 0 indicates success; 1 +, failure
 ::lastcommand::echo $?`n
 
-::sa::{,,,,,,,,,,,,,,,,,,,,,,,,,}
+::sgau::{,,,,,,,,,,,,,,,,,,,,,,,,,}
 
 ; a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z
 ; ,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2615,7 +2615,7 @@ return
 ::xwolf::Exit[]
 
 ::wolf::wolframscript
-::wo::
+::wodr::
 
 ::startgui::explorer.exe "c:\users\Mechachleopteryx\.ubuntu"
 ::startgraphical::powershell.exe -command "invoke-item c:\users\Mechachleopteryx\.ubuntu\ubuntu.lnk"
