@@ -31,9 +31,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;; standardgalactic ;;
 
-::ghw::gh workflow run pages.yml --repo standardgalactic/correspondence --ref main
+::ghw::gh workflow run pages.yml --repo standardgalactic/research --ref main
 
-::ghr::gh run list --repo standardgalactic/correspondence --workflow pages.yml --limit 3
+::ghr::gh run list --repo standardgalactic/research --workflow pages.yml --limit 5
 
 ::makecolors::ffmpeg -loop 1 -i ready-to-play.png -vf "hue=h='2*PI*t':s=1" -t 10 -r 10 output_color_wheel.gif
 
